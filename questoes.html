@@ -940,10 +940,16 @@ async function abrirArea(slug) {
   // Show question view
   document.getElementById('questionView').style.display = 'block';
 
-  // Show filter mode + streak
+  // Show filter mode + streak (view only, não incrementa)
   document.getElementById('filterMode').style.display = 'flex';
   document.getElementById('streakBar').style.display = '';
-  atualizarStreak();
+  // Só mostra o streak salvo, sem incrementar
+  const streak = JSON.parse(localStorage.getItem(STREAK_KEY) || '{"count":0,"ultimo":"","dias":{}}');
+  if (streak.count > 0) {
+    document.getElementById('streakCount').textContent = streak.count;
+    const pct = Math.min(100, (streak.count / 30) * 100);
+    document.getElementById('streakFill').style.width = pct + '%';
+  }
 
   // Init question state
   questoesFiltradas = [...questoes];
@@ -1240,6 +1246,9 @@ function confirmAnswer() {
 
   // Registrar no log de atividades
   addLogEntry(q, isCorrect, selectedLetra);
+
+  // Streak — só incrementa quando realmente responde
+  atualizarStreak();
 
   // Gerenciar revisão espaçada
   gerenciarRevisao(q, isCorrect);

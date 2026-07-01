@@ -734,7 +734,12 @@ function mostrarResultado() {
 }
 
 function zerarSimulado() {
-  localStorage.removeItem(STORAGE_KEY);
+  // Só apaga o progresso DESTE simulado, não de todos
+  if (simuladoId) {
+    const p = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+    delete p[simuladoId];
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(p));
+  }
   location.reload();
 }
 

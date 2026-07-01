@@ -236,7 +236,7 @@
     <a href="simulados.html" class="quick-btn">
       <div class="icon">📝</div>
       <div class="label">Simulados</div>
-      <div class="sub">14° Simulado</div>
+      <div class="sub" id="simuladoSub">Carregando...</div>
     </a>
     <a href="desempenho.html" class="quick-btn">
       <div class="icon">📊</div>
@@ -371,6 +371,20 @@ function renderPendingReviews(progresso) {
 }
 
 document.getElementById('dataAtual').textContent = new Date().toLocaleDateString('pt-BR');
+
+// Carregar nome do último simulado dinamicamente
+fetch('data/simulados/index.json')
+  .then(r => r.json())
+  .then(lista => {
+    if (lista.length > 0) {
+      const ultimo = lista.reduce((a, b) => a.edicao > b.edicao ? a : b);
+      document.getElementById('simuladoSub').textContent = `${ultimo.nome}`;
+    } else {
+      document.getElementById('simuladoSub').textContent = 'Simulados';
+    }
+  })
+  .catch(() => { document.getElementById('simuladoSub').textContent = 'Simulados'; });
+
 renderDashboard();
 </script>
 </body>
