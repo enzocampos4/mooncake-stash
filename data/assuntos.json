@@ -1,7 +1,7 @@
 {
   "cirurgia": {
     "nome": "Cirurgia",
-    "total": 107,
+    "total": 108,
     "subcategorias": {
       "avaliacao-pre-operatoria": {
         "nome": "Avaliação Pré-Operatória",
@@ -29,7 +29,7 @@
       },
       "hernias-da-parede-abdominal": {
         "nome": "Hérnias da Parede Abdominal",
-        "total": 5
+        "total": 6
       },
       "megacolon-adquirido": {
         "nome": "Megacólon Adquirido",
@@ -57,7 +57,7 @@
       },
       "urologia": {
         "nome": "Urologia",
-        "total": 15
+        "total": 17
       },
       "vesicula-e-vias-biliares": {
         "nome": "Vesícula e Vias Biliares",
@@ -68,7 +68,7 @@
   },
   "clinica-medica": {
     "nome": "Clínica Médica",
-    "total": 146,
+    "total": 149,
     "subcategorias": {
       "cardiologia": {
         "nome": "Cardiologia",
@@ -76,19 +76,19 @@
       },
       "dermatologia": {
         "nome": "Dermatologia",
-        "total": 14
+        "total": 15
       },
       "endocrinologia": {
         "nome": "Endocrinologia",
-        "total": 7
+        "total": 8
       },
       "gastroenterologia": {
         "nome": "Gastroenterologia",
-        "total": 5
+        "total": 7
       },
       "hematologia": {
         "nome": "Hematologia",
-        "total": 15
+        "total": 16
       },
       "hepatologia": {
         "nome": "Hepatologia",
@@ -96,11 +96,11 @@
       },
       "infectologia": {
         "nome": "Infectologia",
-        "total": 7
+        "total": 6
       },
       "nefrologia": {
         "nome": "Nefrologia",
-        "total": 26
+        "total": 28
       },
       "neurologia": {
         "nome": "Neurologia",
@@ -112,7 +112,7 @@
       },
       "reumatologia": {
         "nome": "Reumatologia",
-        "total": 5
+        "total": 3
       }
     },
     "subdetalhes": {
@@ -147,7 +147,7 @@
           "Miscelânea",
           "R+ e Prova de Título"
         ],
-        "total_questoes": 14
+        "total_questoes": 15
       },
       "endocrinologia": {
         "nome": "Endocrinologia",
@@ -164,7 +164,7 @@
           "Tireotoxicose",
           "Hipoglicemia em indivíduos não diabéticos"
         ],
-        "total_questoes": 7
+        "total_questoes": 8
       },
       "gastroenterologia": {
         "nome": "Gastroenterologia",
@@ -177,7 +177,7 @@
           "Neoplasias do Sistema Digestivo",
           "Procedimentos endoscópicos"
         ],
-        "total_questoes": 5
+        "total_questoes": 7
       },
       "hepatologia": {
         "nome": "Hepatologia",
@@ -214,7 +214,7 @@
           "Hemostasia",
           "Medicina transfusional"
         ],
-        "total_questoes": 15
+        "total_questoes": 16
       },
       "infectologia": {
         "nome": "Infectologia",
@@ -242,7 +242,7 @@
           "COVID 19",
           "DST"
         ],
-        "total_questoes": 7
+        "total_questoes": 6
       },
       "nefrologia": {
         "nome": "Nefrologia",
@@ -259,7 +259,7 @@
           "Nefrolitíase",
           "Glomerulopatias"
         ],
-        "total_questoes": 26
+        "total_questoes": 28
       },
       "neurologia": {
         "nome": "Neurologia",
@@ -313,13 +313,13 @@
           "Doença relacionada à IgG4",
           "Síndrome SAPHO"
         ],
-        "total_questoes": 5
+        "total_questoes": 3
       }
     }
   },
   "ginecologia": {
     "nome": "Ginecologia",
-    "total": 61,
+    "total": 60,
     "subcategorias": {
       "ginecologia-basica": {
         "nome": "Ginecologia básica",
@@ -335,7 +335,7 @@
       },
       "infeccoes-em-ginecologia": {
         "nome": "Infecções em ginecologia",
-        "total": 9
+        "total": 8
       },
       "mastologia": {
         "nome": "Mastologia",
@@ -358,7 +358,7 @@
   },
   "obstetricia": {
     "nome": "Obstetrícia",
-    "total": 54,
+    "total": 57,
     "subcategorias": {
       "doencas-associadas-a-gestacao": {
         "nome": "Doenças associadas à gestação",
@@ -370,7 +370,7 @@
       },
       "parto": {
         "nome": "Parto",
-        "total": 28
+        "total": 29
       },
       "pre-natal": {
         "nome": "Pré-natal",
@@ -385,7 +385,7 @@
   },
   "medicina-preventiva": {
     "nome": "Medicina Preventiva",
-    "total": 105,
+    "total": 108,
     "subcategorias": {
       "epidemiologia": {
         "nome": "Epidemiologia",
@@ -393,7 +393,7 @@
       },
       "medicina-de-familia-e-comunidade": {
         "nome": "Medicina de Família e Comunidade",
-        "total": 14
+        "total": 13
       },
       "saude-do-trabalhador": {
         "nome": "Saúde do Trabalhador",
@@ -401,7 +401,7 @@
       },
       "sistema-unico-de-saude-sus": {
         "nome": "Sistema Único de Saúde (SUS)",
-        "total": 32
+        "total": 38
       },
       "etica-medica": {
         "nome": "Ética Médica",
@@ -412,15 +412,15 @@
   },
   "pediatria": {
     "nome": "Pediatria",
-    "total": 110,
+    "total": 111,
     "subcategorias": {
       "cardiologia-pediatrica": {
         "nome": "Cardiologia Pediátrica",
-        "total": 17
+        "total": 18
       },
       "emergencias-pediatricas": {
         "nome": "Emergências Pediátricas",
-        "total": 2
+        "total": 1
       },
       "gastrologia-pediatrica": {
         "nome": "Gastrologia Pediátrica",
@@ -448,7 +448,7 @@
       },
       "puericultura": {
         "nome": "Puericultura",
-        "total": 32
+        "total": 34
       },
       "reumatologia-pediatrica": {
         "nome": "Reumatologia Pediátrica",

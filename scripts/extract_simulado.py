@@ -14,17 +14,27 @@ import re
 import sys
 from pathlib import Path
 
-# Build regex for question start: "NN\t– (Estratégia MED..." or "NN.\t (Estratégia MED..."
-Q_START = re.compile(r'(\d{2})(?:\.|–)\t\s*\(Estratégia MED')
-
-# Build regex for alternatives
-ALT_PATTERN = re.compile(r'^([A-D])\)\t(.+)$', re.MULTILINE)
+# Build regex for question start: flexible format (1 or 2 digits)
+# Handles:
+#   "01\t– (Estratégia MED"  (tab + en-dash)  – 1º, 3º, 11º
+#   "01.\t (Estratégia MED"  (period + tab)   – 5º
+#   "1.\t(Estratégia MED"    (period + tab)   – 9º
+Q_START = re.compile(r'(\d{1,2})\s*(?:[.–]\s*\t|\t\s*[.–])\s*\(Estratégia MED')
 
 # Build regex for Gabarito
 GABARITO_PATTERN = re.compile(r'Gabarito:\s*([A-D])', re.MULTILINE)
 
-# Build regex for COMENTÁRIOS
-COMENTARIOS = re.compile(r'^COMENTÁRIOS:', re.MULTILINE)
+# Build regex for start of alternatives (single-line match to find their positions)
+ALT_START = re.compile(r'^([A-D])\)\t', re.MULTILINE)
+
+# Build regex for COMENTÁRIOS (flexible: plural/singular, with/without colon, with/without subtopic)
+# Also handles "RESOLUÇÃO COMENTADA" (alternative format in some 9º simulado questions)
+# Handles:
+#   "COMENTÁRIOS:" — standard
+#   "COMENTÁRIOS (SUBTÓPICO – PROF):" — with subtopic
+#   "COMENTÁRIO" — singular, no colon
+#   "RESOLUÇÃO COMENTADA" — alternative format
+COMENTARIOS_PATTERN = re.compile(r'^\s*(?:COMENTÁRIOS?(?:\s*\([^)]*\))?:?\s*\n|RESOLUÇÃO COMENTADA\s*\n)', re.MULTILINE)
 
 # Categories and subcategories from Estratégia MED subject divisions
 AREAS_MAP = {
@@ -99,10 +109,10 @@ def split_questions(full_text):
 
 def parse_header(block):
     """Parse the question header and return (area, subarea, enunciado)."""
-    # Extract the parenthesized part - handles both "NN\t– (Estratégia" and "NN.\t (Estratégia"
-    paren_match = re.match(r'\d{2}(?:\.|–)\t\s*\((Estratégia MED[^)]+)\)\s*(.*)', block, re.DOTALL)
+    # Extract the parenthesized part - flexible format (handles both tab+dash and period+tab)
+    paren_match = re.match(r'\d{1,2}\s*(?:[.–]\s*\t|\t\s*[.–])\s*\((Estratégia MED[^)]+)\)\s*(.*)', block, re.DOTALL)
     if not paren_match:
-        paren_match = re.match(r'\d{2}\s*[.–]\s*\((Estratégia MED[^)]+)\)\s*(.*)', block, re.DOTALL)
+        paren_match = re.match(r'\d{1,2}\s*[.–]\s*\((Estratégia MED[^)]+)\)\s*(.*)', block, re.DOTALL)
     
     if not paren_match:
         return None, None, block
@@ -118,8 +128,8 @@ def parse_header(block):
     else:
         enunciado = after_header.strip()
     
-    # Also remove "COMENTÁRIOS:" if it somehow made it into enunciado
-    coment_match = re.search(r'\nCOMENTÁRIOS:', enunciado)
+    # Also remove "COMENTÁRIOS:" or "COMENTÁRIO" or "RESOLUÇÃO COMENTADA" if it somehow made it into enunciado
+    coment_match = re.search(r'\n\s*(?:COMENTÁRIOS?:?[\s:]|COMENTÁRIOS?\s*\([^)]*\)[\s:]|RESOLUÇÃO COMENTADA)', enunciado)
     if coment_match:
         enunciado = enunciado[:coment_match.start()].strip()
     
@@ -159,13 +169,31 @@ def parse_header(block):
 
 
 def parse_alternatives(block):
-    """Parse alternatives from the question block."""
+    """Parse alternatives from the question block, handling multi-line alternatives."""
     alternatives = {}
+    lines = block.split('\n')
+    current_letter = None
+    current_parts = []
     
-    for match in ALT_PATTERN.finditer(block):
-        letter = match.group(1)
-        text = match.group(2).strip()
-        alternatives[letter] = text
+    for line in lines:
+        alt_match = ALT_START.match(line)
+        if alt_match:
+            # Save previous alternative before starting a new one
+            if current_letter:
+                alternatives[current_letter] = ' '.join(current_parts).strip()
+            current_letter = alt_match.group(1)
+            # Everything after "X)\t" on the first line
+            first_text = line[alt_match.end():].strip()
+            current_parts = [first_text]
+        elif current_letter and line.strip():
+            # Continuation line — but stop if we hit COMENTÁRIOS, RESOLUÇÃO COMENTADA or Gabarito
+            if re.match(r'^\s*(?:COMENTÁRIOS?:?\s*\(|COMENTÁRIOS?:?[\s:]|RESOLUÇÃO COMENTADA|Gabarito:)', line):
+                break
+            current_parts.append(line.strip())
+    
+    # Save the last alternative
+    if current_letter:
+        alternatives[current_letter] = ' '.join(current_parts).strip()
     
     return alternatives
 
@@ -179,20 +207,19 @@ def get_correct_answer(block):
 
 
 def get_explanation(block):
-    """Extract the explanation/COMENTÁRIOS section."""
-    # Find COMENTÁRIOS section
-    match = COMENTARIOS.search(block)
+    """Extract the explanation/COMENTÁRIOS section (handles singular/plural, with/without colon)."""
+    match = COMENTARIOS_PATTERN.search(block)
     if not match:
         return None
     
-    # Extract everything from COMENTÁRIOS until the end or next question
+    # Extract everything after COMENTÁRIOS header
     start = match.end()
-    # Remove "Gabarito: X" from the explanation for cleaner storage
     explanation = block[start:].strip()
-    # Also remove "Gabarito: X" at the end if present
+    
+    # Remove trailing "Gabarito: X" if present
     explanation = GABARITO_PATTERN.sub('', explanation).strip()
     
-    return explanation
+    return explanation if explanation else None
 
 
 def extract_images_from_pdf(pdf_path, output_dir, simulado_id, questao_num, page_range):
