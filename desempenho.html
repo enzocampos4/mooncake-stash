@@ -204,6 +204,11 @@ function getAreaName(id) {
 async function carregar() {
   const sub = document.getElementById('pageSub');
   const content = document.getElementById('content');
+  const log = JSON.parse(localStorage.getItem('hermesmed_log') || '[]');
+  const hoje = new Date().toISOString().split('T')[0];
+  const hojeLog = log.filter(e => e.timestamp?.startsWith(hoje));
+  const logAcertos = hojeLog.filter(e => e.acertou === true).length;
+  const logErros = hojeLog.filter(e => e.acertou === false).length;
 
   // 1. Progresso de questões avulsas
   const progQuestoes = JSON.parse(localStorage.getItem('hermesmed_progresso') || '{}');
@@ -237,7 +242,7 @@ async function carregar() {
   } catch {}
 
   // ─── Consolidar ───
-  // Questões avulsas
+  // Questões avulsas — suporta formato booleano puro E objeto {acertou: bool}
   const areasStats = {};
   for (const area of AREAS) {
     const questoes = areasData[area.id] || [];
@@ -245,8 +250,15 @@ async function carregar() {
     let acertos = 0, erros = 0, respondidas = 0;
     for (const q of questoes) {
       const r = progresso[String(q.id)];
-      if (r === true || r === 'true') { acertos++; respondidas++; }
-      else if (r === false || r === 'false') { erros++; respondidas++; }
+      if (r === undefined || r === null) continue; // não respondida
+      respondidas++;
+      let acertou = false;
+      if (r === true || r === 'true') acertou = true;
+      else if (r === false || r === 'false') acertou = false;
+      else if (typeof r === 'object') acertou = r.acertou === true || r.acertou === 'true';
+      else continue;
+      if (acertou) acertos++;
+      else erros++;
     }
     areasStats[area.id] = {
       total: questoes.length,
@@ -307,7 +319,7 @@ async function carregar() {
   sub.textContent = `${totalRespondidas} questões respondidas`;
 
   if (totalRespondidas === 0) {
-    content.innerHTML = `
+    let emptyHtml = `
       <div class="empty-state">
         <div class="icon">📊</div>
         <h3>Nenhum dado ainda</h3>
@@ -320,8 +332,76 @@ async function carregar() {
             📝 Fazer simulado
           </a>
         </div>
-      </div>
-    `;
+      </div>`;
+
+    // Se tem log de hoje, mostra mesmo sem progresso consolidado
+    if (hojeLog.length > 0) {
+      const pctHoje = Math.round(logAcertos / hojeLog.length * 100);
+      emptyHtml += `<div class="card">
+        <h2>📅 Hoje</h2>
+        <div class="stats-grid">
+          <div class="stat-item">
+            <div class="stat-num" style="color:var(--correct)">${logAcertos}</div>
+            <div class="stat-label">Acertos</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num" style="color:var(--wrong)">${logErros}</div>
+            <div class="stat-label">Erros</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num" style="color:var(--muted)">${hojeLog.length}</div>
+            <div class="stat-label">Questões</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num" style="color:var(--accent)">${pctHoje}%</div>
+            <div class="stat-label">Aproveitamento</div>
+          </div>
+        </div>
+        <div style="font-size:0.75rem;color:var(--textSecondary);margin-top:8px;text-align:center;">
+          ⚡ Registrado no log de atividades
+        </div>
+      </div>`;
+    }
+
+    // Últimos 7 dias (se houver log)
+    if (log.length > 0) {
+      const ultimos7 = [...Array(7)].map((_, i) => {
+        const d = new Date(Date.now() - i * 86400000);
+        return d.toISOString().split('T')[0];
+      }).reverse();
+      const diasAtividade = ultimos7.map(dia => {
+        const qs = log.filter(e => e.timestamp?.startsWith(dia));
+        return { dia, total: qs.length, acertos: qs.filter(e => e.acertou === true).length, erros: qs.filter(e => e.acertou === false).length };
+      });
+      emptyHtml += `<div class="card"><h2>📈 Últimos 7 dias</h2>
+        <div style="display:flex;gap:4px;align-items:flex-end;height:60px;padding:8px 0;">
+          ${diasAtividade.map(d => {
+            const h = d.total > 0 ? Math.min(50, d.total * 5) : 2;
+            const cor = d.total > 0 ? (d.acertos >= d.erros ? 'var(--correct)' : 'var(--wrong)') : 'var(--muted)';
+            const diaLabel = new Date(d.dia + 'T12:00:00').toLocaleDateString('pt-BR', { weekday: 'short' });
+            return `<div style="flex:1;text-align:center;">
+              <div style="height:${h}px;background:${cor};border-radius:4px 4px 0 0;margin:0 auto;max-width:28px;opacity:${d.total > 0 ? 0.9 : 0.3};transition:height 0.3s;"></div>
+              <div style="font-size:0.6rem;color:var(--muted);margin-top:4px;">${diaLabel}</div>
+              <div style="font-size:0.65rem;color:var(--text);font-weight:600;">${d.total}</div>
+            </div>`;
+          }).join('')}
+        </div>
+        <div style="text-align:center;font-size:0.75rem;color:var(--muted);margin-top:4px;">
+          Total no log: <strong style="color:var(--text)">${log.length}</strong> eventos
+          · <strong style="color:var(--correct)">${log.filter(e => e.acertou === true).length}</strong> acertos
+          · <strong style="color:var(--wrong)">${log.filter(e => e.acertou === false).length}</strong> erros
+        </div>
+      </div>`;
+    }
+
+    // Botão config
+    emptyHtml += `<div style="text-align:center;padding:8px 0;">
+      <button onclick="toggleSyncPanel()" style="background:none;border:none;color:var(--muted);font-size:0.78rem;cursor:pointer;padding:8px 16px;border-radius:8px;">
+        ⚙️ Configurações e sincronia
+      </button>
+    </div>`;
+
+    content.innerHTML = emptyHtml;
     return;
   }
 
@@ -448,12 +528,6 @@ async function carregar() {
   }
 
   // ─── Atividade recente (do log) ───
-  const log = JSON.parse(localStorage.getItem('hermesmed_log') || '[]');
-  const hoje = new Date().toISOString().split('T')[0];
-  const hojeLog = log.filter(e => e.timestamp?.startsWith(hoje));
-  const logAcertos = hojeLog.filter(e => e.acertou === true).length;
-  const logErros = hojeLog.filter(e => e.acertou === false).length;
-
   if (hojeLog.length > 0) {
     html += `<div class="card">
       <h2>📅 Hoje</h2>
