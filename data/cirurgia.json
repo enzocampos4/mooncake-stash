@@ -18,7 +18,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Obstrução intestinal"
     },
     {
       "id": "s1-008",
@@ -40,7 +41,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Proctologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Fissura anal"
     },
     {
       "id": "s1-013",
@@ -60,7 +62,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Apendicite aguda"
     },
     {
       "id": "s1-019",
@@ -80,7 +83,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Diverticulite aguda"
     },
     {
       "id": "s1-024",
@@ -100,7 +104,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Cirurgia Infantil",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Estenose hipertrófica de piloro"
     },
     {
       "id": "s1-031",
@@ -120,7 +125,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Vesícula e Vias Biliares",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Coledocolitíase"
     },
     {
       "id": "s1-038",
@@ -140,7 +146,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Hérnias da Parede Abdominal",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Hérnia inguinal"
     },
     {
       "id": "s1-042",
@@ -162,7 +169,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s1-047",
@@ -184,7 +192,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Hiperplasia prostática benigna"
     },
     {
       "id": "s1-053",
@@ -204,7 +213,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Complicações Pós-Operatórias",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Complicações respiratórias"
     },
     {
       "id": "s1-058",
@@ -224,7 +234,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Hérnias da Parede Abdominal",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s1-063",
@@ -244,7 +255,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s1-068",
@@ -264,7 +276,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma cranioencefálico (TCE)"
     },
     {
       "id": "s1-074",
@@ -286,7 +299,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s1-078",
@@ -306,7 +320,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Cirurgia Torácica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s1-083",
@@ -326,7 +341,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s1-086",
@@ -346,7 +362,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s1-089",
@@ -389,7 +406,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Vesícula e Vias Biliares",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s1-098",
@@ -409,7 +427,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Vesícula e Vias Biliares",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Coledocolitíase"
     },
     {
       "id": "s11-001",
@@ -431,7 +450,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Cicatrização de Feridas",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Cicatrização por 1ª e 2ª intenção"
     },
     {
       "id": "s11-007",
@@ -451,7 +471,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s11-010",
@@ -471,7 +492,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Complicações Pós-Operatórias",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s11-014",
@@ -493,7 +515,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Vesícula e Vias Biliares",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Tumores de vias biliares"
     },
     {
       "id": "s11-021",
@@ -516,7 +539,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Vesícula e Vias Biliares",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Colelitíase e colecistite"
     },
     {
       "id": "s11-024",
@@ -536,7 +560,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Hérnias da Parede Abdominal",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Hérnia inguinal"
     },
     {
       "id": "s11-030",
@@ -598,7 +623,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s11-041",
@@ -618,7 +644,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s11-045",
@@ -640,7 +667,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s11-049",
@@ -660,7 +688,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Derrame pleural (cirúrgico)"
     },
     {
       "id": "s11-052",
@@ -703,7 +732,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s11-068",
@@ -747,7 +777,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s11-077",
@@ -767,7 +798,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Abdome agudo perfurativo"
     },
     {
       "id": "s11-085",
@@ -787,7 +819,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s11-090",
@@ -825,7 +858,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Abdome agudo perfurativo"
     },
     {
       "id": "s14-009",
@@ -846,7 +880,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Cirurgia Torácica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Derrame pleural (cirúrgico)"
     },
     {
       "id": "s14-023",
@@ -868,7 +903,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Proctologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Hemorroidas"
     },
     {
       "id": "s14-059",
@@ -886,7 +922,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s14-064",
@@ -925,7 +962,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Apendicite aguda"
     },
     {
       "id": "s14-085",
@@ -946,7 +984,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Hérnias da Parede Abdominal",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Hérnia inguinal"
     },
     {
       "id": "s14-091",
@@ -967,7 +1006,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Complicações Pós-Operatórias",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Infecção de sítio cirúrgico"
     },
     {
       "id": "s14-095",
@@ -994,7 +1034,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Apendicite aguda"
     },
     {
       "id": "s3-004",
@@ -1014,7 +1055,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Hérnias da Parede Abdominal",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Hérnia inguinal"
     },
     {
       "id": "s3-010",
@@ -1036,7 +1078,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s3-015",
@@ -1056,7 +1099,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Cirurgia Torácica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s3-021",
@@ -1076,7 +1120,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Obstrução intestinal"
     },
     {
       "id": "s3-028",
@@ -1096,7 +1141,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma raquimedular"
     },
     {
       "id": "s3-033",
@@ -1116,7 +1162,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s3-040",
@@ -1136,7 +1183,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s3-045",
@@ -1156,7 +1204,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s3-051",
@@ -1176,7 +1225,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s3-058",
@@ -1199,7 +1249,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Abdome agudo perfurativo"
     },
     {
       "id": "s3-063",
@@ -1219,7 +1270,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s3-068",
@@ -1239,7 +1291,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Complicações Pós-Operatórias",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Infecção de sítio cirúrgico"
     },
     {
       "id": "s3-074",
@@ -1259,7 +1312,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Princípios da Anestesiologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Anestesia geral"
     },
     {
       "id": "s3-079",
@@ -1279,7 +1333,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma vascular"
     },
     {
       "id": "s3-084",
@@ -1299,7 +1354,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Complicações Pós-Operatórias",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Infecção de sítio cirúrgico"
     },
     {
       "id": "s3-088",
@@ -1319,7 +1375,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Vesícula e Vias Biliares",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Coledocolitíase"
     },
     {
       "id": "s3-090",
@@ -1339,7 +1396,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Proctologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Fissura anal"
     },
     {
       "id": "s3-092",
@@ -1381,7 +1439,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s3-098",
@@ -1403,7 +1462,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s5-004",
@@ -1425,7 +1485,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma vascular"
     },
     {
       "id": "s5-008",
@@ -1445,7 +1506,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s5-029",
@@ -1465,7 +1527,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s5-035",
@@ -1485,7 +1548,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Abdome agudo perfurativo"
     },
     {
       "id": "s5-039",
@@ -1511,7 +1575,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Obstrução intestinal"
     },
     {
       "id": "s5-044",
@@ -1534,7 +1599,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s5-049",
@@ -1554,7 +1620,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s5-060",
@@ -1574,7 +1641,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s5-065",
@@ -1596,7 +1664,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Obstrução intestinal"
     },
     {
       "id": "s5-067",
@@ -1618,7 +1687,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Abdome agudo perfurativo"
     },
     {
       "id": "s5-070",
@@ -1641,7 +1711,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Litíase urinária"
     },
     {
       "id": "s5-072",
@@ -1663,7 +1734,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Vesícula e Vias Biliares",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s5-074",
@@ -1687,7 +1759,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Avaliação Pré-Operatória",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Risco cirúrgico (ASA, Goldman, Lee)"
     },
     {
       "id": "s5-076",
@@ -1707,7 +1780,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Proctologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Fissura anal"
     },
     {
       "id": "s5-082",
@@ -1727,7 +1801,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s5-084",
@@ -1749,7 +1824,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s5-087",
@@ -1771,7 +1847,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Princípios da Anestesiologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Anestesia local e sedação"
     },
     {
       "id": "s5-094",
@@ -1791,7 +1868,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Cirurgia Torácica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Derrame pleural (cirúrgico)"
     },
     {
       "id": "s5-096",
@@ -1811,7 +1889,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s5-099",
@@ -1854,7 +1933,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-017",
@@ -1874,7 +1954,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Abdome agudo perfurativo"
     },
     {
       "id": "s9-023",
@@ -1896,7 +1977,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Avaliação Pré-Operatória",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-024",
@@ -1918,7 +2000,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Cirurgia Torácica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-030",
@@ -1938,7 +2021,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-034",
@@ -1961,7 +2045,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma cranioencefálico (TCE)"
     },
     {
       "id": "s9-043",
@@ -1983,7 +2068,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Hérnias da Parede Abdominal",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Hérnia inguinal"
     },
     {
       "id": "s9-046",
@@ -2003,7 +2089,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-048",
@@ -2026,7 +2113,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Litíase urinária"
     },
     {
       "id": "s9-054",
@@ -2048,7 +2136,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-063",
@@ -2068,7 +2157,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-065",
@@ -2090,7 +2180,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Apendicite aguda"
     },
     {
       "id": "s9-071",
@@ -2112,7 +2203,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Trauma",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s9-078",
@@ -2135,7 +2227,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-084",
@@ -2158,7 +2251,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Complicações Pós-Operatórias",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-090",
@@ -2180,7 +2274,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Hiperplasia prostática benigna"
     },
     {
       "id": "s9-091",
@@ -2200,7 +2295,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Obstrução intestinal"
     },
     {
       "id": "s9-093",
@@ -2220,7 +2316,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-097",
@@ -2242,7 +2339,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urologia",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": ""
     },
     {
       "id": "s9-099",
@@ -2262,7 +2360,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Diverticulite aguda"
     }
   ]
 }

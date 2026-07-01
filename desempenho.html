@@ -81,6 +81,101 @@
   td { padding: 6px 4px; border-bottom: 1px solid rgba(255,255,255,0.03); }
   .td-certo { color: var(--correct); font-weight: 700; }
   .td-errado { color: var(--wrong); font-weight: 700; }
+
+  /* ─── Drill-down hierárquico (área → subcategoria → tópico) ─── */
+  .tree-area {
+    margin-bottom: 14px;
+    border-radius: 10px;
+    background: rgba(255,255,255,0.025);
+    overflow: hidden;
+  }
+  .tree-area-header {
+    display: flex; align-items: center; gap: 8px;
+    padding: 10px 12px; cursor: pointer;
+    transition: background 0.15s;
+    user-select: none;
+  }
+  .tree-area-header:hover { background: rgba(255,255,255,0.04); }
+  .tree-area-header .caret {
+    font-size: 0.8rem; color: var(--muted);
+    transition: transform 0.2s; min-width: 14px;
+  }
+  .tree-area-header.expanded .caret { transform: rotate(90deg); }
+  .tree-area-header .name { font-weight: 700; flex: 1; font-size: 0.95rem; }
+  .tree-area-header .pct {
+    font-weight: 800; font-size: 0.92rem;
+    color: var(--correct);
+    padding: 2px 8px; border-radius: 6px;
+    background: rgba(52,199,89,0.12);
+  }
+  .tree-area-header .pct.warn { color: var(--yellow); background: rgba(255,159,10,0.12); }
+  .tree-area-header .pct.bad { color: var(--wrong); background: rgba(255,59,48,0.12); }
+  .tree-area-header .meta { color: var(--muted); font-size: 0.74rem; }
+  .tree-row {
+    display: flex; align-items: center; gap: 6px;
+    padding: 7px 12px 7px 32px; cursor: pointer;
+    font-size: 0.85rem;
+    transition: background 0.15s;
+    user-select: none;
+  }
+  .tree-row:hover { background: rgba(124,92,252,0.06); }
+  .tree-row .caret { font-size: 0.72rem; color: var(--muted); min-width: 12px; }
+  .tree-row.expanded .caret { transform: rotate(90deg); display: inline-block; }
+  .tree-row .name { flex: 1; }
+  .tree-row .meta { color: var(--muted); font-size: 0.74rem; }
+  .tree-row .pct {
+    font-weight: 700; font-size: 0.82rem;
+    color: var(--correct);
+  }
+  .tree-row .pct.warn { color: var(--yellow); }
+  .tree-row .pct.bad { color: var(--wrong); }
+  .tree-row .pct.muted { color: var(--muted); }
+  .tree-row .mini-bar {
+    height: 6px; width: 60px; border-radius: 3px;
+    background: rgba(255,255,255,0.06); overflow: hidden;
+  }
+  .tree-row .mini-bar .fill {
+    height: 100%; border-radius: 3px;
+  }
+  .tree-row .mini-bar .fill.good { background: linear-gradient(135deg, var(--correct), #2bac4a); }
+  .tree-row .mini-bar .fill.warn { background: linear-gradient(135deg, var(--yellow), #e0890a); }
+  .tree-row .mini-bar .fill.bad { background: linear-gradient(135deg, var(--wrong), #cc2f26); }
+  /* Nível 3 — tópico específico (drill-down) */
+  .tree-leaf {
+    padding: 5px 12px 5px 64px;
+    font-size: 0.78rem; color: var(--text);
+    border-top: 1px solid rgba(255,255,255,0.03);
+    display: flex; align-items: center; gap: 8px;
+  }
+  .tree-leaf .dot {
+    width: 5px; height: 5px; border-radius: 50%;
+    background: var(--muted); flex-shrink: 0;
+  }
+  .tree-leaf .name { flex: 1; opacity: 0.95; }
+  .tree-leaf .meta { color: var(--muted); font-size: 0.7rem; }
+  .tree-leaf .pct {
+    font-weight: 700;
+    color: var(--correct);
+  }
+  .tree-leaf .pct.warn { color: var(--yellow); }
+  .tree-leaf .pct.bad { color: var(--wrong); }
+  .tree-leaf .pct.muted { color: var(--muted); }
+  .tree-children {
+    display: none;
+    border-top: 1px solid rgba(255,255,255,0.04);
+  }
+  .tree-children.open { display: block; }
+  .tree-sub-sub {
+    display: none;
+    background: rgba(124,92,252,0.03);
+    border-left: 2px solid var(--accent2);
+    margin-left: 24px;
+  }
+  .tree-sub-sub.open { display: block; }
+  .tree-empty {
+    padding: 10px 12px 10px 64px;
+    font-size: 0.74rem; color: var(--muted); font-style: italic;
+  }
   
   /* ─── Sim card ─── */
   .sim-item {
@@ -205,6 +300,120 @@ function getAreaName(id) {
   return mapAreaId[id] || id;
 }
 
+// ─── Render helpers: drill-down hierárquico de desempenho ───
+function pctClass(pct, total) {
+  if (total === 0) return 'muted';
+  if (pct >= 70) return '';
+  if (pct >= 40) return 'warn';
+  return 'bad';
+}
+function pctText(pct, total) {
+  if (total === 0) return '—';
+  return pct + '%';
+}
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }[c]));
+}
+
+function renderTreeArea(area, st, subdetalhes_globais) {
+  const areaPctCls = pctClass(st.pct, st.respondidas);
+  let html = `
+    <div class="tree-area" data-area="${escapeHtml(area.id)}">
+      <div class="tree-area-header" onclick="toggleArea(this)">
+        <span class="caret">▶</span>
+        <span class="name">${area.icon} ${escapeHtml(area.name)}</span>
+        <span class="meta">${st.acertos}/${st.respondidas}</span>
+        <span class="pct ${areaPctCls}">${pctText(st.pct, st.respondidas)}</span>
+      </div>
+      <div class="tree-children" data-area-children="${escapeHtml(area.id)}">`;
+
+  // Subáreas ordenadas por pior aproveitamento
+  const subEntries = Object.entries(st.subareas)
+    .sort((a, b) => {
+      // Sem resposta (respondidas=0) vão pro final — não tem dado útil
+      const ta = a[1].total, tb = b[1].total;
+      if (!ta && !tb) return a[0].localeCompare(b[0]);
+      if (!ta) return 1;
+      if (!tb) return -1;
+      return (a[1].acertos / a[1].total) - (b[1].acertos / b[1].total);
+    });
+
+  for (const [subNome, subSt] of subEntries) {
+    const subSlug = slugifySub(subNome);
+    const subdet = subdetalhes_globais[subSlug] || null;
+    const hasDrillDown = subdet && Array.isArray(subdet.subcategorias) && subdet.subcategorias.length > 0;
+    const subPct = subSt.total > 0 ? Math.round(subSt.acertos / subSt.total * 100) : 0;
+    const subCls = pctClass(subPct, subSt.total);
+    const fillCls = subCls === '' ? 'good' : subCls === 'warn' ? 'warn' : subCls === 'bad' ? 'bad' : 'warn';
+    const fillW = subSt.total > 0 ? Math.round(subPct) : 0;
+    html += `
+      <div class="tree-row" data-sub="${escapeHtml(subSlug)}" onclick="toggleSub(this)">
+        <span class="caret">${hasDrillDown ? '▶' : '·'}</span>
+        <span class="name">${escapeHtml(subNome)}</span>
+        <span class="meta">${subSt.acertos}/${subSt.total}</span>
+        <div class="mini-bar"><div class="fill ${fillCls}" style="width:${fillW}%"></div></div>
+        <span class="pct ${subCls}">${pctText(subPct, subSt.total)}</span>
+      </div>`;
+
+    // Nível 3 — drill-down apenas se há subdetalhes E há sub_subs respondidas
+    if (hasDrillDown) {
+      html += `<div class="tree-sub-sub" data-sub-children="${escapeHtml(subSlug)}">`;
+      // Lista cada sub-subcategoria, agregando stats de subSt.sub_subs
+      const subSubEntries = subdet.subcategorias
+        .map(nome => ({ nome, stats: subSt.sub_subs[nome] || null }))
+        .sort((a, b) => {
+          const ta = a.stats?.total || 0, tb = b.stats?.total || 0;
+          if (!ta && !tb) return a.nome.localeCompare(b.nome);
+          if (!ta) return 1; if (!tb) return -1;
+          return (a.stats.acertos/ta) - (b.stats.acertos/tb);
+        });
+      let anyLeaf = false;
+      for (const item of subSubEntries) {
+        if (!item.stats) continue; // sem questão respondida não mostra linha
+        anyLeaf = true;
+        const sp = item.stats.total > 0 ? Math.round(item.stats.acertos / item.stats.total * 100) : 0;
+        const sCls = pctClass(sp, item.stats.total);
+        html += `
+          <div class="tree-leaf">
+            <span class="dot"></span>
+            <span class="name">${escapeHtml(item.nome)}</span>
+            <span class="meta">${item.stats.acertos}/${item.stats.total}</span>
+            <span class="pct ${sCls}">${pctText(sp, item.stats.total)}</span>
+          </div>`;
+      }
+      if (!anyLeaf) {
+        html += `<div class="tree-empty">Sem questões classificadas nesse tópico ainda</div>`;
+      }
+      html += `</div>`;
+    }
+  }
+
+  html += `</div></div>`;
+  return html;
+}
+
+function slugifySub(nome) {
+  return String(nome).toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+function toggleArea(headerEl) {
+  const area = headerEl.parentElement;
+  const children = area.querySelector('[data-area-children]');
+  const expanded = headerEl.classList.toggle('expanded');
+  children.classList.toggle('open', expanded);
+}
+function toggleSub(rowEl) {
+  const subSlug = rowEl.dataset.sub;
+  const children = rowEl.parentElement.querySelector(`[data-sub-children="${CSS.escape(subSlug)}"]`);
+  if (!children) return; // sem drill-down
+  const expanded = rowEl.classList.toggle('expanded');
+  children.classList.toggle('open', expanded);
+}
+
 // ─── Carregar dados ───
 async function carregar() {
   const sub = document.getElementById('pageSub');
@@ -236,6 +445,13 @@ async function carregar() {
     } catch {}
   }
 
+  // Carregar taxonomia (assuntos.json) — para drill-down
+  let assuntosData = {};
+  try {
+    const resp = await fetch('data/assuntos.json');
+    if (resp.ok) assuntosData = await resp.json();
+  } catch {}
+
   // Carregar simulados
   let simuladoQuestoes = [];
   try {
@@ -246,31 +462,45 @@ async function carregar() {
     }
   } catch {}
 
-  // ─── Consolidar ───
-  // Questões avulsas — suporta formato booleano puro E objeto {acertou: bool}
+  // ─── Consolidar (suporta formato booleano puro E objeto {acertou: bool}) ───
   const areasStats = {};
+  // Hierarquia: areasStats[areaId] = { subareas: { nome: {total, acertos, sub_subs: {nome:{total,acertos}}}} , ... }
   for (const area of AREAS) {
     const questoes = areasData[area.id] || [];
     const progresso = progQuestoes[area.id] || {};
     let acertos = 0, erros = 0, respondidas = 0;
+    const sub_map = {};
+
     for (const q of questoes) {
       const r = progresso[String(q.id)];
-      if (r === undefined || r === null) continue; // não respondida
+      if (r === undefined || r === null) continue;
       respondidas++;
-      let acertou = false;
+      let acertou = null;
       if (r === true || r === 'true') acertou = true;
       else if (r === false || r === 'false') acertou = false;
       else if (typeof r === 'object') acertou = r.acertou === true || r.acertou === 'true';
-      else continue;
-      if (acertou) acertos++;
-      else erros++;
+      if (acertou === null) continue;
+      if (acertou) acertos++; else erros++;
+
+      // Acumular por subcategoria e sub_subarea
+      const sub_nome = q.subarea || '(sem subcategoria)';
+      const subsub_nome = q.sub_subarea || '';
+      if (!sub_map[sub_nome]) sub_map[sub_nome] = { total:0, acertos:0, sub_subs:{} };
+      sub_map[sub_nome].total++;
+      if (acertou) sub_map[sub_nome].acertos++;
+      if (subsub_nome) {
+        if (!sub_map[sub_nome].sub_subs[subsub_nome]) {
+          sub_map[sub_nome].sub_subs[subsub_nome] = { total:0, acertos:0 };
+        }
+        sub_map[sub_nome].sub_subs[subsub_nome].total++;
+        if (acertou) sub_map[sub_nome].sub_subs[subsub_nome].acertos++;
+      }
     }
     areasStats[area.id] = {
       total: questoes.length,
-      respondidas,
-      acertos,
-      erros,
-      pct: respondidas > 0 ? Math.round(acertos / respondidas * 100) : 0
+      respondidas, acertos, erros,
+      pct: respondidas > 0 ? Math.round(acertos / respondidas * 100) : 0,
+      subareas: sub_map,
     };
   }
 
@@ -438,56 +668,26 @@ async function carregar() {
     </div>
   `;
 
-  // Gráfico por área (questões avulsas)
-  const areasComDados = AREAS.filter(a => areasStats[a.id].respondidas > 0);
+  // ─── Árvore hierárquica de desempenho (Área → Subcategoria → Tópico) ───
+  const areasComDados = AREAS.filter(a => (areasStats[a.id]?.respondidas ?? 0) > 0);
   if (areasComDados.length > 0) {
-    html += `<div class="card"><h2>📊 Desempenho por área</h2>`;
-    
-    for (const area of areasComDados) {
+    html += `<div class="card"><h2>📊 Desempenho por subcategoria</h2>
+      <div style="font-size:0.74rem;color:var(--muted);margin:-2px 0 12px;">Clique pra expandir</div>`;
+
+    // Ordena áreas por pior aproveitamento (mostra o que precisa de atenção primeiro)
+    const areasOrdenadas = areasComDados.sort((a, b) => {
+      const pa = areasStats[a.id].pct;
+      const pb = areasStats[b.id].pct;
+      return pa - pb;
+    });
+
+    for (const area of areasOrdenadas) {
       const st = areasStats[area.id];
-      const pct = st.pct;
-      const totalBar = st.respondidas > 0 ? 100 : 0;
-      const pctCerto = st.respondidas > 0 ? Math.round(st.acertos / st.respondidas * 100) : 0;
-      const pctErrado = st.respondidas > 0 ? Math.round(st.erros / st.respondidas * 100) : 0;
-      
-      html += `
-        <div class="bar-area">
-          <div class="bar-header">
-            <span class="area-name">${area.icon} ${area.name}</span>
-            <span class="area-pct">${st.acertos}/${st.respondidas} · ${pct}%</span>
-          </div>
-          <div class="bar-track">
-            ${st.acertos > 0 ? `<div class="bar-correct" style="width:${pctCerto}%"></div>` : ''}
-            ${st.erros > 0 ? `<div class="bar-wrong" style="width:${pctErrado}%"></div>` : ''}
-            ${st.respondidas < st.total ? `<div class="bar-none" style="width:${100 - pctCerto - pctErrado}%"></div>` : ''}
-          </div>
-          <div class="bar-info">
-            <span>✅ ${st.acertos}</span>
-            <span>❌ ${st.erros}</span>
-            <span>📚 ${st.total - st.respondidas} pendentes</span>
-          </div>
-        </div>
-      `;
+      const areaData = assuntosData[area.id] || {};
+      const subdetalhes_globais = areaData.subdetalhes || {};
+      html += renderTreeArea(area, st, subdetalhes_globais);
     }
     html += `</div>`;
-
-    // Tabela detalhada
-    html += `<div class="card"><h2>📋 Tabela por área</h2>
-      <table>
-        <thead><tr><th>Área</th><th>Questões</th><th>Respondidas</th><th>Acertos</th><th>%</th></tr></thead>
-        <tbody>
-    `;
-    for (const area of areasComDados) {
-      const st = areasStats[area.id];
-      html += `<tr>
-        <td>${area.icon} ${area.name}</td>
-        <td>${st.total}</td>
-        <td>${st.respondidas}</td>
-        <td class="td-certo">${st.acertos}</td>
-        <td style="font-weight:700;color:${st.pct >= 70 ? 'var(--correct)' : st.pct >= 40 ? 'var(--yellow)' : 'var(--wrong)'}">${st.pct}%</td>
-      </tr>`;
-    }
-    html += `</tbody></table></div>`;
   }
 
   // Simulados

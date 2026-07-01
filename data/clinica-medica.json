@@ -650,6 +650,26 @@
       "sub_subarea": "Controle da água corporal total"
     },
     {
+      "id": "s11-072",
+      "numero": 72,
+      "area": "Psiquiatria",
+      "enunciado": "Sobre a internação psiquiátrica, é correto afirmar que:",
+      "alternativas": {
+        "A": "a internação involuntária é determinada por ordem judicial.",
+        "B": "a internação voluntária deve ser realizada por médico com CRM ativo.",
+        "C": "no prazo de 72 horas, a internação compulsória deve ser comunicada ao Ministério Público Estadual.",
+        "D": "o término da internação voluntária ocorrerá por solicitação do Ministério Público Estadual."
+      },
+      "correta": "B",
+      "explicacao": "Estrategista, a Lei 10.216, de 2001, ficou conhecida como “lei da reforma psiquiátrica” e dispõe sobre a proteção e os direitos das \npessoas portadoras de transtornos mentais e reorienta o modelo assistência psiquiátrica, o que envolve a mudança na assistência centrada \nna internação hospitalar e cuidados ambulatoriais, para novos pressupostos técnicos e éticos, preservando a individualidade, autonomia do \npaciente e reinserção social, evitando-se internações hospitalares desnecessárias.\nVeja as modalidades de internação psiquiátrica. \n1. Internação voluntária: aquela que ocorre com o consentimento do usuário, que também pode encerrá-la voluntariamente.\n2. Internação involuntária: aquela que se dá sem o consentimento do usuário, a pedido de terceiro e após avaliação médica, que ainda \ndeverá ser comunicada ao Ministério Público Estadual (MPE) pelo médico responsável técnico da instituição em até 72 horas após a admissão \nhospitalar - devendo esse mesmo procedimento ser adotado quando da respectiva alta; nessa situação, a família ou representante legal \npodem encerrar a internação por meio de pedido formal.\n3. Internação compulsória: aquela determinada pela Justiça.\nIncorreta a alternativa A. A internação involuntária é aquela que ocorre sem o consentimento do paciente. Por sua vez, a internação \ncompulsória é aquela determinada pela justiça.\nCorreta a alternativa B, pois a internação voluntária, assim como a involuntária, deve ter uma indicação médica para ocorrer. Ressalta-se que \nnão é necessário que tal indicação seja realizada, necessariamente, por psiquiatra.\nIncorreta a alternativa C, pois a internação involuntária precisa ser informada ao MPE em até 72 horas.\nIncorreta a alternativa D, visto que, na internação voluntária, sua interrupção pode ocorrer por solicitação do paciente ou por alta médica.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "imagens": [],
+      "_simulado": "11-simulado",
+      "_edicao": "11",
+      "subarea": "Psiquiatria",
+      "_area_slug": "clinica-medica"
+    },
+    {
       "id": "s11-073",
       "numero": 73,
       "area": "Clínica Médica",
@@ -669,6 +689,26 @@
       "subarea": "Pneumologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "Derrame Pleural"
+    },
+    {
+      "id": "s11-078",
+      "numero": 78,
+      "area": "Psiquiatria",
+      "enunciado": "Que medicação a seguir é contraindicada no manejo de \npacientes com sintomas de síndrome de abstinência alcoólica?",
+      "alternativas": {
+        "A": "Carbamazepina.",
+        "B": "Vitamina B1.",
+        "C": "Clorpromazina.",
+        "D": "Clordiazepóxido."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, a síndrome de abstinência alcoólica (SAA) pode se iniciar entre 6 e 24 horas depois do último consumo de álcool ou \nredução da quantidade de álcool ingerida. \nA SAA é representada por sintomas como tremores, que são geralmente as primeiras manifestações clínicas, ansiedade, irritabilidade, \nalterações de atenção, náuseas, febre, taquipneia, sudorese, piloereção, taquicardia e alterações de pressão arterial. \nEm até 10% dos casos, a SAA pode se agravar, evoluindo para um estado conhecido delirium tremens (DT), ocorrendo delirium, psicose, \ntremores intensos, convulsões e alteração do nível de consciência. \nEsse quadro normalmente surge após 48-72h após o início dos primeiros sintomas da abstinência alcoólica.\nCritérios da abstinência de álcool, adaptados do DSM-5-TR\nA\nCessação (ou redução) do uso pesado e prolongado de álcool.\nB\nDois (ou mais) dos seguintes sintomas:\n1\nHiperatividade autonômica (sudorese ou frequência cardíaca maior que 100bpm).\n2\nTremor aumentado nas mãos.\n3\nInsônia.\n4\nNáusea ou vômitos.\n5\nNistagmo.\n6\nAlucinações ou ilusões visuais, táteis ou auditivas transitórias.\n7\nAgitação psicomotora.\n8\nAnsiedade.\n9\nConvulsões tônico-clônicas generalizadas.\nAmerican Psychiatric Association, 2022\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n125\nO tratamento da SAA é principalmente baseado no uso de benzodiazepínicos de meia-vida prolongada, como diazepam, clordiazepóxido \ne lorazepam (droga de escolha para hepatopatas).\nA carbamazepina é uma droga de segunda linha nesse tratamento e pode substituir o uso de benzodiazepínicos. O uso de propofol e \nbarbitúricos pode ser útil em casos graves e refratários, especialmente no contexto de intensivismo.\nA reposição de tiamina é mandatória e justifica-se para evitar a ocorrência da síndrome de Wernicke-Korsakoff (SWK), quadro provocado \npela deficiência de vitamina B1. A SWK é caracterizada por amnésia, confabulações, alucinações, oftalmoparesia, ataxia, confusão mental, \nsendo uma emergência médica. \nPara o controle de eventual agitação psicomotora intensa ou psicose grave/refratária, o uso cauteloso do antipsicótico típico haloperidol \npode ser considerado. Sua cautela justifica-se, pois, de forma geral, os antipsicóticos reduzem o limiar para convulsões, além de aumentarem \no risco para arritmias cardíacas. Dessa forma, justamente, o haloperidol é o antipsicótico considerado o mais seguro nesse cenário, por isso \né a droga a ser escolhida.\nVamos às alternativas!\nCorreta a alternativa A. A carbamazepina, assim como o fenobarbital, é droga de segunda linha e pode substituir o uso de benzodiazepínicos.\nCorreta a alternativa B. A tiamina (B1) deve ser utilizada em todos os pacientes, para prevenir a síndrome de Wernicke-Korsakoff.\nIncorreta a alternativa C. Clorpromazina, um antipsicótico típico de baixa potência, não está indicado no quadro de SAA. Seu uso pode precipitar \ncrises convulsivas por baixar o limiar convulsivante, além de aumentar o risco de rebaixamento do nível de consciência.\nCorreta a alternativa D. O emprego de benzodiazepínico, como o clordiazepóxido, é a base do tratamento medicamentoso da SAA.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "imagens": [],
+      "_simulado": "11-simulado",
+      "_edicao": "11",
+      "subarea": "Psiquiatria",
+      "_area_slug": "clinica-medica"
     },
     {
       "id": "s11-079",
@@ -869,6 +909,29 @@
       "sub_subarea": "Doenças sistêmicas com manifestações reumatológicas"
     },
     {
+      "id": "s14-005",
+      "numero": 5,
+      "area": "Ortopedia",
+      "enunciado": "No contexto ortopédico \nda síndrome de Down, assinale a alternativa correta:",
+      "alternativas": {
+        "A": "Uma deformidade comum é o pé cavo adulto, que necessita de intervenção cirúrgica devido ao quadro álgico na vida adulta.",
+        "B": "O alinhamento dos joelhos é normalmente em varo, que necessita de intervenção cirúrgica quando acima de 8 centímetros de distância entre os côndilos femorais.",
+        "C": "A instabilidade atlantoaxial deve ser acompanhada anualmente com radiografias, sendo a intervenção cirúrgica frequente em casos em que o intervalo atlanto-dente está acima de 2,5mm.",
+        "D": "Osteopenia e sarcopenia são comuns na vida adulta, sendo necessária intervenção precoce para preservação de massa óssea e muscular."
+      },
+      "correta": "D",
+      "explicacao": "O que o examinador quer saber com esta pergunta?\nCondutas ortopédicas na síndrome de Down.\nO que você precisa saber para responder a esta pergunta?\nCondutas ortopédicas na Síndrome de Down:\nA Síndrome de Down apresenta atraso no desenvolvimento motor e importante frouxidão ligamentar (que pode contribuir para esse\natraso). A frouxidão ligamentar leva a algumas alterações fisiológicas: geno valgo mais intenso, pés planos valgos flexíveis mais intensos,\nhipermobilidade, predisposição à luxação do quadril e instabilidade atlantoaxial.\n\nEstratégia\nMED\n8\nA grande preocupação com a instabilidade atlantoaxial é a possibilidade de lesão neurológica durante a prática de atividades físicas. Por isso,\npor muito tempo, crianças com síndrome de Down foram proibidas de praticar ginástica olímpica, entre outros esportes.\nTornou-se, assim, conduta padrão realizar uma avaliação da coluna cervical na síndrome de Down, buscando-se alterações no intervalo\natlanto-dente (distância entre o anel de C1 e o odontoide) durante a flexão e a extensão.\n\nEstratégia\nMED\n9\nA figura abaixo apresenta as principais condutas ortopédicas na Síndrome de Down.\nContudo, já na edição de 2014 do livro de Ortopedia\nPediátrica Tachdjian’s (5ª edição), e quiçá antes, foi\nabolida a necessidade dessa avaliação por alguns\nmotivos:\n- Uma avaliação hoje não implica que não haverá\ninstabilidade amanhã.\n- O exame radiográfico é de difícil realização e\npouco confiável.\n- Basicamente, não há condutas a serem tomadas a\nnão ser que haja déficit neurológico.\n- O risco de lesão durante atividades físicas é muito\nbaixo.\nEntretanto, ainda persiste o hábito de se solicitar\navaliação radiográfica da coluna cervical para\ntodo paciente com Síndrome de Down (enquanto\no quadril é, geralmente, ignorado, apesar de\napresentar uma incidência muito maior de\ncomplicações do que a coluna cervical).\nDiscussão das alternativas\nIncorreta a alternativa A, pois a deformidade mais comum dos pés são pés planos valgos.\nIncorreta a alternativa B, pois a deformidade dos joelhos mais comum é em valgo.\n\nEstratégia\nMED\n10\nIncorreta a alternativa C. Como discutimos acima, não é necessário fazer avaliação anual da instabilidade, e a indicação cirúrgica é quando o\nintervalo é acima de 10mm.\nCorreta a alternativa D. No caso, a intervenção principal é atividade física (atividades de impacto e musculação).",
+      "imagens": [
+        "data/simulados/imgs/14-simulado/q5_img1.jpeg",
+        "data/simulados/imgs/14-simulado/q5_img2.jpeg",
+        "data/simulados/imgs/14-simulado/q5_img3.jpeg"
+      ],
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Ortopedia",
+      "_area_slug": "clinica-medica"
+    },
+    {
       "id": "s14-010",
       "numero": 10,
       "area": "Clínica Médica",
@@ -1032,9 +1095,8 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cardiologia",
-      "_area_slug": "clinica-medica",
-      "sub_subarea": "Arritmias Cardíacas"
+      "subarea": "Psiquiatria",
+      "_area_slug": "clinica-medica"
     },
     {
       "id": "s14-027",
@@ -1587,9 +1649,8 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Endocrinologia",
-      "_area_slug": "clinica-medica",
-      "sub_subarea": "Diabetes"
+      "subarea": "Ortopedia",
+      "_area_slug": "clinica-medica"
     },
     {
       "id": "s14-068",
@@ -1663,9 +1724,8 @@
       "explicacao": "Estrategista, esta questão aborda um tema extremamente relevante na prática clínica: os limites do sigilo médico diante do risco de suicídio\nem adolescentes.\nDe forma geral, a confidencialidade é um dos pilares da relação médico-paciente e deve ser preservada sempre que possível. Entretanto, o\nsigilo profissional não é absoluto. Situações que envolvem risco significativo à vida ou à integridade do próprio paciente constituem exceções\néticas e legais à regra da confidencialidade.\nNo caso apresentado, o adolescente não apenas apresenta sintomas compatíveis com episódio depressivo maior, como também realizou uma\ntentativa de suicídio por intoxicação medicamentosa após semanas de planejamento prévio. Trata-se, portanto, de um quadro de elevado\nrisco, exigindo compartilhamento das informações com os responsáveis e avaliação imediata das medidas de proteção necessárias.\nOutro aspecto importante é que a definição entre acompanhamento domiciliar intensivo, hospitalização voluntária ou internação involuntária\ndepende da avaliação individualizada do risco suicida, não podendo ser determinada automaticamente apenas pela ocorrência da tentativa.\nVamos analisar as alternativas.\nIncorreta a alternativa A. O risco à vida justifica a quebra do sigilo. Além disso, a prioridade inicial é a avaliação do risco suicida e a proteção\ndo paciente, não o início imediato de antidepressivos.\nIncorreta a alternativa B. Informar apenas sobre a intoxicação omite o principal problema clínico: a tentativa de suicídio. Os responsáveis\nprecisam conhecer a real gravidade da situação.\nCorreta a alternativa C. A tentativa de suicídio exige comunicação aos responsáveis, avaliação formal do risco suicida e definição da necessidade\nde acompanhamento domiciliar intensivo ou internação.\n\nEstratégia\nMED\n125\nIncorreta a alternativa D. O sigilo não deve ser mantido diante do risco de morte. Além disso, a internação psiquiátrica não é automática e\ndeve ser definida após avaliação individualizada do risco.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Nefrologia",
-      "_area_slug": "clinica-medica",
-      "sub_subarea": ""
+      "subarea": "Psiquiatria",
+      "_area_slug": "clinica-medica"
     },
     {
       "id": "s14-075",
@@ -1937,7 +1997,7 @@
       "_edicao": "3",
       "subarea": "Infectologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": ""
+      "sub_subarea": "Imunossuprimidos não-HIV"
     },
     {
       "id": "s3-023",
@@ -2216,9 +2276,8 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Gastroenterologia",
-      "_area_slug": "clinica-medica",
-      "sub_subarea": ""
+      "subarea": "Psiquiatria",
+      "_area_slug": "clinica-medica"
     },
     {
       "id": "s3-076",
@@ -2832,6 +2891,27 @@
       "sub_subarea": ""
     },
     {
+      "id": "s9-016",
+      "numero": 16,
+      "area": "Pediatria -  Otorrinolaringologia",
+      "enunciado": "Um menino de 9 anos chega ao \nconsultório com história de início súbito de febre alta (39 °C), dor de garganta intensa e cefaleia há 24 horas. Nega tosse ou coriza. Ao \nexame físico, apresenta petéquias no palato, hiperemia tonsilar com exsudato purulento e adenomegalia cervical anterior dolorosa. \nFoi prescrita penicilina benzatina intramuscular em dose única. Sobre essa conduta terapêutica, assinale a alternativa correta quanto à \njustificativa do tratamento.",
+      "alternativas": {
+        "A": "A antibioticoterapia tem como objetivo primário a prevenção da glomerulonefrite difusa aguda (GNDA), que é a complicação não supurativa mais comum.",
+        "B": "O tratamento antibiótico, quando instituído até o 9º dia de doença, é capaz de prevenir a febre reumática, principal sequela não supurativa a ser evitada.",
+        "C": "O uso de antibióticos é mandatório para evitar a progressão para crupe viral, uma vez que a etiologia bacteriana pode coinfectar a laringe.",
+        "D": "A penicilina benzatina é escolhida principalmente para reduzir drasticamente o período sintomático da doença, que, sem tratamento, duraria mais de 20 dias."
+      },
+      "correta": "B",
+      "explicacao": "Prezado aluno, esse tema é fundamental! Nas provas anteriores do ENAMED/ENARE, a banca cobrou exatamente o objetivo do tratamento \nda faringotonsilite estreptocócica. A banca gosta de perguntar a respeito da droga de escolha (amoxicilina) e a justificativa (evitar a febre \nreumática). Portanto, trouxemos essa questão no simulado para revisitar esse conceito de forma aprofundada, pois a banca quer saber \nse você entende o motivo da prescrição, não apenas a dose. É uma pegadinha clássica confundir a prevenção de sequelas renais com as \ncardíacas, e é aqui que vamos focar. \n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n28\nRESIDÊNCIA MÉDICA\nRevisão do tema \nA faringite estreptocócica, causada pelo Streptococcus pyogenes (estreptococo do grupo A), é uma entidade clínica distinta das faringites \nvirais. O quadro clínico clássico em crianças (como o do nosso paciente de 9 anos) envolve início súbito, febre, odinofagia intensa, exsudato \ntonsilar, adenopatia cervical dolorosa e, crucialmente, a ausência de sintomas virais (tosse, coriza, rouquidão). A presença de petéquias no \npalato é um sinal muito sugestivo. O diagnóstico preciso é vital para evitar o uso excessivo de antibióticos em quadros virais, mas, uma vez \nconfirmado ou fortemente suspeito clinicamente em cenários de alta probabilidade, o tratamento é indicado.\nO racional para a antibioticoterapia, que é o cerne da nossa questão, baseia-se em quatro pilares, mas com pesos diferentes. O uso de \npenicilina (oral ou benzatina) ou amoxicilina visa: (1) prevenir complicações supurativas locais (como o abscesso periamigdaliano); (2) reduzir \na transmissão do patógeno para contatos próximos; (3) encurtar o curso clínico da doença (embora a redução seja modesta, de cerca de 16 a \n24 horas nos sintomas); e, o mais importante de todos, (4) prevenir a febre reumática aguda.\nÉ crucial ainda destacar o aspecto temporal e imunológico, estudos evidenciam que a erradicação do estreptococo da orofaringe previne \na cascata imunológica que leva à febre reumática. Um dado que o examinador adora cobrar é a “janela de oportunidade”: a terapia \nantibiótica é eficaz na prevenção da febre reumática mesmo se iniciada até o 9º dia após o início dos sintomas. No entanto, isso não se \naplica à glomerulonefrite difusa aguda (GNDA); infelizmente, o tratamento antibiótico não previne o desenvolvimento da doença renal pós-\nestreptocócica se a cepa for nefrogênica. \nComentário da alternativa correta (gabarito: B)\nCorreta a alternativa B e reflete o “padrão-ouro” do conhecimento sobre o tema. O principal objetivo de saúde pública ao tratar uma faringite \nbacteriana é a prevenção da febre reumática, uma sequela não supurativa que pode deixar danos valvares cardíacos permanentes. Conforme \nrevisamos, existe uma janela segura de até 9 dias do início do quadro para instituir o antibiótico e, ainda assim, garantir essa proteção. \nPortanto, mesmo que o tratamento não seja imediato (embora o ideal seja tratar logo para alívio sintomático), a prevenção da sequela \nreumática é mantida se respeitado esse prazo.\nComentário das alternativas incorretas\nVamos analisar onde estão os erros para você não cair em pegadinhas. \nIncorreta a alternativa A, que é a distratora mais perigosa: grave que antibiótico NÃO previne GNDA (glomerulonefrite).\nIncorreta a alternativa C, que mistura conceitos: crupe é viral, e antibiótico não previne evolução viral nem coinfeção dessa forma. \nIncorreta a alternativa D, que exagera o benefício sintomático: a faringite estreptocócica é autolimitada (dura 3-5 dias sem remédio), e o \nantibiótico encurta pouco esse tempo (cerca de 1 dia), não existindo quadro de “20 dias” de faringite aguda comum.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "imagens": [],
+      "_simulado": "9-simulado",
+      "_edicao": "9",
+      "subarea": "Nefrologia",
+      "_area_slug": "clinica-medica",
+      "sub_subarea": "Doença Renal Crônica"
+    },
+    {
       "id": "s9-019",
       "numero": 19,
       "area": "Clínica Médica",
@@ -2873,6 +2953,27 @@
       "_area_slug": "clinica-medica"
     },
     {
+      "id": "s9-028",
+      "numero": 28,
+      "area": "Pediatria -  Otorrinolaringologia",
+      "enunciado": "Otite média aguda (OMA) é uma das \nafecções mais comuns na infância. Sobre a fisiopatologia e os fatores de risco/proteção envolvidos nessa condição, assinale a alternativa \nINCORRETA.",
+      "alternativas": {
+        "A": "O uso de chupetas é considerado um fator de risco para o desenvolvimento de OMA, devendo ser desestimulado.",
+        "B": "A disfunção da tuba auditiva é central na patogênese; em crianças com fissura palatina, esse risco é aumentado devido à alteração funcional da musculatura palatal.",
+        "C": "A posição supina (deitada) durante a mamadeira favorece o refluxo de secreções para a orelha média, aumentando o risco de infecção.",
+        "D": "A anatomia da tuba auditiva na criança pequena protege contra infecções, pois ela é mais verticalizada e longa do que no adulto, dificultando a ascensão de bactérias."
+      },
+      "correta": "D",
+      "explicacao": "Olá, futuro Residente! Vamos focar a otite média aguda (OMA), um dos carros-chefes da otorrinopediatria. Nas provas anteriores, a banca \nadora explorar os fatores de risco e proteção, muitas vezes pedindo para assinalar a afirmativa incorreta. Nas ocasiões anteriores, o foco \nfoi a anatomia craniofacial (síndrome de Down) e fatores ambientais. Trouxemos essa questão para o simulado justamente para reforçar a \nfisiopatologia e a anatomia da tuba auditiva, pois entender o porquê de a criança ter mais otite que o adulto é essencial para não cair nas \npegadinhas da banca sobre o que protege e o que agride a orelha média.\nRevisão do tema\nA fisiopatologia da OMA está intrinsecamente ligada à função da tuba auditiva (trompa de Eustáquio). Sua função é ventilar, proteger e drenar \na orelha média. Na infância, a imaturidade desse sistema é o grande vilão. A obstrução funcional ou mecânica da tuba gera pressão negativa, \nacúmulo de secreção e facilita a colonização bacteriana (principalmente por S. pneumoniae, H. influenzae e M. catarrhalis). Qualquer condição \nque prejudique a função tubária ou a imunidade local predispõe à infecção.\nO ponto chave para a prova é a diferença anatômica. A tuba auditiva da criança é mais curta, mais larga e mais horizontalizada em comparação \nà do adulto. Essa configuração facilita o refluxo de secreções da nasofaringe para a orelha média, funcionando como um caminho para as \nbactérias. À medida que a criança cresce, a tuba se alonga, estreita e verticaliza, tornando a proteção mais eficaz e reduzindo a incidência de \notites. Além disso, a musculatura que abre a tuba (tensor do véu palatino) é menos eficiente em crianças, especialmente naquelas com fenda \npalatina ou hipotonia (como na síndrome de Down).\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n47\nRESIDÊNCIA MÉDICA\nPor fim, os fatores ambientais modulam esse risco anatômico. São fatores de risco bem estabelecidos: uso de chupetas (que altera a dinâmica \nmuscular palatal), frequência a creches (maior carga viral), tabagismo passivo (inflamação da mucosa respiratória), ausência de aleitamento \nmaterno e alimentação em posição supina (deitada). Em contrapartida, o aleitamento materno exclusivo e a vacinação (pneumocócica e \ninfluenza) atuam como importantes fatores de proteção, reduzindo a carga de patógenos e fortalecendo a imunidade de mucosa.\nComentário da alternativa correta (gabarito: D) \nCorreta a alternativa D e é o gabarito porque é a AFIRMATIVA INCORRETA. Ela afirma que a anatomia da criança protege por ser verticalizada \ne longa. Isso é o oposto da realidade! Como revisamos, a tuba da criança é horizontalizada e curta, o que, na verdade, favorece a infecção, em \nvez de proteger. O examinador inverteu as características do adulto com as da criança para confundi-lo. Lembre-se: criança = horizontal (mais \nrisco); adulto = vertical (mais proteção).\nComentário das alternativas incorretas (afirmativas verdadeiras) \nIncorretas as alternativas A e C. O uso de chupetas (A) e a posição supina na mamadeira (C) realmente aumentam o risco de OMA ao \nprejudicar a função tubária e facilitar o refluxo. \nIncorreta a alternativa B. A disfunção tubária é o mecanismo central, sendo pior em fissurados.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "imagens": [],
+      "_simulado": "9-simulado",
+      "_edicao": "9",
+      "subarea": "Infectologia",
+      "_area_slug": "clinica-medica",
+      "sub_subarea": "Pneumonia"
+    },
+    {
       "id": "s9-029",
       "numero": 29,
       "area": "Clínica Médica",
@@ -2912,7 +3013,7 @@
       "_edicao": "9",
       "subarea": "Infectologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": ""
+      "sub_subarea": "Imunossuprimidos não-HIV"
     },
     {
       "id": "s9-044",
@@ -2952,9 +3053,8 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Neurologia",
-      "_area_slug": "clinica-medica",
-      "sub_subarea": "Distúrbios do Sono"
+      "subarea": "Psiquiatria",
+      "_area_slug": "clinica-medica"
     },
     {
       "id": "s9-050",
@@ -3214,114 +3314,6 @@
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "Choque"
-    },
-    {
-      "id": "s9-016",
-      "numero": 16,
-      "area": "Clínica Médica",
-      "enunciado": "Um menino de 9 anos chega ao \nconsultório com história de início súbito de febre alta (39 °C), dor de garganta intensa e cefaleia há 24 horas. Nega tosse ou coriza. Ao \nexame físico, apresenta petéquias no palato, hiperemia tonsilar com exsudato purulento e adenomegalia cervical anterior dolorosa. \nFoi prescrita penicilina benzatina intramuscular em dose única. Sobre essa conduta terapêutica, assinale a alternativa correta quanto à \njustificativa do tratamento.",
-      "alternativas": {
-        "A": "A antibioticoterapia tem como objetivo primário a prevenção da glomerulonefrite difusa aguda (GNDA), que é a complicação não supurativa mais comum.",
-        "B": "O tratamento antibiótico, quando instituído até o 9º dia de doença, é capaz de prevenir a febre reumática, principal sequela não supurativa a ser evitada.",
-        "C": "O uso de antibióticos é mandatório para evitar a progressão para crupe viral, uma vez que a etiologia bacteriana pode coinfectar a laringe.",
-        "D": "A penicilina benzatina é escolhida principalmente para reduzir drasticamente o período sintomático da doença, que, sem tratamento, duraria mais de 20 dias."
-      },
-      "correta": "B",
-      "explicacao": "Prezado aluno, esse tema é fundamental! Nas provas anteriores do ENAMED/ENARE, a banca cobrou exatamente o objetivo do tratamento \nda faringotonsilite estreptocócica. A banca gosta de perguntar a respeito da droga de escolha (amoxicilina) e a justificativa (evitar a febre \nreumática). Portanto, trouxemos essa questão no simulado para revisitar esse conceito de forma aprofundada, pois a banca quer saber \nse você entende o motivo da prescrição, não apenas a dose. É uma pegadinha clássica confundir a prevenção de sequelas renais com as \ncardíacas, e é aqui que vamos focar. \n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n28\nRESIDÊNCIA MÉDICA\nRevisão do tema \nA faringite estreptocócica, causada pelo Streptococcus pyogenes (estreptococo do grupo A), é uma entidade clínica distinta das faringites \nvirais. O quadro clínico clássico em crianças (como o do nosso paciente de 9 anos) envolve início súbito, febre, odinofagia intensa, exsudato \ntonsilar, adenopatia cervical dolorosa e, crucialmente, a ausência de sintomas virais (tosse, coriza, rouquidão). A presença de petéquias no \npalato é um sinal muito sugestivo. O diagnóstico preciso é vital para evitar o uso excessivo de antibióticos em quadros virais, mas, uma vez \nconfirmado ou fortemente suspeito clinicamente em cenários de alta probabilidade, o tratamento é indicado.\nO racional para a antibioticoterapia, que é o cerne da nossa questão, baseia-se em quatro pilares, mas com pesos diferentes. O uso de \npenicilina (oral ou benzatina) ou amoxicilina visa: (1) prevenir complicações supurativas locais (como o abscesso periamigdaliano); (2) reduzir \na transmissão do patógeno para contatos próximos; (3) encurtar o curso clínico da doença (embora a redução seja modesta, de cerca de 16 a \n24 horas nos sintomas); e, o mais importante de todos, (4) prevenir a febre reumática aguda.\nÉ crucial ainda destacar o aspecto temporal e imunológico, estudos evidenciam que a erradicação do estreptococo da orofaringe previne \na cascata imunológica que leva à febre reumática. Um dado que o examinador adora cobrar é a “janela de oportunidade”: a terapia \nantibiótica é eficaz na prevenção da febre reumática mesmo se iniciada até o 9º dia após o início dos sintomas. No entanto, isso não se \naplica à glomerulonefrite difusa aguda (GNDA); infelizmente, o tratamento antibiótico não previne o desenvolvimento da doença renal pós-\nestreptocócica se a cepa for nefrogênica. \nComentário da alternativa correta (gabarito: B)\nCorreta a alternativa B e reflete o “padrão-ouro” do conhecimento sobre o tema. O principal objetivo de saúde pública ao tratar uma faringite \nbacteriana é a prevenção da febre reumática, uma sequela não supurativa que pode deixar danos valvares cardíacos permanentes. Conforme \nrevisamos, existe uma janela segura de até 9 dias do início do quadro para instituir o antibiótico e, ainda assim, garantir essa proteção. \nPortanto, mesmo que o tratamento não seja imediato (embora o ideal seja tratar logo para alívio sintomático), a prevenção da sequela \nreumática é mantida se respeitado esse prazo.\nComentário das alternativas incorretas\nVamos analisar onde estão os erros para você não cair em pegadinhas. \nIncorreta a alternativa A, que é a distratora mais perigosa: grave que antibiótico NÃO previne GNDA (glomerulonefrite).\nIncorreta a alternativa C, que mistura conceitos: crupe é viral, e antibiótico não previne evolução viral nem coinfeção dessa forma. \nIncorreta a alternativa D, que exagera o benefício sintomático: a faringite estreptocócica é autolimitada (dura 3-5 dias sem remédio), e o \nantibiótico encurta pouco esse tempo (cerca de 1 dia), não existindo quadro de “20 dias” de faringite aguda comum.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
-      "imagens": [],
-      "_simulado": "9-simulado",
-      "_edicao": "9",
-      "subarea": "Otorrinolaringologia",
-      "_area_slug": "clinica-medica",
-      "_subarea_orig": "otorrino"
-    },
-    {
-      "id": "s9-028",
-      "numero": 28,
-      "area": "Clínica Médica",
-      "enunciado": "Otite média aguda (OMA) é uma das \nafecções mais comuns na infância. Sobre a fisiopatologia e os fatores de risco/proteção envolvidos nessa condição, assinale a alternativa \nINCORRETA.",
-      "alternativas": {
-        "A": "O uso de chupetas é considerado um fator de risco para o desenvolvimento de OMA, devendo ser desestimulado.",
-        "B": "A disfunção da tuba auditiva é central na patogênese; em crianças com fissura palatina, esse risco é aumentado devido à alteração funcional da musculatura palatal.",
-        "C": "A posição supina (deitada) durante a mamadeira favorece o refluxo de secreções para a orelha média, aumentando o risco de infecção.",
-        "D": "A anatomia da tuba auditiva na criança pequena protege contra infecções, pois ela é mais verticalizada e longa do que no adulto, dificultando a ascensão de bactérias."
-      },
-      "correta": "D",
-      "explicacao": "Olá, futuro Residente! Vamos focar a otite média aguda (OMA), um dos carros-chefes da otorrinopediatria. Nas provas anteriores, a banca \nadora explorar os fatores de risco e proteção, muitas vezes pedindo para assinalar a afirmativa incorreta. Nas ocasiões anteriores, o foco \nfoi a anatomia craniofacial (síndrome de Down) e fatores ambientais. Trouxemos essa questão para o simulado justamente para reforçar a \nfisiopatologia e a anatomia da tuba auditiva, pois entender o porquê de a criança ter mais otite que o adulto é essencial para não cair nas \npegadinhas da banca sobre o que protege e o que agride a orelha média.\nRevisão do tema\nA fisiopatologia da OMA está intrinsecamente ligada à função da tuba auditiva (trompa de Eustáquio). Sua função é ventilar, proteger e drenar \na orelha média. Na infância, a imaturidade desse sistema é o grande vilão. A obstrução funcional ou mecânica da tuba gera pressão negativa, \nacúmulo de secreção e facilita a colonização bacteriana (principalmente por S. pneumoniae, H. influenzae e M. catarrhalis). Qualquer condição \nque prejudique a função tubária ou a imunidade local predispõe à infecção.\nO ponto chave para a prova é a diferença anatômica. A tuba auditiva da criança é mais curta, mais larga e mais horizontalizada em comparação \nà do adulto. Essa configuração facilita o refluxo de secreções da nasofaringe para a orelha média, funcionando como um caminho para as \nbactérias. À medida que a criança cresce, a tuba se alonga, estreita e verticaliza, tornando a proteção mais eficaz e reduzindo a incidência de \notites. Além disso, a musculatura que abre a tuba (tensor do véu palatino) é menos eficiente em crianças, especialmente naquelas com fenda \npalatina ou hipotonia (como na síndrome de Down).\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n47\nRESIDÊNCIA MÉDICA\nPor fim, os fatores ambientais modulam esse risco anatômico. São fatores de risco bem estabelecidos: uso de chupetas (que altera a dinâmica \nmuscular palatal), frequência a creches (maior carga viral), tabagismo passivo (inflamação da mucosa respiratória), ausência de aleitamento \nmaterno e alimentação em posição supina (deitada). Em contrapartida, o aleitamento materno exclusivo e a vacinação (pneumocócica e \ninfluenza) atuam como importantes fatores de proteção, reduzindo a carga de patógenos e fortalecendo a imunidade de mucosa.\nComentário da alternativa correta (gabarito: D) \nCorreta a alternativa D e é o gabarito porque é a AFIRMATIVA INCORRETA. Ela afirma que a anatomia da criança protege por ser verticalizada \ne longa. Isso é o oposto da realidade! Como revisamos, a tuba da criança é horizontalizada e curta, o que, na verdade, favorece a infecção, em \nvez de proteger. O examinador inverteu as características do adulto com as da criança para confundi-lo. Lembre-se: criança = horizontal (mais \nrisco); adulto = vertical (mais proteção).\nComentário das alternativas incorretas (afirmativas verdadeiras) \nIncorretas as alternativas A e C. O uso de chupetas (A) e a posição supina na mamadeira (C) realmente aumentam o risco de OMA ao \nprejudicar a função tubária e facilitar o refluxo. \nIncorreta a alternativa B. A disfunção tubária é o mecanismo central, sendo pior em fissurados.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
-      "imagens": [],
-      "_simulado": "9-simulado",
-      "_edicao": "9",
-      "subarea": "Otorrinolaringologia",
-      "_area_slug": "clinica-medica",
-      "_subarea_orig": "otorrino"
-    },
-    {
-      "id": "s14-005",
-      "numero": 5,
-      "area": "Clínica Médica",
-      "enunciado": "No contexto ortopédico \nda síndrome de Down, assinale a alternativa correta:",
-      "alternativas": {
-        "A": "Uma deformidade comum é o pé cavo adulto, que necessita de intervenção cirúrgica devido ao quadro álgico na vida adulta.",
-        "B": "O alinhamento dos joelhos é normalmente em varo, que necessita de intervenção cirúrgica quando acima de 8 centímetros de distância entre os côndilos femorais.",
-        "C": "A instabilidade atlantoaxial deve ser acompanhada anualmente com radiografias, sendo a intervenção cirúrgica frequente em casos em que o intervalo atlanto-dente está acima de 2,5mm.",
-        "D": "Osteopenia e sarcopenia são comuns na vida adulta, sendo necessária intervenção precoce para preservação de massa óssea e muscular."
-      },
-      "correta": "D",
-      "explicacao": "O que o examinador quer saber com esta pergunta?\nCondutas ortopédicas na síndrome de Down.\nO que você precisa saber para responder a esta pergunta?\nCondutas ortopédicas na Síndrome de Down:\nA Síndrome de Down apresenta atraso no desenvolvimento motor e importante frouxidão ligamentar (que pode contribuir para esse\natraso). A frouxidão ligamentar leva a algumas alterações fisiológicas: geno valgo mais intenso, pés planos valgos flexíveis mais intensos,\nhipermobilidade, predisposição à luxação do quadril e instabilidade atlantoaxial.\n\nEstratégia\nMED\n8\nA grande preocupação com a instabilidade atlantoaxial é a possibilidade de lesão neurológica durante a prática de atividades físicas. Por isso,\npor muito tempo, crianças com síndrome de Down foram proibidas de praticar ginástica olímpica, entre outros esportes.\nTornou-se, assim, conduta padrão realizar uma avaliação da coluna cervical na síndrome de Down, buscando-se alterações no intervalo\natlanto-dente (distância entre o anel de C1 e o odontoide) durante a flexão e a extensão.\n\nEstratégia\nMED\n9\nA figura abaixo apresenta as principais condutas ortopédicas na Síndrome de Down.\nContudo, já na edição de 2014 do livro de Ortopedia\nPediátrica Tachdjian’s (5ª edição), e quiçá antes, foi\nabolida a necessidade dessa avaliação por alguns\nmotivos:\n- Uma avaliação hoje não implica que não haverá\ninstabilidade amanhã.\n- O exame radiográfico é de difícil realização e\npouco confiável.\n- Basicamente, não há condutas a serem tomadas a\nnão ser que haja déficit neurológico.\n- O risco de lesão durante atividades físicas é muito\nbaixo.\nEntretanto, ainda persiste o hábito de se solicitar\navaliação radiográfica da coluna cervical para\ntodo paciente com Síndrome de Down (enquanto\no quadril é, geralmente, ignorado, apesar de\napresentar uma incidência muito maior de\ncomplicações do que a coluna cervical).\nDiscussão das alternativas\nIncorreta a alternativa A, pois a deformidade mais comum dos pés são pés planos valgos.\nIncorreta a alternativa B, pois a deformidade dos joelhos mais comum é em valgo.\n\nEstratégia\nMED\n10\nIncorreta a alternativa C. Como discutimos acima, não é necessário fazer avaliação anual da instabilidade, e a indicação cirúrgica é quando o\nintervalo é acima de 10mm.\nCorreta a alternativa D. No caso, a intervenção principal é atividade física (atividades de impacto e musculação).",
-      "imagens": [
-        "data/simulados/imgs/14-simulado/q5_img1.jpeg",
-        "data/simulados/imgs/14-simulado/q5_img2.jpeg",
-        "data/simulados/imgs/14-simulado/q5_img3.jpeg"
-      ],
-      "_simulado": "14-simulado",
-      "_edicao": "14",
-      "subarea": "Ortopedia",
-      "_area_slug": "clinica-medica",
-      "_subarea_orig": "ortopedia"
-    },
-    {
-      "id": "s11-072",
-      "numero": 72,
-      "area": "Clínica Médica",
-      "enunciado": "Sobre a internação psiquiátrica, é correto afirmar que:",
-      "alternativas": {
-        "A": "a internação involuntária é determinada por ordem judicial.",
-        "B": "a internação voluntária deve ser realizada por médico com CRM ativo.",
-        "C": "no prazo de 72 horas, a internação compulsória deve ser comunicada ao Ministério Público Estadual.",
-        "D": "o término da internação voluntária ocorrerá por solicitação do Ministério Público Estadual."
-      },
-      "correta": "B",
-      "explicacao": "Estrategista, a Lei 10.216, de 2001, ficou conhecida como “lei da reforma psiquiátrica” e dispõe sobre a proteção e os direitos das \npessoas portadoras de transtornos mentais e reorienta o modelo assistência psiquiátrica, o que envolve a mudança na assistência centrada \nna internação hospitalar e cuidados ambulatoriais, para novos pressupostos técnicos e éticos, preservando a individualidade, autonomia do \npaciente e reinserção social, evitando-se internações hospitalares desnecessárias.\nVeja as modalidades de internação psiquiátrica. \n1. Internação voluntária: aquela que ocorre com o consentimento do usuário, que também pode encerrá-la voluntariamente.\n2. Internação involuntária: aquela que se dá sem o consentimento do usuário, a pedido de terceiro e após avaliação médica, que ainda \ndeverá ser comunicada ao Ministério Público Estadual (MPE) pelo médico responsável técnico da instituição em até 72 horas após a admissão \nhospitalar - devendo esse mesmo procedimento ser adotado quando da respectiva alta; nessa situação, a família ou representante legal \npodem encerrar a internação por meio de pedido formal.\n3. Internação compulsória: aquela determinada pela Justiça.\nIncorreta a alternativa A. A internação involuntária é aquela que ocorre sem o consentimento do paciente. Por sua vez, a internação \ncompulsória é aquela determinada pela justiça.\nCorreta a alternativa B, pois a internação voluntária, assim como a involuntária, deve ter uma indicação médica para ocorrer. Ressalta-se que \nnão é necessário que tal indicação seja realizada, necessariamente, por psiquiatra.\nIncorreta a alternativa C, pois a internação involuntária precisa ser informada ao MPE em até 72 horas.\nIncorreta a alternativa D, visto que, na internação voluntária, sua interrupção pode ocorrer por solicitação do paciente ou por alta médica.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
-      "imagens": [],
-      "_simulado": "11-simulado",
-      "_edicao": "11",
-      "subarea": "Psiquiatria",
-      "_area_slug": "clinica-medica",
-      "_subarea_orig": "psiquiatria"
-    },
-    {
-      "id": "s11-078",
-      "numero": 78,
-      "area": "Clínica Médica",
-      "enunciado": "Que medicação a seguir é contraindicada no manejo de \npacientes com sintomas de síndrome de abstinência alcoólica?",
-      "alternativas": {
-        "A": "Carbamazepina.",
-        "B": "Vitamina B1.",
-        "C": "Clorpromazina.",
-        "D": "Clordiazepóxido."
-      },
-      "correta": "C",
-      "explicacao": "Estrategista, a síndrome de abstinência alcoólica (SAA) pode se iniciar entre 6 e 24 horas depois do último consumo de álcool ou \nredução da quantidade de álcool ingerida. \nA SAA é representada por sintomas como tremores, que são geralmente as primeiras manifestações clínicas, ansiedade, irritabilidade, \nalterações de atenção, náuseas, febre, taquipneia, sudorese, piloereção, taquicardia e alterações de pressão arterial. \nEm até 10% dos casos, a SAA pode se agravar, evoluindo para um estado conhecido delirium tremens (DT), ocorrendo delirium, psicose, \ntremores intensos, convulsões e alteração do nível de consciência. \nEsse quadro normalmente surge após 48-72h após o início dos primeiros sintomas da abstinência alcoólica.\nCritérios da abstinência de álcool, adaptados do DSM-5-TR\nA\nCessação (ou redução) do uso pesado e prolongado de álcool.\nB\nDois (ou mais) dos seguintes sintomas:\n1\nHiperatividade autonômica (sudorese ou frequência cardíaca maior que 100bpm).\n2\nTremor aumentado nas mãos.\n3\nInsônia.\n4\nNáusea ou vômitos.\n5\nNistagmo.\n6\nAlucinações ou ilusões visuais, táteis ou auditivas transitórias.\n7\nAgitação psicomotora.\n8\nAnsiedade.\n9\nConvulsões tônico-clônicas generalizadas.\nAmerican Psychiatric Association, 2022\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n125\nO tratamento da SAA é principalmente baseado no uso de benzodiazepínicos de meia-vida prolongada, como diazepam, clordiazepóxido \ne lorazepam (droga de escolha para hepatopatas).\nA carbamazepina é uma droga de segunda linha nesse tratamento e pode substituir o uso de benzodiazepínicos. O uso de propofol e \nbarbitúricos pode ser útil em casos graves e refratários, especialmente no contexto de intensivismo.\nA reposição de tiamina é mandatória e justifica-se para evitar a ocorrência da síndrome de Wernicke-Korsakoff (SWK), quadro provocado \npela deficiência de vitamina B1. A SWK é caracterizada por amnésia, confabulações, alucinações, oftalmoparesia, ataxia, confusão mental, \nsendo uma emergência médica. \nPara o controle de eventual agitação psicomotora intensa ou psicose grave/refratária, o uso cauteloso do antipsicótico típico haloperidol \npode ser considerado. Sua cautela justifica-se, pois, de forma geral, os antipsicóticos reduzem o limiar para convulsões, além de aumentarem \no risco para arritmias cardíacas. Dessa forma, justamente, o haloperidol é o antipsicótico considerado o mais seguro nesse cenário, por isso \né a droga a ser escolhida.\nVamos às alternativas!\nCorreta a alternativa A. A carbamazepina, assim como o fenobarbital, é droga de segunda linha e pode substituir o uso de benzodiazepínicos.\nCorreta a alternativa B. A tiamina (B1) deve ser utilizada em todos os pacientes, para prevenir a síndrome de Wernicke-Korsakoff.\nIncorreta a alternativa C. Clorpromazina, um antipsicótico típico de baixa potência, não está indicado no quadro de SAA. Seu uso pode precipitar \ncrises convulsivas por baixar o limiar convulsivante, além de aumentar o risco de rebaixamento do nível de consciência.\nCorreta a alternativa D. O emprego de benzodiazepínico, como o clordiazepóxido, é a base do tratamento medicamentoso da SAA.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
-      "imagens": [],
-      "_simulado": "11-simulado",
-      "_edicao": "11",
-      "subarea": "Psiquiatria",
-      "_area_slug": "clinica-medica",
-      "_subarea_orig": "psiquiatria"
     }
   ]
 }

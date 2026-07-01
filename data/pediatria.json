@@ -20,7 +20,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s1-006",
@@ -43,7 +44,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Infectologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s1-011",
@@ -65,7 +67,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s1-018",
@@ -87,7 +90,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s1-025",
@@ -110,7 +114,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s1-030",
@@ -132,7 +137,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Infectologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Doenças exantemáticas"
     },
     {
       "id": "s1-034",
@@ -154,7 +160,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s1-040",
@@ -176,7 +183,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Cardiopatias congênitas cianóticas"
     },
     {
       "id": "s1-045",
@@ -198,7 +206,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s1-051",
@@ -218,7 +227,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Reanimação neonatal"
     },
     {
       "id": "s1-056",
@@ -240,7 +250,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s1-061",
@@ -260,7 +271,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Pneumologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Bronquiolite aguda"
     },
     {
       "id": "s1-066",
@@ -303,7 +315,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Gastrologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Diarreia aguda e crônica"
     },
     {
       "id": "s1-077",
@@ -323,7 +336,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s1-081",
@@ -343,7 +357,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s1-085",
@@ -365,7 +380,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     },
     {
       "id": "s1-091",
@@ -385,7 +401,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s1-096",
@@ -405,7 +422,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s1-099",
@@ -425,7 +443,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Prematuridade e baixo peso"
     },
     {
       "id": "s11-002",
@@ -448,7 +467,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s11-005",
@@ -468,7 +488,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Emergências Pediátricas",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Choque na criança"
     },
     {
       "id": "s11-013",
@@ -488,7 +509,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Aleitamento materno e artificial"
     },
     {
       "id": "s11-018",
@@ -508,7 +530,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Reanimação neonatal"
     },
     {
       "id": "s11-019",
@@ -531,7 +554,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Infectologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s11-028",
@@ -554,7 +578,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s11-035",
@@ -576,7 +601,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Pneumologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s11-040",
@@ -599,7 +625,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Cardiopatias congênitas cianóticas"
     },
     {
       "id": "s11-046",
@@ -712,7 +739,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Gastrologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Dor abdominal recorrente"
     },
     {
       "id": "s11-066",
@@ -732,7 +760,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Aleitamento materno e artificial"
     },
     {
       "id": "s11-069",
@@ -755,7 +784,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Infectologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Meningites na criança"
     },
     {
       "id": "s11-081",
@@ -823,7 +853,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Cardiopatias congênitas cianóticas"
     },
     {
       "id": "s11-095",
@@ -866,7 +897,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Pneumologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Bronquiolite aguda"
     },
     {
       "id": "s14-008",
@@ -887,7 +919,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Hematologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s14-012",
@@ -934,7 +967,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s14-019",
@@ -973,7 +1007,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Infectologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s14-024",
@@ -1039,7 +1074,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Aleitamento materno e artificial"
     },
     {
       "id": "s14-060",
@@ -1064,7 +1100,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s14-061",
@@ -1103,7 +1140,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s14-071",
@@ -1129,7 +1167,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Reumatologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Febre reumática"
     },
     {
       "id": "s14-076",
@@ -1154,7 +1193,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     },
     {
       "id": "s14-081",
@@ -1172,7 +1212,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Pneumologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s14-082",
@@ -1190,7 +1231,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Incompatibilidade Rh/ABO"
     },
     {
       "id": "s14-093",
@@ -1208,7 +1250,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Aleitamento materno e artificial"
     },
     {
       "id": "s3-002",
@@ -1228,7 +1271,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s3-008",
@@ -1250,7 +1294,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Hematologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)"
     },
     {
       "id": "s3-013",
@@ -1272,7 +1317,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Hematologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s3-020",
@@ -1292,7 +1338,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s3-024",
@@ -1312,7 +1359,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Gastrologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Dor abdominal recorrente"
     },
     {
       "id": "s3-032",
@@ -1335,7 +1383,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s3-037",
@@ -1379,7 +1428,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s3-049",
@@ -1399,7 +1449,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     },
     {
       "id": "s3-055",
@@ -1421,7 +1472,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s3-061",
@@ -1444,7 +1496,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Infectologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Doenças exantemáticas"
     },
     {
       "id": "s3-066",
@@ -1468,7 +1521,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s3-072",
@@ -1510,7 +1564,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     },
     {
       "id": "s3-083",
@@ -1552,7 +1607,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s3-091",
@@ -1572,7 +1628,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Aleitamento materno e artificial"
     },
     {
       "id": "s3-095",
@@ -1594,7 +1651,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     },
     {
       "id": "s3-097",
@@ -1616,7 +1674,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s3-100",
@@ -1638,7 +1697,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s5-007",
@@ -1658,7 +1718,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     },
     {
       "id": "s5-010",
@@ -1681,7 +1742,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Icterícia neonatal"
     },
     {
       "id": "s5-012",
@@ -1703,7 +1765,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s5-025",
@@ -1725,7 +1788,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Icterícia neonatal"
     },
     {
       "id": "s5-040",
@@ -1745,7 +1809,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Aleitamento materno e artificial"
     },
     {
       "id": "s5-045",
@@ -1768,7 +1833,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s5-048",
@@ -1788,7 +1854,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     },
     {
       "id": "s5-051",
@@ -1811,7 +1878,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Exames de triagem neonatal"
     },
     {
       "id": "s5-053",
@@ -1831,7 +1899,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s5-056",
@@ -1853,7 +1922,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Pneumologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Bronquiolite aguda"
     },
     {
       "id": "s5-062",
@@ -1873,7 +1943,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s5-066",
@@ -1895,7 +1966,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Pneumologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Bronquiolite aguda"
     },
     {
       "id": "s5-069",
@@ -1917,7 +1989,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Cardiopatias congênitas cianóticas"
     },
     {
       "id": "s5-078",
@@ -1939,7 +2012,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Nefrologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência renal aguda na criança"
     },
     {
       "id": "s5-080",
@@ -1961,7 +2035,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s5-089",
@@ -1983,7 +2058,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s5-091",
@@ -2003,7 +2079,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Hematologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Púrpura e trombocitopenia"
     },
     {
       "id": "s5-093",
@@ -2086,7 +2163,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Distúrbios respiratórios do RN (SDR, SAM)"
     },
     {
       "id": "s9-020",
@@ -2109,7 +2187,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     },
     {
       "id": "s9-026",
@@ -2129,7 +2208,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Reanimação neonatal"
     },
     {
       "id": "s9-038",
@@ -2151,7 +2231,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Reumatologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Febre reumática"
     },
     {
       "id": "s9-039",
@@ -2173,7 +2254,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Infectologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s9-041",
@@ -2197,7 +2279,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s9-047",
@@ -2217,7 +2300,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Infectologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s9-053",
@@ -2247,7 +2331,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s9-057",
@@ -2269,7 +2354,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Neonatologia",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": ""
     },
     {
       "id": "s9-062",
@@ -2294,7 +2380,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Aleitamento materno e artificial"
     },
     {
       "id": "s9-068",
@@ -2368,7 +2455,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Pneumologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Bronquiolite aguda"
     },
     {
       "id": "s9-086",
@@ -2400,7 +2488,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Puericultura",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s9-100",
@@ -2428,7 +2517,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "Cardiologia Pediátrica",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "sub_subarea": "Insuficiência cardíaca na criança"
     }
   ]
 }
