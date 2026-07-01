@@ -187,7 +187,9 @@ def parse_alternatives(block):
             current_parts = [first_text]
         elif current_letter and line.strip():
             # Continuation line — but stop if we hit COMENTÁRIOS, RESOLUÇÃO COMENTADA or Gabarito
-            if re.match(r'^\s*(?:COMENTÁRIOS?:?\s*\(|COMENTÁRIOS?:?[\s:]|RESOLUÇÃO COMENTADA|Gabarito:)', line):
+            # Must check stripped line because "COMENTÁRIO\n" won't match with trailing \s requirement
+            stripped = line.strip()
+            if stripped.startswith('COMENTÁRIO') or 'RESOLUÇÃO' in stripped or stripped.startswith('Gabarito:'):
                 break
             current_parts.append(line.strip())
     
