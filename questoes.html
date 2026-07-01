@@ -288,7 +288,46 @@
   .hide-when-result { display: block; }
   .result-screen.visible ~ .hide-when-result { display: none; }
 
+  /* Subject grid */
+  .area-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .area-card {
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 20px 16px;
+    cursor: pointer;
+    transition: 0.25s;
+    border: 1px solid transparent;
+  }
+  .area-card:hover { border-color: var(--accent); transform: translateY(-2px); box-shadow: var(--shadow); }
+  .area-card .area-icon { font-size: 1.8rem; margin-bottom: 6px; }
+  .area-card .area-name { font-weight: 700; font-size: 0.95rem; margin-bottom: 4px; }
+  .area-card .area-count { font-size: 0.8rem; color: var(--muted); }
+  .area-card .area-subs { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 8px; }
+  .area-card .area-subs span {
+    font-size: 0.65rem; background: var(--card2); padding: 2px 6px;
+    border-radius: 4px; color: var(--muted);
+  }
+
+  /* Subcategory filter pills */
+  .sub-filter {
+    display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px;
+  }
+  .sub-pill {
+    font-size: 0.75rem; padding: 5px 12px; border-radius: 20px;
+    border: 1px solid var(--card2); background: var(--card);
+    color: var(--muted); cursor: pointer; transition: 0.2s;
+  }
+  .sub-pill:hover { border-color: var(--accent); color: var(--text); }
+  .sub-pill.active { background: var(--accent); color: white; border-color: var(--accent); }
+  .sub-pill .count { opacity: 0.7; margin-left: 3px; }
+
   @media (max-width: 500px) {
+    .area-grid { grid-template-columns: 1fr; }
     body { padding: 10px; }
     .question-card { padding: 16px 14px; }
     .question-card .enunciado { font-size: 0.92rem; }
@@ -301,7 +340,7 @@
 <div class="container">
   <!-- Top bar -->
   <div class="topbar">
-    <a href="index.html" class="back">←</a>
+    <a href="index.html" class="back" id="backBtn" onclick="if(document.getElementById('questionView').style.display!='none'){event.preventDefault();voltarGrade()}">←</a>
     <div class="info">
       <div class="title" id="pageTitle">Questões</div>
       <div class="sub" id="pageSub">Carregando...</div>
@@ -309,24 +348,35 @@
     <span class="mode-badge" id="modeBadge">Livre</span>
   </div>
 
-  <!-- Stats -->
-  <div class="stats-bar" id="statsBar">
-    <span class="stat">📝 <strong id="qIndex">1</strong>/<span id="qTotal">0</span></span>
-    <span class="stat">✅ <strong id="qAcertos">0</strong></span>
-    <span class="stat">❌ <strong id="qErros">0</strong></span>
-    <span class="stat" id="timerStat">⏱️ <strong id="qTimer">00:00</strong></span>
-  </div>
+  <!-- Area grid (default view) -->
+  <div id="areaGrid" class="area-grid"></div>
 
-  <!-- Progress dots -->
-  <div class="progress-dots" id="progressDots"></div>
+  <!-- Question view (hidden by default) -->
+  <div id="questionView" style="display:none;">
+    <!-- Subcategory filter -->
+    <div class="sub-filter" id="subFilter"></div>
 
-  <!-- Question area -->
-  <div id="questionArea">
+    <!-- Stats -->
+    <div class="stats-bar" id="statsBar">
+      <span class="stat">📝 <strong id="qIndex">1</strong>/<span id="qTotal">0</span></span>
+      <span class="stat">✅ <strong id="qAcertos">0</strong></span>
+      <span class="stat">❌ <strong id="qErros">0</strong></span>
+      <span class="stat" id="timerStat">⏱️ <strong id="qTimer">00:00</strong></span>
+    </div>
+
+    <!-- Progress dots -->
+    <div class="progress-dots" id="progressDots"></div>
+    <div style="text-align:center;margin-bottom:12px;" id="backToAreasLink">
+      <a href="#" onclick="voltarGrade();return false" style="color:var(--muted);font-size:0.8rem;text-decoration:none;">← Voltar para áreas</a>
+    </div>
+
+    <!-- Question area -->
+    <div id="questionArea">
     <div class="question-card" id="questionCard">
       <div class="meta">
         <span class="tag area-tag" id="qArea"></span>
         <span class="tag" id="qEspecialidade"></span>
-        <span class="tag" id="qAssunto"></span>
+        <span class="tag" id="qFonte"></span>
         <span class="tag" id="qDificuldade"></span>
       </div>
       <div class="enunciado" id="qEnunciado"></div>
@@ -339,8 +389,9 @@
         <button class="btn btn-primary" id="btnConfirm" onclick="confirmAnswer()">Confirmar</button>
         <button class="btn btn-secondary" id="btnNext" onclick="nextQuestion()" style="display:none;">Próxima →</button>
       </div>
-    </div>
-  </div>
+    </div> <!-- /question-card -->
+  </div> <!-- /questionArea -->
+</div> <!-- /questionView -->
 
   <!-- Result screen -->
   <div class="result-screen" id="resultScreen">
@@ -354,8 +405,8 @@
       <div class="item"><div class="num" id="rAproveitamento">0%</div><div class="label">Aproveitamento</div></div>
     </div>
     <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap; margin-top:20px;">
-      <a href="index.html" class="btn btn-secondary" style="flex:0;padding:12px 24px;">← Voltar</a>
-      <button class="btn btn-primary" onclick="reiniciar()" style="flex:0;padding:12px 24px;">🔄 Refazer</button>
+      <a href="#" onclick="voltarGrade();return false" class="btn btn-secondary" style="flex:0;padding:12px 24px;">← Áreas</a>
+      <button class="btn btn-primary" onclick="refazerArea()" style="flex:0;padding:12px 24px;">🔄 Refazer</button>
     </div>
   </div>
 </div>
@@ -364,6 +415,7 @@
 // ─── State ───
 const STORAGE_KEY = 'hermesmed_progresso';
 const REVISAO_KEY = 'hermesmed_revisao';
+const ASSUNTOS_URL = 'data/assuntos.json';
 
 let questoes = [];
 let currentIndex = 0;
@@ -373,141 +425,177 @@ let timerInterval = null;
 let timerSeconds = 0;
 let answered = false;
 let modo = 'livre';
-let areaFiltro = null;
-let questoesOriginais = [];
+let areaAtual = null;
+let subareaFiltro = null;
+let questoesFiltradas = [];
+let assuntoData = null;
+
+const AREA_ICONS = {
+  'clinica-medica': '🫀', 'cirurgia': '🔪', 'pediatria': '👶',
+  'ginecologia': '🩺', 'medicina-preventiva': '🛡️'
+};
+const AREA_COLORS = {
+  'clinica-medica': '#ff6b6b', 'cirurgia': '#4ecdc4', 'pediatria': '#ffd93d',
+  'ginecologia': '#ff8fab', 'medicina-preventiva': '#6c5ce7'
+};
 
 // ─── Init ───
 const params = new URLSearchParams(window.location.search);
 modo = params.get('modo') || 'livre';
-areaFiltro = params.get('area') || null;
+const areaParam = params.get('area') || null;
 
 document.getElementById('modeBadge').textContent =
   modo === 'prova' ? 'Prova' : modo === 'revisao' ? 'Revisão' : 'Livre';
 
 async function init() {
-  // Carregar questões
+  // Always load assuntoData first (needed by both modes)
+  try {
+    const r = await fetch(ASSUNTOS_URL);
+    assuntoData = await r.json();
+  } catch {
+    assuntoData = {};
+  }
+
   if (modo === 'revisao') {
     await carregarRevisao();
-  } else if (areaFiltro) {
-    await carregarArea(areaFiltro);
+  } else if (areaParam && assuntoData[areaParam]) {
+    document.getElementById('areaGrid').style.display = 'none';
+    await abrirArea(areaParam);
   } else {
-    await carregarTodas();
+    await mostrarGrade();
+  }
+}
+
+// ─── Grade de Áreas ───
+async function mostrarGrade() {
+  try {
+    const r = await fetch(ASSUNTOS_URL);
+    assuntoData = await r.json();
+  } catch {
+    document.getElementById('pageSub').textContent = 'Erro ao carregar assuntos';
+    return;
+  }
+
+  document.getElementById('pageTitle').textContent = 'Estude por Assunto';
+  document.getElementById('pageSub').textContent =
+    `${Object.keys(assuntoData).length} áreas • ${Object.values(assuntoData).reduce((s, a) => s + a.total, 0)} questões`;
+
+  const grid = document.getElementById('areaGrid');
+  grid.innerHTML = '';
+
+  for (const [slug, info] of Object.entries(assuntoData)) {
+    const subs = Object.values(info.subcategorias || {});
+    let subsHtml = subs.slice(0, 4).map(s => `<span>${s.nome}</span>`).join('');
+    if (subs.length > 4) subsHtml += `<span>+${subs.length - 4}</span>`;
+
+    const card = document.createElement('div');
+    card.className = 'area-card';
+    card.innerHTML = `
+      <div class="area-icon">${AREA_ICONS[slug] || '📚'}</div>
+      <div class="area-name" style="color:${AREA_COLORS[slug] || 'var(--text)'}">${info.nome}</div>
+      <div class="area-count">${info.total} questões</div>
+      <div class="area-subs">${subsHtml}</div>
+    `;
+    card.onclick = () => abrirArea(slug);
+    grid.appendChild(card);
+  }
+
+  document.getElementById('areaGrid').style.display = 'grid';
+  document.getElementById('questionView').style.display = 'none';
+}
+
+// ─── Abrir Área ───
+const AREA_NAMES = {
+  'clinica-medica': 'Clínica Médica', 'cirurgia': 'Cirurgia',
+  'pediatria': 'Pediatria', 'ginecologia': 'Ginecologia e Obstetrícia',
+  'medicina-preventiva': 'Medicina Preventiva'
+};
+
+async function abrirArea(slug) {
+  areaAtual = slug;
+  subareaFiltro = null;
+  document.getElementById('areaGrid').style.display = 'none';
+
+  try {
+    const r = await fetch(`data/${slug}.json`);
+    const data = await r.json();
+    questoes = data.questoes || [];
+  } catch {
+    questoes = [];
   }
 
   if (questoes.length === 0) {
     document.getElementById('pageSub').textContent = 'Nenhuma questão disponível';
-    document.getElementById('qEnunciado').innerHTML = `
-      <div style="text-align:center;padding:40px;color:var(--muted);">
-        <div style="font-size:3rem;margin-bottom:12px;">📭</div>
-        <strong>Nenhuma questão encontrada</strong>
-        <p style="margin-top:8px;">Adicione arquivos .json na pasta /data/</p>
-        <a href="index.html" class="btn btn-primary" style="display:inline-block;margin-top:16px;padding:12px 24px;">← Voltar</a>
-      </div>`;
-    document.getElementById('qAlternativas').innerHTML = '';
     return;
   }
 
-  questoesOriginais = [...questoes];
-  if (modo === 'prova') {
-    // Embaralhar para modo prova
-    questoes = questoes.sort(() => Math.random() - 0.5).slice(0, 60);
+  questoesFiltradas = [...questoes];
+  document.getElementById('pageTitle').textContent = AREA_NAMES[slug] || slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+  document.getElementById('pageSub').textContent = `${questoes.length} questões`;
+  document.getElementById('modeBadge').textContent = '📖 Livre';
+
+  // Subarea filter
+  const info = assuntoData?.[slug];
+  const subs = info?.subcategorias ? Object.entries(info.subcategorias) : [];
+  const filterEl = document.getElementById('subFilter');
+  if (subs.length > 0) {
+    filterEl.innerHTML = `<span class="sub-pill active" data-sub="" onclick="filtrarSubarea('')">Todas <span class="count">(${questoes.length})</span></span>` +
+      subs.map(([subSlug, subInfo]) =>
+        `<span class="sub-pill" data-sub="${subSlug}" onclick="filtrarSubarea('${subSlug}')">${subInfo.nome} <span class="count">(${subInfo.total})</span></span>`
+      ).join('');
+  } else {
+    filterEl.innerHTML = '';
   }
 
-  document.getElementById('qTotal').textContent = questoes.length;
-  document.getElementById('pageSub').textContent =
-    areaFiltro ? areaFiltro.replace(/-/g,' ').replace(/\b\w/g, l => l.toUpperCase()) :
-    modo === 'prova' ? `${questoes.length} questões • 60 min` :
-    `${questoes.length} questões`;
+  // Show question view
+  document.getElementById('questionView').style.display = 'block';
 
-  if (modo === 'prova') iniciarTimer();
-
+  // Init question state
+  questoesFiltradas = [...questoes];
+  currentIndex = 0;
+  acertos = 0;
+  erros = 0;
+  answered = false;
+  document.getElementById('qTotal').textContent = questoesFiltradas.length;
   renderDots();
   showQuestion(0);
 }
 
-// ─── Load questions ───
-async function carregarArea(areaId) {
-  const areas = {
-    'clinica-medica': 'Clínica Médica',
-    'cirurgia': 'Cirurgia',
-    'pediatria': 'Pediatria',
-    'ginecologia': 'Ginecologia e Obstetrícia',
-    'medicina-preventiva': 'Medicina Preventiva',
-    'medicina-intensiva': 'Medicina Intensiva',
-    'emergencia': 'Emergência e Trauma',
-    'ortopedia': 'Ortopedia',
-    'oftalmologia': 'Oftalmologia',
-    'otorrino': 'Otorrinolaringologia',
-    'dermatologia': 'Dermatologia',
-    'psiquiatria': 'Psiquiatria',
-    'geriatria': 'Geriatria',
-    'infectologia': 'Infectologia',
-    'nefrologia': 'Nefrologia',
-    'reumatologia': 'Reumatologia',
-  };
-  document.getElementById('pageTitle').textContent = areas[areaId] || areaId;
-  try {
-    const resp = await fetch(`data/${areaId}.json`);
-    if (!resp.ok) throw new Error('404');
-    const data = await resp.json();
-    questoes = data.questoes || [];
-    // Carregar progresso
-    const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-    const prog = progresso[areaId] || {};
-  } catch {
-    questoes = [];
-  }
-}
-
-async function carregarTodas() {
-  document.getElementById('pageTitle').textContent = 'Todas as Áreas';
-  const areas = [
-    'clinica-medica','cirurgia','pediatria','ginecologia',
-    'medicina-preventiva','medicina-intensiva','emergencia','ortopedia',
-    'oftalmologia','otorrino','dermatologia','psiquiatria',
-    'geriatria','infectologia','nefrologia','reumatologia'
-  ];
-  for (const area of areas) {
-    try {
-      const resp = await fetch(`data/${area}.json`);
-      if (!resp.ok) continue;
-      const data = await resp.json();
-      if (data.questoes) {
-        questoes = questoes.concat(data.questoes.map(q => ({...q, _area: area})));
-      }
-    } catch {}
-  }
-}
-
-async function carregarRevisao() {
-  document.getElementById('pageTitle').textContent = 'Revisão Espaçada';
-  document.getElementById('modeBadge').textContent = '📅 Revisão';
-  const sessoes = JSON.parse(localStorage.getItem(REVISAO_KEY) || '{}');
-  const hoje = new Date().toISOString().split('T')[0];
-  const idsPendentes = Object.keys(sessoes).filter(id => sessoes[id].proxima <= hoje);
-
-  if (idsPendentes.length === 0) {
-    questoes = [];
-    return;
-  }
-
-  // Carregar todas as questões para encontrar as pendentes
-  await carregarTodas();
-  questoes = questoes.filter(q => idsPendentes.includes(String(q.id)));
-  // Ordenar: mais atrasadas primeiro
-  questoes.sort((a, b) => {
-    const da = sessoes[String(a.id)]?.proxima || '';
-    const db = sessoes[String(b.id)]?.proxima || '';
-    return da.localeCompare(db);
+// ─── Filter by subarea ───
+function filtrarSubarea(subSlug) {
+  subareaFiltro = subSlug || null;
+  document.querySelectorAll('#subFilter .sub-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.sub === (subSlug || ''));
   });
+
+  if (!subareaFiltro) {
+    questoesFiltradas = [...questoes];
+  } else {
+    const subNome = assuntoData?.[areaAtual]?.subcategorias?.[subareaFiltro]?.nome || '';
+    questoesFiltradas = questoes.filter(q =>
+      q.subarea && q.subarea.toLowerCase() === subNome.toLowerCase()
+    );
+  }
+
+  currentIndex = 0;
+  acertos = 0;
+  erros = 0;
+  answered = false;
+  document.getElementById('qTotal').textContent = questoesFiltradas.length;
+  document.getElementById('pageSub').textContent =
+    subareaFiltro
+      ? `${assuntoData?.[areaAtual]?.subcategorias?.[subareaFiltro]?.nome || subareaFiltro} • ${questoesFiltradas.length} questões`
+      : `${questoes.length} questões`;
+  renderDots();
+  showQuestion(0);
 }
 
 // ─── Display ───
 function showQuestion(index) {
-  if (index < 0 || index >= questoes.length) return;
+  if (index < 0 || index >= questoesFiltradas.length) return;
   currentIndex = index;
   answered = false;
-  const q = questoes[index];
+  const q = questoesFiltradas[index];
 
   document.getElementById('qIndex').textContent = index + 1;
   document.getElementById('qAcertos').textContent = acertos;
@@ -516,7 +604,8 @@ function showQuestion(index) {
   // Meta
   document.getElementById('qArea').textContent = q.area || '';
   document.getElementById('qEspecialidade').textContent = q.especialidade || '';
-  document.getElementById('qAssunto').textContent = q.assunto || '';
+  const fonte = q.fonte || (q._simulado ? `Estratégia MED ${q._simulado.replace('-simulado','')}ª Ed.` : '');
+  document.getElementById('qFonte').textContent = fonte;
   const diff = q.dificuldade || 'Média';
   document.getElementById('qDificuldade').textContent = diff;
 
@@ -569,7 +658,7 @@ function confirmAnswer() {
   if (!selectedLetra || answered) return;
   answered = true;
 
-  const q = questoes[currentIndex];
+  const q = questoesFiltradas[currentIndex];
   const correta = q.correta;
   const isCorrect = selectedLetra === correta;
 
@@ -645,7 +734,7 @@ function confirmAnswer() {
 }
 
 function nextQuestion() {
-  if (currentIndex + 1 < questoes.length) {
+  if (currentIndex + 1 < questoesFiltradas.length) {
     showQuestion(currentIndex + 1);
   } else {
     mostrarResultado();
@@ -654,7 +743,7 @@ function nextQuestion() {
 
 // ─── Salvar progresso ───
 function salvarProgresso(q, isCorrect) {
-  const areaKey = q._area || areaFiltro || q.area?.toLowerCase().replace(/[^a-z0-9]/g, '-') || 'geral';
+  const areaKey = areaAtual || q.area?.toLowerCase().replace(/[^a-z0-9]/g, '-') || 'geral';
   const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
   if (!progresso[areaKey]) progresso[areaKey] = {};
   progresso[areaKey][String(q.id)] = isCorrect;
@@ -691,13 +780,13 @@ function renderDots() {
   container.innerHTML = '';
   const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
 
-  questoes.forEach((q, i) => {
+  questoesFiltradas.forEach((q, i) => {
     const dot = document.createElement('div');
     dot.className = 'dot';
     if (i === currentIndex) dot.classList.add('current');
     dot.textContent = i + 1;
 
-    const areaKey = q._area || areaFiltro || 'geral';
+    const areaKey = areaAtual || 'geral';
     const prog = progresso[areaKey] || {};
     const res = prog[String(q.id)];
     if (res === true) dot.classList.add('correct');
@@ -732,13 +821,16 @@ function iniciarTimer() {
 function mostrarResultado() {
   if (timerInterval) clearInterval(timerInterval);
 
-  const total = questoes.length;
+  const total = questoesFiltradas.length;
   const pct = total > 0 ? Math.round((acertos / total) * 100) : 0;
 
   document.getElementById('questionArea').style.display = 'none';
   document.getElementById('resultScreen').classList.add('visible');
+  document.getElementById('resultScreen').style.display = '';
   document.getElementById('statsBar').style.display = 'none';
   document.getElementById('progressDots').style.display = 'none';
+  document.getElementById('subFilter').style.display = 'none';
+  document.getElementById('backToAreasLink').style.display = 'none';
 
   let icon, title;
   if (pct >= 80) { icon = '🏆'; title = 'Excelente!'; }
@@ -755,9 +847,80 @@ function mostrarResultado() {
   document.getElementById('rAproveitamento').textContent = `${pct}%`;
 }
 
-function reiniciar() {
-  localStorage.removeItem(REVISAO_KEY);
-  window.location.reload();
+function refazerArea() {
+  if (areaAtual) {
+    const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+    delete progresso[areaAtual];
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(progresso));
+  }
+  location.reload();
+}
+
+// ─── Back to area grid ───
+function voltarGrade() {
+  document.getElementById('questionView').style.display = 'none';
+  document.getElementById('areaGrid').style.display = 'grid';
+  document.getElementById('resultScreen').classList.remove('visible');
+  document.getElementById('resultScreen').style.display = 'none';
+  document.getElementById('questionArea').style.display = 'block';
+  document.getElementById('statsBar').style.display = 'flex';
+  document.getElementById('progressDots').style.display = 'flex';
+  if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
+}
+
+// ─── Revisão Espaçada ───
+async function carregarRevisao() {
+  document.getElementById('pageTitle').textContent = 'Revisão Espaçada';
+  document.getElementById('modeBadge').textContent = '📅 Revisão';
+  const sessoes = JSON.parse(localStorage.getItem(REVISAO_KEY) || '{}');
+  const hoje = new Date().toISOString().split('T')[0];
+  const idsPendentes = Object.keys(sessoes).filter(id => sessoes[id].proxima <= hoje);
+
+  if (idsPendentes.length === 0) {
+    document.getElementById('pageSub').textContent = 'Nenhuma revisão pendente! 🎉';
+    return;
+  }
+
+  // Carregar do arquivo da área atual ou de todas
+  if (areaAtual) {
+    try {
+      const r = await fetch(`data/${areaAtual}.json`);
+      const data = await r.json();
+      questoes = data.questoes || [];
+    } catch { questoes = []; }
+  } else {
+    questoes = [];
+    const areas = Object.keys(assuntoData || {'clinica-medica':1,'cirurgia':1,'pediatria':1,'ginecologia':1,'medicina-preventiva':1});
+    for (const a of areas) {
+      try {
+        const r = await fetch(`data/${a}.json`);
+        if (!r.ok) continue;
+        const data = await r.json();
+        if (data.questoes) questoes = questoes.concat(data.questoes.map(q => ({...q, _area: a})));
+      } catch {}
+    }
+  }
+
+  questoesFiltradas = questoes.filter(q => idsPendentes.includes(String(q.id)));
+  questoesFiltradas.sort((a, b) => {
+    const da = sessoes[String(a.id)]?.proxima || '';
+    const db = sessoes[String(b.id)]?.proxima || '';
+    return da.localeCompare(db);
+  });
+
+  if (questoesFiltradas.length === 0) {
+    document.getElementById('pageSub').textContent = 'Nenhuma revisão pendente! 🎉';
+    return;
+  }
+
+  document.getElementById('areaGrid').style.display = 'none';
+  document.getElementById('questionView').style.display = 'block';
+  document.getElementById('subFilter').innerHTML = '';
+  document.getElementById('qTotal').textContent = questoesFiltradas.length;
+  document.getElementById('pageSub').textContent = `${questoesFiltradas.length} questões pendentes`;
+  currentIndex = 0; acertos = 0; erros = 0; answered = false;
+  renderDots();
+  showQuestion(0);
 }
 
 // ─── Keyboard shortcut ───

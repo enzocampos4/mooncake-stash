@@ -1,0 +1,44 @@
+{
+  "questoes": [
+    {
+      "id": "s9-037",
+      "numero": 37,
+      "area": "Cirurgia - Hepatologia",
+      "enunciado": "Paciente masculino, 58 anos, com cirrose hepática por \nhepatite C tratada, em seguimento ambulatorial. Apresenta função hepática preservada (Child-Pugh A), sem ascite ou encefalopatia.\nDurante rastreio, foi identificado nódulo hepático único de 3,2 cm em segmento VI, com padrão típico de realce arterial e washout portal \nna tomografia. Alfafetoproteína: 120 ng/mL. Não há evidência de invasão vascular ou metástases à distância.\nDiante do caso clínico apresentado, assinale a alternativa que indica a conduta mais adequada.",
+      "alternativas": {
+        "A": "Indicar ressecção hepática do segmento acometido.",
+        "B": "Indicar transplante hepático de forma prioritária, independentemente de outros fatores.",
+        "C": "Iniciar terapia sistêmica com sorafenibe como tratamento de primeira linha.",
+        "D": "Indicar quimioembolização transarterial (TACE) como tratamento inicial."
+      },
+      "correta": "A",
+      "explicacao": null,
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "imagens": [],
+      "_simulado": "9-simulado",
+      "_edicao": "9",
+      "subarea": "",
+      "_area_slug": "cirurgia---hepatologia"
+    },
+    {
+      "id": "s9-054",
+      "numero": 54,
+      "area": "Cirurgia - Hepatologia",
+      "enunciado": "Paciente do sexo masculino, 52 anos, com história \nde obesidade (IMC: 31 kg/m²), diabetes mellitus tipo 2 e hipertensão arterial, comparece para avaliação de exames de rotina. Nega \nconsumo significativo de álcool (< 20 g/dia). Exames laboratoriais mostram: ALT = 42 U/L, AST = 38 U/L, glicemia de jejum = 132 mg/dL, \nHbA1c = 7,4%. Ultrassonografia abdominal indica esteatose hepática. Foi calculado o escore FIB-4, com resultado de 1,1.\nDiante do caso clínico apresentado, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O diagnóstico depende obrigatoriamente de biópsia hepática para confirmação da esteatose associada à disfunção metabólica.",
+        "B": "O paciente apresenta critérios para doença hepática esteatótica associada à disfunção metabólica, sendo indicado estratificar risco de",
+        "C": "A presença de transaminases normais exclui doença hepática significativa, não sendo necessária investigação adicional.",
+        "D": "O tratamento farmacológico com vitamina E deve ser iniciado rotineiramente em todos os pacientes com esteatose hepática."
+      },
+      "correta": "B",
+      "explicacao": "Essa é uma questão que explora um tema recente e de altíssimo rendimento, principalmente pela mudança de nomenclatura e abordagem.\nTemos um paciente com síndrome metabólica clássica: obesidade, DM2 e hipertensão. Além disso, apresenta esteatose hepática ao ultrassom \ne consumo alcoólico baixo, o que afasta etiologia alcoólica.\nAqui entra o primeiro ponto-chave: o diagnóstico atual de doença hepática esteatótica associada à disfunção metabólica (MASLD) é feito \nquando há esteatose hepática associada a pelo menos um fator cardiometabólico, o que está claramente presente nesse caso.\nOutro ponto fundamental da questão é a estratificação de fibrose, que hoje é o centro do manejo desses pacientes. O FIB-4 é uma ferramenta \ninicial amplamente utilizada:\nFIB-4 < 1,3 → baixo risco de fibrose avançada.\nFIB-4 intermediário/alto → necessidade de avaliação adicional (ex.: elastografia).\nNo caso, o paciente tem FIB-4 de 1,1, o que sugere baixo risco de fibrose avançada, permitindo seguimento clínico sem necessidade imediata \nde métodos mais complexos.\nTendo isso em mente, vamos analisar as alternativas.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n109\nRESIDÊNCIA MÉDICA\nIncorreta a alternativa A. A biópsia hepática não é obrigatória para diagnóstico. Hoje ela fica reservada para casos de dúvida diagnóstica ou \nnecessidade de estadiamento mais preciso.\nCorreta a alternativa B. O paciente preenche critérios para MASLD e a conduta correta inclui estratificação de fibrose, sendo que um FIB-4 \nbaixo praticamente afasta fibrose avançada nesse contexto.\nIncorreta a alternativa C. Transaminases normais não excluem doença significativa. Muitos pacientes com fibrose avançada podem ter \nenzimas normais.\nIncorreta a alternativa D. O uso de vitamina E não é universal. Está restrito a subgrupos específicos e não é indicado rotineiramente para \ntodos os pacientes.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "imagens": [],
+      "_simulado": "9-simulado",
+      "_edicao": "9",
+      "subarea": "",
+      "_area_slug": "cirurgia---hepatologia"
+    }
+  ]
+}

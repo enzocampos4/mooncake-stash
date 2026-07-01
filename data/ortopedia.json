@@ -1,1 +1,27 @@
-{"area":"","icone":"","cor":"","questoes":[],"flashcards":[]}
+{
+  "questoes": [
+    {
+      "id": "s14-005",
+      "numero": 5,
+      "area": "Ortopedia",
+      "enunciado": "No contexto ortopédico \nda síndrome de Down, assinale a alternativa correta:",
+      "alternativas": {
+        "A": "Uma deformidade comum é o pé cavo adulto, que necessita de intervenção cirúrgica devido ao quadro álgico na vida adulta.",
+        "B": "O alinhamento dos joelhos é normalmente em varo, que necessita de intervenção cirúrgica quando acima de 8 centímetros de distância entre os côndilos femorais.",
+        "C": "A instabilidade atlantoaxial deve ser acompanhada anualmente com radiografias, sendo a intervenção cirúrgica frequente em casos em que o intervalo atlanto-dente está acima de 2,5mm.",
+        "D": "Osteopenia e sarcopenia são comuns na vida adulta, sendo necessária intervenção precoce para preservação de massa óssea e muscular."
+      },
+      "correta": "D",
+      "explicacao": "O que o examinador quer saber com esta pergunta?\nCondutas ortopédicas na síndrome de Down.\nO que você precisa saber para responder a esta pergunta?\nCondutas ortopédicas na Síndrome de Down:\nA Síndrome de Down apresenta atraso no desenvolvimento motor e importante frouxidão ligamentar (que pode contribuir para esse\natraso). A frouxidão ligamentar leva a algumas alterações fisiológicas: geno valgo mais intenso, pés planos valgos flexíveis mais intensos,\nhipermobilidade, predisposição à luxação do quadril e instabilidade atlantoaxial.\n\nEstratégia\nMED\n8\nA grande preocupação com a instabilidade atlantoaxial é a possibilidade de lesão neurológica durante a prática de atividades físicas. Por isso,\npor muito tempo, crianças com síndrome de Down foram proibidas de praticar ginástica olímpica, entre outros esportes.\nTornou-se, assim, conduta padrão realizar uma avaliação da coluna cervical na síndrome de Down, buscando-se alterações no intervalo\natlanto-dente (distância entre o anel de C1 e o odontoide) durante a flexão e a extensão.\n\nEstratégia\nMED\n9\nA figura abaixo apresenta as principais condutas ortopédicas na Síndrome de Down.\nContudo, já na edição de 2014 do livro de Ortopedia\nPediátrica Tachdjian’s (5ª edição), e quiçá antes, foi\nabolida a necessidade dessa avaliação por alguns\nmotivos:\n- Uma avaliação hoje não implica que não haverá\ninstabilidade amanhã.\n- O exame radiográfico é de difícil realização e\npouco confiável.\n- Basicamente, não há condutas a serem tomadas a\nnão ser que haja déficit neurológico.\n- O risco de lesão durante atividades físicas é muito\nbaixo.\nEntretanto, ainda persiste o hábito de se solicitar\navaliação radiográfica da coluna cervical para\ntodo paciente com Síndrome de Down (enquanto\no quadril é, geralmente, ignorado, apesar de\napresentar uma incidência muito maior de\ncomplicações do que a coluna cervical).\nDiscussão das alternativas\nIncorreta a alternativa A, pois a deformidade mais comum dos pés são pés planos valgos.\nIncorreta a alternativa B, pois a deformidade dos joelhos mais comum é em valgo.\n\nEstratégia\nMED\n10\nIncorreta a alternativa C. Como discutimos acima, não é necessário fazer avaliação anual da instabilidade, e a indicação cirúrgica é quando o\nintervalo é acima de 10mm.\nCorreta a alternativa D. No caso, a intervenção principal é atividade física (atividades de impacto e musculação).",
+      "imagens": [
+        "data/simulados/imgs/14-simulado/q5_img1.jpeg",
+        "data/simulados/imgs/14-simulado/q5_img2.jpeg",
+        "data/simulados/imgs/14-simulado/q5_img3.jpeg"
+      ],
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "",
+      "_area_slug": "ortopedia"
+    }
+  ]
+}

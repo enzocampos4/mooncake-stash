@@ -228,31 +228,39 @@ async function listar() {
   v.style.display = 'none'; el.style.display = 'block';
 
   try {
-    const r = await fetch('data/simulados/14-simulado.json');
-    const data = await r.json();
-    const prog = carregarProgresso('14-simulado');
-    const resp = prog ? (prog.respostas || {}) : {};
-    const respondidas = Object.keys(resp).filter(k => resp[k] !== undefined).length;
-    const acertos = Object.keys(resp).filter(k => resp[k] === 'certo').length;
-    const pct = data.total_questoes > 0 ? Math.round((respondidas / data.total_questoes) * 100) : 0;
+    const r = await fetch('data/simulados/index.json');
+    const simulados = await r.json();
 
-    el.innerHTML = `
-      <div class="sim-card" onclick="iniciar('14-simulado')">
+    let totalGeral = 0;
+    let html = '';
+    for (const sim of simulados) {
+      totalGeral += sim.total_questoes;
+      const prog = carregarProgresso(sim.id);
+      const resp = prog ? (prog.respostas || {}) : {};
+      const respondidas = Object.keys(resp).filter(k => resp[k] !== undefined).length;
+      const acertos = Object.keys(resp).filter(k => resp[k] === 'certo').length;
+      const pct = sim.total_questoes > 0 ? Math.round((respondidas / sim.total_questoes) * 100) : 0;
+
+      html += `
+      <div class="sim-card" onclick="iniciar('${sim.id}')">
         <div class="sim-header">
-          <div class="sim-title">${data.simulado}</div>
-          <span class="sim-badge">${data.total_questoes} questões</span>
+          <div class="sim-title">${sim.nome}</div>
+          <span class="sim-badge">${sim.total_questoes} questões</span>
         </div>
         <div class="sim-meta">
-          <span>📅 ${data.data}</span>
+          <span>📅 ${sim.data}</span>
           <span>🏷️ ENAMED</span>
         </div>
         <div class="sim-stats">
           <span class="s">✅ <strong>${acertos}</strong> acertos</span>
-          <span class="s">📊 <strong>${respondidas}</strong>/${data.total_questoes}</span>
+          <span class="s">📊 <strong>${respondidas}</strong>/${sim.total_questoes}</span>
           <span class="s">🎯 <strong>${pct}%</strong></span>
         </div>
         <div class="sim-stats-bar"><div class="fill" style="width:${pct}%"></div></div>
-      </div>
+      </div>`;
+    }
+
+    el.innerHTML = html + `
       <div style="max-width:500px;margin:0 auto;">
         <div class="modo-selector" id="modoSelector">
           <div class="modo-btn active" data-modo="questoes" onclick="selecionarModo('questoes')">
@@ -266,10 +274,10 @@ async function listar() {
             <div class="desc">4h • Gabarito só no final</div>
           </div>
         </div>
-        <button class="btn btn-primary" onclick="iniciar('14-simulado')" style="width:100%;padding:14px;font-size:1rem;">🎯 Iniciar Simulado</button>
-      </div>
-    `;
-    document.getElementById('pageSub').textContent = '1 simulado disponível';
+        <button class="btn btn-primary" onclick="iniciar('${simulados[0].id}')" style="width:100%;padding:14px;font-size:1rem;">🎯 Iniciar ${simulados[0].nome}</button>
+      </div>`;
+
+    document.getElementById('pageSub').textContent = `${simulados.length} simulados • ${totalGeral} questões`;
   } catch(e) {
     el.innerHTML = `<div style="text-align:center;padding:60px 20px;color:var(--muted);">
       <div style="font-size:3rem;margin-bottom:12px;">📭</div>

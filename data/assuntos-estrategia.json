@@ -1,0 +1,176 @@
+{
+  "cirurgia": {
+    "nome": "Cirurgia",
+    "subcategorias": [
+      "Avaliação Pré-Operatória", "Princípios da Anestesiologia",
+      "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
+      "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+      "Complicações Pós-Operatórias", "Cicatrização de Feridas",
+      "Temas Gerais em Cirurgia", "Hérnias da Parede Abdominal",
+      "Trauma", "Queimaduras e Trauma Elétrico",
+      "Urgências Abdominais", "Cirurgia Bariátrica e Metabólica",
+      "Vesícula e Vias Biliares", "Ostomias Intestinais",
+      "Megacólon Adquirido", "Proctologia",
+      "Cirurgia Infantil", "Cirurgia Vascular",
+      "Urologia", "Cirurgia Plástica",
+      "Cirurgia Torácica", "Cirurgia de Cabeça e Pescoço"
+    ]
+  },
+  "clinica-medica": {
+    "nome": "Clínica Médica",
+    "subcategorias": [
+      "Cardiologia", "Dermatologia", "Endocrinologia",
+      "Gastroenterologia", "Hepatologia", "Hematologia",
+      "Infectologia", "Nefrologia", "Neurologia",
+      "Pneumologia", "Reumatologia"
+    ],
+    "subdetalhes": {
+      "Cardiologia": [
+        "Hipertensão Arterial Sistêmica (HAS)", "Insuficiência Cardíaca",
+        "Aterosclerose e Doença Arterial Coronariana", "Valvopatias",
+        "Arritmias Cardíacas", "Fisiologia Cardíaca e Eletrocardiograma",
+        "Síndromes aórticas agudas", "Doenças do pericárdio",
+        "Choque", "Cardiomiopatias"
+      ],
+      "Dermatologia": [
+        "Anatomia e fisiologia da pele", "Lesões elementares",
+        "Dermatoses papuloescamosas", "Dermatoses eczematosas",
+        "Dermatoses vesicobolhosas", "Hanseníase",
+        "Dermatoses infecciosas", "Farmacodermias",
+        "Câncer de pele", "Miscelânea", "R+ e Prova de Título"
+      ],
+      "Endocrinologia": [
+        "Diabetes", "Tireoide", "Metabolismo Ósseo e Mineral",
+        "Adrenal", "Obesidade e síndrome metabólica", "Hipófise",
+        "Neoplasias endócrinas múltiplas", "Gênero",
+        "Disfunção sexual masculina", "Tireotoxicose",
+        "Hipoglicemia em indivíduos não diabéticos"
+      ],
+      "Gastroenterologia": [
+        "Esôfago", "Estômago", "Pâncreas", "Intestinos",
+        "Hemorragia Digestiva (HD)", "Neoplasias do Sistema Digestivo",
+        "Procedimentos endoscópicos"
+      ],
+      "Hepatologia": [
+        "Introdução à Hepatologia", "Icterícia não Obstrutiva",
+        "Hepatites Virais", "Cirrose", "Outras Hepatopatias",
+        "Complicações da Insuficiência Hepática", "Tumores Hepáticos",
+        "Transplante Hepático e Hepatectomia",
+        "Hepatite Fulminante (Insuficiência Hepática Aguda)"
+      ],
+      "Hematologia": [
+        "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+        "Introdução ao Estudo das Anemias", "Anemias microcíticas",
+        "Hemoglobinopatias", "Anemias macrocíticas",
+        "Anemias hemolíticas", "Anemias e condições não hematológicas",
+        "Porfirias", "Fundamentos de oncohematologia", "Leucemias",
+        "Mielodisplasias e mieloproliferações: outras alterações da medula óssea",
+        "Linfomas", "Linfomas de células T/NK",
+        "Gamopatias monoclonais", "Hemostasia", "Medicina transfusional"
+      ],
+      "Infectologia": [
+        "Microbiologia e Antimicrobianos", "Tuberculose (TB)",
+        "Síndromes febris", "HIV/Aids", "Infecções bacterianas",
+        "Arboviroses", "Pneumonia", "Animais peçonhentos",
+        "Infecções relacionadas à assistência à saúde (IRAS)", "Sepse",
+        "Infecções fúngicas", "Vacinas",
+        "Infecções do Sistema Nervoso Central",
+        "Outras doenças infecciosas", "Hepatoesplenomegalias crônicas",
+        "Influenza", "Herpes simples e Herpes zoster",
+        "Imunossuprimidos não-HIV",
+        "Infecções sexualmente transmissíveis", "Parasitoses",
+        "COVID 19", "DST"
+      ],
+      "Nefrologia": [
+        "Doença Renal Crônica", "Lesão renal aguda (LRA)",
+        "Túbulo-Interstício", "Infecção do trato urinário (ITU)",
+        "Controle da água corporal total", "Hiponatremia", "Hipernatremia",
+        "Distúrbios do potássio", "Distúrbios do equilíbrio acidobásico (DHE)",
+        "Nefrolitíase", "Glomerulopatias"
+      ],
+      "Neurologia": [
+        "Anatomia, Fisiologia e Semiologia Neurológica",
+        "Coma e Alterações da Consciência", "Cefaleias", "Demências",
+        "Epilepsias", "Distúrbios do Movimento",
+        "Doenças Neuromusculares", "Acidentes Vasculares Cerebrais (AVC)",
+        "Distúrbios do Sono", "Mielopatias",
+        "Doenças Imunológicas do Sistema Nervoso Central",
+        "Tumores do Sistema Nervoso Central",
+        "Traumatismo Craniencefálico", "Neurologia Vestibular"
+      ],
+      "Pneumologia": [
+        "Derrame Pleural", "Pneumologia Intensiva",
+        "Doença Pulmonar Obstrutiva Crônica (DPOC)", "Asma",
+        "Tromboembolismo Pulmonar (TEP)", "Introdução à Pneumologia",
+        "Câncer de Pulmão",
+        "Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo"
+      ],
+      "Reumatologia": [
+        "Introdução à Reumatologia", "Diagnóstico diferencial das artropatias",
+        "Artropatias inflamatórias", "Artropatias infecciosas",
+        "Doenças autoimunes do tecido conjuntivo", "Vasculites",
+        "Doenças da cartilagem e do osso", "Doenças da infância",
+        "Síndromes Dolorosas Crônicas",
+        "Doenças sistêmicas com manifestações reumatológicas",
+        "Sarcoidose", "Amiloidose",
+        "Doença relacionada à IgG4", "Síndrome SAPHO"
+      ]
+    }
+  },
+  "ginecologia": {
+    "nome": "Ginecologia",
+    "subcategorias": [
+      "Ginecologia básica", "Ginecologia geral",
+      "Ginecologia endócrina", "Infecções em ginecologia",
+      "Oncologia ginecológica", "Mastologia",
+      "Uroginecologia", "Sexualidade"
+    ]
+  },
+  "obstetricia": {
+    "nome": "Obstetrícia",
+    "subcategorias": [
+      "Obstetrícia fisiológica", "Pré-natal", "Parto", "Puerpério",
+      "Intercorrências obstétricas /obstetrícia patológica",
+      "Doenças associadas à gestação", "Medicina fetal"
+    ]
+  },
+  "medicina-preventiva": {
+    "nome": "Medicina Preventiva",
+    "subcategorias": [
+      "Sistema Único de Saúde (SUS)", "Medicina de Família e Comunidade",
+      "Epidemiologia", "Ética Médica", "Saúde do Trabalhador"
+    ]
+  },
+  "pediatria": {
+    "nome": "Pediatria",
+    "subcategorias": [
+      "Puericultura", "Pneumologia Pediátrica",
+      "Infectologia Pediátrica", "Cardiologia Pediátrica",
+      "Gastrologia Pediátrica", "Hematologia Pediátrica",
+      "Nefrologia Pediátrica", "Neuropediatria",
+      "Reumatologia Pediátrica", "Endocrinologia pediátrica",
+      "Emergências Pediátricas", "Neonatologia",
+      "Maus tratos à crianças e adolescentes", "Outros"
+    ]
+  },
+  "oftalmologia": {
+    "nome": "Oftalmologia",
+    "subcategorias": []
+  },
+  "ortopedia": {
+    "nome": "Ortopedia",
+    "subcategorias": []
+  },
+  "otorrino": {
+    "nome": "Otorrinolaringologia",
+    "subcategorias": []
+  },
+  "psiquiatria": {
+    "nome": "Psiquiatria",
+    "subcategorias": []
+  },
+  "medicina-legal": {
+    "nome": "Medicina Legal",
+    "subcategorias": []
+  }
+}

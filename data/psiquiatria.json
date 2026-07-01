@@ -1,1 +1,44 @@
-{"area":"","icone":"","cor":"","questoes":[],"flashcards":[]}
+{
+  "questoes": [
+    {
+      "id": "s11-072",
+      "numero": 72,
+      "area": "Psiquiatria",
+      "enunciado": "Sobre a internação psiquiátrica, é correto afirmar que:",
+      "alternativas": {
+        "A": "a internação involuntária é determinada por ordem judicial.",
+        "B": "a internação voluntária deve ser realizada por médico com CRM ativo.",
+        "C": "no prazo de 72 horas, a internação compulsória deve ser comunicada ao Ministério Público Estadual.",
+        "D": "o término da internação voluntária ocorrerá por solicitação do Ministério Público Estadual."
+      },
+      "correta": "B",
+      "explicacao": "Estrategista, a Lei 10.216, de 2001, ficou conhecida como “lei da reforma psiquiátrica” e dispõe sobre a proteção e os direitos das \npessoas portadoras de transtornos mentais e reorienta o modelo assistência psiquiátrica, o que envolve a mudança na assistência centrada \nna internação hospitalar e cuidados ambulatoriais, para novos pressupostos técnicos e éticos, preservando a individualidade, autonomia do \npaciente e reinserção social, evitando-se internações hospitalares desnecessárias.\nVeja as modalidades de internação psiquiátrica. \n1. Internação voluntária: aquela que ocorre com o consentimento do usuário, que também pode encerrá-la voluntariamente.\n2. Internação involuntária: aquela que se dá sem o consentimento do usuário, a pedido de terceiro e após avaliação médica, que ainda \ndeverá ser comunicada ao Ministério Público Estadual (MPE) pelo médico responsável técnico da instituição em até 72 horas após a admissão \nhospitalar - devendo esse mesmo procedimento ser adotado quando da respectiva alta; nessa situação, a família ou representante legal \npodem encerrar a internação por meio de pedido formal.\n3. Internação compulsória: aquela determinada pela Justiça.\nIncorreta a alternativa A. A internação involuntária é aquela que ocorre sem o consentimento do paciente. Por sua vez, a internação \ncompulsória é aquela determinada pela justiça.\nCorreta a alternativa B, pois a internação voluntária, assim como a involuntária, deve ter uma indicação médica para ocorrer. Ressalta-se que \nnão é necessário que tal indicação seja realizada, necessariamente, por psiquiatra.\nIncorreta a alternativa C, pois a internação involuntária precisa ser informada ao MPE em até 72 horas.\nIncorreta a alternativa D, visto que, na internação voluntária, sua interrupção pode ocorrer por solicitação do paciente ou por alta médica.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "imagens": [],
+      "_simulado": "11-simulado",
+      "_edicao": "11",
+      "subarea": "",
+      "_area_slug": "psiquiatria"
+    },
+    {
+      "id": "s11-078",
+      "numero": 78,
+      "area": "Psiquiatria",
+      "enunciado": "Que medicação a seguir é contraindicada no manejo de \npacientes com sintomas de síndrome de abstinência alcoólica?",
+      "alternativas": {
+        "A": "Carbamazepina.",
+        "B": "Vitamina B1.",
+        "C": "Clorpromazina.",
+        "D": "Clordiazepóxido."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, a síndrome de abstinência alcoólica (SAA) pode se iniciar entre 6 e 24 horas depois do último consumo de álcool ou \nredução da quantidade de álcool ingerida. \nA SAA é representada por sintomas como tremores, que são geralmente as primeiras manifestações clínicas, ansiedade, irritabilidade, \nalterações de atenção, náuseas, febre, taquipneia, sudorese, piloereção, taquicardia e alterações de pressão arterial. \nEm até 10% dos casos, a SAA pode se agravar, evoluindo para um estado conhecido delirium tremens (DT), ocorrendo delirium, psicose, \ntremores intensos, convulsões e alteração do nível de consciência. \nEsse quadro normalmente surge após 48-72h após o início dos primeiros sintomas da abstinência alcoólica.\nCritérios da abstinência de álcool, adaptados do DSM-5-TR\nA\nCessação (ou redução) do uso pesado e prolongado de álcool.\nB\nDois (ou mais) dos seguintes sintomas:\n1\nHiperatividade autonômica (sudorese ou frequência cardíaca maior que 100bpm).\n2\nTremor aumentado nas mãos.\n3\nInsônia.\n4\nNáusea ou vômitos.\n5\nNistagmo.\n6\nAlucinações ou ilusões visuais, táteis ou auditivas transitórias.\n7\nAgitação psicomotora.\n8\nAnsiedade.\n9\nConvulsões tônico-clônicas generalizadas.\nAmerican Psychiatric Association, 2022\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n125\nO tratamento da SAA é principalmente baseado no uso de benzodiazepínicos de meia-vida prolongada, como diazepam, clordiazepóxido \ne lorazepam (droga de escolha para hepatopatas).\nA carbamazepina é uma droga de segunda linha nesse tratamento e pode substituir o uso de benzodiazepínicos. O uso de propofol e \nbarbitúricos pode ser útil em casos graves e refratários, especialmente no contexto de intensivismo.\nA reposição de tiamina é mandatória e justifica-se para evitar a ocorrência da síndrome de Wernicke-Korsakoff (SWK), quadro provocado \npela deficiência de vitamina B1. A SWK é caracterizada por amnésia, confabulações, alucinações, oftalmoparesia, ataxia, confusão mental, \nsendo uma emergência médica. \nPara o controle de eventual agitação psicomotora intensa ou psicose grave/refratária, o uso cauteloso do antipsicótico típico haloperidol \npode ser considerado. Sua cautela justifica-se, pois, de forma geral, os antipsicóticos reduzem o limiar para convulsões, além de aumentarem \no risco para arritmias cardíacas. Dessa forma, justamente, o haloperidol é o antipsicótico considerado o mais seguro nesse cenário, por isso \né a droga a ser escolhida.\nVamos às alternativas!\nCorreta a alternativa A. A carbamazepina, assim como o fenobarbital, é droga de segunda linha e pode substituir o uso de benzodiazepínicos.\nCorreta a alternativa B. A tiamina (B1) deve ser utilizada em todos os pacientes, para prevenir a síndrome de Wernicke-Korsakoff.\nIncorreta a alternativa C. Clorpromazina, um antipsicótico típico de baixa potência, não está indicado no quadro de SAA. Seu uso pode precipitar \ncrises convulsivas por baixar o limiar convulsivante, além de aumentar o risco de rebaixamento do nível de consciência.\nCorreta a alternativa D. O emprego de benzodiazepínico, como o clordiazepóxido, é a base do tratamento medicamentoso da SAA.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "imagens": [],
+      "_simulado": "11-simulado",
+      "_edicao": "11",
+      "subarea": "",
+      "_area_slug": "psiquiatria"
+    }
+  ]
+}
