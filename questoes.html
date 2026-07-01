@@ -864,20 +864,10 @@ async function abrirArea(slug) {
   subareaFiltro = null;
   document.getElementById('areaGrid').style.display = 'none';
 
-  // Ginecologia e Obstetrícia: carregar ambos arquivos e mesclar
-  let slugsToLoad = [slug];
-  if (slug === 'ginecologia' || slug === 'obstetricia') {
-    slugsToLoad = ['ginecologia', 'obstetricia'];
-  }
-
   try {
-    let allQuestions = [];
-    for (const s of slugsToLoad) {
-      const r = await fetch(`data/${s}.json`);
-      const data = await r.json();
-      if (data.questoes) allQuestions = allQuestions.concat(data.questoes);
-    }
-    questoes = allQuestions;
+    const r = await fetch(`data/${slug}.json`);
+    const data = await r.json();
+    questoes = data.questoes || [];
   } catch {
     questoes = [];
   }
@@ -892,21 +882,14 @@ async function abrirArea(slug) {
   document.getElementById('pageSub').textContent = `${questoes.length} questões`;
   document.getElementById('modeBadge').textContent = '📖 Livre';
 
-  // Subarea filter — merge subcategorias de ambos os arquivos
-  let mergedSubs = {};
-  for (const s of slugsToLoad) {
-    const info = assuntoData?.[s];
-    if (info?.subcategorias) {
-      Object.assign(mergedSubs, info.subcategorias);
-    }
-  }
-  const subs = Object.entries(mergedSubs);
+  // Subarea filter
+  const subs = Object.entries(assuntoData?.[slug]?.subcategorias || {});
   const filterEl = document.getElementById('subFilter');
   const filter2El = document.getElementById('subFilter2');
   filter2El.style.display = 'none';
   filter2El.innerHTML = '';
   const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-  const areaKey = slug === 'ginecologia' || slug === 'obstetricia' ? 'ginecologia' : slug;
+  const areaKey = slug;
   const progArea = progresso[areaKey] || {};
 
   if (subs.length > 0) {
@@ -955,20 +938,8 @@ async function abrirArea(slug) {
 
 // ─── Filter by subarea ───
 function _lookupSubNome(subSlug) {
-  // Busca em todas as slugs carregadas (útil quando ginecologia+obstetricia estão mescladas)
-  let slugsToSearch = [areaAtual];
-  if (areaAtual === 'ginecologia' || areaAtual === 'obstetricia') {
-    slugsToSearch = ['ginecologia', 'obstetricia'];
-  }
-  // For clinica-medica, subcategorias incluem as especialidades migradas
-  if (areaAtual === 'clinica-medica') {
-    slugsToSearch = ['clinica-medica'];
-  }
-  for (const s of slugsToSearch) {
-    const found = assuntoData?.[s]?.subcategorias?.[subSlug]?.nome;
-    if (found) return found;
-  }
-  return '';
+  const found = assuntoData?.[areaAtual]?.subcategorias?.[subSlug]?.nome;
+  return found || '';
 }
 
 function filtrarSubarea(subSlug) {
