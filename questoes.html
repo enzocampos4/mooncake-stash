@@ -295,6 +295,10 @@
     from { opacity: 0; transform: translateY(10px); }
     to { opacity: 1; transform: translateY(0); }
   }
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
   .question-card { animation: fadeInUp 0.3s ease; }
 
   /* Esconder questões na tela de resultado */
@@ -320,6 +324,18 @@
   .area-card .area-icon { font-size: 1.8rem; margin-bottom: 6px; }
   .area-card .area-name { font-weight: 700; font-size: 0.95rem; margin-bottom: 4px; }
   .area-card .area-count { font-size: 0.8rem; color: var(--muted); }
+  .area-progress {
+    display: flex; align-items: center; gap: 8px; margin: 6px 0 8px;
+  }
+  .area-prog-bar {
+    flex: 1; height: 5px; background: var(--card2); border-radius: 3px; overflow: hidden;
+  }
+  .area-prog-fill {
+    height: 100%; border-radius: 3px; transition: width 0.6s ease;
+  }
+  .area-prog-text {
+    font-size: 0.68rem; color: var(--muted); white-space: nowrap; min-width: 55px; text-align: right;
+  }
   .area-card .area-subs { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 8px; }
   .area-card .area-subs span {
     font-size: 0.65rem; background: var(--card2); padding: 2px 6px;
@@ -338,6 +354,151 @@
   .sub-pill:hover { border-color: var(--accent); color: var(--text); }
   .sub-pill.active { background: var(--accent); color: white; border-color: var(--accent); }
   .sub-pill .count { opacity: 0.7; margin-left: 3px; }
+
+  /* Tag favorito */
+  .tag-fav { background: rgba(255,215,0,0.15) !important; color: #ffd700 !important; cursor: pointer; transition: 0.2s; }
+  .tag-fav:hover { transform: scale(1.15); }
+  .btn-fav { background: #ffd700; color: #1a1a2e; }
+  .btn-fav:hover { background: #ffed4a; }
+  .dot.fav { background: rgba(255,215,0,0.3); color: #ffd700; border: 1px solid #ffd700; }
+  .dot.fav.current { background: #ffd700; color: #1a1a2e; }
+
+  /* Filter mode pills */
+  .filter-mode {
+    display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;
+  }
+  .mode-pill {
+    font-size: 0.72rem; padding: 4px 12px; border-radius: 20px;
+    border: 1px solid var(--card2); background: var(--card);
+    color: var(--muted); cursor: pointer; transition: 0.2s;
+  }
+  .mode-pill:hover { border-color: var(--accent); color: var(--text); }
+  .mode-pill.active { background: var(--accent); color: white; border-color: var(--accent); }
+  .mode-pill .count { opacity: 0.7; margin-left: 3px; }
+
+  /* Shuffle button */
+  .shuffle-btn {
+    font-size: 0.72rem; padding: 4px 10px; border-radius: 20px;
+    border: 1px solid var(--card2); background: var(--card);
+    color: var(--muted); cursor: pointer; transition: 0.2s; margin-left: auto;
+  }
+  .shuffle-btn:hover, .shuffle-btn.active { border-color: var(--accent); color: var(--accent2); }
+  .shuffle-btn.active { background: rgba(90,200,250,0.1); }
+
+  /* Lista modal */
+  .modal-overlay {
+    display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.7); z-index: 999; padding: 20px;
+    overflow-y: auto; animation: fadeIn 0.2s;
+  }
+  .modal-overlay.visible { display: flex; align-items: flex-start; justify-content: center; }
+  .modal-content {
+    background: var(--card); border-radius: var(--radius); max-width: 700px;
+    width: 100%; max-height: 85vh; overflow-y: auto; padding: 20px;
+    box-shadow: var(--shadow); animation: fadeInUp 0.25s;
+  }
+  .modal-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 16px; padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+  .modal-header h3 { font-size: 1rem; font-weight: 600; }
+  .modal-close {
+    width: 32px; height: 32px; border-radius: 8px; background: var(--card2);
+    border: none; color: var(--muted); cursor: pointer; font-size: 1.1rem;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .modal-close:hover { color: var(--text); }
+  .modal-search {
+    width: 100%; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--card2);
+    background: var(--card2); color: var(--text); font-size: 0.85rem; margin-bottom: 12px;
+    outline: none;
+  }
+  .modal-search:focus { border-color: var(--accent); }
+  .modal-filter-row {
+    display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;
+  }
+  .modal-filter-chip {
+    font-size: 0.7rem; padding: 3px 10px; border-radius: 14px;
+    border: 1px solid var(--card2); background: var(--card2);
+    color: var(--muted); cursor: pointer; transition: 0.2s;
+  }
+  .modal-filter-chip:hover { border-color: var(--accent); color: var(--text); }
+  .modal-filter-chip.active { background: var(--accent); color: white; border-color: var(--accent); }
+
+  .lista-item {
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 12px; border-radius: 10px; cursor: pointer;
+    transition: 0.15s; border-bottom: 1px solid rgba(255,255,255,0.03);
+  }
+  .lista-item:hover { background: var(--card2); }
+  .lista-item .li-num {
+    width: 28px; height: 28px; border-radius: 6px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 0.7rem; flex-shrink: 0;
+    background: var(--card2); color: var(--muted);
+  }
+  .lista-item .li-status {
+    width: 20px; text-align: center; flex-shrink: 0; font-size: 0.85rem;
+  }
+  .lista-item .li-info { flex: 1; min-width: 0; }
+  .lista-item .li-info .li-enun {
+    font-size: 0.8rem; color: var(--text); white-space: nowrap;
+    overflow: hidden; text-overflow: ellipsis; line-height: 1.3;
+  }
+  .lista-item .li-info .li-meta {
+    font-size: 0.68rem; color: var(--muted); margin-top: 2px;
+  }
+  .lista-item .li-info .li-meta span { margin-right: 8px; }
+  .lista-item .li-diff {
+    font-size: 0.65rem; padding: 2px 6px; border-radius: 4px;
+    background: var(--bg); color: var(--muted); flex-shrink: 0;
+  }
+  .lista-item .li-fav { font-size: 0.8rem; flex-shrink: 0; }
+  .li-empty {
+    text-align: center; padding: 40px 20px; color: var(--muted); font-size: 0.9rem;
+  }
+
+  /* Anotações */
+  .notas-area {
+    margin-top: 16px; display: none;
+  }
+  .notas-area.visible { display: block; }
+  .notas-area textarea {
+    width: 100%; min-height: 60px; padding: 10px 12px; border-radius: 10px;
+    border: 1px solid var(--card2); background: var(--card2); color: var(--text);
+    font-size: 0.82rem; font-family: inherit; resize: vertical; outline: none;
+    line-height: 1.5;
+  }
+  .notas-area textarea:focus { border-color: var(--accent); }
+  .notas-area .nota-footer {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-top: 4px; font-size: 0.7rem; color: var(--muted);
+  }
+  .nota-salvar {
+    font-size: 0.7rem; padding: 3px 10px; border-radius: 6px;
+    border: none; background: var(--accent); color: white; cursor: pointer;
+  }
+  .nota-salvar:hover { background: #6a4ae0; }
+  .nota-salvar:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  /* Streak bar */
+  .streak-bar {
+    display: flex; align-items: center; gap: 8px;
+    padding: 8px 12px; background: var(--card); border-radius: 10px;
+    margin-bottom: 12px; font-size: 0.78rem;
+  }
+  .streak-bar .streak-fire { font-size: 1.1rem; }
+  .streak-bar .streak-info { flex: 1; }
+  .streak-bar .streak-info strong { color: #ff9f0a; }
+  .streak-bar .streak-prog {
+    flex: 1; height: 6px; background: var(--card2); border-radius: 3px;
+    overflow: hidden; max-width: 120px;
+  }
+  .streak-bar .streak-prog .fill {
+    height: 100%; background: linear-gradient(90deg, #ff9f0a, #ffd700);
+    border-radius: 3px; transition: width 0.5s;
+  }
 
   @media (max-width: 500px) {
     .area-grid { grid-template-columns: 1fr; }
@@ -366,8 +527,26 @@
 
   <!-- Question view (hidden by default) -->
   <div id="questionView" style="display:none;">
+    <!-- Streak -->
+    <div class="streak-bar" id="streakBar" style="display:none;">
+      <span class="streak-fire" id="streakIcon">🔥</span>
+      <span class="streak-info"><strong id="streakCount">0</strong> dias seguidos</span>
+      <span class="streak-prog"><div class="fill" id="streakFill" style="width:0%"></div></span>
+    </div>
+
     <!-- Subcategory filter -->
     <div class="sub-filter" id="subFilter"></div>
+
+    <!-- Filter mode + Shuffle + Lista -->
+    <div class="filter-mode" id="filterMode" style="display:none;">
+      <span class="mode-pill active" data-mode="todas" onclick="filtrarEstado('todas')">Todas</span>
+      <span class="mode-pill" data-mode="nao" onclick="filtrarEstado('nao')">⬜ Não respondidas</span>
+      <span class="mode-pill" data-mode="errou" onclick="filtrarEstado('errou')">❌ Erradas</span>
+      <span class="mode-pill" data-mode="acertou" onclick="filtrarEstado('acertou')">✅ Acertadas</span>
+      <span class="mode-pill" data-mode="favoritas" onclick="filtrarEstado('favoritas')">⭐ Favoritas</span>
+      <span class="shuffle-btn" id="shuffleBtn" onclick="toggleShuffle()">🔀</span>
+      <span class="shuffle-btn" onclick="abrirLista()">📋</span>
+    </div>
 
     <!-- Stats -->
     <div class="stats-bar" id="statsBar">
@@ -391,6 +570,7 @@
         <span class="tag" id="qEspecialidade"></span>
         <span class="tag" id="qFonte"></span>
         <span class="tag" id="qDificuldade"></span>
+        <span class="tag tag-fav" id="qFavStar" onclick="toggleFavFromMeta()" style="cursor:pointer;user-select:none;">☆</span>
       </div>
       <div class="enunciado" id="qEnunciado"></div>
       <div class="enunciado-imgs" id="qImagens"></div>
@@ -400,6 +580,16 @@
         <div id="qExplicacaoTexto"></div>
         <div id="qExpImagens" class="exp-images"></div>
       </div>
+
+      <!-- Anotações -->
+      <div class="notas-area" id="notasArea">
+        <textarea id="notasText" placeholder="Suas anotações pessoais sobre esta questão..." maxlength="2000"></textarea>
+        <div class="nota-footer">
+          <span id="notasStatus"></span>
+          <button class="nota-salvar" id="notasSalvar" onclick="salvarNotaAtual()">💾</button>
+        </div>
+      </div>
+
       <div class="actions" id="qActions">
         <button class="btn btn-secondary" id="btnPrev" onclick="previousQuestion()" style="display:none;">← Anterior</button>
         <button class="btn btn-primary" id="btnConfirm" onclick="confirmAnswer()">Confirmar</button>
@@ -426,12 +616,34 @@
       <button class="btn btn-primary" onclick="refazerArea()" style="flex:0;padding:12px 24px;">🔄 Refazer</button>
     </div>
   </div>
+
+  <!-- Lista Modal -->
+  <div class="modal-overlay" id="listaModal" onclick="if(event.target===this)fecharLista()">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>📋 Questões <span id="listaCount" style="font-weight:400;color:var(--muted)"></span></h3>
+        <button class="modal-close" onclick="fecharLista()">✕</button>
+      </div>
+      <input class="modal-search" id="listaSearch" placeholder="🔍 Buscar no enunciado..." oninput="renderizarLista()">
+      <div class="modal-filter-row" id="listaFilterRow">
+        <span class="modal-filter-chip active" data-f="todas" onclick="filtroLista('todas')">Todas</span>
+        <span class="modal-filter-chip" data-f="acertou" onclick="filtroLista('acertou')">✅</span>
+        <span class="modal-filter-chip" data-f="errou" onclick="filtroLista('errou')">❌</span>
+        <span class="modal-filter-chip" data-f="nao" onclick="filtroLista('nao')">⬜</span>
+        <span class="modal-filter-chip" data-f="favoritas" onclick="filtroLista('favoritas')">⭐</span>
+      </div>
+      <div id="listaBody"></div>
+    </div>
+  </div>
 </div>
 
 <script>
 // ─── State ───
 const STORAGE_KEY = 'hermesmed_progresso';
 const REVISAO_KEY = 'hermesmed_revisao';
+const FAVORITOS_KEY = 'hermesmed_favoritos';
+const NOTAS_KEY = 'hermesmed_notas';
+const STREAK_KEY = 'hermesmed_streak';
 const ASSUNTOS_URL = 'data/assuntos.json';
 
 let questoes = [];
@@ -446,6 +658,8 @@ let areaAtual = null;
 let subareaFiltro = null;
 let questoesFiltradas = [];
 let assuntoData = null;
+let filtroEstado = 'todas'; // 'todas' | 'acertou' | 'errou' | 'nao' | 'favoritas'
+let ordemEmbaralhada = false;
 
 const AREA_ICONS = {
   'clinica-medica': '🫁', 'cirurgia': '🔪', 'pediatria': '👶',
@@ -457,6 +671,77 @@ const AREA_COLORS = {
   'ginecologia': '#ff8a80', 'obstetricia': '#ff6f91', 'medicina-preventiva': '#34c759',
   'oftalmologia': '#30d158', 'ortopedia': '#af52de', 'otorrino': '#64d2ff', 'psiquiatria': '#bf5af2'
 };
+
+// ─── Storage helpers ───
+function getAreaKey(q) {
+  return areaAtual || q?.area?.toLowerCase().replace(/[^a-z0-9]/g, '-') || 'geral';
+}
+
+function getProgQuestao(qId, areaKey) {
+  const p = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  const area = p[areaKey] || {};
+  const val = area[String(qId)];
+  if (val === true || val === false) {
+    return { acertou: val, selecao: null, favorita: false, nota: '', respondida: true };
+  }
+  return val || { acertou: null, selecao: null, favorita: false, nota: '', respondida: false };
+}
+
+function setProgQuestao(qId, areaKey, data) {
+  const p = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  if (!p[areaKey]) p[areaKey] = {};
+  const curr = p[areaKey][String(qId)];
+  if (curr === true || curr === false) {
+    p[areaKey][String(qId)] = { acertou: curr, selecao: null, favorita: false, nota: '', respondida: true };
+  }
+  const novo = p[areaKey][String(qId)] || { acertou: null, selecao: null, favorita: false, nota: '', respondida: false };
+  Object.assign(novo, data);
+  novo.respondida = novo.acertou !== null;
+  p[areaKey][String(qId)] = novo;
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(p));
+  return novo;
+}
+
+function delProgQuestao(qId, areaKey) {
+  const p = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  if (p[areaKey]) {
+    delete p[areaKey][String(qId)];
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(p));
+  }
+}
+
+function getFavoritos() {
+  return JSON.parse(localStorage.getItem(FAVORITOS_KEY) || '{}');
+}
+
+function setFavorito(qId, val) {
+  const f = getFavoritos();
+  if (val) f[String(qId)] = true;
+  else delete f[String(qId)];
+  localStorage.setItem(FAVORITOS_KEY, JSON.stringify(f));
+}
+
+function isFavorito(qId) {
+  return !!getFavoritos()[String(qId)];
+}
+
+function toggleFavorito(qId) {
+  const nova = !isFavorito(qId);
+  setFavorito(qId, nova);
+  return nova;
+}
+
+function getNota(qId) {
+  const n = JSON.parse(localStorage.getItem(NOTAS_KEY) || '{}');
+  return n[String(qId)] || '';
+}
+
+function setNota(qId, texto) {
+  const n = JSON.parse(localStorage.getItem(NOTAS_KEY) || '{}');
+  if (texto.trim()) n[String(qId)] = texto.trim();
+  else delete n[String(qId)];
+  localStorage.setItem(NOTAS_KEY, JSON.stringify(n));
+}
 
 // ─── Init ───
 const params = new URLSearchParams(window.location.search);
@@ -502,17 +787,44 @@ async function mostrarGrade() {
   const grid = document.getElementById('areaGrid');
   grid.innerHTML = '';
 
+  const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+
   for (const [slug, info] of Object.entries(assuntoData)) {
     const subs = Object.values(info.subcategorias || {});
     let subsHtml = subs.slice(0, 4).map(s => `<span>${s.nome}</span>`).join('');
     if (subs.length > 4) subsHtml += `<span>+${subs.length - 4}</span>`;
+
+    // Stats
+    let progArea = {};
+    if (slug === 'ginecologia' || slug === 'obstetricia') {
+      progArea = { ...(progresso['ginecologia'] || {}), ...(progresso['obstetricia'] || {}) };
+    } else {
+      progArea = progresso[slug] || {};
+    }
+    const vals = Object.values(progArea);
+    let acertosArea = 0, totalResp = 0;
+    vals.forEach(v => {
+      const acertou = typeof v === 'boolean' ? v : v?.acertou;
+      if (acertou !== null && acertou !== undefined) {
+        totalResp++;
+        if (acertou) acertosArea++;
+      }
+    });
+    const pct = totalResp > 0 ? Math.round((acertosArea / totalResp) * 100) : null;
+    const total = info.total;
 
     const card = document.createElement('div');
     card.className = 'area-card';
     card.innerHTML = `
       <div class="area-icon">${AREA_ICONS[slug] || '📚'}</div>
       <div class="area-name" style="color:${AREA_COLORS[slug] || 'var(--text)'}">${info.nome}</div>
-      <div class="area-count">${info.total} questões</div>
+      <div class="area-count">${total} questões</div>
+      <div class="area-progress">
+        <div class="area-prog-bar">
+          <div class="area-prog-fill" style="width:${pct !== null ? pct : 0}%;background:${pct !== null ? (pct >= 70 ? '#34c759' : pct >= 40 ? '#ff9f0a' : '#ff453a') : 'transparent'}"></div>
+        </div>
+        <span class="area-prog-text">${pct !== null ? `${pct}% (${acertosArea}/${totalResp})` : '—'}</span>
+      </div>
       <div class="area-subs">${subsHtml}</div>
     `;
     card.onclick = () => abrirArea(slug);
@@ -575,11 +887,25 @@ async function abrirArea(slug) {
   }
   const subs = Object.entries(mergedSubs);
   const filterEl = document.getElementById('subFilter');
+  const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  const areaKey = slug === 'ginecologia' || slug === 'obstetricia' ? 'ginecologia' : slug;
+  const progArea = progresso[areaKey] || {};
+
   if (subs.length > 0) {
     filterEl.innerHTML = `<span class="sub-pill active" data-sub="" onclick="filtrarSubarea('')">Todas <span class="count">(${questoes.length})</span></span>` +
-      subs.map(([subSlug, subInfo]) =>
-        `<span class="sub-pill" data-sub="${subSlug}" onclick="filtrarSubarea('${subSlug}')">${subInfo.nome} <span class="count">(${subInfo.total})</span></span>`
-      ).join('');
+      subs.map(([subSlug, subInfo]) => {
+        // Stats for subarea
+        const subNome = subInfo.nome;
+        const qsSub = questoes.filter(q => q.subarea && q.subarea.toLowerCase() === subNome.toLowerCase());
+        let acertouCnt = 0, totalCnt = 0;
+        qsSub.forEach(q => {
+          const v = progArea[String(q.id)];
+          const ac = typeof v === 'boolean' ? v : v?.acertou;
+          if (ac !== undefined && ac !== null) { totalCnt++; if (ac) acertouCnt++; }
+        });
+        const statsStr = totalCnt > 0 ? ` ✅${acertouCnt}` : '';
+        return `<span class="sub-pill" data-sub="${subSlug}" onclick="filtrarSubarea('${subSlug}')">${subInfo.nome} <span class="count">(${subInfo.total}${statsStr})</span></span>`;
+      }).join('');
   } else {
     filterEl.innerHTML = '';
   }
@@ -587,12 +913,23 @@ async function abrirArea(slug) {
   // Show question view
   document.getElementById('questionView').style.display = 'block';
 
+  // Show filter mode + streak
+  document.getElementById('filterMode').style.display = 'flex';
+  document.getElementById('streakBar').style.display = '';
+  atualizarStreak();
+
   // Init question state
   questoesFiltradas = [...questoes];
   currentIndex = 0;
   acertos = 0;
   erros = 0;
   answered = false;
+  filtroEstado = 'todas';
+  document.querySelectorAll('#filterMode .mode-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.mode === 'todas');
+  });
+  document.getElementById('shuffleBtn').classList.remove('active');
+  ordemEmbaralhada = false;
   document.getElementById('qTotal').textContent = questoesFiltradas.length;
   renderDots();
   showQuestion(0);
@@ -618,26 +955,7 @@ function filtrarSubarea(subSlug) {
     p.classList.toggle('active', p.dataset.sub === (subSlug || ''));
   });
 
-  if (!subareaFiltro) {
-    questoesFiltradas = [...questoes];
-  } else {
-    const subNome = _lookupSubNome(subareaFiltro);
-    questoesFiltradas = questoes.filter(q =>
-      q.subarea && q.subarea.toLowerCase() === subNome.toLowerCase()
-    );
-  }
-
-  currentIndex = 0;
-  acertos = 0;
-  erros = 0;
-  answered = false;
-  document.getElementById('qTotal').textContent = questoesFiltradas.length;
-  document.getElementById('pageSub').textContent =
-    subareaFiltro
-      ? `${_lookupSubNome(subareaFiltro) || subareaFiltro} • ${questoesFiltradas.length} questões`
-      : `${questoes.length} questões`;
-  renderDots();
-  showQuestion(0);
+  aplicarFiltros();
 }
 
 // ─── Detecta se o enunciado referencia uma imagem que deve ser exibida ───
@@ -654,12 +972,10 @@ function showQuestion(index) {
   currentIndex = index;
   const q = questoesFiltradas[index];
 
-  // Verificar se já foi respondida (via localStorage)
-  const areaKey = areaAtual || q.area?.toLowerCase().replace(/[^a-z0-9]/g, '-') || 'geral';
-  const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-  const progArea = progresso[areaKey] || {};
-  const respAnterior = progArea[String(q.id)];
-  answered = respAnterior !== undefined;
+  // Verificar estado salvo
+  const areaKey = getAreaKey(q);
+  const prog = getProgQuestao(q.id, areaKey);
+  answered = prog.respondida;
 
   document.getElementById('qIndex').textContent = index + 1;
   document.getElementById('qAcertos').textContent = acertos;
@@ -672,6 +988,7 @@ function showQuestion(index) {
   document.getElementById('qFonte').textContent = fonte;
   const diff = q.dificuldade || 'Média';
   document.getElementById('qDificuldade').textContent = diff;
+  document.getElementById('qFavStar').textContent = isFavorito(q.id) ? '⭐' : '☆';
 
   // Enunciado
   document.getElementById('qEnunciado').innerHTML = q.enunciado;
@@ -728,13 +1045,14 @@ function showQuestion(index) {
   // Se já respondida, restaurar estado visual
   if (answered) {
     const correta = q.correta;
+    const selLetra = prog.selecao;
     document.querySelectorAll('.alt-btn').forEach(btn => {
       btn.classList.add('disabled');
       btn.onclick = null;
       const letra = btn.dataset.letra;
-      if (letra === correta) {
-        btn.classList.add('correct');
-      }
+      if (letra === correta) btn.classList.add('correct');
+      if (letra === selLetra && letra !== correta) btn.classList.add('wrong');
+      if (letra === correta && letra !== selLetra && selLetra) btn.classList.add('show-correct');
     });
 
     // Mostrar explicação
@@ -760,13 +1078,13 @@ function showQuestion(index) {
     const actions = document.getElementById('qActions');
     // Remover badges antigos
     actions.querySelectorAll('.btn-correct, .btn-wrong, .btn-outline').forEach(e => e.remove());
-    if (respAnterior === true) {
+    if (prog.acertou === true) {
       const badge = document.createElement('button');
       badge.className = 'btn btn-correct';
       badge.disabled = true;
       badge.textContent = '✅ Correto!';
       actions.insertBefore(badge, btnNext);
-    } else {
+    } else if (prog.acertou === false) {
       const badge = document.createElement('button');
       badge.className = 'btn btn-wrong';
       badge.disabled = true;
@@ -778,18 +1096,29 @@ function showQuestion(index) {
     refBtn.className = 'btn btn-outline';
     refBtn.textContent = '🔄 Refazer';
     refBtn.onclick = () => {
-      const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-      if (progresso[areaKey]) {
-        delete progresso[areaKey][String(q.id)];
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(progresso));
-      }
+      delProgQuestao(q.id, areaKey);
       showQuestion(currentIndex);
     };
     actions.insertBefore(refBtn, btnNext);
+
+    // Botão Favoritar
+    const favBtn = document.createElement('button');
+    const isFav = isFavorito(q.id);
+    favBtn.className = 'btn ' + (isFav ? 'btn-fav' : 'btn-outline');
+    favBtn.textContent = isFav ? '⭐ Favorita' : '☆ Favoritar';
+    favBtn.onclick = () => {
+      const nova = toggleFavorito(q.id);
+      favBtn.className = 'btn ' + (nova ? 'btn-fav' : 'btn-outline');
+      favBtn.textContent = nova ? '⭐ Favorita' : '☆ Favoritar';
+    };
+    actions.insertBefore(favBtn, btnNext);
   }
 
   renderDots();
   document.getElementById('questionCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+  // Atualizar anotações
+  atualizarNotas(q);
 }
 
 // ─── Selection ───
@@ -847,8 +1176,9 @@ function confirmAnswer() {
     }
   }
 
-  // Salvar progresso
-  salvarProgresso(q, isCorrect);
+  // Salvar progresso com a alternativa selecionada
+  const areaKey = getAreaKey(q);
+  setProgQuestao(q.id, areaKey, { acertou: isCorrect, selecao: selectedLetra });
 
   // Gerenciar revisão espaçada
   gerenciarRevisao(q, isCorrect);
@@ -926,13 +1256,13 @@ function nextQuestion() {
   }
 }
 
-// ─── Salvar progresso ───
-function salvarProgresso(q, isCorrect) {
-  const areaKey = areaAtual || q.area?.toLowerCase().replace(/[^a-z0-9]/g, '-') || 'geral';
-  const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-  if (!progresso[areaKey]) progresso[areaKey] = {};
-  progresso[areaKey][String(q.id)] = isCorrect;
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(progresso));
+// ─── Favoritos ───
+function toggleFavFromMeta() {
+  const q = questoesFiltradas[currentIndex];
+  if (!q) return;
+  const nova = toggleFavorito(q.id);
+  document.getElementById('qFavStar').textContent = nova ? '⭐' : '☆';
+  renderDots();
 }
 
 // ─── Revisão espaçada ───
@@ -963,7 +1293,8 @@ function gerenciarRevisao(q, isCorrect) {
 function renderDots() {
   const container = document.getElementById('progressDots');
   container.innerHTML = '';
-  const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  if (questoesFiltradas.length === 0) return;
+  const areaKey = getAreaKey(questoesFiltradas[0]);
 
   questoesFiltradas.forEach((q, i) => {
     const dot = document.createElement('div');
@@ -971,11 +1302,10 @@ function renderDots() {
     if (i === currentIndex) dot.classList.add('current');
     dot.textContent = i + 1;
 
-    const areaKey = areaAtual || 'geral';
-    const prog = progresso[areaKey] || {};
-    const res = prog[String(q.id)];
-    if (res === true) dot.classList.add('correct');
-    else if (res === false) dot.classList.add('wrong');
+    const prog = getProgQuestao(q.id, areaKey);
+    if (prog.acertou === true) dot.classList.add('correct');
+    else if (prog.acertou === false) dot.classList.add('wrong');
+    else if (isFavorito(q.id)) dot.classList.add('fav');
 
     dot.onclick = () => showQuestion(i);
     container.appendChild(dot);
@@ -1006,6 +1336,8 @@ function mostrarResultado() {
   document.getElementById('statsBar').style.display = 'none';
   document.getElementById('progressDots').style.display = 'none';
   document.getElementById('subFilter').style.display = 'none';
+  document.getElementById('filterMode').style.display = 'none';
+  document.getElementById('streakBar').style.display = 'none';
   document.getElementById('backToAreasLink').style.display = 'none';
 
   let icon, title;
@@ -1036,6 +1368,8 @@ function refazerArea() {
 function voltarGrade() {
   document.getElementById('questionView').style.display = 'none';
   document.getElementById('areaGrid').style.display = 'grid';
+  document.getElementById('filterMode').style.display = 'none';
+  document.getElementById('streakBar').style.display = 'none';
   document.getElementById('resultScreen').classList.remove('visible');
   document.getElementById('resultScreen').style.display = 'none';
   document.getElementById('questionArea').style.display = 'block';
@@ -1099,18 +1433,286 @@ async function carregarRevisao() {
   showQuestion(0);
 }
 
-// ─── Keyboard shortcut ───
+// ─── Filter mode ───
+function filtrarEstado(mode) {
+  filtroEstado = mode;
+  document.querySelectorAll('#filterMode .mode-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.mode === mode);
+  });
+  aplicarFiltros();
+}
+
+function toggleShuffle() {
+  ordemEmbaralhada = !ordemEmbaralhada;
+  document.getElementById('shuffleBtn').classList.toggle('active', ordemEmbaralhada);
+  aplicarFiltros();
+}
+
+function aplicarFiltros() {
+  let lista = [...questoes];
+
+  // Filtro por estado
+  const areaKey = getAreaKey(questoes[0]);
+  if (filtroEstado === 'nao') {
+    lista = lista.filter(q => !getProgQuestao(q.id, areaKey).respondida);
+  } else if (filtroEstado === 'errou') {
+    lista = lista.filter(q => getProgQuestao(q.id, areaKey).acertou === false);
+  } else if (filtroEstado === 'acertou') {
+    lista = lista.filter(q => getProgQuestao(q.id, areaKey).acertou === true);
+  } else if (filtroEstado === 'favoritas') {
+    lista = lista.filter(q => isFavorito(q.id));
+  }
+
+  // Subarea filter
+  if (subareaFiltro) {
+    const subNome = _lookupSubNome(subareaFiltro);
+    lista = lista.filter(q => q.subarea && q.subarea.toLowerCase() === subNome.toLowerCase());
+  }
+
+  // Shuffle
+  if (ordemEmbaralhada) {
+    for (let i = lista.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [lista[i], lista[j]] = [lista[j], lista[i]];
+    }
+  }
+
+  questoesFiltradas = lista;
+  currentIndex = 0;
+  acertos = 0;
+  erros = 0;
+  answered = false;
+  document.getElementById('qTotal').textContent = lista.length;
+  document.getElementById('pageSub').textContent =
+    subareaFiltro
+      ? `${_lookupSubNome(subareaFiltro) || subareaFiltro} • ${lista.length} questões`
+      : `${questoes.length} questões`;
+  renderDots();
+  showQuestion(0);
+}
+
+// ─── Notas ───
+function salvarNotaAtual() {
+  const q = questoesFiltradas[currentIndex];
+  if (!q) return;
+  const texto = document.getElementById('notasText').value;
+  setNota(q.id, texto);
+  const status = document.getElementById('notasStatus');
+  status.textContent = '💾 Salva!';
+  setTimeout(() => { status.textContent = ''; }, 2000);
+}
+
+function atualizarNotas(q) {
+  const area = document.getElementById('notasArea');
+  const texto = document.getElementById('notasText');
+  const nota = getNota(q.id);
+  if (nota) {
+    texto.value = nota;
+    area.classList.add('visible');
+  } else {
+    texto.value = '';
+    area.classList.remove('visible');
+  }
+}
+
+// ─── Lista Modal ───
+let listaFilter = 'todas';
+
+function abrirLista() {
+  listaFilter = 'todas';
+  document.getElementById('listaSearch').value = '';
+  document.querySelectorAll('#listaFilterRow .modal-filter-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.f === 'todas');
+  });
+  renderizarLista();
+  document.getElementById('listaModal').classList.add('visible');
+}
+
+function fecharLista() {
+  document.getElementById('listaModal').classList.remove('visible');
+}
+
+function filtroLista(f) {
+  listaFilter = f;
+  document.querySelectorAll('#listaFilterRow .modal-filter-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.f === f);
+  });
+  renderizarLista();
+}
+
+function renderizarLista() {
+  const body = document.getElementById('listaBody');
+  const search = document.getElementById('listaSearch').value.toLowerCase();
+  const areaKey = getAreaKey(questoesFiltradas[0] || questoes[0]);
+
+  let items = questoesFiltradas.length > 0 ? questoesFiltradas : questoes;
+
+  // Filtro da lista
+  if (listaFilter === 'nao') {
+    items = items.filter(q => !getProgQuestao(q.id, areaKey).respondida);
+  } else if (listaFilter === 'errou') {
+    items = items.filter(q => getProgQuestao(q.id, areaKey).acertou === false);
+  } else if (listaFilter === 'acertou') {
+    items = items.filter(q => getProgQuestao(q.id, areaKey).acertou === true);
+  } else if (listaFilter === 'favoritas') {
+    items = items.filter(q => isFavorito(q.id));
+  }
+
+  // Search
+  if (search) {
+    items = items.filter(q =>
+      (q.enunciado || '').toLowerCase().includes(search) ||
+      (q.area || '').toLowerCase().includes(search) ||
+      (q.subarea || '').toLowerCase().includes(search)
+    );
+  }
+
+  document.getElementById('listaCount').textContent = `(${items.length})`;
+
+  if (items.length === 0) {
+    body.innerHTML = '<div class="li-empty">Nenhuma questão encontrada</div>';
+    return;
+  }
+
+  body.innerHTML = items.map((q, i) => {
+    const prog = getProgQuestao(q.id, areaKey);
+    const statusIcon = prog.acertou === true ? '✅' : prog.acertou === false ? '❌' : '⬜';
+    const favIcon = isFavorito(q.id) ? '⭐' : '';
+    const enunText = (q.enunciado || '').replace(/<[^>]*>/g, '').substring(0, 80);
+    const enunFinal = enunText + (enunText.length >= 80 ? '...' : '');
+    const areaNome = q.subarea || q.area || '';
+    const qid = q.id;
+    return `<div class="lista-item" data-qid="${qid}" onclick="irParaQuestaoDaLista(this, '${qid}')">
+      <div class="li-num">${i + 1}</div>
+      <div class="li-status">${statusIcon}</div>
+      <div class="li-info">
+        <div class="li-enun">${enunFinal}</div>
+        <div class="li-meta">
+          <span>${areaNome}</span>
+          <span>${q.dificuldade || 'Média'}</span>
+        </div>
+      </div>
+      <div class="li-fav">${favIcon}</div>
+    </div>`;
+  }).join('');
+}
+
+function irParaQuestaoDaLista(el, qid) {
+  fecharLista();
+  const lista = questoesFiltradas.length > 0 ? questoesFiltradas : questoes;
+  const idx = lista.findIndex(q => String(q.id) === String(qid));
+  if (idx >= 0) {
+    currentIndex = idx;
+    acertos = 0;
+    erros = 0;
+    answered = false;
+    showQuestion(idx);
+    document.getElementById('questionCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
+
+// ─── Streak ───
+function atualizarStreak() {
+  const hoje = new Date().toISOString().split('T')[0];
+  const streak = JSON.parse(localStorage.getItem(STREAK_KEY) || '{"count":0,"ultimo":"","dias":{}}');
+  
+  if (streak.ultimo !== hoje) {
+    const ontem = new Date();
+    ontem.setDate(ontem.getDate() - 1);
+    const ontemStr = ontem.toISOString().split('T')[0];
+    
+    if (streak.ultimo === ontemStr) {
+      streak.count++;
+    } else if (streak.ultimo !== hoje) {
+      streak.count = 1;
+    }
+    streak.ultimo = hoje;
+  }
+  
+  streak.dias = streak.dias || {};
+  streak.dias[hoje] = (streak.dias[hoje] || 0) + 1;
+  localStorage.setItem(STREAK_KEY, JSON.stringify(streak));
+  
+  // Atualizar UI
+  const bar = document.getElementById('streakBar');
+  if (streak.count > 0) {
+    bar.style.display = 'flex';
+    document.getElementById('streakCount').textContent = streak.count;
+    // Progresso visual proporcional (max streak: 30 dias = 100%)
+    const pct = Math.min(100, (streak.count / 30) * 100);
+    document.getElementById('streakFill').style.width = pct + '%';
+  }
+}
+
+// ─── Keyboard shortcuts ───
 document.addEventListener('keydown', (e) => {
+  // Não atalhos quando modal aberto
+  if (document.getElementById('listaModal').classList.contains('visible')) {
+    if (e.key === 'Escape') { fecharLista(); return; }
+    return;
+  }
+
+  const q = questoesFiltradas[currentIndex];
+  if (!q) return;
+
   if (e.key === 'Enter' && !answered && document.getElementById('btnConfirm').disabled === false) {
     confirmAnswer();
-  } else if (e.key === 'Enter' && answered && document.getElementById('btnNext').style.display !== 'none') {
+    e.preventDefault();
+  } else if (e.key === 'Enter' && answered) {
     nextQuestion();
+    e.preventDefault();
   } else if (['1','2','3','4','5'].includes(e.key)) {
     const idx = parseInt(e.key) - 1;
     const btns = document.querySelectorAll('.alt-btn');
     if (btns[idx]) btns[idx].click();
+    e.preventDefault();
+  } else if (e.key === 'ArrowRight' || e.key === 'n') {
+    if (answered) nextQuestion();
+    else if (!answered && currentIndex < questoesFiltradas.length - 1) pularQuestao();
+    e.preventDefault();
+  } else if (e.key === 'ArrowLeft' || e.key === 'p') {
+    if (currentIndex > 0) previousQuestion();
+    e.preventDefault();
+  } else if (e.key === 'r' || e.key === 'R') {
+    const refBtn = document.querySelector('#qActions .btn-outline');
+    if (refBtn && refBtn.textContent.includes('Refazer')) refBtn.click();
+    e.preventDefault();
+  } else if (e.key === 'f' || e.key === 'F') {
+    toggleFavFromMeta();
+    e.preventDefault();
+  } else if (e.key === ' ' || e.key === 'Escape') {
+    if (answered) {
+      const exp = document.getElementById('qExplicacao');
+      exp.classList.toggle('visible');
+    }
+    e.preventDefault();
   }
 });
+
+// ─── Swipe gestures ───
+let touchStartX = 0;
+let touchEndX = 0;
+let touchStartY = 0;
+document.addEventListener('touchstart', (e) => {
+  touchStartX = e.changedTouches[0].screenX;
+  touchStartY = e.changedTouches[0].screenY;
+}, { passive: true });
+document.addEventListener('touchend', (e) => {
+  touchEndX = e.changedTouches[0].screenX;
+  const diffX = touchStartX - touchEndX;
+  const diffY = Math.abs(e.changedTouches[0].screenY - touchStartY);
+  // Só swipe horizontal (não vertical, pra não conflitar com scroll)
+  if (Math.abs(diffX) > 70 && diffY < 50) {
+    if (diffX > 0) {
+      // Swipe left → next
+      if (answered && currentIndex < questoesFiltradas.length - 1) nextQuestion();
+      else if (currentIndex < questoesFiltradas.length - 1) pularQuestao();
+    } else {
+      // Swipe right → previous
+      if (currentIndex > 0) previousQuestion();
+    }
+  }
+}, { passive: true });
 
 // ─── Start ───
 init();
