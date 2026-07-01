@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HermesMed — Banco de Questões</title>
+<script src="auth.js"></script>
 <style>
   :root {
     --bg: #0f0f1a;
@@ -198,7 +199,10 @@
 <body>
 <div class="container">
   <div class="header">
-    <h1>📚 HermesMed</h1>
+    <div style="display:flex;align-items:center;justify-content:space-between;">
+      <h1>📚 HermesMed</h1>
+      <a href="login.html?redirect=index.html" onclick="localStorage.removeItem('hermesmed_auth')" style="color:var(--muted);text-decoration:none;font-size:0.75rem;">🔒 Sair</a>
+    </div>
     <p>Banco de Questões — ENARE • Revalida</p>
     <div class="stats">
       <span>📝 <strong id="totalQuestoes">0</strong> questões</span>

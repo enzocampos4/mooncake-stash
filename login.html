@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>HermesMed — Acesso</title>
+<style>
+  :root {
+    --bg: #0d0d0d; --card: #1a1a2e; --text: #e8e8f0; --muted: #8888aa;
+    --accent: #7c5cfc; --accent2: #5ac8fa; --correct: #34c759; --wrong: #ff3b30;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg); color: var(--text); font-size: 14px; line-height: 1.5;
+    min-height: 100vh; -webkit-font-smoothing: antialiased;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .login-box {
+    width: 100%; max-width: 360px; padding: 20px;
+    text-align: center;
+  }
+  .logo {
+    font-size: 3rem; margin-bottom: 8px;
+  }
+  h1 {
+    font-size: 1.3rem; font-weight: 700; margin-bottom: 4px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  .sub {
+    color: var(--muted); font-size: 0.82rem; margin-bottom: 24px;
+  }
+  .input-group {
+    text-align: left; margin-bottom: 16px;
+  }
+  .input-group label {
+    font-size: 0.78rem; color: var(--muted); margin-bottom: 4px; display: block;
+  }
+  .input-group input {
+    width: 100%; padding: 12px 14px; border-radius: 10px;
+    background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.08);
+    color: var(--text); font-size: 1rem; outline: none;
+    transition: border-color 0.2s;
+  }
+  .input-group input:focus {
+    border-color: var(--accent);
+  }
+  .btn {
+    width: 100%; padding: 12px; border-radius: 10px; border: none;
+    background: linear-gradient(135deg, var(--accent), #5a3fd9);
+    color: white; font-size: 1rem; font-weight: 600; cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  .btn:active { opacity: 0.7; }
+  .error {
+    color: var(--wrong); font-size: 0.82rem; margin-top: 10px; display: none;
+  }
+</style>
+</head>
+<body>
+<div class="login-box">
+  <div class="logo">📚</div>
+  <h1>HermesMed</h1>
+  <div class="sub">Digite a senha para acessar</div>
+  <form id="loginForm" onsubmit="return entrar(event)">
+    <div class="input-group">
+      <label>Senha</label>
+      <input type="password" id="senhaInput" placeholder="••••••••" autofocus>
+    </div>
+    <button type="submit" class="btn">🔓 Entrar</button>
+    <div class="error" id="errorMsg">Senha incorreta!</div>
+  </form>
+</div>
+
+<script>
+// Hash SHA-256 da senha (repositório privado = ninguém vê o código)
+const HASH_ESPERADO = '7bbe53946a9673db28527380a7aafba86eaba6f7f6db8ccd6989c7b0b45cff7c';
+
+async function hashSenha(senha) {
+  const encoder = new TextEncoder();
+  const data = encoder.encode(senha);
+  const hash = await crypto.subtle.digest('SHA-256', data);
+  return Array.from(new Uint8Array(hash))
+    .map(b => b.toString(16).padStart(2, '0'))
+    .join('');
+}
+
+async function entrar(e) {
+  e.preventDefault();
+  const senha = document.getElementById('senhaInput').value;
+  const errorEl = document.getElementById('errorMsg');
+  
+  const hash = await hashSenha(senha);
+  
+  if (hash === HASH_ESPERADO) {
+    localStorage.setItem('hermesmed_auth', 'true');
+    // Redirecionar para página original ou index
+    const params = new URLSearchParams(window.location.search);
+    const redirect = params.get('redirect') || 'index.html';
+    window.location.href = redirect;
+  } else {
+    errorEl.style.display = 'block';
+    document.getElementById('senhaInput').value = '';
+    document.getElementById('senhaInput').focus();
+  }
+  return false;
+}
+
+// Se já estiver logado, redireciona direto
+if (localStorage.getItem('hermesmed_auth') === 'true') {
+  const params = new URLSearchParams(window.location.search);
+  window.location.href = params.get('redirect') || 'index.html';
+}
+</script>
+</body>
+</html>
