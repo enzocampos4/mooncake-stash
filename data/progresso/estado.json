@@ -150,7 +150,9 @@
       "subarea": "Hematologia",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
       "timestamp": "2026-07-01T18:18:51.913Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Hematologia",
+      "tipo": "livre"
     },
     {
       "id": "s3-036",
@@ -160,7 +162,9 @@
       "subarea": "Reumatologia",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
       "timestamp": "2026-07-01T18:19:05.750Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Reumatologia",
+      "tipo": "livre"
     },
     {
       "id": "s3-028",
@@ -170,7 +174,9 @@
       "subarea": "Trauma",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
       "timestamp": "2026-07-01T18:19:31.894Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Trauma",
+      "tipo": "first_contact"
     },
     {
       "id": "s1-001",
@@ -180,7 +186,9 @@
       "subarea": "Urgências Abdominais",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
       "timestamp": "2026-07-01T18:19:55.299Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Urgências Abdominais",
+      "tipo": "livre"
     },
     {
       "id": "s1-008",
@@ -190,7 +198,9 @@
       "subarea": "Proctologia",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
       "timestamp": "2026-07-01T18:20:01.086Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Proctologia",
+      "tipo": "livre"
     },
     {
       "id": "s1-013",
@@ -200,7 +210,9 @@
       "subarea": "Urgências Abdominais",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
       "timestamp": "2026-07-01T18:20:06.164Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Urgências Abdominais",
+      "tipo": "livre"
     },
     {
       "id": "s1-019",
@@ -210,7 +222,9 @@
       "subarea": "Urgências Abdominais",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
       "timestamp": "2026-07-01T18:20:12.000Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Urgências Abdominais",
+      "tipo": "livre"
     },
     {
       "id": "s1-062",
@@ -220,7 +234,9 @@
       "subarea": "Doenças associadas à gestação",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
       "timestamp": "2026-07-01T18:20:51.797Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Doenças associadas à gestação",
+      "tipo": "livre"
     },
     {
       "id": "s3-006",
@@ -230,7 +246,9 @@
       "subarea": "Oncologia ginecológica",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
       "timestamp": "2026-07-01T18:29:21.452Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Oncologia ginecológica",
+      "tipo": "livre"
     },
     {
       "id": "s1-031",
@@ -240,7 +258,9 @@
       "subarea": "Vesícula e Vias Biliares",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
       "timestamp": "2026-07-01T21:33:49.193Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Vesícula e Vias Biliares",
+      "tipo": "livre"
     },
     {
       "id": "s14-011",
@@ -250,7 +270,9 @@
       "subarea": "Epidemiologia",
       "fonte": "ESTRATÉGIA MED 14",
       "timestamp": "2026-07-01T21:43:11.897Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Epidemiologia",
+      "tipo": "first_contact"
     },
     {
       "id": "s5-052",
@@ -260,7 +282,9 @@
       "subarea": "Sistema Único de Saúde (SUS)",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
       "timestamp": "2026-07-01T21:43:20.967Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Sistema Único de Saúde (SUS)",
+      "tipo": "livre"
     },
     {
       "id": "s5-071",
@@ -270,7 +294,9 @@
       "subarea": "Sistema Único de Saúde (SUS)",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
       "timestamp": "2026-07-01T21:43:25.707Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Sistema Único de Saúde (SUS)",
+      "tipo": "livre"
     },
     {
       "id": "s1-016",
@@ -280,7 +306,9 @@
       "subarea": "Medicina de Família e Comunidade",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
       "timestamp": "2026-07-01T21:43:38.544Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Medicina de Família e Comunidade",
+      "tipo": "livre"
     },
     {
       "id": "s5-029",
@@ -290,7 +318,9 @@
       "subarea": "Trauma",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
       "timestamp": "2026-07-02T21:23:55.278Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Trauma",
+      "tipo": "first_contact"
     },
     {
       "id": "s5-094",
@@ -300,7 +330,9 @@
       "subarea": "Cirurgia Torácica",
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
       "timestamp": "2026-07-02T21:24:17.014Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Cirurgia Torácica",
+      "tipo": "livre"
     },
     {
       "id": "s14-009",
@@ -310,7 +342,9 @@
       "subarea": "Cirurgia Torácica",
       "fonte": "ESTRATÉGIA MED 14",
       "timestamp": "2026-07-02T21:24:22.753Z",
-      "modo": "📖 Livre"
+      "modo": "📖 Livre",
+      "assunto": "Cirurgia Torácica",
+      "tipo": "livre"
     }
   ],
   "favoritos": {},
