@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-07-01T18:29:47.677Z",
+  "exportado": "2026-07-02T21:24:54.802Z",
   "versao": 2,
   "progresso": {
     "clinica-medica": {
@@ -60,6 +60,30 @@
         "nota": "",
         "respondida": true,
         "data": "2026-07-01T18:20:12.000Z"
+      },
+      "s5-029": {
+        "acertou": true,
+        "selecao": "A",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-07-02T21:23:55.277Z"
+      },
+      "s5-094": {
+        "acertou": true,
+        "selecao": "A",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-07-02T21:24:17.014Z"
+      },
+      "s14-009": {
+        "acertou": false,
+        "selecao": "B",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-07-02T21:24:22.752Z"
       }
     },
     "obstetricia": {
@@ -80,6 +104,40 @@
         "nota": "",
         "respondida": true,
         "data": "2026-07-01T18:29:21.452Z"
+      }
+    },
+    "medicina-preventiva": {
+      "s14-011": {
+        "acertou": false,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-07-01T21:43:11.895Z"
+      },
+      "s5-052": {
+        "acertou": false,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-07-01T21:43:20.966Z"
+      },
+      "s5-071": {
+        "acertou": true,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-07-01T21:43:25.707Z"
+      },
+      "s1-016": {
+        "acertou": false,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-07-01T21:43:38.544Z"
       }
     }
   },
@@ -173,15 +231,96 @@
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
       "timestamp": "2026-07-01T18:29:21.452Z",
       "modo": "📖 Livre"
+    },
+    {
+      "id": "s1-031",
+      "acertou": false,
+      "selecao": "A",
+      "area": "Cirurgia",
+      "subarea": "Vesícula e Vias Biliares",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+      "timestamp": "2026-07-01T21:33:49.193Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "s14-011",
+      "acertou": false,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Epidemiologia",
+      "fonte": "ESTRATÉGIA MED 14",
+      "timestamp": "2026-07-01T21:43:11.897Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "s5-052",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "timestamp": "2026-07-01T21:43:20.967Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "s5-071",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "timestamp": "2026-07-01T21:43:25.707Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "s1-016",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+      "timestamp": "2026-07-01T21:43:38.544Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "s5-029",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Cirurgia",
+      "subarea": "Trauma",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "timestamp": "2026-07-02T21:23:55.278Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "s5-094",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Cirurgia",
+      "subarea": "Cirurgia Torácica",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "timestamp": "2026-07-02T21:24:17.014Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "s14-009",
+      "acertou": false,
+      "selecao": "B",
+      "area": "Cirurgia",
+      "subarea": "Cirurgia Torácica",
+      "fonte": "ESTRATÉGIA MED 14",
+      "timestamp": "2026-07-02T21:24:22.753Z",
+      "modo": "📖 Livre"
     }
   ],
   "favoritos": {},
   "notas": {},
   "streak": {
-    "count": 1,
-    "ultimo": "2026-07-01",
+    "count": 2,
+    "ultimo": "2026-07-02",
     "dias": {
-      "2026-07-01": 5
+      "2026-07-01": 10,
+      "2026-07-02": 3
     }
   },
   "simulados": {}
