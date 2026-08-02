@@ -99,6 +99,7 @@
     border-radius: 6px;
   }
   .question-card .meta .tag.area-tag { background: rgba(124,92,252,0.15); color: var(--accent); }
+  .question-card .meta .tag.tag-banca { background: rgba(90,200,250,0.12); color: var(--accent2); }
   .question-card .enunciado {
     font-size: 1rem;
     line-height: 1.6;
@@ -601,6 +602,7 @@
       <div class="meta">
         <span class="tag area-tag" id="qArea"></span>
         <span class="tag" id="qEspecialidade"></span>
+        <span class="tag tag-banca" id="qBanca" style="display:none;"></span>
         <span class="tag" id="qFonte"></span>
         <span class="tag" id="qDificuldade"></span>
         <span class="tag tag-fav" id="qFavStar" onclick="toggleFavFromMeta()" style="cursor:pointer;user-select:none;">☆</span>
@@ -1112,6 +1114,18 @@ function showQuestion(index) {
   document.getElementById('qEspecialidade').textContent = q.especialidade || '';
   const fonte = q.fonte || (q._simulado ? `Estratégia MED ${q._simulado.replace('-simulado','')}ª Ed.` : '');
   document.getElementById('qFonte').textContent = fonte;
+  // Banca/instituição original (questões extraídas do site)
+  const bancaEl = document.getElementById('qBanca');
+  if (bancaEl) {
+    const banca = q.banca || q.instituicao || '';
+    const ano = q.ano ? ` • ${q.ano}` : '';
+    if (banca) {
+      bancaEl.textContent = `🏛️ ${banca}${ano}`;
+      bancaEl.style.display = '';
+    } else {
+      bancaEl.style.display = 'none';
+    }
+  }
   const diff = q.dificuldade || 'Média';
   document.getElementById('qDificuldade').textContent = diff;
   document.getElementById('qFavStar').textContent = isFavorito(q.id) ? '⭐' : '☆';

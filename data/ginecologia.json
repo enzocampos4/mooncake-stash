@@ -1296,7 +1296,7 @@
    "area": "Ginecologia",
    "subarea": "Planejamento familiar",
    "area_slug": "ginecologia",
-   "fonte": "BQMED (Site) — Estratégia MED",
+   "fonte": "BQMED (Site) — UEM - Universidade Estadual de Maringá 2018",
    "instituicao": "UEM - Universidade Estadual de Maringá",
    "ano": 2018,
    "dificuldade": "Media",
@@ -1309,7 +1309,8 @@
     "E": "Miconazol creme vaginal"
    },
    "correta": "E",
-   "explicacao": "Gabarito: alternativa E. Nem sempre o prurido vulvar é sinônimo de candidíase, pois outras patologias podem cursar com esse sintoma (dermatoses vulvares, dermatite atópica, eczemas etc.). A presença de corrimento vaginal faz com que a etiologia mais provável seja a candidíase, causada pela proliferação de fungos, na maioria dos casos Candida albicans. O tratamento deve ser feito com antifúngicos (via tópica ou oral têm igual eficácia). Análise: A (22%) incorreta — metronidazol é para vaginose bacteriana; B (2%) incorreta — azitromicina é para cervicite por clamídia; C (2%) incorreta — tinidazol é para vaginose bacteriana; D (2%) incorreta — clindamicina é para vaginose bacteriana; E (71%) correta — miconazol é antifúngico. Tópicos: Ginecologia endócrina → Planejamento familiar → Métodos hormonais combinados → Contraindicações."
+   "explicacao": "Gabarito: alternativa E. Nem sempre o prurido vulvar é sinônimo de candidíase, pois outras patologias podem cursar com esse sintoma (dermatoses vulvares, dermatite atópica, eczemas etc.). A presença de corrimento vaginal faz com que a etiologia mais provável seja a candidíase, causada pela proliferação de fungos, na maioria dos casos Candida albicans. O tratamento deve ser feito com antifúngicos (via tópica ou oral têm igual eficácia). Análise: A (22%) incorreta — metronidazol é para vaginose bacteriana; B (2%) incorreta — azitromicina é para cervicite por clamídia; C (2%) incorreta — tinidazol é para vaginose bacteriana; D (2%) incorreta — clindamicina é para vaginose bacteriana; E (71%) correta — miconazol é antifúngico. Tópicos: Ginecologia endócrina → Planejamento familiar → Métodos hormonais combinados → Contraindicações.",
+   "banca": "PR - UEM - Universidade Estadual de Maringá"
   },
   {
    "id": "site-pf-002",
@@ -1317,9 +1318,9 @@
    "area": "Ginecologia",
    "subarea": "Planejamento familiar",
    "area_slug": "ginecologia",
-   "fonte": "BQMED (Site) — Estratégia MED",
-   "instituicao": "BQMED",
-   "ano": null,
+   "fonte": "BQMED (Site) — SUS Bahia (BA) 2024",
+   "instituicao": "SUS Bahia (BA)",
+   "ano": 2024,
    "dificuldade": "Media",
    "enunciado": "Dois jovens, ela 25 anos e ele 26 anos, tiveram relação sexual há 2 dias e utilizaram preservativo, porém perceberam que a camisinha havia estourado durante o ato. Ela, nuligesta, está preocupada, pois isso nunca havia acontecido e estava no período fértil. A gestação nesse momento não seria desejada. Ela é hipertensa desde os 22 anos, bem controlada, sem outras comorbidades. Com base nas informações, indique o risco de uma gestação nesse caso:",
    "alternativas": {
@@ -1329,7 +1330,8 @@
     "D": "Em torno de 18% a 20%, apesar do período fértil, pela idade da paciente."
    },
    "correta": "D",
-   "explicacao": "Gabarito: alternativa D. Houve rompimento do preservativo durante relação desprotegida no período fértil. O período fértil ocorre em torno do meio do ciclo (ovulação), e o óvulo pode ser fertilizado por até 24h após liberação, enquanto espermatozoides permanecem viáveis por até 5 dias. Como a relação ocorreu há 2 dias no período fértil, existe janela de fertilização. Se a gravidez não é desejada, indicar contracepção de emergência (pílula do dia seguinte, eficaz até 72h, algumas opções até 5 dias). O risco teórico de gestação em relação desprotegida no período fértil é de cerca de 20%. Análise: A (5%) incorreta; B (43%) incorreta; C (4%) incorreta; D (48%) correta — risco de cerca de 20%."
+   "explicacao": "Gabarito: alternativa D. Houve rompimento do preservativo durante relação desprotegida no período fértil. O período fértil ocorre em torno do meio do ciclo (ovulação), e o óvulo pode ser fertilizado por até 24h após liberação, enquanto espermatozoides permanecem viáveis por até 5 dias. Como a relação ocorreu há 2 dias no período fértil, existe janela de fertilização. Se a gravidez não é desejada, indicar contracepção de emergência (pílula do dia seguinte, eficaz até 72h, algumas opções até 5 dias). O risco teórico de gestação em relação desprotegida no período fértil é de cerca de 20%. Análise: A (5%) incorreta; B (43%) incorreta; C (4%) incorreta; D (48%) correta — risco de cerca de 20%.",
+   "banca": "BA - SUS Bahia (BA)"
   },
   {
    "id": "site-pf-003",
@@ -1337,9 +1339,9 @@
    "area": "Ginecologia",
    "subarea": "Planejamento familiar",
    "area_slug": "ginecologia",
-   "fonte": "BQMED (Site) — Estratégia MED",
-   "instituicao": "BQMED",
-   "ano": null,
+   "fonte": "BQMED (Site) — Hospital Evangélico de Cachoeira de Itapemirim (HECI) 2023",
+   "instituicao": "Hospital Evangélico de Cachoeira de Itapemirim (HECI)",
+   "ano": 2023,
    "dificuldade": "Media",
    "enunciado": "Mulher de 37 anos busca atendimento médico em unidade básica de saúde para aconselhamento sobre métodos contraceptivos. Paciente nega comorbidades, informa tabagismo e etilismo social. Relata também que em propedêutica prévia foi visualizado mioma distorcendo a cavidade endometrial. Em relação aos métodos a seguir, o MAIS adequado a essa paciente é o:",
    "alternativas": {
@@ -1349,7 +1351,8 @@
     "D": "Implante subdérmico de etonogestrel."
    },
    "correta": "D",
-   "explicacao": "Gabarito: alternativa D. Paciente tem mioma e a questão pede método anticoncepcional que sirva também para o tratamento da miomatose. A (10%) incorreta — paciente tem mais de 35 anos e é tabagista, contraindicação para anticoncepcionais combinados; B (3%) incorreta — anel vaginal também é combinado (etinilestradiol + etonogestrel); C (11%) incorreta — mioma distorce a cavidade endometrial, contraindicação para DIU; D (76%) correta — sem contraindicação para progestágeno exclusivo e é opção de tratamento da miomatose uterina."
+   "explicacao": "Gabarito: alternativa D. Paciente tem mioma e a questão pede método anticoncepcional que sirva também para o tratamento da miomatose. A (10%) incorreta — paciente tem mais de 35 anos e é tabagista, contraindicação para anticoncepcionais combinados; B (3%) incorreta — anel vaginal também é combinado (etinilestradiol + etonogestrel); C (11%) incorreta — mioma distorce a cavidade endometrial, contraindicação para DIU; D (76%) correta — sem contraindicação para progestágeno exclusivo e é opção de tratamento da miomatose uterina.",
+   "banca": "ES - Hospital Evangélico de Cachoeira de Itapemirim (HECI)"
   },
   {
    "id": "site-pf-004",
@@ -1357,9 +1360,9 @@
    "area": "Ginecologia",
    "subarea": "Planejamento familiar",
    "area_slug": "ginecologia",
-   "fonte": "BQMED (Site) — Estratégia MED",
-   "instituicao": "BQMED",
-   "ano": null,
+   "fonte": "BQMED (Site) — Hospital Estadual Dirceu Arcoverde (HEDA) 2026",
+   "instituicao": "Hospital Estadual Dirceu Arcoverde (HEDA)",
+   "ano": 2026,
    "dificuldade": "Media",
    "enunciado": "Antônia, 44 anos, relata menorragia crônica, com ciclos menstruais prolongados apresentando sangramento intenso por cerca de 11 dias, de forma recorrente há mais de seis meses. Ao exame ginecológico, observa-se útero aumentado de volume, móvel e de contornos regulares. A ultrassonografia pélvica evidencia miomatose uterina, com miomas intramurais e subserosos, sendo o maior medindo 5 cm. Como parte do tratamento clínico, foi indicada a inserção de dispositivo intrauterino liberador de progesterona. Assinale a alternativa que corresponde ao principal objetivo terapêutico dessa conduta.",
    "alternativas": {
@@ -1370,7 +1373,8 @@
     "E": "Reduzir a produção ovariana de estrogênio circulante."
    },
    "correta": "D",
-   "explicacao": "Gabarito: alternativa D. Paciente com sangramento uterino anormal por miomatose, tratada com SIU de levonorgestrel. Miomas têm crescimento estimulado por estrógeno e progesterona; os medicamentos hormonais objetivam diminuir ou impedir esse estímulo. Anticoncepcionais combinados e progestágenos induzem atrofia endometrial, reduzindo o fluxo menstrual. A (1%) incorreta — não agem diminuindo aporte sanguíneo arterial; B (9%) incorreta — inibem ovulação, mas esse não é o mecanismo para reduzir sangramento dos miomas; C (12%) incorreta — não diminuem tamanho dos miomas (só análogos do GnRH); D (72%) correta — promover atrofia endometrial; E (6%) incorreta — não é o mecanismo para tratamento dos miomas."
+   "explicacao": "Gabarito: alternativa D. Paciente com sangramento uterino anormal por miomatose, tratada com SIU de levonorgestrel. Miomas têm crescimento estimulado por estrógeno e progesterona; os medicamentos hormonais objetivam diminuir ou impedir esse estímulo. Anticoncepcionais combinados e progestágenos induzem atrofia endometrial, reduzindo o fluxo menstrual. A (1%) incorreta — não agem diminuindo aporte sanguíneo arterial; B (9%) incorreta — inibem ovulação, mas esse não é o mecanismo para reduzir sangramento dos miomas; C (12%) incorreta — não diminuem tamanho dos miomas (só análogos do GnRH); D (72%) correta — promover atrofia endometrial; E (6%) incorreta — não é o mecanismo para tratamento dos miomas.",
+   "banca": "PI - Hospital Estadual Dirceu Arcoverde (HEDA)"
   },
   {
    "id": "site-pf-005",
@@ -1378,8 +1382,8 @@
    "area": "Ginecologia",
    "subarea": "Planejamento familiar",
    "area_slug": "ginecologia",
-   "fonte": "BQMED (Site) — Estratégia MED",
-   "instituicao": "SCMCG - Santa Casa de Misericórdia de Campo Grande",
+   "fonte": "BQMED (Site) — Santa Casa de Misericórdia de Campo Grande (SCMCG) 2021",
+   "instituicao": "Santa Casa de Misericórdia de Campo Grande (SCMCG)",
    "ano": 2021,
    "dificuldade": "Media",
    "enunciado": "Paciente de 30 anos com antecedente de Lúpus Eritematoso Sistêmico sem pesquisa de anticorpo anti-fosfolípide, tem como melhor método anticoncepcional:",
@@ -1390,7 +1394,8 @@
     "D": "Adesivo transdérmico."
    },
    "correta": "B",
-   "explicacao": "Gabarito: alternativa B. Lúpus com anticorpos antifosfolipídeos positivos ou desconhecidos são categoria 3 pelo OMS para DIU de levonorgestrel, por isso nesse caso o DIU de cobre é a melhor opção para essa paciente. Análise: A (18%) — DIU com levonorgestrel categoria 3 pelo OMS em lúpus com anticorpos antifosfolipídeos positivos/desconhecidos; B (80%) correta — DIU de cobre, método não hormonal, sem interferência no LES; C (0%) — injetável mensal combinado hormonal, contraindicado; D (2%) — adesivo transdérmico combinado hormonal, contraindicado."
+   "explicacao": "Gabarito: alternativa B. Lúpus com anticorpos antifosfolipídeos positivos ou desconhecidos são categoria 3 pelo OMS para DIU de levonorgestrel, por isso nesse caso o DIU de cobre é a melhor opção para essa paciente. Análise: A (18%) — DIU com levonorgestrel categoria 3 pelo OMS em lúpus com anticorpos antifosfolipídeos positivos/desconhecidos; B (80%) correta — DIU de cobre, método não hormonal, sem interferência no LES; C (0%) — injetável mensal combinado hormonal, contraindicado; D (2%) — adesivo transdérmico combinado hormonal, contraindicado.",
+   "banca": "MS - Santa Casa de Misericórdia de Campo Grande (SCMCG)"
   }
  ]
 }
