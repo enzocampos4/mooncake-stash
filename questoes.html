@@ -344,6 +344,16 @@
 
   /* Subcategory filter pills */
   .sub-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 10px 0;
+  }
+  /* Origin filter pills (site vs simulados) */
+  .origem-filter { border-top: 1px dashed rgba(255,255,255,0.12); padding-top: 10px; }
+  .origem-pill { opacity: 0.85; }
+  .origem-pill.active { background: var(--accent2); border-color: var(--accent2); color: #0f0f1a; opacity: 1; }
+  .sub-filter-origem {
     display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px;
   }
   .sub-pill {
@@ -553,6 +563,13 @@
     <!-- Sub-subcategory drill-down -->
     <div class="sub-filter sub-filter-2" id="subFilter2" style="display:none;"></div>
 
+    <!-- Origin filter (Simulados PDF vs Site/BQMED) -->
+    <div class="sub-filter origem-filter" id="origemFilter" style="display:none;">
+      <span class="sub-pill origem-pill active" data-origem="" onclick="filtrarOrigem('')">🌐 Todas <span class="count" id="origemCntTodas"></span></span>
+      <span class="sub-pill origem-pill" data-origem="simulado" onclick="filtrarOrigem('simulado')">📄 Simulados <span class="count" id="origemCntSimulado"></span></span>
+      <span class="sub-pill origem-pill" data-origem="site" onclick="filtrarOrigem('site')">🖥️ Site (BQMED) <span class="count" id="origemCntSite"></span></span>
+    </div>
+
     <!-- Filter mode + Shuffle + Lista -->
     <div class="filter-mode" id="filterMode" style="display:none;">
       <span class="mode-pill active" data-mode="todas" onclick="filtrarEstado('todas')">Todas</span>
@@ -675,6 +692,7 @@ let modo = 'livre';
 let areaAtual = null;
 let subareaFiltro = null;
 let subSubareaFiltro = null; // sub-subcategoria (drill-down)
+let origemFiltro = null; // '' (todas) | 'simulado' | 'site'
 let questoesFiltradas = [];
 let assuntoData = null;
 let filtroEstado = 'todas'; // 'todas' | 'acertou' | 'errou' | 'nao' | 'favoritas'
@@ -899,6 +917,8 @@ const AREA_NAMES = {
 async function abrirArea(slug) {
   areaAtual = slug;
   subareaFiltro = null;
+  subSubareaFiltro = null;
+  origemFiltro = null;
   document.getElementById('areaGrid').style.display = 'none';
 
   try {
@@ -915,6 +935,7 @@ async function abrirArea(slug) {
   }
 
   questoesFiltradas = [...questoes];
+  montarFiltroOrigem();
   document.getElementById('pageTitle').textContent = AREA_NAMES[slug] || slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
   document.getElementById('pageSub').textContent = `${questoes.length} questões`;
   document.getElementById('modeBadge').textContent = '📖 Livre';
@@ -988,8 +1009,12 @@ function _lookupSubNome(subSlug) {
 function filtrarSubarea(subSlug) {
   subareaFiltro = subSlug || null;
   subSubareaFiltro = null; // reset sub-subcategory filter
+  origemFiltro = null; // reset origin filter
   document.querySelectorAll('#subFilter .sub-pill').forEach(p => {
     p.classList.toggle('active', p.dataset.sub === (subSlug || ''));
+  });
+  document.querySelectorAll('#origemFilter .origem-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.origem === '');
   });
 
   // Show/hide sub-subcategory drill-down
@@ -1029,6 +1054,32 @@ function filtrarSubSubarea(subSubNome) {
   subSubareaFiltro = subSubNome || null;
   document.querySelectorAll('#subFilter2 .sub-pill').forEach(p => {
     p.classList.toggle('active', p.dataset.subsub === (subSubNome || ''));
+  });
+  aplicarFiltros();
+}
+
+// ─── Origin filter (Simulados PDF vs Site/BQMED) ───
+function origemDaQuestao(q) {
+  const fonte = (q.fonte || '').toLowerCase();
+  if (fonte.includes('bqmed') || fonte.includes('site') || fonte.includes('web')) return 'site';
+  return 'simulado';
+}
+
+function montarFiltroOrigem() {
+  const el = document.getElementById('origemFilter');
+  if (!el) return;
+  const cntSim = questoes.filter(q => origemDaQuestao(q) === 'simulado').length;
+  const cntSite = questoes.filter(q => origemDaQuestao(q) === 'site').length;
+  document.getElementById('origemCntTodas').textContent = `(${questoes.length})`;
+  document.getElementById('origemCntSimulado').textContent = `(${cntSim})`;
+  document.getElementById('origemCntSite').textContent = `(${cntSite})`;
+  el.style.display = cntSite > 0 ? 'flex' : 'none';
+}
+
+function filtrarOrigem(origem) {
+  origemFiltro = origem || null;
+  document.querySelectorAll('#origemFilter .origem-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.origem === (origem || ''));
   });
   aplicarFiltros();
 }
@@ -1553,6 +1604,11 @@ function aplicarFiltros() {
   // Sub-subarea filter (drill-down)
   if (subSubareaFiltro) {
     lista = lista.filter(q => q.sub_subarea && q.sub_subarea === subSubareaFiltro);
+  }
+
+  // Origin filter (simulado vs site/BQMED)
+  if (origemFiltro) {
+    lista = lista.filter(q => origemDaQuestao(q) === origemFiltro);
   }
 
   // Shuffle
