@@ -4832,5 +4832,125 @@
     "dificuldade": "Media",
     "simulado": "",
     "numero": 5
+  },
+  "site-int-001": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — Universidade Federal de Goiás (UFG) 2018",
+    "instituicao": "Universidade Federal de Goiás (UFG)",
+    "ano": 2018,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 1
+  },
+  "site-int-002": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000024767)",
+    "instituicao": "BQMED (ID 4000024767)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 2
+  },
+  "site-int-003": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000035693)",
+    "instituicao": "BQMED (ID 4000035693)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 3
+  },
+  "site-int-004": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000046166)",
+    "instituicao": "BQMED (ID 4000046166)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 4
+  },
+  "site-int-005": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000099510)",
+    "instituicao": "BQMED (ID 4000099510)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 5
+  },
+  "site-int-006": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000107179)",
+    "instituicao": "BQMED (ID 4000107179)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 6
+  },
+  "site-int-007": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000107233)",
+    "instituicao": "BQMED (ID 4000107233)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 7
+  },
+  "site-int-008": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000107977)",
+    "instituicao": "BQMED (ID 4000107977)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 8
+  },
+  "site-int-009": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000108503)",
+    "instituicao": "BQMED (ID 4000108503)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 9
+  },
+  "site-int-010": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000112202)",
+    "instituicao": "BQMED (ID 4000112202)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 10
+  },
+  "site-int-011": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — Hospital Professor Edmundo Vasconcelos (HPEV) 2019",
+    "instituicao": "Hospital Professor Edmundo Vasconcelos (HPEV)",
+    "ano": 2019,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 11
+  },
+  "site-int-012": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000115274)",
+    "instituicao": "BQMED (ID 4000115274)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 12
   }
 }

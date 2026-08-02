@@ -218,7 +218,7 @@
  },
  "clinica-medica": {
   "nome": "Clínica Médica",
-  "total": 154,
+  "total": 166,
   "subcategorias": {
    "cardiologia": {
     "nome": "Cardiologia",
@@ -263,6 +263,14 @@
    "reumatologia": {
     "nome": "Reumatologia",
     "total": 3
+   },
+   "pneumologia-intensiva": {
+    "nome": "Pneumologia Intensiva",
+    "total": 12
+   },
+   "via-aerea-intubacao": {
+    "nome": "Via aérea / Intubação",
+    "total": 12
    }
   },
   "subdetalhes": {
