@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>HermesMed — Meu Plano de Estudos</title>
+<script src="auth.js"></script>
+<script src="tema.js"></script>
+<script type="importmap">
+{
+  "imports": {
+    "@huggingface/transformers": "https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.4.0"
+  }
+}
+</script>
+<style>
+  :root {
+    --bg: #0f0f1a; --card: #1a1a2e; --card2: #22223a;
+    --accent: #7c5cfc; --accent2: #5ac8fa; --correct: #34c759; --wrong: #ff3b30;
+    --text: #e8e8f0; --muted: #8888a0; --radius: 16px;
+  }
+  html[data-tema="claro"] {
+    --bg: #f2f2f7; --card: #ffffff; --card2: #e9e9f0;
+    --accent: #5b3fd4; --accent2: #0a84ff; --correct: #248a3d; --wrong: #d70015;
+    --text: #1c1c1e; --muted: #6e6e73;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg); color: var(--text); font-size:14px; line-height:1.5;
+    min-height:100vh; padding:14px;
+  }
+  .container { max-width:720px; margin:0 auto; padding-bottom:40px; }
+
+  .topbar { display:flex; align-items:center; gap:10px; padding:8px 0 14px; }
+  .topbar .back { font-size:1.3rem; text-decoration:none; color:var(--text); width:36px; height:36px; display:flex; align-items:center; justify-content:center; border-radius:10px; background:var(--card); }
+  .topbar .info { flex:1; }
+  .topbar .info .title { font-weight:700; font-size:1rem; }
+  .topbar .info .sub { color:var(--muted); font-size:0.78rem; }
+  .topbar .tema-btn { background:none; border:none; font-size:1.1rem; cursor:pointer; }
+
+  .hero {
+    background: linear-gradient(135deg, rgba(124,92,252,0.12), rgba(90,200,250,0.08));
+    border:1px solid rgba(124,92,252,0.25); border-radius:var(--radius);
+    padding:16px; margin-bottom:14px;
+  }
+  .hero h2 { font-size:1rem; margin-bottom:4px; }
+  .hero p { font-size:0.8rem; color:var(--muted); }
+
+  .status-card {
+    background: var(--card); border-radius:14px; padding:16px; margin-bottom:12px;
+    border:1px solid rgba(255,255,255,0.05);
+  }
+  .status-card .label { font-size:0.78rem; color:var(--muted); margin-bottom:4px; }
+  .status-card .value { font-size:1.6rem; font-weight:700; }
+  .status-card .value.green { color:var(--correct); }
+  .status-card .value.red { color:var(--wrong); }
+  .status-card .value.accent { color:var(--accent2); }
+
+  .grid-stats { display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-bottom:14px; }
+  .grid-stats .stat-card {
+    background: var(--card); border-radius:12px; padding:12px;
+    border:1px solid rgba(255,255,255,0.05); text-align:center;
+  }
+  .grid-stats .stat-card .num { font-size:1.3rem; font-weight:700; }
+  .grid-stats .stat-card .lbl { font-size:0.7rem; color:var(--muted); }
+
+  .btn {
+    display:inline-flex; align-items:center; gap:6px;
+    padding:12px 20px; border-radius:12px; font-weight:600; font-size:0.9rem;
+    border:none; cursor:pointer; transition:0.2s;
+  }
+  .btn-primary { background:linear-gradient(135deg, var(--accent), #5a3fd9); color:white; }
+  .btn-primary:disabled { opacity:0.4; cursor:not-allowed; }
+  .btn-secondary { background:var(--card2); color:var(--text); border:1px solid rgba(255,255,255,0.08); }
+  .btn-secondary:hover { border-color:var(--accent); }
+  .btn-sm { padding:8px 14px; font-size:0.8rem; border-radius:10px; }
+
+  .loading-box {
+    text-align:center; padding:40px 20px; color:var(--muted);
+  }
+  .loading-box .spin { font-size:2.5rem; display:block; margin-bottom:10px; }
+  .loading-bar {
+    height:6px; background:var(--card2); border-radius:3px; overflow:hidden; margin:10px auto 6px; max-width:300px;
+  }
+  .loading-bar .fill {
+    height:100%; background:linear-gradient(90deg, var(--accent), var(--accent2));
+    border-radius:3px; transition:width 0.5s;
+  }
+  .loading-box .sub { font-size:0.78rem; color:var(--muted); }
+
+  .plano-card {
+    background: var(--card); border-radius:14px; overflow:hidden; margin-bottom:10px;
+    border:1px solid rgba(255,255,255,0.05);
+  }
+  .plano-card .dia-header {
+    display:flex; align-items:center; gap:10px; padding:12px 14px;
+    cursor:pointer; user-select:none;
+  }
+  .plano-card .dia-header:hover { background:rgba(255,255,255,0.03); }
+  .plano-card .dia-header .num-dia {
+    width:32px; height:32px; border-radius:50%;
+    background:rgba(124,92,252,0.15); color:var(--accent2);
+    display:flex; align-items:center; justify-content:center; font-weight:700; font-size:0.9rem; flex-shrink:0;
+  }
+  .plano-card .dia-header .num-dia.done { background:rgba(52,199,89,0.15); color:var(--correct); }
+  .plano-card .dia-header .dia-info { flex:1; }
+  .plano-card .dia-header .dia-nome { font-weight:600; font-size:0.88rem; }
+  .plano-card .dia-header .dia-sub { font-size:0.72rem; color:var(--muted); }
+  .plano-card .dia-header .caret { color:var(--muted); font-size:0.75rem; transition:transform 0.2s; }
+  .plano-card .dia-header.expanded .caret { transform:rotate(90deg); }
+  .plano-card .dia-body { display:none; padding:0 14px 12px; }
+  .plano-card .dia-body.open { display:block; }
+  .plano-card .topico-row {
+    display:flex; align-items:center; gap:8px; padding:6px 0;
+    border-bottom:1px dashed rgba(255,255,255,0.04);
+  }
+  .plano-card .topico-row:last-child { border-bottom:none; }
+  .plano-card .topico-row .area-badge {
+    font-size:0.65rem; padding:2px 8px; border-radius:12px;
+    background:rgba(124,92,252,0.12); color:var(--muted);
+  }
+  .plano-card .topico-row .foco { flex:1; font-size:0.8rem; }
+  .plano-card .topico-row .qtd { font-size:0.75rem; color:var(--muted); min-width:20px; text-align:center; }
+  .plano-card .topico-row input[type="checkbox"] { accent-color:var(--correct); width:16px; height:16px; }
+
+  .plano-card .dia-actions { display:flex; gap:6px; margin-top:8px; }
+  .plano-card .dia-actions .btn { font-size:0.75rem; padding:6px 14px; }
+
+  .config-box {
+    background: var(--card); border-radius:14px; padding:14px; margin-bottom:12px;
+    border:1px solid rgba(255,255,255,0.05);
+  }
+  .config-box label { display:block; font-size:0.8rem; color:var(--muted); margin-bottom:4px; }
+  .config-box input, .config-box select {
+    width:100%; padding:9px 12px; border-radius:10px;
+    border:1px solid rgba(255,255,255,0.12); background:var(--card2);
+    color:var(--text); font-size:0.88rem; margin-bottom:10px;
+  }
+  .config-box input:focus { outline:2px solid var(--accent); border-color:transparent; }
+
+  .hidden { display:none !important; }
+
+  .erro-box { text-align:center; padding:20px; color:var(--muted); font-size:0.85rem; }
+
+  /* Áreas que mais precisa estudar */
+  .need-focus {
+    display:flex; gap:6px; flex-wrap:wrap; margin-bottom:14px;
+  }
+  .need-focus .pill {
+    font-size:0.72rem; padding:4px 12px; border-radius:20px;
+    background:rgba(255,59,48,0.12); color:var(--wrong);
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="topbar">
+    <a href="index.html" class="back">←</a>
+    <div class="info">
+      <div class="title">🤖 Meu Plano de Estudos</div>
+      <div class="sub" id="pageSub">IA local no navegador</div>
+    </div>
+    <button class="tema-btn" onclick="hermesmedTema.toggle()" title="Tema">🌓</button>
+  </div>
+
+  <div class="hero">
+    <h2>🧠 Plano personalizado por IA</h2>
+    <p>Uma inteligência artificial <strong>rodando no seu navegador</strong> analisa seu desempenho e monta um plano de estudos sob medida pra você.</p>
+  </div>
+
+  <div id="configurePanel">
+    <div class="config-box">
+      <label>📅 Duração do plano (dias)</label>
+      <input type="number" id="diasInput" value="14" min="3" max="60">
+      <label>📝 Questões por dia</label>
+      <input type="number" id="qtdInput" value="20" min="5" max="100">
+      <button class="btn btn-primary" id="btnGerar" onclick="gerarPlano()" style="width:100%;">🚀 Gerar plano com IA</button>
+    </div>
+
+    <!-- Stats atuais -->
+    <div id="statsPrevia" class="hidden">
+      <div class="grid-stats" id="statsGrid"></div>
+      <div id="needFocus"></div>
+    </div>
+  </div>
+
+  <!-- Status de carregamento do modelo -->
+  <div id="modelStatus" class="hidden">
+    <div class="loading-box">
+      <span class="spin" id="modelIcon">🧠</span>
+      <div class="loading-bar"><div class="fill" id="modelProgress" style="width:0%"></div></div>
+      <div id="modelStatusText">Carregando modelo de IA...</div>
+      <div class="sub" id="modelSub">Primeira carga pode levar alguns segundos</div>
+    </div>
+  </div>
+
+  <!-- Resultado: plano gerado -->
+  <div id="planoResult" class="hidden">
+    <div id="planoHeader" class="status-card" style="display:flex;align-items:center;gap:12px;">
+      <span style="font-size:2rem;">📋</span>
+      <div style="flex:1;">
+        <div class="label">Seu plano personalizado</div>
+        <div id="planoTitulo" class="value accent"></div>
+      </div>
+    </div>
+    <div id="planoDias"></div>
+    <button class="btn btn-secondary" onclick="resetar()" style="width:100%;">🔄 Gerar novo plano</button>
+  </div>
+</div>
+
+<script type="module">
+// ─── IA local via Transformers.js ───
+import { pipeline, env } from '@huggingface/transformers';
+
+// Config: modelos disponíveis (quanto maior, melhor mas mais pesado)
+const MODELOS = {
+  'SmolLM2-360M': 'onnx-community/SmolLM2-360M-Instruct',
+  // 'TinyLlama-1.1B': 'onnx-community/TinyLlama-1.1B-Chat-v1.0', // ~700MB, muito pesado
+};
+const MODELO_USAR = 'SmolLM2-360M'; // ~140MB, bom custo-benefício
+
+let pipe = null;
+let modeloCarregado = false;
+
+// ─── Utilitários ───
+function esc(s) { return String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+// ─── Carregar stats do usuário ───
+function getProgresso() {
+  const prog = JSON.parse(localStorage.getItem('hermesmed_progresso') || '{}');
+  const log = JSON.parse(localStorage.getItem('hermesmed_log') || '[]');
+  return { progresso: prog, log };
+}
+
+function calcularStats() {
+  const { progresso, log } = getProgresso();
+  let total = 0, acertos = 0;
+  const porArea = {};
+  for (const [area, questoes] of Object.entries(progresso)) {
+    for (const [qid, info] of Object.entries(questoes)) {
+      if (!info.respondida) continue;
+      total++;
+      if (info.acertou) acertos++;
+      if (!porArea[area]) porArea[area] = { total: 0, acertos: 0 };
+      porArea[area].total++;
+      if (info.acertou) porArea[area].acertos++;
+    }
+  }
+  return { total, acertos, taxa: total > 0 ? Math.round(acertos/total*100) : 0, porArea };
+}
+
+function mostrarStatsPrevia() {
+  const stats = calcularStats();
+  document.getElementById('statsPrevia').classList.remove('hidden');
+  document.getElementById('statsGrid').innerHTML = `
+    <div class="stat-card"><div class="num">${stats.total}</div><div class="lbl">Questões</div></div>
+    <div class="stat-card"><div class="num ${stats.taxa >= 60 ? 'green' : 'red'}">${stats.taxa}%</div><div class="lbl">Taxa de acerto</div></div>
+  `;
+  const areas = Object.entries(stats.porArea).sort((a, b) => (a[1].acertos/a[1].total) - (b[1].acertos/b[1].total));
+  const fracas = areas.filter(a => a[1].acertos/a[1].total < 0.5);
+  if (fracas.length > 0) {
+    document.getElementById('needFocus').innerHTML = `
+      <div style="font-size:0.8rem;color:var(--muted);margin-bottom:6px;">🎯 Áreas que mais precisa focar:</div>
+      <div class="need-focus">${fracas.map(a => `<span class="pill">${esc(a[0])} (${Math.round(a[1].acertos/a[1].total*100)}%)</span>`).join('')}</div>
+    `;
+  }
+}
+
+// ─── Carregar modelo ───
+async function carregarModelo() {
+  const statusEl = document.getElementById('modelStatus');
+  const progress = document.getElementById('modelProgress');
+  const textEl = document.getElementById('modelStatusText');
+  const subEl = document.getElementById('modelSub');
+  const iconEl = document.getElementById('modelIcon');
+
+  statusEl.classList.remove('hidden');
+  textEl.textContent = 'Preparando modelo de IA local...';
+  subEl.textContent = 'Usando ' + MODELO_USAR + ' (~140MB, rodando no seu navegador)';
+
+  try {
+    textEl.textContent = 'Carregando modelo...';
+    progress.style.width = '10%';
+
+    env.allowLocalModels = false; // sempre baixar do HuggingFace Hub (cache automático)
+
+    const label = MODELOS[MODELO_USAR];
+
+    pipe = await pipeline('text-generation', label, {
+      progress_callback: (p) => {
+        if (p.status === 'download') {
+          const pct = Math.round((p.loaded / p.total) * 80);
+          progress.style.width = Math.min(80, pct + 10) + '%';
+          textEl.textContent = `Baixando modelo... ${Math.round(p.loaded / 1048576)}MB / ${Math.round(p.total / 1048576)}MB`;
+        } else if (p.status === 'load') {
+          progress.style.width = '90%';
+          textEl.textContent = 'Carregando modelo na memória...';
+        }
+      }
+    });
+
+    progress.style.width = '100%';
+    textEl.textContent = '✅ Modelo carregado!';
+    modeloCarregado = true;
+    setTimeout(() => { statusEl.classList.add('hidden'); }, 800);
+
+  } catch (e) {
+    textEl.textContent = '❌ Erro ao carregar modelo: ' + e.message;
+    subEl.textContent = 'Tente recarregar a página ou use um navegador mais recente (Chrome/Edge).';
+    iconEl.textContent = '😢';
+    progress.style.width = '0%';
+    subEl.textContent = 'Detalhes: ' + e.message;
+  }
+}
+
+// ─── Gerar plano com IA ───
+async function gerarPlano() {
+  const dias = parseInt(document.getElementById('diasInput').value) || 14;
+  const qtd = parseInt(document.getElementById('qtdInput').value) || 20;
+
+  // Mostrar stats do usuário antes
+  mostrarStatsPrevia();
+
+  if (!modeloCarregado) {
+    await carregarModelo();
+  }
+  if (!pipe) {
+    alert('Modelo não carregado. Tente novamente.');
+    return;
+  }
+
+  const btn = document.getElementById('btnGerar');
+  btn.disabled = true;
+  btn.textContent = '🧠 IA gerando seu plano...';
+
+  const stats = calcularStats();
+
+  // Montar prompt para a IA
+  const prompt = `Você é um assistente especializado em criar planos de estudo para residência médica (ENARE/ENAMED). 
+Com base nos dados de desempenho do aluno abaixo, crie um plano de estudos PERSONALIZADO de ${dias} dias com aproximadamente ${qtd} questões por dia.
+
+DADOS DO ALUNO:
+- Total de questões respondidas: ${stats.total}
+- Taxa de acerto geral: ${stats.taxa}%
+- Desempenho por área (área: acertos/total):
+${Object.entries(stats.porArea).map(([a, d]) => `  * ${a}: ${d.acertos}/${d.total} (${Math.round(d.acertos/d.total*100)}%)`).join('\n')}
+
+REGRAS DO PLANO:
+1. Áreas com MENOR taxa de acerto devem ter MAIS questões (foco nas fraquezas)
+2. Distribua EQUILIBRADAMENTE entre sub-tópicos de cada área
+3. Inclua revisão espaçada a cada 3 dias (questões de áreas já estudadas)
+4. O plano deve ter exatos ${dias} dias
+
+Responda APENAS com um JSON válido no formato exato:
+{
+  "titulo": "Título do plano (máx 60 chars)",
+  "descricao": "Breve descrição do plano",
+  "dias": [
+    {
+      "dia": 1,
+      "topicos": [
+        {"area": "nome da área", "foco": "subtópico ou tema", "qtd": 5}
+      ]
+    }
+  ]
+}
+Gere o JSON completo sem texto adicional.`;
+
+  try {
+    const result = await pipe(prompt, {
+      max_new_tokens: 3000,
+      temperature: 0.7,
+      do_sample: true,
+    });
+
+    const texto = result[0]?.generated_text || '';
+
+    // Extrair JSON da resposta
+    const jsonMatch = texto.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) throw new Error('IA não retornou JSON válido');
+
+    const plano = JSON.parse(jsonMatch[0]);
+    renderizarPlano(plano, dias, qtd);
+
+    // Salvar no localStorage
+    localStorage.setItem('hermesmed_plano_ia', JSON.stringify(plano));
+
+  } catch (e) {
+    alert('Erro ao gerar plano: ' + e.message + '\n\nTente novamente.');
+  } finally {
+    btn.disabled = false;
+    btn.textContent = '🚀 Gerar plano com IA';
+  }
+}
+
+// ─── Renderizar plano ───
+function renderizarPlano(plano, dias, qtd) {
+  document.getElementById('configurePanel').classList.add('hidden');
+  document.getElementById('planoResult').classList.remove('hidden');
+
+  document.getElementById('planoTitulo').textContent = plano.titulo || `Plano de ${dias} dias`;
+
+  const container = document.getElementById('planoDias');
+  container.innerHTML = '';
+
+  (plano.dias || []).forEach((dia) => {
+    const card = document.createElement('div');
+    card.className = 'plano-card';
+    const totalDia = (dia.topicos || []).reduce((s, t) => s + (t.qtd || 0), 0);
+
+    card.innerHTML = `
+      <div class="dia-header" onclick="this.classList.toggle('expanded');this.nextElementSibling.classList.toggle('open')">
+        <div class="num-dia">${dia.dia}</div>
+        <div class="dia-info">
+          <div class="dia-nome">Dia ${dia.dia}</div>
+          <div class="dia-sub">${dia.topicos?.length || 0} tópicos • ${totalDia} questões</div>
+        </div>
+        <span class="caret">▶</span>
+      </div>
+      <div class="dia-body">
+        ${(dia.topicos || []).map(t => `
+          <div class="topico-row">
+            <label class="area-badge">${esc(t.area || '')}</label>
+            <span class="foco">${esc(t.foco || '')}</span>
+            <span class="qtd">${t.qtd || 0}</span>
+            <input type="checkbox" onchange="this.parentElement.style.opacity=this.checked?'0.5':'1'">
+          </div>
+        `).join('')}
+        <div class="dia-actions">
+          <button class="btn btn-primary btn-sm" onclick="gerarSessaoDoDia(${dia.dia})">📝 Praticar este dia</button>
+        </div>
+      </div>
+    `;
+    container.appendChild(card);
+  });
+}
+
+// ─── Gerar sessão para um dia específico ───
+window.gerarSessaoDoDia = function(dia) {
+  const plano = JSON.parse(localStorage.getItem('hermesmed_plano_ia') || '{}');
+  const diaPlano = (plano.dias || []).find(d => d.dia === dia);
+  if (!diaPlano) return;
+
+  const topicos = diaPlano.topicos || [];
+
+  // Converter para o formato do construtor de sessão (selecao por chave)
+  const selecao = {};
+  for (const t of topicos) {
+    const slug = slugify(t.area);
+    const chave = `${slug}||${t.area}||${t.foco}`;
+    selecao[chave] = { q: t.qtd || 5 };
+  }
+
+  // Salva no formato do construtor de sessão e redireciona
+  localStorage.setItem('hermesmed_selecao_dia', JSON.stringify(selecao));
+  window.location.href = 'sessao.html?carregar=dia';
+};
+
+function slugify(s) {
+  return String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+// ─── Reset ───
+window.resetar = function() {
+  document.getElementById('configurePanel').classList.remove('hidden');
+  document.getElementById('planoResult').classList.add('hidden');
+};
+
+// Inicializar
+mostrarStatsPrevia();
+</script>
+</body>
+</html>

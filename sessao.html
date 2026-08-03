@@ -254,6 +254,22 @@ async function carregar() {
     return;
   }
   renderArvore();
+  // Carregar seleção do plano de IA (se veio de ?carregar=dia)
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('carregar') === 'dia') {
+    const sel = JSON.parse(localStorage.getItem('hermesmed_selecao_dia') || '{}');
+    if (Object.keys(sel).length > 0) {
+      selecao = sel;
+      // Atualiza os inputs visualmente
+      Object.entries(sel).forEach(([chave, v]) => {
+        const input = document.querySelector(`input[onchange="setQtd('${chave.replace(/'/g, "\\'")}', this.value)"]`);
+        if (input) { input.value = v.q; input.classList.toggle('sel', v.q > 0); }
+      });
+      atualizarResumo();
+      // Remove o cache
+      localStorage.removeItem('hermesmed_selecao_dia');
+    }
+  }
 }
 
 // ─── Agrupar por área → sub → subsub ───
