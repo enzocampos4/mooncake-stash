@@ -254,7 +254,7 @@ function mostrarStatsPrevia() {
 }
 
 
-// ─── Gerar plano via backend
+// ─── Gerar plano (tenta backend, fallback local)
 async function gerarPlano() {
   const dias = parseInt(document.getElementById('diasInput').value) || 14;
   const qtd = parseInt(document.getElementById('qtdInput').value) || 20;
@@ -268,12 +268,84 @@ async function gerarPlano() {
       headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + token },
       body: JSON.stringify({ duracao_dias: dias, qtd_por_dia: qtd })
     });
-    if (!resp.ok) throw new Error(await resp.text());
+    if (!resp.ok) throw new Error('backend off');
     const data = await resp.json();
     renderizarPlano({ titulo: data.plano?.titulo || 'Plano', descricao: '', dias: data.dias || [] }, dias, qtd);
     localStorage.setItem('hermesmed_plano_api', JSON.stringify(data.dias || []));
-  } catch (e) { alert('Erro: ' + e.message); }
+  } catch (e) {
+    // Fallback: gerar localmente com regras
+    const planoLocal = gerarPlanoLocal(dias, qtd);
+    renderizarPlano(planoLocal, dias, qtd);
+    localStorage.setItem('hermesmed_plano_api', JSON.stringify(planoLocal.dias || []));
+  }
   finally { btn.disabled = false; btn.textContent = 'Gerar plano'; }
+}
+
+// ─── Plano local (fallback sem backend) ───
+const AREAS_TAXONOMIA = [
+  { slug: 'clinica-medica', nome: 'Clínica Médica' },
+  { slug: 'cirurgia', nome: 'Cirurgia' },
+  { slug: 'pediatria', nome: 'Pediatria' },
+  { slug: 'ginecologia', nome: 'Ginecologia' },
+  { slug: 'obstetricia', nome: 'Obstetrícia' },
+  { slug: 'medicina-preventiva', nome: 'Medicina Preventiva' },
+  { slug: 'medicina-intensiva', nome: 'Medicina Intensiva' },
+  { slug: 'emergencia', nome: 'Emergência e Trauma' },
+  { slug: 'ortopedia', nome: 'Ortopedia' },
+  { slug: 'oftalmologia', nome: 'Oftalmologia' },
+  { slug: 'otorrino', nome: 'Otorrinolaringologia' },
+  { slug: 'dermatologia', nome: 'Dermatologia' },
+  { slug: 'psiquiatria', nome: 'Psiquiatria' },
+  { slug: 'geriatria', nome: 'Geriatria' },
+  { slug: 'infectologia', nome: 'Infectologia' },
+  { slug: 'nefrologia', nome: 'Nefrologia' },
+  { slug: 'reumatologia', nome: 'Reumatologia' }
+];
+
+function gerarPlanoLocal(dias, porDia) {
+  const progresso = JSON.parse(localStorage.getItem('hermesmed_progresso') || '{}');
+  // Calcular taxa por área
+  const taxas = {};
+  for (const [area, questoes] of Object.entries(progresso)) {
+    let total = 0, acertos = 0;
+    for (const info of Object.values(questoes)) {
+      if (info.respondida) { total++; if (info.acertou) acertos++; }
+    }
+    if (total > 0) taxas[area] = acertos / total;
+  }
+  // Pesos (menor acerto = maior peso)
+  const pesos = {};
+  for (const a of AREAS_TAXONOMIA) {
+    const taxa = taxas[a.slug];
+    pesos[a.slug] = taxa !== undefined ? Math.max(0.5, 1.5 - taxa) : 1.2;
+  }
+  const somaPesos = Object.values(pesos).reduce((s, p) => s + p, 0);
+  // Erros para revisão
+  const erros = [];
+  for (const [area, questoes] of Object.entries(progresso)) {
+    for (const [qid, info] of Object.entries(questoes)) {
+      if (info.respondida && !info.acertou) erros.push(qid);
+    }
+  }
+  // Gerar dias
+  const diasArray = [];
+  for (let d = 1; d <= dias; d++) {
+    const topicos = [];
+    let restante = porDia;
+    const areasOrd = [...AREAS_TAXONOMIA].sort((a, b) => (pesos[b.slug]||1) - (pesos[a.slug]||1));
+    for (const area of areasOrd) {
+      if (restante <= 0) break;
+      const qtdArea = Math.max(1, Math.round((pesos[area.slug] / somaPesos) * porDia));
+      const areaRest = Math.min(qtdArea, restante);
+      topicos.push({ area: area.nome, foco: 'Questões variadas', qtd: areaRest });
+      restante -= areaRest;
+    }
+    if (d % 3 === 0 && erros.length > 0) {
+      topicos.push({ area: 'Revisão', foco: 'Questões erradas', qtd: Math.min(5, Math.ceil(porDia * 0.15)), revisao: true });
+    }
+    diasArray.push({ dia: d, topicos });
+  }
+  return { titulo: `Plano de ${dias} dias`, descricao: 'Gerado localmente', dias: diasArray };
 }
 
 // ─── Renderizar plano ───
