@@ -5,12 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>HermesMed — Desempenho</title>
 <script src="auth.js"></script>
+<script src="tema.js"></script>
 <style>
   :root {
     --bg: #0d0d0d; --card: #1a1a2e; --text: #e8e8f0; --muted: #8888aa;
     --accent: #7c5cfc; --accent2: #5ac8fa; --correct: #34c759; --wrong: #ff3b30;
     --yellow: #ff9f0a; --orange: #ff6b35; --pink: #ff6b9d;
   }
+  html[data-tema="claro"] {
+    --bg: #f2f2f7; --card: #ffffff; --text: #1c1c1e; --muted: #6e6e73;
+    --accent: #5b3fd4; --accent2: #0a84ff; --correct: #248a3d; --wrong: #d70015;
+    --yellow: #c77d00; --orange: #d2660a; --pink: #d14d80;
+  }
+
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -237,6 +244,7 @@
       <div class="title">📊 Desempenho</div>
       <div class="sub" id="pageSub">Carregando...</div>
     </div>
+    <button onclick="hermesmedTema.toggle()" title="Alternar tema claro/escuro" style="margin-left:auto;background:none;border:none;font-size:1.1rem;cursor:pointer;">🌓</button>
   </div>
 
   <div id="content"></div>

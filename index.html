@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HermesMed — Banco de Questões</title>
 <script src="auth.js"></script>
+<script src="tema.js"></script>
 <style>
   :root {
     --bg: #0f0f1a;
@@ -17,8 +18,22 @@
     --wrong: #ff3b30;
     --text: #e8e8f0;
     --muted: #8888a0;
+    --yellow: #ff9f0a;
     --radius: 16px;
     --shadow: 0 8px 32px rgba(0,0,0,0.3);
+  }
+  html[data-tema="claro"] {
+    --bg: #f2f2f7;
+    --card: #ffffff;
+    --card2: #e9e9f0;
+    --accent: #5b3fd4;
+    --accent2: #0a84ff;
+    --correct: #248a3d;
+    --wrong: #d70015;
+    --text: #1c1c1e;
+    --muted: #6e6e73;
+    --yellow: #c77d00;
+    --shadow: 0 8px 24px rgba(0,0,0,0.12);
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -250,7 +265,10 @@
 <body>
 <div class="container" style="position:relative;">
   <div class="header">
-    <a href="login.html?redirect=index.html" onclick="localStorage.removeItem('hermesmed_auth')" class="logout">🔒 Sair</a>
+    <div style="position:absolute;top:20px;right:24px;display:flex;gap:8px;">
+      <button class="logout" onclick="hermesmedTema.toggle()" title="Alternar tema claro/escuro" style="cursor:pointer;">🌓</button>
+      <a href="login.html?redirect=index.html" onclick="localStorage.removeItem('hermesmed_auth')" class="logout">🔒 Sair</a>
+    </div>
     <div class="brand">
       <span class="logo-badge">📚</span>
       <h1>HermesMed</h1>
@@ -274,6 +292,11 @@
       <div class="icon">❌</div>
       <div class="label">Caderno de Erros</div>
       <div class="sub" id="errCount">0 erradas</div>
+    </a>
+    <a href="questoes.html?modo=sessao" class="quick-btn">
+      <div class="icon">🎯</div>
+      <div class="label">Nova Sessão</div>
+      <div class="sub">Customize seu estudo</div>
     </a>
     <a href="questoes.html?modo=livre" class="quick-btn">
       <div class="icon">🎯</div>

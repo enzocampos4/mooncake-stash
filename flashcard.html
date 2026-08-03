@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HermesMed — Flashcards</title>
 <script src="auth.js"></script>
+<script src="tema.js"></script>
 <style>
   :root {
     --bg: #0f0f1a;
@@ -18,6 +19,20 @@
     --muted: #8888a0;
     --radius: 20px;
   }
+  html[data-tema="claro"] {
+    --bg: #f2f2f7;
+    --card: #ffffff;
+    --card2: #e9e9f0;
+    --accent: #5b3fd4;
+    --accent2: #0a84ff;
+    --correct: #248a3d;
+    --wrong: #d70015;
+    --text: #1c1c1e;
+    --muted: #6e6e73;
+    --radius: 20px;
+    --shadow: 0 8px 24px rgba(0,0,0,0.12);
+  }
+
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -189,6 +204,7 @@
       <div class="sub" id="flashcardSub">Estudo rápido</div>
     </div>
     <div class="count" id="flashcardCount">0</div>
+    <button onclick="hermesmedTema.toggle()" title="Alternar tema claro/escuro" style="background:none;border:none;font-size:1.1rem;cursor:pointer;padding:4px;">🌓</button>
   </div>
 
   <div class="progress-track"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>

@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>HermesMed — Questões</title>
 <script src="auth.js"></script>
+<script src="tema.js"></script>
 <style>
   :root {
     --bg: #0f0f1a;
@@ -19,6 +20,20 @@
     --radius: 16px;
     --shadow: 0 8px 32px rgba(0,0,0,0.3);
   }
+  html[data-tema="claro"] {
+    --bg: #f2f2f7;
+    --card: #ffffff;
+    --card2: #e9e9f0;
+    --accent: #5b3fd4;
+    --accent2: #0a84ff;
+    --correct: #248a3d;
+    --wrong: #d70015;
+    --text: #1c1c1e;
+    --muted: #6e6e73;
+    --radius: 16px;
+    --shadow: 0 8px 24px rgba(0,0,0,0.12);
+  }
+
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -401,20 +416,23 @@
   .sub-pill.active { background: var(--accent); color: white; border-color: var(--accent); }
   .sub-pill .count { opacity: 0.7; margin-left: 3px; }
 
-  /* Sessão customizada (quantidade) */
-  .sessao-config {
-    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
-    padding: 10px 12px; background: var(--card); border-radius: 12px;
-    margin-bottom: 12px; border: 1px dashed rgba(124,92,252,0.35);
+  /* Sessão customizada (modal Nova Sessão) */
+  .sessao-body { padding: 4px 0; }
+  .sessao-label { display: block; font-size: 0.8rem; color: var(--muted); margin-bottom: 8px; font-weight: 600; }
+  .sessao-opcoes { display: flex; gap: 8px; flex-wrap: wrap; }
+  .sessao-opcao {
+    font-size: 0.78rem; padding: 8px 14px; border-radius: 20px;
+    border: 1px solid var(--card2); background: var(--card);
+    color: var(--muted); cursor: pointer; transition: 0.2s;
   }
-  .sessao-config .sessao-label { font-size: 0.8rem; color: var(--muted); }
-  .sessao-config .sessao-input {
-    width: 70px; padding: 8px 10px; border-radius: 8px;
+  .sessao-opcao:hover { border-color: var(--accent); color: var(--text); }
+  .sessao-opcao.active { background: var(--accent); color: white; border-color: var(--accent); }
+  .sessao-input {
+    width: 90px; padding: 10px 12px; border-radius: 10px;
     border: 1px solid rgba(255,255,255,0.12); background: var(--card2);
-    color: var(--text); font-size: 0.9rem; text-align: center;
+    color: var(--text); font-size: 1rem; text-align: center;
   }
-  .sessao-config .sessao-btn { padding: 8px 16px; font-size: 0.82rem; flex: 0; min-width: 0; }
-  .sessao-config .sessao-info { font-size: 0.75rem; color: var(--accent2); }
+  .sessao-info { font-size: 0.75rem; color: var(--accent2); margin-top: 10px; text-align: center; }
 
   /* Filtro de banca / instituições */
   .add-inst-btn {
@@ -613,6 +631,7 @@
       <div class="sub" id="pageSub">Carregando...</div>
     </div>
     <span class="mode-badge" id="modeBadge">Livre</span>
+    <button class="back" onclick="hermesmedTema.toggle()" title="Alternar tema claro/escuro" style="cursor:pointer;border:none;">🌓</button>
   </div>
 
   <!-- Area grid (default view) -->
@@ -657,14 +676,6 @@
       <span class="shuffle-btn" id="shuffleBtn" onclick="toggleShuffle()">🔀</span>
       <span class="shuffle-btn" onclick="abrirLista()">📋</span>
       <span class="shuffle-btn" onclick="abrirConfigSessao()" title="Configurar sessão (quantidade)">⚙️</span>
-    </div>
-
-    <!-- Sessão customizada: quantidade de questões -->
-    <div class="sessao-config" id="sessaoConfig" style="display:none;">
-      <span class="sessao-label">🧮 Questões na sessão:</span>
-      <input type="number" id="sessaoQtd" min="1" value="10" class="sessao-input">
-      <button class="btn btn-primary sessao-btn" onclick="aplicarQuantidade()">Aplicar</button>
-      <span class="sessao-info" id="sessaoInfo"></span>
     </div>
 
     <!-- Stats -->
@@ -776,6 +787,37 @@
       </div>
       <p style="font-size:0.78rem;color:var(--muted);margin-bottom:10px;">Marque ⭐ as instituições de interesse para filtrar e ter tendências.</p>
       <div id="instBody" style="max-height:50vh;overflow-y:auto;"></div>
+    </div>
+  </div>
+
+  <!-- Sessão customizada: modal Nova Sessão -->
+  <div class="modal-overlay" id="sessaoModal" onclick="if(event.target===this)fecharSessao()">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>🎯 Nova Sessão de Estudos</h3>
+        <button class="modal-close" onclick="fecharSessao()">✕</button>
+      </div>
+      <div class="sessao-body">
+        <label class="sessao-label">📚 Escolha o foco:</label>
+        <div class="sessao-opcoes" id="sessaoOpcoes">
+          <span class="sessao-opcao active" data-f="todas" onclick="selSessaoFoco('todas')">🌐 Todas</span>
+          <span class="sessao-opcao" data-f="nao" onclick="selSessaoFoco('nao')">⬜ Não respondidas</span>
+          <span class="sessao-opcao" data-f="errou" onclick="selSessaoFoco('errou')">❌ Erradas</span>
+          <span class="sessao-opcao" data-f="acertou" onclick="selSessaoFoco('acertou')">✅ Acertadas</span>
+          <span class="sessao-opcao" data-f="favoritas" onclick="selSessaoFoco('favoritas')">⭐ Favoritas</span>
+        </div>
+        <label class="sessao-label" style="margin-top:14px;">🧮 Quantidade de questões:</label>
+        <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+          <input type="number" id="sessaoQtd" min="1" value="10" class="sessao-input" style="flex:1;">
+          <button class="btn btn-outline" onclick="document.getElementById('sessaoQtd').value=''" style="flex:0;padding:8px 12px;font-size:0.78rem;">Todas</button>
+        </div>
+        <label class="sessao-label" style="margin-top:14px;">🔀 Ordem:</label>
+        <div class="sessao-opcoes">
+          <span class="sessao-opcao" id="sessaoShuffleOpcao" onclick="toggleSessaoShuffle()">🔀 Embaralhar</span>
+        </div>
+        <div class="sessao-info" id="sessaoInfo"></div>
+      </div>
+      <button class="btn btn-primary" onclick="aplicarQuantidade()" style="width:100%;padding:14px;margin-top:12px;">🚀 Iniciar sessão</button>
     </div>
   </div>
 </div>
@@ -938,6 +980,14 @@ async function init() {
     await carregarRevisao();
   } else if (modo === 'erros') {
     await carregarErros();
+  } else if (modo === 'sessao') {
+    // Nova sessão: mostra a grade de áreas; o modal abre ao escolher uma área
+    await mostrarGrade();
+    var aviso = document.createElement('div');
+    aviso.id = 'sessaoHint';
+    aviso.style.cssText = 'text-align:center;color:var(--muted);font-size:0.82rem;padding:8px 0 16px;';
+    aviso.innerHTML = '🎯 Escolha uma área abaixo para personalizar sua sessão de estudos.';
+    document.getElementById('areaGrid').parentElement.insertBefore(aviso, document.getElementById('areaGrid'));
   } else if (areaParam && assuntoData[areaParam]) {
     document.getElementById('areaGrid').style.display = 'none';
     await abrirArea(areaParam);
@@ -1122,6 +1172,13 @@ async function abrirArea(slug) {
   document.getElementById('qTotal').textContent = questoesFiltradas.length;
   renderDots();
   showQuestion(0);
+
+  // Modo sessão: abre o modal de configuração ao entrar na área
+  if (modo === 'sessao') {
+    const hint = document.getElementById('sessaoHint');
+    if (hint) hint.remove();
+    setTimeout(() => abrirConfigSessao(), 300);
+  }
 }
 
 // ─── Filter by subarea ───
@@ -1875,33 +1932,64 @@ async function carregarErros() {
   showQuestion(0);
 }
 
-// ─── Sessão customizada (quantidade) ───
+// ─── Sessão customizada (modal Nova Sessão) ───
 let quantidadeSessao = 0; // 0 = todas
+let focoSessao = 'todas';
+let shuffleSessao = false;
 
 function abrirConfigSessao() {
-  const el = document.getElementById('sessaoConfig');
-  const visivel = el.style.display !== 'none';
-  el.style.display = visivel ? 'none' : 'flex';
-  if (!visivel) {
-    document.getElementById('sessaoQtd').value = quantidadeSessao > 0 ? quantidadeSessao : 10;
-    atualizarInfoSessao();
-  }
+  // Sincroniza estado atual com o modal
+  document.getElementById('sessaoQtd').value = quantidadeSessao > 0 ? quantidadeSessao : '';
+  focoSessao = 'todas';
+  document.querySelectorAll('#sessaoOpcoes .sessao-opcao').forEach(p => {
+    p.classList.toggle('active', p.dataset.f === 'todas');
+  });
+  shuffleSessao = ordemEmbaralhada;
+  atualizarShuffleOpcao();
+  atualizarInfoSessao();
+  document.getElementById('sessaoModal').classList.add('visible');
 }
-
+function fecharSessao() {
+  document.getElementById('sessaoModal').classList.remove('visible');
+}
+function selSessaoFoco(f) {
+  focoSessao = f;
+  document.querySelectorAll('#sessaoOpcoes .sessao-opcao').forEach(p => {
+    p.classList.toggle('active', p.dataset.f === f);
+  });
+  atualizarInfoSessao();
+}
+function atualizarShuffleOpcao() {
+  const el = document.getElementById('sessaoShuffleOpcao');
+  el.classList.toggle('active', shuffleSessao);
+  el.textContent = shuffleSessao ? '🔀 Embaralhar: ON' : '🔀 Embaralhar: OFF';
+}
+function toggleSessaoShuffle() {
+  shuffleSessao = !shuffleSessao;
+  atualizarShuffleOpcao();
+}
 function atualizarInfoSessao() {
   const info = document.getElementById('sessaoInfo');
-  if (quantidadeSessao > 0) {
-    info.textContent = `Sessão limitada a ${quantidadeSessao} questões (das ${questoesFiltradas.length} filtradas)`;
-  } else {
-    info.textContent = 'Sessão com todas as questões filtradas';
-  }
+  const nomes = {
+    'todas': 'Todas as questões', 'nao': 'Não respondidas', 'errou': 'Erradas',
+    'acertou': 'Acertadas', 'favoritas': 'Favoritas'
+  };
+  const qtd = parseInt(document.getElementById('sessaoQtd').value, 10);
+  info.textContent = `${nomes[focoSessao]} • ${qtd > 0 ? qtd + ' questões' : 'todas as questões filtradas'}`;
 }
-
 function aplicarQuantidade() {
   const v = parseInt(document.getElementById('sessaoQtd').value, 10);
   quantidadeSessao = (v > 0) ? v : 0;
+  // Aplica foco (sempre, incluindo 'todas' para resetar filtro anterior)
+  if (filtroEstado !== focoSessao) {
+    filtrarEstado(focoSessao);
+  }
+  // Aplica ordem embaralhada
+  if (shuffleSessao && !ordemEmbaralhada) toggleShuffle();
+  else if (!shuffleSessao && ordemEmbaralhada) toggleShuffle();
+  // Aplica quantidade com nova filtragem
   aplicarFiltros();
-  document.getElementById('sessaoConfig').style.display = 'none';
+  document.getElementById('sessaoModal').classList.remove('visible');
 }
 
 // ─── Filter mode ───
@@ -2233,6 +2321,10 @@ document.addEventListener('keydown', (e) => {
   // Não atalhos quando modal aberto
   if (document.getElementById('listaModal').classList.contains('visible')) {
     if (e.key === 'Escape') { fecharLista(); return; }
+    return;
+  }
+  if (document.getElementById('sessaoModal').classList.contains('visible')) {
+    if (e.key === 'Escape') { fecharSessao(); return; }
     return;
   }
 
