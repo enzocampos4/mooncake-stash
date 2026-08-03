@@ -1776,6 +1776,24 @@ function mostrarResultado() {
   const total = questoesFiltradas.length;
   const pct = total > 0 ? Math.round((acertos / total) * 100) : 0;
 
+  // Marca a sessão personalizada como concluída
+  if (modo === 'sessao') {
+    try {
+      const sessaoAtiva = localStorage.getItem('hermesmed_sessao_ativa');
+      if (sessaoAtiva) {
+        const sessoes = JSON.parse(localStorage.getItem('hermesmed_sessoes') || '[]');
+        const s = sessoes.find(x => String(x.id) === String(sessaoAtiva));
+        if (s) {
+          s.status = 'concluida';
+          s.concluida = new Date().toISOString();
+          s.pct = pct;
+          localStorage.setItem('hermesmed_sessoes', JSON.stringify(sessoes));
+        }
+        localStorage.removeItem('hermesmed_sessao_ativa');
+      }
+    } catch {}
+  }
+
   document.getElementById('questionArea').style.display = 'none';
   document.getElementById('resultScreen').classList.add('visible');
   document.getElementById('resultScreen').style.display = '';

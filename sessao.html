@@ -43,6 +43,45 @@
   }
   .hero h2 { font-size: 1rem; margin-bottom: 4px; }
   .hero p { font-size: 0.8rem; color: var(--muted); }
+  .hero-nome { margin-top: 12px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .hero-nome label { font-size: 0.8rem; color: var(--muted); font-weight: 600; }
+  .hero-nome input {
+    flex: 1; min-width: 180px; padding: 9px 12px; border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.12); background: var(--card2); color: var(--text);
+    font-size: 0.88rem;
+  }
+  .hero-nome input:focus { outline: 2px solid var(--accent); border-color: transparent; }
+
+  /* Minhas sessões */
+  .minhas-sessoes {
+    background: var(--card); border-radius: 14px; margin-bottom: 12px;
+    border: 1px solid rgba(90,200,250,0.2); overflow: hidden;
+  }
+  .ms-header {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 12px 14px; cursor: pointer; font-weight: 700; font-size: 0.9rem;
+  }
+  .ms-header:hover { background: rgba(255,255,255,0.03); }
+  .ms-toggle { background: none; border: none; color: var(--muted); font-size: 0.8rem; cursor: pointer; }
+  .ms-item {
+    display: flex; align-items: center; gap: 10px; padding: 10px 14px;
+    border-top: 1px solid rgba(255,255,255,0.05); flex-wrap: wrap;
+  }
+  .ms-item .ms-info { flex: 1; min-width: 140px; }
+  .ms-item .ms-nome { font-weight: 600; font-size: 0.88rem; }
+  .ms-item .ms-meta { font-size: 0.72rem; color: var(--muted); }
+  .ms-item .ms-status {
+    font-size: 0.68rem; padding: 3px 10px; border-radius: 20px; font-weight: 600;
+  }
+  .ms-item .ms-status.andamento { background: rgba(90,200,250,0.15); color: var(--accent2); }
+  .ms-item .ms-status.concluida { background: rgba(52,199,89,0.15); color: var(--correct); }
+  .ms-item .ms-btn {
+    background: var(--card2); border: 1px solid rgba(255,255,255,0.08); color: var(--text);
+    border-radius: 8px; padding: 6px 12px; font-size: 0.75rem; cursor: pointer; transition: 0.15s;
+  }
+  .ms-item .ms-btn:hover { border-color: var(--accent); color: var(--accent2); }
+  .ms-item .ms-btn.danger:hover { border-color: var(--wrong); color: var(--wrong); }
+  .ms-empty { padding: 14px; font-size: 0.8rem; color: var(--muted); text-align: center; }
 
   /* Resumo da sessão */
   .resumo {
@@ -65,6 +104,11 @@
     background: var(--card2); color: var(--muted); border: 1px solid rgba(255,255,255,0.08);
     padding: 10px 16px; border-radius: 10px; cursor: pointer; font-size: 0.8rem;
   }
+  .resumo .btn-salvar {
+    background: var(--card2); color: var(--accent2); border: 1px solid rgba(90,200,250,0.3);
+    padding: 11px 18px; border-radius: 12px; cursor: pointer; font-size: 0.85rem; font-weight: 600;
+  }
+  .resumo .btn-salvar:hover { border-color: var(--accent2); }
 
   /* Árvore */
   .area-node {
@@ -111,6 +155,13 @@
   }
   .leaf-row .qty:focus { outline: 2px solid var(--accent); }
   .leaf-row .qty.sel { border-color: var(--accent); background: rgba(124,92,252,0.15); }
+  .leaf-row .step-control { display: flex; align-items: center; gap: 4px; }
+  .leaf-row .step-btn {
+    background: var(--card2); border: 1px solid rgba(255,255,255,0.08); color: var(--text);
+    border-radius: 6px; width: 26px; height: 26px; cursor: pointer; font-size: 0.9rem; line-height: 1;
+    display: flex; align-items: center; justify-content: center; transition: 0.15s;
+  }
+  .leaf-row .step-btn:hover { border-color: var(--accent); color: var(--accent2); }
   .leaf-row .add-all {
     background: var(--card2); border: none; color: var(--muted); border-radius: 6px;
     width: 24px; height: 24px; cursor: pointer; font-size: 0.75rem;
@@ -137,6 +188,19 @@
   <div class="hero">
     <h2>🧬 Monte sua sessão de estudos</h2>
     <p>Selecione áreas, tópicos e subtópicos. Para cada um, defina <strong>quantas questões</strong> quer treinar. Você controla tudo!</p>
+    <div class="hero-nome">
+      <label for="sessaoNome">✏️ Nome da sessão:</label>
+      <input type="text" id="sessaoNome" placeholder="Ex: Revisão de Endocrinologia" maxlength="60">
+    </div>
+  </div>
+
+  <!-- Minhas Sessões -->
+  <div class="minhas-sessoes" id="minhasSessoes" style="display:none;">
+    <div class="ms-header">
+      <span>📂 Minhas sessões</span>
+      <button class="ms-toggle" onclick="toggleMinhasSessoes()">▲</button>
+    </div>
+    <div id="msBody"></div>
   </div>
 
   <div id="arvore"><div class="loading"><span class="spin">📚</span>Carregando questões...</div></div>
@@ -150,6 +214,7 @@
       <span id="totalDetalhe">Escolha tópicos e quantidades</span>
     </div>
     <button class="btn-limpar" onclick="limparSessao()">🗑️ Limpar</button>
+    <button class="btn-salvar" onclick="salvarSessaoProjeto()">💾 Salvar</button>
     <button class="btn-iniciar" id="btnIniciar" onclick="iniciarSessao()" disabled>🚀 Iniciar</button>
   </div>
 </div>
@@ -253,9 +318,13 @@ function renderArvore() {
         leaf.innerHTML = `
           <span class="name">${esc(subsubNome)}</span>
           <span class="total-q">${qIds.length}</span>
-          <button class="add-all" title="Adicionar todas (${qIds.length})" onclick="addTodas('${leafKey.replace(/'/g, "\\'")}')">＋</button>
-          <input type="number" class="qty ${qtyAtual > 0 ? 'sel' : ''}" min="0" max="${qIds.length}" value="${qtyAtual}"
-            onchange="setQtd('${leafKey.replace(/'/g, "\\'")}', this.value)" oninput="this.classList.toggle('sel', parseInt(this.value||'0',10)>0)">`;
+          <div class="step-control">
+            <button class="step-btn" title="Diminuir" onclick="stepQtd('${leafKey.replace(/'/g, "\\'")}', -1)">−</button>
+            <input type="number" class="qty ${qtyAtual > 0 ? 'sel' : ''}" min="0" max="${qIds.length}" value="${qtyAtual}"
+              onchange="setQtd('${leafKey.replace(/'/g, "\\'")}', this.value)" oninput="this.classList.toggle('sel', parseInt(this.value||'0',10)>0)">
+            <button class="step-btn" title="Aumentar" onclick="stepQtd('${leafKey.replace(/'/g, "\\'")}', 1)">＋</button>
+            <button class="add-all" title="Adicionar todas (${qIds.length})" onclick="addTodas('${leafKey.replace(/'/g, "\\'")}')">⏫</button>
+          </div>`;
         subChildren.appendChild(leaf);
       }
 
@@ -286,6 +355,21 @@ function setQtd(chave, valor) {
     selecao[chaveClean] = { q: v };
   } else {
     delete selecao[chaveClean];
+  }
+  atualizarResumo();
+}
+
+function stepQtd(chave, delta) {
+  const atual = selecao[chave]?.q || 0;
+  const novo = atual + delta;
+  const input = document.querySelector(`input[onchange="setQtd('${chave.replace(/'/g, "\\'")}', this.value)"]`);
+  const max = input ? parseInt(input.max, 10) : 999;
+  const valorFinal = Math.max(0, Math.min(novo, max));
+  selecao[chave] = valorFinal > 0 ? { q: valorFinal } : undefined;
+  if (valorFinal <= 0) delete selecao[chave];
+  if (input) {
+    input.value = valorFinal;
+    input.classList.toggle('sel', valorFinal > 0);
   }
   atualizarResumo();
 }
@@ -338,28 +422,125 @@ function atualizarResumo() {
   // (simplificado: badge mostra selecionado/total)
 }
 
-// ─── Iniciar sessão ───
-function iniciarSessao() {
+// ─── Sessões salvas ───
+const SESSOES_KEY = 'hermesmed_sessoes';
+function getSessoes() {
+  try { return JSON.parse(localStorage.getItem(SESSOES_KEY) || '[]'); }
+  catch { return []; }
+}
+function setSessoes(arr) {
+  localStorage.setItem(SESSOES_KEY, JSON.stringify(arr));
+  renderMinhasSessoes();
+}
+function nomeAtual() {
+  return document.getElementById('sessaoNome').value.trim() || 'Sessão sem nome';
+}
+function coletarIds() {
   const ids = [];
   for (const [chave, sel] of Object.entries(selecao)) {
     const [a, sub, subsub] = chave.split('||');
     const candidatos = Object.entries(idx).filter(([, i]) =>
       i.area === a && (i.sub || '(sem tópico)') === sub && (i.subsub || '(sem subtópico)') === subsub
     ).map(([id]) => id);
-    // Embaralha e pega a quantidade pedida
     for (let i = candidatos.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [candidatos[i], candidatos[j]] = [candidatos[j], candidatos[i]];
     }
     ids.push(...candidatos.slice(0, Math.min(sel.q, candidatos.length)));
   }
-  // Embaralha a sessão final
   for (let i = ids.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [ids[i], ids[j]] = [ids[j], ids[i]];
   }
-  // Salva e vai para a sessão
+  return ids;
+}
+function salvarSessaoProjeto(status) {
+  const total = contarSelecionadas();
+  if (total === 0) { alert('⚠️ Selecione pelo menos uma questão antes de salvar.'); return; }
+  const nome = nomeAtual();
+  const ids = coletarIds();
+  const sessao = {
+    id: Date.now(),
+    nome: nome,
+    ids: ids,
+    total: total,
+    criada: new Date().toISOString(),
+    status: status || 'em_andamento'
+  };
+  const sessoes = getSessoes();
+  sessoes.push(sessao);
+  setSessoes(sessoes);
+  renderMinhasSessoes();
+  return sessao;
+}
+function toggleMinhasSessoes() {
+  const box = document.getElementById('minhasSessoes');
+  const body = document.getElementById('msBody');
+  const btn = box.querySelector('.ms-toggle');
+  if (box.style.display === 'none') {
+    box.style.display = 'block';
+    renderMinhasSessoes();
+  } else {
+    box.style.display = 'none';
+  }
+}
+function renderMinhasSessoes() {
+  const box = document.getElementById('minhasSessoes');
+  const body = document.getElementById('msBody');
+  const sessoes = getSessoes();
+  if (sessoes.length === 0) {
+    box.style.display = 'none';
+    return;
+  }
+  box.style.display = 'block';
+  // Separa: em andamento primeiro, depois concluídas
+  const emAndamento = sessoes.filter(s => s.status !== 'concluida');
+  const concluidas = sessoes.filter(s => s.status === 'concluida');
+  const lista = [...emAndamento, ...concluidas].slice(-15).reverse();
+  body.innerHTML = lista.map(s => `
+    <div class="ms-item">
+      <div class="ms-info">
+        <div class="ms-nome">${esc(s.nome)}</div>
+        <div class="ms-meta">${s.total} questões • ${new Date(s.criada).toLocaleDateString('pt-BR')}</div>
+      </div>
+      <span class="ms-status ${s.status === 'concluida' ? 'concluida' : 'andamento'}">${s.status === 'concluida' ? '✅ Concluída' : '🔄 Em andamento'}</span>
+      <button class="ms-btn" onclick="retomarSessao(${s.id})">▶ Retomar</button>
+      <button class="ms-btn danger" onclick="excluirSessao(${s.id})">🗑</button>
+    </div>
+  `).join('');
+}
+function retomarSessao(id) {
+  const sessoes = getSessoes();
+  const sessao = sessoes.find(s => s.id === id);
+  if (!sessao) return;
+  localStorage.setItem('hermesmed_sessao_ids', JSON.stringify(sessao.ids));
+  window.location.href = 'questoes.html?modo=sessao';
+}
+function excluirSessao(id) {
+  const sessoes = getSessoes().filter(s => s.id !== id);
+  setSessoes(sessoes);
+}
+
+// ─── Iniciar sessão ───
+function iniciarSessao() {
+  const total = contarSelecionadas();
+  if (total === 0) return;
+  const ids = coletarIds();
+  // Salva a sessão como "em andamento"
+  const nome = nomeAtual();
+  const sessao = {
+    id: Date.now(),
+    nome: nome,
+    ids: ids,
+    total: total,
+    criada: new Date().toISOString(),
+    status: 'em_andamento'
+  };
+  const sessoes = getSessoes();
+  sessoes.push(sessao);
+  setSessoes(sessoes);
   localStorage.setItem('hermesmed_sessao_ids', JSON.stringify(ids));
+  localStorage.setItem('hermesmed_sessao_ativa', String(sessao.id));
   window.location.href = 'questoes.html?modo=sessao';
 }
 
