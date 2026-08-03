@@ -256,7 +256,7 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s1-068",
@@ -583,7 +583,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Megacólon Adquirido",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Megacólon"
     },
     {
       "id": "s11-034",
@@ -645,7 +646,7 @@
       "_edicao": "11",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Infecção urinária"
     },
     {
       "id": "s11-045",
@@ -733,7 +734,7 @@
       "_edicao": "11",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s11-068",
@@ -778,7 +779,7 @@
       "_edicao": "11",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Infecção urinária"
     },
     {
       "id": "s11-077",
@@ -820,7 +821,7 @@
       "_edicao": "11",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Trauma abdominal"
     },
     {
       "id": "s11-090",
@@ -923,7 +924,7 @@
       "_edicao": "14",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s14-064",
@@ -941,7 +942,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "Megacólon Adquirido",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Megacólon"
     },
     {
       "id": "s14-072",
@@ -1163,7 +1165,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s3-040",
@@ -1226,7 +1228,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s3-058",
@@ -1440,7 +1442,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Trauma cranioencefálico (TCE)"
     },
     {
       "id": "s3-098",
@@ -1528,7 +1530,7 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s5-035",
@@ -1600,7 +1602,7 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Apendicite aguda"
     },
     {
       "id": "s5-049",
@@ -1621,7 +1623,7 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Abdome agudo perfurativo"
     },
     {
       "id": "s5-060",
@@ -1642,7 +1644,7 @@
       "_edicao": "5",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Hiperplasia prostática benigna"
     },
     {
       "id": "s5-065",
@@ -1735,7 +1737,7 @@
       "_edicao": "5",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Coledocolitíase e colangite"
     },
     {
       "id": "s5-074",
@@ -1825,7 +1827,7 @@
       "_edicao": "5",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Câncer de próstata"
     },
     {
       "id": "s5-087",
@@ -2022,7 +2024,7 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Infecção urinária"
     },
     {
       "id": "s9-034",
@@ -2090,7 +2092,7 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Infecção urinária"
     },
     {
       "id": "s9-048",
@@ -2137,7 +2139,7 @@
       "_edicao": "9",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "ATLS e abordagem primária/secundária"
     },
     {
       "id": "s9-063",
@@ -2158,7 +2160,7 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Infecção urinária"
     },
     {
       "id": "s9-065",
@@ -2228,7 +2230,7 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Apendicite aguda"
     },
     {
       "id": "s9-084",
@@ -2252,7 +2254,7 @@
       "_edicao": "9",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "Infecção de sítio cirúrgico"
     },
     {
       "id": "s9-090",

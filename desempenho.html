@@ -345,7 +345,21 @@ function renderTreeArea(area, st, subdetalhes_globais) {
   for (const [subNome, subSt] of subEntries) {
     const subSlug = slugifySub(subNome);
     const subdet = subdetalhes_globais[subSlug] || null;
-    const hasDrillDown = subdet && Array.isArray(subdet.subcategorias) && subdet.subcategorias.length > 0;
+
+    // Nível 3 — drill-down
+    // Lista as sub-subcategorias REAIS desta subcategoria (dos dados respondidos),
+    // preenchida pelos nomes taxonômicos como fallback. Assim nunca perde questões.
+    const subSubNomesReais = Object.keys(subSt.sub_subs || {});
+    const listaSubSubs = [];
+    const vistos = new Set();
+    (subdet && Array.isArray(subdet.subcategorias) ? subdet.subcategorias : []).forEach(n => {
+      if (!vistos.has(n)) { vistos.add(n); listaSubSubs.push(n); }
+    });
+    subSubNomesReais.forEach(n => {
+      if (!vistos.has(n)) { vistos.add(n); listaSubSubs.push(n); }
+    });
+    const hasDrillDown = listaSubSubs.length > 0;
+
     const subPct = subSt.total > 0 ? Math.round(subSt.acertos / subSt.total * 100) : 0;
     const subCls = pctClass(subPct, subSt.total);
     const fillCls = subCls === '' ? 'good' : subCls === 'warn' ? 'warn' : subCls === 'bad' ? 'bad' : 'warn';
@@ -359,11 +373,9 @@ function renderTreeArea(area, st, subdetalhes_globais) {
         <span class="pct ${subCls}">${pctText(subPct, subSt.total)}</span>
       </div>`;
 
-    // Nível 3 — drill-down apenas se há subdetalhes E há sub_subs respondidas
     if (hasDrillDown) {
       html += `<div class="tree-sub-sub" data-sub-children="${escapeHtml(subSlug)}">`;
-      // Lista cada sub-subcategoria, agregando stats de subSt.sub_subs
-      const subSubEntries = subdet.subcategorias
+      const subSubEntries = listaSubSubs
         .map(nome => ({ nome, stats: subSt.sub_subs[nome] || null }))
         .sort((a, b) => {
           const ta = a.stats?.total || 0, tb = b.stats?.total || 0;
@@ -377,10 +389,14 @@ function renderTreeArea(area, st, subdetalhes_globais) {
         anyLeaf = true;
         const sp = item.stats.total > 0 ? Math.round(item.stats.acertos / item.stats.total * 100) : 0;
         const sCls = pctClass(sp, item.stats.total);
+        const goSub = (item.nome === '(sem tópico)') ? '' : item.nome;
+        const onclick = goSub
+          ? `goToLeaf('${escapeHtml(area.id)}','${escapeHtml(subSlug)}','${escapeHtml(goSub)}')`
+          : `window.location.href='questoes.html?area=${escapeHtml(area.id)}&sub=${escapeHtml(subSlug)}'`;
         html += `
-          <div class="tree-leaf" onclick="goToLeaf('${escapeHtml(area.id)}','${escapeHtml(subSlug)}','${escapeHtml(item.nome)}')" style="cursor:pointer;">
+          <div class="tree-leaf" onclick="${onclick}" style="cursor:pointer;">
             <span class="dot"></span>
-            <span class="name">${escapeHtml(item.nome)}</span>
+            <span class="name" ${goSub ? '' : 'style="opacity:0.7;font-style:italic;"'}>${escapeHtml(item.nome)}</span>
             <span class="meta">${item.stats.acertos}/${item.stats.total}</span>
             <span class="pct ${sCls}">${pctText(sp, item.stats.total)}</span>
           </div>`;
@@ -498,17 +514,15 @@ async function carregar() {
 
       // Acumular por subcategoria e sub_subarea
       const sub_nome = q.subarea || '(sem subcategoria)';
-      const subsub_nome = q.sub_subarea || '';
+      const subsub_nome = q.sub_subarea || '(sem tópico)';
       if (!sub_map[sub_nome]) sub_map[sub_nome] = { total:0, acertos:0, sub_subs:{} };
       sub_map[sub_nome].total++;
       if (acertou) sub_map[sub_nome].acertos++;
-      if (subsub_nome) {
-        if (!sub_map[sub_nome].sub_subs[subsub_nome]) {
-          sub_map[sub_nome].sub_subs[subsub_nome] = { total:0, acertos:0 };
-        }
-        sub_map[sub_nome].sub_subs[subsub_nome].total++;
-        if (acertou) sub_map[sub_nome].sub_subs[subsub_nome].acertos++;
+      if (!sub_map[sub_nome].sub_subs[subsub_nome]) {
+        sub_map[sub_nome].sub_subs[subsub_nome] = { total:0, acertos:0 };
       }
+      sub_map[sub_nome].sub_subs[subsub_nome].total++;
+      if (acertou) sub_map[sub_nome].sub_subs[subsub_nome].acertos++;
     }
     areasStats[area.id] = {
       total: questoes.length,

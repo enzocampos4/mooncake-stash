@@ -21,7 +21,7 @@
       "_edicao": "1",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Cardiopatias congênitas acianóticas"
     },
     {
       "id": "s1-006",
@@ -91,7 +91,7 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Prematuridade e baixo peso"
     },
     {
       "id": "s1-025",
@@ -251,7 +251,7 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s1-061",
@@ -358,7 +358,7 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Prematuridade e baixo peso"
     },
     {
       "id": "s1-085",
@@ -402,7 +402,7 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s1-096",
@@ -423,7 +423,7 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s1-099",
@@ -920,7 +920,7 @@
       "_edicao": "14",
       "subarea": "Hematologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)"
     },
     {
       "id": "s14-012",
@@ -1008,7 +1008,7 @@
       "_edicao": "14",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Doenças exantemáticas"
     },
     {
       "id": "s14-024",
@@ -1101,7 +1101,7 @@
       "_edicao": "14",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Cardiopatias congênitas acianóticas"
     },
     {
       "id": "s14-061",
@@ -1272,7 +1272,7 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s3-008",
@@ -1522,7 +1522,7 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s3-072",
@@ -1675,7 +1675,7 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s3-100",
@@ -1698,7 +1698,7 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s5-007",
@@ -1766,7 +1766,7 @@
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Cardiopatias congênitas acianóticas"
     },
     {
       "id": "s5-025",
@@ -1900,7 +1900,7 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s5-056",
@@ -2036,7 +2036,7 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s5-089",
@@ -2059,7 +2059,7 @@
       "_edicao": "5",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Prematuridade e baixo peso"
     },
     {
       "id": "s5-091",
@@ -2255,7 +2255,7 @@
       "_edicao": "9",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Doenças exantemáticas"
     },
     {
       "id": "s9-041",
@@ -2280,7 +2280,7 @@
       "_edicao": "9",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Crescimento e desenvolvimento"
     },
     {
       "id": "s9-047",
@@ -2301,7 +2301,7 @@
       "_edicao": "9",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Doenças exantemáticas"
     },
     {
       "id": "s9-053",
@@ -2355,7 +2355,7 @@
       "_edicao": "9",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Reanimação neonatal"
     },
     {
       "id": "s9-062",
