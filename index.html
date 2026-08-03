@@ -108,14 +108,6 @@
     font-weight: 600;
   }
 
-  /* Sessões salvas */
-  .sessoes-salvas {
-    background: var(--card);
-    border-radius: 14px;
-    margin-bottom: 14px;
-    border: 1px solid rgba(90,200,250,0.15);
-    overflow: hidden;
-  }
   .sessoes-salvas .section-title {
     padding: 12px 14px;
     margin: 0;
@@ -334,8 +326,8 @@
     </a>
     <a href="sessao.html" class="quick-btn">
       <div class="icon">🎯</div>
-      <div class="label">Nova Sessão</div>
-      <div class="sub">Customize seu estudo</div>
+      <div class="label">Sessão de Estudo</div>
+      <div class="sub">Personalizada</div>
     </a>
     <a href="plano.html" class="quick-btn">
       <div class="icon">🤖</div>
@@ -367,12 +359,6 @@
       <div class="label">Desempenho</div>
       <div class="sub">Suas estatísticas</div>
     </a>
-  </div>
-
-  <!-- Sessões salvas -->
-  <div class="sessoes-salvas" id="sessoesSalvas" style="display:none;">
-    <div class="section-title">📂 Sessões salvas</div>
-    <div id="sessoesBody"></div>
   </div>
 
   <!-- Revisões pendentes -->
@@ -571,8 +557,6 @@ async function renderDashboard() {
   // Revisões pendentes
   renderPendingReviews(progresso);
 
-  // Sessões salvas
-  renderSessoesSalvas();
 }
 
 // Revisões pendentes (baseado no sistema de revisão espaçada)
@@ -604,38 +588,6 @@ fetch('data/simulados/index.json')
   })
   .catch(() => { document.getElementById('simuladoSub').textContent = 'Simulados'; });
 
-// ─── Sessões salvas (no dashboard) ───
-function esc(s) { return String(s ?? '').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
-function renderSessoesSalvas() {
-  const container = document.getElementById('sessoesSalvas');
-  const body = document.getElementById('sessoesBody');
-  try {
-    const sessoes = JSON.parse(localStorage.getItem('hermesmed_sessoes') || '[]');
-    const emAndamento = sessoes.filter(s => s.status !== 'concluida');
-    if (emAndamento.length === 0) { container.style.display = 'none'; return; }
-    container.style.display = 'block';
-    body.innerHTML = emAndamento.slice(-8).reverse().map(s => `
-      <div class="ms-item">
-        <div class="ms-info">
-          <div class="ms-nome">${esc(s.nome)}</div>
-          <div class="ms-meta">${s.total} questões • ${new Date(s.criada).toLocaleDateString('pt-BR')}</div>
-        </div>
-        <span class="ms-status">🔄 ${s.status === 'concluida' ? 'Concluída' : 'Em andamento'}</span>
-        <button class="ms-btn" onclick="retomarSessaoIndex(${s.id})">▶ Retomar</button>
-      </div>
-    `).join('');
-  } catch { container.style.display = 'none'; }
-}
-function retomarSessaoIndex(id) {
-  try {
-    const sessoes = JSON.parse(localStorage.getItem('hermesmed_sessoes') || '[]');
-    const sessao = sessoes.find(s => s.id === id);
-    if (sessao) {
-      localStorage.setItem('hermesmed_sessao_ids', JSON.stringify(sessao.ids));
-      window.location.href = 'questoes.html?modo=sessao';
-    }
-  } catch {}
-}
 
 renderDashboard();
 </script>

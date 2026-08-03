@@ -254,6 +254,12 @@ async function carregar() {
     return;
   }
   renderArvore();
+  // Abre "Minhas Sessões" se houver sessões salvas
+  const sessoes = getSessoes();
+  if (sessoes.length > 0) {
+    document.getElementById('minhasSessoes').style.display = 'block';
+    renderMinhasSessoes();
+  }
   // Carregar seleção do plano de IA (se veio de ?carregar=dia)
   const params = new URLSearchParams(window.location.search);
   if (params.get('carregar') === 'dia') {
@@ -479,6 +485,7 @@ function salvarSessaoProjeto(status) {
     id: Date.now(),
     nome: nome,
     ids: ids,
+    selecao: JSON.parse(JSON.stringify(selecao)), // salva a config dos tópicos
     total: total,
     criada: new Date().toISOString(),
     status: status || 'em_andamento'
@@ -521,9 +528,29 @@ function renderMinhasSessoes() {
       </div>
       <span class="ms-status ${s.status === 'concluida' ? 'concluida' : 'andamento'}">${s.status === 'concluida' ? '✅ Concluída' : '🔄 Em andamento'}</span>
       <button class="ms-btn" onclick="retomarSessao(${s.id})">▶ Retomar</button>
+      <button class="ms-btn" onclick="editarSessao(${s.id})">✏️ Editar</button>
       <button class="ms-btn danger" onclick="excluirSessao(${s.id})">🗑</button>
     </div>
   `).join('');
+}
+function editarSessao(id) {
+  const sessoes = getSessoes();
+  const sessao = sessoes.find(s => s.id === id);
+  if (!sessao) return;
+  // Carrega a seleção salva (tópicos e quantidades)
+  if (sessao.selecao && Object.keys(sessao.selecao).length > 0) {
+    selecao = JSON.parse(JSON.stringify(sessao.selecao));
+  }
+  // Preenche o nome
+  document.getElementById('sessaoNome').value = sessao.nome || '';
+  // Atualiza visualmente os inputs
+  Object.entries(selecao).forEach(([chave, v]) => {
+    const input = document.querySelector(`input[onchange="setQtd('${chave.replace(/'/g, "\\'")}', this.value)"]`);
+    if (input) { input.value = v.q; input.classList.toggle('sel', v.q > 0); }
+  });
+  atualizarResumo();
+  // Remove a sessão original (será recriada ao salvar)
+  setSessoes(sessoes.filter(s => s.id !== id));
 }
 function retomarSessao(id) {
   const sessoes = getSessoes();
@@ -548,6 +575,7 @@ function iniciarSessao() {
     id: Date.now(),
     nome: nome,
     ids: ids,
+    selecao: JSON.parse(JSON.stringify(selecao)),
     total: total,
     criada: new Date().toISOString(),
     status: 'em_andamento'
