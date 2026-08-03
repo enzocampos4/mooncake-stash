@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-08-03T13:47:30.397Z",
+  "exportado": "2026-08-03T14:50:40.868Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -10,6 +10,50 @@
         "nota": "",
         "respondida": true,
         "data": "2026-08-03T12:20:13.960Z"
+      }
+    },
+    "medicina-preventiva": {
+      "s14-067": {
+        "acertou": true,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:30:33.326Z"
+      },
+      "s9-005": {
+        "acertou": false,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:33:14.274Z"
+      },
+      "s1-049": {
+        "acertou": true,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:36:28.037Z"
+      },
+      "s14-099": {
+        "acertou": false,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:40:45.843Z"
+      }
+    },
+    "ginecologia": {
+      "site-pf-002": {
+        "acertou": true,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:41:57.885Z"
       }
     }
   },
@@ -23,16 +67,71 @@
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
       "timestamp": "2026-08-03T12:20:13.960Z",
       "modo": "📖 Livre"
+    },
+    {
+      "id": "s14-067",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "ESTRATÉGIA MED 14",
+      "timestamp": "2026-08-03T14:30:33.328Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "s9-005",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "timestamp": "2026-08-03T14:33:14.274Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "s1-049",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Saúde do Trabalhador",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+      "timestamp": "2026-08-03T14:36:28.037Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "s14-099",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "ESTRATÉGIA MED 14",
+      "timestamp": "2026-08-03T14:40:45.843Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "site-pf-002",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Ginecologia",
+      "subarea": "Planejamento familiar",
+      "fonte": "BQMED (Site) — SUS Bahia (BA) 2024",
+      "timestamp": "2026-08-03T14:41:57.885Z",
+      "modo": "🎯 Sessão"
     }
   ],
   "favoritos": {},
   "notas": {},
-  "destaques": {},
+  "destaques": {
+    "s1-004": {
+      "texto": "# [questão inteira]",
+      "_sel": true
+    }
+  },
   "streak": {
     "count": 1,
     "ultimo": "2026-08-03",
     "dias": {
-      "2026-08-03": 1
+      "2026-08-03": 6
     }
   },
   "simulados": {}
