@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>HermesMed — Sessão Personalizada</title>
+<script src="auth.js"></script>
+<script src="tema.js"></script>
+<style>
+  :root {
+    --bg: #0f0f1a; --card: #1a1a2e; --card2: #22223a;
+    --accent: #7c5cfc; --accent2: #5ac8fa; --correct: #34c759; --wrong: #ff3b30;
+    --text: #e8e8f0; --muted: #8888a0; --radius: 16px;
+  }
+  html[data-tema="claro"] {
+    --bg: #f2f2f7; --card: #ffffff; --card2: #e9e9f0;
+    --accent: #5b3fd4; --accent2: #0a84ff; --correct: #248a3d; --wrong: #d70015;
+    --text: #1c1c1e; --muted: #6e6e73;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg); color: var(--text); font-size: 14px; line-height: 1.5;
+    min-height: 100vh; padding: 14px; -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 720px; margin: 0 auto; padding-bottom: 120px; }
+
+  .topbar { display: flex; align-items: center; gap: 10px; padding: 8px 0 14px; }
+  .topbar .back {
+    font-size: 1.3rem; text-decoration: none; color: var(--text);
+    width: 36px; height: 36px; display: flex; align-items: center; justify-content: center;
+    border-radius: 10px; background: var(--card);
+  }
+  .topbar .info { flex: 1; }
+  .topbar .info .title { font-weight: 700; font-size: 1rem; }
+  .topbar .info .sub { color: var(--muted); font-size: 0.78rem; }
+  .topbar .tema-btn { background: none; border: none; font-size: 1.1rem; cursor: pointer; }
+
+  .hero {
+    background: linear-gradient(135deg, rgba(124,92,252,0.12), rgba(90,200,250,0.08));
+    border: 1px solid rgba(124,92,252,0.25); border-radius: var(--radius);
+    padding: 16px; margin-bottom: 14px;
+  }
+  .hero h2 { font-size: 1rem; margin-bottom: 4px; }
+  .hero p { font-size: 0.8rem; color: var(--muted); }
+
+  /* Resumo da sessão */
+  .resumo {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 50;
+    background: var(--card); border-top: 1px solid rgba(124,92,252,0.3);
+    padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+    box-shadow: 0 -6px 24px rgba(0,0,0,0.25);
+  }
+  .resumo .inner { max-width: 720px; margin: 0 auto; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .resumo .total { flex: 1; font-size: 0.85rem; }
+  .resumo .total strong { font-size: 1.3rem; color: var(--accent2); }
+  .resumo .total span { color: var(--muted); font-size: 0.75rem; display: block; }
+  .resumo .btn-iniciar {
+    background: linear-gradient(135deg, var(--accent), #5a3fd9); color: white; border: none;
+    padding: 12px 26px; border-radius: 12px; font-weight: 700; font-size: 0.95rem; cursor: pointer;
+    transition: 0.2s;
+  }
+  .resumo .btn-iniciar:disabled { opacity: 0.4; cursor: not-allowed; }
+  .resumo .btn-limpar {
+    background: var(--card2); color: var(--muted); border: 1px solid rgba(255,255,255,0.08);
+    padding: 10px 16px; border-radius: 10px; cursor: pointer; font-size: 0.8rem;
+  }
+
+  /* Árvore */
+  .area-node {
+    background: var(--card); border-radius: 14px; margin-bottom: 10px;
+    border: 1px solid rgba(255,255,255,0.05); overflow: hidden;
+  }
+  .area-header {
+    display: flex; align-items: center; gap: 10px; padding: 13px 14px; cursor: pointer;
+    user-select: none;
+  }
+  .area-header:hover { background: rgba(255,255,255,0.03); }
+  .area-header .caret { font-size: 0.8rem; color: var(--muted); transition: transform 0.2s; min-width: 12px; }
+  .area-header.expanded .caret { transform: rotate(90deg); }
+  .area-header .icon { font-size: 1.3rem; }
+  .area-header .name { font-weight: 700; flex: 1; }
+  .area-header .badge {
+    font-size: 0.7rem; background: var(--card2); padding: 3px 10px; border-radius: 20px; color: var(--muted);
+  }
+  .area-header .badge.sel { background: rgba(124,92,252,0.2); color: var(--accent2); }
+  .area-children { display: none; padding: 0 8px 10px; }
+  .area-children.open { display: block; }
+
+  .sub-node { margin: 4px 0; border-radius: 10px; }
+  .sub-header {
+    display: flex; align-items: center; gap: 8px; padding: 9px 12px; cursor: pointer; border-radius: 10px;
+  }
+  .sub-header:hover { background: rgba(255,255,255,0.03); }
+  .sub-header .caret { font-size: 0.72rem; color: var(--muted); min-width: 10px; transition: transform 0.2s; }
+  .sub-header.expanded .caret { transform: rotate(90deg); }
+  .sub-header .name { font-size: 0.88rem; font-weight: 600; flex: 1; }
+  .sub-header .badge { font-size: 0.68rem; color: var(--muted); background: var(--card2); padding: 2px 8px; border-radius: 12px; }
+  .sub-children { display: none; padding-left: 14px; }
+  .sub-children.open { display: block; }
+
+  .leaf-row {
+    display: flex; align-items: center; gap: 8px; padding: 7px 10px 7px 16px; border-radius: 8px;
+    border-bottom: 1px dashed rgba(255,255,255,0.04);
+  }
+  .leaf-row .name { flex: 1; font-size: 0.82rem; color: var(--muted); }
+  .leaf-row .total-q { font-size: 0.7rem; color: var(--muted); min-width: 24px; text-align: center; }
+  .leaf-row .qty {
+    width: 58px; padding: 5px 6px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.12);
+    background: var(--card2); color: var(--text); font-size: 0.85rem; text-align: center;
+  }
+  .leaf-row .qty:focus { outline: 2px solid var(--accent); }
+  .leaf-row .qty.sel { border-color: var(--accent); background: rgba(124,92,252,0.15); }
+  .leaf-row .add-all {
+    background: var(--card2); border: none; color: var(--muted); border-radius: 6px;
+    width: 24px; height: 24px; cursor: pointer; font-size: 0.75rem;
+  }
+  .leaf-row .add-all:hover { color: var(--accent2); }
+
+  .empty { text-align: center; color: var(--muted); padding: 40px 20px; font-size: 0.9rem; }
+  .loading { text-align: center; color: var(--muted); padding: 50px 20px; }
+  .loading .spin { font-size: 2rem; display: block; margin-bottom: 10px; animation: pulse 1.2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="topbar">
+    <a href="index.html" class="back">←</a>
+    <div class="info">
+      <div class="title">🎯 Sessão Personalizada</div>
+      <div class="sub" id="pageSub">Monte sua sessão: escolha tópicos e quantidades</div>
+    </div>
+    <button class="tema-btn" onclick="hermesmedTema.toggle()" title="Tema claro/escuro">🌓</button>
+  </div>
+
+  <div class="hero">
+    <h2>🧬 Monte sua sessão de estudos</h2>
+    <p>Selecione áreas, tópicos e subtópicos. Para cada um, defina <strong>quantas questões</strong> quer treinar. Você controla tudo!</p>
+  </div>
+
+  <div id="arvore"><div class="loading"><span class="spin">📚</span>Carregando questões...</div></div>
+</div>
+
+<!-- Barra de resumo fixa -->
+<div class="resumo">
+  <div class="inner">
+    <div class="total">
+      <strong id="totalSelecionadas">0</strong> questões
+      <span id="totalDetalhe">Escolha tópicos e quantidades</span>
+    </div>
+    <button class="btn-limpar" onclick="limparSessao()">🗑️ Limpar</button>
+    <button class="btn-iniciar" id="btnIniciar" onclick="iniciarSessao()" disabled>🚀 Iniciar</button>
+  </div>
+</div>
+
+<script>
+// ─── Estado ───
+const IDX_URL = 'data/sessao-index.json';
+let idx = {};           // qId -> {area, area_nome, sub, subsub}
+let selecao = {};       // chave (area|sub|subsub) -> {quantidade, max}
+const MAX_PADRAO = 15;  // limite padrão visível por tópico
+
+const AREAS_ORDER = [
+  ['clinica-medica','🫁','Clínica Médica'], ['cirurgia','🔪','Cirurgia'],
+  ['pediatria','👶','Pediatria'], ['ginecologia','🩺','Ginecologia'],
+  ['obstetricia','🤰','Obstetrícia'], ['medicina-preventiva','🛡️','Medicina Preventiva'],
+  ['medicina-intensiva','💉','Medicina Intensiva'], ['emergencia','🚑','Emergência e Trauma'],
+  ['ortopedia','🦴','Ortopedia'], ['oftalmologia','👁️','Oftalmologia'],
+  ['otorrino','👂','Otorrinolaringologia'], ['dermatologia','🧴','Dermatologia'],
+  ['psiquiatria','🧠','Psiquiatria'], ['geriatria','👴','Geriatria'],
+  ['infectologia','🦠','Infectologia'], ['nefrologia','🔬','Nefrologia'],
+  ['reumatologia','🦵','Reumatologia']
+];
+
+function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }[c]));
+}
+
+// ─── Carregar índice ───
+async function carregar() {
+  try {
+    const r = await fetch(IDX_URL);
+    idx = await r.json();
+  } catch (e) {
+    document.getElementById('arvore').innerHTML = '<div class="empty">Erro ao carregar questões.</div>';
+    return;
+  }
+  renderArvore();
+}
+
+// ─── Agrupar por área → sub → subsub ───
+function agrupar() {
+  const areas = {};
+  for (const [qId, info] of Object.entries(idx)) {
+    const a = info.area;
+    if (!areas[a]) areas[a] = { nome: info.area_nome || a, subs: {} };
+    const sub = info.sub || '(sem tópico)';
+    if (!areas[a].subs[sub]) areas[a].subs[sub] = {};
+    const subsub = info.subsub || '(sem subtópico)';
+    if (!areas[a].subs[sub][subsub]) areas[a].subs[sub][subsub] = [];
+    areas[a].subs[sub][subsub].push(qId);
+  }
+  return areas;
+}
+
+// ─── Renderizar árvore ───
+function renderArvore() {
+  const areas = agrupar();
+  const container = document.getElementById('arvore');
+  container.innerHTML = '';
+
+  for (const [aSlug, aInfo] of Object.entries(areas)) {
+    const ordem = AREAS_ORDER.find(([s]) => s === aSlug);
+    const icon = ordem ? ordem[1] : '📚';
+    const nome = ordem ? ordem[2] : aInfo.nome;
+    const totalArea = Object.values(aInfo.subs).reduce((s, subs) =>
+      s + Object.values(subs).reduce((s2, qs) => s2 + qs.length, 0), 0);
+
+    const areaNode = document.createElement('div');
+    areaNode.className = 'area-node';
+
+    const header = document.createElement('div');
+    header.className = 'area-header';
+    header.innerHTML = `<span class="caret">▶</span><span class="icon">${icon}</span>
+      <span class="name">${esc(nome)}</span>
+      <span class="badge" id="badge-area-${aSlug}">${totalArea} questões</span>`;
+
+    const children = document.createElement('div');
+    children.className = 'area-children';
+    children.dataset.area = aSlug;
+
+    for (const [subNome, subsubs] of Object.entries(aInfo.subs)) {
+      const subTotal = Object.values(subsubs).reduce((s, qs) => s + qs.length, 0);
+      const subNode = document.createElement('div');
+      subNode.className = 'sub-node';
+
+      const subHeader = document.createElement('div');
+      subHeader.className = 'sub-header';
+      subHeader.innerHTML = `<span class="caret">▶</span><span class="name">${esc(subNome)}</span>
+        <span class="badge">${subTotal}</span>`;
+
+      const subChildren = document.createElement('div');
+      subChildren.className = 'sub-children';
+
+      for (const [subsubNome, qIds] of Object.entries(subsubs)) {
+        const leafKey = `${aSlug}||${subNome}||${subsubNome}`;
+        const qtyAtual = selecao[leafKey]?.q || 0;
+        const leaf = document.createElement('div');
+        leaf.className = 'leaf-row';
+        leaf.innerHTML = `
+          <span class="name">${esc(subsubNome)}</span>
+          <span class="total-q">${qIds.length}</span>
+          <button class="add-all" title="Adicionar todas (${qIds.length})" onclick="addTodas('${leafKey.replace(/'/g, "\\'")}')">＋</button>
+          <input type="number" class="qty ${qtyAtual > 0 ? 'sel' : ''}" min="0" max="${qIds.length}" value="${qtyAtual}"
+            onchange="setQtd('${leafKey.replace(/'/g, "\\'")}', this.value)" oninput="this.classList.toggle('sel', parseInt(this.value||'0',10)>0)">`;
+        subChildren.appendChild(leaf);
+      }
+
+      subHeader.onclick = () => {
+        subHeader.classList.toggle('expanded');
+        subChildren.classList.toggle('open');
+      };
+      subNode.appendChild(subHeader);
+      subNode.appendChild(subChildren);
+      children.appendChild(subNode);
+    }
+
+    header.onclick = () => {
+      header.classList.toggle('expanded');
+      children.classList.toggle('open');
+    };
+    areaNode.appendChild(header);
+    areaNode.appendChild(children);
+    container.appendChild(areaNode);
+  }
+}
+
+// ─── Ações ───
+function setQtd(chave, valor) {
+  const v = parseInt(valor, 10);
+  const chaveClean = chave;
+  if (v > 0) {
+    selecao[chaveClean] = { q: v };
+  } else {
+    delete selecao[chaveClean];
+  }
+  atualizarResumo();
+}
+
+function addTodas(chave) {
+  // Acha a quantidade disponível da leaf
+  const [a, sub, subsub] = chave.split('||');
+  const qIds = (idx) => Object.entries(idx).filter(([, i]) =>
+    i.area === a && (i.sub || '(sem tópico)') === sub && (i.subsub || '(sem subtópico)') === subsub
+  ).map(([id]) => id);
+  const qs = qIds(idx);
+  const input = document.querySelector(`input[onchange="setQtd('${chave.replace(/'/g, "\\'")}', this.value)"]`);
+  const v = qs.length;
+  selecao[chave] = { q: v };
+  if (input) { input.value = v; input.classList.add('sel'); }
+  atualizarResumo();
+}
+
+function limparSessao() {
+  selecao = {};
+  document.querySelectorAll('.qty').forEach(inp => { inp.value = '0'; inp.classList.remove('sel'); });
+  atualizarResumo();
+}
+
+function contarSelecionadas() {
+  let total = 0;
+  for (const [chave, sel] of Object.entries(selecao)) {
+    const [a, sub, subsub] = chave.split('||');
+    const disponiveis = Object.entries(idx).filter(([, i]) =>
+      i.area === a && (i.sub || '(sem tópico)') === sub && (i.subsub || '(sem subtópico)') === subsub
+    ).length;
+    total += Math.min(sel.q, disponiveis);
+  }
+  return total;
+}
+
+function atualizarResumo() {
+  const total = contarSelecionadas();
+  document.getElementById('totalSelecionadas').textContent = total;
+  const nSel = Object.keys(selecao).length;
+  document.getElementById('totalDetalhe').textContent =
+    nSel > 0 ? `${nSel} tópico(s) selecionado(s)` : 'Escolha tópicos e quantidades';
+  document.getElementById('btnIniciar').disabled = total === 0;
+  // Atualiza badges das áreas
+  const porArea = {};
+  for (const [chave, sel] of Object.entries(selecao)) {
+    const a = chave.split('||')[0];
+    porArea[a] = (porArea[a] || 0) + Math.min(sel.q, 1000);
+  }
+  // (simplificado: badge mostra selecionado/total)
+}
+
+// ─── Iniciar sessão ───
+function iniciarSessao() {
+  const ids = [];
+  for (const [chave, sel] of Object.entries(selecao)) {
+    const [a, sub, subsub] = chave.split('||');
+    const candidatos = Object.entries(idx).filter(([, i]) =>
+      i.area === a && (i.sub || '(sem tópico)') === sub && (i.subsub || '(sem subtópico)') === subsub
+    ).map(([id]) => id);
+    // Embaralha e pega a quantidade pedida
+    for (let i = candidatos.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [candidatos[i], candidatos[j]] = [candidatos[j], candidatos[i]];
+    }
+    ids.push(...candidatos.slice(0, Math.min(sel.q, candidatos.length)));
+  }
+  // Embaralha a sessão final
+  for (let i = ids.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [ids[i], ids[j]] = [ids[j], ids[i]];
+  }
+  // Salva e vai para a sessão
+  localStorage.setItem('hermesmed_sessao_ids', JSON.stringify(ids));
+  window.location.href = 'questoes.html?modo=sessao';
+}
+
+carregar();
+</script>
+</body>
+</html>

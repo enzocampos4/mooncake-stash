@@ -981,13 +981,8 @@ async function init() {
   } else if (modo === 'erros') {
     await carregarErros();
   } else if (modo === 'sessao') {
-    // Nova sessão: mostra a grade de áreas; o modal abre ao escolher uma área
-    await mostrarGrade();
-    var aviso = document.createElement('div');
-    aviso.id = 'sessaoHint';
-    aviso.style.cssText = 'text-align:center;color:var(--muted);font-size:0.82rem;padding:8px 0 16px;';
-    aviso.innerHTML = '🎯 Escolha uma área abaixo para personalizar sua sessão de estudos.';
-    document.getElementById('areaGrid').parentElement.insertBefore(aviso, document.getElementById('areaGrid'));
+    // Sessão personalizada: carrega questões de todas as áreas pelos IDs salvos
+    await carregarSessaoPersonalizada();
   } else if (areaParam && assuntoData[areaParam]) {
     document.getElementById('areaGrid').style.display = 'none';
     await abrirArea(areaParam);
@@ -1879,6 +1874,55 @@ async function carregarRevisao() {
   document.getElementById('subFilter').innerHTML = '';
   document.getElementById('qTotal').textContent = questoesFiltradas.length;
   document.getElementById('pageSub').textContent = `${questoesFiltradas.length} questões pendentes`;
+  currentIndex = 0; acertos = 0; erros = 0; answered = false;
+  renderDots();
+  showQuestion(0);
+}
+
+// ─── Sessão Personalizada ───
+async function carregarSessaoPersonalizada() {
+  document.getElementById('pageTitle').textContent = 'Sessão Personalizada';
+  document.getElementById('pageSub').textContent = 'Carregando sua sessão...';
+  document.getElementById('modeBadge').textContent = '🎯 Sessão';
+  const ids = JSON.parse(localStorage.getItem('hermesmed_sessao_ids') || '[]');
+  const areas = Object.keys(assuntoData || {'clinica-medica':1,'cirurgia':1,'pediatria':1,'ginecologia':1,'obstetricia':1,'medicina-preventiva':1});
+
+  const questoesSel = [];
+  for (const a of areas) {
+    try {
+      const r = await fetch(`data/${a}.json`);
+      if (!r.ok) continue;
+      const data = await r.json();
+      const qs = data.questoes || [];
+      qs.forEach(q => {
+        if (ids.includes(String(q.id))) questoesSel.push({ ...q, _area: a });
+      });
+    } catch {}
+  }
+  // Preserva a ordem/quantidade dos IDs escolhidos
+  const ordemMap = {};
+  ids.forEach((id, i) => ordemMap[String(id)] = i);
+  questoesSel.sort((x, y) => (ordemMap[String(x.id)] ?? 999) - (ordemMap[String(y.id)] ?? 999));
+
+  document.getElementById('filterMode').style.display = 'flex';
+  document.getElementById('streakBar').style.display = 'none';
+
+  if (questoesSel.length === 0) {
+    document.getElementById('areaGrid').style.display = 'none';
+    document.getElementById('questionView').style.display = 'block';
+    document.getElementById('questionArea').innerHTML =
+      '<div style="text-align:center;padding:50px 20px;color:var(--muted);">Nenhuma questão selecionada. <a href="sessao.html" style="color:var(--accent2);">Monte sua sessão →</a></div>';
+    document.getElementById('qTotal').textContent = '0';
+    document.getElementById('pageSub').textContent = 'Sessão vazia';
+    return;
+  }
+
+  questoesFiltradas = questoesSel;
+  document.getElementById('areaGrid').style.display = 'none';
+  document.getElementById('questionView').style.display = 'block';
+  document.getElementById('subFilter').innerHTML = '';
+  document.getElementById('qTotal').textContent = questoesSel.length;
+  document.getElementById('pageSub').textContent = `${questoesSel.length} questões personalizadas`;
   currentIndex = 0; acertos = 0; erros = 0; answered = false;
   renderDots();
   showQuestion(0);
