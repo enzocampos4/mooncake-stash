@@ -6,13 +6,6 @@
 <title>HermesMed — Meu Plano de Estudos</title>
 <script src="auth.js"></script>
 <script src="tema.js"></script>
-<script type="importmap">
-{
-  "imports": {
-    "@huggingface/transformers": "https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.4.0"
-  }
-}
-</script>
 <style>
   :root {
     --bg: #0f0f1a; --card: #1a1a2e; --card2: #22223a;
@@ -209,19 +202,12 @@
   </div>
 </div>
 
-<script type="module">
+<script>
 // ─── IA local via Transformers.js ───
-import { pipeline, env } from '@huggingface/transformers';
 
-// Config: modelos disponíveis (quanto maior, melhor mas mais pesado)
-const MODELOS = {
-  'SmolLM2-360M': 'onnx-community/SmolLM2-360M-Instruct',
-  // 'TinyLlama-1.1B': 'onnx-community/TinyLlama-1.1B-Chat-v1.0', // ~700MB, muito pesado
-};
-const MODELO_USAR = 'SmolLM2-360M'; // ~140MB, bom custo-benefício
-
-let pipe = null;
-let modeloCarregado = false;
+// Modelo usado pelo backend
+const MODELO_USAR = 'backend';
+let modeloCarregado = true;
 
 // ─── Utilitários ───
 function esc(s) { return String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
@@ -267,131 +253,27 @@ function mostrarStatsPrevia() {
   }
 }
 
-// ─── Carregar modelo ───
-async function carregarModelo() {
-  const statusEl = document.getElementById('modelStatus');
-  const progress = document.getElementById('modelProgress');
-  const textEl = document.getElementById('modelStatusText');
-  const subEl = document.getElementById('modelSub');
-  const iconEl = document.getElementById('modelIcon');
 
-  statusEl.classList.remove('hidden');
-  textEl.textContent = 'Preparando modelo de IA local...';
-  subEl.textContent = 'Usando ' + MODELO_USAR + ' (~140MB, rodando no seu navegador)';
-
-  try {
-    textEl.textContent = 'Carregando modelo...';
-    progress.style.width = '10%';
-
-    env.allowLocalModels = false; // sempre baixar do HuggingFace Hub (cache automático)
-
-    const label = MODELOS[MODELO_USAR];
-
-    pipe = await pipeline('text-generation', label, {
-      progress_callback: (p) => {
-        if (p.status === 'download') {
-          const pct = Math.round((p.loaded / p.total) * 80);
-          progress.style.width = Math.min(80, pct + 10) + '%';
-          textEl.textContent = `Baixando modelo... ${Math.round(p.loaded / 1048576)}MB / ${Math.round(p.total / 1048576)}MB`;
-        } else if (p.status === 'load') {
-          progress.style.width = '90%';
-          textEl.textContent = 'Carregando modelo na memória...';
-        }
-      }
-    });
-
-    progress.style.width = '100%';
-    textEl.textContent = '✅ Modelo carregado!';
-    modeloCarregado = true;
-    setTimeout(() => { statusEl.classList.add('hidden'); }, 800);
-
-  } catch (e) {
-    textEl.textContent = '❌ Erro ao carregar modelo: ' + e.message;
-    subEl.textContent = 'Tente recarregar a página ou use um navegador mais recente (Chrome/Edge).';
-    iconEl.textContent = '😢';
-    progress.style.width = '0%';
-    subEl.textContent = 'Detalhes: ' + e.message;
-  }
-}
-
-// ─── Gerar plano com IA ───
+// ─── Gerar plano via backend
 async function gerarPlano() {
   const dias = parseInt(document.getElementById('diasInput').value) || 14;
   const qtd = parseInt(document.getElementById('qtdInput').value) || 20;
-
-  // Mostrar stats do usuário antes
   mostrarStatsPrevia();
-
-  if (!modeloCarregado) {
-    await carregarModelo();
-  }
-  if (!pipe) {
-    alert('Modelo não carregado. Tente novamente.');
-    return;
-  }
-
   const btn = document.getElementById('btnGerar');
-  btn.disabled = true;
-  btn.textContent = '🧠 IA gerando seu plano...';
-
-  const stats = calcularStats();
-
-  // Montar prompt para a IA
-  const prompt = `Você é um assistente especializado em criar planos de estudo para residência médica (ENARE/ENAMED). 
-Com base nos dados de desempenho do aluno abaixo, crie um plano de estudos PERSONALIZADO de ${dias} dias com aproximadamente ${qtd} questões por dia.
-
-DADOS DO ALUNO:
-- Total de questões respondidas: ${stats.total}
-- Taxa de acerto geral: ${stats.taxa}%
-- Desempenho por área (área: acertos/total):
-${Object.entries(stats.porArea).map(([a, d]) => `  * ${a}: ${d.acertos}/${d.total} (${Math.round(d.acertos/d.total*100)}%)`).join('\n')}
-
-REGRAS DO PLANO:
-1. Áreas com MENOR taxa de acerto devem ter MAIS questões (foco nas fraquezas)
-2. Distribua EQUILIBRADAMENTE entre sub-tópicos de cada área
-3. Inclua revisão espaçada a cada 3 dias (questões de áreas já estudadas)
-4. O plano deve ter exatos ${dias} dias
-
-Responda APENAS com um JSON válido no formato exato:
-{
-  "titulo": "Título do plano (máx 60 chars)",
-  "descricao": "Breve descrição do plano",
-  "dias": [
-    {
-      "dia": 1,
-      "topicos": [
-        {"area": "nome da área", "foco": "subtópico ou tema", "qtd": 5}
-      ]
-    }
-  ]
-}
-Gere o JSON completo sem texto adicional.`;
-
+  btn.disabled = true; btn.textContent = 'Gerando...';
   try {
-    const result = await pipe(prompt, {
-      max_new_tokens: 3000,
-      temperature: 0.7,
-      do_sample: true,
+    const token = localStorage.getItem('hermesmed_auth') || '';
+    const resp = await fetch(window.location.origin + '/api/ia/plano', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + token },
+      body: JSON.stringify({ duracao_dias: dias, qtd_por_dia: qtd })
     });
-
-    const texto = result[0]?.generated_text || '';
-
-    // Extrair JSON da resposta
-    const jsonMatch = texto.match(/\{[\s\S]*\}/);
-    if (!jsonMatch) throw new Error('IA não retornou JSON válido');
-
-    const plano = JSON.parse(jsonMatch[0]);
-    renderizarPlano(plano, dias, qtd);
-
-    // Salvar no localStorage
-    localStorage.setItem('hermesmed_plano_ia', JSON.stringify(plano));
-
-  } catch (e) {
-    alert('Erro ao gerar plano: ' + e.message + '\n\nTente novamente.');
-  } finally {
-    btn.disabled = false;
-    btn.textContent = '🚀 Gerar plano com IA';
-  }
+    if (!resp.ok) throw new Error(await resp.text());
+    const data = await resp.json();
+    renderizarPlano({ titulo: data.plano?.titulo || 'Plano', descricao: '', dias: data.dias || [] }, dias, qtd);
+    localStorage.setItem('hermesmed_plano_api', JSON.stringify(data.dias || []));
+  } catch (e) { alert('Erro: ' + e.message); }
+  finally { btn.disabled = false; btn.textContent = 'Gerar plano'; }
 }
 
 // ─── Renderizar plano ───
