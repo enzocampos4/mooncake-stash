@@ -77,6 +77,13 @@
   }
   .stats-bar .stat { display: flex; align-items: center; gap: 4px; color: var(--muted); }
   .stats-bar .stat strong { color: var(--text); }
+  .stats-bar .font-control { margin-left: auto; display: flex; gap: 6px; }
+  .stats-bar .font-btn {
+    background: var(--card2); color: var(--text); border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 8px; padding: 4px 10px; font-size: 0.8rem; font-weight: 700; cursor: pointer;
+    transition: 0.2s;
+  }
+  .stats-bar .font-btn:hover { background: var(--accent); color: white; border-color: var(--accent); }
 
   /* Question card */
   .question-card {
@@ -114,6 +121,34 @@
     margin: 12px 0;
     border-left: 3px solid var(--accent2);
     font-style: italic;
+  }
+
+  /* Toolbar de destaque (grifar texto) */
+  .destaque-toolbar {
+    display: flex; align-items: center; gap: 10px;
+    margin: 10px 0 4px; flex-wrap: wrap;
+  }
+  .dest-btn {
+    background: var(--card2); color: var(--text); border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 10px; padding: 8px 14px; font-size: 0.82rem; font-weight: 600; cursor: pointer;
+    transition: 0.2s;
+  }
+  .dest-btn:hover { border-color: var(--accent2); }
+  .dest-btn.ativo { background: rgba(255,214,10,0.15); border-color: #ffd60a; color: #ffd60a; }
+  .dest-hint { font-size: 0.72rem; color: var(--muted); }
+  .destaques-box {
+    background: rgba(255,214,10,0.06); border: 1px solid rgba(255,214,10,0.2);
+    border-radius: 10px; padding: 10px 12px; margin: 6px 0 10px;
+  }
+  .dest-item {
+    display: flex; justify-content: space-between; align-items: flex-start; gap: 8px;
+    padding: 5px 0; font-size: 0.82rem; color: var(--text);
+    border-bottom: 1px dashed rgba(255,255,255,0.06);
+  }
+  .dest-item:last-child { border-bottom: none; }
+  .dest-rm {
+    background: none; border: none; color: var(--wrong); cursor: pointer;
+    font-size: 0.8rem; flex-shrink: 0;
   }
 
   /* Alternativas */
@@ -366,6 +401,39 @@
   .sub-pill.active { background: var(--accent); color: white; border-color: var(--accent); }
   .sub-pill .count { opacity: 0.7; margin-left: 3px; }
 
+  /* Sessão customizada (quantidade) */
+  .sessao-config {
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    padding: 10px 12px; background: var(--card); border-radius: 12px;
+    margin-bottom: 12px; border: 1px dashed rgba(124,92,252,0.35);
+  }
+  .sessao-config .sessao-label { font-size: 0.8rem; color: var(--muted); }
+  .sessao-config .sessao-input {
+    width: 70px; padding: 8px 10px; border-radius: 8px;
+    border: 1px solid rgba(255,255,255,0.12); background: var(--card2);
+    color: var(--text); font-size: 0.9rem; text-align: center;
+  }
+  .sessao-config .sessao-btn { padding: 8px 16px; font-size: 0.82rem; flex: 0; min-width: 0; }
+  .sessao-config .sessao-info { font-size: 0.75rem; color: var(--accent2); }
+
+  /* Filtro de banca / instituições */
+  .add-inst-btn {
+    background: var(--card2); color: var(--accent2); border: 1px dashed rgba(90,200,250,0.35);
+    border-radius: 20px; padding: 5px 12px; font-size: 0.75rem; cursor: pointer; transition: 0.2s;
+  }
+  .add-inst-btn:hover { border-color: var(--accent2); }
+  .sub-pill-banca.active { background: var(--accent2); color: #0f0f1a; border-color: var(--accent2); }
+  .inst-item {
+    display: flex; justify-content: space-between; align-items: center; gap: 8px;
+    padding: 8px 4px; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.82rem;
+  }
+  .inst-item:last-child { border-bottom: none; }
+  .inst-star {
+    background: none; border: none; cursor: pointer; font-size: 1.1rem;
+    color: var(--muted); transition: 0.15s;
+  }
+  .inst-star.ativa { color: #ffd60a; }
+
   /* Sub-subcategory filter pills (drill-down) */
   .sub-filter-2 {
     margin-left: 8px; margin-top: -8px; margin-bottom: 14px;
@@ -569,17 +637,34 @@
       <span class="sub-pill origem-pill active" data-origem="" onclick="filtrarOrigem('')">🌐 Todas <span class="count" id="origemCntTodas"></span></span>
       <span class="sub-pill origem-pill" data-origem="simulado" onclick="filtrarOrigem('simulado')">📄 Simulados <span class="count" id="origemCntSimulado"></span></span>
       <span class="sub-pill origem-pill" data-origem="site" onclick="filtrarOrigem('site')">🖥️ Site (BQMED) <span class="count" id="origemCntSite"></span></span>
+      <span class="sub-pill origem-pill" data-origem="interesse" onclick="filtrarOrigem('interesse')">⭐ Instituições de interesse <span class="count" id="origemCntInteresse"></span></span>
+    </div>
+
+    <!-- Banca/Instituição filter + gestão de instituições de interesse -->
+    <div class="sub-filter origem-filter" id="bancaFilter" style="display:none;">
+      <span class="sub-pill sub-pill-banca active" data-banca="" onclick="filtrarBanca('')">🏛️ Todas <span class="count" id="bancaCntTodas"></span></span>
+      <span class="sub-pill sub-pill-banca" data-banca="interesse" onclick="filtrarBanca('interesse')">⭐ Minhas instituições <span class="count"></span></span>
+      <button class="add-inst-btn" onclick="abrirGestaoInstituicoes()">＋ Gerir instituições</button>
     </div>
 
     <!-- Filter mode + Shuffle + Lista -->
     <div class="filter-mode" id="filterMode" style="display:none;">
-      <span class="mode-pill active" data-mode="todas" onclick="filtrarEstado('todas')">Todas</span>
-      <span class="mode-pill" data-mode="nao" onclick="filtrarEstado('nao')">⬜ Não respondidas</span>
-      <span class="mode-pill" data-mode="errou" onclick="filtrarEstado('errou')">❌ Erradas</span>
-      <span class="mode-pill" data-mode="acertou" onclick="filtrarEstado('acertou')">✅ Acertadas</span>
+    <span class="mode-pill active" data-mode="todas" onclick="filtrarEstado('todas')">Todas</span>
+    <span class="mode-pill" data-mode="nao" onclick="filtrarEstado('nao')">⬜ Não respondidas</span>
+    <span class="mode-pill" data-mode="errou" onclick="filtrarEstado('errou')">❌ Erradas</span>
+    <span class="mode-pill" data-mode="acertou" onclick="filtrarEstado('acertou')">✅ Acertadas</span>
       <span class="mode-pill" data-mode="favoritas" onclick="filtrarEstado('favoritas')">⭐ Favoritas</span>
       <span class="shuffle-btn" id="shuffleBtn" onclick="toggleShuffle()">🔀</span>
       <span class="shuffle-btn" onclick="abrirLista()">📋</span>
+      <span class="shuffle-btn" onclick="abrirConfigSessao()" title="Configurar sessão (quantidade)">⚙️</span>
+    </div>
+
+    <!-- Sessão customizada: quantidade de questões -->
+    <div class="sessao-config" id="sessaoConfig" style="display:none;">
+      <span class="sessao-label">🧮 Questões na sessão:</span>
+      <input type="number" id="sessaoQtd" min="1" value="10" class="sessao-input">
+      <button class="btn btn-primary sessao-btn" onclick="aplicarQuantidade()">Aplicar</button>
+      <span class="sessao-info" id="sessaoInfo"></span>
     </div>
 
     <!-- Stats -->
@@ -588,6 +673,10 @@
       <span class="stat">✅ <strong id="qAcertos">0</strong></span>
       <span class="stat">❌ <strong id="qErros">0</strong></span>
       <span class="stat" id="timerStat">⏱️ <strong id="qTimer">00:00</strong></span>
+      <span class="font-control" title="Ajustar tamanho do texto">
+        <button class="font-btn" onclick="ajustarFonte(-1)" aria-label="Diminuir fonte">A−</button>
+        <button class="font-btn" onclick="ajustarFonte(1)" aria-label="Aumentar fonte">A+</button>
+      </span>
     </div>
 
     <!-- Progress dots -->
@@ -608,6 +697,13 @@
         <span class="tag tag-fav" id="qFavStar" onclick="toggleFavFromMeta()" style="cursor:pointer;user-select:none;">☆</span>
       </div>
       <div class="enunciado" id="qEnunciado"></div>
+      <div class="destaque-toolbar">
+        <button class="dest-btn" id="qDestaqueBtn" onclick="toggleDestaqueTexto()">🔖 Destacar</button>
+        <span class="dest-hint">Selecione o texto para grifar</span>
+      </div>
+      <div class="destaques-box" id="destaquesBox" style="display:none;">
+        <div id="destaquesLista"></div>
+      </div>
       <div class="enunciado-imgs" id="qImagens"></div>
       <div class="alternativas" id="qAlternativas"></div>
       <div class="explicacao" id="qExplicacao">
@@ -670,6 +766,18 @@
       <div id="listaBody"></div>
     </div>
   </div>
+
+  <!-- Instituições Modal -->
+  <div class="modal-overlay" id="instModal" onclick="if(event.target===this)fecharInst()">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>🏛️ Instituições / Bancas</h3>
+        <button class="modal-close" onclick="fecharInst()">✕</button>
+      </div>
+      <p style="font-size:0.78rem;color:var(--muted);margin-bottom:10px;">Marque ⭐ as instituições de interesse para filtrar e ter tendências.</p>
+      <div id="instBody" style="max-height:50vh;overflow-y:auto;"></div>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -680,6 +788,7 @@ const SYNC_KEY = 'hermesmed_sync';
 const REVISAO_KEY = 'hermesmed_revisao';
 const FAVORITOS_KEY = 'hermesmed_favoritos';
 const NOTAS_KEY = 'hermesmed_notas';
+const DESTAQUE_KEY = 'hermesmed_destaques';
 const STREAK_KEY = 'hermesmed_streak';
 const ASSUNTOS_URL = 'data/assuntos.json';
 
@@ -827,6 +936,8 @@ async function init() {
 
   if (modo === 'revisao') {
     await carregarRevisao();
+  } else if (modo === 'erros') {
+    await carregarErros();
   } else if (areaParam && assuntoData[areaParam]) {
     document.getElementById('areaGrid').style.display = 'none';
     await abrirArea(areaParam);
@@ -921,6 +1032,7 @@ async function abrirArea(slug) {
   subareaFiltro = null;
   subSubareaFiltro = null;
   origemFiltro = null;
+  bancaFiltro = null;
   document.getElementById('areaGrid').style.display = 'none';
 
   try {
@@ -938,6 +1050,16 @@ async function abrirArea(slug) {
 
   questoesFiltradas = [...questoes];
   montarFiltroOrigem();
+  montarFiltroBanca();
+  // Reset pills de banca
+  document.querySelectorAll('#bancaFilter .sub-pill-banca').forEach(p => {
+    const b = p.dataset.banca;
+    if (b !== '' && b !== 'interesse') p.remove();
+  });
+  const pillTodas = document.getElementById('bancaFilter').querySelector('[data-banca=""]');
+  if (pillTodas) pillTodas.classList.add('active');
+  const pillInteresse = document.getElementById('bancaFilter').querySelector('[data-banca="interesse"]');
+  if (pillInteresse) pillInteresse.classList.remove('active');
   document.getElementById('pageTitle').textContent = AREA_NAMES[slug] || slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
   document.getElementById('pageSub').textContent = `${questoes.length} questões`;
   document.getElementById('modeBadge').textContent = '📖 Livre';
@@ -1012,6 +1134,7 @@ function filtrarSubarea(subSlug) {
   subareaFiltro = subSlug || null;
   subSubareaFiltro = null; // reset sub-subcategory filter
   origemFiltro = null; // reset origin filter
+  bancaFiltro = null; // reset banca filter
   document.querySelectorAll('#subFilter .sub-pill').forEach(p => {
     p.classList.toggle('active', p.dataset.sub === (subSlug || ''));
   });
@@ -1054,6 +1177,7 @@ function filtrarSubarea(subSlug) {
 
 function filtrarSubSubarea(subSubNome) {
   subSubareaFiltro = subSubNome || null;
+  bancaFiltro = null;
   document.querySelectorAll('#subFilter2 .sub-pill').forEach(p => {
     p.classList.toggle('active', p.dataset.subsub === (subSubNome || ''));
   });
@@ -1084,6 +1208,101 @@ function filtrarOrigem(origem) {
     p.classList.toggle('active', p.dataset.origem === (origem || ''));
   });
   aplicarFiltros();
+}
+
+// ─── Instituições de interesse + banca ───
+const INST_KEY = 'hermesmed_instituicoes';
+let bancaFiltro = null; // null | 'interesse' | nome da banca
+
+function getInstituicoesInteresse() {
+  try { return JSON.parse(localStorage.getItem(INST_KEY) || '[]'); }
+  catch { return []; }
+}
+function setInstituicoesInteresse(arr) {
+  localStorage.setItem(INST_KEY, JSON.stringify(arr));
+}
+function toggleInstituicao(nome) {
+  let arr = getInstituicoesInteresse();
+  if (arr.includes(nome)) arr = arr.filter(x => x !== nome);
+  else arr.push(nome);
+  setInstituicoesInteresse(arr);
+  renderInstBody();
+  montarFiltroBanca();
+}
+function montarFiltroBanca() {
+  const el = document.getElementById('bancaFilter');
+  const counts = {};
+  (questoes || []).forEach(q => {
+    const b = q.banca || q.instituicao || '';
+    if (!b) return;
+    counts[b] = (counts[b] || 0) + 1;
+  });
+  const bancas = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const interesse = getInstituicoesInteresse();
+  const elInteresse = document.getElementById('origemCntInteresse');
+  if (elInteresse) {
+    const n = questoes.filter(q => {
+      const b = q.banca || q.instituicao || '';
+      return b && interesse.includes(b);
+    }).length;
+    elInteresse.textContent = `(${n})`;
+  }
+  document.getElementById('bancaCntTodas').textContent = `(${questoes.length})`;
+  // Pills por banca (mostra as que têm questões + as de interesse)
+  const nomes = [...new Set([...bancas.map(([b]) => b), ...interesse])];
+  const pillsHtml = nomes.map(b => {
+    const cnt = counts[b] || 0;
+    const ativa = bancaFiltro === b;
+    const star = interesse.includes(b) ? '⭐' : '';
+    return `<span class="sub-pill sub-pill-banca ${ativa ? 'active' : ''}" data-banca="${b}" onclick="filtrarBanca('${b.replace(/'/g, "\\'")}')">${star} ${b} <span class="count">(${cnt})</span></span>`;
+  }).join('');
+  const restante = document.querySelector('#bancaFilter');
+  // Remove pills antigas (mantém "Todas", "Minhas instituições", botão gerir)
+  restante.querySelectorAll('.sub-pill-banca').forEach(p => {
+    const b = p.dataset.banca;
+    if (b !== '' && b !== 'interesse') p.remove();
+  });
+  // Insere as novas pills antes do botão gerir
+  const btn = restante.querySelector('.add-inst-btn');
+  const wrapper = document.createElement('span');
+  wrapper.innerHTML = pillsHtml;
+  wrapper.querySelectorAll('.sub-pill-banca').forEach(p => btn.before(p));
+  el.style.display = nomes.length > 0 ? 'flex' : 'none';
+}
+function filtrarBanca(b) {
+  bancaFiltro = b || null;
+  document.querySelectorAll('#bancaFilter .sub-pill-banca').forEach(p => {
+    p.classList.toggle('active', p.dataset.banca === (b || ''));
+  });
+  aplicarFiltros();
+}
+function abrirGestaoInstituicoes() {
+  document.getElementById('instModal').classList.add('visible');
+  renderInstBody();
+}
+function fecharInst() {
+  document.getElementById('instModal').classList.remove('visible');
+}
+function renderInstBody() {
+  const counts = {};
+  (questoes || []).forEach(q => {
+    const b = q.banca || q.instituicao || '';
+    if (!b) return;
+    counts[b] = (counts[b] || 0) + 1;
+  });
+  const interesse = getInstituicoesInteresse();
+  const todas = [...new Set([...Object.keys(counts), ...interesse])].sort();
+  const body = document.getElementById('instBody');
+  if (todas.length === 0) {
+    body.innerHTML = '<div style="color:var(--muted);font-size:0.8rem;padding:8px;">Nenhuma instituição encontrada nas questões atuais.</div>';
+    return;
+  }
+  body.innerHTML = todas.map(b => `
+    <div class="inst-item">
+      <span>${b} <span style="color:var(--muted);font-size:0.72rem;">(${counts[b] || 0})</span></span>
+      <button class="inst-star ${interesse.includes(b) ? 'ativa' : ''}" onclick="toggleInstituicao('${b.replace(/'/g, "\\'")}')">${interesse.includes(b) ? '⭐' : '☆'}</button>
+    </div>
+  `).join('');
 }
 
 // ─── Detecta se o enunciado referencia uma imagem que deve ser exibida ───
@@ -1259,6 +1478,13 @@ function showQuestion(index) {
 
   // Atualizar anotações
   atualizarNotas(q);
+  carregarFonte();
+  // Destaques
+  mostrarDestaquesUI(q);
+  const dBox = document.getElementById('destaquesBox');
+  const d = getDestaques();
+  const obj = d[String(q.id)] || {};
+  dBox.style.display = ((obj._lista || []).length > 0) ? 'block' : 'none';
 }
 
 // ─── Selection ───
@@ -1458,6 +1684,28 @@ function renderDots() {
   });
 }
 
+// ─── Ajuste de fonte ───
+const FONTE_KEY = 'hermesmed_fonte';
+function ajustarFonte(delta) {
+  const passo = 1;
+  let atual = parseInt(localStorage.getItem(FONTE_KEY) || '100', 10);
+  atual = Math.min(140, Math.max(85, atual + delta * passo));
+  localStorage.setItem(FONTE_KEY, String(atual));
+  aplicarFonte(atual);
+}
+function aplicarFonte(pct) {
+  document.getElementById('questionCard').style.setProperty('--font-scale', (pct / 100).toFixed(2));
+  const el = document.getElementById('qEnunciado');
+  if (el) el.style.fontSize = (1 * pct / 100) + 'rem';
+  document.querySelectorAll('.alt-btn').forEach(b => { b.style.fontSize = (0.95 * pct / 100) + 'rem'; });
+  const exp = document.getElementById('qExplicacaoTexto');
+  if (exp) exp.style.fontSize = (0.9 * pct / 100) + 'rem';
+}
+function carregarFonte() {
+  const salvo = parseInt(localStorage.getItem(FONTE_KEY) || '100', 10);
+  aplicarFonte(salvo);
+}
+
 // ─── Timer ───
 function iniciarTimer() {
   timerSeconds = 0;
@@ -1579,6 +1827,83 @@ async function carregarRevisao() {
   showQuestion(0);
 }
 
+// ─── Caderno de Erros ───
+async function carregarErros() {
+  document.getElementById('pageTitle').textContent = 'Caderno de Erros';
+  document.getElementById('pageSub').textContent = 'Suas questões erradas';
+  document.getElementById('modeBadge').textContent = '❌ Erros';
+  const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  const areas = Object.keys(assuntoData || {'clinica-medica':1,'cirurgia':1,'pediatria':1,'ginecologia':1,'obstetricia':1,'medicina-preventiva':1});
+
+  const erradas = [];
+  for (const a of areas) {
+    try {
+      const r = await fetch(`data/${a}.json`);
+      if (!r.ok) continue;
+      const data = await r.json();
+      const qs = data.questoes || [];
+      const prog = progresso[a] || {};
+      qs.forEach(q => {
+        const v = prog[String(q.id)];
+        const acertou = typeof v === 'boolean' ? v : v?.acertou;
+        if (acertou === false) erradas.push({ ...q, _area: a });
+      });
+    } catch {}
+  }
+
+  questoesFiltradas = erradas;
+  document.getElementById('filterMode').style.display = 'flex';
+  document.getElementById('streakBar').style.display = 'none';
+
+  if (erradas.length === 0) {
+    document.getElementById('areaGrid').style.display = 'none';
+    document.getElementById('questionView').style.display = 'block';
+    document.getElementById('questionArea').innerHTML =
+      '<div style="text-align:center;padding:50px 20px;color:var(--muted);">🎉 Nenhuma questão errada ainda! Continue assim.</div>';
+    document.getElementById('qTotal').textContent = '0';
+    document.getElementById('pageSub').textContent = 'Você errou 0 questões';
+    return;
+  }
+
+  document.getElementById('areaGrid').style.display = 'none';
+  document.getElementById('questionView').style.display = 'block';
+  document.getElementById('subFilter').innerHTML = '';
+  document.getElementById('qTotal').textContent = erradas.length;
+  document.getElementById('pageSub').textContent = `${erradas.length} questões erradas • praticando para fixar`;
+  currentIndex = 0; acertos = 0; erros = 0; answered = false;
+  renderDots();
+  showQuestion(0);
+}
+
+// ─── Sessão customizada (quantidade) ───
+let quantidadeSessao = 0; // 0 = todas
+
+function abrirConfigSessao() {
+  const el = document.getElementById('sessaoConfig');
+  const visivel = el.style.display !== 'none';
+  el.style.display = visivel ? 'none' : 'flex';
+  if (!visivel) {
+    document.getElementById('sessaoQtd').value = quantidadeSessao > 0 ? quantidadeSessao : 10;
+    atualizarInfoSessao();
+  }
+}
+
+function atualizarInfoSessao() {
+  const info = document.getElementById('sessaoInfo');
+  if (quantidadeSessao > 0) {
+    info.textContent = `Sessão limitada a ${quantidadeSessao} questões (das ${questoesFiltradas.length} filtradas)`;
+  } else {
+    info.textContent = 'Sessão com todas as questões filtradas';
+  }
+}
+
+function aplicarQuantidade() {
+  const v = parseInt(document.getElementById('sessaoQtd').value, 10);
+  quantidadeSessao = (v > 0) ? v : 0;
+  aplicarFiltros();
+  document.getElementById('sessaoConfig').style.display = 'none';
+}
+
 // ─── Filter mode ───
 function filtrarEstado(mode) {
   filtroEstado = mode;
@@ -1622,7 +1947,28 @@ function aplicarFiltros() {
 
   // Origin filter (simulado vs site/BQMED)
   if (origemFiltro) {
-    lista = lista.filter(q => origemDaQuestao(q) === origemFiltro);
+    if (origemFiltro === 'interesse') {
+      const interesse = getInstituicoesInteresse();
+      lista = lista.filter(q => {
+        const b = q.banca || q.instituicao || '';
+        return b && interesse.includes(b);
+      });
+    } else {
+      lista = lista.filter(q => origemDaQuestao(q) === origemFiltro);
+    }
+  }
+
+  // Banca / instituição
+  if (bancaFiltro) {
+    if (bancaFiltro === 'interesse') {
+      const interesse = getInstituicoesInteresse();
+      lista = lista.filter(q => {
+        const b = q.banca || q.instituicao || '';
+        return b && interesse.includes(b);
+      });
+    } else {
+      lista = lista.filter(q => (q.banca || q.instituicao || '') === bancaFiltro);
+    }
   }
 
   // Shuffle
@@ -1631,6 +1977,11 @@ function aplicarFiltros() {
       const j = Math.floor(Math.random() * (i + 1));
       [lista[i], lista[j]] = [lista[j], lista[i]];
     }
+  }
+
+  // Limite de quantidade da sessão
+  if (quantidadeSessao > 0 && lista.length > quantidadeSessao) {
+    lista = lista.slice(0, quantidadeSessao);
   }
 
   questoesFiltradas = lista;
@@ -1669,6 +2020,83 @@ function atualizarNotas(q) {
     texto.value = '';
     area.classList.remove('visible');
   }
+}
+
+// ─── Destaques (grifar texto importante) ───
+function getDestaques() {
+  try { return JSON.parse(localStorage.getItem(DESTAQUE_KEY) || '{}'); }
+  catch { return {}; }
+}
+function setDestaques(d) {
+  localStorage.setItem(DESTAQUE_KEY, JSON.stringify(d));
+}
+// Adiciona/remove um trecho destacado (marcado manualmente) na questão atual
+function toggleDestaqueTexto() {
+  const q = questoesFiltradas[currentIndex];
+  if (!q) return;
+  const sel = window.getSelection ? window.getSelection().toString().trim() : '';
+  if (!sel) {
+    // Sem seleção: marca toda a questão como destacada (toggle)
+    const d = getDestaques();
+    const chave = String(q.id);
+    const existente = d[chave];
+    if (existente && existente._sel) {
+      delete d[chave];
+      setDestaques(d);
+    } else {
+      d[chave] = { texto: '# [questão inteira]', _sel: true };
+      setDestaques(d);
+    }
+    atualizarDestaqueUI(q);
+    return;
+  }
+  const d = getDestaques();
+  const chave = String(q.id);
+  const arr = (d[chave] && d[chave]._lista) ? d[chave]._lista : [];
+  // Evita duplicar trecho idêntico
+  const jaExiste = arr.some(x => x === sel);
+  if (jaExiste) {
+    d[chave] = { _lista: arr.filter(x => x !== sel), _selo: true };
+  } else {
+    d[chave] = { _lista: [...arr, sel], _selo: true };
+  }
+  setDestaques(d);
+  mostrarDestaquesLista(q);
+}
+function mostrarDestaquesLista(q) {
+  const box = document.getElementById('destaquesLista');
+  const d = getDestaques();
+  const arr = (d[String(q.id)] || {})._lista || [];
+  if (arr.length === 0) { box.innerHTML = '<div style="color:var(--muted);font-size:0.78rem;padding:6px;">Sem trechos destacados nesta questão.</div>'; return; }
+  box.innerHTML = arr.map((t, i) =>
+    `<div class="dest-item">📌 ${t}<button class="dest-rm" onclick="removerDestaque(${i})">✕</button></div>`
+  ).join('');
+}
+function removerDestaque(idx) {
+  const q = questoesFiltradas[currentIndex];
+  if (!q) return;
+  const d = getDestaques();
+  const chave = String(q.id);
+  const obj = d[chave] || {};
+  const arr = obj._lista || [];
+  arr.splice(idx, 1);
+  d[chave] = { ...obj, _lista: arr };
+  setDestaques(d);
+  mostrarDestaquesLista(q);
+}
+function mostrarDestaqueQuantidade(q) {
+  const d = getDestaques();
+  const obj = d[String(q.id)] || {};
+  const n = (obj._lista || []).length;
+  const el = document.getElementById('qDestaqueBtn');
+  if (el) {
+    el.textContent = n > 0 ? `🔖 ${n} destaque${n>1?'s':''}` : '🔖 Destacar';
+    el.classList.toggle('ativo', n > 0);
+  }
+  if (document.getElementById('destaquesBox')) mostrarDestaquesLista(q);
+}
+function mostrarDestaquesUI(q) {
+  mostrarDestaqueQuantidade(q);
 }
 
 // ─── Lista Modal ───
@@ -1988,6 +2416,7 @@ function exportarProgresso() {
       log: JSON.parse(localStorage.getItem(LOG_KEY) || '[]'),
       favoritos: JSON.parse(localStorage.getItem(FAVORITOS_KEY) || '{}'),
       notas: JSON.parse(localStorage.getItem(NOTAS_KEY) || '{}'),
+      destaques: JSON.parse(localStorage.getItem(DESTAQUE_KEY) || '{}'),
       streak: JSON.parse(localStorage.getItem(STREAK_KEY) || '{}'),
       simulados: JSON.parse(localStorage.getItem('hermesmed_simulados') || '{}')
     };
@@ -2015,6 +2444,7 @@ function importarProgresso(event) {
       if (dados.log) localStorage.setItem(LOG_KEY, JSON.stringify(dados.log));
       if (dados.favoritos) localStorage.setItem(FAVORITOS_KEY, JSON.stringify(dados.favoritos));
       if (dados.notas) localStorage.setItem(NOTAS_KEY, JSON.stringify(dados.notas));
+      if (dados.destaques) localStorage.setItem(DESTAQUE_KEY, JSON.stringify(dados.destaques));
       if (dados.streak) localStorage.setItem(STREAK_KEY, JSON.stringify(dados.streak));
       if (dados.simulados) localStorage.setItem('hermesmed_simulados', JSON.stringify(dados.simulados));
       atualizarContadores();
@@ -2051,6 +2481,7 @@ async function syncComGitHub() {
       log: JSON.parse(localStorage.getItem(LOG_KEY) || '[]'),
       favoritos: JSON.parse(localStorage.getItem(FAVORITOS_KEY) || '{}'),
       notas: JSON.parse(localStorage.getItem(NOTAS_KEY) || '{}'),
+      destaques: JSON.parse(localStorage.getItem(DESTAQUE_KEY) || '{}'),
       streak: JSON.parse(localStorage.getItem(STREAK_KEY) || '{}'),
       simulados: JSON.parse(localStorage.getItem('hermesmed_simulados') || '{}')
     };

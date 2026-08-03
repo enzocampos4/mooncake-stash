@@ -23,7 +23,9 @@
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background: var(--bg);
+    background: radial-gradient(1200px 600px at 70% -10%, rgba(124,92,252,0.12), transparent 60%),
+                radial-gradient(900px 500px at 10% 110%, rgba(90,200,250,0.08), transparent 55%),
+                var(--bg);
     color: var(--text);
     min-height: 100vh;
     padding: 20px;
@@ -33,15 +35,30 @@
   /* Header */
   .header {
     text-align: center;
-    padding: 40px 0 30px;
+    padding: 30px 0 22px;
   }
-  .header h1 {
-    font-size: 2rem;
+  .header .brand {
+    display: inline-flex; align-items: center; gap: 10px; margin-bottom: 6px;
+  }
+  .header .brand .logo-badge {
+    width: 44px; height: 44px; border-radius: 14px;
     background: linear-gradient(135deg, var(--accent), var(--accent2));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.4rem; box-shadow: 0 4px 18px rgba(124,92,252,0.35);
   }
+  .header .brand h1 {
+    font-size: 1.6rem; font-weight: 800;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  .header .logout {
+    position: absolute; top: 20px; right: 24px;
+    color: var(--muted); text-decoration: none; font-size: 0.75rem;
+    padding: 6px 12px; border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 20px; background: rgba(255,255,255,0.03);
+    transition: 0.2s;
+  }
+  .header .logout:hover { color: var(--text); border-color: var(--wrong); }
   .header p {
     color: var(--muted);
     font-size: 0.95rem;
@@ -175,6 +192,40 @@
   }
   .pending-review .action-btn:hover { background: #6a4ae0; }
 
+  /* Conquistas / badges */
+  .badges-row {
+    display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;
+  }
+  .badge {
+    display: flex; align-items: center; gap: 8px;
+    background: var(--card); border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 12px; padding: 10px 14px; font-size: 0.82rem;
+  }
+  .badge .b-icon { font-size: 1.2rem; }
+  .badge .b-name { font-weight: 600; }
+  .badge .b-desc { color: var(--muted); font-size: 0.72rem; }
+  .badge.locked { opacity: 0.45; filter: grayscale(0.8); }
+  .badge.unlocked { border-color: rgba(124,92,252,0.4); }
+
+  /* Heatmap semanal */
+  .week-heatmap {
+    display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px;
+    margin-bottom: 20px; padding: 14px; background: var(--card);
+    border-radius: var(--radius);
+  }
+  .wh-day {
+    text-align: center; padding: 10px 4px; border-radius: 10px;
+    background: var(--card2); position: relative;
+  }
+  .wh-day .wh-label { font-size: 0.68rem; color: var(--muted); margin-bottom: 4px; }
+  .wh-day .wh-num { font-size: 1.1rem; font-weight: 800; }
+  .wh-day .wh-count { font-size: 0.62rem; color: var(--muted); margin-top: 2px; }
+  .wh-day.high { background: rgba(52,199,89,0.25); color: var(--correct); }
+  .wh-day.mid { background: rgba(124,92,252,0.2); color: var(--accent2); }
+  .wh-day.low { background: rgba(255,159,10,0.18); color: var(--yellow); }
+  .wh-day.empty { opacity: 0.4; }
+  .wh-day.today { outline: 2px solid var(--accent); }
+
   /* Footer */
   .footer {
     text-align: center;
@@ -197,11 +248,12 @@
 </style>
 </head>
 <body>
-<div class="container">
+<div class="container" style="position:relative;">
   <div class="header">
-    <div style="display:flex;align-items:center;justify-content:space-between;">
-      <h1>📚 HermesMed</h1>
-      <a href="login.html?redirect=index.html" onclick="localStorage.removeItem('hermesmed_auth')" style="color:var(--muted);text-decoration:none;font-size:0.75rem;">🔒 Sair</a>
+    <a href="login.html?redirect=index.html" onclick="localStorage.removeItem('hermesmed_auth')" class="logout">🔒 Sair</a>
+    <div class="brand">
+      <span class="logo-badge">📚</span>
+      <h1>HermesMed</h1>
     </div>
     <p>Banco de Questões — ENARE • Revalida</p>
     <div class="stats">
@@ -217,6 +269,11 @@
       <div class="icon">🔄</div>
       <div class="label">Revisão Espaçada</div>
       <div class="sub" id="revCount">0 pendentes</div>
+    </a>
+    <a href="questoes.html?modo=erros" class="quick-btn">
+      <div class="icon">❌</div>
+      <div class="label">Caderno de Erros</div>
+      <div class="sub" id="errCount">0 erradas</div>
     </a>
     <a href="questoes.html?modo=livre" class="quick-btn">
       <div class="icon">🎯</div>
@@ -253,6 +310,13 @@
     </div>
     <a href="questoes.html?modo=revisao" class="action-btn">Revisar →</a>
   </div>
+
+  <!-- Conquistas / badges -->
+  <div class="badges-row" id="badgesRow"></div>
+
+  <!-- Atividade semanal (heatmap) -->
+  <div class="section-title">📅 Atividade dos últimos 7 dias</div>
+  <div class="week-heatmap" id="weekHeatmap"></div>
 
   <!-- Áreas -->
   <div class="section-title">
@@ -309,6 +373,75 @@ async function contarTodas() {
   return total;
 }
 
+// Contagem de erros (para o caderno de erros)
+async function countErros() {
+  const progresso = loadProgress();
+  let erros = 0;
+  for (const area of AREAS) {
+    const prog = progresso[area.id] || {};
+    Object.values(prog).forEach(v => {
+      const acertou = typeof v === 'boolean' ? v : v?.acertou;
+      if (acertou === false) erros++;
+    });
+  }
+  return erros;
+}
+
+// ─── Conquistas / badges ───
+function renderBadges(acertos, respondidas, streak) {
+  const metas = [
+    { icon: '🔥', name: 'Sequência', desc: `${streak} dias consecutivos`, unlocked: streak >= 1, meta: v => v >= 1 },
+    { icon: '💯', name: 'Primeira questão', desc: 'Respondeu sua 1ª questão', unlocked: respondidas >= 1, meta: v => v >= 1 },
+    { icon: '🎯', name: '10 questões', desc: 'Respondeu 10 questões', unlocked: respondidas >= 10, meta: v => v >= 10 },
+    { icon: '⚡', name: '100 questões', desc: 'Respondeu 100 questões', unlocked: respondidas >= 100, meta: v => v >= 100 },
+    { icon: '🎖️', name: '20 acertos', desc: 'Acertou 20 questões', unlocked: acertos >= 20, meta: v => v >= 20 },
+    { icon: '🏅', name: '150 questões', desc: 'Respondeu 150 questões', unlocked: respondidas >= 150, meta: v => v >= 150 },
+    { icon: '🏆', name: '300 questões', desc: 'Respondeu 300 questões', unlocked: respondidas >= 300, meta: v => v >= 300 },
+  ];
+  const row = document.getElementById('badgesRow');
+  row.innerHTML = metas.map(m => `
+    <div class="badge ${m.unlocked ? 'unlocked' : 'locked'}" title="${m.desc}">
+      <span class="b-icon">${m.icon}</span>
+      <span class="b-info"><span class="b-name">${m.name}</span><br><span class="b-desc">${m.desc}</span></span>
+    </div>
+  `).join('');
+}
+
+// ─── Heatmap semanal ───
+function renderWeekHeatmap(log) {
+  const diasSemana = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
+  const hoje = new Date();
+  const cells = [];
+  for (let i = 6; i >= 0; i--) {
+    const d = new Date(hoje);
+    d.setDate(hoje.getDate() - i);
+    const key = d.toISOString().split('T')[0];
+    const count = log.filter(e => e.timestamp && e.timestamp.startsWith(key)).length;
+    cells.push({ label: diasSemana[d.getDay()], key, count, hoje: i === 0 });
+  }
+  const el = document.getElementById('weekHeatmap');
+  const totalAtividade = cells.reduce((s, c) => s + c.count, 0);
+  if (totalAtividade === 0) {
+    el.innerHTML = `<div style="grid-column:1/-1;text-align:center;color:var(--muted);font-size:0.8rem;padding:14px;">
+      📭 Sem atividade ainda — responda questões para ver seu ritmo semanal!
+    </div>`;
+    return;
+  }
+  el.innerHTML = cells.map(c => {
+    let cls = 'empty';
+    if (c.count >= 10) cls = 'high';
+    else if (c.count >= 4) cls = 'mid';
+    else if (c.count > 0) cls = 'low';
+    const todayCls = c.hoje ? ' today' : '';
+    const num = c.count > 0 ? c.count : '·';
+    return `<div class="wh-day ${cls}${todayCls}">
+      <div class="wh-label">${c.label} ${c.key.split('-').slice(1).join('/')}</div>
+      <div class="wh-num">${num}</div>
+      <div class="wh-count">${c.count > 0 ? (c.count === 1 ? 'questão' : 'questões') : ''}</div>
+    </div>`;
+  }).join('');
+}
+
 // Renderizar dashboard
 async function renderDashboard() {
   const progresso = loadProgress();
@@ -351,6 +484,16 @@ async function renderDashboard() {
 
   const pctGeral = totalQuestoes > 0 ? Math.round((totalRespondidas / totalQuestoes) * 100) : 0;
   document.getElementById('totalProgresso').textContent = `${pctGeral}%`;
+
+  // Conquistas + heatmap
+  const streak = JSON.parse(localStorage.getItem('hermesmed_streak') || '{"count":0}');
+  renderBadges(totalAcertos, totalRespondidas, streak.count || 0);
+  try {
+    const log = JSON.parse(localStorage.getItem('hermesmed_log') || '[]');
+    renderWeekHeatmap(log);
+  } catch { renderWeekHeatmap([]); }
+  const nErros = await countErros();
+  document.getElementById('errCount').textContent = `${nErros} erradas`;
 
   // Revisões pendentes
   renderPendingReviews(progresso);

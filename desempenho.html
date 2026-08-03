@@ -447,12 +447,14 @@ async function carregar() {
 
   // Carregar JSON de cada área pra saber total de questões
   const areasData = {};
+  const questoesDeDestaques = {};
   for (const area of AREAS) {
     try {
       const resp = await fetch(`data/${area.id}.json`);
       if (resp.ok) {
         const data = await resp.json();
         areasData[area.id] = data.questoes || [];
+        (data.questoes || []).forEach(q => { questoesDeDestaques[String(q.id)] = { ...q, _area_slug: area.id }; });
       }
     } catch {}
   }
@@ -837,6 +839,38 @@ async function carregar() {
     </div>`;
   }
 
+  // ─── Destaques e Notas (acesso rápido a grifos e anotações) ───
+  const destaques = JSON.parse(localStorage.getItem('hermesmed_destaques') || '{}');
+  const notas = JSON.parse(localStorage.getItem('hermesmed_notas') || '{}');
+  const destaquesLista = [];
+  for (const [qId, obj] of Object.entries(destaques)) {
+    const lista = (obj && obj._lista) || [];
+    if (lista.length > 0) destaquesLista.push({ qId, itens: lista });
+  }
+  const notasLista = Object.entries(notas).filter(([, t]) => t && t.trim());
+  if (destaquesLista.length > 0 || notasLista.length > 0) {
+    html += `<div class="card"><h2>🔖 Destaques e notas</h2>
+      <div style="font-size:0.74rem;color:var(--muted);margin:-2px 0 10px;">Clique para abrir a questão</div>`;
+    for (const d of destaquesLista.slice(0, 15)) {
+      const q = questoesDeDestaques[d.qId];
+      const areaSlug = q ? q._area_slug : 'clinica-medica';
+      html += `<div class="tree-row" onclick="window.location.href='questoes.html?area=${escapeHtml(areaSlug)}'" style="cursor:pointer;">
+        <span style="color:#ffd60a;">📌</span>
+        <span class="name" style="flex:1;font-size:0.8rem;">${escapeHtml(d.itens[0].slice(0, 70))}${d.itens[0].length > 70 ? '…' : ''}</span>
+        <span class="meta">${d.itens.length} destaque(s)</span>
+      </div>`;
+    }
+    for (const [qId, texto] of notasLista.slice(0, 15)) {
+      const q = questoesDeDestaques[qId];
+      const areaSlug = q ? q._area_slug : 'clinica-medica';
+      html += `<div class="tree-row" onclick="window.location.href='questoes.html?area=${escapeHtml(areaSlug)}'" style="cursor:pointer;">
+        <span style="color:var(--accent2);">📝</span>
+        <span class="name" style="flex:1;font-size:0.8rem;">${escapeHtml(texto.slice(0, 70))}${texto.length > 70 ? '…' : ''}</span>
+      </div>`;
+    }
+    html += `</div>`;
+  }
+
   // ⚙️ Botão Configurações/Sync
   html += `<div style="text-align:center;padding:8px 0;">
     <button onclick="toggleSyncPanel()" style="background:none;border:none;color:var(--muted);font-size:0.78rem;cursor:pointer;padding:8px 16px;border-radius:8px;">
@@ -931,6 +965,7 @@ function exportarProgresso() {
       log: JSON.parse(localStorage.getItem(LOG_KEY) || '[]'),
       favoritos: JSON.parse(localStorage.getItem('hermesmed_favoritos') || '{}'),
       notas: JSON.parse(localStorage.getItem('hermesmed_notas') || '{}'),
+      destaques: JSON.parse(localStorage.getItem('hermesmed_destaques') || '{}'),
       streak: JSON.parse(localStorage.getItem('hermesmed_streak') || '{}'),
       simulados: JSON.parse(localStorage.getItem('hermesmed_simulados') || '{}')
     };
@@ -956,6 +991,7 @@ function importarProgresso(event) {
       if (d.log) localStorage.setItem(LOG_KEY, JSON.stringify(d.log));
       if (d.favoritos) localStorage.setItem('hermesmed_favoritos', JSON.stringify(d.favoritos));
       if (d.notas) localStorage.setItem('hermesmed_notas', JSON.stringify(d.notas));
+      if (d.destaques) localStorage.setItem('hermesmed_destaques', JSON.stringify(d.destaques));
       if (d.streak) localStorage.setItem('hermesmed_streak', JSON.stringify(d.streak));
       if (d.simulados) localStorage.setItem('hermesmed_simulados', JSON.stringify(d.simulados));
       setSyncStatus('✅ Importado! Recarregando...', '#34c759');
@@ -977,6 +1013,7 @@ async function syncComGitHub() {
       log: JSON.parse(localStorage.getItem(LOG_KEY) || '[]'),
       favoritos: JSON.parse(localStorage.getItem('hermesmed_favoritos') || '{}'),
       notas: JSON.parse(localStorage.getItem('hermesmed_notas') || '{}'),
+      destaques: JSON.parse(localStorage.getItem('hermesmed_destaques') || '{}'),
       streak: JSON.parse(localStorage.getItem('hermesmed_streak') || '{}'),
       simulados: JSON.parse(localStorage.getItem('hermesmed_simulados') || '{}')
     };
@@ -1010,6 +1047,7 @@ async function syncDoGitHub() {
     if (d.log) localStorage.setItem(LOG_KEY, JSON.stringify(d.log));
     if (d.favoritos) localStorage.setItem('hermesmed_favoritos', JSON.stringify(d.favoritos));
     if (d.notas) localStorage.setItem('hermesmed_notas', JSON.stringify(d.notas));
+    if (d.destaques) localStorage.setItem('hermesmed_destaques', JSON.stringify(d.destaques));
     if (d.streak) localStorage.setItem('hermesmed_streak', JSON.stringify(d.streak));
     if (d.simulados) localStorage.setItem('hermesmed_simulados', JSON.stringify(d.simulados));
     setSyncStatus('✅ Restaurado! Recarregando...', '#34c759');
