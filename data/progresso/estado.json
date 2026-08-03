@@ -1,10 +1,39 @@
 {
-  "exportado": "2026-08-02T01:35:43.421Z",
+  "exportado": "2026-08-03T13:47:30.397Z",
   "versao": 2,
-  "progresso": {},
-  "log": [],
+  "progresso": {
+    "cirurgia": {
+      "s9-024": {
+        "acertou": true,
+        "selecao": "B",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T12:20:13.960Z"
+      }
+    }
+  },
+  "log": [
+    {
+      "id": "s9-024",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Cirurgia",
+      "subarea": "Cirurgia Torácica",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "timestamp": "2026-08-03T12:20:13.960Z",
+      "modo": "📖 Livre"
+    }
+  ],
   "favoritos": {},
   "notas": {},
-  "streak": {},
+  "destaques": {},
+  "streak": {
+    "count": 1,
+    "ultimo": "2026-08-03",
+    "dias": {
+      "2026-08-03": 1
+    }
+  },
   "simulados": {}
 }
