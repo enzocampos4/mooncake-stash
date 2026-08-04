@@ -2758,6 +2758,7 @@ init();
     <div style="display:flex;gap:8px;">
       <input type="password" id="ghToken" style="flex:1;padding:10px 14px;border-radius:10px;border:1px solid rgba(255,255,255,0.1);background:rgba(0,0,0,0.3);color:var(--text);font-size:0.85rem;" placeholder="github_pat_...">
       <button class="btn btn-primary" onclick="salvarToken()" style="padding:10px 16px;">💾</button>
+      <button class="btn btn-outline" onclick="testarToken()" style="padding:10px 16px;font-size:0.78rem;">🔍 Testar</button>
     </div>
   </div>
 
@@ -2914,7 +2915,19 @@ async function syncComGitHub() {
   setSyncStatus('🔄 Enviando progresso para o GitHub...', '#5ac8fa');
 
   try {
-    // 1. Exportar dados
+    // 1. Validar token primeiro
+    const testResp = await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}`, {
+      headers: { 'Authorization': 'Bearer ' + cfg.token }
+    });
+    if (!testResp.ok) {
+      const errData = await testResp.json().catch(() => ({}));
+      if (testResp.status === 401 || testResp.status === 403) {
+        throw new Error(`Token inválido ou sem permissão (HTTP ${testResp.status}). Crie um token fine-grained com "Contents: write" para o repositório.`);
+      }
+      throw new Error(`Erro ao acessar repositório: ${errData.message || testResp.statusText} (HTTP ${testResp.status})`);
+    }
+
+    // 2. Exportar dados
     const dados = {
       exportado: new Date().toISOString(),
       versao: 2,
@@ -2927,7 +2940,7 @@ async function syncComGitHub() {
       simulados: JSON.parse(localStorage.getItem('hermesmed_simulados') || '{}')
     };
 
-    // 2. Enviar estado.json
+    // 3. Enviar estado.json
     const conteudoEstado = btoa(unescape(encodeURIComponent(JSON.stringify(dados, null, 2))));
     
     // Tentar pegar SHA do arquivo existente
@@ -2959,43 +2972,98 @@ async function syncComGitHub() {
     });
 
     if (!respEstado.ok) {
-      const err = await respEstado.json();
-      throw new Error(err.message || 'Erro ao enviar para GitHub');
+      const errBody = await respEstado.json().catch(() => ({}));
+      throw new Error(`${errBody.message || respEstado.statusText} (HTTP ${respEstado.status})`);
     }
 
     setSyncStatus(`✅ Sincronizado! ${dados.log.length} eventos salvos na nuvem.`, '#34c759');
     atualizarContadores();
   } catch(e) {
-    setSyncStatus('❌ Erro na sincronização: ' + e.message, '#ff3b30');
+    setSyncStatus('❌ Erro: ' + e.message, '#ff3b30');
     console.error('Sync error:', e);
   }
 }
 
 async function syncDoGitHub() {
-  setSyncStatus('⬇️ Baixando progresso da nuvem...', '#5ac8fa');
+  const cfg = getConfig();
+  if (!cfg.token) {
+    setSyncStatus('⚠️ Configure o token do GitHub primeiro!', '#ff9f0a');
+    return;
+  }
+  setSyncStatus('⬇️ Baixando progresso da nuvem via API...', '#5ac8fa');
 
   try {
-    const resp = await fetch(`https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/${GH_BRANCH}/${GH_PATH_ESTADO}`);
+    // Usa a API (não raw.githubusercontent) pra pegar o conteúdo SEMPRE atualizado
+    const resp = await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/${GH_PATH_ESTADO}?ref=${GH_BRANCH}`, {
+      headers: { 'Authorization': 'Bearer ' + cfg.token }
+    });
+
     if (!resp.ok) {
-      throw new Error('Nenhum progresso salvo na nuvem ainda');
+      if (resp.status === 404) {
+        throw new Error('Nenhum progresso salvo na nuvem ainda (faça um "Sincronizar" primeiro)');
+      }
+      const errData = await resp.json().catch(() => ({}));
+      throw new Error(`${errData.message || resp.statusText} (HTTP ${resp.status})`);
     }
-    const dados = await resp.json();
+
+    const data = await resp.json();
+    // O conteúdo vem em base64
+    const conteudo = data.content.replace(/\n/g, '');
+    const jsonStr = decodeURIComponent(escape(atob(conteudo)));
+    const dados = JSON.parse(jsonStr);
     
+    // Restaurar TODOS os dados
     if (dados.progresso) localStorage.setItem(STORAGE_KEY, JSON.stringify(dados.progresso));
     if (dados.log) localStorage.setItem(LOG_KEY, JSON.stringify(dados.log));
     if (dados.favoritos) localStorage.setItem(FAVORITOS_KEY, JSON.stringify(dados.favoritos));
     if (dados.notas) localStorage.setItem(NOTAS_KEY, JSON.stringify(dados.notas));
+    if (dados.destaques) localStorage.setItem(DESTAQUE_KEY, JSON.stringify(dados.destaques));
     if (dados.streak) localStorage.setItem(STREAK_KEY, JSON.stringify(dados.streak));
     if (dados.simulados) localStorage.setItem('hermesmed_simulados', JSON.stringify(dados.simulados));
 
     atualizarContadores();
-    setSyncStatus(`✅ Dados restaurados da nuvem! (${dados.log?.length || 0} eventos)`, '#34c759');
+    setSyncStatus(`✅ Dados restaurados da nuvem! (${dados.log?.length || 0} eventos, ${Object.keys(dados.progresso || {}).length} áreas)`, '#34c759');
     
     // Recarregar a página pra aplicar
     setTimeout(() => location.reload(), 1500);
   } catch(e) {
     setSyncStatus('⚠️ ' + e.message, '#ff9f0a');
   }
+}
+
+function testarToken() {
+  const cfg = getConfig();
+  if (!cfg.token) {
+    setSyncStatus('⚠️ Configure o token primeiro!', '#ff9f0a');
+    return;
+  }
+  setSyncStatus('🔍 Verificando token...', '#5ac8fa');
+  fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}`, {
+    headers: { 'Authorization': 'Bearer ' + cfg.token }
+  })
+  .then(r => {
+    if (r.ok) {
+      // Verificar se tem permissão de escrita
+      return fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`, {
+        headers: { 'Authorization': 'Bearer ' + cfg.token }
+      }).then(r2 => {
+        if (r2.ok || r2.status === 404) {
+          setSyncStatus('✅ Token válido! Permissões OK para ler/escrever no repositório.', '#34c759');
+        } else {
+          setSyncStatus('⚠️ Token existe mas pode não ter permissão de escrita (HTTP ' + r2.status + ')', '#ff9f0a');
+        }
+      });
+    } else if (r.status === 401) {
+      setSyncStatus('❌ Token inválido ou revogado. Crie um novo.', '#ff3b30');
+    } else if (r.status === 403) {
+      setSyncStatus('❌ Token sem acesso ao repositório. Precisa de "Contents: write".', '#ff3b30');
+    } else {
+      setSyncStatus('❌ Erro HTTP ' + r.status + ' ao verificar token.', '#ff3b30');
+    }
+  })
+  .catch(err => {
+    setSyncStatus('❌ Erro de rede: ' + err.message, '#ff3b30');
+  });
 }
 
 // ─── Hash SHA-256 (mesmo do login) ───

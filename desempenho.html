@@ -1028,6 +1028,15 @@ async function syncComGitHub() {
   if (!cfg.token) { setSyncStatus('⚠️ Configure o token!', '#ff9f0a'); return; }
   setSyncStatus('🔄 Enviando...', '#5ac8fa');
   try {
+    // Validar token
+    const testR = await fetch('https://api.github.com/repos/' + GH_OWNER + '/' + GH_REPO, {
+      headers: { 'Authorization': 'Bearer ' + cfg.token }
+    });
+    if (!testR.ok) {
+      if (testR.status === 401 || testR.status === 403)
+        throw new Error('Token inválido ou sem permissão. Crie um fine-grained PAT com "Contents: write".');
+      throw new Error('Erro ao acessar repo: HTTP ' + testR.status);
+    }
     const dados = {
       exportado: new Date().toISOString(),
       versao: 2,
@@ -1054,17 +1063,26 @@ async function syncComGitHub() {
       headers: { 'Authorization': 'Bearer ' + cfg.token, 'Content-Type': 'application/json' },
       body: JSON.stringify(body)
     });
-    if (!resp.ok) { const err = await resp.json(); throw new Error(err.message); }
-    setSyncStatus('✅ Sincronizado!', '#34c759');
-  } catch(e) { setSyncStatus('❌ ' + e.message, '#ff3b30'); }
+    if (!resp.ok) { const err = await resp.json().catch(() => ({})); throw new Error((err.message || 'HTTP ' + resp.status)); }
+    setSyncStatus('✅ Sincronizado! (' + dados.log.length + ' eventos)', '#34c759');
+  } catch(e) { setSyncStatus('❌ ' + e.message, '#ff3b30'); console.error(e); }
 }
 
 async function syncDoGitHub() {
-  setSyncStatus('⬇️ Baixando...', '#5ac8fa');
+  const cfg = getConfig();
+  if (!cfg.token) { setSyncStatus('⚠️ Configure o token!', '#ff9f0a'); return; }
+  setSyncStatus('⬇️ Baixando via API...', '#5ac8fa');
   try {
-    const resp = await fetch('https://raw.githubusercontent.com/' + GH_OWNER + '/' + GH_REPO + '/' + GH_BRANCH + '/' + GH_PATH_ESTADO);
-    if (!resp.ok) throw new Error('Nada na nuvem');
-    const d = await resp.json();
+    const resp = await fetch('https://api.github.com/repos/' + GH_OWNER + '/' + GH_REPO + '/contents/' + GH_PATH_ESTADO + '?ref=' + GH_BRANCH, {
+      headers: { 'Authorization': 'Bearer ' + cfg.token }
+    });
+    if (!resp.ok) {
+      if (resp.status === 404) throw new Error('Nada na nuvem (sincronize primeiro)');
+      throw new Error('HTTP ' + resp.status);
+    }
+    const data = await resp.json();
+    const jsonStr = decodeURIComponent(escape(atob(data.content.replace(/\n/g, ''))));
+    const d = JSON.parse(jsonStr);
     if (d.progresso) localStorage.setItem('hermesmed_progresso', JSON.stringify(d.progresso));
     if (d.log) localStorage.setItem(LOG_KEY, JSON.stringify(d.log));
     if (d.favoritos) localStorage.setItem('hermesmed_favoritos', JSON.stringify(d.favoritos));
