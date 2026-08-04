@@ -270,7 +270,7 @@ function mostrarLista(filtro = '') {
     (grupos[tema] = grupos[tema] || []).push(d);
   }
 
-  const temas = Object.keys(grupos);
+  const temas = Object.keys(grupos).sort((a, b) => a.localeCompare(b, 'pt-BR'));
   if (temas.length === 0) {
     document.getElementById('content').innerHTML = `
       <div class="empty-state">
@@ -284,7 +284,7 @@ function mostrarLista(filtro = '') {
   let html = '';
 
   for (const tema of temas) {
-    const g = grupos[tema];
+    const g = grupos[tema].slice().sort((a, b) => (a.subarea || '').localeCompare(b.subarea || '', 'pt-BR'));
     const total = g.reduce((s, d) => s + d.cards.length, 0);
     const aberto = forcaAberto || temasAbertos.has(tema);
     html += `<div class="tema-group">
