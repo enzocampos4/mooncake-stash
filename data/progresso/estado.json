@@ -1,27 +1,156 @@
 {
-  "exportado": "2026-08-04T15:25:55.361Z",
+  "exportado": "2026-08-04T15:26:53.701Z",
   "versao": 2,
-  "progresso": {},
-  "log": [],
+  "progresso": {
+    "cirurgia": {
+      "s9-024": {
+        "acertou": true,
+        "selecao": "B",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T12:20:13.960Z"
+      }
+    },
+    "medicina-preventiva": {
+      "s14-067": {
+        "acertou": true,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:30:33.326Z"
+      },
+      "s9-005": {
+        "acertou": false,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:33:14.274Z"
+      },
+      "s1-049": {
+        "acertou": true,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:36:28.037Z"
+      },
+      "s14-099": {
+        "acertou": false,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:40:45.843Z"
+      },
+      "s11-017": {
+        "acertou": false,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T18:50:57.070Z"
+      }
+    },
+    "ginecologia": {
+      "site-pf-002": {
+        "acertou": true,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-03T14:41:57.885Z"
+      }
+    }
+  },
+  "log": [
+    {
+      "id": "s9-024",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Cirurgia",
+      "subarea": "Cirurgia Torácica",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "timestamp": "2026-08-03T12:20:13.960Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "s14-067",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "ESTRATÉGIA MED 14",
+      "timestamp": "2026-08-03T14:30:33.328Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "s9-005",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "timestamp": "2026-08-03T14:33:14.274Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "s1-049",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Saúde do Trabalhador",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+      "timestamp": "2026-08-03T14:36:28.037Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "s14-099",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "ESTRATÉGIA MED 14",
+      "timestamp": "2026-08-03T14:40:45.843Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "site-pf-002",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Ginecologia",
+      "subarea": "Planejamento familiar",
+      "fonte": "BQMED (Site) — SUS Bahia (BA) 2024",
+      "timestamp": "2026-08-03T14:41:57.885Z",
+      "modo": "🎯 Sessão"
+    },
+    {
+      "id": "s11-017",
+      "acertou": false,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "timestamp": "2026-08-03T18:50:57.072Z",
+      "modo": "🎯 Sessão"
+    }
+  ],
   "favoritos": {},
   "notas": {},
-  "destaques": {},
-  "streak": {},
-  "simulados": {
-    "11-simulado": {
-      "respostas": {
-        "s11-019": "errado",
-        "s11-020": "errado",
-        "s11-022": "errado",
-        "s11-025": "certo"
-      },
-      "selecao": {
-        "s11-019": "A",
-        "s11-020": "B",
-        "s11-022": "B",
-        "s11-025": "B"
-      },
-      "timerRestante": 0
+  "destaques": {
+    "s1-004": {
+      "texto": "# [questão inteira]",
+      "_sel": true
     }
-  }
+  },
+  "streak": {
+    "count": 1,
+    "ultimo": "2026-08-03",
+    "dias": {
+      "2026-08-03": 7
+    }
+  },
+  "simulados": {}
 }
