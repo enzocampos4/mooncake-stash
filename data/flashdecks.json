@@ -5316,6 +5316,3529 @@
           ]
         }
       ]
+    },
+    {
+      "id": "obste-aloimunizacao-materna-e-doenca-hemolitica-perinatal",
+      "tema": "Obstetrícia",
+      "subarea": "Aloimunização Materna e Doença Hemolítica Perinatal",
+      "cards": [
+        {
+          "frente": "Qual é o momento de maior risco\nde aloimunização materna?",
+          "verso": "Parto."
+        },
+        {
+          "frente": "Qual é o trimestre com maior risco\nde aloimunização materna?",
+          "verso": "Terceiro trimestre."
+        },
+        {
+          "frente": "Que complicações na gestação\npodem ocasionar aloimunização\nmaterna?",
+          "verso": "Sangramento da primeira metade, sangramento da segunda metade, procedimentos invasivos intrauterinos, trauma abdominal, morte fetal."
+        },
+        {
+          "frente": "Que outras situações, fora da\ngestação, podem ocasionar\naloimunização materna?",
+          "verso": "Transfusão sanguínea, uso de drogas, realização de transplantes."
+        },
+        {
+          "frente": "Qual é o tipo de anticorpo que\nultrapassam a barreira placentária?",
+          "verso": "IgG."
+        },
+        {
+          "frente": "Qual é o mecanismo na doença\nhemolítica perinatal que leva à\nanemia fetal?",
+          "verso": "Hemólise maciça no baço fetal."
+        },
+        {
+          "frente": "Quais são as consequências da\nanemia fetal grave ocasionada pela\ndoença hemolítica perinatal?",
+          "verso": "Hipóxia tecidual, insuficiência cardíaca, insuficiência hepática e eritropoiese intensa."
+        },
+        {
+          "frente": "Qual é o principal antígeno\neritrocitário responsável pela\ndoença hemolítica perinatal?",
+          "verso": "Antígeno D do sistema Rh."
+        },
+        {
+          "frente": "Que antígenos eritrocitários\npodem causar doença hemolítica\nperinatal, além do antígeno D?",
+          "verso": "Kell, Duffy, MNS, RhC, RhE, ABO."
+        },
+        {
+          "frente": "Que exames são utilizados para\no rastreamento de aloimunização\nmaterna?",
+          "verso": "Tipagem sanguínea e Coombs indireto ou pesquisa de anticorpos irregulares (PAI)."
+        },
+        {
+          "frente": "O que identifica o exame de\nCoombs indireto ou a pesquisa de\nanticorpos irregulares (PAI)?",
+          "verso": "Anticorpos antieritrocitários no sangue materno."
+        },
+        {
+          "frente": "Quando a gestante é Rh negativo\ncom Coombs indireto negativo e\no pai Rh positivo, qual deve ser a\nconduta no pré-natal?",
+          "verso": "Seguimento mensal com Coombs indireto e profilaxia com imunoglobulina anti-D."
+        },
+        {
+          "frente": "O que significa quando a gestante\napresenta Coombs indireto\npositivo?",
+          "verso": "Que houve aloimunização materna e o feto corre risco de desenvolver doença hemolítica perinatal."
+        },
+        {
+          "frente": "Qual é a conduta para uma\ngestante aloimunizada com títulos\nde anticorpos ≥ 1/16?",
+          "verso": "Realizar avaliação indireta da anemia fetal pela medida do pico de velocidade sistólica da artéria cerebral média a cada 1 a 2 semanas."
+        },
+        {
+          "frente": "Qual é o exame utilizado para\navaliar indiretamente anemia fetal\nem gestantes aloimunizadas?",
+          "verso": "Dopplervelocimetria obstétrica com medida do pico de velocidade sistólica da artéria cerebral média."
+        },
+        {
+          "frente": "Que valor do pico de velocidade\nsistólico da artéria cerebral média\nindica que o feto apresenta anemia\ngrave?",
+          "verso": "Quando o PVS-ACM está acima de 1,5 múltiplos da mediana para a idade gestacional."
+        },
+        {
+          "frente": "Que padrão cardiotocográfico é\ncaracterístico de fetos com doença\nhemolítica perinatal?",
+          "verso": "Padrão sinusoidal."
+        },
+        {
+          "frente": "Quando está indicado o tratamento\nfetal na doença hemolítica\nperinatal?",
+          "verso": "Quando o feto apresenta anemia grave (PVS_ACM >1,5 MOM) ou hidropisia fetal."
+        },
+        {
+          "frente": "Qual é o tratamento fetal na\ndoença hemolítica perinatal?",
+          "verso": "Transfusão sanguínea fetal intraútero."
+        },
+        {
+          "frente": "Como é feita a transfusão\nsanguínea fetal intraútero?",
+          "verso": "Por cordocentese."
+        },
+        {
+          "frente": "Qual é o tipo de sangue utilizado\nna transfusão sanguínea fetal\nintraútero?",
+          "verso": "Sangue O Rh negativo irradiado."
+        },
+        {
+          "frente": "Qual é a idade gestacional\nindicada para realizar a transfusão\nsanguínea fetal?",
+          "verso": "Entre 18 e 34 semanas."
+        },
+        {
+          "frente": "Como é feita a prevenção de\naloimunização materna pelo\nantígeno D?",
+          "verso": "Imunoglobulina anti-D."
+        },
+        {
+          "frente": "Quem deve receber\nimunoglobulina anti-D?",
+          "verso": "Gestantes Rh negativas com Coombs indireto negativo e pai Rh positivo ou desconhecido."
+        },
+        {
+          "frente": "Quando as gestantes com risco\nde aloimunização devem receber\nimunoglobulina anti-D?",
+          "verso": "Com 28 semanas de gestação, em até 72h pós-parto se recém- nascido for Rh positivo e após complicações na gestação que possam levar ao sangramento materno-fetal."
+        },
+        {
+          "frente": "Quais são as complicações que\npodem ocasionar sangramento\nmaterno-fetal?",
+          "verso": "Abortamento, gestação ectópica, mola hidatiforme, procedimentos invasivos intraútero, morte fetal, trauma abdominal, descolamento prematuro de placenta, inserção baixa de placenta, versão cefálica externa"
+        },
+        {
+          "frente": "Qual é a dose recomendada de\nimunoglobulina anti-D e a via de\nadministração?",
+          "verso": "300 µg intramuscular, dose única."
+        },
+        {
+          "frente": "Que antígenos eritrocitários\nnão causam doença hemolítica\nperinatal por não ultrapassarem a\nbarreira placentária?",
+          "verso": "Lewis, P1 e RhI."
+        },
+        {
+          "frente": "Por quanto tempo após a\nadministração de imunoglobulina\nanti-D o Coombs indireto\npermanece positivo?",
+          "verso": "Por volta de 12 semanas."
+        },
+        {
+          "frente": "Quais são as principais\nmanifestações da doença\nhemolítica perinatal?",
+          "verso": "Icterícia, hepatoesplenomegalia, ascite, derrame pleural, derrame pericárdico, hidropisia, alteração da circulação placentária, polidrâmnio e óbito fetal."
+        }
+      ]
+    },
+    {
+      "id": "obste-alteracao-do-volume-do-liquido-aminiotico",
+      "tema": "Obstetrícia",
+      "subarea": "Alteração do Volume do Líquido Aminiótico",
+      "cards": [
+        {
+          "frente": "Qual é a composição do líquido\namniótico no primeiro trimestre?",
+          "verso": "Isotônico com o plasma materno.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Quais são os períodos em que o\nlíquido amniótico está em queda,\nem crescimento e no pico?",
+          "verso": "Cresce até atingir\no pico com\n32 semanas e,\ndepois, começa a\nreduzir.\nAlterações do Líquido Amniótico",
+          "img_verso": [
+            "data/flashcards-img/135.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são os dois principais\nmecanismos responsáveis pela\nvariação do líquido amniótico na\nsegunda metade da gestação?",
+          "verso": "Urina e\ndeglutição\nfetais.",
+          "img_verso": [
+            "data/flashcards-img/125.jpeg"
+          ]
+        },
+        {
+          "frente": "Cite, pelo menos, três funções do\nlíquido amniótico.",
+          "verso": "Alterações do Líquido Amniótico\nLista não exaustiva:\n• Proteção contra traumas;\n• Evita compressão do cordão;\n• Crescimento simétrico do feto;\n• Protege contra infecções;\n• Estabilidade térmica;\n• Desenvolvimento pulmonar, gastrointestinal e\nmusculoesquelético;\n• Função nutritiva para o feto."
+        },
+        {
+          "frente": "Como é realizada a estimativa do\nlíquido amniótico usando a técnica\ndo índice de líquido amniótico\n(ILA)?",
+          "verso": "Alterações do Líquido Amniótico\nO ILA será o somatório das medidas do maior bolsão\nde cada um dos 4 quadrantes maternos."
+        },
+        {
+          "frente": "Como é realizada a estimativa do\nlíquido amniótico usando a técnica\ndo maior bolsão vertical?",
+          "verso": "Mede-se o maior diâmetro vertical\nde líquido amniótico no USG.\nAlterações do Líquido Amniótico",
+          "img_verso": [
+            "data/flashcards-img/39.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a principal alteração no\nexame físico da gestante que nos\nleva a suspeitar de alteração no\nvolume do líquido amniótico?",
+          "verso": "Altura uterina incompatível com a\nidade gestacional.\nAlterações do Líquido Amniótico",
+          "img_verso": [
+            "data/flashcards-img/90.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a definição ultrassonográfica\nde polidrâmnio?",
+          "verso": "• Índice de líquido amniótico ≥ 25 cm;\n• Maior bolsão > 8 cm.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Qual é a definição ultrassonográfica\nde oligoâmnio?",
+          "verso": "• Índice de líquido amniótico ≤ 5 cm;\n• Maior bolsão < 2 cm.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Quais são as medidas consideradas\nnormais na avaliação do líquido\namniótico pelos dois principais\nmétodos ultrassonográficos?",
+          "verso": "• Maior bolsão: entre 2 cm e 8 cm;\n• Índice de líquido amniótico (ILA):\nentre 5 cm e 25 cm.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "As condições abaixo são causa de polidrâmnio\nou de oligoâmnio?\n• Síndrome de Potter\n• Infecções fetais (citomegalovírus,\ntoxoplasmose, parvovírus B19 ou sífilis)\n• Rotura prematura de membranas",
+          "verso": "• Síndrome de Potter: oligoâmnio;\n• Infecções fetais: polidrâmnio;\n• Rotura prematura de membranas:\noligoâmnio.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "As condições abaixo são causa de polidrâmnio\nou de oligoâmnio?\n• Pós-datismo\n• Aloimunização\n• Insuficiência placentária.",
+          "verso": "• Pós-datismo: oligoâmnio;\n• Aloimunização: polidrâmnio;\n• Insuficiência placentária:\noligoâmnio.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "As condições abaixo são causa de polidrâmnio\nou de oligoâmnio?\n• Anemia fetal\n• Uso de AINES na gestação\n• Anencefalia",
+          "verso": "Anemia fetal: oligoâmnio;\nUso de AINES na gestação:\noligoâmnio;\nAnencefalia: polidrâmnio.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "As condições abaixo são causa de polidrâmnio\nou de oligoâmnio?\n• Agenesia renal\n• Atresia de esôfago\n• Diabetes gestacional",
+          "verso": "Agenesia renal: oligoâmnio;\nAtresia de esôfago: polidrâmnio;\nDiabetes gestacional: polidrâmnio.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Qual é a causa mais comum de\noligoâmnio?",
+          "verso": "Rotura prematura de membranas.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Quando se indica a resolução da\ngestação nos casos de oligoâmnio\nidiopático de acordo com o índice\nde líquido amniótico (ILA)?",
+          "verso": "• ILA entre 3 cm e 5 cm: resolução\na partir de 37 semanas;\n• ILA ≤ 3 cm: resolução a partir de\n34 semanas.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Qual é a principal causa\nidentificável de polidrâmnio?",
+          "verso": "Diabetes materno.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Quais são as 4 infecções fetais\nassociadas ao polidrâmnio?",
+          "verso": "• Parvovírus B19;\n• Citomegalovírus;\n• Toxoplasmose;\n• Sífilis.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Quais são os dois tratamentos a serem\nconsiderados para as gestantes com\npolidrâmnio sintomático sem indicação\nde resolução da gestação?",
+          "verso": "1. Amniorredução; ou\n2. Indometacina se idade\ngestacional < 32 semanas.\nAlterações do Líquido Amniótico"
+        },
+        {
+          "frente": "Qual é o principal efeito colateral fetal\nda indometacina quando usada por\ngestantes?",
+          "verso": "Fechamento precoce do ducto\narterioso fetal.\nAlterações do Líquido Amniótico"
+        }
+      ]
+    },
+    {
+      "id": "obste-assistencia-ao-parto",
+      "tema": "Obstetrícia",
+      "subarea": "Assistência ao Parto",
+      "cards": [
+        {
+          "frente": "O que indica que a gestante está\nem trabalho de parto?",
+          "verso": "Presença de contrações rítmicas\n(pelo menos duas em 10 min)\nque causam mudança no colo\nuterino (dilatação e esvaecimento\ncervical)."
+        },
+        {
+          "frente": "Que sorologias devem ser\nsolicitadas para todas as gestantes\nna admissão do parto?",
+          "verso": "Sorologia de HIV e sífilis."
+        },
+        {
+          "frente": "Quais são os quatro períodos\nclínicos do parto?",
+          "verso": "Dilatação, expulsão, dequitação e\nperíodo de Greenberg."
+        },
+        {
+          "frente": "Quando se inicia a fase ativa do\ntrabalho de parto?",
+          "verso": "Quando há contrações e dilatação\ncervical acima de 5 cm."
+        },
+        {
+          "frente": "Como deve ser a monitorização\nfetal de uma gestante de risco\nhabitual em trabalho de parto?",
+          "verso": "Pela ausculta fetal intermitente\ncom sonar Doppler."
+        },
+        {
+          "frente": "Qual deve ser o intervalo de tempo\nda monitorização cardíaca fetal na\nfase ativa do trabalho de parto?",
+          "verso": "30 minutos."
+        },
+        {
+          "frente": "Como deve ser o registo da\nevolução do trabalho de parto?",
+          "verso": "Pelo preenchimento do\npartograma."
+        },
+        {
+          "frente": "Qual deve ser a posição da\ngestante durante o trabalho de\nparto?",
+          "verso": "A posição durante o trabalho de\nparto deve ser de escolha\nda gestante."
+        },
+        {
+          "frente": "Que procedimentos não devem ser\nrealizados de rotina durante a fase\nativa do trabalho de parto?",
+          "verso": "Tricotomia, enema,\ncardiotocografia, pelvimetria\nclínica, amniotomia, ocitocina,\nacesso venoso."
+        },
+        {
+          "frente": "Quando se inicia o período\nexpulsivo?",
+          "verso": "Após a dilatação total do colo\nuterino."
+        },
+        {
+          "frente": "Qual é a duração do período\nexpulsivo em primíparas?",
+          "verso": "3 horas sem analgesia e 4 horas\ncom analgesia."
+        },
+        {
+          "frente": "Qual é a duração do período\nexpulsivo em multíparas?",
+          "verso": "2 horas sem analgesia e 3 horas\ncom analgesia."
+        },
+        {
+          "frente": "Como deve ser feita a\nmonitorização da vitalidade fetal\nno período expulsivo?",
+          "verso": "Avaliação intermitente dos\nbatimentos cardíacos fetais a cada\n5-10 minutos."
+        },
+        {
+          "frente": "Que procedimentos não devem\nser realizados de rotina no período\nexpulsivo?",
+          "verso": "Episiotomia e manobra de\nKristeller."
+        },
+        {
+          "frente": "Como é chamada a manobra de empurrar\no fundo uterino durante o período\nexpulsivo para ajudar no desprendimento\ndo polo cefálico e que está proibida na",
+          "verso": "Manobra de Kristeller."
+        },
+        {
+          "frente": "Qual é a definição de terceiro\nperíodo do parto?",
+          "verso": "Período que vai do nascimento\ndo concepto até a expulsão da\nplacenta."
+        },
+        {
+          "frente": "Qual é a principal conduta que\ndeve ser feita de rotina no terceiro\nperíodo do parto?",
+          "verso": "Ocitocina intramuscular 10 UI."
+        },
+        {
+          "frente": "Que medidas fazem parto\ndo manejo ativo do terceiro\nperíodo para diminuir o risco de\nhemorragia pós-parto?",
+          "verso": "Ocitocina 10 UI intramuscular\ne tração controlada do cordão\numbilical."
+        },
+        {
+          "frente": "Quando é feito o diagnóstico de\nretenção placentária?",
+          "verso": "Quando não ocorre a dequitação\nda placenta após 30 min do\nnascimento do concepto."
+        },
+        {
+          "frente": "Qual é a conduta diante de\nretenção placentária?",
+          "verso": "Extração manual da placenta,\nseguida de curagem uterina."
+        },
+        {
+          "frente": "Qual é o grau da laceração quando\na laceração perineal atinge o\nesfíncter externo do ânus?",
+          "verso": "Terceiro grau."
+        },
+        {
+          "frente": "Qual é o tempo mínimo que se\ndeve esperar para o clampeamento\ndo cordão umbilical?",
+          "verso": "1 minuto."
+        },
+        {
+          "frente": "Qual é a definição do quarto\nperíodo do trabalho de parto?",
+          "verso": "Período correspondente\nà primeira hora após a dequitação\nda placenta."
+        },
+        {
+          "frente": "Qual é a principal complicação do\nquarto período do parto?",
+          "verso": "Hemorragia pós-parto."
+        },
+        {
+          "frente": "Qual é a definição de puerpério?",
+          "verso": "Período que vai do nascimento\ndo concepto até a involução\ndas alterações fisiológicas e\nanatômicas da gravidez, durando\nem torno de 6 a 8 semanas."
+        },
+        {
+          "frente": "Quais são os tipos de loquiações?",
+          "verso": "Rubra, fusca, flava e alba.",
+          "img_verso": [
+            "data/flashcards-img/4.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o método padrão-ouro de\nalívio da dor no parto?",
+          "verso": "Bloqueio regional - raquianestesia,\nperidural ou duplo bloqueio."
+        },
+        {
+          "frente": "Qual é o ponto de referência\nutilizado para a realização do\nbloqueio de pudendo?",
+          "verso": "Espinhas isquiáticas."
+        },
+        {
+          "frente": "Qual é a conduta diante de um\nprolapso de cordão umbilical?",
+          "verso": "Elevação da apresentação fetal e\ncesariana de emergência."
+        },
+        {
+          "frente": "Em que período do parto ocorre a\ndistocia de biacromial (ombro)?",
+          "verso": "Período expulsivo."
+        }
+      ]
+    },
+    {
+      "id": "obste-bacia-obstetrica-pelvimetria-e-estatica-fetal",
+      "tema": "Obstetrícia",
+      "subarea": "Bacia Obstétrica, Pelvimetria e Estática Fetal",
+      "cards": [
+        {
+          "frente": "Qual é o espaço mínimo no\nestreito superior da bacia\nobstétrica à disposição para\npassagem do feto?",
+          "verso": "Conjugata\nobstétrica.",
+          "img_verso": [
+            "data/flashcards-img/42.jpeg"
+          ]
+        },
+        {
+          "frente": "Como se traça a conjugata vera\nanatômica?",
+          "verso": "Medida do\npromontório até\na borda superior\nda sínfise\npúbica.",
+          "img_verso": [
+            "data/flashcards-img/24.jpeg"
+          ]
+        },
+        {
+          "frente": "Que conclusão podemos\nobter sobre a bacia\nda mulher quando\nnão alcançamos o\npromontório no toque\nvaginal?",
+          "verso": "Diâmetro anteroposterior amplo\n(estreito superior favorável à\npassagem fetal).",
+          "img_frente": [
+            "data/flashcards-img/72.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o diâmetro mais estreito\ndo trajeto do parto?",
+          "verso": "Diâmetro bi-\nisquiático (no\nestreito médio).",
+          "img_verso": [
+            "data/flashcards-img/126.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a referência anatômica\ndo plano zero de De Lee?",
+          "verso": "Nível das\nespinhas\nisquiáticas.",
+          "img_verso": [
+            "data/flashcards-img/150.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tipo de bacia com\nmelhor prognóstico para o parto\nvaginal?",
+          "verso": "Bacia\nginecoide.",
+          "img_verso": [
+            "data/flashcards-img/9.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tipo de bacia com o\npior prognóstico para parto\nvaginal?",
+          "verso": "Bacia\nandroide.",
+          "img_verso": [
+            "data/flashcards-img/8.jpeg"
+          ]
+        },
+        {
+          "frente": "Que tipo de bacia tem o melhor\nprognóstico para o parto vaginal\nse a insinuação for no diâmetro\ntransverso?",
+          "verso": "Bacia\nplatipeloide.",
+          "img_verso": [
+            "data/flashcards-img/19.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tipo de bacia com\ndiâmetro anteroposterior maior\nque o transverso?",
+          "verso": "Bacia\nantropoide.",
+          "img_verso": [
+            "data/flashcards-img/22.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são os quatro tipos de\nbacias obstétricas?",
+          "verso": "Ginecoide, androide,\nantropoide e platipeloide."
+        },
+        {
+          "frente": "Qual é a bacia mais apropriada\npara as variedades de posição\nocciptopúbica ou occiptossacra?",
+          "verso": "Bacia\nantropoide\n(diâmetro\nanteroposterior\nmaior).",
+          "img_verso": [
+            "data/flashcards-img/101.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a bacia mais apropriada\npara as variedades de posições\nocciptotransversas direita ou\nesquerda?",
+          "verso": "Bacia platipeloide\n(diâmetro\ntransverso maior).",
+          "img_verso": [
+            "data/flashcards-img/147.jpeg"
+          ]
+        },
+        {
+          "frente": "Que equação relaciona a\nconjugata diagonalis com a\nconjugata vera obstétrica?",
+          "verso": "Conjugata\nobstétrica\n= conjugata\ndiagonalis -\n1,5 (relação de\nSmellie).",
+          "img_verso": [
+            "data/flashcards-img/23.jpeg"
+          ]
+        },
+        {
+          "frente": "O que está\nsendo avaliado\nna imagem?",
+          "verso": "Medida da conjugata diagonalis.\nCom essa medida, obtemos a\nconjugata obstétrica = conjugata\ndiagonalis - 1,5.",
+          "img_frente": [
+            "data/flashcards-img/11.jpeg"
+          ]
+        },
+        {
+          "frente": "O que está\nsendo avaliado\nna imagem\ne qual é a\nutilidade clínica?",
+          "verso": "Espinhas isquiáticas proeminentes\nsugerem prognóstico ruim para o\nparto vaginal. Espinhas apagadas\nou não palpáveis sugerem bom\nprognóstico.",
+          "img_frente": [
+            "data/flashcards-img/50.jpeg"
+          ]
+        },
+        {
+          "frente": "O que está\nsendo avaliado\nna imagem\ne qual é a\nutilidade clínica?",
+          "verso": "Ângulo subpúbico > 90º é considerado\npropício para o parto vaginal.\nA: ângulo maior, logo permite passagem do feto mais facilmente.\nFlashcard",
+          "img_frente": [
+            "data/flashcards-img/56.jpeg"
+          ],
+          "img_verso": [
+            "data/flashcards-img/16.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é atitude fetal?",
+          "verso": "É a relação\ndas partes\nfetais entre si\n(usualmente\nflexão\ngeneralizada).",
+          "img_verso": [
+            "data/flashcards-img/151.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é situação na estática\nfetal?",
+          "verso": "É a relação entre\nos maiores eixos\ndo feto e do\nútero.",
+          "img_verso": [
+            "data/flashcards-img/57.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as variações possíveis\nda situação fetal?",
+          "verso": "Longitudinal,\ntransversal ou\noblíqua.",
+          "img_verso": [
+            "data/flashcards-img/110.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a situação fetal mais\ncomum?",
+          "verso": "Longitudinal\n(maior eixo fetal\ncoincide com\no maior eixo\nuterino).",
+          "img_verso": [
+            "data/flashcards-img/143.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é a posição na estática\nfetal?",
+          "verso": "Relação do dorso fetal com o corpo\nmaterno.\nFonte: feto com dorso à esquerda da mãe.",
+          "img_verso": [
+            "data/flashcards-img/122.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é apresentação fetal?",
+          "verso": "Parte do feto que irá se insinuar pelo\nestreito superior da bacia materna.",
+          "img_verso": [
+            "data/flashcards-img/55.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as possíveis\napresentações fetais?",
+          "verso": "Cefálica, pélvica ou córmica.",
+          "img_verso": [
+            "data/flashcards-img/99.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a apresentação fetal mais\nfrequente no parto a termo?",
+          "verso": "Apresentação cefálica.",
+          "img_verso": [
+            "data/flashcards-img/38.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tipo de apresentação\npélvica dos fetos da imagem?",
+          "verso": "• Feto 1: pélvica\ncompleta;\n• Feto 2: incompleta de\nnádegas (ou agripina);\n• Feto 3: modo de pés\n(incompleta).",
+          "img_frente": [
+            "data/flashcards-img/17.jpeg"
+          ],
+          "img_verso": [
+            "data/flashcards-img/17.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a\nvariedade de\napresentação\ndos fetos da\nimagem?",
+          "verso": "• Feto 1: cefálica fletida (de vértice);\n• Feto 2: cefálica defletida de 1º grau\n(bregmática);\n• Feto 3: cefálica defletida de 2º grau (de\nfronte);\nFeto 4: cefálica defletida de 3º grau (de face).",
+          "img_frente": [
+            "data/flashcards-img/44.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o ponto de referência\nda apresentação fetal cefálica\nfletida?",
+          "verso": "Lambda.",
+          "img_verso": [
+            "data/flashcards-img/130.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o ponto de referência\nda apresentação fetal cefálica\ndefletida de 1º grau?",
+          "verso": "Bregma.",
+          "img_verso": [
+            "data/flashcards-img/98.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o ponto de referência\nda apresentação fetal cefálica\ndefletida de 2º grau?",
+          "verso": "Naso.",
+          "img_verso": [
+            "data/flashcards-img/109.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o ponto de referência\nda apresentação fetal cefálica\ndefletida de 3º grau?",
+          "verso": "Mento.",
+          "img_verso": [
+            "data/flashcards-img/28.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é variedade de posição?",
+          "verso": "Relação entre o\nponto de referência\nda apresentação\nfetal e o ponto de\nreferência da bacia\nóssea materna.\nFonte: variedades de posição da apresentação\ncefálica fletida.",
+          "img_verso": [
+            "data/flashcards-img/102.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a\nvariedade de\nposição?",
+          "verso": "Occipto direita posterior (ODP).",
+          "img_frente": [
+            "data/flashcards-img/12.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a\nvariedade de\nposição?",
+          "verso": "Occiptopúbica (OP).",
+          "img_frente": [
+            "data/flashcards-img/29.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a\nvariedade de\nposição?",
+          "verso": "Occipto esquerda transversa.",
+          "img_frente": [
+            "data/flashcards-img/100.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a\nvariedade de\nposição?",
+          "verso": "Occiptossacra (OS).",
+          "img_frente": [
+            "data/flashcards-img/26.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o menor diâmetro\nanteroposterior do polo cefálico\nfetal?",
+          "verso": "Diâmetro suboccipitobregmático\n(cerca de 9,5 cm).",
+          "img_verso": [
+            "data/flashcards-img/155.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o maior diâmetro\nanteroposterior do polo cefálico\nfetal?",
+          "verso": "Diâmetro occipitomentoniano\n(cerca de 13 cm).",
+          "img_verso": [
+            "data/flashcards-img/65.jpeg"
+          ]
+        },
+        {
+          "frente": "Nomeie as suturas cranianas\ndesignadas na imagem.",
+          "verso": "1. Sutura metópica;\n2. Sutura coronal;\n3. Sutura sagital;\n4. Sutura temporal;\n5. Sutura\nlambdoide.",
+          "img_frente": [
+            "data/flashcards-img/74.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obste-diabetes-mellitus-na-gestacao",
+      "tema": "Obstetrícia",
+      "subarea": "Diabetes Mellitus na Gestação",
+      "cards": [
+        {
+          "frente": "Como se classifica o diabetes\nmellitus na gestação?",
+          "verso": "• Diabetes diagnosticado previamente à\ngestação;\n• Diabetes gestacional; e\n• Diabetes prévio diagnosticado na gestação.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "As pacientes com diabetes na\ngestação devem ser acompanhadas\nno pré-natal de baixo risco ou de\nalto risco?",
+          "verso": "Alto risco independentemente do tipo\nde diabetes.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o principal mecanismo\nresponsável pelo surgimento da\ndiabetes gestacional?",
+          "verso": "Aumento da secreção placentária de\nhormônios diabetogênicos.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o exame com a maior\nacurácia para o diagnóstico de\ndiabetes gestacional?",
+          "verso": "Teste oral de tolerância à glicose\n(TOTG) com 75g de glicose.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quais são as gestantes com\nindicação para rastreio de diabetes\nna gestação?",
+          "verso": "Todas as gestantes devem ser\nrastreadas.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é a sequência de exames de\nrastreio para diabetes de acordo\ncom a idade gestacional quando há\ncondição financeira/técnica ideal?",
+          "verso": "1. Realizar glicemia de jejum até a\n20ª semana;\n2. Se o resultado for normal, realizar\nTOTG 75g entre 24 e 28 semanas.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é a sequência de exames de\nrastreio para diabetes de acordo\ncom a idade gestacional quando há\ncondição financeira/técnica parcial?",
+          "verso": "1. Realizar glicemia de jejum no início do\npré-natal;\n2. Se o resultado for normal, repetir a\nglicemia de jejum entre 24 e 28 semanas.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quais são as interpretações possíveis\nda glicemia de jejum colhida até a\n20ª semana de gestação de acordo\ncom seus valores?",
+          "verso": "• Glicemia < 92 mg/dL: normal;\n• Glicemia entre 92 e 125 mg/dL: diabetes\ngestacional;\n• Glicemia ≥ 126 mg/dL: diabetes prévio\ndiagnosticado na gestação (overt\ndiabetes).\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quais são os resultados do TOTG 75g\nconsiderados normais?",
+          "verso": "• Jejum: < 92 mg/dL;\n• 1ª hora: < 180 mg/dL;\n• 2ª hora: < 153 mg/dL.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quais são os resultados do TOTG\n75g compatíveis com diabetes\ngestacional?",
+          "verso": "• Jejum: 92-125 mg/dL;\n• 1ª hora: ≥ 180 mg/dL;\n• 2ª hora: 153-199 mg/dL.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quais são os resultados do TOTG\n75g compatíveis com diabetes prévio\ndiagnosticado na gestação?",
+          "verso": "• Jejum ≥ 126 mg/dL;\n• 2ª hora ≥ 200 mg/dL.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 12 semanas traz, na\nprimeira consulta, glicemia de jejum\n= 91 mg/dL.",
+          "verso": "Exame normal (< 92 mg/dL).\nObs: realizar o TOTG 75g entre\n24 e 28 semanas.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 12 semanas traz, na\nprimeira consulta, glicemia de jejum\n= 92 mg/dL.",
+          "verso": "Diabetes gestacional (92-125 mg/dL).\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 12 semanas traz, na\nprimeira consulta, glicemia de jejum\n= 126 mg/dL.",
+          "verso": "Diabetes prévio diagnosticado na\ngestação (≥ 126 mg/dL).\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 26 semanas traz TOTG 75g com os\nseguintes resultados:\n• Jejum = 91 mg/dL;\n• 1ª hora = 181 mg/dL;\n• 2ª hora = 147 mg/dL.",
+          "verso": "Diabetes gestacional.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 26 semanas traz TOTG 75g com os\nseguintes resultados:\n• Jejum = 84 mg/dL;\n• 1ª hora = 178 mg/dL;\n• 2ª hora = 201 mg/dL.",
+          "verso": "Diabetes prévio diagnosticado na\ngestação.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 26 semanas traz TOTG 75g com os\nseguintes resultados:\n• Jejum = 127 mg/dL;\n• 1ª hora = 174 mg/dL;\n• 2ª hora = 141 mg/dL.",
+          "verso": "Diabetes prévio diagnosticado na\ngestação.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 26 semanas traz TOTG 75g com os\nseguintes resultados:\n• Jejum = 78 mg/dL;\n• 1ª hora = 177 mg/dL;\n• 2ª hora = 152 mg/dL.",
+          "verso": "Exame normal.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante com diabetes gestacional em uso\nde insulina e bom controle glicêmico até\na 34ª semana, mas começa a apresentar\nhipoglicemia repetidamente.",
+          "verso": "Insuficiência placentária.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quais são as metas glicêmicas\npara as pacientes com diabetes na\ngestação?",
+          "verso": "• Jejum e pré-prandial < 95 mg/dL;\n• 1 hora pós-prandial < 140 mg/dL;\n• 2 horas pós-prandial < 120 mg/dL.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é a frequência mínima ideal\npara monitorização da glicemia nas\ngestantes diabéticas?",
+          "verso": "• Em tratamento farmacológico: 6 vezes/dia\n(antes e depois de cada refeição principal);\n• Em tratamento não farmacológico: 4 vezes/\ndia (jejum e após cada refeição principal).\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quando devemos iniciar insulina na\npaciente com diabetes gestacional\nem tratamento não farmacológico?",
+          "verso": "• Duas ou mais medidas de glicemia\nfora do alvo em 7 a 14 dias;\n• Evidência de hiperinsulinemia\nfetal na USG entre 29-33 semanas:\ncircunferência abdominal\nfetal > 75º percentil.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o tratamento inicial da\ndiabetes gestacional?",
+          "verso": "Não\nfarmacológico:\ndieta + atividade\nfísica +\nmonitorização\nglicêmica.\nDiabetes na Gestação",
+          "img_verso": [
+            "data/flashcards-img/46.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tratamento da diabetes\ngestacional caso não ocorra controle\nglicêmico com exercício físico e\ndieta?",
+          "verso": "Insulinoterapia.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o fármaco de escolha para o\ntratamento de diabetes na gestação?",
+          "verso": "Insulina.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quais são as três principais situações\nem que se indica insulinoterapia\nem pacientes com diabetes na\ngestação?",
+          "verso": "• Toda gestante diagnosticada antes da gestação;\n• Toda gestante com diabetes prévio\ndiagnosticado na gestação;\n• Diabetes gestacional refratária ao tratamento\nnão farmacológico.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o momento indicado para\na interrupção da gestação de\npacientes diabéticas em tratamento\nfarmacológico?",
+          "verso": "• Controle glicêmico adequado: entre\n39 semanas e 39 semanas + 6 dias;\n• Controle glicêmico inadequado:\nentre 37 semanas e 38 semanas + 6 dias.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o momento indicado para a\ninterrupção da gestação de pacientes\ndiabéticas com bom controle\nglicêmico não farmacológico?",
+          "verso": "Entre 39 semanas e 40 semanas +\n6 dias.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o tratamento da hipoglicemia\nem gestantes alertas?",
+          "verso": "15-20g de carboidrato de absorção\nrápida via oral.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o tratamento da hipoglicemia\npara gestantes com rebaixamento do\nnível de consciência e acesso venoso\ninstalado?",
+          "verso": "25mL de glicose 50%.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Quais são os três distúrbios\nmetabólicos mais comuns nos\nneonatos de mães com diabetes na\ngestação?",
+          "verso": "Hipoglicemia, hipocalcemia e\nhiperbilirrubinemia.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é o período em que a\nhiperglicemia materna causa maior\nrisco de malformações fetais?",
+          "verso": "Durante as 10 primeiras semanas de\ngestação (HbA1c > 6%).\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é a principal complicação fetal\nda diabetes gestacional durante o\ntrabalho de parto normal?",
+          "verso": "A macrossomia aumenta o risco de\ndistocia de ombro e tocotraumatismo.\nDiabetes na Gestação\nSinal da tartaruga\n(distocia de ombro).",
+          "img_verso": [
+            "data/flashcards-img/121.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as recomendações da\ndieta, o tratamento hipoglicemiante e\no controle glicêmico no pós-parto de\nmulheres com diabetes gestacional?",
+          "verso": "Dieta geral, suspender a insulina e\nsuspender o controle glicêmico.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é a conduta ideal no pós-parto\npara reclassificação da paciente com\ndiabetes gestacional?",
+          "verso": "Realizar TOTG 75g após 6 semanas\ndo parto.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Cite as duas principais situações\nem que a metformina poderia ser\nindicada na diabetes gestacional?",
+          "verso": "• Falta de adesão ou de acesso à insulina;\n• Nas gestantes com altas doses de\ninsulina (> 2 UI/kg/dia de insulina) e sem\ncontrole glicêmico adequado ou com\nganho de peso fetal/materno excessivos.\nDiabetes na Gestação"
+        },
+        {
+          "frente": "Qual é a medicação indicada para\nmulheres com DM1 ou DM2 pré-\ngestacional com o objetivo de\nreduzir o risco de pré-eclâmpsia?",
+          "verso": "AAS 100 mg/dia, iniciado entre 12 e 20\nsemanas, preferencialmente antes da\n16ª semana, até o final da gestação.\nDiabetes na Gestação"
+        }
+      ]
+    },
+    {
+      "id": "obste-gestacao-multipla",
+      "tema": "Obstetrícia",
+      "subarea": "Gestação Múltipla",
+      "cards": [
+        {
+          "frente": "Qual é a diferença entre\nas gestações dizigótica e\nmonozigótica?",
+          "verso": "• Dizigótica: dois óvulos\nsão fecundados por dois\nespermatozóides;\n• Monozigótica: um óvulo é\nfecundado por um espermatozóide."
+        },
+        {
+          "frente": "O que é mais comum,\ngestação dizigótica ou\nmonozigótica?",
+          "verso": "Dizigótica (70%) > monozigótica\n(30%)."
+        },
+        {
+          "frente": "Qual é o tipo de gestação\ngemelar que aumenta com\na idade e qual é o que não\nsofre esta influência?",
+          "verso": "• Gestação dizigótica: aumenta com\na idade;\n• Gestação monozigótica:\nrelativamente constante com o\naumento da idade."
+        },
+        {
+          "frente": "Qual é a combinação de zigotia,\ncorionicidade e amnionicidade\nimpossível de ocorrer nas gestações\nmúltiplas?",
+          "verso": "Gestação monozigótica, dicoriônica\ne monoamniótica."
+        },
+        {
+          "frente": "Quais são a corionicidade e a\namnionicidade da gestação gemelar\ndizigótica?",
+          "verso": "Sempre dicoriônica e\ndiamniótica.",
+          "img_verso": [
+            "data/flashcards-img/86.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a\ncorionicidade e a\namnionicidade da\ngestação múltipla\nao lado?",
+          "verso": "Dicoriônica e diamniótica.",
+          "img_frente": [
+            "data/flashcards-img/144.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a\ncorionicidade e a\namnionicidade da\ngestação múltipla\nao lado?",
+          "verso": "Monocoriônica e diamniótica.",
+          "img_frente": [
+            "data/flashcards-img/117.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a\ncorionicidade e a\namnionicidade da\ngestação múltipla\nao lado?",
+          "verso": "Monocoriônica e monoamniótica.",
+          "img_frente": [
+            "data/flashcards-img/87.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a zigotia, a corionicidade\ne a amnionicidade quando os fetos\nsão de sexos diferentes?",
+          "verso": "Gestação dizigótica,\ndicoriônica e\ndiamniótica.",
+          "img_verso": [
+            "data/flashcards-img/41.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a corionicidade e a\namnionicidade das gestações\nmonozigóticas quando a clivagem\ndo zigoto ocorre a < 72h da\nfertilização?",
+          "verso": "Dicoriônica e\ndiamniótica.",
+          "img_verso": [
+            "data/flashcards-img/149.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a corionicidade e a\namnionicidade das gestações\nmonozigóticas quando a clivagem\ndo zigoto ocorre entre o 4º e o 8º\ndia após afertilização?",
+          "verso": "Monocoriônica e\ndiamniótica.",
+          "img_verso": [
+            "data/flashcards-img/73.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a corionicidade e a\namnionicidade das gestações\nmonozigóticas quando a clivagem\ndo zigoto ocorre entre o 8º e o 13º\ndia após afertilização?",
+          "verso": "Monocoriônica e\nmonoamniótica.",
+          "img_verso": [
+            "data/flashcards-img/45.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a corionicidade e a\namnionicidade das gestações\nmonozigóticas quando a clivagem\ndo zigoto ocorre entre o 14º e o 17º\ndia após afertilização?",
+          "verso": "Monocoriônica e\nmonoamniótica com\nembriões coligados.",
+          "img_verso": [
+            "data/flashcards-img/96.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o nome\ndeste sinal na USG\nobstétrico do 1º\ntrimestre e qual é o\nseu significado?",
+          "verso": "Sinal do lambda. Indica gestação gemelar\ndicoriônica e diamniótica.",
+          "img_frente": [
+            "data/flashcards-img/15.jpeg"
+          ],
+          "img_verso": [
+            "data/flashcards-img/92.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o nome\ndeste sinal do USG\nobstétrico do 1º\ntrimestre e qual é o\nseu significado?",
+          "verso": "Sinal do T. Indica gestação gemelar\nmonocoriônica e diamniótica.",
+          "img_frente": [
+            "data/flashcards-img/115.jpeg"
+          ],
+          "img_verso": [
+            "data/flashcards-img/85.jpeg"
+          ]
+        },
+        {
+          "frente": "Classifique as\necografias obstétricas\nde gemelares abaixo\nde acordo com sua\ncorionicidade (idade\ngestacional = 6\nsemanas).",
+          "verso": "A: dicoriônica;\nB: monocoriônica.",
+          "img_frente": [
+            "data/flashcards-img/111.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o método mais fidedigno\npara datar gestações múltiplas?",
+          "verso": "Comprimento cabeça-nádega do\nmaior feto na USG de primeiro\ntrimestre."
+        },
+        {
+          "frente": "Qual é a complicação mais comum\nnas gestações gemelares?",
+          "verso": "Prematuridade."
+        },
+        {
+          "frente": "Cite, pelo menos, duas\ncomplicações exclusivas\ndas gestações gemelares\nmonocoriônicas.",
+          "verso": "• Síndrome da transfusão feto-fetal;\n• Sequência anemia-policitemia;\n• Sequência TRAP (gêmeo\nacárdico);\n• Enovelamento de cordões; ou\n• Gêmeos conjugados."
+        },
+        {
+          "frente": "Diagnóstico provável: gestante de 29\nsemanas apresenta feto 1 com peso =\n700g (percentil 8) e feto 2 com peso\n= 1300g sem alterações na USGcom\nDoppler.",
+          "verso": "Restrição de crescimento fetal\nseletiva."
+        },
+        {
+          "frente": "Quais são a corionicidade e a\namnionicidade na síndrome da\ntransfusão feto-fetal?",
+          "verso": "Gestação\nmonocoriônica e\ndiamniótica.",
+          "img_verso": [
+            "data/flashcards-img/54.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a fisiopatologia da síndrome\nda transfusão feto-fetal?",
+          "verso": "Transferência de sangue de um feto doador para um\nfeto receptor através de anastomoses arteriovenosas\nem gestação monocoriônica e diamniótica.",
+          "img_verso": [
+            "data/flashcards-img/84.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as anastomoses vasculares\npresentes nas síndromes de transfusão\nfeto-fetal e no gêmeo acárdico?",
+          "verso": "• Síndrome de transfusão feto-fetal:\nanastomose arteriovenosa;\n• Gêmeo acárdico: anastomose\narterioarterial."
+        },
+        {
+          "frente": "Diagnóstico provável: gestante de 26\nsemanas (monocoriônica e diamniótica)\ncom ecografia evidenciando\npolidrâmnio no feto 1, bexiga cheia e\noligoâmnio no feto 2 sem visualização\nda bexiga.",
+          "verso": "Síndrome de transfusão feto-fetal.",
+          "img_verso": [
+            "data/flashcards-img/139.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o\nprincipal\ntratamento da\nsíndrome da\ntransfusão feto-\nfetal?",
+          "verso": "Coagulação a laser das\nanastomoses arteriovenosas por\nfetoscopia.",
+          "img_frente": [
+            "data/flashcards-img/118.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o distúrbio característico\nde cada um dos fetos na sequência\nanemia-policitemia?",
+          "verso": "• Feto doador: anemia;\n• Feto receptor: policitemia.",
+          "img_verso": [
+            "data/flashcards-img/129.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o exame indicado para o\ndiagnóstico da sequência anemia-\npolicitemia em gemelares?",
+          "verso": "Velocidade de pico sistólica da\nartéria cerebral média de ambos\nos fetos (indica anemia/policitemia\nfetal)."
+        },
+        {
+          "frente": "Diagnóstico provável: gestação gemelar\nmonocoriônica e diamniótica com\nfeto 1 normal, enquanto o feto 2 não\napresenta coração funcional.",
+          "verso": "Perfusão arterial reversa (sequência TRAP)\nem que um dos gêmeos é acárdico.",
+          "img_verso": [
+            "data/flashcards-img/97.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a corionicidade e a\namnionicidade na gemelaridade\nimperfeita?",
+          "verso": "Monocoriônica e\nmonoamniótica.",
+          "img_verso": [
+            "data/flashcards-img/68.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a via de parto e a conduta\nindicadas para gestação gemelar com o\nfeto 1 cefálico e o feto 2 transverso?",
+          "verso": "Parto vaginal. O segundo feto recebe versão\nfetal interna e extração pélvica.\nLegenda: versão fetal interna.",
+          "img_verso": [
+            "data/flashcards-img/136.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as orientações gerais sobre o\nmomento de resolução das gestações\ngemelares?",
+          "verso": "• Dicoriônicas: no termo;\n• Monocoriônicas/diamnióticas:\nentre 36 e 38 semanas; e\n• Monocoriônicas/monoamnióticas:\n< 34 semanas.\n• Há variação na literatura."
+        },
+        {
+          "frente": "Quais são as três principais indicações\nde parto cesárea nas gestações\ngemelares?",
+          "verso": "• Primeiro gemelar não cefálico;\n• Peso do 1º gemelar mais de 500g\nmenor que o do 2º;\n• Peso dos fetos < 1.500g."
+        }
+      ]
+    },
+    {
+      "id": "obste-hpp-hemorragia-pos-parto",
+      "tema": "Obstetrícia",
+      "subarea": "HPP - Hemorragia Pós-Parto",
+      "cards": [
+        {
+          "frente": "Qual é a definição de hemorragia\npós-parto?",
+          "verso": "Perda sanguínea ≥ 500 mL no parto normal\nou ≥ 1.000 mL na cesárea nas primeiras\n24h ou qualquer perda sanguínea que\nresulte em instabilidade hemodinâmica.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Qual é a classificação de\nhemorragia pós-parto de acordo\ncom seu momento de início?",
+          "verso": "• Primária: início < 24h após o parto;\n• Secundária: início entre 24h e 6\nsemanas após o parto.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Quais são as 3 principais causas de\nmorte materna no Brasil?",
+          "verso": "1. Síndromes hipertensivas na gestação;\n2. Hemorragia pós-parto;\n3. Infecção puerperal.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Quais são as 4 causas mais comuns\nde hemorragia pós-parto em ordem\ndecrescente?",
+          "verso": "1. Tônus (p. ex. atonia uterina);\n2. Trauma (p. ex. laceração,\ninversão e rotura uterina);\n3. Tecido (p. ex. acretismo\ne retenção de restos\nplacentários);\n4. Trombina (p. ex.\ncoagulopatias e\nanticoagulantes).\nHemorragia Pós-Parto",
+          "img_verso": [
+            "data/flashcards-img/79.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as 3 causas mais\ncomuns de hemorrágia pós-parto\nsecundária?",
+          "verso": "1. Retenção de restos placentários;\n2. Subinvolução do leito placentário;\n3. Infecção puerperal (endometrite).\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Cite, pelo menos, 2 fatores de\nrisco importantes para hemorragia\npós-parto.",
+          "verso": "1. Retenção placentária;\n2. Falha de progressão do 2º período do trabalho de parto;\n3. Acretismo placentário;\n4. Lacerações;\n5. Parto vaginal operatório;\n6. Feto macrossômico;\n7. Distúrbios hipertensivos;\n8. Parto induzido.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Diagnóstico provável:\npuérpera, cesariana há 6 horas, evolui\ncom sangramento vaginal significativo,\ntaquicardia, hipotensão, útero acima da\ncicatriz umbilical e amolecido.",
+          "verso": "Hemorragia pós-parto por atonia\nuterina.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Diagnóstico provável:\nmulher teve um parto taquitócito há\nalgumas horas e evolui com sangramento\nvaginal aumentado. Útero está contraído\nabaixo da cicatriz umbilical.",
+          "verso": "Hemorragia pós-parto por laceração\ndo trajeto.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 37 semanas, G3P2C2, inicia\ncontrações e evolui com dor abdominal\nsúbita, sangramento vaginal, hipotensão,\ntaquicardia e batimentos fetais não audíveis.",
+          "verso": "Rotura uterina.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Diagnóstico provável:\npuérpera evolui com sangramento vaginal\nmoderado, taquicardia e hipotensão. Útero\nestá contraído abaixo da cicatriz umbilical,\nsem lesões no canal de parto.",
+          "verso": "Hemorragia pós-parto por retenção\nde tecido placentário.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Diagnóstico provável:\npuérpera evolui com hemorragia\npós-parto maciça e choque hipovolêmico.\nNo seguimento pós-parto, relata amenorreia\ne agalactorreia.",
+          "verso": "Síndrome de Sheehan (necrose\nhipofisária).\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Qual é a fórmula do índice de\nchoque e qual é sua utilidade?",
+          "verso": "Índice de choque = frequência cardíaca ,\npressão sistólica\nValores ≥ 0,9 sugerem perda sanguínea\nsignificativa e necessidade de avaliar\nhemotransfusão.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Como podemos estimar o\nsangramento pós-parto através da\navaliação das compressas sujas de\nsangue?",
+          "verso": "• Estimativa visual, conforme exemplo na figura; ou\n• Perda sanguínea estimada (mL) = peso das compressas\ncom sangue (g) - peso das compressas quando secas (g).\nHemorragia Pós-Parto",
+          "img_verso": [
+            "data/flashcards-img/34.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tratamento farmacológico\nde rotina indicado para profilaxia\nda hemorragia pós-parto?",
+          "verso": "Ocitocina 10 UI, intramuscular, após a\nexpulsão do feto.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Cite, pelo menos, 2 medidas\npara prevenção da hemorragia\npós-parto?",
+          "verso": "• Ocitocina após o nascimento;\n• Tração controlada do cordão umbilical;\n• Massagem uterina pós-dequitação;\n• Avaliação da placenta pós-dequitação;\n• Revisão sistemática do canal de parto;\n• Clampeamento tardio do cordão;\n• Contato pele a pele.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Quais são as duas condutas iniciais\npara o controle da hemorragia\npós-parto?",
+          "verso": "• Massagem uterina\nbimanual (manobra de\nHamilton); e\n• Ocitocina EV 20-40 UI\n(5 UI em bólus lento e o\nrestante diluído em 500 mL\nde soro fisiológico.)\nHemorragia Pós-Parto",
+          "img_verso": [
+            "data/flashcards-img/123.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as pacientes com\ncontraindicação ao uso de\nderivados de ergotamina no\ntratamento de atonia uterina?",
+          "verso": "Pacientes hipertensas.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Qual é o nome\ndessa manobra\ne quando ela é\nindicada?",
+          "verso": "Massagem uterina bimanual\n(manobra de Hamilton), indicada para\no controle da hemorragia pós-parto\npor atonia uterina.\nHemorragia Pós-Parto",
+          "img_frente": [
+            "data/flashcards-img/7.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são os dois tratamentos\nfarmacológicos da hemorragia\npós-parto indicados, em sequência,\napós falha da ocitocina?",
+          "verso": "• Segunda linha: metilergometrina\n0,2 mg intramuscular; e\n• Terceira linha: misoprostol\n800 mcg retal.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Qual é o tratamento não cirúrgico\nda hemorragia pós-parto não\nresponsiva aos uterotônicos e à\nmassagem uterina bimanual?",
+          "verso": "Balão intrauterino\nou traje\nantichoque\npneumático.\nHemorragia Pós-Parto",
+          "img_verso": [
+            "data/flashcards-img/59.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as 3 principais opções de\ntratamento cirúrgico em caso de\nfalha dos tratamentos conservadores\nda hemorragia pós-parto?",
+          "verso": "• Suturas compressivas\n(p. ex. sutura de B.\nLynch);\n• Suturas vasculares (p.\nex. ligadura das artérias\nuterinas);\n• Histerectomia (última\nopção).\nHemorragia Pós-Parto\nSutura de B. Lynch.",
+          "img_verso": [
+            "data/flashcards-img/0.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tratamento inicial da\ninversão uterina?",
+          "verso": "Relaxamento\nuterino (p. ex. com\nanestesia geral) +\nredução manual\ndo útero (p. ex.\nmanobra de Taxe).\nHemorragia Pós-Parto",
+          "img_verso": [
+            "data/flashcards-img/120.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o nome\ndesse sinal e qual\né seu significado\nclínico?",
+          "verso": "Sinal de Bandl-Frommel, sugestivo de\nrotura uterina.\nHemorragia Pós-Parto",
+          "img_frente": [
+            "data/flashcards-img/40.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tratamento da rotura\nuterina?",
+          "verso": "Estabilização hemodinâmica e\ncesariana.\nHemorragia Pós-Parto",
+          "img_verso": [
+            "data/flashcards-img/137.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são o melhor momento e as\ncausas de hemorragia pós-parto em\nque há o maior benefício no uso do\nácido tranexâmico?",
+          "verso": "Todas as causas são beneficiadas se a\nadministração for precoce (em até\n3 horas do início do sangramento).\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Qual é o esquema terapêutico do\nácido tranexâmico no tratamento\nda hemorragia pós-parto?",
+          "verso": "Ácido tranexâmico 1g EV, infusão lenta em\n10 minutos, dentro das 3 primeiras horas.\nObs: pode-se repetir se persistir\nsangramento após 30 minutos ou reiniciar\no sangramento nas primeiras 24h.\nHemorragia Pós-Parto"
+        },
+        {
+          "frente": "Inversão uterina aguda não responsiva à manobra de Taxe → qual a conduta imediata?",
+          "verso": "👉 Correção cirúrgica – operação de Huntington\n\n\n\n\n💡 Raciocínio de prova:\n\n\n1ª linha → manobra de Taxe (reversão manual)\n\n\n❗ Falhou → partir para cirurgia imediatamente\n\n\nTécnica clássica: Huntington (tração dos ligamentos redondos)\n\n\n🚫 Pegadinhas:\n\n\nB-Lynch → atonia uterina ❌\n\n\nCompressão bimanual → atonia ❌\n\n\nHisterectomia → última opção ❌",
+          "img_verso": [
+            "data/flashcards-img/148.png",
+            "data/flashcards-img/2.png"
+          ]
+        },
+        {
+          "frente": "Distócia de ombros → quais manobras devem ser realizadas?",
+          "verso": "👉 Manobras obstétricas sequenciais:\n\n\nMcRoberts (1ª linha)\n\n\nRubin\n\n\nJacquemier (extração do braço posterior)\n\n\nGaskin (posição de quatro apoios)\n\n\n\n💡 Raciocínio de prova:\n\n\nDistócia de ombro = emergência obstétrica clássica\n\n\n❗ Sempre começar pela McRoberts\n\n\nObjetivo: liberar o ombro impactado\n\n\n🚫 Pegadinhas:\n\n\nVácuo/fórcipe → não resolvem ❌\n\n\nAtonia → ocitocina, não tranexâmico isolado ❌\n\n\nInversão → manobra de Taxe, não Huntington ❌",
+          "img_verso": [
+            "data/flashcards-img/80.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obste-inducao-do-parto-e-pos-datismo",
+      "tema": "Obstetrícia",
+      "subarea": "Indução do Parto e Pós-Datismo",
+      "cards": [
+        {
+          "frente": "Quais são os parâmetros usados\nna avaliação do colo uterino pelo\níndice de Bishop?",
+          "verso": "Indução do Trabalho de Parto\nDilatação,\nesvaecimento,\nconsistência,\nposição e altura da\napresentação.",
+          "img_verso": [
+            "data/flashcards-img/152.jpeg"
+          ]
+        },
+        {
+          "frente": "Calcule o índice de Bishop:\ndilatação de 2 cm, 50% de\nesvaecimento, consistência\nintermediária, posição anterior e\naltura da apresentação de 0.",
+          "verso": "Indução do Trabalho de Parto\nÍndice de Bishop =\n7 pontos.",
+          "img_verso": [
+            "data/flashcards-img/133.jpeg"
+          ]
+        },
+        {
+          "frente": "Calcule o índice de Bishop:\ndilatação de 5 cm, 70% de\nesvaecimento, consistência\namolecida, posição anterior e altura\nda apresentação de 0.",
+          "verso": "Indução do Trabalho de Parto\nÍndice de Bishop =\n11 pontos.",
+          "img_verso": [
+            "data/flashcards-img/48.jpeg"
+          ]
+        },
+        {
+          "frente": "Calcule o índice de Bishop:\ndilatação de 1 cm, 30% de\nesvaecimento, consistência firme,\nposição medianizada e altura da\napresentação de -2.",
+          "verso": "Indução do Trabalho de Parto\nÍndice de Bishop =\n3 pontos.",
+          "img_verso": [
+            "data/flashcards-img/71.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a interpretação do índice\nde Bishop de acordo com seus\nvalores?",
+          "verso": "Indução do Trabalho de Parto\n• Colo favorável para\na indução do parto:\nBishop ≥ 6;\n• Colo desfavorável\npara a indução do\nparto: Bishop < 6.",
+          "img_verso": [
+            "data/flashcards-img/88.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o índice de Bishop em que\nse indica maturação cervical com\nmisoprostol?",
+          "verso": "Indução do Trabalho de Parto\nBishop < 6.",
+          "img_verso": [
+            "data/flashcards-img/62.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o índice de Bishop em que\nse indica indução do parto com\nocitocina?",
+          "verso": "Indução do Trabalho de Parto\nBishop ≥ 6.",
+          "img_verso": [
+            "data/flashcards-img/141.jpeg"
+          ]
+        },
+        {
+          "frente": "Cite, pelo menos, 3\ncontraindicações absolutas à\nindução do trabalho de parto.",
+          "verso": "• Inserção baixa da placenta;\n• Sofrimento fetal agudo;\n• Herpes genital ativo;\n• Miomectomia prévia;\n• Cicatriz de cesárea longitudinal;\n• Vasa prévia;\n• Prolapso de cordão umbilical."
+        },
+        {
+          "frente": "Cite, pelo menos, duas indicações\ncomuns para indução do trabalho\nde parto.",
+          "verso": "Lista não exaustiva:\n• Rotura prematura de membranas;\n• Corioamnionite;\n• Pós-termo;\n• Hipertensão gestacional;\n• Diabetes gestacional;\n• Restrição do crescimento fetal;\n• Óbito fetal."
+        },
+        {
+          "frente": "Qual é a conduta indicada para\nindução do parto quando o colo\nuterino está desfavorável\n(Bishop < 6)?",
+          "verso": "Indução do Trabalho de Parto\nMisoprostol para maturação\ncervical."
+        },
+        {
+          "frente": "Cite dois métodos mecânicos de\nmaturação cervical.",
+          "verso": "Indução do Trabalho de Parto",
+          "img_verso": [
+            "data/flashcards-img/112.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a melhor forma de fazer a\nmaturação cervical em gestantes\ncom cesárea prévia?",
+          "verso": "Preparo mecânico do colo uterino\n(p. ex. com sonda de Foley), pois o\nmisoprostol está contraindicado."
+        },
+        {
+          "frente": "Qual é a conduta indicada para\nindução do parto quando o colo\nuterino está favorável (Bishop ≥ 6)?",
+          "verso": "Indução com ocitocina."
+        },
+        {
+          "frente": "Qual é a definição de gestação pós-\ntermo (pós-datismo)?",
+          "verso": "Indução do Trabalho de Parto\nGestação ≥ 42 semanas."
+        },
+        {
+          "frente": "A partir de que idade gestacional\naumenta significativamente a\nmortalidade neonatal?",
+          "verso": "Indução do Trabalho de Parto\nIdade\ngestacional ≥\n42 semanas, por\nisso a indução\ndo parto deve\nocorrer até esse\nmomento.",
+          "img_verso": [
+            "data/flashcards-img/107.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obste-infeccao-puerperal",
+      "tema": "Obstetrícia",
+      "subarea": "Infecção Puerperal",
+      "cards": [
+        {
+          "frente": "Qual é a definição de\npuerpério?",
+          "verso": "Período entre a dequitação da\nplacenta até seis semanas pós-\nparto."
+        },
+        {
+          "frente": "Por que alguns autores\nexcluem da definição de\ninfecção puerperal a febre\nnas primeiras 24h pós-parto?",
+          "verso": "Na maioria dos casos, febre <\n24h é decorrente de alterações\nfisiológicas ou de atelectasia, por\nexemplo. Contudo, estreptococos\ndos grupos A e B podem causar\nfebre precocemente."
+        },
+        {
+          "frente": "Qual é o sítio de infecção\nmais comum da infecção\npuerperal?",
+          "verso": "Endometrite."
+        },
+        {
+          "frente": "Qual é o principal fator\nde risco para a infecção\npuerperal?",
+          "verso": "Parto cesáreo."
+        },
+        {
+          "frente": "Qual é a via de contaminação\nmais importante na\nendometrite?",
+          "verso": "Ascensão de bactérias\n(polimicrobianas) do trato genital\ninferior para o trato genital superior.",
+          "img_verso": [
+            "data/flashcards-img/69.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é a tríade de Bumm e qual é a\ncondição associada a ela?",
+          "verso": "Útero amolecido,\ndoloroso e\nhipoinvoluído,\nassociado à infecção\npuerperal.",
+          "img_verso": [
+            "data/flashcards-img/78.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável: puérpera no 2º\ndia após cirurgia cesariana apresenta\nfebre de 39ºC, loquiação fétida,\nútero na altura da cicatriz umbilical,\namolecido e doloroso à palpação.",
+          "verso": "Infecção puerperal\n(endometrite é a mais\nprovável).",
+          "img_verso": [
+            "data/flashcards-img/21.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tratamento da\nendometrite?",
+          "verso": "Antibioticoterapia EV com cobertura\npolimicrobiana, por exemplo:\n• Clindamicina + Gentamicina;\n• Ampicilina + Gentamicina +\nMetronidazol."
+        },
+        {
+          "frente": "Qual é o agente etiológico\nmais comum da mastite\nlactational infecciosa?",
+          "verso": "Staphylococcus aureus."
+        },
+        {
+          "frente": "Diagnóstico provável: lactante no 15º\ndia pós-parto vaginal apresenta febre\nde 38,5ºC, mialgia, calafrios, com mama\ndireita apresentado eritema, dor e\ningurgitamento há 48h.",
+          "verso": "Mastite lactational\n(provavelmente\ninfecciosa).",
+          "img_verso": [
+            "data/flashcards-img/75.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável: puérpera iniciou\nfebre no 9º dia pós-parto vaginal. Está\nno 4º dia de antibioticoterapia de amplo\nespectro, mas mantém o quadro febril.\nOs exames laboratoriais e de imagem\nestão normais.",
+          "verso": "Tromboflebite pélvica."
+        }
+      ]
+    },
+    {
+      "id": "obste-infeccoes-congenitas-na-gestacao",
+      "tema": "Obstetrícia",
+      "subarea": "Infecções Congênitas na Gestação",
+      "cards": [
+        {
+          "frente": "Quais são as infecções que devem ser\ninvestigadas em todas as gestantes\nna primeira consulta de pré-natal,\nsegundo o Ministério da Saúde?",
+          "verso": "Infecções Congênitas\nSífilis, HIV, hepatite B, hepatite C e\ntoxoplasmose."
+        },
+        {
+          "frente": "Qual é o agente etiológico da\ntoxoplasmose?",
+          "verso": "Infecções Congênitas\nToxoplasma gondii."
+        },
+        {
+          "frente": "Como ocorre a transmissão vertical\nda toxoplasmose?",
+          "verso": "Infecções Congênitas\nVia transplacentária."
+        },
+        {
+          "frente": "Qual é a forma do Toxoplasma\ngondii que passa pela placenta?",
+          "verso": "Infecções Congênitas\nTaquizoítos."
+        },
+        {
+          "frente": "Como é a sorologia da gestante\nimune à toxoplasmose?",
+          "verso": "Infecções Congênitas\nIgG reagente e IgM não reagente."
+        },
+        {
+          "frente": "Como é a sorologia da gestante\nsuscetível à toxoplasmose?",
+          "verso": "Infecções Congênitas\nIgG não reagente e IgM não\nreagente."
+        },
+        {
+          "frente": "Como deve ser o acompanhamento\nsorológico de uma gestante\nsuscetível à toxoplasmose?",
+          "verso": "Infecções Congênitas\nRepetir sorologia a cada 1-2 meses."
+        },
+        {
+          "frente": "Qual deve ser a conduta diante de\numa gestante com sorologia IgM\nreagente e IgG não reagente para\ntoxoplasmose?",
+          "verso": "Infecções Congênitas\nEspiramicina e repetir a\nsorologia em 2 semanas."
+        },
+        {
+          "frente": "Qual deve ser a conduta diante de\numa gestante com < 16 semanas\ne sorologia IgM reagente e IgG\nreagente?",
+          "verso": "Infecções Congênitas\nEspiramicina e teste de avidez\npara IgG."
+        },
+        {
+          "frente": "O que significa quando o teste de\navidez de IgG para toxoplasmose é\nalto (> 60) antes de 16 semanas?",
+          "verso": "Infecções Congênitas\nInfecção antiga."
+        },
+        {
+          "frente": "O que significa quando o teste de\navidez de IgG para toxoplasmose é\nbaixo (< 60) antes de 16 semanas?",
+          "verso": "Infecções Congênitas\nInfecção recente."
+        },
+        {
+          "frente": "Qual deve ser a conduta diante de\ninfecção recente para toxoplasmose\nantes de 16 semanas?",
+          "verso": "Infecções Congênitas\nEspiramicina."
+        },
+        {
+          "frente": "Qual deve ser a conduta diante de\ninfecção recente para toxoplasmose\napós 16 semanas?",
+          "verso": "Infecções Congênitas\nEsquema tríplice (sulfadiazina,\npirimetamina e ácido folínico)\ne pesquisa de infecção fetal\n(amniocentese)."
+        },
+        {
+          "frente": "A partir de quantas semanas de\nidade gestacional deve ser realizada\na pesquisa de infecção fetal por\namniocentese?",
+          "verso": "Infecções Congênitas\n18 semanas."
+        },
+        {
+          "frente": "Qual é a medicação para toxoplasmose que\nnão ultrapassa a barreira transplacentária,\nmas tem como objetivo reduzir o risco de\ntransmissão vertical antes de 16 semanas?",
+          "verso": "Infecções Congênitas\nEspiramicina."
+        },
+        {
+          "frente": "Quais são as medicações utilizadas\nno tratamento da toxoplasmose\ncongênita que ultrapassam a\nbarreira placentária e tratam o feto?",
+          "verso": "Infecções Congênitas\nSulfadiazina e pirimetamina."
+        },
+        {
+          "frente": "A partir de quantas semanas de idade\ngestacional se pode utilizar o esquema\ntríplice (pirimetamina, sulfadiazina e\nácido folínico) para o tratamento de\ntoxoplasmose congênita?",
+          "verso": "Infecções Congênitas\n16 semanas."
+        },
+        {
+          "frente": "Como ocorre a transmissão vertical\ndo citomegalovírus?",
+          "verso": "Infecções Congênitas\nVia transplacentária."
+        },
+        {
+          "frente": "Que tratamento pode ser\nrecomendado para gestantes\ncom infecção aguda pelo\ncitomegalovírus até 21 semanas?",
+          "verso": "Infecções Congênitas\nValaciclovir."
+        },
+        {
+          "frente": "Quais são as principais\nmanifestações fetais do parvovírus\nB19?",
+          "verso": "Infecções Congênitas\nAnemia fetal, hidropisia fetal,\nóbito fetal."
+        },
+        {
+          "frente": "Como deve ser o acompanhamento\nfetal de uma gestante com\nparvovirose aguda?",
+          "verso": "Infecções Congênitas\nAvaliação do pico de velocidade\nsistólica da artéria cerebral\nmédia pela Dopplervelocimetria\nobstétrica."
+        },
+        {
+          "frente": "Que valor do pico de velocidade\nsistólica da artéria cerebral média\nindica anemia fetal?",
+          "verso": "Infecções Congênitas\nPVS-ACM > 1,5 MOM para a idade\ngestacional."
+        },
+        {
+          "frente": "Quais são os principais achados\nultrassonográficos de infecção\ncongênita pelo zika vírus?",
+          "verso": "Infecções Congênitas\nMicrocefalia, calcificações\nperiventriculares,\nventriculomegalia, microftalmia,\npé torto congênito e restrição de\ncrescimento fetal."
+        },
+        {
+          "frente": "Como se define microcefalia fetal\npela ultrassonografia?",
+          "verso": "Infecções Congênitas\nPerímetro cefálico com mais de 2\ndesvios-padrão abaixo da média\npara idade gestacional e sexo."
+        },
+        {
+          "frente": "Como pode ocorrer a transmissão\ndo zika vírus?",
+          "verso": "Infecções Congênitas\nPicada do mosquito Aedes aegypti,\ntransmissão sexual, transfusão\nsanguínea."
+        },
+        {
+          "frente": "Quais são as infecções congênitas\nque podem causar microcefalia?",
+          "verso": "Infecções Congênitas\nZika vírus, toxoplasmose,\nsífilis, rubéola, citomegalovírus,\nvaricela-zóster."
+        },
+        {
+          "frente": "Como ocorre a transmissão vertical\ndo zika vírus?",
+          "verso": "Infecções Congênitas\nVia transplacentária."
+        },
+        {
+          "frente": "Como ocorre a transmissão vertical\ndo herpes simples?",
+          "verso": "Infecções Congênitas\nDurante o parto, pelo contato do\nfeto com as lesões do trato genital\nmaterno."
+        },
+        {
+          "frente": "Como deve ser a profilaxia para\nherpes simples durante a gestação\npara evitar transmissão vertical no\nmomento do parto?",
+          "verso": "Infecções Congênitas\nAciclovir 400 mg 3x ao dia a partir\nde 36 semanas até o parto."
+        },
+        {
+          "frente": "Que infecção congênita tem maior\nrisco de malformações cardíacas\nfetais?",
+          "verso": "Infecções Congênitas\nRubéola congênita."
+        }
+      ]
+    },
+    {
+      "id": "obste-modificacoes-fisiologicas-da-gestacao",
+      "tema": "Obstetrícia",
+      "subarea": "Modificações Fisiológicas da Gestação",
+      "cards": [
+        {
+          "frente": "A placenta humana é do tipo:",
+          "verso": "Hemocorial."
+        },
+        {
+          "frente": "Como é feito o transporte de\noxigênio e dióxido de carbono pela\nplacenta?",
+          "verso": "Por difusão simples."
+        },
+        {
+          "frente": "Como é feito o transporte de\nglicose pela placenta?",
+          "verso": "Difusão facilitada."
+        },
+        {
+          "frente": "Como ocorre o transporte de\naminoácidos pela placenta?",
+          "verso": "Transporte ativo."
+        },
+        {
+          "frente": "Como ocorre o transporte de\nimunoglobulinas pela placenta?",
+          "verso": "Pinocitose."
+        },
+        {
+          "frente": "A partir de quantos dias de\ngestação é possível detectar o\nB-hCG no sangue materno?",
+          "verso": "Por volta do 10º dia após a\novulação."
+        },
+        {
+          "frente": "Qual é a principal função do\nB-hCG?",
+          "verso": "Manter o corpo lúteo durante as\nprimeiras semanas de gestação."
+        },
+        {
+          "frente": "A cada quantas horas é esperado\nque os níveis de B-hCG dobrem em\numa gestação tópica?",
+          "verso": "48h."
+        },
+        {
+          "frente": "Qual é a principal função do\nhormônio lactogênio placentário\n(hLP)?",
+          "verso": "Aumentar a resistência periférica\nà ação da insulina e, dessa\nforma, proporcionar que mais\nglicose esteja disponível para ser\ntransferida ao feto, assegurando\nsua nutrição."
+        },
+        {
+          "frente": "Onde é produzido o hormônio\nlactogênio placentário?",
+          "verso": "No sinciciotrofoblasto."
+        },
+        {
+          "frente": "Qual é o hormônio que facilita a\nimplantação embrionária?",
+          "verso": "Progesterona."
+        },
+        {
+          "frente": "Qual é o hormônio que promove o\nrelaxamento das fibras miometriais\nna gestação, inibindo as contrações\nuterinas?",
+          "verso": "Progesterona."
+        },
+        {
+          "frente": "Que hormônio, na gravidez, promove\no relaxamento da musculatura lisa,\nlevando à ocorrência de pirose,\nconstipação, litíase biliar e hidronefrose\ndiscreta?",
+          "verso": "Progesterona."
+        },
+        {
+          "frente": "Que hormônio, na gravidez,\ndeprime o sistema nervoso central,\ncausando sonolência?",
+          "verso": "Progesterona."
+        },
+        {
+          "frente": "Que hormônio aumenta as\nglândulas mamárias e inibe a\nlactogênese?",
+          "verso": "Progesterona."
+        },
+        {
+          "frente": "Qual é o mecanismo da\nhemodiluição gravídica que ocorre\nna gravidez?",
+          "verso": "Por aumento do volume\nplasmático (volemia) materno."
+        },
+        {
+          "frente": "O que ocorre com os valores\nséricos de hemoglobina na\ngestação?",
+          "verso": "Diminuem."
+        },
+        {
+          "frente": "O que ocorre com a produção de\nleucócitos durante a gestação?",
+          "verso": "Aumenta (leucocitose fisiológica)."
+        },
+        {
+          "frente": "O que ocorre com a produção de\nplaquetas durante a gestação?",
+          "verso": "Diminui (plaquetopenia\nfisiológica)."
+        },
+        {
+          "frente": "O que ocorre com a maioria dos\nfatores de coagulação na gestação?",
+          "verso": "Aumentam."
+        },
+        {
+          "frente": "O que ocorre com as proteínas\nanticoagulantes durante a\ngestação?",
+          "verso": "Diminuem."
+        },
+        {
+          "frente": "O que ocorre com a resistência\nvascular periférica durante a\ngestação?",
+          "verso": "Reduz."
+        },
+        {
+          "frente": "O que ocorre com a frequência\ncardíaca materna durante a\ngestação?",
+          "verso": "Aumenta."
+        },
+        {
+          "frente": "O que ocorre com a pressão arterial\nsistêmica durante a gestação?",
+          "verso": "Diminui."
+        },
+        {
+          "frente": "Onde ocorre a produção de\nocitocina?",
+          "verso": "Na neuro-hipófise."
+        },
+        {
+          "frente": "Qual é a principal função da\nocitocina?",
+          "verso": "Promover as contrações uterinas."
+        },
+        {
+          "frente": "Quais são as principais alterações\nfisiológicas que ocorrem no sistema\nrespiratório durante a gestação?",
+          "verso": "Hiperventilação, aumento\ndo volume-minuto e alcalose\nrespiratória compensada."
+        },
+        {
+          "frente": "Quais são as principais alterações\nfisiológicas que ocorrem no sistema\nurinário na gestação?",
+          "verso": "Polaciúria fisiológica, hidronefrose leve,\naumento da estase urinária, aumento da\ntaxa de filtração glomerular com redução\ndos níveis séricos de ureia e creatinina,\nglicosúria fisiologia e proteinúria\nfisiológica."
+        },
+        {
+          "frente": "Qual é o hormônio responsável pela\nhiperpigmentação da pele durante\na gestação?",
+          "verso": "Progesterona."
+        },
+        {
+          "frente": "O sinal de Hunter, a rede venosa\nde Haller e os tubérculos de\nMontgomery são alterações\nfisiológicas que ocorrem onde?",
+          "verso": "Nas mamas."
+        }
+      ]
+    },
+    {
+      "id": "obste-parto-vaginal-operatorio",
+      "tema": "Obstetrícia",
+      "subarea": "Parto Vaginal Operatório",
+      "cards": [
+        {
+          "frente": "Cite, pelo menos, duas\nindicações do parto vaginal\noperatório.",
+          "verso": "• Doenças maternas;\n• Exaustão materna;\n• Alívio do período expulsivo;\n• Sofrimento fetal no expulsivo;\n• Variedade de posição anômala;\n• Parada de progressão;\n• Analgesia de parto;\n• Cabeça derradeira."
+        },
+        {
+          "frente": "Cite três condições fetais de\naplicabilidade do fórceps.",
+          "verso": "• Concepto vivo;\n• Cabeça insinuada; e\n• Volume cefálico normal."
+        },
+        {
+          "frente": "Cite três condições maternas\nde aplicabilidade do fórceps.",
+          "verso": "• Colo completamente dilatado;\n• Bolsa das águas rota;\n• Estreito médio e inferior\ncompatíveis com o volume cefálico."
+        },
+        {
+          "frente": "Quais são as três funções\nbásicas dos fórceps?",
+          "verso": "Preensão, rotação e tração."
+        },
+        {
+          "frente": "Qual é a pega ideal do fórceps para\nreduzir tocotraumatismo fetal?",
+          "verso": "Pega\nparietomalar.",
+          "img_verso": [
+            "data/flashcards-img/108.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a primeira colher\ndo fórceps colocada\nnas apresentações\nanteroposteriores?",
+          "verso": "Colher esquerda."
+        },
+        {
+          "frente": "Qual é a primeira colher\ndo fórceps colocada nas\napresentações oblíquas?",
+          "verso": "Colher posterior."
+        },
+        {
+          "frente": "Qual é a primeira colher\ndo fórceps colocada nas\napresentações transversas?",
+          "verso": "Colher anterior."
+        },
+        {
+          "frente": "Quais são os três fórceps\nmais usados na prática\nclínica?",
+          "verso": "Simpson-Braun, Kielland e Piper."
+        },
+        {
+          "frente": "Qual é o fórceps mais\nutilizado no Brasil?",
+          "verso": "Fórceps de Simpson-Braun.",
+          "img_verso": [
+            "data/flashcards-img/140.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são os fórceps\nindicados para as variedades\nde posição occipitopúbica e\noccipitotransversa?",
+          "verso": "Simpson-Braun ou Kielland."
+        },
+        {
+          "frente": "Qual é o fórceps mais usado\nquando a variedade de\nposição é occipitopúbica\n(OP)?",
+          "verso": "Simpson-Braun.",
+          "img_verso": [
+            "data/flashcards-img/77.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a rotação e o\nfórceps indicados para\na variedade de posição\noccipito esquerda anterior?",
+          "verso": "Fórceps de Simpson-Braun é o\nmais usado e a rotação é de 45º no\nsentido anti-horário."
+        },
+        {
+          "frente": "Qual é o nome deste fórceps e\nquais são as variedades de posição\nem que ele pode ser utilizado?",
+          "verso": "Fórceps de Simpson-Braun.\nVariedades oblíquas e pegas diretas\n(púbica e sacra).",
+          "img_frente": [
+            "data/flashcards-img/104.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o fórceps mais indicado\nnas variedades de posições\ntransversas?",
+          "verso": "Fórceps de\nKielland.",
+          "img_verso": [
+            "data/flashcards-img/10.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o nome deste\nfórceps e quais são\nas variedades de\nposições em que ele\npode ser utilizado?",
+          "verso": "Fórceps de Kielland. Pode ser usado\nem qualquer variedade de posição.",
+          "img_frente": [
+            "data/flashcards-img/93.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a rotação e o fórceps\nindicados para a variedade de\nposição occipito direita transversa\n(ODT)?",
+          "verso": "Fórceps de Kielland e a rotação é de\n90º no sentido horário."
+        },
+        {
+          "frente": "Qual é o nome deste\nfórceps e qual é a sua\nprincipal indicação?",
+          "verso": "Fórceps de Piper. É usado nos casos\nde cabeça derradeira.",
+          "img_frente": [
+            "data/flashcards-img/30.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a complicação\nda imagem e qual é o\nfórceps ideal para a\nresolução do caso?",
+          "verso": "Cabeça derradeira.\nRecomenda-se o\nfórceps de Piper.",
+          "img_frente": [
+            "data/flashcards-img/20.jpeg"
+          ],
+          "img_verso": [
+            "data/flashcards-img/145.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obste-partograma-e-distocias",
+      "tema": "Obstetrícia",
+      "subarea": "Partograma e Distocias",
+      "cards": [
+        {
+          "frente": "Como é chamado o registro gráfico\nobrigatório do trabalho de parto?",
+          "verso": "Partograma."
+        },
+        {
+          "frente": "Como é representada\nclassicamente a dilatação no\npartograma?",
+          "verso": "Por um triângulo."
+        },
+        {
+          "frente": "Como é representada\nclassicamente a altura da\napresentação fetal no partograma?",
+          "verso": "Por uma circunferência."
+        },
+        {
+          "frente": "Quando se deve iniciar o registro do\npartograma?",
+          "verso": "Na fase ativa do trabalho de parto."
+        },
+        {
+          "frente": "O partograma avalia que fases\nclínicas do parto?",
+          "verso": "Dilatação (primeiro período) e\nexpulsivo (segundo período)."
+        },
+        {
+          "frente": "Como é chamado o parto que evolui\nde maneira fisiológica?",
+          "verso": "Parto eutócico."
+        },
+        {
+          "frente": "Como é chamado o parto que evolui\nde forma diferente da esperada?",
+          "verso": "Parto distócico."
+        },
+        {
+          "frente": "Quando a pelvimetria demonstra\nque a pelve é incompatível à\npassagem fetal, denominamos:",
+          "verso": "Vício pélvico."
+        },
+        {
+          "frente": "Qual é o mecanismo de parto que\nnão ocorreu adequadamente na\ndistocia de rotação?",
+          "verso": "Rotação interna."
+        },
+        {
+          "frente": "Qual é o fórcipe que permite a\ncorreção da distocia de rotação?",
+          "verso": "Fórcipe de Kielland."
+        },
+        {
+          "frente": "Quando as contrações uterinas são\ninsuficientes em número ou intensidade\npara promover a dilatação cervical\nesperada, chamamos essa distocia de:",
+          "verso": "Distocia funcional por\nhipoatividade."
+        },
+        {
+          "frente": "Quando a atividade uterina é maior\ndo que a esperada para fase do\ntrabalho de parto, chamamos de:",
+          "verso": "Taquissistolia."
+        },
+        {
+          "frente": "A ocorrência de taquissistolia\npode levar a que tipo de distocia\nfuncional?",
+          "verso": "Distocia funcional por\nhiperatividade."
+        },
+        {
+          "frente": "Quando o parto ocorre em um\nperíodo menor do que 4 horas,\nchamamos de:",
+          "verso": "Parto taquitócico ou precipitado."
+        },
+        {
+          "frente": "Quais são as principais\ncomplicações que podem ocorrer\nno parto taquitócico?",
+          "verso": "Atonia uterina, lesão de trajeto\ndo canal de parto e hemorragia\nventricular no recém-nascido."
+        },
+        {
+          "frente": "O que pode ser feito para evitar o\nparto taquitócico?",
+          "verso": "Evitar realizar amniotomia, realizar\nanalgesia de parto precocemente,\nsuspender ocitocina."
+        },
+        {
+          "frente": "Que tipos de distocia de dilatação\npodem ocorrer durante o trabalho\nde parto, diagnosticadas por meio\ndo partograma?",
+          "verso": "Fase ativa prolongada e parada\nsecundária da dilatação."
+        },
+        {
+          "frente": "Quando a dilatação cervical não evolui\nem pelo menos dois toques vaginais\nconsecutivos, com intervalo de pelo menos\nduas horas entre eles, com dinâmica uterina\nadequada, chamamos de:",
+          "verso": "Parada secundária da dilatação."
+        },
+        {
+          "frente": "Quais são as primeiras medidas\ndiante de uma parada secundária\nda dilatação?",
+          "verso": "Mudança de posição da gestante,\ndeambulação, amniotomia e\nocitocina."
+        },
+        {
+          "frente": "Que tipos de distocia de descida\npodem ocorrer durante o trabalho\nde parto, diagnosticadas por meio\ndo partograma?",
+          "verso": "Parada secundária da descida e\nperíodo pélvico prolongado."
+        },
+        {
+          "frente": "Quando ocorre parada da progressão\nda apresentação fetal pelo canal vaginal\npor mais de duas horas quando a\ndilatação cervical é total, chamamos de:",
+          "verso": "Parada secundária da descida."
+        },
+        {
+          "frente": "Quando ocorre ausência de descida e/\nou rotação > 3h em nulíparas e > 2h em\nmultíparas, com contrações uterinas\nadequadas e rotura de membranas,\nchamamos de:",
+          "verso": "Parada secundária da descida."
+        },
+        {
+          "frente": "Qual é a causa mais comum de\nparada secundária da descida no\nestreito superior ou médio?",
+          "verso": "Desproporção cefalopélvica\nabsoluta."
+        },
+        {
+          "frente": "Qual é a causa mais comum de\nparada secundária da descida no\nestreito inferior?",
+          "verso": "Distocia de rotação."
+        },
+        {
+          "frente": "Qual é a conduta diante de parada\nsecundária da descida no estreito\nsuperior ou médio?",
+          "verso": "Cesariana."
+        },
+        {
+          "frente": "Qual é a conduta diante de uma\nparada secundária da descida no\nestreito inferior?",
+          "verso": "Fórcipe."
+        },
+        {
+          "frente": "Qual é o tempo para considerar\nperíodo pélvico prolongado nas\nprimíparas sem analgesia, segundo\na OMS?",
+          "verso": "3h."
+        },
+        {
+          "frente": "Qual é o tempo para considerar\nperíodo pélvico prolongado nas\nmultíparas sem analgesia, segundo\na OMS?",
+          "verso": "2h."
+        },
+        {
+          "frente": "Qual é o tempo para considerar\nperíodo pélvico prolongado nas\nmultíparas com analgesia, segundo\na OMS?",
+          "verso": "3h."
+        },
+        {
+          "frente": "Qual é o tempo para considerar\nperíodo pélvico prolongado nas\nprimíparas com analgesia, segundo\na OMS?",
+          "verso": "4h."
+        },
+        {
+          "frente": "Presença de bossa serossanguinolenta + cavalgamento dos ossos cranianos no período expulsivo sugere qual condição?",
+          "verso": "👉 Desproporção cefalopélvica\n\n\n💡 Raciocínio de prova:\n\n\nIndica dificuldade de progressão fetal\n\n\nCabeça sofre compressão prolongada → edema + sobreposição dos ossos\n\n\nClássico de trabalho de parto obstruído\n\n\n🚫 Pegadinhas:\n\n\nDeflexão → pode causar, mas não é a principal\n\n\nAssinclitismo → causa indireta\n\n\nCranioestenose → não tem relação",
+          "img_verso": [
+            "data/flashcards-img/63.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obste-pre-natal",
+      "tema": "Obstetrícia",
+      "subarea": "Pré-Natal",
+      "cards": [
+        {
+          "frente": "Qual é o número mínimo de\nconsultas para considerarmos\nque houve assistência pré-natal\nadequada para a gestante?",
+          "verso": "6"
+        },
+        {
+          "frente": "Qual é a periodicidade\nrecomendada das consultas de\npré-natal para as gestantes de risco\nhabitual?",
+          "verso": "• Mensal até a 28ª semana;\n• Quinzenal entre a 28ª e a 36ª semana;\n• Semanal a partir da 37ª semana (termo)."
+        },
+        {
+          "frente": "A partir de que idade gestacional\nindica-se a indução do parto em\ngestantes de risco habitual?",
+          "verso": "• Ministério da saúde: 41 semanas;\n• Zugaib (USP): 42 semanas."
+        },
+        {
+          "frente": "Em geral, com que idade\ngestacional a gestante começa a\nperceber os movimentos fetais?",
+          "verso": "Entre a 18ª e a 20ª semana."
+        },
+        {
+          "frente": "Como se classifica a gestação em\ntrês trimestres?",
+          "verso": "• 1º trimestre: até a 12ª semana de\ngestação;\n• 2º trimestre: até a 27ª semana;\n• 3º trimestre: a partir da 28ª semana."
+        },
+        {
+          "frente": "Defina as gestações abaixo:\n• Pré-termo\n• Termo inicial\n• Termo\n• Termo tardio\n• Pós-termo",
+          "verso": "• Pré-termo: < 37 semanas;\n• Termo inicial: 37 semanas a 38 semanas e 6 dias;\n• Termo: 39 semanas a 40 semanas e 6 dias;\n• Termo tardio: 41 semanas a 41 semanas e 6 dias;\n• Pós-termo: ≥ 42 semanas."
+        },
+        {
+          "frente": "O que é o sinal de Hunter e qual\né sua utilidade clínica?",
+          "verso": "Sinal de presunção da gestação\nem que ocorre hiperpigmentação\nperiareolar.",
+          "img_verso": [
+            "data/flashcards-img/105.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é o sinal de Haller e qual\né sua utilidade clínica?",
+          "verso": "Sinal de presunção\nda gestação em que\nocorre aumento da\nvascularização das\nmamas.",
+          "img_verso": [
+            "data/flashcards-img/51.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é o sinal dos tubérculos\nde Montgomery e qual é sua\nutilidade clínica?",
+          "verso": "Sinal de presunção\nda gestação em que\nhá hipertrofia das\nglândulas sebáceas\nao redor dos\nmamilos.",
+          "img_verso": [
+            "data/flashcards-img/6.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é o sinal de Hegar e qual\né sua utilidade clínica?",
+          "verso": "Sinal de\nprobabilidade\nda gestação em\nque é sentido o\namolecimento do\nistmo uterino.",
+          "img_verso": [
+            "data/flashcards-img/3.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é o sinal de Piskacek e\nqual é sua utilidade clínica?",
+          "verso": "Sinal de\nprobabilidade\nda gestação em\nque o útero fica\nassimétrico.",
+          "img_verso": [
+            "data/flashcards-img/106.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é o sinal de Nobile-Budin\ne qual é sua utilidade clínica?",
+          "verso": "Sinal de\nprobabilidade da\ngestação em que\nocorre ocupação dos\nfórnices laterais da\nvagina pelo útero.",
+          "img_verso": [
+            "data/flashcards-img/31.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é o sinal de Kluge e qual\né sua utilidade clínica?",
+          "verso": "Sinal de\nprobabilidade\nda gestação\nem que ocorre\narroxeamento da\nmucosa vaginal.",
+          "img_verso": [
+            "data/flashcards-img/61.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é o sinal de Jacquemier-\nChadwick e qual é sua utilidade\nclínica?",
+          "verso": "Sinal de probabilidade da gestação em que\na vulva se torna arroxeada.",
+          "img_verso": [
+            "data/flashcards-img/60.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são os 3 sinais de certeza\nda gestação?",
+          "verso": "• Sinal de Puzos;\n• Percepção de\nmovimento ou de\npartes fetais quando\no médico examina o\nabdome materno;\n• Ausculta de\nbatimentos cardíacos\nfetais.",
+          "img_verso": [
+            "data/flashcards-img/116.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é o sinal de Puzos e qual\né sua utilidade clínica?",
+          "verso": "Sinal de certeza da\ngestação em que é\nsentido o rechaço fetal\nao empurrar o útero\npelo fórnice anterior.",
+          "img_verso": [
+            "data/flashcards-img/66.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o ganho de peso recomendado\ndurante a gestação quando IMC < 18,5\n• IMC entre 18,5 e 24,9\n• IMC entre 25 e 29,9\n• IMC ≥ 30",
+          "verso": "• IMC < 18,5: 12,5 a 18 kg;\n• IMC entre 18,5 e 24,9: 11,5 a 16 kg;\n• IMC entre 25 e 29,9: 7 a 11,5 kg;\n• IMC ≥ 30: 5 a 9 kg."
+        },
+        {
+          "frente": "Qual é o objetivo da\nsuplementação de ácido fólico\nna gestação?",
+          "verso": "Reduzir o risco\nde defeitos de\nfechamento do\ntubo neural.",
+          "img_verso": [
+            "data/flashcards-img/153.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a dose e o período de\nsuplementação de ácido fólico\npara a gestante de risco habitual?",
+          "verso": "• Risco habitual: 400-800 mcg/dia;\n• Risco aumentado para defeitos do tubo\nneural: 4 mg/dia;\n• Duração: 1 mês antes da concepção até\n12 semanas de gestação."
+        },
+        {
+          "frente": "Quais são a dose e o período de\nsuplementação de ácido fólico para a\ngestante com risco aumentado para\ndefeitos de fechamento do tubo neural?",
+          "verso": "• Risco aumentado para defeitos do tubo\nneural: 4-5 mg/dia;\n• Duração: 1 mês antes da concepção até\n12 semanas de gestação."
+        },
+        {
+          "frente": "Quais são a dose e a duração da\nsuplementação de ferro elementar para\ngestantes de risco habitual?",
+          "verso": "Há muita variação na literatura. Responda com\nbase na bibliografia da sua prova.\n• Ministério da Saúde: 40 mg/dia para\ngestantes ≥ 20 semanas até 3 meses pós-parto;\n• Zugaib: 60 mg/dia para gestantes ≥ 16\nsemanas até 8 semanas pós-parto."
+        },
+        {
+          "frente": "Quais são os 4 tempos das\nmanobras obstétricas (de\nLeopold)?",
+          "verso": "",
+          "img_verso": [
+            "data/flashcards-img/1.jpeg"
+          ]
+        },
+        {
+          "frente": "Como é determinada a altura\nuterina na gestante?",
+          "verso": "Com uma fita métrica, mede-se a distância entre a\nborda superior da sínfise púbica e o fundo uterino.",
+          "img_verso": [
+            "data/flashcards-img/142.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o intervalo dos\nbatimentos cardíacos fetais\nconsiderado normal?",
+          "verso": "Frequência\ncardíaca\nentre 110 e\n160 bpm.",
+          "img_verso": [
+            "data/flashcards-img/81.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a idade gestacional mínima\nnecessária para auscultar os\nbatimentos cardíacos fetais usando\na USG e o sonar Doppler?",
+          "verso": "• USG: aproximadamente 5 semanas.\n• Sonar Doppler: aproximadamente\n9-12 semanas;"
+        },
+        {
+          "frente": "Calcule a data provável do\nparto (DPP) considerando a\ndata da última menstruação em\n25/08/2022.",
+          "verso": "• Some 7 ao dia, some 9 ao mês =\n32/05/2023;\n• Maio tem apenas 31 dias, então ajuste\npara o mês seguinte;\n• DPP = 01/06/2023."
+        },
+        {
+          "frente": "Calcule a data provável do\nparto (DPP) considerando a\ndata da última menstruação em\n28/02/2022.",
+          "verso": "• Some 7 ao dia e some 9 ao mês =\n35/11/2022;\n• Novembro tem apenas 30 dias, então\ndevemos passar 5 dias para o mês\nseguinte;\n• DPP = 05/12/2022."
+        },
+        {
+          "frente": "Calcule a idade gestacional (IG)\nno dia da consulta do pré-natal\n(12/04/2022) sabendo que a data da\núltima menstruação = 06/02/2022.",
+          "verso": "• Fevereiro = + 22 dias (28 - 6 dias\nrestantes);\n• Março = + 31 dias;\n• Abril = + 12 dias;\n• Total = 65 dias;\n• → IG = 9 semanas + 2 dias.\n65\n7"
+        },
+        {
+          "frente": "Calcule a idade gestacional (IG)\nno dia da consulta do pré-natal\n(12/04/2022) sabendo que a 1ª USG,\nem 18/03/2022, indicava IG = 10\nsemanas.",
+          "verso": "• Março = 31 - 18 = 13 dias restantes;\n• Abril = 12 dias;\n• Total = 25 dias;\n• → IG = 3 semanas + 4 dias;\n• Some a IG do USG (10 semanas) ao\nresultado anterior;\n• IG = 13 semanas + 4 dias.\n25\n7"
+        },
+        {
+          "frente": "Idealmente, qual é o método\nrecomendado para avaliar a idade\ngestacional?",
+          "verso": "Medida do comprimento\ncabeça-nádega na ecografia\nobstétrica, até 14 semanas."
+        },
+        {
+          "frente": "Qual é a idade gestacional\nestimada quando a altura\nuterina está no nível da cicatriz\numbilical?",
+          "verso": "20 semanas de\ngestação."
+        },
+        {
+          "frente": "Qual é a idade gestacional\nestimada quando o útero é\npalpável na sínfise púbica?",
+          "verso": "12 semanas de\ngestação."
+        },
+        {
+          "frente": "Em que intervalo de tempo da\ngestação a altura uterina mostra\numa boa aproximação direta da\nidade gestacional?",
+          "verso": "Entre 20 e 30\nsemanas."
+        },
+        {
+          "frente": "Que exames sorológicos devem\nser solicitados na primeira\nconsulta de pré-natal de acordo\ncom o Ministério da Saúde?",
+          "verso": "HIV, sífilis, toxoplasmose\ne hepatite B."
+        },
+        {
+          "frente": "Que exames séricos gerais (não\nsorológicos) devem ser solicitados\nna primeira consulta de pré-natal de\nacordo com o Ministério da Saúde?",
+          "verso": "Hemograma, glicemia de jejum,\ntipagem sanguínea e Coombs\nindireto."
+        },
+        {
+          "frente": "Que exames não séricos devem\nser solicitados na primeira\nconsulta de pré-natal de acordo\ncom o Ministério da Saúde?",
+          "verso": "Citopatológico de colo uterino (se\nnecessário), urina 1 e urocultura."
+        },
+        {
+          "frente": "Qual é a definição de anemia na\ngestação (Ministério da Saúde)?",
+          "verso": "Concentração de\nhemoglobina < 11 g/dL."
+        },
+        {
+          "frente": "Quais são o tipo sanguíneo e os\nresultados de exames que indicam\nprofilaxia de aloimunização materna\npelo antígeno D?",
+          "verso": "Toda gestante Rh negativo com\nCoombs ou pesquisa de anticorpos\nregulares (PAI) negativos."
+        },
+        {
+          "frente": "Em que situações indicamos\nprofilaxia de aloimunização materna\npelo antígeno D para gestantes Rh\nnegativo com Coombs negativo?",
+          "verso": "• Com 28 semanas de gestação;\n• Sangramentos da 1ª ou 2ª metade da\ngestação;\n• Realização de procedimentos uterinos;\n• Trauma abdominal;\n• Em até 72h pós-parto se o RN for Rh\npositivo."
+        },
+        {
+          "frente": "Como se classificam os resultados\nde glicemia de jejum realizados no\ninício do pré-natal?",
+          "verso": "• Normal: < 92 mg/dL;\n• Diabetes gestacional: entre\n92-125 mg/dL;\n• Diabetes prévio à gestação:\n≥ 126 mg/dL."
+        },
+        {
+          "frente": "Quais são os exames indicados e o\nmomento adequado para o rastreio\nde diabetes gestacional?",
+          "verso": "Glicemia de jejum no início do\noral de tolerância à glicose (TOTG)\nentre 24-28 semanas.\nPré-Natal"
+        },
+        {
+          "frente": "Quais são os valores normais de\nTSH no 1º trimestre da gestação?",
+          "verso": "0,1 < TSH < 2,5."
+        },
+        {
+          "frente": "Quais são a via obstétrica e\na profilaxia indicadas para as\ngestantes com HIV?",
+          "verso": "• Carga viral ≥ 1.000 cópias: cesárea eletiva\napós 38 semanas e AZT endovenoso;\n• Carga viral < 1.000 cópias: indicação\nobstétrica e AZT endovenoso;\n• Carga viral indetectável: indicação\nobstétrica e manter TARV habitual."
+        },
+        {
+          "frente": "Qual é o tratamento inicial\nrecomendado para gestantes com\nHIV ainda não tratadas?",
+          "verso": "Tenofovir (TDF) + Lamivudina (3TC)\n+ Dolutegravir (DTG)."
+        },
+        {
+          "frente": "Quais são os exames necessários\npara o diagnóstico de sífilis?",
+          "verso": "Teste treponêmico (p. ex. FTA-Abs)\n+ teste não treponêmico (p. ex.\nVDRL) positivos."
+        },
+        {
+          "frente": "Qual é o tratamento da sífilis\nrecente na gestação?",
+          "verso": "Penicilina benzatina, IM, 1,2\nmilhões UI em cada glúteo, dose\núnica. (igual ao tratamento da\npopulação em geral)."
+        },
+        {
+          "frente": "Qual é o tratamento da sífilis latente\ntardia, desconhecida ou terciária na\ngestação?",
+          "verso": "Penicilina benzatina,\nIM, 1,2 milhões UI em cada glúteo,\nsemanal, por 3 semanas (igual ao\ntratamento da população\nem geral)."
+        },
+        {
+          "frente": "Qual é o resultado da sorologia para\ntoxoplasmose que indica gestante\nsuscetível?",
+          "verso": "IgM negativo e IgG negativo."
+        },
+        {
+          "frente": "Qual é o resultado da sorologia para\ntoxoplasmose que indica gestante\nimune?",
+          "verso": "IgM negativo e IgG positivo."
+        },
+        {
+          "frente": "Qual é o resultado da sorologia para\ntoxoplasmose que indica infecção\naguda ou que é falso-positivo?",
+          "verso": "IgM positivo e IgG negativo."
+        },
+        {
+          "frente": "Qual é a conduta diagnóstica e\na interpretação decorrente dela\nquando uma gestante apresenta IgM\ne IgG positivos para toxoplasmose?",
+          "verso": "Realizar teste de avidez para IgG se\nidade gestacional < 16 semanas:\n• Avidez baixa: infecção recente;\n• Avidez alta: infecção antiga."
+        },
+        {
+          "frente": "Qual é o tratamento da gestante\ncom toxoplasmose recente ou\nindeterminada de acordo com o\nresultado da amniocentese?",
+          "verso": "• PCR toxoplasma negativo ou\nsem amniocentese: espiramicina\naté o fim da gestação;\n• PCR toxoplasma positivo na\namniocentese: sulfadiazina +\npirimetamina + ácido folínico."
+        },
+        {
+          "frente": "Qual é a relação entre o risco de\ntransmissão vertical e a gravidade do\nacometimento fetal por toxoplasmose\nem relação à idade gestacional?",
+          "verso": "↑idade\ngestacional\n→ ↑risco de\ntransmissão\nvertical, mas\n↓gravidade\npara o feto.",
+          "img_verso": [
+            "data/flashcards-img/156.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são o momento adequado\ne a validade da coleta do swab\nanal e vaginal para pesquisa de\nestreptococo do grupo B?",
+          "verso": "Coleta entre\na 35ª e a 37ª\nsemana, com\nvalidade de 5\nsemanas.",
+          "img_verso": [
+            "data/flashcards-img/18.jpeg"
+          ]
+        },
+        {
+          "frente": "Quando há indicação de antibiótico\nintraparto para prevenção de sepse\nneonatal por estreptococo do\ngrupo B (GBS)?",
+          "verso": "• Cultura vaginal/retal ou de urina positivas para GBS;\n• Infecção neonatal por GBS de filhos anteriores;\n• Cultura desconhecida + um fator de risco:\n°Febre intraparto (≥ 38ºC); ou\n°Parto prematuro; ou\n°Rotura prematura de membranas  18h."
+        },
+        {
+          "frente": "Qual é a conduta indicada para\numa gestante assintomática com\nurocultura positiva?",
+          "verso": "Iniciar antibioticoterapia de acordo com\no perfil de sensibilidade (p. ex. cefalexina,\nnitrofurantoína ou fosfomicina)."
+        },
+        {
+          "frente": "Quais são as profilaxias indicadas\npara os RNs de gestantes\ninfectadas por hepatite B e por\nhepatite C?",
+          "verso": "• Hepatite B: vacinação e imunoglobulina\napós o parto;\n• Hepatite C: não existe profilaxia."
+        },
+        {
+          "frente": "Quais são os esquemas vacinais de\nrotina indicados para gestantes no\nprograma nacional de imunizações?",
+          "verso": "• Hepatite B: três doses na vida;\n• Influenza: uma dose anual;\n• dTpa: uma dose em toda gestação a partir da\n20ª semana;\n• dT: três doses, reforço a cada 10 anos.\n• Covid-19\n• Vírus sincicial respiratório (rede privada)."
+        }
+      ]
+    },
+    {
+      "id": "obste-restricao-de-crescimento-fetal-e-obito-fetal",
+      "tema": "Obstetrícia",
+      "subarea": "Restrição de Crescimento Fetal e Óbito Fetal",
+      "cards": [
+        {
+          "frente": "Quais são os parâmetros utilizados\npara o diagnóstico de restrição de\ncrescimento fetal?",
+          "verso": "Peso fetal, circunferência abdominal fetal e Dopplervelocimetria obstétrica."
+        },
+        {
+          "frente": "Qual é a definição de restrição de\ncrescimento fetal pelo peso do\nfeto?",
+          "verso": "Peso abaixo do percentil 10."
+        },
+        {
+          "frente": "Qual é a causa mais comum de\nrestrição de crescimento fetal?",
+          "verso": "Insuficiência placentária."
+        },
+        {
+          "frente": "Quais são as etiologias fetais de\nrestrição de crescimento?",
+          "verso": "Malformação fetal, cromossomopatias, infecção congênita e gestação múltipla."
+        },
+        {
+          "frente": "Quais são as causas maternas de\nrestrição de crescimento fetal?",
+          "verso": "Desnutrição, hipertensão arterial, anemia, cardiopatia, pneumopatia, estresse, uso de drogas, tabagismo, etilismo, doenças autoimunes."
+        },
+        {
+          "frente": "Quais são as causas placentárias de\nrestrição de crescimento fetal?",
+          "verso": "Insuficiência placentária, placenta prévia, placenta circunvalada, corangioma, inserção velamentosa do cordão."
+        },
+        {
+          "frente": "Quais são os achados na\nDopplervelocimetria obstétrica em\nfetos com restrição de crescimento\npor insuficiência placentária?",
+          "verso": "Aumento da resistência da artéria umbilical, diminuição da resistência da artéria cerebral média e aumento da resistência do ducto venoso."
+        },
+        {
+          "frente": "Quando a restrição de crescimento\né precoce?",
+          "verso": "Quando ela ocorre antes de 32 semanas."
+        },
+        {
+          "frente": "Qual é a restrição de crescimento\nfetal do tipo I?",
+          "verso": "Restrição de crescimento simétrica."
+        },
+        {
+          "frente": "Quais são as principais causas de\nrestrição de crescimento tipo I?",
+          "verso": "Infecções congênitas, alterações cromossômicas e malformações congênitas."
+        },
+        {
+          "frente": "Qual é a restrição de crescimento\nfetal do tipo II?",
+          "verso": "Restrição de crescimento assimétrica."
+        },
+        {
+          "frente": "Quais são as principais causas de\nrestrição de crescimento do tipo II?",
+          "verso": "Insuficiência placentária, hipertensão arterial, doenças autoimunes."
+        },
+        {
+          "frente": "Qual é o tipo de restrição de\ncrescimento fetal mais comum?",
+          "verso": "Restrição de crescimento fetal assimétrica, tipo II."
+        },
+        {
+          "frente": "Qual é o tipo de restrição de\ncrescimento fetal que tem mais\nrisco de evoluir para hipóxia fetal?",
+          "verso": "Restrição de crescimento assimétrica, tipo II."
+        },
+        {
+          "frente": "Quando a altura uterina está\nabaixo do esperado para a idade\ngestacional, quais são as principais\nhipóteses diagnósticas?",
+          "verso": "Restrição de crescimento fetal e oligoâmnio."
+        },
+        {
+          "frente": "Qual é o parâmetro biométrico\nultrassonográfico mais sensível de\nrestrição de crescimento fetal?",
+          "verso": "Circunferência abdominal fetal."
+        },
+        {
+          "frente": "Como diferenciar um feto com\nrestrição de crescimento fetal\ndaquele pequeno para a idade\ngestacional?",
+          "verso": "Dopplervelocimetria obstétrica, ultrassonografia seriada e índice de líquido amniótico."
+        },
+        {
+          "frente": "Quais são os exames necessários\npara o acompanhamento de feto\ncom restrição de crescimento por\ninsuficiência placentária?",
+          "verso": "Ultrassonografia obstétrica seriada, Dopplervelocimetria obstétrica, cardiotocografia e perfil biofísico fetal."
+        },
+        {
+          "frente": "Qual deve ser a idade gestacional\nde resolução da gestação de\num feto pequeno para a idade\ngestacional?",
+          "verso": "Entre 37 e 39 semanas de gestação."
+        },
+        {
+          "frente": "Qual deve ser a idade gestacional de\nresolução da gestação de um feto com\nrestrição de crescimento fetal com\npercentil < 3, Doppler e ILA normais?",
+          "verso": "Parto entre 36 e 38 semanas."
+        },
+        {
+          "frente": "Qual é a via de parto preferencial\nde fetos PIG ou RCF com Doppler\nnormal?",
+          "verso": "Via vaginal."
+        },
+        {
+          "frente": "Qual é a idade gestacional máxima de resolução\nda gestação de feto com restrição de crescimento\ne Dopplervelocimetria alterada da artéria\numbilical, uterina ou cerebral média, com fluxo\ndiastólico positivo da artéria umbilical?",
+          "verso": "37 semanas."
+        },
+        {
+          "frente": "Qual é a idade gestacional máxima e\nvia de parto de resolução da gestação\nde feto com restrição de crescimento e\ndiástole ausente da artéria umbilical?",
+          "verso": "34 semanas, cesariana."
+        },
+        {
+          "frente": "Qual é a idade gestacional máxima e\nvia de parto de resolução da gestação\nde feto com restrição de crescimento e\ndiástole reversa da artéria umbilical?",
+          "verso": "30 semanas, cesariana."
+        },
+        {
+          "frente": "Qual é a idade gestacional e via de\nparto de resolução da gestação de feto\ncom restrição de crescimento e ducto\nvenoso alterado?",
+          "verso": "A partir de 26 semanas, cesariana."
+        },
+        {
+          "frente": "Qual é o estágio I de Gratacós de\nrestrição de crescimento fetal?",
+          "verso": "Peso fetal  p95, artéria uterina IP> p95, artéria cerebral média IP < p5, relação cérebro/placentária < p5."
+        },
+        {
+          "frente": "Qual é o estágio II de Gratacós de\nrestrição de crescimento fetal?",
+          "verso": "Quando há diástole ausente (zero) na artéria umbilical."
+        },
+        {
+          "frente": "Qual é o estágio III de Gratacós de\nrestrição de crescimento fetal?",
+          "verso": "Quando há diástole reversa da artéria umbilical ou ducto venoso com IP > p95."
+        },
+        {
+          "frente": "Qual é o estágio IV de Gratacós de\nrestrição de crescimento fetal?",
+          "verso": "Quando há ducto venoso reverso ou alteração da cardiotocografia."
+        },
+        {
+          "frente": "Quais são os riscos da restrição de\ncrescimento fetal na vida adulta?",
+          "verso": "Obesidade, disfunções metabólicas, resistência insulínica, diabetes tipo 2, doenças renais e cardiovasculares."
+        }
+      ]
+    },
+    {
+      "id": "obste-rotura-prematura-de-membranas-rpm",
+      "tema": "Obstetrícia",
+      "subarea": "Rotura Prematura de Membranas (RPM)",
+      "cards": [
+        {
+          "frente": "Qual é a definição de rotura\nprematura de membranas ovulares?",
+          "verso": "Rotura das membranas ovulares\nantes do início do trabalho de\nparto independentemente da idade\ngestacional.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Como se classifica a rotura de\nmembranas durante o trabalho\nde parto?",
+          "verso": "• Precoce: no início do parto (<6 cm de dilatação);\n• Oportuna: na fase ativa do parto (6-8 cm de\ndilatação);\n• Tardia: no fim do parto (usualmente no período\nexpulsivo).\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "O que é o período de latência\nda rotura de membranas ovulares?",
+          "verso": "Período entre a rotura das membranas\ne o início do trabalho de parto.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a relação entre período de\nlatência e idade gestacional?",
+          "verso": "↓idade gestacional → ↑período de\nlatência.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a relação entre período\nde latência após rotura das\nmembranas ovulares e risco de\ninfecção?",
+          "verso": "↑período de latência → ↑risco de\ninfecção.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é o principal fator de\nrisco para rotura prematura de\nmembranas pré-termo?",
+          "verso": "Rotura prematura de membranas\npré-termo prévia.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a principal causa\nidentificável de rotura prematura\nde membranas ovulares\nespontânea?",
+          "verso": "Infecção ascendente do trato genital.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a principal complicação\nmaterna da rotura prematura das\nmembranas?",
+          "verso": "Infecção intrauterina (corioamnionite\nou endometrite).\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Quais são as principais\ncomplicações fetais da rotura\nprematura das membranas ovulares?",
+          "verso": "Aquelas decorrentes da prematuridade:\n• Síndrome da membrana hialina;\n• Hemorragia intraventricular;\n• Enterocolite necrosante;\n• Sepse neonatal.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Que conduta farmacológica preventiva\npode ser indicada para gestantes com\nhistória prévia de rotura prematura de\nmembranas < 34 semanas?",
+          "verso": "Progesterona vaginal entre 16 e 34\nsemanas.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é o exame de imagem indicado\npara predição de prematuridade em\ngestantes com história prévia de rotura\nprematura de membranas ovulares?",
+          "verso": "USG transvaginal entre 16-24 semanas\n(colo uterino < 25 mm aumenta o risco\nde prematuridade).\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é o exame padrão-ouro para\no diagnóstico de rotura prematura\nde membranas ovulares?",
+          "verso": "Visualização da saída de líquido\namniótico pelo colo uterino no exame\nespecular.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a principal queixa clínica\nda gestante com possível rotura\nprematura de membranas?",
+          "verso": "Saída de líquido amniótico pela vagina\nsem contrações uterinas.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Que conduta deve ser evitada\nno exame físico de gestante com\nsuspeita de rotura prematura de\nmembranas?",
+          "verso": "Evitar toque vaginal, pois aumenta o\nrisco de infecção.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Descreva o teste diagnóstico de\ncristalização do muco cervical para\namniorrexe prematura.",
+          "verso": "O muco cervical\nsecado no calor\nterá aspecto\narboriforme no\nmicroscópio,\ncaso seja líquido\namniótico.\nRotura Prematura de Membranas Ovulares",
+          "img_verso": [
+            "data/flashcards-img/83.jpeg"
+          ]
+        },
+        {
+          "frente": "Que condições podem gerar falso\npositivo no teste do pH vaginal\npara investigação de amniorrexe\nprematura?",
+          "verso": "Vaginose,\ntricomoníase,\nsangue ou sêmen\nna vagina.\nRotura Prematura de Membranas Ovulares\npH vaginal no papel de\nnitrazina - A: normal; B:\nvaginose; C: RPMO.",
+          "img_verso": [
+            "data/flashcards-img/25.jpeg"
+          ]
+        },
+        {
+          "frente": "Que resultado do teste do papel\nde nitrazina sugere presença de\nlíquido amniótico?",
+          "verso": "pH vaginal > 6,0.\nRotura Prematura de Membranas Ovulares\nA: normal\nB: vaginose\nC: rotura prematura de membranas.",
+          "img_verso": [
+            "data/flashcards-img/37.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são os 2 testes mais sensíveis\ne específicos no diagnóstico de\namniorrexe prematura em qualquer\nidade gestacional?",
+          "verso": "PAMG-1 (alfa-1 microglobulina\nplacentária) e IGFBP-1 (fator de\ncrescimento semelhante à insulina).\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a conduta em caso de rotura\nprematura das membranas ovulares\n≥ 37 semanas?",
+          "verso": "• Resolução da gestação; e\n• Profilaxia para estreptococo do\ngrupo B, se necessário.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a conduta em caso de rotura\nprematura de membranas entre 34\ne 36 semanas + 6 dias?",
+          "verso": "• Resolução da gestação (mais aceito no Brasil);\n• Pesquisa e profilaxia para estreptococo do grupo B; e\n• Considerar uso do corticoide, se decidir por conduta\nexpectante.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a conduta indicada para\namniorrexe prematura entre 24\nsemanas e 33 semanas + 6 dias?",
+          "verso": "• Conduta expectante;\n• Controle de infecção e vitalidade fetal;\n• Sulfato de magnésio (se < 32 semanas + trabalho de parto\niminente);\n• Antibiótico (↑período de latência ou como profilaxia contra\nestreptococo do grupo B);\n• Corticoterapia.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a conduta mais aceita\nem caso de rotura prematura de\nmembranas < 24 semanas?",
+          "verso": "Indução do parto, se a gestante\nconcordar.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Quando se indica sulfato de\nmagnésio em caso de rotura\nprematura de membranas?",
+          "verso": "Gestante entre 24-32 semanas em\ntrabalho de parto iminente.\nObs: a FMUSP não indica sulfato de\nmagnésio para neuroproteção fetal.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é o objetivo da\nantibioticoterapia na rotura\nprematura de membranas\npré-termo com conduta expectante?",
+          "verso": "Aumentar o período de latência e\nreduzir o risco de corioamnionite.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a antibioticoterapia indicada\npara aumentar o período de\nlatência na amniorrexe prematura\npré-termo?",
+          "verso": "Ampicilina por 48h + azitromicina\ndose única + 7 dias de amoxicilina.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Quais são os 3 motivos diferentes\nque indicam administração de\nantibióticos para a gestante com\namniorrexe prematura?",
+          "verso": "1. Aumentar o período de latência;\n2. Profilaxia contra estreptococo do\ngrupo B durante o trabalho de parto;\n3. Tratamento da corioamnionite.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é o antibiótico de escolha para\nprofilaxia contra estreptococo do\ngrupo B quando indicado?",
+          "verso": "Penicilina cristalina.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é o objetivo da administração\nde corticoides após rotura\nprematura de membranas ovulares?",
+          "verso": "Acelerar a maturação pulmonar.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Quando se indica corticoide no\nmanejo de rotura prematura de\nmembranas?",
+          "verso": "A partir da 24ª semana até\n33 semanas + 6 dias.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Quando se indica tocolítico no\nmanejo de rotura prematura de\nmembranas ovulares?",
+          "verso": "Não está indicado.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a principal causa de\ncorioamnionite?",
+          "verso": "Ascensão de bactérias do trato\ngeniturinário inferior.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante com febre, taquicardia\nmaterna e fetal, leucorreia fétida,\nleucocitose e ↑PCR.",
+          "verso": "Corioamnionite.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a via de parto de escolha na\ncorioamnionite?",
+          "verso": "Parto vaginal.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Qual é a conduta geral indicada\nem gestante com suspeita de\ncorioamnionite?",
+          "verso": "Antibiótico de largo espectro +\nresolução da gestação.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Quais são os antibióticos\nindicados para o tratamento de\ncorioamnionite?",
+          "verso": "1. Clindamicina + gentamicina; ou\n2. Ampicilina + gentamicina +\nmetronidazol.\nRotura Prematura de Membranas Ovulares"
+        },
+        {
+          "frente": "Quais são as condutas\nfarmacológicas contraindicadas na\nsuspeita de corioamnionite?",
+          "verso": "Corticoide e tocolítico.\nRotura Prematura de Membranas Ovulares"
+        }
+      ]
+    },
+    {
+      "id": "obste-sagramento-da-segunda-metade",
+      "tema": "Obstetrícia",
+      "subarea": "Sagramento da Segunda Metade",
+      "cards": [
+        {
+          "frente": "Qual é a classificação atual das\nvariações de inserção placentária?",
+          "verso": "• Normal;\n• Placenta prévia:\nrecobre o orifício interno\ndo colo de forma parcial\nou total;\n• Inserção baixa:\nplacenta < 2 cm do\norifício interno do colo.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/138.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a diferença entre placenta\nacreta, increta ou percreta?",
+          "verso": "• Acreta: invade o\nendométrio;\n• Increta: invade o\nmiométrio;\n• Percreta: atinge a\nserosa e pode invadir\nórgãos adjacentes.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/13.jpeg"
+          ]
+        },
+        {
+          "frente": "Cite, pelo menos, 3 fatores de risco\npara placenta prévia.",
+          "verso": "• Número de cesáreas prévias;\n• Gestações múltiplas;\n• Antecedente de placenta prévia;\n• Curetagens uterinas;\n• Idade materna avançada;\n• Multiparidade; e\n• Tabagismo."
+        },
+        {
+          "frente": "Qual é o principal fator de risco\npara placenta prévia?",
+          "verso": "Número de cesarianas anteriores."
+        },
+        {
+          "frente": "Quais são os dois fatores com maior\nrisco relativo para desenvolvimento\nde acretismo placentário?",
+          "verso": "1. Placenta prévia;\n2. Cesarianas anteriores."
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 33 semanas, G4C3 +\nsangramento vaginal vermelho vivo + sem\nqueixa de dor + vitalidade fetal preservada.",
+          "verso": "Placenta prévia.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/128.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o exame padrão-ouro para o\ndiagnóstico de placenta prévia?",
+          "verso": "Ultrassonografia\ntransvaginal.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/124.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a conduta indicada quando\nse diagnostica inserção baixa de\nplacenta no 1º ou 2º trimestre?",
+          "verso": "Repetir ecografia\ntransvaginal com\n28 semanas para\nconfirmação do\ndiagnóstico.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/32.jpeg"
+          ]
+        },
+        {
+          "frente": "Que parte do exame físico deve\nser evitada na avaliação inicial do\nsangramento da segunda metade da\ngestação?",
+          "verso": "Toque vaginal,\ndevido à\npossibilidade de\nplacenta prévia.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/36.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são a idade gestacional\ne a via de parto indicadas para\nresolução da gestação com\nplacenta prévia?",
+          "verso": "Cesárea a partir de 37 semanas.\nHemorragia da 2ª metade da gestação"
+        },
+        {
+          "frente": "Quando há indicação de imediata\nresolução da gestação nos casos\nde placenta prévia?",
+          "verso": "• Instabilidade hemodinâmica\nmaterna;\n• Vitalidade fetal alterada;\n• Maturidade fetal comprovada;\n• Idade gestacional ≥ 37 semanas."
+        },
+        {
+          "frente": "Qual é a via de parto indicada para\nas gestantes com inserção baixa\nplacentária?",
+          "verso": "Pode ser cesariana ou vaginal,\navaliando o risco do sangramento.\nHemorragia da 2ª metade da gestação"
+        },
+        {
+          "frente": "Em geral, qual\né o tratamento\ndo acretismo\nplacentário?",
+          "verso": "Cesárea na 36ª semana de gestação\n+ histerectomia total (especialmente\nna increta e na percreta).\nHemorragia da 2ª metade da gestação",
+          "img_frente": [
+            "data/flashcards-img/82.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as principais\ncomplicações da placenta prévia?",
+          "verso": "Hemorragia pré ou pós-parto, que\npode levar à transfusão sanguínea ou\nhisterectomia."
+        },
+        {
+          "frente": "Qual é o principal fator de risco\npara descolamento prematuro de\nplacenta?",
+          "verso": "Síndromes hipertensivas."
+        },
+        {
+          "frente": "Qual é a fisiopatologia do\ndescolamento prematuro da\nplacenta?",
+          "verso": "Ruptura dos vasos\nmaternos na decídua\nbasal, que disseca —\nde forma parcial ou\ntotal — a interface\nentre a decídua e a\nplacenta.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/113.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável: gestante de\n35 semanas apresenta dor abdominal\nsúbita, sangramento vaginal, hipertonia\nuterina, taquicardia e hipertensão.\nBCF = 95 bpm.",
+          "verso": "Descolamento\nprematuro de\nplacenta.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/14.jpeg"
+          ]
+        },
+        {
+          "frente": "Que causa de sangramento\nobstétrica está mais associada\nà coagulação intravascular\ndisseminada?",
+          "verso": "Descolamento prematuro de\nplacenta."
+        },
+        {
+          "frente": "Qual é a conduta obstétrica no\ndescolamento prematuro de\nplacenta com feto vivo?",
+          "verso": "Amniotomia + via de parto mais\nrápida (usualmente cesárea).\nHemorragia da 2ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a conduta obstétrica no\ndescolamento prematuro de\nplacenta com gestante estável e\nóbito fetal?",
+          "verso": "Amniotomia + parto vaginal em até\n6h.\nHemorragia da 2ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o objetivo da amniotomia\nno tratamento do descolamento\nprematuro de placenta?",
+          "verso": "↓pressão intra-amniótica,\nportanto reduz o sangramento e a\nentrada na circulação materna de\ntromboblastina.\nHemorragia da 2ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o\nsignificado clínico\ndo sinal de\nBandl-Fromel?",
+          "verso": "Sugere iminência de rotura uterina.\nHemorragia da 2ª metade da gestação",
+          "img_frente": [
+            "data/flashcards-img/146.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 39 semanas,\nem trabalho de parto ativo,\nevolui com sangramento e\ndor intensos, hipotensão\narterial ebradicardia fetal.",
+          "verso": "Rotura uterina.\nHemorragia da 2ª metade da gestação",
+          "img_frente": [
+            "data/flashcards-img/119.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tratamento em caso de\nsuspeita de rotura uterina?",
+          "verso": "Estabilização hemodinâmica e\ncesariana.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/33.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a causa de hemorragia da\nsegunda metade cujo sangue tem\norigem fetal?",
+          "verso": "Rotura de\nvasa prévia.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/127.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante secundípara, 37\nsemanas, com rotura das\nmembranas ovulares e\nsangramento vaginal indolor.\nÉ realizada a seguinte\ncardiotocografia:",
+          "verso": "Rotura de vasa prévia.\nHemorragia da 2ª metade da gestação",
+          "img_frente": [
+            "data/flashcards-img/52.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável: gestante\nde 38 semanas com sangramento\nvaginal discreto, indolor, contínuo,\ncom vitalidade fetal preservada e\nestabilidade hemodinâmica materna.",
+          "verso": "Rotura\nde seio\nmarginal.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/64.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável: puérpera\nevolui, 10 minutos após a dequitação,\ncom cianose, confusão mental,\ndispneia e hipotensão.",
+          "verso": "Embolia\nde líquido\namniótico.\nHemorragia da 2ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/67.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obste-sangramento-da-primeira-metade",
+      "tema": "Obstetrícia",
+      "subarea": "Sangramento da Primeira Metade",
+      "cards": [
+        {
+          "frente": "Qual é a definição de abortamento?",
+          "verso": "Interrupção da gestação antes de 20\nsemanas ou com peso < 500 g."
+        },
+        {
+          "frente": "Qual é a definição de abortamento\nde repetição ou habitual?",
+          "verso": "Três ou mais abortamentos\nconsecutivos.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a classificação cronológica\ndo abortamento?",
+          "verso": "• Abortamento precoce: idade\ngestacional < 12 semanas;\n• Abortamento tardio: idade\ngestacional entre 12 e 20 semanas.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o risco de novos\nabortamentos quando a mulher\nteve um abortamento esporádico\nprévio?",
+          "verso": "Baixo, similar ao risco de uma\nprimeira gestação.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a principal causa de\nabortamento precoce?",
+          "verso": "Anomalias cromossômicas.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a principal causa de\nabortamento tardio?",
+          "verso": "Incompetência istmocervical.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a alteração cromossômica\nmais frequentemente associada aos\nabortamentos precoces?",
+          "verso": "Trissomia do cromossomo 16."
+        },
+        {
+          "frente": "Qual é a malformação uterina com\npior prognóstico obstétrico (p. ex.\nabortamento e parto prematuro)?",
+          "verso": "Útero septado.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/47.jpeg"
+          ]
+        },
+        {
+          "frente": "O que é a síndrome de Asherman?",
+          "verso": "Aderências uterinas formadas,\nprincipalmente, após curetagem uterina.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/132.jpeg",
+            "data/flashcards-img/53.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante, 9 semanas, sangramento\nvaginal de pequena quantidade, cólica\nleve, colo uterino impérvio e embrião\ntópico com BCF audível.",
+          "verso": "Ameaça de abortamento.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 13 semanas, cólica\nabdominal intensa, sangramento\nvaginal volumoso, colo uterino aberto\ne protusão do saco gestacional.",
+          "verso": "Abortamento inevitável.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante, 10 semanas, assintomática,\nrealiza USG que detecta embrião com\ncomprimento cabeça-nádega = 9 mm e\nausência de batimento cardíaco fetal.",
+          "verso": "Abortamento\nretido.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/43.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 10 semanas com sangramento\nvaginal, cólicas e colo pérvio. Ecografia\ncom material amorfo uterino e espessura\nendometrial de 17 mm.",
+          "verso": "Abortamento incompleto.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 12 semanas com cólicas e\nsangramento vaginal intensos, eliminação de\nmaterial amorfo, colo impérvio e espessura\nendometrial de 8 mm na ecografia.",
+          "verso": "Abortamento completo.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/89.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o quadro clínico típico da\nameaça de abortamento?",
+          "verso": "Sangramento pequeno, cólica leve e\ncolo uterino impérvio.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o quadro clínico típico do\nabortamento incompleto?",
+          "verso": "Sangramento em maior quantidade,\ncólicas intensas, colo uterino\npérvio e eliminação parcial do ovo/\nplacenta.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o quadro clínico típico de\num abortamento completo?",
+          "verso": "Sangramento em grande quantidade,\ncólicas e eliminação integral do ovo,\nque leva ao fechamento do colo\nuterino e melhora dos sintomas.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o critério mais utilizado\npara definir morte do concepto na\nultrassonografia transvaginal?",
+          "verso": "Embriões com comprimento\ncabeça-nádegas ≥ 7 mm sem\natividade cardíaca.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Que medida realizada na\necografia auxilia na distinção\nentre abortamento incompleto e\ncompleto?",
+          "verso": "• Espessura endometrial > 15 mm:\nabortamento incompleto;\n• Espessura endometrial ≤ 15 mm:\nabortamento completo.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a técnica de escolha de\nesvaziamento uterino para os\nabortamentos precoces?",
+          "verso": "Aspiração\nintrauterina.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/131.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a técnica de escolha\nde esvaziamento uterino nos\nabortamentos tardios ou com\nmaterial muito abundante?",
+          "verso": "Indução com misoprostol e, após a\nexpulsão, curetagem uterina.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o tratamento do\nabortamento infectado com\npresença de restos ovulares?",
+          "verso": "• Antibioticoterapia intravenosa, p. ex.:\nº gentamicina 3-5 mg/kg a cada 24h;\nº clindamicina 600mg 6/6h ou 900mg 8/8h.\n• Mais esvaziamento intrauterino."
+        },
+        {
+          "frente": "Qual é o tratamento de escolha do\nabortamento retido tardio?",
+          "verso": "Expulsão do feto com o auxílio de\nmisoprostol + esvaziamento uterino\n(quase sempre por curetagem).\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Que pacientes com sangramento\nna 1ª metade da gestação\ntêm indicação de receber\nimunoglobulina anti-Rh?",
+          "verso": "Pacientes com Rh negativo que\ntiveram abortamento (ou ameaça),\ngestação ectópica ou doença\ntrofoblástica gestacional.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a conduta para os casos de\nameaça de abortamento?",
+          "verso": "Expectante.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a localização mais comum\ndas gestações ectópicas?",
+          "verso": "Porção\nampular da\ntuba uterina.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/35.jpeg"
+          ]
+        },
+        {
+          "frente": "Cite, pelo menos, 2 fatores de risco\npara desenvolvimento de gestação\nectópica.",
+          "verso": "• Gestação ectópica prévia;\n• Cirurgia tubária prévia;\n• Fertilização assistida;\n• DIP;\n• Endometriose;\n• Uso de DIU;\n• Contracepção de emergência;\n• Tabagismo.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a tríade clássica da gestação\nectópica?",
+          "verso": "Dor abdominal + atraso menstrual +\nsangramento genital.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\nmulher de 29 anos queixa-se de dor\nabdominal de início súbito, sangramento\nvaginal e atraso menstrual de 2 meses.",
+          "verso": "Gestação\nectópica.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/114.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável:\nmulher com sangramento vaginal,\ncavidade uterina e anexos vazios na\necografia e β-HCG = 2.100 mUI/mL.",
+          "verso": "Gestação\nectópica.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/49.jpeg"
+          ]
+        },
+        {
+          "frente": "Diagnóstico provável:\nmulher jovem com dor abdominal súbita,\nsangramento vaginal e atraso menstrual\nestá taquicárdica, hipotensa e com dor à\ndescompressão brusca abdominal.",
+          "verso": "Gestação ectópica rota.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a conduta caso se detecte\nββ-HCG < 2.000 mUI/mL, mas\ncavidade uterina vazia na ecografia\ntransvaginal?",
+          "verso": "Repetir β-HCG em 48h:\n• ↑ ββ-HCG ≥ 35% indica gestação tópica;\n• ↑ ββ-HCG < 35% indica gestação\nectópica ou gestação tópica inviável.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Quais são os resultados do ββ-HCG\ne da ecografia transvaginal que,\ncombinados, sugerem gestação\nectópica?",
+          "verso": "Cavidade uterina vazia na ecografia\nquando oββ-HCG ≥ 2.000 mUI/mL.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Quais são os critérios para\nindicação de conduta expectante\nnas gestações ectópicas íntegras?",
+          "verso": "• Títulos baixos de β-HCG: p. ex. < 2.000\nmUI/mL (Febrasgo) ou < 5.000 mUI/mL\n(Zugaib);\n• β-HCG em declínio nas últimas 48h; e\n• Ausência de atividade cardíaca\nembrionária.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Quais são os critérios para\nindicação do metotrexato em\npacientes com gestação ectópica\níntegra?",
+          "verso": "• β-HCG < 5.000 mUI/mL;\n• Massa anexial pequena;\nº Febrasgo < 3,5 cm;\nº Zugaib Obstetrícia < 4 cm;\n• BCF ausente;\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o tratamento\nmedicamentoso de escolha na\ngestação ectópica?",
+          "verso": "Metotrexato 50 mg/m² IM.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o critério preditor mais\nimportante do sucesso do\ntratamento com metotrexato na\ngestação ectópica?",
+          "verso": "Quanto menor o ββ-HCG, maior a\nchance de sucesso.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o critério clínico de eficácia\ndo tratamento da gestação ectópica\ncom metotrexato?",
+          "verso": "Queda ≥ 15% da concentração de β-HCG\nno 7º dia seguinte ao uso do fármaco,\nem relação ao 4º dia.\nObs: se queda < 15%, aplicar nova dose.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o tratamento cirúrgico de\nescolha das gestações ectópicas\nquando há desejo e possibilidade de\npreservação da fertilidade?",
+          "verso": "Salpingostomia.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/94.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tratamento da gestação\nectópica rota com instabilidade\nhemodinâmica?",
+          "verso": "Laparotomia (salpingectomia)\n+ medidas de estabilização\nhemodinâmica.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Cite, pelo menos, 2 critérios para\nindicar a salpingectomia como\ntratamento cirúrgico da gestação\nectópica?",
+          "verso": "• Prole constituída;\n• ββ-HCG elevado;\n• Lesão tubária irreparável;\n• Salpingostomia com sangramento\npersistente; ou\n• Gestação ectópica prévia na mesma tuba.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a doença trofoblástica\ngestacional em que se pode\nobservar a presença de embrião?",
+          "verso": "Mola\nhidatiforme\nparcial.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/76.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a fisiopatologia da mola\nhidatiforme parcial?",
+          "verso": "Um óvulo é\nfecundado por 2\nespermatozoides,\ngerando um\ncariótipo triploide\n(69, XXX; 69, XXY\nou 69, XYY).\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/95.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é a fisiopatologia da mola\nhidatiforme completa?",
+          "verso": "Um óvulo sem\nmaterial genético\né fecundado por 1\nespermatozoide (mola\n46, XX) ou, menos\ncomumente, por 2\nespermatozoides (46,\nXX ou 46, XY).\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/58.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são os dois principais fatores\nde risco para desenvolvimento de\ndoença trofoblástica gestacional?",
+          "verso": "História prévia de doença\ntrofoblástica gestacional e estar nos\nextremos da idade reprodutiva.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 16 semanas\napresenta sangramento\nvaginal, β-HCG = 221.000,\npressão = 150 x 95 mmHg\ne a ecografia ao lado.",
+          "verso": "Mola hidatiforme completa.\nHemorragia da 1ª metade da gestação",
+          "img_frente": [
+            "data/flashcards-img/134.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o critério diagnóstico\nlaboratorial da neoplasia\ntrofoblástica gestacional?",
+          "verso": "Ausência de queda do β-HCG após o\nesvaziamento uterino:\n• Platô: ≥ 4 valores com variação < 10%\ndurante 3 semanas consecutivas; ou\n• Ascensão: ↑ ββ-HCG ≥ 10% por duas ou\nmais semanas consecutivas.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é a conduta indicada após o\ndiagnóstico de mola hidatiforme?",
+          "verso": "Aspiração\nintrauterina\n+ dosagem\nseriada de β\nβ-HCG.\nHemorragia da 1ª metade da gestação",
+          "img_verso": [
+            "data/flashcards-img/91.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o tratamento da neoplasia\ntrofoblástica gestacional?",
+          "verso": "Quimioterapia.\nHemorragia da 1ª metade da gestação"
+        },
+        {
+          "frente": "Qual é o seguimento indicado para\npacientes após o esvaziamento\nuterino da mola hidatiforme?",
+          "verso": "β• β-HCG semanal até negativação\ndos títulos por 3 semanas\nconsecutivas; então,\nβ• β-HCG mensal por mais 6 meses.\nHemorragia da 1ª metade da gestação"
+        }
+      ]
+    },
+    {
+      "id": "obste-sifilis-na-gestacao-e-sifilis-congenita",
+      "tema": "Obstetrícia",
+      "subarea": "Sífilis na Gestação e Sífilis Congênita",
+      "cards": [
+        {
+          "frente": "Qual é o agente etiológico da sífilis?",
+          "verso": "Treponema pallidum."
+        },
+        {
+          "frente": "Qual é a principal forma de\ntransmissão da sífilis?",
+          "verso": "Via sexual."
+        },
+        {
+          "frente": "Qual é a principal via de\ntransmissão vertical da sífilis\ncongênita?",
+          "verso": "Via transplacentária."
+        },
+        {
+          "frente": "Qual é a taxa de transmissão\nvertical da sífilis em mulheres não\ntratadas adequadamente?",
+          "verso": "Em torno de 80%."
+        },
+        {
+          "frente": "Em que estágio da sífilis ocorre\nmaior risco de transmissão vertical?",
+          "verso": "Sífilis primária e secundária."
+        },
+        {
+          "frente": "Em que trimestre da gestação há\nmais risco de comprometimento\nfetal da sífilis congênita?",
+          "verso": "Primeiro trimestre."
+        },
+        {
+          "frente": "Quais são as principais\nmanifestações da sífilis primária?",
+          "verso": "Cancro duro com linfadenopatia regional."
+        },
+        {
+          "frente": "Como se caracteriza o cancro duro?",
+          "verso": "Úlcera única, indolor, endurecida, com bordas regulares, bem definidas e de fundo limpo."
+        },
+        {
+          "frente": "Quais são as principais\nmanifestações da sífilis secundária?",
+          "verso": "Roséola (erupção maculopapular eritematosa pouco visível) em tronco e raiz de membros, que progride para todo o corpo e fica mais evidente atingindo região plantar e palmar, com descamação característica e não pruriginosa. Condilomas planos (lesões vegetantes e úmidas), alopecia em clareiras e madarose. Ocorre micropoliadenopatia, febre baixa, mal-estar, cefaleia e adinamia."
+        },
+        {
+          "frente": "Qual é o intervalo de tempo para\ndefinir se a sífilis é latente recente\nou tardia?",
+          "verso": "1 ano."
+        },
+        {
+          "frente": "Quais são os exames diretos\nutilizados no diagnóstico da sífilis?",
+          "verso": "Exame em campo escuro e pesquisa direta com material corado (imunofluorescência direta)."
+        },
+        {
+          "frente": "Quando os exames diretos estão\nindicados no diagnóstico da sífilis?",
+          "verso": "Na suspeita de lesão sugestiva de sífilis primária e secundária."
+        },
+        {
+          "frente": "Quais são os primeiros testes\nimunológicos a positivar na sífilis?",
+          "verso": "Testes treponêmicos."
+        },
+        {
+          "frente": "Quais são os testes imunológicos\npara sífilis que permanecem\npositivos por toda a vida, mesmo\napós a cura da doença?",
+          "verso": "Testes treponêmicos."
+        },
+        {
+          "frente": "Quais são os tipos de testes\ntreponêmicos?",
+          "verso": "Teste rápido, teste de hemaglutinação (TPHA), teste de aglutinação de partículas (TPPA), ensaio de micro-hemaglutinação (MHA-TP), teste de imunofluorescência indireta (FTA- Abs) e ensaios imunoenzimáticos (ELISA)."
+        },
+        {
+          "frente": "Quais são os testes imunológicos\npara sífilis que são utilizados para\nmonitorização da resposta ao\ntratamento e controle da cura?",
+          "verso": "Testes não treponêmicos."
+        },
+        {
+          "frente": "Quais são os tipos de testes não\ntreponêmicos?",
+          "verso": "VDRL, RPR e USR"
+        },
+        {
+          "frente": "Como é feito o diagnóstico de\nsífilis?",
+          "verso": "Teste treponêmico positivo E teste não treponêmico positivo."
+        },
+        {
+          "frente": "Quando se deve realizar exames\npara sífilis na gestação?",
+          "verso": "Na primeira consulta do pré-natal (preferencialmente no 1º trimestre da gestação), no início do 3º trimestre (28ª semana), no momento do parto ou aborto (independentemente de exames anteriores) e a qualquer momento após exposição de risco/violência sexual."
+        },
+        {
+          "frente": "Quando há divergência entre os\nresultados dos testes treponêmicos\ne não treponêmicos, o que deve ser\nfeito?",
+          "verso": "Repetir o teste treponêmico com outra metodologia."
+        },
+        {
+          "frente": "Qual é a única medicação eficaz\npara tratar sífilis na gestação?",
+          "verso": "Penicilina benzatina intramuscular."
+        },
+        {
+          "frente": "Qual é a medicação e posologia\ndo tratamento de sífilis recente na\ngestação?",
+          "verso": "Penicilina benzatina, 2,4 milhões de UI, dose única, sendo 1,2 milhões de UI em cada nádega."
+        },
+        {
+          "frente": "Qual é a medicação e posologia\ndo tratamento de sífilis tardia na\ngestação?",
+          "verso": "Penicilina benzatina, 2,4 milhões de UI, 1x por semana, por 3 semanas, totalizando 7,2 milhões de UI."
+        },
+        {
+          "frente": "Se a gestante não sabe quando\nadquiriu a sífilis, como deve ser o\ntratamento?",
+          "verso": "Penicilina benzatina, 2,4 milhões de UI, 1x por semana, por 3 semanas, totalizando 7,2 milhões de UI."
+        },
+        {
+          "frente": "Se a gestante com sífilis for alérgica\nà penicilina, o que deve ser feito?",
+          "verso": "Dessensibilização em ambiente hospitalar e tratar com penicilina após a dessensibilização."
+        },
+        {
+          "frente": "Como deve ser a monitorização\npós-tratamento de sífilis na\ngestação?",
+          "verso": "Com dosagem de teste não treponêmico, mensalmente."
+        },
+        {
+          "frente": "Qual é o intervalo recomendado\nentre as doses de penicilina no\ntratamento de sífilis na gestação?",
+          "verso": "7 dias."
+        },
+        {
+          "frente": "Quando a resposta imunológica\né considerada adequada no\ntratamento da sífilis?",
+          "verso": "Se ocorrer: • negativação do teste não treponêmico ou • queda da titulação em duas diluições (4 vezes) dentro de 6 meses para sífilis recente e até 12 meses para sífilis tardia na gestação (exemplo: de 1:64 para 1:16) ou • diminuição da titulação do teste não treponêmico em duas diluições em até três meses e quatro diluições em até seis meses, com evolução até a negativação."
+        },
+        {
+          "frente": "Quando se consideram critérios\nde retratamento (reativação ou\nreinfecção) para sífilis na gestação?",
+          "verso": "Se houver: • ausência de redução da titulação em duas diluições em 6 meses para sífilis recente ou 12 meses para sífilis tardia; • aumento da titulação em duas diluições ou mais; • persistência ou recorrência de sinais e sintomas clínicos."
+        },
+        {
+          "frente": "Como deve ser o tratamento das\nparcerias sexuais de gestantes com\nsífilis?",
+          "verso": "Todas as parcerias sexuais dos últimos 90 dias das gestantes com sífilis devem ser testadas e tratadas com pelo menos uma dose de penicilina benzatina IM de 2,4 milhões UI, de preferência em conjunto com a gestante, mesmo que apresentem testes imunológicos não reagentes. Caso o teste seja reagente para sífilis, o tratamento deve ser conforme o estágio clínico da infecção."
+        }
+      ]
+    },
+    {
+      "id": "obste-sindromes-hipertensivas-da-gestacao",
+      "tema": "Obstetrícia",
+      "subarea": "Síndromes Hipertensivas da Gestação",
+      "cards": [
+        {
+          "frente": "Quais são as três principais causas\nde morte materna no Brasil?",
+          "verso": "1. Distúrbios hipertensivos na gestação;\n2. Hemorragia pós-parto;\n3. Infecção puerperal.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Cite, pelo menos, uma complicação\nmaterna e uma complicação\nfetal decorrentes dos distúrbios\nhipertensivos na gestação.",
+          "verso": "• Maternas: insuficiência renal, AVC,\ninsuficiência cardíaca, edema agudo de pulmão,\ncoagulopatia e insuficiência hepática;\n\n• Fetais: insuficiência placentária, prematuridade\neletiva, restrição de crescimento fetal e\nsofrimento fetal.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é o critério utilizado para\ndefinição de hipertensão arterial na\ngestação?",
+          "verso": "• PA ≥ 140/90 mmHg em duas medidas\ncom intervalo de 4 horas;\n• PA ≥ 160/110 mmHg confirmada\napós 15 minutos.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são os tipos de distúrbios\nhipertensivos da gestação?",
+          "verso": "• Hipertensão gestacional;\n• Pré-eclâmpsia;\n• Eclâmpsia;\n• Síndrome HELLP;\n• Hipertensão crônica com\npré-eclâmpsia sobreposta;\n• Hipertensão arterial\ncrônica;\nHipertensão na Gestação",
+          "img_verso": [
+            "data/flashcards-img/154.jpeg"
+          ]
+        },
+        {
+          "frente": "Qual é o anti-hipertensivo de\nescolha para hipertensão arterial\nnão grave durante a gestação?",
+          "verso": "Metildopa.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a definição de hipertensão\ngestacional?",
+          "verso": "Hipertensão arterial (≥ 140/90 mmHg)\n≥ 20 semanas que normaliza no\npuerpério + ausência de proteinúria +\nausência de disfunção de órgão-alvo.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a classificação da\nhipertensão gestacional de acordo\ncom a gravidade?",
+          "verso": "• Leve: PA entre 140/90 mmHg e\n160/110 mmHg;\n• Grave: PA ≥ 160/110 mmHg.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a lesão histopatológica renal\nespecífica da pré-eclâmpsia?",
+          "verso": "Endoteliose capilar glomerular.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a fisiopatologia da\npré-eclâmpsia?",
+          "verso": "Invasão trofoblástica inadequada da\nmusculatura média das artérias espiraladas do\nútero, causando placentação deficiente.\nHipertensão na Gestação",
+          "img_verso": [
+            "data/flashcards-img/70.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as variações esperadas nas\nprostaglandinas vasodilatadores e\nnas vasoconstritoras nos quadros de\npré-eclâmpsia?",
+          "verso": "• ↓Prostaglandinas vasodilatadoras;\n• ↑Prostaglandinas vasoconstritoras.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a única situação em que a\npré-eclâmpsia pode ocorrer antes\nda 20ª semana de gestação?",
+          "verso": "Doença trofoblástica gestacional.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Cite, pelo menos, três fatores de\nrisco para o desenvolvimento de\npré-eclâmpsia.",
+          "verso": "Hipertensão na Gestação",
+          "img_verso": [
+            "data/flashcards-img/103.jpeg"
+          ]
+        },
+        {
+          "frente": "O aumento do índice de\npulsatilidade da artéria uterina e\na redução de PLGF e PAPP-A em\ngestantes sugerem o quê?",
+          "verso": "Risco aumentado de pré-eclâmpsia.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quando uma gestante é considerada\nde alto risco para pré-eclâmpsia\nlevando-se em conta o número de\nfatores de risco materno?",
+          "verso": "1 fator de alto risco ou 2 fatores de\nrisco moderado.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a tríade clínica clássica da\npré-eclâmpsia?",
+          "verso": "Hipertensão arterial + proteinúria +\nedema.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 28 semanas apresenta PA = 160\nx 100 mmHg, edema e cefaleia. Plaquetas =\n180.000, TGO = 28, TGP = 26, creatinina = 0,8,\nDHL = 450 e proteinúria/creatinúria = 0.4.",
+          "verso": "Pré-eclâmpsia.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são os exames laboratoriais\nindicados para investigação de\npré-eclâmpsia?",
+          "verso": "• Proteinúria de 24h ou relação proteinúria/\ncreatinúria;\n• Ureia e creatinina;\n• Hemograma completo;\n• DHL ou avaliação da presença de esquizócitos;\n• TGO, TGP e bilirrubinas;\n• Ácido úrico.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são os dois principais critérios\nlaboratoriais para diagnóstico de\nproteinúria na gestação?",
+          "verso": "• Proteinúria de 24h ≥ 300 mg;\nHipertensão na Gestação\nProteinúria ≥ 0,3.\nCreatinúria\n•"
+        },
+        {
+          "frente": "Quais são os critérios diagnósticos\nde pré-eclâmpsia?",
+          "verso": "Hipertensão arterial (≥ 140/90 mmHg)\n≥ 20 semanas + proteinúria ou lesão\nde órgãos-alvo materno ou disfunção\nuteroplacentária.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são as duas suplementações\nindicadas para prevenção de\npré-eclâmpsia em gestantes de\nalto risco?",
+          "verso": "• Aspirina de baixa dose (100-150 mg)\nentre 12-36 semanas;\n• Cálcio (1,5 a 2 g/dia) para gestantes\ncom baixa ingesta de cálcio.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante com 34 semanas de gestação\napresenta cefaleia frontal, náuseas e vômitos.\nPA = 150 x 95 mmHg, LDH = 800, plaquetas =\n85.000, TGO = 85 e TGP = 90.",
+          "verso": "Síndrome HELLP.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são os critérios diagnósticos\nda síndrome HELLP?",
+          "verso": "• Hemólise: DHL > 600 UI/L,\nesquizócitos;\n• Elevação das enzimas hepáticas: 2\nvezes o limite superior;\n• Plaquetas < 100.000/mm³.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é o tratamento da síndrome\nHELLP?",
+          "verso": "• Internação e estabilização hemodinâmica;\n• Sulfato de magnésio;\n• Hidralazina se PA ≥ 160/110 mmHg;\n• Resolução da gestação\nindependentemente da idade gestacional.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é o tratamento da iminência de\neclâmpsia e da eclâmpsia?",
+          "verso": "• Internação e estabilização hemodinâmica;\n• Sulfato de magnésio;\n• Hidralazina se PA ≥ 160/110 mmHg;\n• Resolução da gestação independentemente\nda idade gestacional.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é o tipo de convulsão da\neclâmpsia?",
+          "verso": "Convulsão tônico-clônica\ngeneralizada.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\nmulher na 36ª semana de gestação apresenta\ncefaleia, escotomas citilantes e epigastralgia.\nPA = 180 x 110 mmHg, plaquetas= 130.000,\nTGO = 30, TGP 25, proteinúria/creatinúria = 0,3.",
+          "verso": "Iminência de eclâmpsia.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante de 37 semanas apresentava cefaleia,\nturvação visual, epigastralgia, edema e PA\n= 170 x 110 mmHg. Evoluiu com convulsões\ntônico-clônicas no pronto-socorro.",
+          "verso": "Eclâmpsia.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a medicação de escolha para\nprevenção e tratamento das convulsões\nnos quadros de pré-eclâmpsia grave,\nsíndrome HELLP, iminência de\neclâmpsia e eclâmpsia?",
+          "verso": "Sulfato de magnésio.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é o esquema preferencial de\nadministração de sulfato de magnésio\npara gestantes que serão transferidas\npara hospital de referência?",
+          "verso": "Esquema de Pritchard:\n• Dose inicial: 4g EV (bolus) em 10-15 minutos +\n10g IM (5g em cada nádega);\n• Dose de manutenção: 5g IM profunda a cada\n4h.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Como é realizado o esquema de\nZuspan para administração de sulfato\nde magnésio em gestantes?",
+          "verso": "• Dose inicial: 4g EV (bolus) em\n10-15 minutos;\n• Dose de manutenção: 1g EV\npor hora em bomba de infusão.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Que sinais clínicos sugerem maiores\nchances de intoxicação por sulfato\nde magnésio e, portanto, indicam\nsuspensão da sulfatação em gestantes?",
+          "verso": "Reflexo patelar ausente, FR < 16\nbpm e diurese < 25 mL/h.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a concentração terapêutica de\nsulfato de magnésio?",
+          "verso": "4 a 7 mEq/L.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a conduta indicada em caso de\ngestante com suspeita de intoxicação\npor sulfato de magnésio?",
+          "verso": "Suspender a sulfatação e\nadministrar gluconato de\ncálcio 10%.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a definição de hipertensão\narterial grave/crise hipertensiva na\ngestação?",
+          "verso": "PA ≥ 160 x 110 mmHg confirmada\napós 15 minutos de repouso.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são o anti-hipertensivo de\nescolha e a principal alternativa para\no manejo da crise hipertensiva na\ngestação?",
+          "verso": "1. Hidralazina EV;\n2. Nifedipina VO (não usar\nsublingual).\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é o alvo de PA no manejo de\numa crise hipertensiva na gestação?",
+          "verso": "Manter a PA entre\n140-150 x 90-110 mmHg.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Qual é a definição de hipertensão\narterial crônica na gestação?",
+          "verso": "Hipertensão arterial prévia à\ngestação, ou diagnosticada antes de\n20 semanas, ou que não desaparece\nem até 12 semanas pós-parto.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\nmulher de 36 anos, idade gestacional de 15\nsemanas, apresenta aumento da pressão arterial\nem duas consultas seguidas (150x 100 mmHg).\nNega queixas e os exames realizados no primeiro\ntrimestre estão normais.",
+          "verso": "Hipertensão arterial crônica.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são os critérios diagnósticos\nde hipertensão arterial crônica com\npré-eclâmpsia sobreposta?",
+          "verso": "Hipertensão arterial crônica + proteinúria,\nou lesão de órgão-alvo materno, ou\ndisfunção uteroplacentária que aparecem\napós 20 semanas de gestação.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Diagnóstico provável:\ngestante com hipertensão arterial prévia à\ngestação queixa-se de edema e cefaleia.\nPA = 150 x 95 mmHg, TGO = 35, TGP =32,\nplaquetas = 140 mil, creatinina = 0,8, LDH = 400\ne proteinúria/creatinúria = 0,4.",
+          "verso": "Hipertensão arterial crônica com\npré-eclâmpsia sobreposta.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são as idades gestacionais de\nresolução da gestação em casos de\nhipertensão arterial crônica com ou\nsem pré-eclâmpsia sobreposta?",
+          "verso": "• Hipertensão arterial crônica:\n40 semanas;\n• Hipertensão arterial crônica com\npré-eclâmpsia sobreposta:\n37 semanas.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são as idades gestacionais\nde resolução da gestação em casos\nde síndrome HELLP, iminência de\neclâmpsia ou eclâmpsia?",
+          "verso": "Imediata, independentemente da\nidade gestacional.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Quais são as idades gestacionais de\nresolução da gestação em casos de\nhipertensão gestacional e de\npré-eclâmpsia com ou sem sinais de\ngravidade?",
+          "verso": "• Hipertensão gestacional:\n40 semanas;\n• Pré-eclâmpsia sem sinais de\ngravidade: 37 semanas;\n• Pré-eclâmpsia com sinais de\ngravidade: 34 semanas.\nHipertensão na Gestação"
+        },
+        {
+          "frente": "Por quanto tempo o sulfato de magnésio deve ser mantindo após episódio de crise convulsiva ou parto?",
+          "verso": "24 horas"
+        },
+        {
+          "frente": "Quais são os fatores de alto risco para pré-eclâmpsia?",
+          "verso": "História prévia de pré-eclâmpsia\n\n\nObesidade (IMC > 30)\n\n\nHipertensão arterial crônica\n\n\nDiabetes tipo 1 ou tipo 2\n\n\nDoença renal\n\n\nDoenças autoimunes (ex.: lúpus, SAAF)\n\n\nReprodução assistida\n\n\nGestação múltipla"
+        },
+        {
+          "frente": "Fatores de risco moderados para pré-eclampsia",
+          "verso": "Gravidez prévia com evento adverso\n\n\nDPP\n\n\nprematuridade\n\n\nbaixo peso ao nascer\n\n\nóbito fetal > 37 semanasHistória familiar de pré-eclâmpsia (mãe ou irmã)\n\n\nNuliparidade\n\n\nIdade materna ≥ 35 anos\n\n\nIntervalo interpartal > 10 anos"
+        },
+        {
+          "frente": "Paciente com síndrome HELLP/eclâmpsia que evolui no puerpério com cefaleia persistente → qual a conduta?",
+          "verso": "👉 Solicitar TC de crânio\n\n💡 Raciocínio de prova:\n\n\nCefaleia persistente pós-eclâmpsia = red flag\n\n\nPensar em complicações graves:\n\n\nHemorragia cerebral\n\n\nEdema cerebral / PRES\n\n\n\n\n❌ Não fazer apenas analgesia\n\n\n❌ Não tratar como cefaleia comum ou pós-raqui\n\n\n👉 Sempre investigar com neuroimagem (TC de crânio)"
+        },
+        {
+          "frente": "Na pré-eclâmpsia precoce, qual achado indica interrupção imediata da gestação, independente da idade gestacional?",
+          "verso": "👉 Edema agudo de pulmão\n\n💡 Raciocínio de prova:\n\n\nIndica gravidade materna extrema\n\n\nFaz parte das indicações absolutas de resolução\n\n\n❗ Independe da IG\n\n\n🚫 Pegadinhas:\n\n\nCrise hipertensiva → só se refratária\n\n\nHiperuricemia → não indica interrupção\n\n\nQueda de hematócrito → não é critério isolado"
+        },
+        {
+          "frente": "Na hipertensão arterial crônica na gestação, qual é o alvo de controle da pressão arterial?",
+          "verso": "👉 Manter PA < 140x90 mmHg (PAD ≈ 85 mmHg) desde o início da gestação\n💡 Raciocínio de prova:\n\n\nControle deve ser rigoroso desde o 1º trimestre\n\n\nObjetivo principal: reduzir risco materno e perinatal\n\n\n❗ Não é “deixar subir até 160x100”\n\n\n❗ Não é reduzir percentual da PA\n\n\n🚫 Pegadinhas clássicas:\n\n\n“Normalizar só no 3º trimestre” → errado\n\n\n“Aceitar PA até 160x100” → errado\n\n\n“Reduzir 20% da PA” → errado"
+        },
+        {
+          "frente": "Gestação gemelar com ~25 semanas → qual é o próximo exame fetal indicado no pré-natal?",
+          "verso": "👉 Ecocardiograma fetal\n💡 Raciocínio de prova:\n\n\n~24–28 semanas → fase ideal para avaliação cardíaca detalhada\n\n\nGestação gemelar = maior risco de malformações → rastreio mais rigoroso\n\n\n🚫 Pegadinhas:\n\n\nMorfológica → já foi (18–24 semanas)\n\n\nDoppler de uterinas → 1º trimestre\n\n\nColo uterino → 18–24 semanas"
+        },
+        {
+          "frente": "Na HAS crônica na gestação, quais são as drogas de primeira linha na gravidez e no aleitamento (respectivamente)?",
+          "verso": "👉 Gravidez: alfametildopa\n\n👉 Aleitamento: nifedipina / captopril (seguros)\n\n💡 Raciocínio de prova:\n\n\nMetildopa = droga clássica de 1ª linha na gestação\n\n\nNifedipina também é segura, muito usada\n\n\nNo puerpério/aleitamento → pode usar mais opções (ex.: captopril)\n\n\n🚫 Pegadinhas:\n\n\nIECA (captopril, enalapril) → ❌ proibidos na gestação\n\n\nLosartana → ❌ contraindicado\n\n\nDiuréticos → ⚠️ evitar\n\n\nAtenolol → ❌ RCIU"
+        }
+      ]
+    },
+    {
+      "id": "obste-tpp-prematuridade-e-trabalho-de-parto-prematuro",
+      "tema": "Obstetrícia",
+      "subarea": "TPP - Prematuridade e Trabalho de Parto Prematuro",
+      "cards": [
+        {
+          "frente": "Como é a classificação da\nprematuridade de acordo com a\nidade gestacional?",
+          "verso": "• Prematuro extremo: < 28 semanas;\n• Muito prematuro: 28 a 31 semanas + 6 dias;\n• Prematuro moderado: 32 a 33 semanas + 6 dias;\n• Prematuro tardio: 34 a 36 semanas + 6 dias.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Como se classifica a prematuridade\nde acordo com as causas?",
+          "verso": "• Espontânea;\nº Trabalho de parto prematuro;\nº Rotura prematura de membranas pré-termo;\nº Insuficiência istmo-cervical.\n• Eletiva;\nº Complicação materna ou fetal.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quais são os quatro mecanismos\nprimários da fisiopatologia do\ntrabalho de parto prematuro?",
+          "verso": "• Ativação do eixo hipotálamo-hipófise-adrenal;\n• Resposta inflamatória exagerada;\n• Hemorragia decidual;\n• Distensão uterina patológica.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é o principal fator de risco\npara parto prematuro?",
+          "verso": "Parto prematuro prévio.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é a causa identificável mais\ncomum de trabalho de parto\nprematuro?",
+          "verso": "Infecção do trato geniturinário.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quando se indica a progesterona\nvaginal para a redução do risco de\nprematuridade?",
+          "verso": "Gestantes entre 16 e 36 semanas com:\n• Colo uterino ≤ 25 mm entre 16-24\nsemanas; ou\n• Parto prematuro prévio < 34 semanas.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é a conduta indicada para\ngestante (16 semanas) com colo\nuterino curto e parto prematuro\nprévio?",
+          "verso": "Progesterona\nvaginal +\ncerclagem\nuterina.\nTrabalho de Parto Prematuro",
+          "img_verso": [
+            "data/flashcards-img/27.jpeg"
+          ]
+        },
+        {
+          "frente": "Quais são as indicações de\nrealização da cerclagem uterina em\ngestantes?",
+          "verso": "• Insuficiência istmo-cervical;\n• Parto prematuro prévio\n< 34 semanas + colo uterino\natual < 25 mm antes de 24\nsemanas;\n• História prévia de trauma\nou cirurgia cervical.\nTrabalho de Parto Prematuro",
+          "img_verso": [
+            "data/flashcards-img/5.jpeg"
+          ]
+        },
+        {
+          "frente": "Descreva a triagem infecciosa\nindicada para todas as gestantes\npara redução do risco de\nprematuridade.",
+          "verso": "Fazer urocultura no início do\npré-natal + tratar a bacteriúria\nassintomática e as infecções\ngeniturinárias confirmadas.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "O repouso absoluto é recomendado\npara prevenção de parto\nprematuro?",
+          "verso": "Não está indicado, pois não\nreduz prematuridade e aumenta\ncomplicações maternas.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Que gestantes têm indicação de\nrealização de USG transvaginal\npara predição do risco de\nprematuridade?",
+          "verso": "Todas as gestantes entre\n18-24 semanas (16-24 semanas, se\nprematuridade prévia < 34 semanas).\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Que medida da USG transvaginal\nem gestantes sugere maior risco\nde prematuridade?",
+          "verso": "Colo uterino ≤ 25 mm entre\n18-24 semanas (16-24 semanas, se\nprematuridade prévia < 34 semanas).\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quais são as principais\ncomplicações dos bebês\nprematuros?",
+          "verso": "• Síndrome da membrana hialina;\n• Hemorragia intraventricular;\n• Enterocolite necrosante; e\n• Sepse neonatal.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quais são os critérios clínicos que\nsugerem gestante em trabalho de\nparto prematuro?",
+          "verso": "Gestante < 37 semanas com ≥ 2\ncontrações regulares a cada 10\nminutos + dilatação cervical ≥ 3 cm.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é o exame padrão-ouro para\navaliação da maturidade pulmonar\nfetal?",
+          "verso": "Relação lectina/esfingomielina no\nlíquido amniótico.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quais são a indicação de uso\ne a interpretação do teste da\nfibronectina para o diagnóstico de\ntrabalho de parto prematuro?",
+          "verso": "Indicado quando o diagnóstico é incerto + colo\nuterino entre 20-30 mm.\n• Resultado negativo: seguimento ambulatorial;\n• Resultado positivo: diagnóstico provável de\ntrabalho de parto prematuro.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é a conduta indicada para\ngestantes em trabalho de parto\nprematuro ≥ 34 semanas?",
+          "verso": "• Antibioticoprofilaxia, se a cultura para\nestreptococo do grupo B for positiva ou\ndesconhecida.\n• Considerar o uso de corticoide (aceito em\nalgumas instituições).\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é a conduta indicada para\ngestantes em trabalho de parto\nprematuro entre 24 e 33 semanas +\n6 dias?",
+          "verso": "• Corticoterapia;\n• Sulfato de magnésio < 32 semanas;\n• Antibioticoprofilaxia, se a cultura para estreptococo\ndo grupo B for positiva ou desconhecida;\n• Tocólise.\nObs: os protocolos da FMUSP não recomendam sulfato\nde magnésio para neuroproteção fetal.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é o objetivo da administração\nde corticoide durante o trabalho de\nparto prematuro?",
+          "verso": "Acelerar a maturação pulmonar.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quais são os corticoides indicados\npara a maturação pulmonar durante\no trabalho de parto prematuro?",
+          "verso": "Betametasona ou dexametasona.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quando se recomenda a pesquisa\nde estreptococo do grupo B\ndurante a gestação?",
+          "verso": "Swab anal e vaginal para cultura\nentre a 35ª e a 37ª semana.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quais são as indicações de\nantibioticoprofilaxia intraparto\ncontra estreptococo do grupo B\n(GBS)?",
+          "verso": "• Cultura vaginal/retal ou de urina positiva para GBS;\n• Infecção neonatal por GBS de filhos anteriores;\n• Cultura desconhecida + um fator de risco:\nº Febre intraparto (≥ 38ºC); ou\nº Parto prematuro; ou\nº Rotura prematura de membranas  18h.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é o esquema de escolha\npara antibioticoprofilaxia contra\nestreptococo do grupo B durante o\ntrabalho de parto prematuro?",
+          "verso": "Penicilina cristalina EV 5 milhões\nUI + 2,5 milhões UI a cada 4 horas\naté o parto.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é o objetivo da tocólise\ndurante o trabalho de parto\nprematuro?",
+          "verso": "Adiar o parto em até 48h para\ngarantir a administração do\ncorticoide ou para transportar a\ngestante quando necessário.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quais são os dois tocolíticos de\nescolha no trabalho de parto\nprematuro?",
+          "verso": "Nifedipina (bloqueador do canal de\ncálcio) e atosiban (antagonista do\nreceptor de ocitocina).\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é o principal efeito colateral\nda indometacina quando usada\ncomo tocolítico?",
+          "verso": "Fechamento intrauterino do ducto\narterioso.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Qual é o objetivo do sulfato de\nmagnésio durante o trabalho de\nparto prematuro?",
+          "verso": "Neuroproteção fetal (diminui o risco de\nparalisia cerebral).\nObs: os protocolos da FMUSP não\nrecomendam sulfato de magnésio para\nneuroproteção fetal.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Quando se indica o sulfato de\nmagnésio para neuroproteção\nfetal?",
+          "verso": "Trabalho de parto iminente entre 24\nsemanas e 31 semanas + 6 dias.\nObs: os protocolos da FMUSP não\nrecomendam sulfato de magnésio para\nneuroproteção fetal.\nTrabalho de Parto Prematuro"
+        },
+        {
+          "frente": "Que medicação pode reduzir o\nrisco de paralisia cerebral durante\ntrabalho de parto prematuro\niminente?",
+          "verso": "Sulfato de magnésio.\nObs: os protocolos da FMUSP não\nrecomendam sulfato de magnésio\npara neuroproteção fetal.\nTrabalho de Parto Prematuro"
+        }
+      ]
+    },
+    {
+      "id": "obste-ultrassom-em-obstetricia",
+      "tema": "Obstetrícia",
+      "subarea": "Ultrassom em Obstetrícia",
+      "cards": [
+        {
+          "frente": "Qual é o ultrassom mais preciso\npara estimar a idade gestacional?",
+          "verso": "Ultrassonografia obstétrica\nrealizada entre 6 e 14 semanas."
+        },
+        {
+          "frente": "A partir de quantas semanas é\npossível fazer o diagnóstico de\ngravidez intrauterina?",
+          "verso": "4,5 a 5 semanas de gestação."
+        },
+        {
+          "frente": "Qual é o diâmetro médio do saco\ngestacional em que é obrigatório\nvisualizar embrião ou vesícula\nvitelina?",
+          "verso": "DMSG ≥ 25 mm."
+        },
+        {
+          "frente": "A partir de quantas semanas o\nembrião pode ser visualizado na\nultrassonografia?",
+          "verso": "5,5 a 6 semanas de gestação."
+        },
+        {
+          "frente": "Qual é a medida mais importante\npara se calcular a idade gestacional\npela ultrassonografia?",
+          "verso": "Medida do comprimento cabeça-\nnádegas (CCN)."
+        },
+        {
+          "frente": "A partir de que medida do\ncomprimento cabeça-nádegas é\nobrigatório observar batimentos\ncardíacos fetais?",
+          "verso": "CCN ≥ 7 mm."
+        },
+        {
+          "frente": "Qual é o nível sérico de B-hCG\na partir do qual é obrigatória a\nvisualização do saco gestacional\nintrauterino?",
+          "verso": "B-hCG ≥ 3500 mUI/mL."
+        },
+        {
+          "frente": "Quais são os principais parâmetros\npara indicar uma gestação não\nevolutiva?",
+          "verso": "DMSG ≥ 25 mm sem embrião ou\nvesícula vitelínica ou CCN ≥ 7 mm\nsem atividade cardíaca."
+        },
+        {
+          "frente": "Qual é o parâmetro biométrico\nisolado mais fidedigno para se\nestimar a idade gestacional entre 14\ne 28 semanas?",
+          "verso": "Diâmetro biparietal."
+        },
+        {
+          "frente": "Qual é o parâmetro biométrico\nisolado mais fidedigno para estimar\na idade gestacional a partir de 28\nsemanas?",
+          "verso": "Comprimento do fêmur."
+        },
+        {
+          "frente": "Qual é o parâmetro biométrico\nisolado mais fidedigno para se\nestimar o peso fetal?",
+          "verso": "Circunferência abdominal."
+        },
+        {
+          "frente": "Qual é o principal objetivo do\nrastreamento de aneuploidias na\ngestação?",
+          "verso": "Identificar os fetos com\nmaior risco de trissomia do\ncromossomo 21."
+        },
+        {
+          "frente": "Em que período gestacional\né possível calcular o risco de\ncromossomopatias?",
+          "verso": "Entre 11 e 13 semanas e 6 dias."
+        },
+        {
+          "frente": "Qual é o principal marcador\nultrassonográfico de\ncromossomopatias no primeiro\ntrimestre?",
+          "verso": "Translucência nucal."
+        },
+        {
+          "frente": "Quais são os principais marcadores\nbioquímicos de cromossomopatias\nno primeiro trimestre?",
+          "verso": "Fração livre de B-hCG e proteína\nplasmática A associada à gravidez\n(PAPP-A)."
+        },
+        {
+          "frente": "Qual é o intervalo de medida do\nCCN em que é possível medir a\ntranslucência nucal?",
+          "verso": "CCN entre 45 e 84 mm."
+        },
+        {
+          "frente": "Quando se considera que a medida\nda TN está alterada?",
+          "verso": "Quando a TN se encontra acima\ndo percentil 95 para a idade\ngestacional."
+        },
+        {
+          "frente": "Quais são os outros marcadores\nultrassonográficos de\ncromossomopatias no primeiro\ntrimestre, além da translucência nucal?",
+          "verso": "Osso nasal, ducto venoso, ângulo\nfacial frontomaxilar e regurgitação\nda valva tricúspide."
+        },
+        {
+          "frente": "Qual é o método de rastreamento\nde cromossomopatias com maior\nacurácia?",
+          "verso": "DNA fetal livre no sangue materno."
+        },
+        {
+          "frente": "Que cromossomopatias podem ser\nrastreadas pelo DNA fetal livre no\nsangue materno?",
+          "verso": "Trissomias dos cromossomos\n21, 18, 13 e monossomia do\ncromossomo X."
+        },
+        {
+          "frente": "Qual é a conduta diante de um\nrastreamento positivo para\ncromossomopatias?",
+          "verso": "Realização do cariótipo fetal,\npor biopsia de vilo corial ou\namniocentese."
+        },
+        {
+          "frente": "Em que idade gestacional deve\nser realizada a ultrassonografia\nmorfológica do segundo trimestre?",
+          "verso": "Entre 18 e 24 semanas de\ngestação."
+        },
+        {
+          "frente": "Quais são os parâmetros\nbiométricos mais utilizados para\nestimar o peso fetal?",
+          "verso": "Diâmetro biparietal,\ncircunferência craniana,\ncircunferência abdominal,\ncomprimento do fêmur."
+        },
+        {
+          "frente": "Qual é a única malformação\nfetal em que é possível realizar a\ninterrupção da gestação?",
+          "verso": "Anencefalia."
+        },
+        {
+          "frente": "Qual é a idade gestacional para se\nrealizar biopsia de vilo corial?",
+          "verso": "Entre 11 a 13 semanas de gestação."
+        },
+        {
+          "frente": "Qual é a idade gestacional para se\nrealizar a amniocentese?",
+          "verso": "Entre 15 e 24 semanas de\ngestação."
+        },
+        {
+          "frente": "A partir de que idade gestacional\npode ser realizada a cordocentese?",
+          "verso": "20 semanas de gestação."
+        },
+        {
+          "frente": "Quais são as principais indicações\npara realização de cordocentese?",
+          "verso": "Suspeita de anemia\nfetal, trombocitopenia fetal e\narritmia fetal."
+        },
+        {
+          "frente": "Qual é o risco médio de perda fetal\nem procedimentos invasivos, como\namniocentese e biopsia de vilo\ncorial?",
+          "verso": "Risco de perda fetal de 1%."
+        },
+        {
+          "frente": "Qual é a melhor idade\ngestacional para se realizar\necocardiograma fetal?",
+          "verso": "Entre 24 e 28 semanas de\ngestação."
+        }
+      ]
+    },
+    {
+      "id": "obste-vitalidade-fetal",
+      "tema": "Obstetrícia",
+      "subarea": "Vitalidade Fetal",
+      "cards": [
+        {
+          "frente": "Quais são as quatro comunicações\npresentes na circulação fetal e que\nse fecham após o nascimento?",
+          "verso": "Vasos umbilicais, ducto venoso,\nforame oval e canal arterial."
+        },
+        {
+          "frente": "Quais são os vasos do cordão\numbilical?",
+          "verso": "Duas artérias umbilicais\ne uma veia umbilical."
+        },
+        {
+          "frente": "Quais são as substâncias que podem\nfechar o canal arterial durante a\ngestação e, por isso, devem ser\nevitadas no terceiro trimestre?",
+          "verso": "Inibidores das prostaglandinas,\ncomo os anti-inflamatórios."
+        },
+        {
+          "frente": "Quais são os órgãos vitais do feto\nque são protegidos diante de uma\nsituação de hipoxemia fetal?",
+          "verso": "Cérebro, coração e adrenal."
+        },
+        {
+          "frente": "Qual é o principal parâmetro que\nindica hipóxia fetal aguda?",
+          "verso": "Alteração da frequência\ncardíaca fetal"
+        },
+        {
+          "frente": "Quais são as alterações da\nfrequência cardíaca fetal que\nindicam hipóxia aguda?",
+          "verso": "Diminuição da variabilidade,\ntaquicardia, desacelerações e\nbradicardia."
+        },
+        {
+          "frente": "Quais são as principais causas de\nhipóxia fetal crônica?",
+          "verso": "Hipertensão materna,\ndiabetes, colagenoses,\ntrombofilias, gestação múltipla e\ngestação pós-termo."
+        },
+        {
+          "frente": "Qual é o principal exame utilizado\npara avaliar hipóxia fetal crônica?",
+          "verso": "Dopplervelocimetria obstétrica."
+        },
+        {
+          "frente": "Quais são as principais alterações\nda Dopplervelocimetria e\nultrassonográficas que indicam\nhipóxia crônica?",
+          "verso": "Restrição de crescimento fetal, aumento da\nresistência da artéria umbilical, diminuição\nda resistência da artéria cerebral média,\naumento da resistência do ducto venoso e\ndiminuição do líquido amniótico."
+        },
+        {
+          "frente": "Quais são os exames utilizados na\navaliação da vitalidade fetal?",
+          "verso": "Ausculta cardíaca fetal\nintermitente, mobilograma,\ncardiotocografia, Dopplervelocimetria\nobstétrica, avaliação do líquido\namniótico e pH fetal."
+        },
+        {
+          "frente": "Como pode ser feita a avaliação da\nvitalidade fetal intraparto?",
+          "verso": "Ausculta intermitente dos\nbatimentos cardíacos fetais e\ncardiotocografia."
+        },
+        {
+          "frente": "Qual é o exame padrão-ouro para\navaliação da hipóxia fetal?",
+          "verso": "Avaliação do pH fetal pela\nartéria umbilical."
+        },
+        {
+          "frente": "A partir de que idade\ngestacional pode ser realizada a\ncardiotocografia?",
+          "verso": "De 24 a 26 semanas."
+        },
+        {
+          "frente": "Quais são os parâmetros que\ndevem ser observados na\ncardiotocografia?",
+          "verso": "Linha de base da FCF,\nvariabilidade da linha de base\nda FCF, acelerações transitórias\nda FCF, desacelerações da FCF,\ncontrações uterinas."
+        },
+        {
+          "frente": "Qual é o valor da linha de base\nda frequência cardíaca fetal\nconsiderada normal?",
+          "verso": "Entre 110 e 160 bpm."
+        },
+        {
+          "frente": "Que valor da linha de base é\nconsiderado bradicardia fetal?",
+          "verso": "Abaixo de 110 bpm."
+        },
+        {
+          "frente": "Que valor da linha de base é\nconsiderado taquicardia fetal?",
+          "verso": "Acima de 160 bpm."
+        },
+        {
+          "frente": "Qual é a variabilidade da linha de\nbase considerada normal?",
+          "verso": "Entre 6 e 25 bpm."
+        },
+        {
+          "frente": "Qual é a principal alteração fetal\nrelacionada ao padrão sinusoidal da\ncardiotocografia?",
+          "verso": "Anemia fetal grave."
+        },
+        {
+          "frente": "Qual é a definição de acelerações\ntransitórias?",
+          "verso": "Aumento abrupto da FCF em\nmais de 15 bpm, por mais de 15\nsegundos e menos de 2 minutos,\nacima de 32 semanas, ou aumento\nde 10 bpm por 10 segundos abaixo\nde 32 semanas."
+        },
+        {
+          "frente": "Qual é a definição de\ndesacelerações?",
+          "verso": "Quedas periódicas da frequência\ncardíaca fetal em mais de 15 bpm\npor mais de 15 segundos."
+        },
+        {
+          "frente": "O que são desacelerações\nprecoces?",
+          "verso": "Desacelerações coincidentes\ncom as contrações uterinas e que\napresentam queda uniforme e\ngradual, com duração da queda de\npelo menos 30 segundos."
+        },
+        {
+          "frente": "Qual é a causa das desacelerações\nprecoces?",
+          "verso": "Compressão do polo cefálico."
+        },
+        {
+          "frente": "O que são desacelerações tardias?",
+          "verso": "Desacelerações graduais e\nsimétricas que duram mais do que\n30 segundos, mas diferem das\nprecoces por começarem após o\npico da contração uterina."
+        },
+        {
+          "frente": "Qual é a causa das desacelerações\ntardias?",
+          "verso": "Hipóxia fetal."
+        },
+        {
+          "frente": "O que são desacelerações\nvariáveis?",
+          "verso": "Início, decalagem e forma variável,\ncom queda abrupta menor do que\n30 segundos e independente das\ncontrações uterinas."
+        },
+        {
+          "frente": "Qual é a causa das desacelerações\nvariáveis?",
+          "verso": "Compressão funicular."
+        },
+        {
+          "frente": "Como é classificada a\ncardiotocografia anteparto?",
+          "verso": "Reativa e não reativa."
+        },
+        {
+          "frente": "Quando o feto é considerado\nreativo na cardiotocografia\nanteparto?",
+          "verso": "Quando todos os parâmetros\ncardiotocográficos estão normais\ne há pelo menos duas acelerações\ntransitórias."
+        },
+        {
+          "frente": "Como é classificada a\ncardiotocografia intraparto?",
+          "verso": "Categorias 1, 2 e 3."
+        }
+      ]
     }
   ]
 }
