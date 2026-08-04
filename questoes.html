@@ -625,7 +625,7 @@
 <div class="container">
   <!-- Top bar -->
   <div class="topbar">
-    <a href="index.html" class="back" id="backBtn" onclick="if(document.getElementById('questionView').style.display!='none'){event.preventDefault();voltarGrade()}">←</a>
+    <a href="index.html" class="back" id="backBtn" onclick="if(document.getElementById('questionView').style.display!='none'){event.preventDefault();voltarAreas()}" style="text-decoration:none;">←</a>
     <div class="info">
       <div class="title" id="pageTitle">Questões</div>
       <div class="sub" id="pageSub">Carregando...</div>
@@ -692,8 +692,11 @@
 
     <!-- Progress dots -->
     <div class="progress-dots" id="progressDots"></div>
-    <div style="text-align:center;margin-bottom:12px;" id="backToAreasLink">
-      <a href="#" onclick="voltarGrade();return false" style="color:var(--muted);font-size:0.8rem;text-decoration:none;">← Voltar para áreas</a>
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;" id="backToAreasLink">
+      <a href="#" id="backLink" onclick="voltarAreas();return false" style="color:var(--muted);font-size:0.8rem;text-decoration:none;">← Voltar para áreas</a>
+      <div style="display:none;" id="erroSearchWrap">
+        <input id="erroSearch" type="text" placeholder="🔍 Buscar no enunciado..." oninput="filtrarErrosBusca()" style="background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 12px;font-size:0.78rem;color:var(--text);width:200px;outline:none;">
+      </div>
     </div>
 
     <!-- Question area -->
@@ -850,6 +853,8 @@ let questoesFiltradas = [];
 let assuntoData = null;
 let filtroEstado = 'todas'; // 'todas' | 'acertou' | 'errou' | 'nao' | 'favoritas'
 let ordemEmbaralhada = false;
+let emModoErroArea = false; // true quando dentro de uma área específica no caderno de erros
+let buscaErroTexto = '';
 
 const AREA_ICONS = {
   'clinica-medica': '🫁', 'cirurgia': '🔪', 'pediatria': '👶',
@@ -1259,7 +1264,8 @@ function filtrarOrigem(origem) {
   document.querySelectorAll('#origemFilter .origem-pill').forEach(p => {
     p.classList.toggle('active', p.dataset.origem === (origem || ''));
   });
-  aplicarFiltros();
+  if (emModoErroArea) aplicarFiltrosErro();
+  else aplicarFiltros();
 }
 
 // ─── Instituições de interesse + banca ───
@@ -1326,7 +1332,8 @@ function filtrarBanca(b) {
   document.querySelectorAll('#bancaFilter .sub-pill-banca').forEach(p => {
     p.classList.toggle('active', p.dataset.banca === (b || ''));
   });
-  aplicarFiltros();
+  if (emModoErroArea) aplicarFiltrosErro();
+  else aplicarFiltros();
 }
 function abrirGestaoInstituicoes() {
   document.getElementById('instModal').classList.add('visible');
@@ -1842,6 +1849,14 @@ function voltarGrade() {
   if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
 }
 
+function voltarAreas() {
+  if (emModoErroArea) {
+    voltarGradeErros();
+  } else {
+    voltarGrade();
+  }
+}
+
 // ─── Revisão Espaçada ───
 async function carregarRevisao() {
   document.getElementById('pageTitle').textContent = 'Revisão Espaçada';
@@ -1946,15 +1961,21 @@ async function carregarSessaoPersonalizada() {
   showQuestion(0);
 }
 
-// ─── Caderno de Erros ───
+// ─── Caderno de Erros (melhorado com grade + filtros) ───
+let erroDataCache = {}; // {slug: [questões erradas]}
+
 async function carregarErros() {
   document.getElementById('pageTitle').textContent = 'Caderno de Erros';
-  document.getElementById('pageSub').textContent = 'Suas questões erradas';
   document.getElementById('modeBadge').textContent = '❌ Erros';
+  emModoErroArea = false;
+
   const progresso = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
   const areas = Object.keys(assuntoData || {'clinica-medica':1,'cirurgia':1,'pediatria':1,'ginecologia':1,'obstetricia':1,'medicina-preventiva':1});
 
-  const erradas = [];
+  // Coleta erros por área
+  erroDataCache = {};
+  let totalErros = 0;
+
   for (const a of areas) {
     try {
       const r = await fetch(`data/${a}.json`);
@@ -1962,36 +1983,300 @@ async function carregarErros() {
       const data = await r.json();
       const qs = data.questoes || [];
       const prog = progresso[a] || {};
+      const erradas = [];
       qs.forEach(q => {
         const v = prog[String(q.id)];
         const acertou = typeof v === 'boolean' ? v : v?.acertou;
         if (acertou === false) erradas.push({ ...q, _area: a });
       });
+      if (erradas.length > 0) {
+        erroDataCache[a] = erradas;
+        totalErros += erradas.length;
+      }
     } catch {}
   }
 
-  questoesFiltradas = erradas;
-  document.getElementById('filterMode').style.display = 'flex';
+  document.getElementById('filterMode').style.display = 'none';
   document.getElementById('streakBar').style.display = 'none';
 
-  if (erradas.length === 0) {
+  if (totalErros === 0) {
     document.getElementById('areaGrid').style.display = 'none';
     document.getElementById('questionView').style.display = 'block';
     document.getElementById('questionArea').innerHTML =
       '<div style="text-align:center;padding:50px 20px;color:var(--muted);">🎉 Nenhuma questão errada ainda! Continue assim.</div>';
     document.getElementById('qTotal').textContent = '0';
     document.getElementById('pageSub').textContent = 'Você errou 0 questões';
+    document.getElementById('subFilter').innerHTML = '';
+    document.getElementById('erroSearchWrap').style.display = 'none';
+    document.getElementById('backLink').textContent = '← Início';
+    document.getElementById('backLink').onclick = () => { window.location.href = 'index.html'; return false; };
     return;
   }
 
+  document.getElementById('pageSub').textContent = `${totalErros} questões erradas • selecione uma área para revisar`;
+  document.getElementById('subFilter').innerHTML = '';
+  document.getElementById('erroSearchWrap').style.display = 'none';
+  document.getElementById('backLink').textContent = '← Início';
+  document.getElementById('backLink').onclick = () => { window.location.href = 'index.html'; return false; };
+
+  // Monta grade de áreas com erros
+  const grid = document.getElementById('areaGrid');
+  grid.style.display = 'grid';
+  grid.innerHTML = '';
+
+  for (const slug of areas) {
+    const erradas = erroDataCache[slug];
+    if (!erradas) continue;
+    const info = assuntoData?.[slug];
+    const total = info?.total || erradas.length;
+    const pct = Math.round((erradas.length / total) * 100);
+
+    const card = document.createElement('div');
+    card.className = 'area-card';
+    card.innerHTML = `
+      <div class="area-icon">${AREA_ICONS[slug] || '📚'}</div>
+      <div class="area-name" style="color:${AREA_COLORS[slug] || 'var(--text)'}">${info?.nome || slug}</div>
+      <div class="area-count">❌ ${erradas.length} / ${total} questões</div>
+      <div class="area-progress">
+        <div class="area-prog-bar">
+          <div class="area-prog-fill" style="width:${pct}%;background:#ff453a"></div>
+        </div>
+        <span class="area-prog-text" style="color:#ff453a">${pct}% de erro</span>
+      </div>
+    `;
+    card.onclick = () => abrirAreaErros(slug);
+    grid.appendChild(card);
+  }
+
+  document.getElementById('questionView').style.display = 'none';
+}
+
+async function abrirAreaErros(slug) {
+  emModoErroArea = true;
+  areaAtual = slug;
+  subareaFiltro = null;
+  subSubareaFiltro = null;
+  origemFiltro = null;
+  bancaFiltro = null;
+  buscaErroTexto = '';
+  document.getElementById('erroSearch').value = '';
+
+  const erradas = erroDataCache[slug] || [];
+  questoes = erradas;
+
   document.getElementById('areaGrid').style.display = 'none';
   document.getElementById('questionView').style.display = 'block';
-  document.getElementById('subFilter').innerHTML = '';
+
+  if (erradas.length === 0) {
+    document.getElementById('questionArea').innerHTML =
+      '<div style="text-align:center;padding:50px 20px;color:var(--muted);">🎉 Nenhuma questão errada nesta área!</div>';
+    document.getElementById('qTotal').textContent = '0';
+    document.getElementById('pageSub').textContent = '0 erros';
+    document.getElementById('subFilter').innerHTML = '';
+    document.getElementById('erroSearchWrap').style.display = 'none';
+    return;
+  }
+
+  const info = assuntoData?.[slug];
+  document.getElementById('pageTitle').textContent = `❌ Erros • ${info?.nome || slug}`;
+  document.getElementById('pageSub').textContent = `${erradas.length} questões erradas`;
+  document.getElementById('erroSearchWrap').style.display = 'block';
+  document.getElementById('backLink').textContent = `← Todas as áreas (erros)`;
+  document.getElementById('backLink').onclick = () => { voltarGradeErros(); return false; };
+
+  // Monta subfilter apenas com subáreas que têm erro
+  const subs = Object.entries(assuntoData?.[slug]?.subcategorias || {});
+  const filterEl = document.getElementById('subFilter');
+  const filter2El = document.getElementById('subFilter2');
+  filter2El.style.display = 'none';
+  filter2El.innerHTML = '';
+
+  if (subs.length > 0) {
+    filterEl.innerHTML = `<span class="sub-pill active" data-sub="" onclick="filtrarSubareaErro('')">Todas <span class="count">(${erradas.length})</span></span>` +
+      subs.map(([subSlug, subInfo]) => {
+        const subNome = subInfo.nome;
+        const qsSub = erradas.filter(q => q.subarea && q.subarea.toLowerCase() === subNome.toLowerCase());
+        if (qsSub.length === 0) return '';
+        return `<span class="sub-pill" data-sub="${subSlug}" onclick="filtrarSubareaErro('${subSlug}')">${subInfo.nome} <span class="count">(${qsSub.length})</span></span>`;
+      }).filter(s => s).join('');
+  } else {
+    filterEl.innerHTML = '';
+  }
+
+  // Origem filter
+  montarFiltroOrigem();
+  // Banca filter
+  montarFiltroBanca();
+  // Reset pills de banca
+  document.querySelectorAll('#bancaFilter .sub-pill-banca').forEach(p => {
+    const b = p.dataset.banca;
+    if (b !== '' && b !== 'interesse') p.remove();
+  });
+  const pillTodas = document.getElementById('bancaFilter').querySelector('[data-banca=""]');
+  if (pillTodas) pillTodas.classList.add('active');
+  const pillInteresse = document.getElementById('bancaFilter').querySelector('[data-banca="interesse"]');
+  if (pillInteresse) pillInteresse.classList.remove('active');
+
+  document.getElementById('filterMode').style.display = 'flex';
+  document.getElementById('streakBar').style.display = 'none';
+  document.getElementById('shuffleBtn').classList.remove('active');
+  ordemEmbaralhada = false;
+  filtroEstado = 'todas';
+  document.querySelectorAll('#filterMode .mode-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.mode === 'todas');
+  });
+
+  questoesFiltradas = [...erradas];
+  currentIndex = 0;
+  acertos = 0;
+  erros = 0;
+  answered = false;
   document.getElementById('qTotal').textContent = erradas.length;
-  document.getElementById('pageSub').textContent = `${erradas.length} questões erradas • praticando para fixar`;
-  currentIndex = 0; acertos = 0; erros = 0; answered = false;
   renderDots();
   showQuestion(0);
+}
+
+function filtrarSubareaErro(subSlug) {
+  subareaFiltro = subSlug || null;
+  subSubareaFiltro = null;
+  origemFiltro = null;
+  bancaFiltro = null;
+  document.querySelectorAll('#subFilter .sub-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.sub === (subSlug || ''));
+  });
+  document.querySelectorAll('#origemFilter .origem-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.origem === '');
+  });
+
+  // Sub-subcategory drill-down
+  const filter2El = document.getElementById('subFilter2');
+  if (subSlug && assuntoData?.[areaAtual]?.subdetalhes?.[subSlug]) {
+    const detalhes = assuntoData[areaAtual].subdetalhes[subSlug];
+    const subcats = detalhes.subcategorias || [];
+    if (subcats.length > 0) {
+      const subNome = _lookupSubNome(subSlug);
+      const qs = subNome ? questoes.filter(q => q.subarea && q.subarea.toLowerCase() === subNome.toLowerCase()) : questoes;
+      const subSubCounts = {};
+      qs.forEach(q => {
+        if (q.sub_subarea) {
+          subSubCounts[q.sub_subarea] = (subSubCounts[q.sub_subarea] || 0) + 1;
+        }
+      });
+      filter2El.innerHTML =
+        `<span class="sub-pill active" data-subsub="" onclick="filtrarSubSubareaErro('')">Todos <span class="count">(${qs.length})</span></span>` +
+        subcats.map(sc => {
+          const cnt = subSubCounts[sc] || 0;
+          if (cnt === 0) return '';
+          return `<span class="sub-pill" data-subsub="${sc}" onclick="filtrarSubSubareaErro('${sc.replace(/'/g, "\\'")}')">${sc} <span class="count">(${cnt})</span></span>`;
+        }).filter(s => s).join('');
+      filter2El.style.display = 'flex';
+    } else {
+      filter2El.style.display = 'none';
+    }
+  } else {
+    filter2El.style.display = 'none';
+  }
+
+  aplicarFiltrosErro();
+}
+
+function filtrarSubSubareaErro(subSubNome) {
+  subSubareaFiltro = subSubNome || null;
+  bancaFiltro = null;
+  document.querySelectorAll('#subFilter2 .sub-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.subsub === (subSubNome || ''));
+  });
+  aplicarFiltrosErro();
+}
+
+function aplicarFiltrosErro() {
+  let lista = [...questoes];
+
+  // Filtro por subárea
+  if (subareaFiltro) {
+    const subNome = _lookupSubNome(subareaFiltro);
+    lista = lista.filter(q => q.subarea && q.subarea.toLowerCase() === subNome.toLowerCase());
+  }
+
+  // Filtro por sub-subárea
+  if (subSubareaFiltro) {
+    lista = lista.filter(q => q.sub_subarea && q.sub_subarea === subSubareaFiltro);
+  }
+
+  // Filtro por origem
+  if (origemFiltro) {
+    if (origemFiltro === 'interesse') {
+      const interesse = getInstituicoesInteresse();
+      lista = lista.filter(q => {
+        const b = q.banca || q.instituicao || '';
+        return b && interesse.includes(b);
+      });
+    } else {
+      lista = lista.filter(q => origemDaQuestao(q) === origemFiltro);
+    }
+  }
+
+  // Filtro por banca
+  if (bancaFiltro) {
+    if (bancaFiltro === 'interesse') {
+      const interesse = getInstituicoesInteresse();
+      lista = lista.filter(q => {
+        const b = q.banca || q.instituicao || '';
+        return b && interesse.includes(b);
+      });
+    } else {
+      lista = lista.filter(q => (q.banca || q.instituicao || '') === bancaFiltro);
+    }
+  }
+
+  // Busca textual no enunciado
+  if (buscaErroTexto) {
+    const termo = buscaErroTexto.toLowerCase();
+    lista = lista.filter(q => q.enunciado && q.enunciado.toLowerCase().includes(termo));
+  }
+
+  // Shuffle
+  if (ordemEmbaralhada) {
+    for (let i = lista.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [lista[i], lista[j]] = [lista[j], lista[i]];
+    }
+  }
+
+  questoesFiltradas = lista;
+  currentIndex = 0;
+  acertos = 0;
+  erros = 0;
+  answered = false;
+  document.getElementById('qTotal').textContent = lista.length;
+  renderDots();
+  showQuestion(0);
+}
+
+function filtrarErrosBusca() {
+  buscaErroTexto = document.getElementById('erroSearch').value.trim();
+  aplicarFiltrosErro();
+}
+
+function voltarGradeErros() {
+  emModoErroArea = false;
+  areaAtual = null;
+  document.getElementById('questionView').style.display = 'none';
+  document.getElementById('areaGrid').style.display = 'grid';
+  document.getElementById('filterMode').style.display = 'none';
+  document.getElementById('streakBar').style.display = 'none';
+  document.getElementById('resultScreen').classList.remove('visible');
+  document.getElementById('resultScreen').style.display = 'none';
+  document.getElementById('questionArea').style.display = 'block';
+  document.getElementById('statsBar').style.display = 'flex';
+  document.getElementById('progressDots').style.display = 'flex';
+  document.getElementById('erroSearchWrap').style.display = 'none';
+  if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
+
+  document.getElementById('pageTitle').textContent = 'Caderno de Erros';
+  document.getElementById('pageSub').textContent = `${Object.values(erroDataCache).reduce((s, a) => s + a.length, 0)} questões erradas • selecione uma área`;
+  document.getElementById('backLink').textContent = '← Início';
+  document.getElementById('backLink').onclick = () => { window.location.href = 'index.html'; return false; };
 }
 
 // ─── Sessão customizada (modal Nova Sessão) ───
@@ -2060,13 +2345,15 @@ function filtrarEstado(mode) {
   document.querySelectorAll('#filterMode .mode-pill').forEach(p => {
     p.classList.toggle('active', p.dataset.mode === mode);
   });
-  aplicarFiltros();
+  if (emModoErroArea) aplicarFiltrosErro();
+  else aplicarFiltros();
 }
 
 function toggleShuffle() {
   ordemEmbaralhada = !ordemEmbaralhada;
   document.getElementById('shuffleBtn').classList.toggle('active', ordemEmbaralhada);
-  aplicarFiltros();
+  if (emModoErroArea) aplicarFiltrosErro();
+  else aplicarFiltros();
 }
 
 function aplicarFiltros() {
