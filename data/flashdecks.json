@@ -18,6 +18,603 @@
           "verso": "BRA/IECA + betabloqueador + inibidor SGLT2. Soma-se antialdosterônico (ARM/espironolactona) quando indicado e o sódulo. A ordem/ajuste segue o fluxo GDMT."
         }
       ]
+    },
+    {
+      "id": "anest-etomidato",
+      "tema": "Anestesiologia",
+      "subarea": "Etomidato",
+      "cards": [
+        {
+          "frente": "Qual é a classe farmacológica do etomidato?",
+          "verso": "Anestésico intravenoso de ação ultracurta"
+        },
+        {
+          "frente": "Qual é a estrutura química do etomidato?",
+          "verso": "Derivado imidazólico carboxilado"
+        },
+        {
+          "frente": "Qual enantiômero está presente na formulação clínica do etomidato?",
+          "verso": "R(+)"
+        },
+        {
+          "frente": "Qual é o pKa do etomidato?",
+          "verso": "4,2"
+        },
+        {
+          "frente": "Como é a lipossolubilidade do etomidato em pH fisiológico?",
+          "verso": "Alta"
+        },
+        {
+          "frente": "Qual é o principal receptor-alvo do etomidato?",
+          "verso": "GABA-A"
+        },
+        {
+          "frente": "Como o etomidato atua sobre o receptor GABA-A?",
+          "verso": "Potencializa a ação do GABA"
+        },
+        {
+          "frente": "Qual é o principal efeito neuronal do etomidato?",
+          "verso": "Inibição neuronal por aumento da entrada de Cl⁻"
+        },
+        {
+          "frente": "Qual é o principal efeito clínico do etomidato?",
+          "verso": "Hipnose"
+        },
+        {
+          "frente": "O etomidato produz analgesia significativa?",
+          "verso": "Não"
+        },
+        {
+          "frente": "Qual fármaco pode ser associado ao etomidato para analgesia?",
+          "verso": "Opioide"
+        },
+        {
+          "frente": "Qual é o modelo farmacocinético do etomidato?",
+          "verso": "Tricompartimental"
+        },
+        {
+          "frente": "Qual é a ligação do etomidato às proteínas plasmáticas?",
+          "verso": "Aproximadamente 75%, principalmente à albumina"
+        },
+        {
+          "frente": "Qual característica explica a rápida distribuição cerebral do etomidato?",
+          "verso": "Alta lipossolubilidade"
+        },
+        {
+          "frente": "Qual é o volume de distribuição central do etomidato?",
+          "verso": "Aproximadamente 4,5 L/kg"
+        },
+        {
+          "frente": "Qual é o volume de distribuição periférico do etomidato?",
+          "verso": "Aproximadamente 74,9 L/kg"
+        },
+        {
+          "frente": "Qual é a meia-vida inicial de distribuição do etomidato?",
+          "verso": "2–6 minutos"
+        },
+        {
+          "frente": "Qual é a meia-vida de redistribuição do etomidato?",
+          "verso": "Aproximadamente 29 minutos"
+        },
+        {
+          "frente": "Qual é a meia-vida de eliminação do etomidato?",
+          "verso": "Aproximadamente 2,9–5,3 horas"
+        },
+        {
+          "frente": "Qual é o clearance aproximado do etomidato?",
+          "verso": "18–25 mL/kg/min"
+        },
+        {
+          "frente": "Onde ocorre principalmente o metabolismo do etomidato?",
+          "verso": "Fígado"
+        },
+        {
+          "frente": "Qual é a principal reação metabólica do etomidato?",
+          "verso": "Hidrólise do éster"
+        },
+        {
+          "frente": "Qual é o principal metabólito do etomidato?",
+          "verso": "Ácido R-(+)-1-(1-feniletil)-1H-imidazol-5-carboxílico"
+        },
+        {
+          "frente": "Os principais metabólitos do etomidato são ativos?",
+          "verso": "Não; são farmacologicamente inativos"
+        },
+        {
+          "frente": "Qual é a principal via de excreção dos metabólitos do etomidato?",
+          "verso": "Renal"
+        },
+        {
+          "frente": "Quanto da dose de etomidato é excretado na urina no primeiro dia?",
+          "verso": "Aproximadamente 75%"
+        },
+        {
+          "frente": "Qual porcentagem do etomidato é eliminada inalterada na urina?",
+          "verso": "Aproximadamente 2%"
+        },
+        {
+          "frente": "Qual é o início de ação do etomidato IV?",
+          "verso": "30–45 segundos"
+        },
+        {
+          "frente": "Qual é a duração da hipnose após uma dose de indução?",
+          "verso": "Aproximadamente 3–5 minutos"
+        },
+        {
+          "frente": "Qual mecanismo encerra principalmente a hipnose após um bolus de etomidato?",
+          "verso": "Redistribuição para tecidos periféricos"
+        },
+        {
+          "frente": "Qual é a dose usual de indução do etomidato?",
+          "verso": "0,3 mg/kg IV"
+        },
+        {
+          "frente": "Qual é a faixa de dose de indução do etomidato?",
+          "verso": "0,2–0,6 mg/kg IV"
+        },
+        {
+          "frente": "Em quanto tempo a dose de indução do etomidato deve ser administrada?",
+          "verso": "30–60 segundos"
+        },
+        {
+          "frente": "Qual é a principal vantagem cardiovascular do etomidato?",
+          "verso": "Estabilidade hemodinâmica"
+        },
+        {
+          "frente": "Como o etomidato afeta a pressão arterial e o índice cardíaco em doses clínicas?",
+          "verso": "Produz pouca alteração"
+        },
+        {
+          "frente": "Como o etomidato afeta o fluxo sanguíneo cerebral?",
+          "verso": "Reduz"
+        },
+        {
+          "frente": "Como o etomidato afeta o metabolismo cerebral de O₂?",
+          "verso": "Reduz"
+        },
+        {
+          "frente": "Como o etomidato afeta a pressão intracraniana?",
+          "verso": "Reduz"
+        },
+        {
+          "frente": "Como o etomidato afeta a pressão de perfusão cerebral?",
+          "verso": "Mantém relativamente estável"
+        },
+        {
+          "frente": "Qual é o principal efeito adverso motor do etomidato?",
+          "verso": "Mioclonia"
+        },
+        {
+          "frente": "Qual é o mecanismo proposto para a mioclonia do etomidato?",
+          "verso": "Desinibição subcortical"
+        },
+        {
+          "frente": "Qual é a incidência aproximada de mioclonia sem pré-medicação?",
+          "verso": "50–80%"
+        },
+        {
+          "frente": "Como é a depressão respiratória do etomidato em comparação ao propofol?",
+          "verso": "Menor"
+        },
+        {
+          "frente": "Qual sintoma respiratório pode ocorrer após a administração do etomidato?",
+          "verso": "Tosse ou soluço"
+        },
+        {
+          "frente": "O etomidato promove liberação significativa de histamina?",
+          "verso": "Não"
+        },
+        {
+          "frente": "Qual é o principal efeito endócrino do etomidato?",
+          "verso": "Supressão da esteroidogênese adrenal"
+        },
+        {
+          "frente": "Qual enzima adrenal é inibida pelo etomidato?",
+          "verso": "CYP11B1 (11β-hidroxilase)"
+        },
+        {
+          "frente": "Qual é o efeito da inibição da CYP11B1?",
+          "verso": "Redução da síntese de cortisol e aldosterona"
+        },
+        {
+          "frente": "Como é a inibição da CYP11B1 pelo etomidato?",
+          "verso": "Reversível e dose-dependente"
+        },
+        {
+          "frente": "Por quanto tempo a supressão de cortisol e aldosterona pode persistir após uma dose?",
+          "verso": "Aproximadamente 6–8 horas"
+        },
+        {
+          "frente": "Qual é o efeito adverso associado ao propilenoglicol da formulação tradicional?",
+          "verso": "Dor à injeção"
+        },
+        {
+          "frente": "Qual outro efeito adverso pode estar relacionado ao propilenoglicol?",
+          "verso": "Tromboflebite"
+        },
+        {
+          "frente": "Qual fármaco pode reduzir a dor da injeção do etomidato?",
+          "verso": "Lidocaína"
+        },
+        {
+          "frente": "Por que idosos podem necessitar de doses menores de etomidato?",
+          "verso": "Por redução do volume de distribuição e do clearance"
+        },
+        {
+          "frente": "Em quais pacientes o perfil cardiovascular do etomidato é particularmente vantajoso?",
+          "verso": "Pacientes com instabilidade hemodinâmica ou cardiopatia"
+        },
+        {
+          "frente": "Qual anestésico intravenoso é caracterizado por estabilidade hemodinâmica e supressão adrenal?",
+          "verso": "Etomidato"
+        }
+      ]
+    },
+    {
+      "id": "anest-quetamina",
+      "tema": "Anestesiologia",
+      "subarea": "Quetamina",
+      "cards": [
+        {
+          "frente": "Qual é a classe química da cetamina?",
+          "verso": "Arilcicloexilamina"
+        },
+        {
+          "frente": "Qual é o pKa da cetamina?",
+          "verso": "7,5"
+        },
+        {
+          "frente": "Como é a lipossolubilidade da cetamina em comparação ao tiopental?",
+          "verso": "Aproximadamente 10 vezes maior"
+        },
+        {
+          "frente": "Quais são os enantiômeros da cetamina?",
+          "verso": "R(–) e S(+)"
+        },
+        {
+          "frente": "Qual enantiômero apresenta maior potência anestésica e analgésica?",
+          "verso": "S(+)"
+        },
+        {
+          "frente": "Qual é o principal receptor-alvo da cetamina?",
+          "verso": "Receptor NMDA"
+        },
+        {
+          "frente": "Como a cetamina atua sobre o receptor NMDA?",
+          "verso": "Antagonismo não competitivo"
+        },
+        {
+          "frente": "Qual neurotransmissor está relacionado ao receptor NMDA?",
+          "verso": "Glutamato"
+        },
+        {
+          "frente": "Qual é o principal efeito anestésico da cetamina?",
+          "verso": "Anestesia dissociativa"
+        },
+        {
+          "frente": "Qual é o principal efeito analgésico da cetamina?",
+          "verso": "Antinocicepção"
+        },
+        {
+          "frente": "Qual fenômeno de sensibilização central é reduzido pela cetamina?",
+          "verso": "Wind-up"
+        },
+        {
+          "frente": "Qual mecanismo de dor central é reduzido pela cetamina?",
+          "verso": "Hipersensibilidade central"
+        },
+        {
+          "frente": "Qual é o modelo farmacocinético clássico da cetamina IV?",
+          "verso": "Bifásico"
+        },
+        {
+          "frente": "Qual é a ligação da cetamina às proteínas plasmáticas?",
+          "verso": "27–47%"
+        },
+        {
+          "frente": "Quais são as principais proteínas ligadoras da cetamina?",
+          "verso": "Albumina e α1-glicoproteína ácida"
+        },
+        {
+          "frente": "Qual é o volume de distribuição da cetamina?",
+          "verso": "Aproximadamente 2,3 L/kg"
+        },
+        {
+          "frente": "Qual é o clearance da cetamina?",
+          "verso": "Aproximadamente 20,8 mL/kg/min"
+        },
+        {
+          "frente": "Qual é a meia-vida de distribuição rápida da cetamina?",
+          "verso": "Aproximadamente 30 segundos"
+        },
+        {
+          "frente": "Qual é a meia-vida de redistribuição da cetamina?",
+          "verso": "Aproximadamente 9 minutos"
+        },
+        {
+          "frente": "Qual é a meia-vida de eliminação da cetamina?",
+          "verso": "Aproximadamente 158 minutos"
+        },
+        {
+          "frente": "Onde ocorre principalmente o metabolismo da cetamina?",
+          "verso": "Fígado"
+        },
+        {
+          "frente": "Quais CYP participam principalmente do metabolismo da cetamina?",
+          "verso": "CYP2B6 e CYP3A4"
+        },
+        {
+          "frente": "Qual é a principal reação metabólica da cetamina?",
+          "verso": "N-desmetilação"
+        },
+        {
+          "frente": "Qual é o principal metabólito da cetamina?",
+          "verso": "Norcetamina"
+        },
+        {
+          "frente": "Qual é a atividade da norcetamina em relação à cetamina?",
+          "verso": "Menor potência anestésica, mas farmacologicamente ativa"
+        },
+        {
+          "frente": "Qual metabólito é formado posteriormente a partir da norcetamina?",
+          "verso": "Hidroxinorcetamina"
+        },
+        {
+          "frente": "Qual é a principal via de excreção dos metabólitos da cetamina?",
+          "verso": "Renal"
+        },
+        {
+          "frente": "Quanto da dose de cetamina é recuperado na urina após administração IV?",
+          "verso": "Aproximadamente 91%"
+        },
+        {
+          "frente": "Quanto da dose de cetamina é recuperado nas fezes após administração IV?",
+          "verso": "Aproximadamente 3%"
+        },
+        {
+          "frente": "A cetamina é eliminada predominantemente como fármaco inalterado ou como metabólitos?",
+          "verso": "Metabólitos"
+        },
+        {
+          "frente": "Qual característica permite à cetamina atravessar rapidamente a barreira hematoencefálica?",
+          "verso": "Alta lipossolubilidade"
+        },
+        {
+          "frente": "Qual é o início de ação da cetamina IV?",
+          "verso": "Aproximadamente 30 segundos"
+        },
+        {
+          "frente": "Quando ocorre aproximadamente o efeito máximo da cetamina IV?",
+          "verso": "Em cerca de 1 minuto"
+        },
+        {
+          "frente": "Qual é a duração aproximada da anestesia após 2 mg/kg IV de cetamina?",
+          "verso": "5–10 minutos"
+        },
+        {
+          "frente": "Como a dose de cetamina influencia a duração da anestesia?",
+          "verso": "Doses maiores prolongam a duração"
+        },
+        {
+          "frente": "Qual mecanismo encerra principalmente a hipnose após um bolus de cetamina?",
+          "verso": "Redistribuição para tecidos periféricos"
+        },
+        {
+          "frente": "Qual é a faixa inicial de dose IV para indução anestésica com cetamina?",
+          "verso": "1–4,5 mg/kg"
+        },
+        {
+          "frente": "Qual é a dose IV média que produz 5–10 minutos de anestesia cirúrgica?",
+          "verso": "Aproximadamente 2 mg/kg"
+        },
+        {
+          "frente": "Qual é a dose IM usual de indução anestésica da cetamina?",
+          "verso": "4–6 mg/kg"
+        },
+        {
+          "frente": "Qual é a dose de manutenção da cetamina em infusão IV?",
+          "verso": "15–90 µg/kg/min"
+        },
+        {
+          "frente": "Qual é a dose IV subanestésica usada para analgesia?",
+          "verso": "0,1–0,5 mg/kg"
+        },
+        {
+          "frente": "Qual é o principal efeito cardiovascular da cetamina?",
+          "verso": "Estimulação simpática com aumento da FC e PA"
+        },
+        {
+          "frente": "Como a cetamina produz estimulação cardiovascular?",
+          "verso": "Aumenta a atividade simpática e reduz a recaptação de noradrenalina"
+        },
+        {
+          "frente": "Como a cetamina afeta o consumo de O₂ e o trabalho miocárdico?",
+          "verso": "Aumenta ambos"
+        },
+        {
+          "frente": "Como a resposta cardiovascular à segunda dose se compara à primeira?",
+          "verso": "Pode ser menor"
+        },
+        {
+          "frente": "Qual é o principal efeito respiratório da cetamina em doses clínicas?",
+          "verso": "Mínima depressão respiratória"
+        },
+        {
+          "frente": "Quando a cetamina pode causar depressão respiratória significativa?",
+          "verso": "Com doses altas ou administração rápida"
+        },
+        {
+          "frente": "Qual é o principal efeito pulmonar da cetamina?",
+          "verso": "Broncodilatação"
+        },
+        {
+          "frente": "Como a cetamina afeta a resistência das vias aéreas?",
+          "verso": "Reduz"
+        },
+        {
+          "frente": "Como a cetamina afeta a complacência pulmonar no broncoespasmo?",
+          "verso": "Aumenta"
+        },
+        {
+          "frente": "Como a cetamina afeta as secreções salivares e brônquicas?",
+          "verso": "Aumenta"
+        },
+        {
+          "frente": "Qual fármaco pode ser utilizado para reduzir as secreções da cetamina?",
+          "verso": "Atropina"
+        },
+        {
+          "frente": "Quais reflexos podem ser preservados durante a anestesia com cetamina?",
+          "verso": "Reflexos corneano, de tosse e deglutição"
+        },
+        {
+          "frente": "Os reflexos preservados pela cetamina garantem proteção da via aérea?",
+          "verso": "Não"
+        },
+        {
+          "frente": "Quais são as principais reações de emergência da cetamina?",
+          "verso": "Alucinações, agitação, confusão, euforia e medo"
+        },
+        {
+          "frente": "Quando geralmente ocorrem as reações de emergência da cetamina?",
+          "verso": "Durante a recuperação, principalmente na primeira hora"
+        },
+        {
+          "frente": "Qual fármaco pode reduzir as reações psicomiméticas da cetamina?",
+          "verso": "Midazolam"
+        },
+        {
+          "frente": "Qual enantiômero apresenta maior seletividade pelo receptor NMDA?",
+          "verso": "S(+)"
+        },
+        {
+          "frente": "Quantas vezes maior é aproximadamente a seletividade da S(+) pelo NMDA?",
+          "verso": "4 vezes"
+        },
+        {
+          "frente": "Qual enantiômero apresenta maior potencial psicomimético?",
+          "verso": "R(–)"
+        },
+        {
+          "frente": "Em quais pacientes a cetamina é particularmente útil na indução anestésica?",
+          "verso": "Pacientes com hiper-reatividade das vias aéreas ou hipovolemia"
+        },
+        {
+          "frente": "Qual é uma característica importante da cetamina em pacientes queimados?",
+          "verso": "Permite anestesia e analgesia para procedimentos"
+        },
+        {
+          "frente": "Como a cetamina em baixa dose afeta o consumo de opioides?",
+          "verso": "Reduz"
+        },
+        {
+          "frente": "Qual anestésico intravenoso produz anestesia dissociativa e estimulação cardiovascular?",
+          "verso": "Cetamina"
+        }
+      ]
+    },
+    {
+      "id": "anest-reverso-etomidato-e-cetamina",
+      "tema": "Anestesiologia",
+      "subarea": "Reverso Etomidato e Cetamina",
+      "cards": [
+        {
+          "frente": "Qual anestésico venoso mimetiza a ação do GABA no receptor GABA-A?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso bloqueia preferencialmente os receptores NMDA?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso apresenta importante estabilidade hemodinâmica durante a indução?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso pode aumentar frequência cardíaca e pressão arterial por estimulação simpática?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso inibe reversivelmente a CYP11B1?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso apresenta supressão da esteroidogênese adrenal?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso apresenta broncodilatação e mínima depressão respiratória?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso tem início de ação de aproximadamente 30–45 segundos?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso tem início de ação de aproximadamente 30 segundos?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso tem duração de hipnose de aproximadamente 3–5 minutos após dose de indução?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso tem duração anestésica dependente da dose?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso é metabolizado principalmente por esterases hepáticas?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso é metabolizado principalmente pelos CYP3A4, CYP2B6 e CYP2C9?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso forma norcetamina como principal metabólito?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso possui como principal metabólito um composto inativo após hidrólise?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso possui dose usual de indução de 0,3 mg/kg?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso possui dose IV de indução de 1–3 mg/kg?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso possui dose IM de indução de 4–6 mg/kg?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso é particularmente útil quando se deseja reduzir alterações hemodinâmicas durante a indução?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso pode ser especialmente útil em pacientes com hiper-reatividade das vias aéreas?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso pode produzir mioclonias durante a indução?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso pode produzir reações de emergência com alucinações?",
+          "verso": "Cetamina"
+        },
+        {
+          "frente": "Qual anestésico venoso tem como principal efeito adverso endócrino a supressão adrenal?",
+          "verso": "Etomidato"
+        },
+        {
+          "frente": "Qual anestésico venoso pode aumentar secreções salivares e brônquicas?",
+          "verso": "Cetamina"
+        }
+      ]
     }
   ]
 }
