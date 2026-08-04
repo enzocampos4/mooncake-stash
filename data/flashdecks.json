@@ -1,0 +1,23 @@
+{
+  "decks": [
+    {
+      "id": "cardio-icc",
+      "tema": "Cardiologia",
+      "subarea": "Insuficiência Cardíaca",
+      "cards": [
+        {
+          "frente": "Qual é o valor do BNP/NT-proBNP sugerido na ICC para indicar disfunção e encaminhar ecocardiograma (visão prática)?",
+          "verso": "BNP > 35 pg/mL ou NT-proBNP > 125 pg/mL em pacientes com sintomas compatíveis sugere ICC e indica ecocardiograma para confirmar."
+        },
+        {
+          "frente": "Cite os principais sintomas típicos e os sinais típicos classificados na ICC.",
+          "verso": "Sintomas típicos: dispneia, ortopneia, DPN, redução da tolerância ao exercício, fadiga, edema de membros. Sinais típicos: turgência jugular, refluxo hepatojugular, terceira bulha (B3), desvio do ictus, estertores, edamil periférico."
+        },
+        {
+          "frente": "Na ICC fração de ejeção reduzida (ICFEr), qual a tríade farmacológica de base (GDMT)?",
+          "verso": "BRA/IECA + betabloqueador + inibidor SGLT2. Soma-se antialdosterônico (ARM/espironolactona) quando indicado e o sódulo. A ordem/ajuste segue o fluxo GDMT."
+        }
+      ]
+    }
+  ]
+}

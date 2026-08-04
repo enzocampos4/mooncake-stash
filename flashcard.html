@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>HermesMed — Flashcards</title>
+<title>HermesMed — Decks de Flashcards</title>
 <script src="auth.js"></script>
 <script src="tema.js"></script>
 <style>
@@ -13,11 +13,10 @@
     --card2: #22223a;
     --accent: #7c5cfc;
     --accent2: #5ac8fa;
-    --correct: #34c759;
-    --wrong: #ff3b30;
     --text: #e8e8f0;
     --muted: #8888a0;
     --radius: 20px;
+    --border: rgba(124,92,252,0.12);
   }
   html[data-tema="claro"] {
     --bg: #f2f2f7;
@@ -25,12 +24,14 @@
     --card2: #e9e9f0;
     --accent: #5b3fd4;
     --accent2: #0a84ff;
-    --correct: #248a3d;
-    --wrong: #d70015;
     --text: #1c1c1e;
     --muted: #6e6e73;
     --radius: 20px;
-    --shadow: 0 8px 24px rgba(0,0,0,0.12);
+    --border: rgba(91,63,212,0.15);
+    --shadow: 0 8px 24px rgba(0,0,0,0.10);
+  }
+  html[data-tema="escuro"] {
+    --shadow: 0 8px 32px rgba(0,0,0,0.3);
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -44,11 +45,11 @@
     flex-direction: column;
     align-items: center;
   }
-  .container { max-width: 600px; width: 100%; }
+  .container { max-width: 640px; width: 100%; }
 
   .topbar {
     display: flex; align-items: center; gap: 12px; padding: 8px 0 16px;
-    width: 100%; max-width: 600px;
+    width: 100%; max-width: 640px;
   }
   .topbar .back {
     font-size: 1.3rem; text-decoration: none; color: var(--text);
@@ -58,140 +59,104 @@
   .topbar .info { flex: 1; }
   .topbar .info .title { font-weight: 600; }
   .topbar .info .sub { color: var(--muted); font-size: 0.8rem; }
-  .topbar .count { color: var(--muted); font-size: 0.9rem; }
 
-  /* Flashcard */
-  .flashcard-container {
-    perspective: 1000px;
-    width: 100%;
-    margin: 20px 0;
-    cursor: pointer;
+  /* ─── Lista de decks ─── */
+  .search {
+    width: 100%; padding: 12px 16px; border-radius: 14px;
+    border: 1px solid var(--border); background: var(--card);
+    color: var(--text); font-size: 0.95rem; margin-bottom: 20px; outline: none;
   }
+  .search::placeholder { color: var(--muted); }
+  .search:focus { border-color: var(--accent); }
+
+  .tema-group { margin-bottom: 24px; }
+  .tema-header {
+    display: flex; align-items: center; justify-content: space-between;
+    font-weight: 700; font-size: 1.05rem; margin-bottom: 10px;
+    padding-bottom: 6px; border-bottom: 2px solid var(--border);
+  }
+  .tema-header .count { color: var(--muted); font-weight: 500; font-size: 0.8rem; }
+
+  .deck {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 14px 16px; margin-bottom: 10px;
+    display: flex; align-items: center; gap: 12px; cursor: pointer;
+    transition: border-color 0.2s, transform 0.15s;
+  }
+  .deck:hover { border-color: var(--accent); transform: translateX(2px); }
+  .deck .icon {
+    width: 38px; height: 38px; border-radius: 10px; flex-shrink: 0;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    display: flex; align-items: center; justify-content: center; font-size: 1.1rem;
+  }
+  .deck .meta { flex: 1; min-width: 0; }
+  .deck .meta .name { font-weight: 600; font-size: 0.98rem; }
+  .deck .meta .cards-info { color: var(--muted); font-size: 0.78rem; margin-top: 2px; }
+  .deck .arrow { color: var(--muted); font-size: 1rem; }
+
+  /* ─── View de deck (cards empilhados) ─── */
+  .deck-head {
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: var(--radius); padding: 20px;
+    color: #fff; margin-bottom: 16px;
+  }
+  .deck-head .tema { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 1px; opacity: 0.85; }
+  .deck-head .name { font-size: 1.25rem; font-weight: 700; margin: 4px 0; }
+  .deck-head .cards-info { font-size: 0.85rem; opacity: 0.9; }
+
   .flashcard {
-    width: 100%;
-    min-height: 320px;
-    background: var(--card);
-    border-radius: var(--radius);
-    padding: 32px 24px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    transition: all 0.4s ease;
-    border: 1px solid rgba(124,92,252,0.1);
-    box-shadow: var(--shadow, 0 8px 32px rgba(0,0,0,0.3));
-    position: relative;
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; margin-bottom: 12px; overflow: hidden;
+    transition: border-color 0.2s;
   }
-  .flashcard:hover { border-color: rgba(124,92,252,0.3); }
-  .flashcard .front, .flashcard .back {
-    width: 100%;
-    transition: opacity 0.3s;
+  .flashcard .front {
+    padding: 18px 18px; cursor: pointer; display: flex; align-items: flex-start; gap: 12px;
+    font-size: 1rem; line-height: 1.55;
   }
-  .flashcard .back { display: none; }
-  .flashcard.flipped .front { display: none; }
-  .flashcard.flipped .back { display: block; }
-  .flashcard .label {
-    font-size: 0.75rem;
-    color: var(--muted);
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 12px;
+  .flashcard .front .num {
+    background: var(--card2); color: var(--muted);
+    min-width: 28px; height: 28px; border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.78rem; font-weight: 700; flex-shrink: 0; margin-top: 2px;
   }
-  .flashcard .content {
-    font-size: 1.2rem;
-    line-height: 1.6;
+  .flashcard .front .q-text { flex: 1; white-space: pre-wrap; word-break: break-word; }
+  .flashcard .front .chev {
+    color: var(--muted); font-size: 0.8rem; margin-top: 4px;
+    transition: transform 0.25s ease; flex-shrink: 0;
   }
-  .flashcard .content.big { font-size: 1.4rem; font-weight: 600; }
-  .flashcard .tap-hint {
-    position: absolute;
-    bottom: 12px;
-    font-size: 0.7rem;
-    color: var(--muted);
-    opacity: 0.5;
-  }
+  .flashcard.open .chev { transform: rotate(180deg); }
+  .flashcard.open { border-color: var(--accent); }
 
-  /* Área/assunto tag */
-  .flashcard .meta-tag {
-    position: absolute;
-    top: 12px;
-    left: 16px;
-    font-size: 0.7rem;
-    background: var(--card2);
-    padding: 3px 8px;
-    border-radius: 6px;
-    color: var(--muted);
+  .flashcard .back {
+    max-height: 0; overflow: hidden; transition: max-height 0.35s ease;
   }
-
-  /* Stats */
-  .stats {
-    display: flex;
-    gap: 12px;
-    margin: 16px 0;
-    justify-content: center;
-    flex-wrap: wrap;
+  .flashcard.open .back { max-height: 3000px; }
+  .flashcard .back-inner {
+    padding: 0 18px 18px 58px; border-top: 1px dashed var(--border); padding-top: 14px;
+    font-size: 0.95rem; line-height: 1.6; color: var(--text);
+    white-space: pre-wrap; word-break: break-word;
   }
-  .stat-btn {
-    padding: 8px 20px;
-    border: none;
-    border-radius: 12px;
-    font-weight: 600;
-    font-size: 0.9rem;
-    cursor: pointer;
-    transition: 0.2s;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-  }
-  .stat-btn:active { transform: scale(0.95); }
-  .stat-btn.easy { background: rgba(52,199,89,0.15); color: var(--correct); }
-  .stat-btn.easy:hover { background: rgba(52,199,89,0.25); }
-  .stat-btn.medium { background: rgba(255,149,0,0.15); color: #ff9500; }
-  .stat-btn.medium:hover { background: rgba(255,149,0,0.25); }
-  .stat-btn.hard { background: rgba(255,59,48,0.15); color: var(--wrong); }
-  .stat-btn.hard:hover { background: rgba(255,59,48,0.25); }
-
-  .counters {
-    display: flex;
-    gap: 16px;
-    color: var(--muted);
-    font-size: 0.85rem;
-    margin: 8px 0;
-  }
-  .counters span { display: flex; align-items: center; gap: 4px; }
-  .counters strong { color: var(--text); }
-
-  /* Progress bar */
-  .progress-track {
-    width: 100%;
-    height: 4px;
-    background: var(--card2);
-    border-radius: 2px;
-    margin-bottom: 16px;
-    overflow: hidden;
-  }
-  .progress-fill {
-    height: 100%;
-    background: linear-gradient(90deg, var(--accent), var(--accent2));
-    border-radius: 2px;
-    transition: width 0.4s ease;
+  .flashcard .back-inner .label {
+    font-size: 0.72rem; color: var(--accent2); text-transform: uppercase;
+    letter-spacing: 1px; font-weight: 700; margin-bottom: 6px;
   }
 
   /* Empty state */
   .empty-state {
-    text-align: center;
-    padding: 60px 20px;
-    color: var(--muted);
+    text-align: center; padding: 60px 20px; color: var(--muted);
   }
   .empty-state .icon { font-size: 4rem; margin-bottom: 16px; }
   .empty-state h3 { color: var(--text); margin-bottom: 8px; }
-  .empty-state p { font-size: 0.9rem; }
+  .empty-state p { font-size: 0.9rem; line-height: 1.6; }
+
+  .hint {
+    text-align: center; color: var(--muted); font-size: 0.78rem;
+    margin: 14px 0 6px; opacity: 0.7;
+  }
 
   @media (max-width: 500px) {
-    .flashcard { min-height: 260px; padding: 24px 16px; }
-    .flashcard .content { font-size: 1.05rem; }
-    .flashcard .content.big { font-size: 1.2rem; }
-    .stat-btn { padding: 6px 14px; font-size: 0.8rem; }
+    .flashcard .front { padding: 15px 14px; }
+    .flashcard .back-inner { padding-left: 48px; }
   }
 </style>
 </head>
@@ -200,188 +165,158 @@
   <div class="topbar">
     <a href="index.html" class="back">←</a>
     <div class="info">
-      <div class="title">🃏 Flashcards</div>
-      <div class="sub" id="flashcardSub">Estudo rápido</div>
+      <div class="title" id="pageTitle">🃏 Decks de Flashcards</div>
+      <div class="sub" id="pageSub">Conferida rápida</div>
     </div>
-    <div class="count" id="flashcardCount">0</div>
     <button onclick="hermesmedTema.toggle()" title="Alternar tema claro/escuro" style="background:none;border:none;font-size:1.1rem;cursor:pointer;padding:4px;">🌓</button>
   </div>
 
-  <div class="progress-track"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
-
-  <div id="flashcardArea">
-    <div class="counters">
-      <span>📚 <strong id="totalCards">0</strong> cards</span>
-      <span>✅ <strong id="doneCards">0</strong> vistos</span>
-      <span>📊 <strong id="pctCards">0%</strong></span>
-    </div>
-
-    <div class="flashcard-container" onclick="flipCard()">
-      <div class="flashcard" id="flashcard">
-        <span class="meta-tag" id="cardTag">Carregando...</span>
-        <div class="front">
-          <div class="label">📝 PERGUNTA</div>
-          <div class="content big" id="cardFront">Clique para carregar</div>
-        </div>
-        <div class="back">
-          <div class="label">💡 RESPOSTA</div>
-          <div class="content" id="cardBack"></div>
-        </div>
-        <span class="tap-hint">Toque para virar</span>
-      </div>
-    </div>
-
-    <div class="stats" id="actionButtons" style="display:none;">
-      <button class="stat-btn hard" onclick="rateCard('hard')">🔴 Difícil</button>
-      <button class="stat-btn medium" onclick="rateCard('medium')">🟡 Médio</button>
-      <button class="stat-btn easy" onclick="rateCard('easy')">🟢 Fácil</button>
-    </div>
-  </div>
-
-  <div style="text-align:center;margin-top:20px;">
-    <button class="stat-btn medium" onclick="window.location.href='index.html'" style="display:inline-flex;">← Voltar ao início</button>
-  </div>
+  <input class="search" id="busca" placeholder="🔍 Buscar deck por tema ou subárea..." oninput="mostrarLista(this.value)" style="display:none;">
+  <div id="content"></div>
 </div>
 
 <script>
-// ─── State ───
-const STORAGE_KEY = 'hermesmed_flashcards';
-const AREAS = [
-  'clinica-medica','cirurgia','pediatria','ginecologia',
-  'obstetricia','medicina-preventiva'
-];
+// ─── Decks de flashcards — conferida rápida (sem revisão espaçada) ───
+const DECKS_URL = 'data/flashdecks.json';
 
-let cards = [];
-let currentIndex = 0;
-let seenCount = 0;
+let decks = [];
+let deckSelecionado = null;
 
-async function loadFlashcards() {
-  for (const area of AREAS) {
-    try {
-      const resp = await fetch(`data/${area}.json`);
-      if (!resp.ok) continue;
-      const data = await resp.json();
-      if (data.flashcards) {
-        cards = cards.concat(data.flashcards.map(f => ({...f, _area: area})));
-      }
-    } catch {}
+async function carregarDecks() {
+  try {
+    const resp = await fetch(DECKS_URL + '?cb=' + Date.now());
+    if (!resp.ok) throw new Error('http ' + resp.status);
+    const data = await resp.json();
+    decks = data.decks || [];
+  } catch {
+    decks = [];
+  }
+  if (decks.length === 0) {
+    mostrarVazio();
+  } else {
+    mostrarLista();
+  }
+}
+
+function esc(t) {
+  const div = document.createElement('div');
+  div.textContent = t;
+  return div.innerHTML;
+}
+
+function mostrarVazio() {
+  document.getElementById('pageTitle').textContent = '🃏 Decks de Flashcards';
+  document.getElementById('pageSub').textContent = 'Conferida rápida';
+  document.getElementById('content').innerHTML = `
+    <div class="empty-state">
+      <div class="icon">📭</div>
+      <h3>Nenhum deck por aqui ainda</h3>
+      <p>Manda o primeiro tema pra mim pelo chat<br>
+      (ex: <b>Cardiologia → ICC</b>) que eu monto o deck pra você! 💬</p>
+    </div>`;
+}
+
+function mostrarLista(filtro = '') {
+  document.getElementById('pageTitle').textContent = '🃏 Decks de Flashcards';
+  document.getElementById('pageSub').textContent = `${decks.length} deck${decks.length === 1 ? '' : 's'} • conferida rápida`;
+
+  // input de busca fica FORA do conteúdo re-renderizado (evita perder o foco a cada tecla)
+  const input = document.getElementById('busca');
+  input.style.display = 'block';
+  if (document.activeElement !== input) input.value = filtro;
+
+  const q = filtro.toLowerCase().trim();
+  const grupos = {};
+  for (const d of decks) {
+    if (q && !(`${d.tema} ${d.subarea}`.toLowerCase().includes(q))) continue;
+    const tema = d.tema || 'Geral';
+    (grupos[tema] = grupos[tema] || []).push(d);
   }
 
-  // Também usar questões como flashcards
-  for (const area of AREAS) {
-    try {
-      const resp = await fetch(`data/${area}.json`);
-      if (!resp.ok) continue;
-      const data = await resp.json();
-      if (data.questoes) {
-        data.questoes.forEach(q => {
-          const alternativas = Object.entries(q.alternativas || {})
-            .map(([k, v]) => `${k}) ${v}`).join('\n');
-          cards.push({
-            id: q.id,
-            pergunta: q.enunciado.replace(/<[^>]*>/g, '') + '\n\n' + alternativas,
-            resposta: `✅ Resposta: ${q.correta}\n\n📖 ${q.explicacao || ''}`,
-            area: q.area || area,
-            assunto: q.assunto || '',
-            _area: area
-          });
-        });
-      }
-    } catch {}
-  }
-
-  if (cards.length === 0) {
-    document.getElementById('flashcardArea').innerHTML = `
+  const temas = Object.keys(grupos);
+  if (temas.length === 0) {
+    document.getElementById('content').innerHTML = `
       <div class="empty-state">
-        <div class="icon">📭</div>
-        <h3>Nenhum flashcard disponível</h3>
-        <p>Adicione arquivos .json com flashcards na pasta /data/</p>
+        <div class="icon">🔍</div>
+        <h3>Nada encontrado pra "${esc(filtro)}"</h3>
+        <p>Que tal revisar a busca?</p>
       </div>`;
     return;
   }
 
-  // Embaralhar
-  cards = cards.sort(() => Math.random() - 0.5);
-  document.getElementById('totalCards').textContent = cards.length;
-  document.getElementById('flashcardCount').textContent = cards.length;
-  showCard(0);
-}
+  let html = '';
 
-function showCard(index) {
-  if (index >= cards.length) {
-    showComplete();
-    return;
+  for (const tema of temas) {
+    const g = grupos[tema];
+    const total = g.reduce((s, d) => s + d.cards.length, 0);
+    html += `<div class="tema-group">
+      <div class="tema-header"><span>📚 ${esc(tema)}</span><span class="count">${g.length} deck${g.length === 1 ? '' : 's'} • ${total} cards</span></div>`;
+    for (const d of g) {
+      html += `<div class="deck" onclick="abrirDeck('${d.id}')">
+        <div class="icon">🃏</div>
+        <div class="meta">
+          <div class="name">${esc(d.subarea || 'Sem subárea')}</div>
+          <div class="cards-info">${d.cards.length} card${d.cards.length === 1 ? '' : 's'}</div>
+        </div>
+        <span class="arrow">›</span>
+      </div>`;
+    }
+    html += `</div>`;
   }
-  currentIndex = index;
-  const card = cards[index];
-
-  document.getElementById('flashcard').classList.remove('flipped');
-  document.getElementById('cardFront').textContent = card.pergunta || 'Pergunta não disponível';
-  document.getElementById('cardBack').textContent = card.resposta || 'Resposta não disponível';
-  document.getElementById('cardTag').textContent = card.area + (card.assunto ? ` • ${card.assunto}` : '');
-  document.getElementById('actionButtons').style.display = 'none';
-
-  const pct = Math.round((index / cards.length) * 100);
-  document.getElementById('progressFill').style.width = `${pct}%`;
-  document.getElementById('pctCards').textContent = `${pct}%`;
+  document.getElementById('content').innerHTML = html;
 }
 
-function flipCard() {
-  const el = document.getElementById('flashcard');
-  if (el.classList.contains('flipped')) return;
-  el.classList.add('flipped');
-  document.getElementById('actionButtons').style.display = 'flex';
-  seenCount++;
-  document.getElementById('doneCards').textContent = seenCount;
-}
+function abrirDeck(id) {
+  const d = decks.find(x => x.id === id);
+  if (!d) return;
+  deckSelecionado = d;
+  document.getElementById('busca').style.display = 'none';
+  document.getElementById('pageTitle').textContent = '🃏 ' + (d.subarea || d.tema || 'Deck');
+  document.getElementById('pageSub').textContent = d.tema ? `${d.tema} • ${d.cards.length} cards` : `${d.cards.length} cards`;
 
-function rateCard(rating) {
-  const card = cards[currentIndex];
-
-  // Salvar no localStorage
-  const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-  saved[String(card.id || currentIndex)] = {
-    rating,
-    area: card._area,
-    date: new Date().toISOString().split('T')[0]
-  };
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
-
-  // Avançar
-  if (currentIndex + 1 < cards.length) {
-    showCard(currentIndex + 1);
-  } else {
-    showComplete();
-  }
-}
-
-function showComplete() {
-  document.getElementById('flashcardArea').innerHTML = `
-    <div class="empty-state">
-      <div class="icon">🎉</div>
-      <h3>Flashcards concluídos!</h3>
-      <p>Você revisou ${seenCount} cards neste ciclo</p>
-      <br>
-      <button class="stat-btn medium" onclick="location.reload()" style="display:inline-flex;">🔄 Embaralhar e recomeçar</button>
+  let html = `<div class="deck-head">
+      <div class="tema">${esc(d.tema || '')}</div>
+      <div class="name">${esc(d.subarea || d.tema || 'Deck')}</div>
+      <div class="cards-info">${d.cards.length} cards • rola pra ver tudo, clica pra revelar a resposta</div>
     </div>`;
-  document.getElementById('progressFill').style.width = '100%';
-  document.getElementById('pctCards').textContent = '100%';
+
+  d.cards.forEach((c, i) => {
+    html += `<div class="flashcard" id="fc-${i}" onclick="toggleCard(${i})">
+      <div class="front">
+        <span class="num">${i + 1}</span>
+        <span class="q-text">${esc(c.frente || '')}</span>
+        <span class="chev">▾</span>
+      </div>
+      <div class="back"><div class="back-inner"><div class="label">💡 Resposta</div>${esc(c.verso || '')}</div></div>
+    </div>`;
+  });
+
+  html += `<div class="hint">💬 Faltou algum card? Manda pra mim que eu adiciono!</div>
+           <div style="text-align:center;margin-top:14px;">
+             <button onclick="mostrarLista()" style="background:var(--card);color:var(--text);border:1px solid var(--border);padding:10px 18px;border-radius:12px;font-size:0.9rem;cursor:pointer;">← Voltar aos decks</button>
+           </div>`;
+  document.getElementById('content').innerHTML = html;
+  window.scrollTo({ top: 0 });
 }
 
-// ─── Keyboard ───
+function toggleCard(i) {
+  const el = document.getElementById('fc-' + i);
+  if (!el) return;
+  const aberto = el.classList.contains('open');
+  // Fecha os outros (acordeão)
+  document.querySelectorAll('.flashcard.open').forEach(f => f.classList.remove('open'));
+  if (!aberto) el.classList.add('open');
+}
+
+// Atalho: Esc volta pra lista
 document.addEventListener('keydown', (e) => {
-  if (e.key === ' ' || e.key === 'Enter') {
-    e.preventDefault();
-    const card = document.getElementById('flashcard');
-    if (!card.classList.contains('flipped')) {
-      flipCard();
-    } else if (e.key === '1') { rateCard('hard'); }
-    else if (e.key === '2') { rateCard('medium'); }
-    else if (e.key === '3') { rateCard('easy'); }
+  if (e.key === 'Escape' && deckSelecionado) {
+    deckSelecionado = null;
+    mostrarLista();
   }
 });
 
-loadFlashcards();
+carregarDecks();
 </script>
 </body>
 </html>
