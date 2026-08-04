@@ -74,8 +74,17 @@
     display: flex; align-items: center; justify-content: space-between;
     font-weight: 700; font-size: 1.05rem; margin-bottom: 10px;
     padding-bottom: 6px; border-bottom: 2px solid var(--border);
+    cursor: pointer; user-select: none;
   }
-  .tema-header .count { color: var(--muted); font-weight: 500; font-size: 0.8rem; }
+  .tema-header:hover { color: var(--accent2); }
+  .tema-header .chev {
+    color: var(--muted); font-size: 0.8rem; margin-left: 8px;
+    transition: transform 0.2s ease;
+  }
+  .tema-header .chev.aberto { transform: rotate(90deg); color: var(--accent); }
+  .tema-header .count { color: var(--muted); font-weight: 500; font-size: 0.8rem; display: flex; align-items: center; }
+  .tema-decks { display: none; }
+  .tema-decks.aberto { display: block; }
 
   .deck {
     background: var(--card); border: 1px solid var(--border);
@@ -188,6 +197,16 @@ const DECKS_URL = 'data/flashdecks.json';
 
 let decks = [];
 let deckSelecionado = null;
+// temas expandidos na listagem (persistido)
+let temasAbertos = new Set();
+try { temasAbertos = new Set(JSON.parse(localStorage.getItem('hermesmed_temas_abertos') || '[]')); } catch {}
+
+function toggleTema(tema) {
+  if (temasAbertos.has(tema)) temasAbertos.delete(tema);
+  else temasAbertos.add(tema);
+  try { localStorage.setItem('hermesmed_temas_abertos', JSON.stringify([...temasAbertos])); } catch {}
+  mostrarLista(document.getElementById('busca').value || '');
+}
 
 async function carregarDecks() {
   try {
@@ -242,6 +261,8 @@ function mostrarLista(filtro = '') {
   if (document.activeElement !== input) input.value = filtro;
 
   const q = filtro.toLowerCase().trim();
+  // quando busca ativa, abre todos os grupos pra mostrar resultados
+  const forcaAberto = q.length > 0;
   const grupos = {};
   for (const d of decks) {
     if (q && !(`${d.tema} ${d.subarea}`.toLowerCase().includes(q))) continue;
@@ -265,8 +286,13 @@ function mostrarLista(filtro = '') {
   for (const tema of temas) {
     const g = grupos[tema];
     const total = g.reduce((s, d) => s + d.cards.length, 0);
+    const aberto = forcaAberto || temasAbertos.has(tema);
     html += `<div class="tema-group">
-      <div class="tema-header"><span>📚 ${esc(tema)}</span><span class="count">${g.length} deck${g.length === 1 ? '' : 's'} • ${total} cards</span></div>`;
+      <div class="tema-header" onclick="toggleTema('${esc(tema)}')">
+        <span>📚 ${esc(tema)}<span class="chev ${aberto ? 'aberto' : ''}">▸</span></span>
+        <span class="count">${g.length} deck${g.length === 1 ? '' : 's'} • ${total} cards</span>
+      </div>
+      <div class="tema-decks ${aberto ? 'aberto' : ''}">`;
     for (const d of g) {
       html += `<div class="deck" onclick="abrirDeck('${d.id}')">
         <div class="icon">🃏</div>
@@ -277,7 +303,7 @@ function mostrarLista(filtro = '') {
         <span class="arrow">›</span>
       </div>`;
     }
-    html += `</div>`;
+    html += `</div></div>`;
   }
   document.getElementById('content').innerHTML = html;
 }
