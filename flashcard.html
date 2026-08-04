@@ -120,6 +120,8 @@
     font-size: 0.78rem; font-weight: 700; flex-shrink: 0; margin-top: 2px;
   }
   .flashcard .front .q-text { flex: 1; white-space: pre-wrap; word-break: break-word; }
+  .flashcard .front .img-frente { flex-basis: 100%; margin-top: 10px; }
+  .flashcard .front .img-frente img { max-width: 100%; border-radius: 10px; display: block; cursor: zoom-in; }
   .flashcard .front .chev {
     color: var(--muted); font-size: 0.8rem; margin-top: 4px;
     transition: transform 0.25s ease; flex-shrink: 0;
@@ -135,6 +137,11 @@
     padding: 0 18px 18px 58px; border-top: 1px dashed var(--border); padding-top: 14px;
     font-size: 0.95rem; line-height: 1.6; color: var(--text);
     white-space: pre-wrap; word-break: break-word;
+  }
+  .flashcard .back-inner .img-verso { margin-top: 12px; }
+  .flashcard .back-inner .img-verso img {
+    max-width: 100%; border-radius: 10px; display: block; cursor: zoom-in;
+    border: 1px solid var(--border);
   }
   .flashcard .back-inner .label {
     font-size: 0.72rem; color: var(--accent2); text-transform: uppercase;
@@ -202,6 +209,15 @@ function esc(t) {
   const div = document.createElement('div');
   div.textContent = t;
   return div.innerHTML;
+}
+
+// renderiza as imagens do card (array de caminhos); cls = classe do wrapper
+function imgsHtml(paths, cls) {
+  if (!paths || !paths.length) return '';
+  return `<div class="${cls}">` +
+    paths.map(p =>
+      `<img src="${p}" loading="lazy" alt="" onclick="event.stopPropagation(); window.open('${p}','_blank')" title="Clique para ampliar">`
+    ).join('') + '</div>';
 }
 
 function mostrarVazio() {
@@ -284,10 +300,10 @@ function abrirDeck(id) {
     html += `<div class="flashcard" id="fc-${i}" onclick="toggleCard(${i})">
       <div class="front">
         <span class="num">${i + 1}</span>
-        <span class="q-text">${esc(c.frente || '')}</span>
+        <span class="q-text">${esc(c.frente || '')}${imgsHtml(c.img_frente, 'img-frente')}</span>
         <span class="chev">▾</span>
       </div>
-      <div class="back"><div class="back-inner"><div class="label">💡 Resposta</div>${esc(c.verso || '')}</div></div>
+      <div class="back"><div class="back-inner"><div class="label">💡 Resposta</div>${esc(c.verso || '')}${imgsHtml(c.img_verso, 'img-verso')}</div></div>
     </div>`;
   });
 
