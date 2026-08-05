@@ -41,7 +41,7 @@
       "_edicao": "1",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "Doenças Exantemáticas"
     },
     {
       "id": "s1-011",
@@ -2467,7 +2467,7 @@
       "id": "pv-ena-2024-0001",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "O seguinte gráfico demonstra a redução da taxa de mortalidade da tuberculose ao longo do tempo, considerando estimativas traçadas desde 1860 até 1960: Considerando esse gráfico, é correto afirmar que",
       "alternativas": {
         "A": "A redução da mortalidade pela tuberculose se deve ao crescimento populacional, que diminuiu o número de pessoas expostas à doença.",
@@ -2493,7 +2493,7 @@
       "id": "pv-ena-2024-0033",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Sobre a restrição de crescimento intrauterino, assinale a alternativa correta.",
       "alternativas": {
         "A": "O primeiro exame a ser solicitado, após o resultado de peso inferior ao percentil 10 (ultrassonografia), é o Doppler de artéria umbilical.",
@@ -2597,7 +2597,7 @@
       "id": "pv-ena-2024-0047",
       "area": "Pediatria",
       "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "",
+      "sub_subarea": "Cardiopatias Acianóticas",
       "enunciado": "Na consulta de rotina, o pediatra está em dúvida sobre um sopro cardíaco em uma criança de dois anos que não apresenta sinais de insuficiência cardíaca. Suspeita-se de Comunicação Interventricular (CIV). Para auscultar o sopro cardíaco nesse caso,",
       "alternativas": {
         "A": "o paciente deve estar, preferencialmente, em decúbito dorsal com o tórax elevado.",
@@ -2623,7 +2623,7 @@
       "id": "pv-ena-2024-0048",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Um menino de cinco anos de idade comparece à consulta com sua mãe, a qual se queixa de que o filho não está crescendo como o irmão mais velho. Qual é o principal indicador para avaliar se existe baixa estatura?",
       "alternativas": {
         "A": "Prega cutânea tricipital no percentil 25.",
@@ -2650,7 +2650,7 @@
       "id": "pv-ena-2024-0050",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "Um menino de um ano e meio de idade apresenta febre há três dias, com poucos pródromos de infecção respiratória aguda, e apresenta erupção maculo-papular que cursa por dois dias. O que chamou a atenção da mãe foi que, “no dia em que apareceram as manchas na pele, a febre desapareceu”. Clinicamente a criança encontra-se bem. Qual é o diagnóstico provável nesse caso?",
       "alternativas": {
         "A": "Eritema infeccioso.",
@@ -2676,7 +2676,7 @@
       "id": "pv-ena-2024-0051",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Um recém-nascido de 27 dias de vida, que recebe aleitamento exclusivo ao seio materno, é levado para consulta de puericultura. O peso e comprimento estão adequados para esse tempo de vida, comparado ao nascimento. Há relato de seis evacuações por dia, das quais duas ou três são semilíquidas e amareladas. Ao exame, o paciente está hidratado com bom estado geral. Qual é a conduta mais adequada diante do quadro?",
       "alternativas": {
         "A": "Manter o aleitamento materno exclusivo.",
@@ -2748,7 +2748,7 @@
       "id": "pv-ena-2025-0143",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "Um lactente de 10 meses apresentou febre alta (39 °C) e coriza hialina por 3 dias. No quarto dia de doença, 12 horas após o último pico febril, surge exantema maculopapular em tronco que se dissemina para os membros. Ao exame, apresenta discreta hiperemia de orofaringe, linfonodos cervicais sem características inflamatórias e exantema maculopapular eritematoso difuso. Diante desse quadro, o diagnóstico correto é:",
       "alternativas": {
         "A": "escarlatina;",
@@ -2772,7 +2772,7 @@
       "id": "pv-ena-2025-0144",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Os pais de um escolar em tratamento de rinite alérgica com corticoide nasal procuraram o posto de saúde para aplicação da vacina HPV (papilomavírus humano). Em vista do quadro apresentado, o agente do posto de saúde deverá:",
       "alternativas": {
         "A": "orientar os pais a vacinarem a criança após o término do tratamento;",
@@ -2799,7 +2799,7 @@
       "id": "pv-ena-2025-0145",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Dentre as situações a seguir, aquela em que o recém-nascido tem dois critérios para icterícia patológica é:",
       "alternativas": {
         "A": "RN a termo, icterícia desde 37 horas de vida, bilirrubina total = 4 mg/dl, bilirrubina indireta = 3,1 mg/dl;",
@@ -2849,7 +2849,7 @@
       "id": "pv-ena-2025-0148",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Uma primípara comparece à consulta de puericultura com seu filho de 2 meses. Durante a consulta, o pediatra percebe que ela está prestes a abandonar o aleitamento materno exclusivo e conduz a conversa de forma a mantê-lo. Nessa conversa é importante ser empático, evitando:",
       "alternativas": {
         "A": "fazer perguntas abertas que permitam à mãe expressar argumentos contra a manutenção da amamentação;",
@@ -2897,7 +2897,7 @@
       "id": "pv-ena-2025-0150",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Um adolescente saudável de 16 anos comparece à clínica da família para atualizar sua situação vacinal. Alega que só recebeu vacinas no primeiro ano de vida, mas, 2 meses antes, fez uma dose de vacina para difteria e tétano (dT), para se matricular em um curso. Em sua caderneta da criança, há registro das seguintes vacinas: duas doses da vacina contra hepatite B (HB); duas doses da vacina contra difteria, tétano e pertússis (DTP); uma dose da vacina contra febre amarela (VFA); uma dose da vacina contra sarampo, caxumba e rubéola (tríplice viral). A atualização deverá ser feita com:",
       "alternativas": {
         "A": "duas doses da VFA, duas doses da dT, duas doses da tríplice viral, duas doses de vacina contra HPV e uma dose da vacina meningocócica ACWY;",
@@ -3002,7 +3002,7 @@
       "id": "pv-ena-2025-0168",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Uma menina de 6 anos é levada pela mãe ao ginecologista por ter iniciado desenvolvimento mamário há 4 meses. Ao exame físico, apresenta mamas em estágio M2 de Tanner e genitália em estágio P1 de Tanner. De acordo com o gráfico de velocidade de crescimento, a paciente manteve um padrão de 4 cm/ano no último ano. Realizada uma radiografia de mão e de punhos pelo método de Greulich-Pyle, identifica-se que a idade óssea da criança é estimada em 6 anos e 2 meses. A dosagem hormonal de LH é 1,2 UI/L. Considerando as informações acima, o diagnóstico mais provável é:",
       "alternativas": {
         "A": "telarca precoce isolada;",
@@ -3032,7 +3032,7 @@
       "id": "pv-ena-2025-0177",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Gestante realiza ultrassonografia obstétrica, que evidencia uma medida do maior bolsão vertical do líquido amniótico de 12 cm. A condição que pode estar associada a esse quadro é:",
       "alternativas": {
         "A": "insuficiência uteroplacentária;",
@@ -3059,7 +3059,7 @@
       "id": "pv-ena-2025-0183",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Letícia está na 10a semana de gestação. Diante do aumento de casos de gripe entre familiares e conhecidos, ela foi à unidade básica de saúde para saber se precisava tomar a vacina contra influenza. Na análise em seu prontuário, verificou-se que sua última vacina havia sido no ano anterior. Em relação a esse caso, é correto afirmar que:",
       "alternativas": {
         "A": "não se recomenda a vacina nesse estágio da gestação;",
@@ -3109,7 +3109,7 @@
       "id": "pv-ena-2025-0200",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Os movimentos antivacina, causados por um sistema de desinformação, trazem muitos danos para as pessoas não vacinadas, pois já está mais que provado pela ciência que vacinas são muito efetivas e salvam vidas. Uma dessas doenças preveníveis por vacinas tem como manifestação clínica típica a presença de placas pseudomembranosas branco-acinzentadas, aderentes, que se instalam nas amígdalas e invadem estruturas vizinhas. Essas placas podem se localizar na faringe, na laringe e nas fossas nasais; e, com menos frequência, também são observadas na conjuntiva, na pele, no conduto auditivo, na vulva, no pênis (pós-circuncisão) e no cordão umbilical. A doença manifesta-se clinicamente por comprometimento do estado geral do paciente, que pode se apresentar prostrado e pálido. A dor de garganta é discreta, independentemente da localização ou da quantidade de placas existentes, e a febre normalmente não é muito elevada, variando de 37,5 °C a 38,5 °C, embora temperaturas mais altas não afastem o diagnóstico. Nos casos mais graves, há intenso edema do pescoço, com grande aumento dos gânglios linfáticos dessa área (pescoço taurino) e edema periganglionar nas cadeias cervicais e submandibulares. Dependendo do tamanho e da localização da placa pseudomembranosa, pode ocorrer asfixia mecânica aguda no paciente, o que muitas vezes exige imediata traqueostomia para evitar a morte. A descrição acima é característica de:",
       "alternativas": {
         "A": "vírus sincicial respiratório;",
@@ -3133,7 +3133,7 @@
       "id": "pv-pe-2024-0023",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Diante de um recém-nascido prematuro com 35 semanas de idade gestacional, filho de mãe diabética com difícil controle e sem fatores de risco para infecção, o diagnóstico diferencial do desconforto respiratório é, muitas vezes, difícil. Quanto às causas de desconforto respiratório nesse paciente, é CORRETO afirmar que",
       "alternativas": {
         "A": "a taquipneia transitória do recém-nascido (TTRN) é rara e, quando ocorre, costuma ter evolução muito leve e melhora em 12 a 24 horas.",
@@ -3161,7 +3161,7 @@
       "id": "pv-pe-2024-0024",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Icterícia Neonatal",
       "enunciado": "Recém-nascido com idade gestacional de 39 semanas, com 36 horas de vida apresenta icterícia no exame no alojamento conjunto. Encontra-se em aleitamento materno exclusivo e pesa 3000gramas. Genitora GIIPIAI fez prénatal sem intercorrência, classificação sanguínea da mãe: O negativo. O recém-nascido nasceu bem, feito clampeamento do cordão umbilical com 60 segundos, com peso 3010gramas. Exame físico: icterícia em face, tronco e membros. Restante normal. Classificação sanguínea do recém-nascido: A positivo. Realizou dosagem de bilirrubina que teve BT 12,5mg/dL BI 11,9mg/dL. Considerando a orientação mais recente da Sociedade Brasileira de Pediatria que ainda preconiza a utilização do gráfico para indicação de fototerapia da Academia Americana de Pediatria de 2004, assinale a alternativa que indica a conduta CORRETA para esse paciente.",
       "alternativas": {
         "A": "Indicar exsanguineotransfusão",
@@ -3190,7 +3190,7 @@
       "id": "pv-pe-2024-0027",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Escolar de 8 anos vem para atendimento médico de rotina sem queixas. Paciente apresenta importante erro alimentar com alta ingestão de ultraprocessados apresentando baixa adesão às orientações fornecidas. Na última consulta, foi realizado encaminhamento ao serviço de nutrição, o que impactou positivamente nos hábitos do paciente. Nega outras comorbidades e nega internamentos prévios. Não faz uso regular de medicações. Ao exame físico, paciente com bom estado geral, hidratado, corado, ritmo cardíaco regular, em dois tempos, bulhas normofonéticas sem sopros; murmúrio vesicular presente sem ruídos adventícios e sem desconforto respiratório; abdome globoso, ruído hidroaéreo presente e sem visceromegalias. Presença de alterações cutâneas como na imagem abaixo: O gráfico de crescimento é o que se segue: Qual o nome da lesão visualizada, seu significado e a classificação antropométrica da criança?",
       "alternativas": {
         "A": "Acantose nigricans; resistência insulínica; peso normal para a idade",
@@ -3218,7 +3218,7 @@
       "id": "pv-pe-2024-0030",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Paciente feminino prematuro, nascido com 29 semanas de idade gestacional, devido à incompetência istmocervical, vem para consulta de seguimento. No momento, apresenta 7 meses e 1 dia de idade cronológica e genitora nega queixas. Atingia os marcos do desenvolvimento para a idade corrigida e vinha com evolução adequada nos gráficos de crescimento, além de vacinação completa e início de introdução alimentar adequado. Seu peso de nascimento havia sido 1030g. Além das orientações gerais e manutenção do uso do polivitamínico, quais orientações e condutas você ajustaria?",
       "alternativas": {
         "A": "Manter sulfato ferroso 3mg/Kg/dia e zinco",
@@ -3349,7 +3349,7 @@
       "id": "pv-pe-2024-0039",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou uma nova vacina contra a Dengue, e esta promove prevenção contra qualquer um dos quatro sorotipos do vírus. O calendário vacinal da Sociedade Brasileira de Pediatria recomenda o seu uso. Esta vacina é composta pela plataforma de vacinas de vírus vivos atenuados, e sua aplicação foi autorizada em crianças a partir dos 4 anos de idade. Dentre as vacinas abaixo, assinale a alternativa que indica aquela que diverge, em relação à sua plataforma, da vacina contra a Dengue.",
       "alternativas": {
         "A": "Varicela",
@@ -3376,7 +3376,7 @@
       "id": "pv-pe-2024-0040",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Recente dado do Centro de Controle e Prevenção de Doenças (CDC) de 2023 mostrou uma prevalência do Transtorno do Espectro Autista (TEA) de uma para cada 36 crianças nos Estados Unidos. Qual dos seguintes fatores NÃO é considerado fator de risco para o desenvolvimento do TEA?",
       "alternativas": {
         "A": "Uso de inibidores da receptação da serotonina durante a gestação",
@@ -3404,7 +3404,7 @@
       "id": "pv-pe-2024-0052",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Paciente 35 anos, primigesta e na 39º semana de gravidez, sendo acompanhada no pré-natal de risco habitual. Durante a consulta, foi observada uma curva de altura de fundo de útero pela idade gestacional abaixo do 10º percentil. No momento, traz sua última ultrassonografia e a curva de crescimento do peso fetal estimado pela idade gestacional, que se encontra entre o 3º e 10º percentil. A dopplervelocimetria das artérias uterinas, umbilicais e cerebral média foi < 95º percentil, < 95º percentil e > 5º percentil, respectivamente. Assinale a alternativa CORRETA referente ao fator de risco mais provável para a hipótese diagnóstica.",
       "alternativas": {
         "A": "Tabagismo",
@@ -3428,7 +3428,7 @@
       "id": "pv-pe-2025-0150",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Assinale a alternativa que NÃO representa um evento adverso considerado no cálculo matemático do FullPiers (Preeclampsia Integrated and Estimated Risks) para predizer que esses desfechos adversos à gestante ocorram em até 48 horas a partir da admissão com diagnóstico de pré-eclâmpsia.",
       "alternativas": {
         "A": "Eclâmpsia",
@@ -3454,7 +3454,7 @@
       "id": "pv-pe-2025-0163",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "“A alimentação complementar é definida como o processo de introdução de alimentos, além do leite materno, para os lactentes, com data de início por volta de seis meses. Trata-se de uma fase crucial para a oferta adequada de alimentos (quantidade e qualidade), crescimento físico, desenvolvimento neuropsicomotor e estabelecimento dos hábitos alimentares da criança.” (Extraído do documento ALIMENTAÇÃO COMPLEMENTAR PARA O LACTENTE SAUDÁVEL: Ampliando as Escolhas com Evidências Aplicáveis e Sustentáveis -Sociedade Brasileira de Pediatria/ 2024). Sobre este tema, analise as assertivas abaixo: I. Frutas in natura, amassadas, cortadas ou raspadas, devem ser oferecidas ao lactente com 6 meses de vida, sendo excluídas desse grupo as frutas, como cajá, caju, carambola e cupuaçu, o que se convencionou chamar de a regra dos 4 “c”. II. Define-se como refeição principal do lactente aquela que culturalmente designamos como almoço (entre 11:00 e meio-dia), contendo todos os grupos alimentares (cereais/ tubérculos/ leguminosas/ hortaliças/ carnes e ovos); o horário do jantar é estabelecido como a outra refeição não láctea e introduzida simultaneamente com o almoço. III. Não ofertar carnes do tipo suína, pescados e frutos do mar bem como especiarias e ervas frescas ou secas (alecrim, cominho, gengibre, manjericão, orégano e sálvia). São mitos e/ou falta de conhecimentos atuais e, portanto, podem fazer parte do dia a dia do lactente, sendo que os aspectos regionais, culturais e a época do ano serão levados em consideração na escolha desses alimentos. Podemos afirmar que",
       "alternativas": {
         "A": "todas estão corretas.",
@@ -3532,7 +3532,7 @@
       "id": "pv-pe-2025-0168",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "“Inúmeros são os benefícios do aleitamento materno (AM) no desenvolvimento da criança, com evidências inquestionáveis na prevenção de doenças infecciosas e redução da incidência de internações hospitalares, além do papel protetor para doenças crônicas na vida adulta” - Aleitamento Materno e Alergia Alimentar –SBP 2024. Em face das evidências atuais, com relação aos benefícios do aleitamento materno na prevenção de alergias, os estudos científicos demonstraram todos os aspectos descritos abaixo, EXCETO:",
       "alternativas": {
         "A": "Estudos comprovaram que o AM exclusivo por 6 meses reduz, de forma significativa, alergias ao ovo, amendoim e crustáceos, quando comparados a lactentes que usaram fórmula infantil.",
@@ -3612,7 +3612,7 @@
       "id": "pv-pe-2025-0171",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "A detecção precoce das doenças investigadas pelo Teste do Pezinho, coletado idealmente entre o 3º e 5º dia de vida do recém-nascido, permite que os tratamentos sejam iniciados o mais rapidamente possível, evitando/ reduzindo complicações graves no desenvolvimento das crianças. Atualmente, todas as doenças listadas abaixo são investigadas no Teste do Pezinho realizado em Pernambucano, EXCETO",
       "alternativas": {
         "A": "Fenilcetonúria.",
@@ -3636,7 +3636,7 @@
       "id": "pv-pe-2025-0172",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "É de fundamental importância que, nos atendimentos ambulatoriais, o pediatra esteja atento também ao desenvolvimento infantil: marcos socioemocionais; avaliação da linguagem e da comunicação; os marcos cognitivos e o desenvolvimento físico/ motor. Com relação aos marcos do desenvolvimento infantil, analise os seguintes achados em consultas ambulatoriais de rotina de três crianças distintas: Criança A: 12 meses de vida – pegou um pequeno objeto usando o polegar e o indicador; ainda não anda solta, porém consegue dar alguns passos com apoio. Criança B: 18 meses – fala algumas palavras, mas não é capaz der combinar, pelo menos, duas destas para formar uma frase com significado. Criança C: 3 anos – ao representar a mãe por meio de um desenho, não foi capaz de desenhar 6 partes do corpo, mas apenas 4 partes. Em relação aos marcos do desenvolvimento analisados acima, podemos afirmar que",
       "alternativas": {
         "A": "todas as crianças apresentaram algum atraso dos marcos do desenvolvimento observados nas consultas.",
@@ -3664,7 +3664,7 @@
       "id": "pv-pe-2025-0173",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Lactente de 13 meses de idade, sexo feminino, é admitido em emergência pediátrica por apresentar ‘manchas’ na pele há 4-5 dias, segundo a genitora. Nega febre ou quaisquer outros sintomas. Criança está com apetite preservado, ativa e totalmente em dia com o calendário vacinal nas datas corretas. Pediatra, ao examinar a lactente, observou que ela está corada, com várias petéquias em braços, pernas e tronco, porém, nenhum hematoma; também não observou hepatoesplenomegalia. Palpou apenas discretos linfonodos em região cervical posterior, menores que 2 cm, móveis, fibroelásticos e indolores. Decidiu solicitar um hemograma, sendo a única alteração encontrada uma contagem de plaquetas de 29.000/mm³. Sobre a principal hipótese diagnóstica dessa criança, analise as assertivas abaixo: I. Uma hipótese provável, envolvida na fisiopatologia da plaquetopenia, é um mecanismo imunológico, por reação cruzada às proteínas plaquetárias, desencadeadas após a imunização contra sarampo-rubéola-caxumba, realizada pela lactente cerca de um mês antes do evento atual. II. Nesse momento, a realização de mielograma (e não de biópsia de medula óssea) está indicada em função do tratamento que será instituído para a lactente. III. Deve-se internar em UTI para realizar a transfusão de plaquetas, metilprednisolona e imunoglobulina humana endovenosas, em função dos baixos níveis plaquetários e do maior risco de sangramento do sistema nervoso central. Podemos afirmar que",
       "alternativas": {
         "A": "todas estão corretas.",
@@ -3716,7 +3716,7 @@
       "id": "pv-pe-2025-0177",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Lactente de 3 meses em uso de isoniazida, não vacinado para BCG, após genitora ter sido diagnosticada com tuberculose pulmonar, retorna para realizar prova tuberculínica. Leitura do exame no lactente evidenciou pápula de 7mm. Qual a conduta mais indicada em relação à vacinação?",
       "alternativas": {
         "A": "Manter isoniazida por mais 3 meses e realizar vacinação a seguir.",
@@ -3768,7 +3768,7 @@
       "id": "pv-pe-2025-0180",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Lactente de 13 meses é admitido em urgência pediátrica com quadro de tosse, coriza e febre há 24 horas e com relato de crise convulsiva tônico-clônica generalizada, com duração aproximada de 11 minutos. A criança não apresentava sinais focais, nem sinais meníngeos ou outras alterações neurológicas; sua fontanela era normotensa e, após alguns minutos da admissão e cessação da febre, estava ativa e responsiva. Negava alergia medicamentosa. Havia relato de prematuridade de 36 semanas de idade gestacional. Cuidadores afirmavam passado de 1 episódio de crise convulsiva na ausência de febre e que foi avaliado clinicamente por médicos assistentes. Desde então, a criança vinha com bom crescimento e desenvolvimento. Qual sua principal hipótese para o quadro agudo atual da criança?",
       "alternativas": {
         "A": "Meningite",
@@ -3796,7 +3796,7 @@
       "id": "pv-mg-2024-0010",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "O estresse metabólico, ao qual qualquer indivíduo é submetido em todo contexto de insulto, seja ele traumático ou cirúrgico, respeita um padrão de resposta fisiológico. No contexto do trauma, entende-se que a resposta ao estresse é, em sua maioria, dividida em diferentes fases de elevada importância. Em paciente vítima de esmagamento dos membros inferiores por acidente automobilístico é CORRETO afirmar:",
       "alternativas": {
         "A": "A fase de refluxo (ebb) inicia-se precocemente, onde podemos observar um quadro hipodinâmico.",
@@ -3869,7 +3869,7 @@
       "id": "pv-mg-2024-0057",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "É esperado que ocorra durante um ciclo menstrual fisiológico:",
       "alternativas": {
         "A": "Inibição da produção de inibinas pelo FSH, nas células da granulosa.",
@@ -3917,7 +3917,7 @@
       "id": "pv-mg-2024-0063",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Lactente, 5 meses de idade, comparece à consulta para avaliação de lesões cutâneas. A mãe relata que há duas semanas a criança iniciou com lesões eritemato-papulares, algumas confluindo em placas, pruriginosas, em bochechas e couro cabeludo. Não consegue identificar nenhuma relação com produtos de higiene ou alimentação. Nega febre ou outras alterações. Vacinação em dia. Nega lesões semelhantes em outros familiares. Ao exame físico, observa-se pele seca, lesões descritas pela mãe, sem outras alterações ou lesões em outros locais. Assinale a hipótese diagnóstica MAIS PROVÁVEL para o paciente acima:",
       "alternativas": {
         "A": "Dermatite atópica.",
@@ -3988,7 +3988,7 @@
       "id": "pv-mg-2024-0075",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Criança de 5 anos e 2 meses compareceu ao Posto de Saúde em Belo Horizonte para atualização do cartão vacinal. Apresenta histórico de duas internações prévias por infecções respiratórias desde o nascimento. Em relação à proteção contra doenças respiratórias, o esquema vacinal desta criança, até o momento, deve incluir:",
       "alternativas": {
         "A": "Cinco doses da vacina contra coqueluche, quatro doses da vacina contra Covid-19, uma dose da vacina pneumocócica 23-valente e repetir a vacina de influenza trivalente anualmente.",
@@ -4037,7 +4037,7 @@
       "id": "pv-mg-2025-0125",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "A resposta orgânica ao trauma, também conhecida como REMIT (Resposta Endócrino, Metabólica e Imunológica ao Trauma), é um conjunto de reações que o organismo desenvolve para manter a homeostasia. Na fase inicial da REMIT ocorrem várias alterações metabólicas e imunológicas e, portanto, é CORRETO afirmar:",
       "alternativas": {
         "A": "A excreção de potássio na urina está reduzida devido à liberação aumentada de aldosterona.",
@@ -4108,7 +4108,7 @@
       "id": "pv-mg-2025-0144",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Você está em uma unidade de atenção primária de saúde atendendo um lactente de 12 meses de idade. O paciente vinha evoluindo bem, com cartão de vacina em dia e testes de triagem neonatal sem alterações. Há quatro meses iniciou diarreia, com eliminação de fezes volumosas, semilíquidas ou pastosas, 4 a 5 vezes ao dia, sem muco ou sangue, algumas vezes com resto alimentar. Concomitantemente, houve redução do ganho ponderal. Recebeu aleitamento materno até os seis meses de vida, e, a seguir, foram introduzidos alimentos em geral, incluindo leite de vaca e glúten. Resultados de exames: anemia ferropriva leve, hipoalbuminemia discreta, pesquisa de leucócitos nas fezes positivo. Baseando-se no caso descrito, é considerada ERRADA a alternativa:",
       "alternativas": {
         "A": "A presença de leucócitos nas fezes é um exame inespecífico e pode ser indicativo de ocorrência de processo inflamatório do intestino, podendo ser observada em várias afecções.",
@@ -4205,7 +4205,7 @@
       "id": "pv-amr-2024-0010",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Sobre o Transtorno do Espectro Autista (TEA), pode-se afirmar que:",
       "alternativas": {
         "A": "Evidências científicas apontam a presença de um biomarcador específico.",
@@ -4256,7 +4256,7 @@
       "id": "pv-amr-2024-0027",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Lactente de 2 meses de idade é trazido pela mãe para a consulta de puericultura. Como queixa, a mãe refere “vômitos” após as mamadas. Nasceu a termo, sem apresentar fatores de risco e está em aleitamento materno exclusivo. Apresenta crescimento e desenvolvimento adequados e ausência de eventos clínicos significativos desde o nascimento. Em relação à queixa da mãe, o procedimento indicado é:",
       "alternativas": {
         "A": "Tranquilizar a mãe e manter o aleitamento materno exclusivo.",
@@ -4306,7 +4306,7 @@
       "id": "pv-amr-2024-0034",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Icterícia Neonatal",
       "enunciado": "Qual das alternativas abaixo apresenta um fator de risco para hiperbilirrubinemia mais acentuada no período neonatal?",
       "alternativas": {
         "A": "Icterícia com início nas primeiras 30 horas de vida.",
@@ -4352,7 +4352,7 @@
       "id": "pv-amr-2024-0092",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Considerando o esquema vacinal do adulto e do idoso, segundo as orientações do Ministério da Saúde (calendário vacinal de 2022, conforme atualização em 18/08/2022), assinale a alternativa correta.",
       "alternativas": {
         "A": "A vacina pneumocócica 23 valente está indicada para todos a partir dos 60 anos de idade e deve ser repetida a cada 5 anos.",
@@ -4378,7 +4378,7 @@
       "id": "pv-amr-2025-0163",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "O seguimento ambulatorial do RN prematuro é uma extensão dos cuidados iniciados ainda na UTI neonatal. Em relação a esse acompanhamento, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "O programa de seguimento do RN de risco se inicia ainda durante a internação hospitalar, antes da alta.",
@@ -4403,7 +4403,7 @@
       "id": "pv-amr-2025-0164",
       "area": "Pediatria",
       "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "",
+      "sub_subarea": "Cardiopatias Acianóticas",
       "enunciado": "A enfermagem comunica ao médico que o teste do coraçãozinho de um RN com 37 semanas de idade gestacional fora feito com 26 horas de vida. O resultado foi 89% no membro superior direito e 92% no membro inferior esquerdo. Qual é a melhor conduta nesse caso?",
       "alternativas": {
         "A": "Solicitar ecocardiograma imediatamente para descartar cardiopatia congênita cianótica.",
@@ -4430,7 +4430,7 @@
       "id": "pv-amr-2025-0166",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "João tem 8 anos, e Maria tem 11 anos. Ao exame físico, foi constatado que João apresenta crescimento testicular e aumento do comprimento peniano. Em Maria, nota-se a presença de broto mamário. Como são classificados os achados descritos em relação à escala de Turner (G e M) e às suas idades?",
       "alternativas": {
         "A": "João – Turner 3, com achados de puberdade precoce para a sua idade; Maria – Turner 2, com achados normais de puberdade para a sua idade.",
@@ -4562,7 +4562,7 @@
       "id": "pv-ufr-2024-0034",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Pode-se afirmar, sobre as peculiaridades da fisiologia cardiopulmonar do RN, que:",
       "alternativas": {
         "A": "enchimento capilar ˃ 2 segundos sugere um desvio sanguíneo dos órgãos centrais à periferia com consequente, hipóxia",
@@ -4585,7 +4585,7 @@
       "id": "pv-ufr-2024-0036",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Menino, nascido a termo de parto cesáreo, grande para a idade gestacional, desenvolve nas primeiras horas de vida taquipnéia com retrações e cianose responsiva à suplementação de oxigênio em baixa concentração. Radiografia do tórax: trama vascular pulmonar acentuada; líquido nas cisuras interlobares; hiperaeração. Pode-se afirmar que a principal hipótese diagnóstica é:",
       "alternativas": {
         "A": "síndrome do desconforto respiratório",
@@ -4635,7 +4635,7 @@
       "id": "pv-ufr-2024-0042",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Menina, 1 mês, nascida a termo sem intercorrências, inicia quadro de tosse repetida e persistente com ruído metálico, predominantemente expiratório e episódios de cianose. Mãe não fez pré-natal, mas realizou sorologias para investigação de hepatite B e C, vírus da imunodeficiência humana (HIV) e VDRL (venereal disease research laboratory), com todos os exames negativos no momento do parto. Refere que o quadro de tosse foi precedido por 10 dias de secreção em via respiratória e que possui outra criança, de 5 anos, em casa com sintomas catarrais há 3 semanas. Analise as afirmativas a seguir, considerando-se a principal hipótese diagnóstica: I) Espera-se observar a presença de leucocitose e neutrofilia ao hemograma. II) O início de macrolídeos ou sulfametoxazol-trimetoprim nesta fase dessa doença reduz o contágio, mas não interfere no seu curso. III) O esquema de vacinação pentavalente aos 2, 4 e 6 meses + dois reforços (entre 15- 18 meses e entre 4-6 anos) garante 70% a 90% de eficácia na prevenção desta doença. Pode-se afirmar que está(ão) correta(s) a(s) afirmativa(s):",
       "alternativas": {
         "A": "I",
@@ -4681,7 +4681,7 @@
       "id": "pv--2024-0048",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Menino, 6 anos, com diagnóstico de fibrose cística precoce (triagem neonatal alterada), apresenta tosse produtiva persistente e “sibilância” recorrente há 8 meses. Não há febre. Radiografia do tórax: espessamento peribônquico, principalmente em lobos superiores. Hemogramas repetidos: leucocitose leve e eosinofilia (em torno de 1000-1200/mm3 eosinófilos). TC do tórax recente: bronquiectasias centrais, principalmente à direita. Pode-se afirmar que a complicação que deve ser investigada è:",
       "alternativas": {
         "A": "síndrome hipereosinofílica",
@@ -4727,7 +4727,7 @@
       "id": "pv-ufr-2024-0050",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Menino, 4 meses, em aleitamento materno exclusivo, apresenta diarreia há mais de 1 mês e dificuldade em ganhar peso. Exame físico: pequeno abscesso com fistulização na área de aplicação da vacina BCG (bacilo Calmette-Guérin) e adenomegalia em axila direita. Hemograma: anemia hipocrômica e microcítica leve; leucócitos = 6.000/mm³ com 1.300 linfócitos/mm³. A principal hipótese diagnóstica é:",
       "alternativas": {
         "A": "imunodeficiência combinada grave",
@@ -4778,7 +4778,7 @@
       "id": "pv-ufr-2024-0055",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Lactente é levada à consulta de puericultura. Não há queixas; aleitamento materno exclusivo. Foi prematura de 36 semanas; peso ao nascimento = 2.880g. Pode-se afirmar que a recomendação da Sociedade Brasileira de Pediatria para a suplementação medicamentosa profilática de ferro elementar, em mg/kg/dia, e o tempo correto para seu início, com dias de vida, são:",
       "alternativas": {
         "A": "1 / 30",
@@ -4804,7 +4804,7 @@
       "id": "pv-ufr-2024-0056",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Pode-se afirmar, sobre a infecção pelo vírus sincicial respiratório (VSR), que:",
       "alternativas": {
         "A": "SpO2 > 95%, história de alimentação ao seio materno exclusivo e nascimento a termo contraindicam internação hospitalar",
@@ -4830,7 +4830,7 @@
       "id": "pv-ufr-2024-0058",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Em uma criança submetida ao teste do pezinho, encontrou-se hemoglobina S. Com 1 ano de idade, pode-se afirmar que o exame adequado para diagnosticar ou afastar uma hemoglobinopatia é:",
       "alternativas": {
         "A": "imunofenotipagem para anemia hereditárias",
@@ -4855,7 +4855,7 @@
       "id": "pv-ufr-2024-0062",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "O diagnóstico da obstrução urinária baixa (válvula de uretra posterior) pode ser feito no feto ainda no período gestacional. Há a possibilidade de intervenções cirúrgicas intraútero através de colocação de shunt vesicoamnótico ou de ablação da válvula de uretra posterior for fetoscopia fetal. Pode-se afirmar que o principal objetivo da realização desses procedimentos é:",
       "alternativas": {
         "A": "restaurar o volume do líquido amniótico para, assim, prevenir a hipoplasia pulmonar",
@@ -4878,7 +4878,7 @@
       "id": "pv-ufr-2024-0063",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Pode-se afirmar que, quando há necessidade de suspensão do aleitamento materno já estabelecido, a carbegolina deve ser prescrita:",
       "alternativas": {
         "A": "dois comprimidos de 0,50 mg, 1 vez/dia durante 2 dias seguidos",
@@ -4926,7 +4926,7 @@
       "id": "pv-ufr-2024-0086",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Sobre o ciclo menstrual, é sabido que ele é composto de uma engrenagem fisiológica complexa, que envolve a regulação de hormônios hipotalâmicos, hipofisários e ovarianos. Pode-se afirmar, tendo em vista os conhecimentos sobre a dinâmica do eixo hipotálamo- hipófiseovário, que o:",
       "alternativas": {
         "A": "hormônio liberador de gonadotrofinas (GnRH) é liberado de forma contínua pelo hipotálamo, sendo responsável pela liberação de gonadotrofinas hipofisárias",
@@ -4949,7 +4949,7 @@
       "id": "pv-ufr-2024-0120",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Homem, 35 anos, após trauma automobilístico, sofreu ruptura esplênica e necessidade de intervenção cirúrgica. Foi submetido à esplenectomia e uso de cefazolina profilática. Pode-se afirmar que, após o procedimento, o tempo de uso da cefazolina profilática e a vacinação contra estreptococcia devem ser, respectivamente:",
       "alternativas": {
         "A": "7 dias / vacinação 14 dias após o procedimento",
@@ -4972,7 +4972,7 @@
       "id": "pv-ufr-2025-0159",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Mulher, 35 anos, foi mordida pelo cachorro da vizinha e apresenta ferida única, profunda, na perna esquerda, com perda tecidual. Foi vacinada contra tétano há três anos, durante a gestação. Pode-se afirmar, que após a limpeza da ferida, a conduta mais adequada é administrar:",
       "alternativas": {
         "A": "clindamicina e iniciar vacina antirrábica nos dias 0, 3, 7 e 14",
@@ -5018,7 +5018,7 @@
       "id": "pv-ufr-2025-0233",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Pode-se afirmar que o peso fetal é considerado critério isolado e mais que suficiente de restrição de crescimento fetal quando se encontra abaixo do percentil:",
       "alternativas": {
         "A": "6",
@@ -5189,7 +5189,7 @@
       "id": "pv-ufr-2025-0295",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Pode-se afirmar, sobre a saúde da criança, que o Ministério da Saúde recomenda:",
       "alternativas": {
         "A": "observar, no registro do Cartão da Criança, a avaliação das condições do seu nascimento, principalmente se houver um Índice de Apgar de 0-4 no quinto minuto, pois há correlação leve com aumento de risco para paralisia cerebral e mortalidade",
@@ -5239,7 +5239,7 @@
       "id": "pv-uer-2024-0023",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "Lactente de 9 meses, com história de febre alta, coriza, tosse e conjuntivite não purulenta há três dias, iniciou exantema maculopapular nas regiões frontal e cervical, posteriormente se disseminando para tronco e extremidades. A presença de outros dados clínicos e complicações que corroboram a suspeita de sarampo são:",
       "alternativas": {
         "A": "pontos vermelhos brilhantes com centro branco ou branco-azulado na mucosa oral, descamação furfurácea e encefalite aguda.",
@@ -5365,7 +5365,7 @@
       "id": "pv-uer-2024-0037",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Lactente de 3 meses, com história de uso de fórmula infantil nas primeiras horas de vida por hipoglicemia, está em aleitamento materno exclusivo desde o quarto dia de vida. Apresenta evacuações com raias de sangue nas fezes e eczema em face e no couro cabeludo há 30 dias. Não recebeu o resultado do teste do pezinho até o presente momento. Ao exame físico, encontra-se em bom estado geral, com crescimento pôndero-estatural, desenvolvimento neuropsicomotor compatível com idade e imunizações em dia. O possível diagnóstico e a conduta adequada para o caso, respectivamente, são:",
       "alternativas": {
         "A": "galactosemia / manter o aleitamento materno",
@@ -5414,7 +5414,7 @@
       "id": "pv-uer-2024-0068",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "A cicatriz hipertrófica e os queloides são distúrbios da cicatrização caracterizados por deposição tecidual de colágeno. Os queloides podem ser diferenciados das cicatrizes hipertróficas por apresentarem:",
       "alternativas": {
         "A": "crescimento além dos limites da ferida",
@@ -5494,7 +5494,7 @@
       "id": "pv-uer-2025-0156",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Em relação à vacinação durante a gravidez, a vacina cuja administração está indicada em qualquer IG é:",
       "alternativas": {
         "A": "Dtpa",
@@ -5540,7 +5540,7 @@
       "id": "pv-uer-2025-0164",
       "area": "Pediatria",
       "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "",
+      "sub_subarea": "Cardiopatias Acianóticas",
       "enunciado": "Em relação ao teste da oximetria de pulso para triagem de cardiopatias congênitas críticas no RN (teste do coraçãozinho), é correto afirmar que:",
       "alternativas": {
         "A": "deve ser realizado em todos os RNs com idade gestacional igual ou maior que 35 semanas, preferencialmente entre 24 e 48 horas de vida",
@@ -5566,7 +5566,7 @@
       "id": "pv-uer-2025-0167",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Menina de 8 anos, natural do Rio de Janeiro, foi levada ao pediatra após contato com um colega com coqueluche. A paciente não apresenta quaisquer sintomas e o exame físico é normal. Não foi possível verificar o cartão vacinal, porque foi perdido. Considerando a situação vacinal, o esquema de imunização mais indicado nesse caso é aplicar, com intervalo de dois meses entre cada dose, três doses da vacina:",
       "alternativas": {
         "A": "adsorvida difteria, tétano e pertussis acelular (dTpa).",
@@ -5614,7 +5614,7 @@
       "id": "pv-uer-2025-0173",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Adolescente de 14 anos, sexo masculino, refere ter dor no terço proximal da coxa direita há cerca de quatro meses, principalmente à noite. Essa dor ocorre quase todos os dias e, geralmente, é aliviada com o uso de anti-inflamatório não esteroidal ministrado pelos pais. O exame físico realizado no ambulatório é normal, exceto pela presença de dor à digitopressão na região. Na história patológica pregressa, pais referem cerca de cinco a seis amigdalites por ano e asma brônquica, que melhorou por volta dos 7 anos. A principal hipótese diagnóstica nesse caso é:",
       "alternativas": {
         "A": "doença de Osgood Schlatter",
@@ -5688,7 +5688,7 @@
       "id": "pv-hcp-2024-0084",
       "area": "Pediatria",
       "subarea": "Pneumologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Asma / Sibilância",
       "enunciado": "Criança de 8 anos foi trazida à consulta pela terceira vez em menos de 2 meses por dificuldade respiratória, tosse e sibilância. O médico que costumeiramente atendia a criança propôs à mãe um tratamento com medicamento à base de componentes naturais ainda em fase experimental, veiculado em anúncio nas redes sociais. A mãe aceitou a proposta e levou o produto para casa com as recomendações médicas. Com base nesse quadro, assinale a assertiva correta.",
       "alternativas": {
         "A": "Uma vez que a responsável pela criança aceitou a proposta terapêutica, não há impedimento para o uso desse medicamento.",
@@ -5713,7 +5713,7 @@
       "id": "pv-hcp-2024-0085",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "Criança de 7 anos foi trazida à consulta por apresentar lesões maculopapulares avermelhadas. A mãe informou que o início do quadro fora precedido por febre baixa. Inicialmente surgiram lesões na face (bochechas e dorso do nariz) e, após 2 dias, espalharam-se nos membros superiores, inclusive nas palmas das mãos, com aspecto rendilhado. Elas acentuavam-se com o sol. Qual o diagnóstico mais provável?",
       "alternativas": {
         "A": "Escarlatina",
@@ -5741,7 +5741,7 @@
       "id": "pv-hcp-2024-0090",
       "area": "Pediatria",
       "subarea": "Pneumologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Asma / Sibilância",
       "enunciado": "Lactente masculino, de 1 ano, iniciou, há 3 dias, com tosse, coriza hialina e temperatura axilar de até 37o C. Por ter apresentado piora clínica com taquipneia, batimentos de asa nasal e retrações intercostais e subcostais, foi trazido à consulta. A ausculta pulmonar revelou estertores rudes e crepitantes difusamente distribuídos, sem sibilância. Que agente etiológico, dentre os abaixo, está mais provavelmente relacionado ao caso?",
       "alternativas": {
         "A": "Streptococcus pneumoniae",
@@ -5764,7 +5764,7 @@
       "id": "pv-hcp-2024-0091",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Menina de 10 meses foi trazida à consulta por dor abdominal, diarreia e vômitos após ingestão de fórmula infantil com proteína do leite de vaca (PLV). Tinha história de dermatite atópica. Nascida de parto vaginal, apresentou índice de Apgar 8 e 9 no primeiro e quinto minutos respectivamente e escore Z peso/idade e estatura/idade entre 0 e +1. Durante os primeiros 6 meses de vida, esteve assintomática, em uso de leite materno exclusivo. Testes alérgicos para o leite de vaca (dosagem de IgE específica) foram negativos. Há 1 mês vinha em uso de fórmula infantil polimérica com PLV sem lactose, sem melhora. No momento, a conduta mais adequada é iniciar",
       "alternativas": {
         "A": "fórmula extensamente hidrolisada e suspender derivados de PLV.",
@@ -5790,7 +5790,7 @@
       "id": "pv-hcp-2024-0095",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Lactente de 3 meses foi trazido à UBS para consulta de revisão (dados do nascimento estão reproduzidos na tabela abaixo). Encontrava-se em regime de aleitamento materno exclusivo, com eliminações normais. A cobertura vacinal estava atualizada. Não havia história de intercorrências nos períodos prénatal, perinatal e neonatal. O exame físico não revelou alterações, e o desenvolvimento neuropsicomotor era adequado para a idade. Considerando o crescimento próximo ao escore Z da curva da OMS, quais seriam as prováveis medidas antropométricas de peso e comprimento nessa consulta?",
       "alternativas": {
         "A": "4.500 g – 53 cm",
@@ -5816,7 +5816,7 @@
       "id": "pv-hcp-2024-0096",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Durante consulta de puericultura em uma UBS em Porto Alegre, a mãe de uma criança de 2 anos solicitou informações gerais sobre a vacina contra febre amarela, especialmente porque a família viajava com frequência para o interior do Rio Grande do Sul. Assinale a assertiva correta sobre a vacina contra febre amarela, segundo as recomendações do Ministério da Saúde e do Programa Nacional de Imunizações.",
       "alternativas": {
         "A": "Por ser uma vacina de vírus inativado, não há necessidade de avaliar se existe alguma contraindicação.",
@@ -5839,7 +5839,7 @@
       "id": "pv-hcp-2025-0102",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Durante o evento climático no Rio Grande do Sul em maio de 2024, o Programa de Triagem Neonatal do RS solicitou às unidades hospitalares de referência em nascimento a coleta do Teste do Pezinho ainda no ambiente hospitalar, para evitar que não fosse feito em razão do alagamento ou destruição de Postos de Saúde das regiões afetadas. Assinale a alternativa que contempla a doença e um possível falso resultado em uma coleta precoce do teste (antes do 3o dia) em recém-nascido a termo, com peso de nascimento de 3.000 g, nascido em maternidade do SUS e cuja mãe não apresenta patologias nem faz uso de medicamentos contínuos.",
       "alternativas": {
         "A": "Fenilcetonúria – falso positivo",
@@ -5864,7 +5864,7 @@
       "id": "pv-hcp-2025-0104",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Mãe de lactente de 3 meses (em aleitamento materno exclusivo) consultou por acreditar que está com pouco leite. Informou sentir as mamas menos cheias em razão de o filho querer mamar com mais frequência. A criança encontrava-se em bom estado geral, com peso adequado, embora o ganho ponderal tenha desacelerado no último mês, causando um leve desvio para baixo na curva de peso para a idade. Qual a orientação inicial mais adequada para a situação?",
       "alternativas": {
         "A": "Indicar apenas observação clínica com retorno ambulatorial agendado em 15 dias.",
@@ -5933,7 +5933,7 @@
       "id": "pv-hcp-2025-0108",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Lactente de 33 dias foi trazida à consulta de puericultura. Era filha de pais não consanguíneos e tinha 2 irmãos hígidos; a mãe de 37 anos não apresentou intercorrências no pré-natal. Ao exame, foi identificada hipotonia generalizada. Suspeitou-se de síndrome genética. O teste de triagem neonatal, coletado na UBS, não revelou alterações. Com base no caso, assinale a assertiva correta.",
       "alternativas": {
         "A": "Pregas epicânticas e prega palmar única são pouco frequentes na trissomia do 21.",
@@ -5956,7 +5956,7 @@
       "id": "pv-hcp-2025-0109",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Mãe de lactente de 3 meses (em aleitamento materno exclusivo) consultou por acreditar que está com pouco leite. Informou sentir as mamas menos cheias em razão de o filho querer mamar com mais frequência. A criança encontrava-se em bom estado geral, com peso adequado, embora o ganho ponderal tenha desacelerado no último mês, causando um leve desvio para baixo na curva de peso para a idade. Qual a orientação inicial mais adequada para a situação?",
       "alternativas": {
         "A": "Indicar apenas observação clínica com retorno ambulatorial agendado em 15 dias.",
@@ -5979,7 +5979,7 @@
       "id": "pv-hcp-2025-0110",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Em consulta de puericultura de um lactente de 6 meses (em aleitamento materno exclusivo) detectou-se, à oroscopia, a erupção do primeiro incisivo central direito. Assinale a alternativa que contempla a mais adequada orientação sobre higiene oral para o caso.",
       "alternativas": {
         "A": "Iniciar higiene com gaze ou pano limpo, após a última mamada do dia.",
@@ -6004,7 +6004,7 @@
       "id": "pv-hcp-2025-0113",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Lactente de 18 meses, previamente hígida, com episódios recorrentes de otite média aguda (OMA), foi trazida à consulta em razão de novo episódio, o quarto neste ano. A família era cuidadosa quanto à diminuição dos fatores de risco para OMA (não fumar perto da criança, não dar mamadeira em decúbito e não ofertar chupetas). As vacinas estavam em dia. Após discussão com a família sobre o impacto negativo dos episódios recorrentes na saúde global da criança, recomendou-se a colocação de tubos de ventilação. Que alternativa, dentre as abaixo, é o desfecho primário esperado para essa medida terapêutica?",
       "alternativas": {
         "A": "Melhora progressiva na aquisição da fala",
@@ -6027,7 +6027,7 @@
       "id": "pv-hcp-2025-0115",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Criança de 2 anos e 1 mês foi internada na Enfermaria proveniente da Emergência. Na lista de problemas, constava “quarto episódio de internação por bronquiolite viral aguda” (vírus isolado no primeiro episódio de sibilância: rinovírus). Revisando outros aspectos da história, verificou-se que a criança nascera a termo, tinha crescimento e desenvolvimento adequados, estava com as vacinas em dia e vinha em uso de hidratante para dermatite atópica. Frequentava a pré-escola em turno integral desde os 4 meses. Os pais eram hígidos, e o irmão de 12 anos fazia uso regular de formoterol, budesonida e tiotrópio inalatórios. A mãe relatou que o quadro agudo atual havia começado com coriza e tosse produtiva. Teve um pico febril de 37,9o C na chegada ao hospital, há 24 horas. Ao exame físico, apresentava bom estado geral, frequência respiratória de 38 mpm, tiragem subcostal leve e sibilos polifônicos expiratórios bilaterais. Oxímetro de pulso mostrou saturação de 96%, com suplementação de oxigênio por cânula nasal de baixo fluxo a 0,4 l/min. Radiografia de tórax revelou hiperinsuflação bilateral e opacidades intersticiais peri-hilares. Na prescrição da Emergência, estavam registrados os seguintes itens: (1) dieta por via oral; (2) oxigênio por cânula nasal de baixo fluxo a 0,4 l/min; (3) aspiração nasal, se necessário. Que modificação na prescrição médica deve ser feita por ocasião da admissão do paciente na Enfermaria?",
       "alternativas": {
         "A": "Aumentar o fluxo de oxigênio pelo cateter nasal para 0,8 l/min.",
@@ -6052,7 +6052,7 @@
       "id": "pv-hcp-2025-0116",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Icterícia Neonatal",
       "enunciado": "Menino de 3 anos foi trazido à consulta por episódios intermitentes de icterícia e anemia, geralmente precipitados após infecções virais. Em seu histórico, constavam icterícia neonatal e transfusão sanguínea aos 8 meses, devido a anemia grave. Ao exame físico, foram observadas icterícia e palidez cutânea, sem esplenomegalia palpável. Os principais resultados dos exames laboratoriais encontram-se reproduzidos abaixo. Qual o diagnóstico mais provável?",
       "alternativas": {
         "A": "Esferocitose hereditária",
@@ -6103,7 +6103,7 @@
       "id": "pv-hcp-2025-0134",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Menina de 4 anos foi trazida à consulta por apresentar desenvolvimento de mamas e pelos pubianos, quadro iniciado há 3 meses segundo familiares. Ao exame físico, foram constatados mamas e pelos no estágio 3 de Tanner. Exames laboratoriais e funcionais levaram ao diagnóstico de puberdade precoce dependente de gonadotrofinas. Assinale a assertiva correta com base no diagnóstico.",
       "alternativas": {
         "A": "Deve ser iniciado imediatamente tratamento com agonistas do GnRH e hormônio do crescimento.",
@@ -6128,7 +6128,7 @@
       "id": "pv-fam-2024-0018",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Beatriz tem 7 meses e está em consulta de rotina na UBS. Mãe refere que mantem aleitamento materno e paciente tem boa aceitação da dieta introduzida há 1 mês. No exames físico nota-se que ela é capaz de sentar com apoio, transferir objetos de uma mão para a outra, volta-se para a voz quando chamada, porém ainda não imita sons. Ao analisar o desenvolvimento desta paciente podemos concluir:",
       "alternativas": {
         "A": "Atraso do desenvolvimento motor",
@@ -6154,7 +6154,7 @@
       "id": "pv-fam-2024-0019",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Criança com 12 meses vem para consulta de rotina e a mãe refere certa dificuldade de alimentar e início do uso de leite de vaca há 1 mês. Ao exame físico está hipocorada 2+/4+, hidratada, anaictérica, ativa e com neurodesenvolvimento adequedo para a idade. Peso e estatura estão no percentil 10 para a idade, mantendo seu padrão de crescimento desde o nascimento. Para esse paciente, sua principal hipótese e conduta devem ser:",
       "alternativas": {
         "A": "Desnutrição - solicitar hemograme e lipidpgrama",
@@ -6177,7 +6177,7 @@
       "id": "pv-fam-2024-0020",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Escolar de 5 anos procura atendimento para atualização de cartão vacinal. Pelo cartão, todas as vacinas foram realizadas até os 18 meses de vida. Quais as atualizações necessária nesta consulta:",
       "alternativas": {
         "A": "Reforço DTP/DTPa",
@@ -6203,7 +6203,7 @@
       "id": "pv-fam-2024-0021",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Lactente de 18 meses é trazido á consulta devido ao aparecimento de lesões eczematosas, pruriginosas em couro cabeludo, face e membros superiores há 10 dias, sem melhora. Mãe nega outras queixas, refere aleitamento materno por 4 meses e com boa aceitação alimentar. Qual a principal hipótese diagnóstica:",
       "alternativas": {
         "A": "Psoríase",
@@ -6256,7 +6256,7 @@
       "id": "pv-fam-2024-0023",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Lactente de 2 meses, em aleitamento materno exclusivo, procura atendimento com relato de diarréia com raios de sangue nas fezes há 1 mês e lesões eritemato crostosas associadas. Segundo a mãe, lactente recebeu complemento com fórmula infantil no 1º dia de vida na maternidade por dificuldade de amamentação. Ao exame físico encontra-se corado, hidratado em com ganho de peso adequado. Qual a conduta mais adequada a esse paciente:",
       "alternativas": {
         "A": "Suspender aleitamento e iniciar fórmula infantil especial",
@@ -6279,7 +6279,7 @@
       "id": "pv-fam-2024-0026",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Recém-nascido a termo, com peso adequado para a idade gestacional, assintomático, realiza Teste do Coraçãozinho no segundo dia de vida após o nascimento. A saturação arterial de oxigênio obtida por oximetria de pulso em membro superior direito de 96% e em membro inferior de 90%. Qual é a conduta?",
       "alternativas": {
         "A": "Repetir o teste após uma hora",
@@ -6330,7 +6330,7 @@
       "id": "pv-fam-2024-0030",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Recém-nascido de 34 semanas de idade gestacional corrigida, peso de nascimento de 1990g. Está no 10º dia de vida e encontra-se em aleitamento materno exclusivo e já recuperou o peso de nascimento. De acordo com as normas do Programa Nacional de imunização, em relação a vacina de BCG, devemos:",
       "alternativas": {
         "A": "1. Aplicar a vacina nesse momento",
@@ -6355,7 +6355,7 @@
       "id": "pv-fam-2025-0124",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Criança com 2 meses e 10 dias de idade, nascida de parto domiciliar, recebendo aleitamento materno exclusivo até 2m e 10 dias, quando é abandonada pela mãe na casa da vizinha. A criança não passou por consulta na puericultura e não tem Carteira de Vacinação, pois desde o nascimento não recebeu nenhuma vacina. A primeira providencia da vizinha foi levar a criança para ser avaliada na Unidade Básica de Saúde do bairro. Segundo o Programa Nacional de Imunização (PNI) do Ministério da Saúde, 2024, quais vacinas esta criança deve receber?",
       "alternativas": {
         "A": "BCG, Hepatite B, Pentavalente (Difteria, Tétano, Pertussis, Hepatite B e Haemophilus influenzae B), Poliomielite (VIP), Pneumocócica 10 valente, E meningocócica C",
@@ -6380,7 +6380,7 @@
       "id": "pv-fam-2025-0132",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Em uma consulta de puericultura de um lactente de 12 meses, a mãe questiona sobre a necessidade de exames para investigação de anemia. Lactente em aleitamento materno misto (recebe leite de vaca integral em algumas mamadas) e com boa aceitação alimentar. Recebe ferro profilático na dose de 1 mg/kg desde o 3º mês de vida e vitamina D 600 Ul/dia desde o nascimento e com bom ganho pondero-estatural. Qual a sua orientação:",
       "alternativas": {
         "A": "A triagem é indicada nessa faixa etária e devem ser colhidos, no mínimo: hemograma e ferritina.",
@@ -6407,7 +6407,7 @@
       "id": "pv-fam-2025-0134",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Durante a consulta de rotina de um lactente de 4 meses a mãe questiona sobre quais as vacinas ele precisa fazer nesse momento. Paciente com cartão vacinal completo e atualizado até o 3º mês de vida. Mãe refere que nas vacinas de 2 meses ele apresentou dor abdominal e um pouco de enterorragia. Qual deve ser a orientação para essa familia:",
       "alternativas": {
         "A": "Realizar 2 doses de rotavirus, pentavalente, poliomielite oral (VOP) e pneumococo conjugada",
@@ -6459,7 +6459,7 @@
       "id": "pv-fam-2025-0139",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Paciente masculino de 12 anos de idade é levado para avaliação ambulatorial com queixa de ser o menor da classe, gerando alguns apelidos e desconforto ao paciente. Família fazia seguimento anual com pediatra até os 10 anos e traz recordatório mostrando que o paciente nasceu com 38 semanas, peso 3,2kg e 49cm, nega doenças crônicas ou uso de medicações rotineiramente. Nesse recordatório ainda tem anotado estatura de 125cm aos 10 anos, 131cm aos 11 anos e na consulta atual aos 12 anos, o paciente apresenta 136cm (percentil 3), Tanner G1P1 e você percebe ao exame físico detalhado uma clinodactilia à direita e proporções corporais preservadas. Qual sua hipótese diagnóstica e conduta sugerida?",
       "alternativas": {
         "A": "Baixa estatura por deficiência de GH. Solicito dosagem de GH basal e após exercício físico para avaliar níveis que GH atingem após esforço físico. Se GH < 10 ng/dl após esforço, iniciar somatropina o mais breve possível pelo stress emocional que criança vêm passando.",
@@ -6482,7 +6482,7 @@
       "id": "pv-fam-2025-0143",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Recém-nascido, termo, 37 semanas, em leito de alojamento conjunto, com 30 horas de vida, realizado teste do coraçãozinho: saturação membro superior 93%, saturação membro inferior 93%. Em relação ao teste do coraçãozinho é correto afirmar:",
       "alternativas": {
         "A": "Teste do coraçãozinho alterado, conduta intubação orotraqueal, oferecer FiO2 100 % e encaminhar o paciente para UTI",
@@ -6533,7 +6533,7 @@
       "id": "pv-sp-2024-0041",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "A respeito da fibrose cística na infância, assinale a alternativa correta.",
       "alternativas": {
         "A": "Sua herança genética é autossômica, ligada ao X, e afeta apenas o sexo masculino.",
@@ -6585,7 +6585,7 @@
       "id": "pv-sp-2024-0043",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "O teste do pezinho consiste na triagem neonatal de várias doenças e deve ser feito entre as primeiras 48 horas e o 5.o dia de vida. Com base nessa informação, assinale a alternativa que apresenta as doenças que estão inclusas na triagem do teste do pezinho.",
       "alternativas": {
         "A": "fenilcetonúria, trissomia do 21, doença falciforme e outras hemoglobinopatias, fibrose cística, hiperplasia adrenal congênita e deficiência de biotinidase",
@@ -6690,7 +6690,7 @@
       "id": "pv-sp-2024-0048",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "O Programa Nacional de Imunização (PNI) inclui várias vacinas. Acerca desse programa, assinale a alternativa correta.",
       "alternativas": {
         "A": "A vacina do rotavírus tem se demonstrado muito segura, inclusive para crianças com história de doença gastrintestinal crônica e de malformação congênita do trato gastrintestinal e portadoras de imunodepressão.",
@@ -6738,7 +6738,7 @@
       "id": "pv-sp-2024-0053",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Febre sem Sinais Localizatórios",
       "enunciado": "A febre é a queixa mais frequente nos serviços de emergência pediátrica. Em relação ao quadro de febre sem sinais localizatórios (FSSL), assinale a alternativa correta.",
       "alternativas": {
         "A": "Considerando‑se o padrão de sensibilidade dos agentes da comunidade e a faixa etária da criança, a maior parte dos pacientes acima de sessenta dias de vida pode ser tratada via oral, em regime ambulatorial, não havendo diferença na efetividade da terapêutica via oral ou parenteral.",
@@ -6766,7 +6766,7 @@
       "id": "pv-sp-2024-0054",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "A respeito das doenças falciformes na pediatria, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os fatores desencadeantes da crise álgica ainda não estão bem definidos, sendo que seu aparecimento diminui muito em adolescentes e adultos jovens.",
@@ -6846,7 +6846,7 @@
       "id": "pv-sp-2024-0108",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Gestante, com 30 anos, primigesta, previamente hígida, realizou 06 consultas de pré-natal. No 3º trimestre foi observado polidrâmnio (ILA de 26 cm) em exame de ultrassonografia. Com 41 semanas de idade gestacional foi submetida a parto cesáreo, devido a falha de indução. Bolsa rota no ato, com líquido claro com grumos. Recém-nascido (RN) do sexo masculino, hipotônico e sem choro, imediatamente após a extração. Realizado o clampeamento imediato do cordão umbilical, foi levado ao berço aquecido, secado e estimulado, posicionado e foram aspiradas vias aéreas superiores. Apresentava-se, em seguida, com frequência cardíaca de 50 bpm e em apneia. Após as medidas de reanimação neonatal e a estabilização em sala de parto, o RN foi encaminhado para o alojamento conjunto. Com 1 hora de vida, apresentou episódio de cianose central, durante amamentação. RN foi reavaliado e, ao exame físico, foi observada taquipneia, com tiragem diafragmática, associada a importante sialorreia. Assinale quais procedimentos deverão ser realizados para confirmar a principal hipótese diagnóstica.",
       "alternativas": {
         "A": "Intubação orotraqueal, seguida de raio X de tórax.",
@@ -6872,7 +6872,7 @@
       "id": "pv-sp-2024-0114",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Lactente masculino com 2 meses e 10 dias de vida é levado para consulta na Unidade Básica de Saúde (UBS). Nasceu a termo, de parto vaginal, sem intercorrências no período perinatal, pesando 3.210 g e medindo 50 cm. Teste de triagem neonatal com padrão FA. A mãe realizou adequadamente as consultas pré-natais sem intercorrências. A mãe relata ter levado a criança a um serviço de pronto atendimento há sete dias, devido a um quadro de choro frequente, sempre no final da tarde, com duração de cerca de 2 horas desde o primeiro mês de vida. Na ocasião, indicou-se a coleta de hemograma, cujo resultado está apresentado a seguir: \u0000 Eritrócitos: 3.770.000/mm³ \u0000 Hemoglobina: 9,8 g/dL \u0000 VCM: 77 fL \u0000 HCM: 27 pg \u0000 CHCM: 34 g/dL \u0000 RDW: 13,6% \u0000 Leucócitos: 9.230/mm³ \u0000 Neutrófilos: 47% \u0000 Linfócitos: 38% \u0000 Monócitos: 12,5% \u0000 Eosinófilos: 2% \u0000 Basófilos: 0,5% \u0000 Plaquetas: 283.000/mm³ Após avaliação adequada, refere que a criança teve alta do pronto atendimento com diagnóstico de cólica do lactente e orientação para seguimento com pediatra devido à identificação de um quadro de anemia. No momento da consulta na UBS, a criança está em aleitamento materno exclusivo, pesando 4.900 g e apresenta melhora das cólicas. Faz uso exclusivo de vitamina D 400 UI diariamente. Ao exame físico apresenta fígado palpável a 1 cm do rebordo costal direito e ponta de baço palpável, sem outros achados clínicos. Quanto as alterações identificadas no hemograma supracitado, nesta consulta o médico deverá",
       "alternativas": {
         "A": "iniciar tratamento com ferro 4 mg/kg/dia.",
@@ -6895,7 +6895,7 @@
       "id": "pv-sp-2025-0142",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "Uma menina de 3 anos de idade, previamente hígida, foi levada pelos pais ao pronto atendimento, pois apresentou quadro de febre baixa e exantema avermelhado maculopapular em região maxilar bilateral há 3 dias e, no dia da consulta, apresentava lesões que se disseminaram para tronco e membros, de aspecto rendilhado. Não havia alterações de mucosa. Com base nessa situação hipotética, a principal hipótese diagnóstica e o agente etiológico são, respectivamente,",
       "alternativas": {
         "A": "eritema infeccioso e parvovírus B19.",
@@ -6921,7 +6921,7 @@
       "id": "pv-sp-2025-0144",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "A respeito da vacina aprovada recentemente para a prevenção da dengue, é correto afirmar que",
       "alternativas": {
         "A": "a vacina é uma formulação tetravalente de vírus vivos atenuados.",
@@ -6947,7 +6947,7 @@
       "id": "pv-sp-2025-0145",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Coqueluche",
       "enunciado": "Um lactente de 3 meses de vida, previamente hígido, foi levado pelos pais ao pronto atendimento por apresentar quadro de tosse seca e coriza há 8 dias, com piora nas últimas horas, evoluindo com cianose e vômitos. A criança foi mantida em observação no pronto atendimento e apresentou crise de tosse, com pletora facial, guincho e cianose. Com base nessa situação hipotética, assinale a alternativa que apresenta a principal hipótese diagnóstica, o principal agente etiológico e o medicamento adequado para o tratamento, respectivamente.",
       "alternativas": {
         "A": "coqueluche, Bordetella parapertussis e azitromicina",
@@ -6995,7 +6995,7 @@
       "id": "pv-sp-2025-0149",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Assinale a alternativa que apresenta uma doença que não consta no teste de triagem neonatal bioquímico básico.",
       "alternativas": {
         "A": "fenilcetonúria",
@@ -7049,7 +7049,7 @@
       "id": "pv-sp-2025-0151",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "A consulta pediátrica de puericultura de rotina é um momento importante na prevenção e na promoção da saúde infantil. A respeito dos parâmetros do crescimento referentes aos primeiros 1.000 dias de vida, assinale a alternativa correta.",
       "alternativas": {
         "A": "Durante o período intrauterino, o pico da velocidade de crescimento de comprimento ocorre no terceiro trimestre da gravidez.",
@@ -7133,7 +7133,7 @@
       "id": "pv-sp-2025-0185",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Em um município do interior, houve um aumento repentino de casos de diarreia aguda entre crianças em uma creche. A equipe de saúde pública foi acionada para investigar as possíveis causas e evitar a propagação da doença. Com base nessa situação hipotética, é correto afirmar que a primeira medida adotada pela equipe de vigilância epidemiológica deve ser",
       "alternativas": {
         "A": "iniciar uma campanha de vacinação contra diarreia na comunidade.",
@@ -7180,7 +7180,7 @@
       "id": "pv-sp-2025-0226",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Na primeira consulta de rotina de um recém-nascido de 20 dias de vida, a mãe refere estar preocupada, pois acha que seu bebê é estrábico. A criança nasceu a termo de parto vaginal com aplicação de fórceps, boletim de Apgar de 7 no 1º minuto e 9 no 5º minuto, com peso de 2.980 g. Está em aleitamento materno exclusivo. Durante a consulta, a médica teve a oportunidade de observar dois momentos em que o paciente apresentou um desvio ocular convergente, bilateral e simultâneo, com duração de cerca de 3 segundos. Não foi observado nistagmo, as pupilas mostraram-se isocóricas e fotorreagentes e o teste do reflexo vermelho executado, durante a consulta, estava presente bilateralmente. O restante do exame clínico não revelou alterações significativas. Neste momento, a conduta frente à preocupação materna é:",
       "alternativas": {
         "A": "Encaminhar ao oftalmologista pediátrico.",
@@ -7236,7 +7236,7 @@
       "id": "pv-sp-2025-0230",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Lactente, do sexo feminino, 3 meses de idade, passou a apresentar sangramento vivo nas fezes 7 dias após a suspensão total do aleitamento materno e substituição por leite de vaca integral, adicionado de cereal infantil à base de arroz e aveia. Nasceu a termo, sem intercorrências no período perinatal. Está em bom estado geral, sem alterações ao exame clínico atual, pesando 5.830 g. Diante da impossibilidade de a paciente retornar ao aleitamento materno exclusivo, a primeira opção terapêutica, neste caso, será a substituição do leite atual por fórmula infantil à base de",
       "alternativas": {
         "A": "proteína de soja.",
@@ -7261,7 +7261,7 @@
       "id": "pv-sp-2025-0238",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Icterícia Neonatal",
       "enunciado": "Recém-nascido, 36 horas de vida no alojamento conjunto, apresenta perda ponderal de 4% desde o nascimento e icterícia neonatal zona II de Kramer ao exame físico. Recebe seio materno em livre demanda. Checadas tipagens sanguíneas: - Mãe: A, Rh negativo e Coombs indireto negativo; - RN: B, Rh positivo e Coombs direto negativo. Realizada coleta de bilirrubina total e frações com 37 horas de vida devido à icterícia neonatal: - Bilirrubina total: 7 mg/dL - Bilirrubina indireta: 6,8 mg/dL - Bilirrubina direta: 0,2 mg/dL Em relação aos resultados de exames e a provável etiologia, assinale a alternativa correta.",
       "alternativas": {
         "A": "Icterícia neonatal fisiológica, por redução de glicuronil transferase.",
@@ -7286,7 +7286,7 @@
       "id": "pv-uni-2024-0003",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Menino, 13 anos de idade, nascido com peso e comprimento adequados, sem doença crônica ou uso de medicação, foi encaminhado ao ambulatório por déficit de crescimento. Na avaliação apresenta estatura entre -1,0 e -2,0 DP e estatura alvo entre - 1,0 e 0,0 DP. A idade óssea é de 11 anos e o desenvolvimento puberal avaliado pelos critérios de Tanner, P1 G1. Seu crescimento foi de 4,5 cm no último ano. Qual é o diagnóstico e a conduta mais adequada?",
       "alternativas": {
         "A": "Atraso constitucional, hormônio do crescimento.",
@@ -7309,7 +7309,7 @@
       "id": "pv-uni-2024-0004",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Recém-nascido, 10 dias de vida, mãe primigesta, parto normal a termo, sem intercorrências na gestação ou no parto. Mãe com sorologias para toxoplasmose realizadas no início de cada trimestre gestacional com IgM e IgG não reagentes. Criança apresentou teste do pezinho positivo para toxoplasmose. Como conduzir este caso?",
       "alternativas": {
         "A": "Repetir sorologia para toxoplasmose da mãe e do RN; se ambas positivas, tratar o RN com sulfadiazina, pirimetamina e ácido folínico por 1 ano.",
@@ -7380,7 +7380,7 @@
       "id": "pv-uni-2024-0009",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Menino, 10 dias de vida, nascido a termo sem intercorrências no pré-natal ou ao nascimento. A mãe traz na primeira consulta de puericultura o resultado da triagem neonatal coletada no terceiro dia de vida. A única alteração nos testes é a dosagem de galactose total 12 mg/dL (Valor de referência < = 9mg/dl). Exame físico: bom estado geral, ganho de peso adequado para a idade e sem alterações. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Retirar o leite materno e repetir a dosagem de galactose total em sangue seco em papel filtro.",
@@ -7405,7 +7405,7 @@
       "id": "pv-uni-2024-0013",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Lactente, 2 meses de idade, assintomático, nascido pequeno para a idade gestacional, sem intercorrências na gestação, Apgar 09/10 e está em aleitamento artificial desde o nascimento. Teve resultado positivo para fenilcetonúria na triagem neonatal em amostra coletada com 24 horas de vida, que não se confirmou em outras duas amostras coletadas posteriormente. Qual é o fator que justifica a discordância entre os resultados?",
       "alternativas": {
         "A": "Idade da coleta das amostras.",
@@ -7431,7 +7431,7 @@
       "id": "pv-uni-2024-0017",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Rotavírus é o patógeno que mais frequentemente causa gastroenterite aguda em lactentes, constituindo importante causa de internações hospitalares. A vacinação é importante estratégia para redução da sua morbidade, mas é contraindicada em qual das seguinte situações?",
       "alternativas": {
         "A": "História familiar de intussuscepção intestinal.",
@@ -7504,7 +7504,7 @@
       "id": "pv-uni-2025-0144",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Criança, 10 anos de idade, refugiada, é atendida no pronto-socorro apresentando febre e deficiência motora flácida de início súbito. A situação vacinal é ignorada. Considerando a(s) hipótese(s) diagnóstica(s) mais provável(eis), a conduta adequada neste momento, em relação à vigilância epidemiológica, é notificar o caso às autoridades de saúde:",
       "alternativas": {
         "A": "após resultado positivo da cultura de líquor.",
@@ -7576,7 +7576,7 @@
       "id": "pv-uni-2025-0190",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Triagem Neonatal",
       "enunciado": "Menino, 1 ano de idade, iniciou tratamento para hipotireoidismo congênito com 15 dias de vida, sem elucidação etiológica. Apresenta bom crescimento e ganho de peso, além de desenvolvimento neuropsicomotor normal, com dosagens de TSH e hormônios tireoidianos normais e boa aderência ao tratamento. Ultrassonografia de tireoide: glândula tópica de dimensões normais. Segundo o Manual Técnico da Triagem Neonatal Biológica do Ministério da Saúde (2016), qual é a conduta recomendada?",
       "alternativas": {
         "A": "Realizar cintilografia de tireoide para complementar a investigação etiológica.",
@@ -7603,7 +7603,7 @@
       "id": "pv-uni-2025-0195",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Menino, 15 meses de idade, mantém crescimento abaixo de -2DP (Peso, Estatura e IMC). A família se queixa de baixa aceitação alimentar. Lactente nasceu com 36 semanas de gestação, peso abaixo do Percentil 10 em curvas de crescimento intrauterino, sem intercorrências na evolução neonatal. Mãe fez tratamento para hipotireoidismo na gestação e ultrassom gestacional com 33 semanas identificou oligoidrâmnio. Previsão de estatura final = 167 cm. Exame físico sem alterações. Qual é a conduta mais adequada para a elucidação diagnóstica?",
       "alternativas": {
         "A": "Dosagens séricas de hormônio do crescimento, IGF-1 e IGFBP-3.",
@@ -7655,7 +7655,7 @@
       "id": "pv-sp-2024-0045",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Icterícia Neonatal",
       "enunciado": "Acerca da icterícia neonatal (INN), assinale a alternativa correta.",
       "alternativas": {
         "A": "A INN fisiológica consiste no aumento da bilirrubina indireta que ocorre nos recém‑nascidos termo, antes das primeiras vinte e quatro horas de vida.",
@@ -7682,7 +7682,7 @@
       "id": "pv-sír-2024-0024",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Em relação às recomendações da Febrasgo para ingestão diária de micronutrientes em mulheres não grávidas, mulheres grávidas hígidas e lactantes, é correto afirmar que",
       "alternativas": {
         "A": "há necessidade de maior ingestão de colina no período pré-concepcional e no primeiro trimestre da gestação.",
@@ -7732,7 +7732,7 @@
       "id": "pv-sír-2024-0046",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "J.S., 12 meses, sexo feminino, branca, natural de Americana, interior de São Paulo, reside atualmente na cidade de São Paulo com seus pais e sua irmã. A paciente foi encaminhada para avaliação cardiológica devido a um sopro cardíaco que foi detectado durante um exame físico de rotina. O ecocardiograma revelou uma comunicação interatrial (CIA) de 8 mm e uma comunicação interventricular (CIV) de 5 mm. A pressão arterial pulmonar era normal. Foi programada cirurgia e colocação de enxerto com necessidade de imunossupressão. Segundo a Sociedade Brasileira de Pediatria, a melhor data para regularização do calendário vacinal dessa criança, dentre as abaixo, é",
       "alternativas": {
         "A": "7 dias antes da cirurgia.",
@@ -7758,7 +7758,7 @@
       "id": "pv-sír-2024-0050",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Atualmente, está aumentando o uso do IGRA (Interferon gamma release assay ou ensaio para detecção da liberação de interferon-gama) para o diagnóstico da infecção causada pelo Mycobacterium tuberculosis. A principal vantagem do IGRA, quando comparado à prova tuberculínica, é:",
       "alternativas": {
         "A": "Detecção concomitante de resistência à rifampicina.",
@@ -7809,7 +7809,7 @@
       "id": "pv-sír-2025-0116",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Mulher, 24 anos de idade, está planejando uma gestação. Traz a seguinte sorologia: HBsAg positivo, anti-HBs negativo, anti-HBc total positivo, HBeAg positivo. Ela nega qualquer queixa clínica e o exame físico foi normal. A interpretação correta da sorologia dessa paciente é:",
       "alternativas": {
         "A": "Contato com o virus B, gerando imunização.",
@@ -7833,7 +7833,7 @@
       "id": "pv-sír-2025-0146",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "Uma paciente de 4 anos apresenta febre alta há 6 dias, associada a exantema maculopapular generalizado, hiperemia conjuntival bilateral e linfadenopatia cervical de 2 cm. O pediatra iniciou amoxicilina há 48 horas, sem melhora dos sintomas. A criança também apresenta irritabilidade intensa e edema no dorso das mãos e dos pés. O hemograma revela leucocitose com neutrofilia e trombocitose. O diagnóstico mais provável, dentre os abaixo, é:",
       "alternativas": {
         "A": "Eritema infeccioso.",
@@ -7857,7 +7857,7 @@
       "id": "pv-sír-2025-0150",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Ana, mãe de Isabela, está muito angustiada, pois a menina está mais baixa que suas amigas. Isabela é uma menina alegre, gosta de brincar, atualmente está com 7 anos, com altura de 110 cm. Ana leva Isabela ao médico da Unidade Básica, que informa que Isabela está no seu canal de crescimento. Ana mede 1,68 m e o pai de Isabela mede 1,73 cm. Após fazer algumas contas o médico informa que a altura estimada de Isabela na vida adulta será:",
       "alternativas": {
         "A": "158 cm ±8 cm.",
@@ -7883,7 +7883,7 @@
       "id": "pv-sír-2025-0151",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Sepse Neonatal",
       "enunciado": "Recém-nascido a termo, feminino, adequado para idade gestacional, nascido de parto cesárea por desejo materno, bolsa integra, cultura vaginal e anal matema negativa para Streptococcus B. Após o nascimento, é mantido em alojamento conjunto, recebe alta hospitalar com 52 horas de vida em aleitamento materno exclusivo, com perda ponderal em relação ao peso de nascimento de 6,8%. Com 10 dias de vida dá entrada no pronto-socorro infantil desidratado, hipoativo, pálido, pele fria, pulso fino, perfusão lentificada. Solicitados exames de admissão: Leucócitos: 15.808, Hemoglobina: 14,2 g/dL, Hematócrito: 43%, PCR: 0,3 mg/L (normal até 0,5 mg/L.). Sódio: 121 meq/L, Potássio: 4.8 meq/L, Cálcio: 9.8 mg/dL, Magnésio: 1,8 meq/L e Gasometria: pH: 7,14, pCO₂: 17 bicarbonato 7 pO₂ 130 BE - 13. A hipótese mais provável é:",
       "alternativas": {
         "A": "Desidratação por baixa ingesta.",
@@ -7915,7 +7915,7 @@
       "id": "pv-sír-2025-0152",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Recém-nascido com 8 dias de vida, sexo feminino, peso de nascimento 3.660 g, idade gestacional 39 semanas, Apgar 08/09, recebeu alta da maternidade em aleitamento materno exclusivo, no segundo dia de vida, pesando 3.345 g. A mãe procura a Unidade Básica de Saúde porque o bebê não evacua há dois dias, troca aproximadamente 6 fraldas por dia com diurese, dorme pouco, mama o tempo todo, suas mamas estão doloridas, endurecidas, com bico rachado. Ao exame físico recém-nascido encontra-se ativo, hidratado, acianótico, ictérico leve zona 2 de Kramer, eupneico, pesando 3.400 g. A orientação mais adequada quanto à alimentação do bebê deve ser:",
       "alternativas": {
         "A": "Orientar o manejo do aleitamento materno, massagem das mamas, extração do leite, pega do bebê no peito, posicionamento, complementar com fórmula láctea do primeiro semestre, solicitar retorno em 48 horas para reavaliação.",
@@ -7939,7 +7939,7 @@
       "id": "pv-sír-2025-0156",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Recém-nascido, sexo feminino, idade gestacional de 32 semanas, parto cesáreo de urgência devido a descolamento prematuro de placenta. Nasceu vigoroso, chorou e o cordão umbilical foi clampeado após 30 segundos. Recebeu APGAR 8/9 e o peso de nascimento foi de 1.950 gramas. Com aproximadamente 20 minutos de vida, iniciou desconforto respiratório, com frequência respiratória de 80 ipm, gemência e batimento de aletas nasais. O padrão radiológico é compatível com a seguinte hipótese diagnóstica do RN:",
       "alternativas": {
         "A": "Hiperinsuflação, achatamento do diafragma, aumento do espaço aéreo esternal com opacidade alveolar homogênea.",
@@ -7994,7 +7994,7 @@
       "id": "pv-hia-2024-0008",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Ana, 25 anos, gestante de 20 semanas, procura atendimento médico para realizar o pré-natal. Relata que está se sentindo bem, sem queixas ou intercorrências. Não tem comorbidades nem alergias. Está em uso regular de sulfato ferroso. A médica da UBS verifica o cartão de vacinação de Ana e constata que ela está com algumas vacinas atrasadas. Recebeu a vacina contra difteria e tétano (dT) há 1 ano, reforço contra Covid-19 bivalente há 1 mês, uma dose de vacina contra Sarampo, Caxumba e Rubéola (SCR) na infância, e três doses de Hepatite B sendo a última há 6 meses. De acordo com o calendário vacinal do PNI 2023, as vacinas que Ana precisará tomar são:",
       "alternativas": {
         "A": "dT e contra influenza.",
@@ -8045,7 +8045,7 @@
       "id": "pv-hia-2024-0035",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "Maria, seis anos de idade, apresenta quadro de febre até 38,5 °C, cefaleia, artralgias e exantema morbiliforme de aspecto rendilhado em face e região extensora dos membros. Entre os diagnósticos abaixo, o mais provável para esta paciente é:",
       "alternativas": {
         "A": "roséola.",
@@ -8098,7 +8098,7 @@
       "id": "pv-hia-2024-0039",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Recém-nascida apresentou a seguinte evolução (conforme a imagem): Com 20 dias de vida, retorna à unidade básica de saúde e a mãe refere que deseja continuar a amamentar, apesar das dificuldades dos primeiros dias. A criança apresenta boa pega, com sucção presente e continua ictérica, pesando 3.100 g. Entre as alternativas a seguir, a melhor conduta neste caso é:",
       "alternativas": {
         "A": "Oferecer fórmula láctea e suspender o aleitamento materno.",
@@ -8124,7 +8124,7 @@
       "id": "pv-hia-2024-0040",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Lactente de 6 meses, sexo masculino, apresenta fontanela bregmática fechada e perímetro cefálico (PC) de 40,5 cm (escore z de PC para idade e sexo entre -1 e -2). Nasceu a termo, sem intercorrências, com PC: 35 cm. Ao exame, está em bom estado geral e bom estado nutricional; fixa o olhar, sustenta a cabeça e a movimenta ativamente para acompanhar objetos na horizontal; na posição prona, eleva a parte superior do tronco e a cabeça, apoiando-se nos antebraços; leva as mãos à boca; segura os objetos colocados em sua mão; sorri e dá mostras de prazer e de desconforto e senta com apoio. Não pega os objetos oferecidos e não rola. Vocaliza e não apresenta balbucios. Entre as condutas a abaixo, a melhor para este paciente é:",
       "alternativas": {
         "A": "solicitar ultrassom transfontanela.",
@@ -8198,7 +8198,7 @@
       "id": "pv-hia-2025-0113",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Aleitamento Materno",
       "enunciado": "Sem nada referir anteriormente, lactente de 8 meses dá entrada em serviço de emergência com quadro de vômitos, urticária e angioedema ocular bilateral, iniciados imediatamente após a ingestão de ovo cozido. A criança encontra-se eutrófica, sem história de outras condições patológicas e vem sendo amamentada ao seio materno sem qualquer restrição alimentar da nutriz. Administrada adrenalina intramuscular com resolução dos sintomas e mantida em observação por algumas horas. Em relação às recomendações necessárias no momento da alta, assinale a alternativa correta.",
       "alternativas": {
         "A": "Vacinas cultivadas em embrião de galinha não devem ser administradas, caso da tríplice viral, influenza e febre amarela.",
@@ -8246,7 +8246,7 @@
       "id": "pv-hia-2025-0122",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "Lactente de 6 meses comparece à consulta na Unidade Básica de Saúde, onde é verificado que nunca recebeu nenhuma imunização. Para atualização do cartão vacinal segundo o Programa Nacional de Imunização, o adequado é aplicar",
       "alternativas": {
         "A": "BCG, dose única; Poliomielite Inativada (VIP), 3 doses, com 2 meses de intervalo; Rotavírus (VORH), 2 doses, com 2 meses de intervalos; Pentavalente (Difteria + Tétano + Pertussis + Hepatite B + Haemophilus tipo B), 3 doses, com 2 meses de intervalo, Meningococo C, 2 doses, com 60 dias de intervalos; Pneumococo-10, 3 doses, com 60 dias de intervalo.",
@@ -8271,7 +8271,7 @@
       "id": "pv-df-2024-0006",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Prematuridade",
       "enunciado": "Para o sucesso da Atenção Domiciliar, é fundamental que o profissional da saúde compreenda a família que está recebendo esse cuidado, sua estrutura e funcionalidade. Dessa forma, torna-se necessária a apropriação pelos profissionais de saúde de algumas ferramentas específicas para abordar familiares. Considerando os instrumentos que sistematizam a abordagem familiar, assinale a alternativa equivalente ao conteúdo que trata do instrumento de avaliação destinado a refletir a satisfação de cada membro da família, por meio do qual, a partir de um questionário predeterminado, as famílias são classificadas como funcionais e moderadamente/gravemente disfuncionais.",
       "alternativas": {
         "A": "PRACTICE",
@@ -8321,7 +8321,7 @@
       "id": "pv-df-2024-0047",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Vacinação",
       "enunciado": "O Programa Nacional de Imunizações (PNI) foi criado em 1973 pelo Ministério da Saúde e vem sendo ampliado ano a ano. De acordo com as recomendações vigentes, assinale a alternativa que apresenta correlação entre a vacina e o período de aplicação.",
       "alternativas": {
         "A": "Meningo ACWY – 1 dose entre 11-14 anos de idade",
@@ -8372,7 +8372,7 @@
       "id": "pv-df-2024-0053",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Um paciente de 11 anos de idade compareceu à consulta queixando-se de dor logo abaixo do joelho direito há três meses. Referiu piora durante a prática de atividade física, mas um pouco de dor se mantém mesmo em repouso. Negou trauma no local e contou que é praticante de beach tênis. Ao exame físico, sentiu dor à palpação na região da tuberosidade da tíbia direita. Negou dor nas articulações dos quadris, joelhos e tornozelos, mas realizou exame de raios X que revelaram alteração. O diagnóstico, nesse caso, é",
       "alternativas": {
         "A": "dor do crescimento.",
@@ -8449,7 +8449,7 @@
       "id": "pv-df-2024-0057",
       "area": "Pediatria",
       "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "",
+      "sub_subarea": "Cardiopatias Acianóticas",
       "enunciado": "Um lactente de 15 meses de vida foi levado ao pronto atendimento pela segunda vez em cinco dias. Na primeira visita, apresentava febre (máx. = 38 ºC), tosse e rinorreia. Foi atendido e liberado com orientação de limpeza nasal e antitérmico. No quinto dia, a mãe retornou com o filho, referindo que a criança está há 24 horas afebril, porém observou piora da tosse e dispneia. Ao exame físico, o paciente encontra-se em regular estado geral, desidratado 1+/4+, com Tax = 36,8 ºC, FR = 50 irpm, SatO2 = 89% em a.a., sibilos expiratórios, discreta tiragem intercostal e ausência de cianose. Realizou testes rápidos para Sars-CoV-2 e influenza A, os quais foram negativos. Em relação ao caso mencionado, assinale a alternativa que apresenta a conduta adequada.",
       "alternativas": {
         "A": "Salbutamol, metilprednisolona IV e oferta de O2 por cateter de alto fluxo.",
@@ -8474,7 +8474,7 @@
       "id": "pv-df-2024-0058",
       "area": "Pediatria",
       "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "",
+      "sub_subarea": "Cardiopatias Acianóticas",
       "enunciado": "Um lactente de 15 meses de vida foi levado ao pronto atendimento pela segunda vez em cinco dias. Na primeira visita, apresentava febre (máx. = 38 ºC), tosse e rinorreia. Foi atendido e liberado com orientação de limpeza nasal e antitérmico. No quinto dia, a mãe retornou com o filho, referindo que a criança está há 24 horas afebril, porém observou piora da tosse e dispneia. Ao exame físico, o paciente encontra-se em regular estado geral, desidratado 1+/4+, com Tax = 36,8 ºC, FR = 50 irpm, SatO2 = 89% em a.a., sibilos expiratórios, discreta tiragem intercostal e ausência de cianose. Realizou testes rápidos para Sars-CoV-2 e influenza A, os quais foram negativos. Quanto à provável etiologia nesse caso clínico, assinale a alternativa correta.",
       "alternativas": {
         "A": "Vírus sincicial respiratório",
@@ -8497,7 +8497,7 @@
       "id": "pv-df-2025-0132",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Exantemáticas",
       "enunciado": "Uma criança de 4 anos de idade foi levada ao pronto-socorro com febre alta há cinco dias, conjuntivite bilateral, adenomegalia cervical não supurativa e exantema maculopapular. Ao exame físico, apresentava lábios hiperemiados e rachados, além de edema de mãos e pés. Os sinais vitais são FC = 120 bpm, FR = 22 irpm e SatO2 = 98%. Nesse caso, qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Sarampo",
@@ -8522,7 +8522,7 @@
       "id": "pv-df-2025-0140",
       "area": "Pediatria",
       "subarea": "Pneumologia Pediátrica",
-      "sub_subarea": "",
+      "sub_subarea": "IVAS / Crupe / Epiglotite",
       "enunciado": "Uma mãe procurou o pronto-socorro relatando que seu filho de 18 meses de vida vem apresentando quadro de cansaço, rouquidão, tosse parecida a um “latido de cachorro” um “barulho esquisito”, ao respirar e febre moderada. Refere que, dois dias antes, o lactente se apresentava com rinorreia clara e tosse leve. Considerando esse caso clínico e com base nos conhecimentos médicos correlatos, assinale a alternativa correta.",
       "alternativas": {
         "A": "Embora a maioria dos casos ocorra no verão, eles podem se manifestar durante todo o ano.",
@@ -8570,7 +8570,7 @@
       "id": "pv-df-2025-0143",
       "area": "Pediatria",
       "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "",
+      "sub_subarea": "Cardiopatias Acianóticas",
       "enunciado": "A incidência da comunicação interventricular (CIV) é de 2,56 casos por 1.000 nascidos vivos. É a cardiopatia congênita mais frequente, correspondendo a 41,59% do total dessas enfermidades. Com base na CIV e nos conhecimentos médicos correlatos, assinale a alternativa correta.",
       "alternativas": {
         "A": "É classificada como cardiopatia congênita que pode se manifestar com insuficiência cardíaca.",
@@ -8621,7 +8621,7 @@
       "id": "pv-df-2025-0146",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Um escolar de 8 anos de idade foi levado à emergência em razão de um quadro de indisposição, inapetência, cefaleia e edema periorbital. A médica, em sua anamnese, perguntou acerca de quedas, brigas na escola e sintomas associados, como queda de cabelo, febre, vômitos e síncope. A mãe negou quaisquer dos sintomas citados. Na história patológica pregressa, relatou infecção de garganta com frequência. Ao exame, a criança encontrava-se em bom estado geral, eupneica (FR = 20 irpm), eucárdica (FC = 100 bpm), com SatO2 = 98%, edema periorbital bilateralmente, de moderada intensidade, sem hiperemia, indolor, sem sinais de trauma. Verificaram-se pressão arterial acima do percentil 95 para a idade e exame simples de urina com hematúria presente. Com base no caso clínico apresentado, assinale a alternativa que indica característica da doença.",
       "alternativas": {
         "A": "É a mais comum das glomerulopatias da infância.",
@@ -8644,7 +8644,7 @@
       "id": "pv-df-2025-0147",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e Desenvolvimento",
       "enunciado": "Um escolar de 8 anos de idade foi levado à emergência em razão de um quadro de indisposição, inapetência, cefaleia e edema periorbital. A médica, em sua anamnese, perguntou acerca de quedas, brigas na escola e sintomas associados, como queda de cabelo, febre, vômitos e síncope. A mãe negou quaisquer dos sintomas citados. Na história patológica pregressa, relatou infecção de garganta com frequência. Ao exame, a criança encontrava-se em bom estado geral, eupneica (FR = 20 irpm), eucárdica (FC = 100 bpm), com SatO2 = 98%, edema periorbital bilateralmente, de moderada intensidade, sem hiperemia, indolor, sem sinais de trauma. Verificaram-se pressão arterial acima do percentil 95 para a idade e exame simples de urina com hematúria presente. Em relação aos exames complementares, assinale a alternativa correta.",
       "alternativas": {
         "A": "A proteinúria é alta > 50 mg/kg/dia.",
