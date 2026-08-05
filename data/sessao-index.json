@@ -6308,60 +6308,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "pv-ba-2024-0022": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
-  "pv-ba-2024-0023": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
-  "pv-ba-2024-0024": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
-  "pv-ba-2025-0067": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
-  "pv-ba-2025-0068": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
-  "pv-ba-2025-0069": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
   "s1-043": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -22165,6 +22111,60 @@
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
+  },
+  "pv-ba-2024-0022": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-ba-2024-0023": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-ba-2024-0024": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-ba-2025-0067": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "pv-ba-2025-0068": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "pv-ba-2025-0069": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
   },
   "s1-007": {
     "area": "medicina-preventiva",
