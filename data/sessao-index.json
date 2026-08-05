@@ -804,7 +804,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Tuberculose",
+    "subsub": "Hanseníase",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -813,7 +813,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Hepatopatias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -894,7 +894,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "",
+    "subsub": "Coagulação",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -930,7 +930,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -939,7 +939,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Tuberculose",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -948,7 +948,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "DAC",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -1452,7 +1452,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "DAC",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -1533,7 +1533,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "",
+    "subsub": "Coagulação",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -1695,7 +1695,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Tireoide",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -1839,7 +1839,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "",
+    "subsub": "Lúpus",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -1866,7 +1866,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Tireoide",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -1929,7 +1929,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Asma/DPOC",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -2397,7 +2397,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
-    "subsub": "Choque",
+    "subsub": "Sepse",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2406,7 +2406,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Tireoide",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2496,7 +2496,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2775,7 +2775,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Diabetes",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2883,7 +2883,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "",
+    "subsub": "Coagulação",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2928,7 +2928,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2946,7 +2946,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "",
+    "subsub": "Lúpus",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2964,7 +2964,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "",
+    "subsub": "AR",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -3009,7 +3009,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "DII",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -3081,7 +3081,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "DII",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3090,7 +3090,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Hepatopatias",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3126,7 +3126,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Dist Eletrolíticos",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3162,7 +3162,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "DAC",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3225,7 +3225,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "",
+    "subsub": "Coagulação",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3288,7 +3288,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Hepatopatias",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3324,7 +3324,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
-    "subsub": "",
+    "subsub": "Sepse",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3369,7 +3369,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Diabetes",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -3378,7 +3378,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Anemias",
+    "subsub": "Coagulação",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -3423,7 +3423,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "DAC",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -3531,7 +3531,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Tuberculose",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3720,7 +3720,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "AVC",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -3945,7 +3945,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -4053,7 +4053,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "",
+    "subsub": "Lúpus",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -4143,7 +4143,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4395,7 +4395,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Hepatopatias",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4449,7 +4449,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -4629,7 +4629,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Tuberculose",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -4656,7 +4656,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Dist Eletrolíticos",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -4665,7 +4665,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -4773,7 +4773,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -5025,7 +5025,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -5070,7 +5070,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Pancreatite",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -5286,7 +5286,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -5295,7 +5295,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "DAC",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -5313,7 +5313,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Obesidade",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -5799,7 +5799,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -5934,7 +5934,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Dist Eletrolíticos",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -5979,7 +5979,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -5997,7 +5997,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Cefaleia",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -6087,7 +6087,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Tuberculose",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6114,7 +6114,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Glomerulopatias",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -6141,7 +6141,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -6159,7 +6159,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Anemias",
+    "subsub": "Neoplasias",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -6195,7 +6195,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Dengue",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6285,7 +6285,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Glomerulopatias",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -6294,7 +6294,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6303,7 +6303,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Cefaleia",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6312,7 +6312,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
-    "subsub": "",
+    "subsub": "RCP",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6375,7 +6375,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Dengue",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -6411,7 +6411,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Tuberculose",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -6456,7 +6456,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "DAC",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -6465,7 +6465,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "DRC",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -6474,7 +6474,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Dist Eletrolíticos",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6483,7 +6483,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Dist Eletrolíticos",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6492,7 +6492,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "DRC",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -6510,7 +6510,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "TEP",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -6519,7 +6519,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "TEP",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -6528,7 +6528,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -6555,7 +6555,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Hepatopatias",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -6564,7 +6564,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Diabetes",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -6654,7 +6654,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "TEP",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -6690,7 +6690,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "DAC",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -6762,7 +6762,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "DRC",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -6798,7 +6798,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "DRC",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -6816,7 +6816,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "",
+    "subsub": "Anemias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6825,7 +6825,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Glomerulopatias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6879,7 +6879,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
-    "subsub": "",
+    "subsub": "Sepse",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -6888,7 +6888,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Glomerulopatias",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -6915,7 +6915,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Cefaleia",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -6987,7 +6987,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Cefaleia",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -7041,7 +7041,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Tuberculose",
+    "subsub": "Hanseníase",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -7086,7 +7086,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "",
+    "subsub": "Lúpus",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -7104,7 +7104,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -7113,7 +7113,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "AVC",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -7122,7 +7122,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Diabetes",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -7158,7 +7158,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Anemias",
+    "subsub": "Coagulação",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7194,7 +7194,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Tireoide",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7203,7 +7203,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7239,7 +7239,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Diabetes",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -7257,7 +7257,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Obesidade",
+    "subsub": "Diabetes",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -7356,7 +7356,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Diabetes",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -7428,7 +7428,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Pancreatite",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -7464,7 +7464,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
-    "subsub": "",
+    "subsub": "Intoxicação",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -7473,7 +7473,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
-    "subsub": "",
+    "subsub": "Intoxicação",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -7509,7 +7509,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Diabetes",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -7563,7 +7563,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Hipertensão",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -7572,7 +7572,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Meningites",
+    "subsub": "Dengue",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -7590,7 +7590,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "TEP",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -7635,7 +7635,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Diabetes",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -7644,7 +7644,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Tuberculose",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -8562,7 +8562,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -8634,7 +8634,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -8769,7 +8769,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -8922,7 +8922,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -9345,7 +9345,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -9489,7 +9489,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -9498,7 +9498,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -9516,7 +9516,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -9534,7 +9534,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -9570,7 +9570,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -9579,7 +9579,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -9597,7 +9597,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -9624,7 +9624,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "",
+    "subsub": "Drenagem Torácica",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -9660,7 +9660,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -9669,7 +9669,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Obstrução Intestinal",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -9678,7 +9678,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -9723,7 +9723,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -9741,7 +9741,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -9750,7 +9750,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -9759,7 +9759,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -9777,7 +9777,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -9786,7 +9786,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "",
+    "subsub": "Drenagem Torácica",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -9813,7 +9813,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Obstrução Intestinal",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -9831,7 +9831,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -9867,7 +9867,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -9894,7 +9894,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -9921,7 +9921,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -9984,7 +9984,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -9993,7 +9993,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "",
+    "subsub": "Drenagem Torácica",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -10038,7 +10038,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -10074,7 +10074,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "",
+    "subsub": "Drenagem Torácica",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -10092,7 +10092,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -10101,7 +10101,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -10119,7 +10119,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -10137,7 +10137,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -10146,7 +10146,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -10272,7 +10272,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -10281,7 +10281,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -10299,7 +10299,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10326,7 +10326,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Vascular",
-    "subsub": "",
+    "subsub": "TVP",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -10344,7 +10344,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -10452,7 +10452,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -10479,7 +10479,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -10515,7 +10515,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -10524,7 +10524,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "",
+    "subsub": "Drenagem Torácica",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -10560,7 +10560,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10587,7 +10587,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -10605,7 +10605,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Obstrução Intestinal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -10614,7 +10614,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Obstrução Intestinal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -10623,7 +10623,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -10632,7 +10632,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -10650,7 +10650,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -10659,7 +10659,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -10668,7 +10668,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -10686,7 +10686,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10695,7 +10695,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10713,7 +10713,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -10740,7 +10740,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -10758,7 +10758,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -10776,7 +10776,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -10794,7 +10794,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -10803,7 +10803,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10812,7 +10812,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10830,7 +10830,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -10839,7 +10839,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -10848,7 +10848,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -10857,7 +10857,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -10866,7 +10866,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10929,7 +10929,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -10956,7 +10956,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -10965,7 +10965,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -10992,7 +10992,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Abdome Agudo",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -11001,7 +11001,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -11010,7 +11010,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -11019,7 +11019,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -11037,7 +11037,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -11046,7 +11046,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -11055,7 +11055,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -11082,7 +11082,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -11091,7 +11091,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "subsub": "Neoplasias",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -11109,7 +11109,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "subsub": "Hérnias",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -11757,7 +11757,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -11766,7 +11766,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -11775,7 +11775,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -11784,7 +11784,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -12747,7 +12747,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12756,7 +12756,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12792,7 +12792,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12882,7 +12882,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Prematuridade",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -12891,7 +12891,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "Icterícia Neonatal",
+    "subsub": "RN Normal",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -12909,7 +12909,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Crupe",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -12918,7 +12918,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -12945,7 +12945,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Aleitamento",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -13125,7 +13125,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Aleitamento",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -13143,7 +13143,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Aleitamento",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -13170,7 +13170,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -13215,7 +13215,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -13224,7 +13224,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -13251,7 +13251,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Bronquiolite",
     "banca": "",
     "ano": 2024,
     "fonte": " 2024"
@@ -13278,7 +13278,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -13332,7 +13332,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -13512,7 +13512,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "Asma Infantil",
+    "subsub": "Asma",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13521,7 +13521,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13530,7 +13530,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "Asma Infantil",
+    "subsub": "Asma",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13557,7 +13557,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Vacinação",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13602,7 +13602,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13710,7 +13710,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -13881,7 +13881,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Bronquiolite",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -13935,7 +13935,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -13962,7 +13962,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -13971,7 +13971,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "Icterícia Neonatal",
+    "subsub": "RN Normal",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -13989,7 +13989,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -14007,7 +14007,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Aleitamento",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -14043,7 +14043,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -14061,7 +14061,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -14079,7 +14079,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -14106,7 +14106,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -14259,7 +14259,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -14322,7 +14322,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "Crupe/Epiglotite",
+    "subsub": "Crupe",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -14349,7 +14349,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Aleitamento",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -14412,7 +14412,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Cresc/Desenv",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -14457,7 +14457,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14466,7 +14466,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14484,7 +14484,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14502,7 +14502,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -14511,7 +14511,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Bronquiolite",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -14520,7 +14520,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -14565,7 +14565,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Coqueluche",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -14583,7 +14583,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -14592,7 +14592,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -14601,7 +14601,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -14610,7 +14610,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -14619,7 +14619,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -14637,7 +14637,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -14646,7 +14646,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -14655,7 +14655,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -14664,7 +14664,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -14673,7 +14673,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -14682,7 +14682,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -14691,7 +14691,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -14709,7 +14709,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -14718,7 +14718,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -14727,7 +14727,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -14763,7 +14763,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -14772,7 +14772,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -14781,7 +14781,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -14790,7 +14790,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -14799,7 +14799,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -14817,7 +14817,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -14826,7 +14826,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -14835,7 +14835,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -14853,7 +14853,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -14862,7 +14862,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -14871,7 +14871,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -14898,7 +14898,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -14907,7 +14907,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -14925,7 +14925,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -14934,7 +14934,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -14943,7 +14943,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -14961,7 +14961,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -14979,7 +14979,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -14988,7 +14988,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -14997,7 +14997,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -15024,7 +15024,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -15042,7 +15042,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -15051,7 +15051,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -15087,7 +15087,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Aleitamento",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -15096,7 +15096,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -15105,7 +15105,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -15114,7 +15114,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -15141,7 +15141,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -15177,7 +15177,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -15195,7 +15195,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -15204,7 +15204,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -15222,7 +15222,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Exantemáticas",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -15231,7 +15231,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -15240,7 +15240,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -15249,7 +15249,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15258,7 +15258,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15276,7 +15276,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15285,7 +15285,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15294,7 +15294,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15303,7 +15303,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Exantemáticas",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15312,7 +15312,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15330,7 +15330,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15357,7 +15357,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15366,7 +15366,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15375,7 +15375,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15393,7 +15393,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15411,7 +15411,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15420,7 +15420,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15429,7 +15429,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15438,7 +15438,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15447,7 +15447,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15456,7 +15456,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15465,7 +15465,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15474,7 +15474,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15483,7 +15483,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15492,7 +15492,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -15510,7 +15510,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -15519,7 +15519,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -15528,7 +15528,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -15555,7 +15555,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -15573,7 +15573,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -15582,7 +15582,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -15591,7 +15591,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -15600,7 +15600,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "",
     "ano": 2024,
     "fonte": " 2024"
@@ -15609,7 +15609,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -15618,7 +15618,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -15645,7 +15645,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -15663,7 +15663,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -15672,7 +15672,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -15681,7 +15681,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -15690,7 +15690,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -15708,7 +15708,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -15726,7 +15726,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -15735,7 +15735,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "",
     "ano": 2024,
     "fonte": " 2024"
@@ -15753,7 +15753,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -15762,7 +15762,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -15771,7 +15771,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -15780,7 +15780,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -15789,7 +15789,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -15798,7 +15798,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -15807,7 +15807,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -15816,7 +15816,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -15852,7 +15852,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -15861,7 +15861,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Aleitamento",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -15870,7 +15870,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -15879,7 +15879,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -15888,7 +15888,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -15897,7 +15897,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -15906,7 +15906,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Bronquiolite",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -15933,7 +15933,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -15951,7 +15951,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -15978,7 +15978,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -15987,7 +15987,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -15996,7 +15996,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16005,7 +16005,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16023,7 +16023,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16041,7 +16041,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16059,7 +16059,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16077,7 +16077,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16086,7 +16086,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16113,7 +16113,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16131,7 +16131,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16140,7 +16140,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16149,7 +16149,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16158,7 +16158,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16185,7 +16185,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16194,7 +16194,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16212,7 +16212,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16221,7 +16221,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16230,7 +16230,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFES",
     "ano": 2025,
     "fonte": "ES - Universidade Federal do Espírito Santo - UFES 2025"
@@ -16248,7 +16248,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16266,7 +16266,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16275,7 +16275,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16293,7 +16293,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Bronquiolite",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16302,7 +16302,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Aleitamento",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16311,7 +16311,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16320,7 +16320,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16329,7 +16329,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16338,7 +16338,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16347,7 +16347,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16356,7 +16356,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16365,7 +16365,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16374,7 +16374,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16383,7 +16383,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16392,7 +16392,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16401,7 +16401,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16410,7 +16410,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16419,7 +16419,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16428,7 +16428,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Gastroenterologia Pediátrica",
-    "subsub": "",
+    "subsub": "Diarreia",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16437,7 +16437,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16446,7 +16446,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Asma",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -16464,7 +16464,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -16491,7 +16491,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -16518,7 +16518,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -16527,7 +16527,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -16554,7 +16554,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16581,7 +16581,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16590,7 +16590,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16599,7 +16599,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16608,7 +16608,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16617,7 +16617,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16635,7 +16635,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16644,7 +16644,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16653,7 +16653,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16662,7 +16662,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16671,7 +16671,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16680,7 +16680,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16689,7 +16689,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16698,7 +16698,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16707,7 +16707,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16716,7 +16716,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16725,7 +16725,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16734,7 +16734,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16743,7 +16743,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Gastroenterologia Pediátrica",
-    "subsub": "",
+    "subsub": "Diarreia",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16752,7 +16752,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -16761,7 +16761,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -16887,7 +16887,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Crupe",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -17085,7 +17085,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -17094,7 +17094,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -17103,7 +17103,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -17148,7 +17148,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17229,7 +17229,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -17238,7 +17238,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Aleitamento",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -17247,7 +17247,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -17256,7 +17256,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -17373,7 +17373,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17382,7 +17382,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17400,7 +17400,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -17409,7 +17409,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -17661,7 +17661,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -17679,7 +17679,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17688,7 +17688,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -17760,7 +17760,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -17823,7 +17823,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -17832,7 +17832,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -17841,7 +17841,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -17850,7 +17850,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "RN Normal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -17859,7 +17859,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -18012,7 +18012,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -18021,7 +18021,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Exantemáticas",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -18030,7 +18030,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -18039,7 +18039,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -18048,7 +18048,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -18057,7 +18057,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -18084,7 +18084,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -18102,7 +18102,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18156,7 +18156,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Exantemáticas",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -18255,7 +18255,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -18282,7 +18282,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -18291,7 +18291,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -18300,7 +18300,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -18309,7 +18309,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Asma",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -18318,7 +18318,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -18363,7 +18363,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -18399,7 +18399,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -18408,7 +18408,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -18417,7 +18417,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -18426,7 +18426,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -18435,7 +18435,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -18444,7 +18444,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -18453,7 +18453,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -18462,7 +18462,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -18471,7 +18471,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -18480,7 +18480,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -18489,7 +18489,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -18498,7 +18498,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -18507,7 +18507,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -18516,7 +18516,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -18525,7 +18525,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -18543,7 +18543,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -18552,7 +18552,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Exantemáticas",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -18561,7 +18561,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -18570,7 +18570,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Gastroenterologia Pediátrica",
-    "subsub": "",
+    "subsub": "Diarreia",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -18579,7 +18579,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18588,7 +18588,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Exantemáticas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18597,7 +18597,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -18606,7 +18606,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -18615,7 +18615,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18624,7 +18624,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -18633,7 +18633,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Prematuridade",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -18642,7 +18642,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Cresc/Desenv",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -18651,7 +18651,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18660,7 +18660,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -18669,7 +18669,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -18678,7 +18678,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -18687,7 +18687,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "subsub": "CIA/CIV/PCA",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -18696,7 +18696,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Gastroenterologia Pediátrica",
-    "subsub": "",
+    "subsub": "Diarreia",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -18705,7 +18705,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -18714,7 +18714,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Vacinação",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -18723,7 +18723,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Icterícia Neonatal",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -18804,7 +18804,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Mama",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -19290,7 +19290,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Mama",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -19299,7 +19299,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -19326,7 +19326,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -19335,7 +19335,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -19461,7 +19461,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -19515,7 +19515,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Infertilidade",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -19524,7 +19524,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -19533,7 +19533,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Menopausa",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -19722,7 +19722,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Infertilidade",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -19848,7 +19848,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -19857,7 +19857,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Menopausa",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -19920,7 +19920,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Ovário",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -19938,7 +19938,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -19947,7 +19947,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -19956,7 +19956,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Mioma/Endometriose",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -19974,7 +19974,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -19983,7 +19983,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -19992,7 +19992,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Mama",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -20001,7 +20001,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -20028,7 +20028,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Infertilidade",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -20055,7 +20055,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Menopausa",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -20064,7 +20064,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -20073,7 +20073,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Mioma/Endometriose",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -20082,7 +20082,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -20091,7 +20091,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -20100,7 +20100,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Menopausa",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -20109,7 +20109,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Menopausa",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -20136,7 +20136,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -20145,7 +20145,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Menopausa",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -20154,7 +20154,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -20163,7 +20163,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -20172,7 +20172,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -20190,7 +20190,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -20199,7 +20199,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -20217,7 +20217,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -20226,7 +20226,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Mioma/Endometriose",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -20235,7 +20235,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -20244,7 +20244,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -20253,7 +20253,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -20262,7 +20262,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -20271,7 +20271,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -20280,7 +20280,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -20289,7 +20289,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -20298,7 +20298,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -20307,7 +20307,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -20325,7 +20325,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -20352,7 +20352,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Mioma/Endometriose",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -20361,7 +20361,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -20370,7 +20370,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -20379,7 +20379,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -20388,7 +20388,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -20397,7 +20397,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -20415,7 +20415,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -20424,7 +20424,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -20460,7 +20460,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Mioma/Endometriose",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -20793,7 +20793,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -20802,7 +20802,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -20811,7 +20811,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -20820,7 +20820,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -20829,7 +20829,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -20838,7 +20838,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -20847,7 +20847,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -20856,7 +20856,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -20865,7 +20865,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -20874,7 +20874,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -20883,7 +20883,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Menopausa",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -20892,7 +20892,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -20901,7 +20901,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -20910,7 +20910,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -20919,7 +20919,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -20928,7 +20928,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -20937,7 +20937,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -20946,7 +20946,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "subsub": "Colo Uterino",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -20955,7 +20955,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "USP-RP",
     "ano": 2025,
     "fonte": "Ribeirão Preto da USP) 2025"
@@ -20973,7 +20973,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -20982,7 +20982,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -20991,7 +20991,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -21000,7 +21000,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "SOP",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -21009,7 +21009,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -21018,7 +21018,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
-    "subsub": "",
+    "subsub": "Infecções",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -21036,7 +21036,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Reprodução / Climatério",
-    "subsub": "",
+    "subsub": "Anticoncepção",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -21549,7 +21549,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "DMG",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -21666,7 +21666,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -21864,7 +21864,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "",
     "ano": 2025,
     "fonte": " 2025"
@@ -22098,7 +22098,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -22116,7 +22116,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Cesárea/Distocia",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -22341,7 +22341,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Puerpério",
-    "subsub": "",
+    "subsub": "Hemorragia",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -22395,7 +22395,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -22431,7 +22431,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Puerpério",
-    "subsub": "",
+    "subsub": "Hemorragia",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -22440,7 +22440,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -22449,7 +22449,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "DMG",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -22467,7 +22467,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "",
+    "subsub": "Cesárea/Distocia",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -22476,7 +22476,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "",
+    "subsub": "Trabalho de Parto",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -22485,7 +22485,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -22494,7 +22494,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -22566,7 +22566,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "DMG",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -22602,7 +22602,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -22611,7 +22611,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rotina",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -22647,7 +22647,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "",
+    "subsub": "Cesárea/Distocia",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -22710,7 +22710,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "",
+    "subsub": "Cesárea/Distocia",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -22980,7 +22980,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "",
+    "subsub": "Cesárea/Distocia",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -23610,7 +23610,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -24717,7 +24717,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24744,7 +24744,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24906,7 +24906,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -24933,7 +24933,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -25068,7 +25068,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -25140,7 +25140,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -25203,7 +25203,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
+    "subsub": "Atenção Básica",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -25320,7 +25320,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
+    "subsub": "Atenção Básica",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -25464,7 +25464,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25635,7 +25635,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -25671,7 +25671,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Vigilância",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -25698,7 +25698,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -25716,7 +25716,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -25806,7 +25806,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -25815,7 +25815,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -25869,7 +25869,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -25896,7 +25896,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -26040,7 +26040,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -26103,7 +26103,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -26130,7 +26130,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -26238,7 +26238,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -26247,7 +26247,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Vigilância",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -26274,7 +26274,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -26346,7 +26346,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -26544,7 +26544,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -26562,7 +26562,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26688,7 +26688,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -26832,7 +26832,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -26850,7 +26850,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -26886,7 +26886,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Vigilância",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -26895,7 +26895,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -27039,7 +27039,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -27093,7 +27093,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -27237,7 +27237,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -27282,7 +27282,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -27318,7 +27318,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -27390,7 +27390,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -27399,7 +27399,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -27408,7 +27408,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -27462,7 +27462,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -27480,7 +27480,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -27489,7 +27489,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -27498,7 +27498,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -27507,7 +27507,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -27525,7 +27525,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -27588,7 +27588,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -27597,7 +27597,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -27615,7 +27615,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -27624,7 +27624,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -27633,7 +27633,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -27642,7 +27642,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -27651,7 +27651,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -27660,7 +27660,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -27669,7 +27669,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -27714,7 +27714,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -27768,7 +27768,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -27777,7 +27777,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -27786,7 +27786,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -27795,7 +27795,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -27804,7 +27804,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -27813,7 +27813,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -27831,7 +27831,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -27876,7 +27876,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -27885,7 +27885,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -27894,7 +27894,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "",
     "ano": 2024,
     "fonte": " 2024"
@@ -27921,7 +27921,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -27939,7 +27939,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -27948,7 +27948,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -27957,7 +27957,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -27966,7 +27966,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -27984,7 +27984,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -27993,7 +27993,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -28011,7 +28011,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -28038,7 +28038,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -28047,7 +28047,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -28056,7 +28056,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -28065,7 +28065,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -28083,7 +28083,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -28092,7 +28092,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -28110,7 +28110,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -28119,7 +28119,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -28128,7 +28128,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -28137,7 +28137,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -28146,7 +28146,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -28155,7 +28155,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -28173,7 +28173,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -28182,7 +28182,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -28191,7 +28191,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -28254,7 +28254,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -28281,7 +28281,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -28308,7 +28308,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -28398,7 +28398,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -28425,7 +28425,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -28443,7 +28443,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -28461,7 +28461,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -28497,7 +28497,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -28506,7 +28506,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -28515,7 +28515,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -28533,7 +28533,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -28542,7 +28542,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -28560,7 +28560,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -28605,7 +28605,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -28623,7 +28623,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -28632,7 +28632,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -28668,7 +28668,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -28695,7 +28695,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -28704,7 +28704,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -28713,7 +28713,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -28839,7 +28839,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -28866,7 +28866,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -28965,7 +28965,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Atenção Básica",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -29064,7 +29064,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Risco",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -29163,7 +29163,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -29217,7 +29217,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -29226,7 +29226,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "subsub": "Humanização",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -29280,7 +29280,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -29298,7 +29298,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -29307,7 +29307,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -29316,7 +29316,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -29325,7 +29325,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -29343,7 +29343,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -29352,7 +29352,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -29361,7 +29361,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -29370,7 +29370,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -29379,7 +29379,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -29388,7 +29388,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -29406,7 +29406,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -29424,7 +29424,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -29442,7 +29442,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -29451,7 +29451,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -29460,7 +29460,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -29469,7 +29469,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -29478,7 +29478,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -29487,7 +29487,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -29496,7 +29496,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -29505,7 +29505,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -29514,7 +29514,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -29523,7 +29523,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -29532,7 +29532,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -29541,7 +29541,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -29550,7 +29550,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -29559,7 +29559,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -29568,7 +29568,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Prevenção / Rastreio",
-    "subsub": "",
+    "subsub": "Rastreamento",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -29577,7 +29577,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -29586,7 +29586,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Prevenção / Rastreio",
-    "subsub": "",
+    "subsub": "Rastreamento",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -29595,7 +29595,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -29604,7 +29604,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -29613,7 +29613,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -29622,7 +29622,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -29631,7 +29631,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Vigilância",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -29640,7 +29640,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -29649,7 +29649,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -29667,7 +29667,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -29676,7 +29676,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -29685,7 +29685,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -29694,7 +29694,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -29703,7 +29703,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -29712,7 +29712,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -29721,7 +29721,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -29730,7 +29730,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -29739,7 +29739,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Prevenção / Rastreio",
-    "subsub": "",
+    "subsub": "Rastreamento",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -29748,7 +29748,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Prevenção / Rastreio",
-    "subsub": "",
+    "subsub": "Rastreamento",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -29757,7 +29757,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -29766,7 +29766,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Gestão",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -29775,7 +29775,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Prevenção / Rastreio",
-    "subsub": "",
+    "subsub": "Rastreamento",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -29784,7 +29784,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -29793,7 +29793,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "subsub": "Atenção Básica",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -29802,7 +29802,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -29811,7 +29811,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes Diag.",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"

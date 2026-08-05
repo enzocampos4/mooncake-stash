@@ -2125,7 +2125,7 @@
       "id": "pv-ena-2024-0099",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Tuberculose",
+      "sub_subarea": "Hanseníase",
       "enunciado": "Qual é a coloração utilizada na baciloscopia para investigação de hanseníase?",
       "alternativas": {
         "A": "Tinta da China.",
@@ -2155,7 +2155,7 @@
       "id": "pv-ena-2025-0112",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hepatopatias",
       "enunciado": "Um jovem de 20 anos foi admitido com um quadro de hepatite, esplenomegalia com hiperesplenismo, anemia hemolítica com Coombs negativo, hipertensão portal e confusão mental. O exame neurológico mostrou síndrome rígida-acinética semelhante ao parkinsonismo, tremores e ataxia. Foram também observadas disartria, disfagia e incoordenação motora. Tais achados neurológicos se associam a disfunção dos gânglios da base. O tratamento instituído foi D-penicilamina oral (0,75 - 2 g/dia em doses divididas, tomadas 1 hora antes ou 2 horas após a refeição) associada a piridoxina oral, 50 mg por semana. Foi também prescrito zinco elementar na dose de 50 mg três vezes ao dia. Houve melhora clínica e indicação para que o tratamento fosse continuado indefinidamente, além de uma dieta específica. A doença em questão é:",
       "alternativas": {
         "A": "hemocromatose;",
@@ -2426,7 +2426,7 @@
       "id": "pv-ena-2025-0157",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "",
+      "sub_subarea": "Coagulação",
       "enunciado": "A síndrome urêmica hemolítica típica (SHU) é uma doença do grupo das microangiopatias trombóticas. São distúrbios caracterizados por anemia hemolítica microangiopática não imune, trombocitopenia e insuficiência multissistêmica. A SHU está associada a infecções intestinais por bactérias produtoras da toxina Shiga, em especial a Escherichia coli enterohemorrágica invasiva (STEC - Shiga-toxin– producing strains of E coli). Carne mal- cozida, especialmente hambúrguer, leite e suco não pasteurizados, além de frutas e vegetais crus, podem estar contaminados por essas bactérias. A doença geralmente tem início abrupto com quadro de diarreia, muitas vezes com sangue e dor abdominal. Em adultos, geralmente é autolimitada a 5-10 dias. Porém, em crianças, observa-se maior associação à SHU. Com relação a essa doença em crianças, é correto afirmar que:",
       "alternativas": {
         "A": "o antibiótico de escolha é o ciprofloxacino;",
@@ -2531,7 +2531,7 @@
       "id": "pv-ena-2025-0197",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Um senhor de 82 anos comparece à consulta queixando-se de uma cefaleia de início recente. HAS controlada com IECA. Exame físico sem particularidades, exceto por espessamento da artéria temporal à palpação. Nesse contexto:",
       "alternativas": {
         "A": "PCR elevada aumenta a chance de arterite de células gigantes;",
@@ -2555,7 +2555,7 @@
       "id": "pv-ena-2025-0198",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tuberculose",
       "enunciado": "Segundo o Manual de Recomendações e Controle da Tuberculose no Brasil 2a ed., atualizado em 29/05/2024, a transmissão e adoecimento por TB são influenciados por fatores demográficos, sociais e econômicos. Dentre os fatores que contribuem para a manutenção e propagação da doença, destacam-se: urbanização crescente e desordenada, desigualdade na distribuição de renda, moradias precárias e superlotação, insegurança alimentar e baixa escolaridade, bem como dificuldade de acesso aos serviços e bens públicos. Dessa maneira, no Brasil, assim como em outros países que têm condições de vida semelhantes, alguns grupos populacionais apresentam maior vulnerabilidade para a TB. Pelo exposto acima, em comparação com a população em geral, o risco de adoecimento por tuberculose é maior no seguinte grupo:",
       "alternativas": {
         "A": "indígenas;",
@@ -2579,7 +2579,7 @@
       "id": "pv-ena-2025-0199",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "DAC",
       "enunciado": "De acordo com parâmetros do Ministério da Saúde, a definição utilizada na vigilância da influenza e da covid-19 para determinar casos de síndrome respiratória aguda grave (SRAG) é:",
       "alternativas": {
         "A": "indivíduo com febre, mesmo que referida, acompanhada de tosse ou dor de garganta e com início dos sintomas nos últimos sete dias;",
@@ -4116,7 +4116,7 @@
       "id": "pv-mg-2024-0037",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "DAC",
       "enunciado": "Com relação ao manejo da dor na Chikungunya, assinale a alternativa ERRADA:",
       "alternativas": {
         "A": "A instituição precoce de medicamentos antirreumáticos modificadores do curso da doença - MMCD (hidroxicloroquina e metotrexato) na fase crônica da Chikungunya pode prevenir a ocorrência de danos estruturais e melhorar a capacidade funcional.",
@@ -4367,7 +4367,7 @@
       "id": "pv-mg-2025-0117",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "",
+      "sub_subarea": "Coagulação",
       "enunciado": "Homem de 55 anos vai ao consultório com os resultados de exames. Interrompeu o etilismo há três meses; fazia o uso de 760g de álcool por semana. Nega internações ou doenças prévias conhecidas. Nega aumento de volume abdominal, sangramento digestivo ou episódios de confusão mental. ULTRASSONOGRAFIA DO ABDOME: fígado de dimensões reduzidas, superfície irregular e nodular, e parênquima com aumento difuso da ecogenicidade. A veia porta apresenta diâmetro aumentado. Esplenomegalia leve. Ausência de líquido livre na cavidade abdominal. EXAMES DE LABORATÓRIO: hemoglobina 13g/dL; leucócitos totais 4.100/mm3; plaquetas 152.000/mm3. ELASTOGRAFIA HEPÁTICA: medida da rigidez hepática pela elastografia transitória de 26kPa. Assinale a alternativa CORRETA sobre o caso:",
       "alternativas": {
         "A": "A medida da rigidez hepática deve ser repetida a cada dois anos, desde que o paciente não apresente descompensações no intervalo.",
@@ -4879,7 +4879,7 @@
       "id": "pv-amr-2024-0064",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tireoide",
       "enunciado": "Sobre o sistema TNM de classificação dos tumores malignos encontrados no intestino delgado, é correto afirmar que:",
       "alternativas": {
         "A": "Uma lesão classificada como T3 tem tamanho entre cinco e dez centímetros.",
@@ -5329,7 +5329,7 @@
       "id": "pv-amr-2024-0099",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Lúpus",
       "enunciado": "Qual das seguintes situações clínicas apresenta um quadro mais provável de doença reumatológica em um paciente com artralgia?",
       "alternativas": {
         "A": "Paciente de 25 anos de idade, cefaleia recorrente, com resultado de Fator Antinuclear (FAN) 1:160, padrão citoplasmático fibrilar linear em exame de rotina.",
@@ -5410,7 +5410,7 @@
       "id": "pv-amr-2025-0103",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tireoide",
       "enunciado": "Em relação ao colesterol, analise as assertivas a seguir: I. Níveis elevados de HDL-C costumam estar relacionados a menor risco cardiovascular. II. Altos níveis de HDL-C decorrentes de algumas doenças genéticas podem não proteger de doença cardiovascular, provavelmente em razão das alterações metabólicas e lipídicas concomitantes. III. Causas secundárias de HDL-C elevado incluem cirrose biliar primária, hipertireoidismo e alcoolismo sem cirrose. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5583,7 +5583,7 @@
       "id": "pv-amr-2025-0116",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Asma/DPOC",
       "enunciado": "Em relação à doença pulmonar obstrutiva crônica, analise as assertivas a seguir: I. O diagnóstico funcional de obstrução ao fluxo aéreo se baseia na relação entre volume expiratório forçado no primeiro segundo e capacidade vital forçada (VEF1 e CVF, respectivamente), considerando-se anormal um valor inferior a 80%. II. A dosagem do nível sérico de alfa-1-antitripsina deve ser considerada para casos de enfisema pulmonar panlobular com predomínio basal de início precoce (antes da 4ª década), especialmente em não fumantes. III. A teofilina é eficaz na redução de dispneia em estudos clínicos randomizados, mas o risco de toxicidade e a necessidade de monitorização do nível sérico limitam sua utilidade clínica. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -7004,7 +7004,7 @@
       "id": "pv-ufr-2025-0154",
       "area": "Clínica Médica",
       "subarea": "Emergências / UTI",
-      "sub_subarea": "Choque",
+      "sub_subarea": "Sepse",
       "enunciado": "Em pacientes com choque e ventilados mecanicamente, no modo volume controlado, pode-se afirmar que a medida dinâmica que sugere, com maior acurácia, uma resposta positiva a fluidoterapia é uma variação durante o ciclo respiratório de:",
       "alternativas": {
         "A": "pressão de pulso < 10%",
@@ -7033,7 +7033,7 @@
       "id": "pv-ufr-2025-0155",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tireoide",
       "enunciado": "É um fator de risco para alergia respiratória ao contraste intravenoso:",
       "alternativas": {
         "A": "história familiar de alergia medicamentosa",
@@ -7263,7 +7263,7 @@
       "id": "pv-ufr-2025-0172",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Homem, 60 anos, está em hemodiálise por HAS e DM tipo 2 mal controlados. Faltou a três sessões da terapia hemodialítica, retornando sete dias após com anasarca e dispneia. Durante a sessão, apresentou piora súbita da dispneia com turgência jugular a 90o, hipofonese de bulhas e PAS inaudível. Eletrocardiograma (ECG): infra desnível de segmento PR e supra desnível difuso do segmento ST. A principal hipótese diagnóstica e a forma mais adequada de prevenção da sua ocorrência é:",
       "alternativas": {
         "A": "tamponamento cardíaco / não usar heparina na diálise",
@@ -8098,7 +8098,7 @@
       "id": "pv-uer-2024-0015",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes",
       "enunciado": "Mulher de 39 anos procura cardiologista para realizar atividade física (caminhada na praia). Nega sintomas cardiovasculares, tabagismo, uso de drogas e diabetes, mas refere que seus pais faleceram de infarto aos 74 e 82 anos, respectivamente, no ano vigente. O exame físico encontra-se normal, com pressão arterial = 120 x 70mmHg, último LDL-colesterol = 120mg/dL, colesterol total = 190mg/dL e HDL = 60mg/dL. O médico informa que, para liberá- la para a atividade física, precisará solicitar um teste ergométrico (TE). Considerando o valor do risco absoluto para doença cardiovascular calculado pela tabela de Framingham, a conduta médica de solicitar o TE, nesse caso, é:",
       "alternativas": {
         "A": "inadequada e pode causar prejuízo à paciente, pois o seu risco cardiovascular global é baixo e, se o TE der positivo, provavelmente será um teste falso positivo.",
@@ -8411,7 +8411,7 @@
       "id": "pv-uer-2024-0090",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "",
+      "sub_subarea": "Coagulação",
       "enunciado": "Mulher de 68 anos, procura atendimento de saúde e relata história de lombalgia progressiva iniciada há nove meses, que piora com o movimento e melhora parcialmente com o uso de analgésicos comuns. Paciente nega febre, emagrecimento ou história de quedas. Ao exame físico está hipocorada, sem linfadenopatia ou visceromegalias. Os exames laboratoriais mostram hemoglobina = 8,5g/dL, leucócitos = 9.200/mm³, diferencial normal, plaquetas = 340.000/mm³, glicemia = 90mg/dL, creatinina = 0,9mg/dL, proteína total = 8,5g/dL, albumina = 3,5g/dL, cálcio = 11,5mg/dL, fosfatase alcalina = 300UI/L, fósforo = 2,5mg/dL e dosagem do PTH próxima de zero. Nesse caso, a descrição clínica compatível com o diagnóstico mais provável é que as:",
       "alternativas": {
         "A": "lesões líticas são mais bem vistas na ressonância magnética (RM) e podem causar glicosúria e aminoacidúria.",
@@ -8540,7 +8540,7 @@
       "id": "pv-uer-2025-0108",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Mulher de 60 anos, com história pregressa de HAS, é internada com dispneia súbita, dor precordial de forte intensidade, associada à cianose e taquicardia. Apresenta extremidades frias e perfusão tecidual alterada. A PA é de 90x60mmHg, sem variação respiratória, e a FC de 128bpm, regular. Ao exame físico, a paciente está desconfortável, não consegue deitar a zero grau e apresenta turgência jugular a 45°. É passado um cateter de Swan-Ganz que mostra diminuição do débito cardíaco, pressão capilar pulmonar normal e aumento da resistência vascular periférica. O tipo de choque mais provável é por:",
       "alternativas": {
         "A": "infarto agudo do miocárdio",
@@ -8592,7 +8592,7 @@
       "id": "pv-uer-2025-0116",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Lúpus",
       "enunciado": "Um homem de 28 anos busca a emergência queixando-se de febre e dor articular. Refere início do quadro há três dias, com febre de 39ºC, astenia e artralgia, inicialmente localizada em joelho direito, progredindo para punho e joelho esquerdos. Relata episódio de corrimento uretral autolimitado há duas semanas. Ao exame, apresenta dor, edema e eritema em joelho esquerdo, além de lesões pustulares em tronco e membros. Foi realizada artrocentese diagnóstica que evidenciou 30.000 leucócitos, com 95% de polimorfonucleares. Considerando o diagnóstico mais provável, a terapia inicial mais adequada é:",
       "alternativas": {
         "A": "prednisona",
@@ -8653,7 +8653,7 @@
       "id": "pv-uer-2025-0119",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "",
+      "sub_subarea": "AR",
       "enunciado": "Um homem de 19 anos é encaminhado ao ambulatório de clínica médica devido a quadro de dor lombar. Refere início dos sintomas há seis meses. A dor é pior pela manhã e melhora ao longo do dia, com rigidez matinal de duas horas. Relata ainda episódios recorrentes de dor e vermelhidão em olho direito, que melhoram espontaneamente. Nega diarreia, corrimento genital ou artralgia de pequenas articulações. Exames laboratoriais evidenciam elevação de provas inflamatórias e leve anemia. Considerando o diagnóstico mais provável, um exame que deve ser solicitado e o tratamento inicial mais adequado, respectivamente, são:",
       "alternativas": {
         "A": "HLA B27 / corticosteroide",
@@ -8768,7 +8768,7 @@
       "id": "pv-uer-2025-0178",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "DII",
       "enunciado": "Adolescente de 13 anos, sexo masculino, no quinto ano escolar, apresenta dificuldade de interação social e movimentos repetitivos. É muitas vezes inflexível e preza sempre pelas suas rotinas, ficando muito irritado quando precisa alterá-las. Os pais relatam que o paciente andou com dois anos, falou com três e fez tratamento fonoaudiológico até os nove anos. Há quatro meses, passou a apresentar emagrecimento de 3kg, anemia, e fezes ora normais, ora diarreicas com sangue. Nesse caso, o diagnóstico e sua complicação, respectivamente, são:",
       "alternativas": {
         "A": "distúrbio de hiperatividade déficit de atenção / doença celíaca",
@@ -8970,7 +8970,7 @@
       "id": "pv-hcp-2024-0009",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "DII",
       "enunciado": "Paciente masculino, de 42 anos, veio à Emergência queixando-se de dor abdominal em cólica, de severa intensidade, associada a constipação intestinal, sem alívio com analgésicos. Referiu fadiga, irritabilidade, dores articulares de início insidioso e piora gradual nas últimas 3 semanas. Informou trabalhar de forma autônoma, em uma empresa própria nos fundos da sua residência, com reciclagem de baterias automotivas e outros produtos para reciclagem. Os exames laboratoriais demonstraram anemia, além de ácido úrico e creatinina acima do limite da normalidade. Qual a hipótese diagnóstica mais provável?",
       "alternativas": {
         "A": "Intoxicação por cromo",
@@ -8999,7 +8999,7 @@
       "id": "pv-hcp-2024-0010",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hepatopatias",
       "enunciado": "As doenças infecciosas e parasitárias relacionadas ao trabalho apresentam algumas características que as distinguem dos demais grupos: 1) os agentes etiológicos não são de natureza ocupacional; e 2) a ocorrência da doença depende das condições ou circunstâncias em que o trabalho é executado e da exposição ocupacional que favorece o contato, o contágio ou a transmissão. Assinale a alternativa que relaciona a doença infecciosa ou parasitária à exposição ocupacional.",
       "alternativas": {
         "A": "Leptospirose – trabalhadores de manutenção da rede de esgoto",
@@ -9097,7 +9097,7 @@
       "id": "pv-hcp-2024-0037",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Dist Eletrolíticos",
       "enunciado": "Assinale a alternativa que completa, correta e respectivamente, o parágrafo abaixo. O quadro de hiperaldosteronismo primário pode cursar com .........., sendo caracterizado por nível de renina plasmática .......... .",
       "alternativas": {
         "A": "hipopotassemia e alcalose metabólica – elevado",
@@ -9218,7 +9218,7 @@
       "id": "pv-hcp-2024-0046",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "DAC",
       "enunciado": "Classifica-se clinicamente o traumatismo craniano conforme sua gravidade, utilizando-se a Escala de Coma de Glasgow (ECG). O traumatismo é considerado grave quando o escore for inferior ou igual a",
       "alternativas": {
         "A": "3",
@@ -9420,7 +9420,7 @@
       "id": "pv-hcp-2025-0130",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "",
+      "sub_subarea": "Coagulação",
       "enunciado": "Gestante de 28 anos, G1P0, com 32 semanas de gestação, apresentou febre (38o C), calafrios, mialgia, astenia e dor retro-orbitária, quadro iniciado há 3 dias. No quarto dia, foram registradas hipotensão (pressão arterial de 80/50 mmHg), dor abdominal intensa, letargia e ascite. O hemograma indicou hemoglobina de 14,5 g/dl, hematócrito de 50%, leucócitos de 2.300/mm³, plaquetas de 70.000/mm³, AST de 35 U/l e creatinina de 0,9 mg/dl. Os batimentos cardiofetais estavam presentes (148 bpm). Qual a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Solicitar ressonância magnética abdominal e painel viral.",
@@ -9596,7 +9596,7 @@
       "id": "pv-hcp-2025-0175",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hepatopatias",
       "enunciado": "Paciente masculino, de 25 anos, previamente hígido, veio à Emergência por mal-estar, mialgias, febre de 39o C e tosse, quadro progressivo iniciado há 5 dias. Ao exame físico, apresentava-se ictérico e com sufusão conjuntival. Referiu que seu bairro e sua casa em Porto Alegre foram inundados há cerca de 14 dias devido às chuvas e que teve contato com água e lama. Considerando o caso e a principal hipótese diagnóstica, assinale a assertiva correta.",
       "alternativas": {
         "A": "Transaminases > 1.000 U/l indicariam provável diagnóstico de leptospirose.",
@@ -9699,7 +9699,7 @@
       "id": "pv-hcp-2025-0201",
       "area": "Clínica Médica",
       "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "sub_subarea": "Sepse",
       "enunciado": "Homem de 21 anos sofreu picada de cobra (espécie não identificada) no membro inferior esquerdo (MIE) que causou lesão necrótica extensa e profunda. Após 24 horas, foi internado na UTI com alteração da coagulação, celulite extensa no MIE, sepse e necessidade de ventilação mecânica. No sétimo dia, passou a apresentar anúria, acidose, insuficiência renal aguda e hiperpotassemia, evoluindo com parada cardiorrespiratória refratária e indo a óbito. Assinale a assertiva correta sobre o fornecimento do atestado de óbito.",
       "alternativas": {
         "A": "Por se tratar de causa renal, o mais adequado é que a equipe da Nefrologia forneça o atestado de óbito.",
@@ -9832,7 +9832,7 @@
       "id": "pv-fam-2024-0014",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes",
       "enunciado": "Mulher de 60 anos procura assistência médica por conta de um laudo de ultrassonografia com esteatose hepática; DM2, IMC 30 Kg/m2 e hipertensão em uso de losartana e insulina NPH. Nega etilismo. A avaliação laboratorial mostra glicemia de jejum 120 mg/dL, hemoglobina glicada 6,8%, AST 52 UI/L (VR 40), ALT 56 UI/L (VR 41), FA 100 UI/L (VR 105), GGT 150 UI/L (VR 30), INR 1,1, albumina 4,7 g/dl, sorologia para vírus B e C não reagentes, anti-músculo liso não reagente, gamaglobulinas normais, anti-mitocôndria não reagente. Ultrassom abdome com aumento da ecogenicidade hepática. Elastografia hepática de 8 kPa. Qual a principal conduta inicial que deverá ser realizada?",
       "alternativas": {
         "A": "Iniciar metformina e semaglutida.",
@@ -9861,7 +9861,7 @@
       "id": "pv-fam-2024-0016",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Anemias",
+      "sub_subarea": "Coagulação",
       "enunciado": "Um paciente de 39 anos, assintomático, com exame físico normal, apresenta, em um exame admissional, o seguinte hemograma: Hb 14g/dl; Leucócitos totais 70.000/mm³ (Segmentados 75%, Bastonetes 5%, Metamielócitos 3%, Mielócitos 2%, Prómielócitos 2%, Eosinófilos 3%, Basófilos 2%, Monócitos 3% e Linfócitos 5%), Plaquetas 350.000/mm³. Além disso, apresenta um VHS de 10mm e Proteína C reativa de 0,2mg/dl. Tal hemograma foi repetido e confirmado. Diante de tal fato, pode-se afirmar que:",
       "alternativas": {
         "A": "A pesquisa da mutação bcr-abl (ou das protéinas p210/190) está indicada. Caso positiva, há indicação de tratamento.",
@@ -10003,7 +10003,7 @@
       "id": "pv-fam-2024-0051",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "DAC",
       "enunciado": "Durante a prescrição de um paciente de 40 anos, com peso corpóreo de 60 Kg, internado na enfermaria cirúrgica, o médico assistente faz o cálculo da hidratação venosa de manutenção com um volume de 2.500 ml. Para que este volume seja infundido em 24 horas, a velocidade de infusão deve ser de:",
       "alternativas": {
         "A": "20 gotas/minuto;",
@@ -10342,7 +10342,7 @@
       "id": "pv-fam-2025-0093",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tuberculose",
       "enunciado": "Um homem de 45 anos, trabalhador rural, apresenta-se ao consultório com queixas de tosse crônica, perda de peso, febre baixa e lesões ulceradas na cavidade oral. Ao exame físico, foram observados linfonodos cervicais aumentados, dolorosos e com secreção purulenta. A radiografia de tórax revela infiltrados pulmonares bilaterais. A biópsia das lesões orais mostra presença de leveduras multinucleadas em forma de roda de leme. Com base nesses achados, qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Tuberculose",
@@ -10934,7 +10934,7 @@
       "id": "pv-sp-2024-0090",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "AVC",
       "enunciado": "Uma idosa de 78 anos de idade, diabética, hipertensa e dislipidêmica, dirigiu‑se ao pronto‑socorro com queixa de tontura contínua e espontânea, iniciada no dia anterior, com bastante náusea associada. Ela realizou TC de crânio, sem alterações isquêmicas ou hemorrágicas. Com base nessa situação hipotética, assinale a alternativa correta.",
       "alternativas": {
         "A": "A paciente provavelmente apresenta quadro de labirintite aguda, sem sinais de alarme, podendo receber alta para casa com cinarizina e dramin.",
@@ -11666,7 +11666,7 @@
       "id": "pv-sp-2025-0197",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Em uma comunidade ribeirinha, a equipe de saúde foi informada de um aumento nos casos de doenças gastrointestinais, principalmente em crianças. Durante uma visita, um agente de saúde observou que as famílias utilizavam água de um rio próximo para consumo doméstico, sem tratamento adequado. Com base nessa situação hipotética, é correto afirmar que a intervenção indicada, visando a um efeito imediato e eficaz para a equipe de saúde, na tentativa de reduzir os casos de doenças gastrointestinais na comunidade, será",
       "alternativas": {
         "A": "orientar os moradores sobre a importância de ferver a água antes do consumo.",
@@ -11961,7 +11961,7 @@
       "id": "pv-uni-2024-0069",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Lúpus",
       "enunciado": "Mulher, 30 anos de idade, refere vontade de parar de fumar. Fuma 20 cigarros por dia, sendo o primeiro 5 minutos após acordar, acha difícil não fumar em lugares proibidos e fuma mesmo quando está doente. O cigarro que traz mais satisfação é o primeiro da manhã e fuma mais frequentemente neste período. Nega etilismo e uso de outras drogas. Relata que já apresentou convulsão febril na infância. Para cessação do tabagismo, além da terapia cognitivo comportamental, qual é o tratamento mais indicado?",
       "alternativas": {
         "A": "Iniciar bupropiona 150 mg/dia e adesivo de nicotina 21 mg/dia.",
@@ -12239,7 +12239,7 @@
       "id": "pv-uni-2025-0117",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Mulher, 62 anos de idade, em estado crítico após sepse grave, necessita de acesso vascular central para administração de medicamentos e monitorização hemodinâmica. Após a punção venosa, a ultrassonografia revela a presença de bolhas de ar entre a agulha de punção e a veia jugular interna. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Aspirar as bolhas de ar com seringa e prosseguir com a inserção do cateter no mesmo sítio.",
@@ -13008,7 +13008,7 @@
       "id": "pv-sír-2024-0086",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hepatopatias",
       "enunciado": "Homem, 32 anos de idade, tem cirrose hepática por uso crônico de álcool. Ele procura o pronto-socorro porque está um pouco mais sonolento e constipado. Faz uso crônico de lactulose e furosemida. Ao exame clínico, nota-se descoramento leve, ascite moderada não- tensa, sonolência leve, ausência de flapping. A creatinina dosada foi de 1,97 mg/dL (valor prévio de 6 semanas atrás era de 0,71 mg/dL). Entre as opções abaixo, a melhor dose de albumina indicada para este paciente é:",
       "alternativas": {
         "A": "40 g/dia por 10 dias.",
@@ -13167,7 +13167,7 @@
       "id": "pv-sír-2025-0113",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Homem, 77 anos de idade, está internado por pneumonia comunitária e tem antecedentes de hipertensão arterial sistêmica, diabetes mellitus, dislipidemia, infarto miocárdico tratado com angioplastia, acidente vascular isquêmico com sequela de disartria, demência mista. Durante as manhãs nesta enfermaria ocorre uma visita interprofissional e este caso deve ser apresentado. Esse tipo de visita tem o objetivo de:",
       "alternativas": {
         "A": "reforçar a ordenação entre equipes assistenciais envolvidas no cuidado.",
@@ -13743,7 +13743,7 @@
       "id": "pv-df-2024-0043",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tuberculose",
       "enunciado": "No dia primeiro de agosto, é comemorado o Dia Mundial da Amamentação. Sabe-se que essa prática oferece inúmeros benefícios para o crescimento e o desenvolvimento da criança, além de fortalecer o vínculo mãe-bebê. Entretanto, existem algumas contraindicações a essa prática. Assinale a alternativa que corresponde a uma condição materna considerada contraindicação absoluta à amamentação.",
       "alternativas": {
         "A": "Hanseníase não tratada",
@@ -13824,7 +13824,7 @@
       "id": "pv-df-2024-0059",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Dist Eletrolíticos",
       "enunciado": "A respeito do tratamento de um adolescente que apresenta cetoacidose diabética com desidratação grave, assinale a alternativa correta.",
       "alternativas": {
         "A": "O soro de manutenção deve receber glicose apenas quando o paciente estiver normoglicêmico.",
@@ -13855,7 +13855,7 @@
       "id": "pv-df-2024-0063",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "No que concerne à avaliação das disfunções e lesões tireoidianas, assinale a alternativa que apresenta uma recomendação para a avaliação da tireoide.",
       "alternativas": {
         "A": "Não há indicação de pesquisa de marcadores moleculares na avaliação do nódulo tireoidiano.",
@@ -14180,7 +14180,7 @@
       "id": "pv-df-2024-0100",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Um paciente de 68 anos de idade, portador de HAS e diabetes mellitus (DM) insulinodependente de difícil controle, procurou uma unidade de pronto atendimento com queixa de dor de forte intensidade no hipocôndrio direito há 48 horas. Associa-se ao quadro náusea e um episódio de vômito, além de febre (38 ºC). Fez uso de analgésicos, com pouca melhora dos sintomas. Como medidas iniciais, realizou exames laboratoriais e tomografia computadorizada de abdome. Acerca desse caso clínico, com base nas imagens apresentadas, a principal hipótese diagnóstica é",
       "alternativas": {
         "A": "colecistite aguda.",
@@ -14962,7 +14962,7 @@
       "id": "pv-ufr-2024-0097",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Pode-se afirmar, em relação à queimadura de segundo grau superficial, que:",
       "alternativas": {
         "A": "não formam bolhas",
@@ -15099,7 +15099,7 @@
       "id": "pv-ufr-2024-0117",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Pancreatite",
       "enunciado": "Analise as afirmativas a seguir sobre trauma pancreático: I - Após um trauma abdominal a presença de lesão pancreática isolada não é comum, ao contrário, ela, na maioria das vezes, é acompanhada de lesões de outros órgãos. II - O segmento mais comumente acometido é o corpo pancreático. III - Quando a dosagem de amilase sérica está normal, pode-se descartar a possibilidade de trauma pancreático. Pode-se afirmar que está(ão) correta(s) a(s) afirmativa(s):",
       "alternativas": {
         "A": "II e III",
@@ -15756,7 +15756,7 @@
       "id": "pv-uni-2024-0097",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Homem, 35 anos de idade, é admitido no PS, vítima de queimadura térmica de segundo grau, extensa, no antebraço e terço distal do membro superior direito. A lesão é caracterizada por bolhas, vermelhidão intensa e dor local. Qual é a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Cobertura da lesão com curativo estéril.",
@@ -15785,7 +15785,7 @@
       "id": "pv-uni-2025-0103",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "DAC",
       "enunciado": "Homem, 24 anos de idade, é admitido no PS por acidente automobilístico. Exame físico: via aérea pérvia, pneumotórax esquerdo com fratura linear da 3°, 4° e 5° costelas, estável hemodinamicamente, sinais de trauma raquimedular em L3-L4, múltiplas fraturas em membros superiores e inferiores. Exames de imagem: ausência de outras lesões no abdômen e na pelve. Com relação à drenagem da via urinária, qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Sondagem vesical de demora.",
@@ -15847,7 +15847,7 @@
       "id": "pv-sír-2024-0065",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Obesidade",
       "enunciado": "Paciente de 29 anos é submetida a gastroplastia bypass por obesidade mórbida sem intercorrências. Em relação à dieta, a recomendação adequada, dentre as abaixo, deve ser:",
       "alternativas": {
         "A": "Dieta pastosa no dia seguinte à cirurgia.",
@@ -17335,7 +17335,7 @@
       "id": "pv-amr-2024-0088",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Analise as assertivas abaixo e assinale a alternativa correta. I. A regulação da maioria dos hormônios da adeno-hipófise depende de sinais estimulantes do hipotálamo; apenas a prolactina é regulada por estímulos inibitórios. II. Se a haste hipofisária for lesionada, a liberação de prolactina aumenta, ao passo que a liberação dos outros hormônios da adeno-hipófise diminui.",
       "alternativas": {
         "A": "Todas as assertivas estão corretas.",
@@ -17757,7 +17757,7 @@
       "id": "pv-hcp-2024-0032",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Dist Eletrolíticos",
       "enunciado": "Paciente de 62 anos, com cirrose por hepatite C e álcool, foi trazido à Emergência por confusão mental e aumento de volume abdominal. Ao exame físico, apresentava ascite, flapping e desorientação. Os exames complementares iniciais revelaram hemoglobina de 9,3 g/dl, leucócitos de 2.430/mm³, plaquetas de 56.000/mm³, creatinina de 2,3 mg/dl, sódio de 132 mEq/l, tempo de protrombina de 18,1 segundos e atividade de 52%, bilirrubina total de 2,8 mg/dl e direta de 1,9 mg/dl. Em relação ao caso clínico, assinale a assertiva correta.",
       "alternativas": {
         "A": "Está indicada paracentese diagnóstica para pesquisa de peritonite bacteriana espontânea, que constitui infecção do líquido de ascite devido à translocação bacteriana e pode ser um desencadeante de encefalopatia hepática.",
@@ -17906,7 +17906,7 @@
       "id": "pv-fam-2025-0149",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Mulher de 52 anos, obesa, diabética, comparece ao pronto-atendimento queixando-se de febre alta e aparecimento de grande ferida dolorosa em região da vulva há 3 dias. Ao exame físico, observa-se a lesão abaixo: Sobre o diagnóstico e o tratamento desta condição, assinale a alternativa correta:",
       "alternativas": {
         "A": "A fasceite necrotizante do perineo, também chamada de gangrena de Fournier corresponde a uma infecção monomicrobiana das partes moles do perineo causada por cepas multi-resistentes de Staphylococcus aureus.",
@@ -17965,7 +17965,7 @@
       "id": "pv-uni-2024-0087",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "Cefaleia",
       "enunciado": "Homem, 28 anos de idade, apresenta edema cervicofacial matinal, tontura e cefaleia de início recente há 10 dias. Exame físico: corado, hidratado eupneico, PA = 120/70 mmHg, telangiectasias na parede torácica anterior, murmúrio vesicular presente e simétrico bilateral, sem ruídos adventícios. Fundo de olho: edema de papila. Exame neurológico normal. Qual é o diagnóstico sindrômico, possível causa e tratamento?",
       "alternativas": {
         "A": "Síndrome de hipertensão intracraniana – câncer de pulmão – radioterapia.",
@@ -18240,7 +18240,7 @@
       "id": "pv-ena-2025-0102",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tuberculose",
       "enunciado": "Após o início de tratamento antirretroviral (TARV) há 1 mês, um paciente com síndrome consumptiva, candidíase e diarreia crônica foi internado por outras manifestações. O grupo de residentes da clínica médica percebeu, durante os primeiros três dias de internação, febre vespertina, linfadenomegalias cervicais e axilares com fistulização e constipação intestinal com cólicas abdominais. Os exames demonstraram anemia e VHS e PCR elevados, bem como imagens reticulonodulares difusas e bilaterais em ambos os hemitóraces. As tomografias reforçaram os infiltrados reticulonodulares com linfadenomegalias mediastinais com centro necrótico, além de linfadenomegalias mesentéricas com espessamento de íleo distal. O paciente piorou clinicamente, apresentando-se prostrado e com hipoxemia no 4º dia de internação. A contagem de linfócitos CD4 no início do tratamento era de 45 células/mm³ e a PPD (prova tuberculínica anérgica) era 0 mm. Diante do exposto, a conduta mais adequada é:",
       "alternativas": {
         "A": "suspender a TARV até finalizar a investigação para infecções intestinais relacionadas ao HIV;",
@@ -18312,7 +18312,7 @@
       "id": "pv-pe-2025-0162",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Glomerulopatias",
       "enunciado": "Uma escolar de 7 anos foi admitida em enfermaria de hospital pediátrico com o diagnóstico de pneumonia adquirida na comunidade (PAC) à direita, sendo iniciada ampicilina endovenosa. De acordo com o relato da mãe da criança, a febre e a tosse surgiram há 4 dias. Como a menor permaneceu com tiragem subcostal discreta e picos febris diários após 72 horas da admissão, o pediatra optou por realizar nova radiografia de tórax (RX), a qual evidenciou imagem sugestiva de derrame pleural ipsilateral à PAC da admissão. O cirurgião avaliou o quadro e realizou drenagem pleural fechada. Foi decidido por manter o mesmo antibiótico. Após 6 dias da drenagem, a criança permanecia com a mesma curva térmica (picos acima de 38,5ºC). Para melhor avaliar a doença pulmonar dessa criança, foi realizada uma tomografia computadorizada (TC) do tórax com contraste (parte das imagens da TC estão disponíveis abaixo). Menor encontra-se dependente de suporte de O2 desde o primeiro dia de internamento, por meio de máscara de Venturi (FiO2 de 28%). No quarto dia após a nova conduta ter sido adotada, a paciente acima evoluiu com palidez importante. Hemograma de controle mostrou: Hb: 6,1 g/dL VCM: 82 fL HCM: 27 pg Caracteres morfológicos: presença de esquizócitos Chamou atenção também uma contagem de plaquetas de 77.000/mm³ e uma desidrogenase lática (DHL) 5 x superior ao valor de referência. Por achar que a menor está com redução do volume urinário, o pediatra solicitou também ureia (159 mg/dL) e creatinina (2,9 mg/dL), ambos os valores bem acima do limite superior de normalidade. Resultado de cultura do líquido pleural foi resgatado, a qual foi positiva para pneumococo. Sobre a principal hipótese diagnóstica, diante dos eventos listados acima, qual dos exames abaixo deverá ser solicitado para corroborar tal hipótese?",
       "alternativas": {
         "A": "Coombs direto",
@@ -18404,7 +18404,7 @@
       "id": "pv-uer-2024-0030",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Menina de 7 anos apresenta febre diária de 38,5oC há 15 dias, principalmente à noite, e aumento de volume no pescoço. Mãe procurou atendimento na UBS, onde foi prescrita cefalexina, da qual fez uso durante cinco dias, sem melhora, sendo trocada para sulfametoxazol + TMP por mais 10 dias. Nega outros sintomas. Como não houve mudança no quadro clínico, a paciente foi encaminhada ao hospital para investigação diagnóstica. A paciente tem história familiar paterna de tosse e apresenta emagrecimento há mais de um mês. Tem gato e cachorro no domicílio. Ao exame físico, apresenta adenomegalia cervical posterior direita com 5cm de diâmetro, endurecida e aderente, sem sinais flogísticos e o restante normal. Exames laboratoriais revelaram: Ht = 35%; Hb = 11,5mg/dL; plaquetas = 220.000mm³; VHS = 50; leucócitos = 12.400 com 60% de linfócitos, 30% de neutrófilos e 10% de monócitos. Radiografia de tórax normal. Teste tuberculínico: 13mm. O diagnóstico mais provável e a conduta adequada, respectivamente, são:",
       "alternativas": {
         "A": "doença da arranhadura do gato / prescrever azitromicina",
@@ -18475,7 +18475,7 @@
       "id": "pv-uer-2025-0174",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Anemias",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Criança de 3 anos é internada para investigação de um quadro caracterizado por febre, fadiga, anorexia e dor em joelhos, iniciado há um mês. O exame físico mostra criança pálida, com sopro sistólico ++/6 audível em todo o precórdio, petéquias e púrpuras em membros inferiores, além de discretas linfadenopatia cervical e hepatoesplenomegalia. O exame osteoarticular revela artrite em joelhos. Os exames laboratoriais apresentam anemia, leucopenia, trombocitopenia e aumento da velocidade de hemossedimentação. A principal hipótese diagnóstica nesse caso é:",
       "alternativas": {
         "A": "leucemia linfoide aguda",
@@ -18590,7 +18590,7 @@
       "id": "pv-sp-2025-0141",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Dengue",
       "enunciado": "Um menino de 5 anos de idade, previamente hígido, foi levado pelos pais ao pronto atendimento com suspeita de dengue. A criança apresentou quadro de febre, que teve início há 3 dias, associado à cefaleia e mialgia com exantema maculopapular difuso e pruriginoso há 24 horas. Foram negados sintomas gastrointestinais. O exame físico apresentou os seguintes dados: peso 17 kg; bom estado geral; anictérico; normocárdico; normotenso; sem sinais meníngeos; abdome indolor à palpação e sem visceromegalias; e pele e mucosa sem alterações. Com base nessa situação hipotética, a conduta a ser realizada é orientar",
       "alternativas": {
         "A": "repouso; prescrever hidratação oral com 130 ml/kg/dia de líquidos ingeridos, sendo 1/3 do volume com sais de reidratação oral; e ibuprofeno, se for necessário",
@@ -18867,7 +18867,7 @@
       "id": "pv-uer-2025-0162",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Glomerulopatias",
       "enunciado": "Menino de 4 anos é levado à emergência devido a edema periorbital em abdômen e membros inferiores, apresentado há uma semana. A mãe informou que, há quatro dias, procurou a equipe de saúde da família e que uma médica avaliou o quadro como alérgico, prescrevendo anti-histamínico. Ela relata que hoje observou piora importante do quadro. Não soube responder sobre diurese, mas achou a urina “diferente”. Nega febre ou qualquer outro sinal ou sintoma. Ao exame físico, o paciente mostra-se lúcido, hipocorado +/4+, com FR = 24irpm, FC = 96bpm, e PA normal para altura, sexo e idade, sem outros sinais ou sintomas. A hipótese diagnóstica para o caso e os exames laboratoriais a serem solicitados, respectivamente, são:",
       "alternativas": {
         "A": "edema alérgico difuso; imunoglobulinas e hemograma completo",
@@ -18896,7 +18896,7 @@
       "id": "pv-ena-2025-0114",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Um paciente de 45 anos, tabagista, apresentava diabetes mellitus e dislipidemia, porém não era hipertenso. Foi atendido no pronto-socorro com quadro de edema agudo do pulmão hipertensivo. Apresentou melhora clínica e foi liberado com prescrição de losartana e hidroclorotiazida. A hipertensão ficou refratária ao tratamento e o paciente desenvolveu insuficiência renal aguda, que foi associada ao uso da losartana. No exame físico, foi detectado um sopro em linha mamilar esquerda na altura da cicatriz umbilical. O doppler de carótidas mostrou obstrução de 50% à direita e 40% à esquerda. A doença em questão é:",
       "alternativas": {
         "A": "doença de Kawasaki;",
@@ -18920,7 +18920,7 @@
       "id": "pv-ena-2025-0117",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "Cefaleia",
       "enunciado": "Um paciente de 45 anos, sem doenças prévias, desenvolveu enfermidade de instalação súbita e progressiva com quadro de náuseas, vômitos, diarreia e dor abdominal. Logo após, queixou- se de cefaleia, vertigem e tontura. Foi internado na emergência, onde foi iniciada hidratação venosa e administração de sintomáticos. Entretanto, 3 horas depois começou a apresentar visão turva, ptose palpebral, diplopia, disfagia, disartria, boca seca e fraqueza muscular simétrica, acometendo com maior intensidade os membros superiores, sem perda da sensibilidade. Notaram-se hipotensão sem taquicardia e retenção urinária. Cerca de 6 horas após a internação, evoluiu para paralisia flácida motora descendente, associada a comprometimento autonômico disseminado. Durante todo esse período, o paciente se manteve consciente. A fraqueza muscular descendente afetou os músculos do tronco e dos membros, levando a dispneia, insuficiência respiratória e tetraplegia flácida. Foi necessária a transferência do paciente para o CTI, com instalação de tubo orotraqueal e ventilação mecânica, além de rotinas terapêuticas para pacientes graves. O diagnóstico mais provável é:",
       "alternativas": {
         "A": "meningite por Haemophilus influenzae;",
@@ -18944,7 +18944,7 @@
       "id": "pv-ena-2025-0124",
       "area": "Clínica Médica",
       "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "sub_subarea": "RCP",
       "enunciado": "Pedro Paulo, um homem de 41 anos, foi admitido no pronto-socorro após sofrer queimaduras extensas em um incêndio no seu local de trabalho. Ele apresentava queimaduras de segundo grau que cobriam aproximadamente 45% de sua superfície corporal total (SCT). O paciente pesava 70 kg e estava consciente e lúcido, mas sentia dor intensa e desconforto. Os sinais vitais eram: frequência cardíaca: 120 bpm; pressão arterial de 100/60 mmHg; frequência respiratória de 24 ipm e saturação de oxigênio de 94% em ar ambiente. Seu médico decidiu iniciar a reanimação hídrica imediatamente. A melhor abordagem inicial para a reanimação hídrica de Pedro Paulo é:",
       "alternativas": {
         "A": "administrar 2 ml/kg/%SCT de solução de Ringer Lactato nas primeiras 24 horas, dividindo o volume total igualmente ao longo do período;",
@@ -19159,7 +19159,7 @@
       "id": "pv-uer-2025-0102",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Dengue",
       "enunciado": "Homem de 30 anos, cacaueiro, do interior do Amazonas, com histórico de viagem recente aos Estados Unidos, inicia quadro súbito de febre alta de até 39ºC, associado com mialgia, cefaleia, artralgia, dor retroorbitária e fotofobia há três dias. Há relato de epistaxe e algumas petéquias. Ele nega coriza, odinofagia e sintomas respiratórios. Ao exame físico, apresenta rash cutâneo em tronco e membros inferiores. O exame laboratorial revela leucócitos = 4.000/mm³ , com 40% de linfócitos, plaquetas = 98.000/mm³, velocidade de hemossedimentação (VHS) = 45mm/hora, creatinina = 1,0mg/dL, bilirrubina total = 1,8mg/dL e transaminases elevadas de forma discreta. Os testes de biologia molecular (PCR) para dengue, zika e chikungunya foram negativos. O diagnóstico mais provável é de febre por infecção:",
       "alternativas": {
         "A": "pelo Leptospira interrogans",
@@ -19268,7 +19268,7 @@
       "id": "pv-fam-2024-0012",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tuberculose",
       "enunciado": "RADB, masculino, 35 anos, usuário de drogas ilícitas por via inalatória e vivendo em situação de rua há quatro anos, foi atendido em Unidade de Pronto Atendimento por apresentação de quadro de febre, tosse com expectoração de aspecto purulento em grande quantidade em evolução há duas semanas e consumpção acentuada. O paciente referiu diagnóstico de infecção pelo HIV há cinco anos com realizações do tratamento de forma irregular até dois anos antes em Minas Gerais. Após avaliação clínica e radiológica, a possibilidade de tuberculose pulmonar foi levantada e a equipe assistente iniciou a condução do caso. Assinale a alternativa que descreve conduta CORRETA para o caso.",
       "alternativas": {
         "A": "O diagnóstico de tuberculose foi confirmado com a obtenção de baciloscopia positiva (+++) e do teste rápido molecular para Mycobacterium tuberculosis (TRM-TB) com detecção de resistência à Rifampicina; o paciente foi encaminhado a Unidade Hospitalar para internação, confirmação dos achado e início do tratamento específico após resultados de novos exames e estadiamento da doença pelo HIV.",
@@ -19410,7 +19410,7 @@
       "id": "pv-uni-2025-0137",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "DAC",
       "enunciado": "Mulher, 30 anos de idade, previamente hígida, é admitida no PS com dor torácica, expectoração amarelada e febre há cinco dias, apresentando hoje dispneia. Na triagem, foi constatado: PA = 85/40 mmHg, FC = 130 bpm, FR = 28 irpm e SpO₂ = 85%. A paciente foi levada à sala de emergência. Exames: gasometria arterial pH = 7,23, PaCO₂ = 30 mmHg, PaO₂ = 55 mmHg, bicarbonato = 16 mEq/L e lactato = 35 mg/L. De acordo com a Campanha de Sobrevivência à Sepse, qual é a alternativa correta?",
       "alternativas": {
         "A": "Como há insuficiência respiratória, a expansão volêmica deve ser realizada com volumes menores que 30 mL/kg, a fim de se evitar congestão volêmica e piora da dispneia.",
@@ -19439,7 +19439,7 @@
       "id": "pv-sp-2024-0093",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "DRC",
       "enunciado": "Um paciente de 58 anos de idade foi levado à emergência pelo SAMU. Ele foi encontrado na rua confuso e desorientado. No transporte, a equipe percebeu que não havia mais pulsos centrais palpáveis e o paciente estava inconsciente, então foram realizadas manobras de reanimação cardiopulmonar, conforme o protocolo ACLS. No intra‑hospitalar, foram mais dois ciclos de reanimação, com tempo total de quinze minutos, sempre em AESP no monitor. Após o retorno à respiração e à circulação espontânea (paciente já intubado), o paciente foi examinado com mais calma e constatou‑se que havia uma fístula arteriovenosa em membro superior esquerdo. Ausculta pulmonar com estertores, PA de 75x45 mmHg, FC de 132 bpm, estase jugular e má perfusão periférica, com livedo reticular. Abdômen semigloboso e flácido. Bulhas rítmicas, hipofonéticas, em dois tempos e sem sopros. Foi iniciada noradrealina e foram solicitados exames na urgência. Eletrocardiograma sem alterações isquêmicas agudas e com baixa voltagem difusa. Gasometria arterial: pH 7,25; BIC 18; e potássio 6,1. Foi realizado POCUS, que apontou derrame pericárdico, colabamento diastólico do ventrículo direito e colabamento de átrio direito. Derrame pleural pequeno em bases, linhas B em bases de ambos os pulmões e com padrão A nos ápices e no terço médio bilaterais. Cava túrgida, com pouquíssima variabilidade com o ciclo respiratório. Com base nessa situação hipotética, assinale a alternativa que apresenta a conduta que evitará que o paciente tenha uma nova parada cardíaca nos próximos momentos",
       "alternativas": {
         "A": "furosemida em altas doses",
@@ -19463,7 +19463,7 @@
       "id": "pv-sp-2025-0103",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Dist Eletrolíticos",
       "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15. Sobre o caso acima, assinale a alternativa adequada.",
       "alternativas": {
         "A": "A melhora dos níveis de ureia e creatinina com uso de albumina confirmaria a hipótese diagnóstica de síndrome hepatorrenal.",
@@ -19487,7 +19487,7 @@
       "id": "pv-sp-2025-0104",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Dist Eletrolíticos",
       "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15. A respeito dos dados gasométricos apresentados em um contexto de injúria renal aguda, assinale a alternativa correta.",
       "alternativas": {
         "A": "O paciente possui indicação bem estabelecida de reposição endovenosa de bicarbonato devido ao valor de pH apresentado.",
@@ -19511,7 +19511,7 @@
       "id": "pv-sír-2025-0105",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "DRC",
       "enunciado": "Atencão: Considere o caso clinico abaixo para responder a questão. Mulher, 63 anos de idade, comparece ao ambulatório para consulta de rotina. No momento, está assintomática e relata estar urinando normalmente. Não teve nenhuma intercorrência no período. Tem história de hipertensão arterial sistêmica, diabetes mellitus tipo 2, e doença renal crônica estágio IIIb, estando em uso de enalapril 20 mg duas vezes por dia, aniodipino 10 mg/dia, hidroclorotiazida 25 mg/dia e espironolactona 25 mg/dia. Ao exame, apresenta FC: 66 bpm e PA: 138 x 86 mmHg. Tem crepitos discretos em bases de ambos os hemotóraces e discreto edema perimaleolar. Sem sinais de edema ou outras alterações ao exame dos demais aparelhos e sistemas. Os exames laboratoriais realizados há dois dias seguem abaixo. Foi solicitado um eletrocardiograma que pode ser visto na imagem a seguir: Além de orientar restrição de fósforo, potássio e sódio na dieta, outra conduta a ser adotada para o manejo crônico das comorbidades apresentadas pelo paciente é iniciar",
       "alternativas": {
         "A": "dapaglifozina e sevelamer",
@@ -19562,7 +19562,7 @@
       "id": "pv-hia-2025-0086",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "TEP",
       "enunciado": "Um paciente de 58 anos com história de hipertensão e cirurgia ortopédica recente apresenta- se ao pronto-socorro com dispneia súbita, dor torácica e sinais de choque. O exame físico revela taquicardia, taquipneia e oximetria de pulso de 92% em ar ambiente. A tomografia computadorizada de tórax confirma tromboembolismo pulmonar (TEP) com evidência de hipertensão pulmonar significativa. O paciente está com pressão arterial de 85/50 mmHg e níveis de lactato elevados. Qual é a conduta inicial mais apropriada para o manejo desse paciente?",
       "alternativas": {
         "A": "Iniciar anticoagulação com heparina de baixo peso molecular e monitorar a resposta clínica.",
@@ -19591,7 +19591,7 @@
       "id": "pv-df-2024-0039",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "TEP",
       "enunciado": "O uso de contraceptivos orais combinados possui algumas contraindicações importantes por aumentar o risco de fenômenos tromboembólicos. Acerca desse assunto, assinale a alternativa correta.",
       "alternativas": {
         "A": "Toda paciente jovem deve ser investigada quanto ao risco de trombose antes do início do uso de contraceptivos orais combinados, independentemente da história familiar.",
@@ -19625,7 +19625,7 @@
       "id": "pv-df-2024-0099",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Um paciente de 68 anos de idade, portador de HAS e diabetes mellitus (DM) insulinodependente de difícil controle, procurou uma unidade de pronto atendimento com queixa de dor de forte intensidade no hipocôndrio direito há 48 horas. Associa-se ao quadro náusea e um episódio de vômito, além de febre (38 ºC). Fez uso de analgésicos, com pouca melhora dos sintomas. Como medidas iniciais, realizou exames laboratoriais e tomografia computadorizada de abdome. No que tange ao caso clínico apresentado, qual o principal organismo envolvido no desenvolvimento dessa patologia?",
       "alternativas": {
         "A": "Escherichia coli",
@@ -19723,7 +19723,7 @@
       "id": "pv-sp-2025-0212",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hepatopatias",
       "enunciado": "Paciente, 40 anos de idade, secundigesta com parto vaginal anterior, sem doenças, retorna em pré-natal com 24 semanas de gravidez e apresenta os exames a seguir: Hb: 11,4 mg/dL Ht: 34% Glicemia: 84 mg/dL Tipagem sanguínea: A negativo. Pesquisa anticorpos irregulares: positiva. Toxoplasmose: IgG positivo e IgM negativo. Rubéola: IgG negativo e IgM negativo. Hepatite B: vacinada. Hepatite C: negativo. HIV: negativo. VDRL: 1:2 FTA-ABS: negativo. Urocultura: E. coli > 10⁶ UFC multi-sensível. Ultrassonografia: feto único, vivo, apresentação pélvica com dorso à esquerda. Placenta posterior Grannum 0. Peso fetal estimado 780 g (p90). Observa-se ascite e derrame pleural laminar fetal. Doppler de artéria umbilical normal, pico sistólico de artéria cerebral média de 52 cm/s (mediana para 24 semanas = 30,7 cm/s). A hipótese diagnóstica para o achado ultrassonográfico é:",
       "alternativas": {
         "A": "Anemia fetal.",
@@ -19746,7 +19746,7 @@
       "id": "pv-pe-2025-0103",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes",
       "enunciado": "Uma mulher de 58 anos com diagnóstico de diabetes tipo 2 há 8 anos procura atendimento para ajuste do tratamento. Ela tem histórico de hipertensão e insuficiência cardíaca com fração de ejeção reduzida (IC-FER). Atualmente, usa metformina 1000 mg duas vezes ao dia, mas seu controle glicêmico permanece inadequado, com HbA1c de 8,0%. Exames laboratoriais mostram função renal preservada (eTFG de 75 mL/min/1,73 m²). Diante do histórico de insuficiência cardíaca e do perfil glicêmico atual, qual seria a melhor opção terapêutica para adicionar ao esquema, de acordo com as diretrizes da Sociedade Brasileira de Diabetes (SBD)?",
       "alternativas": {
         "A": "Aumentar a dose de metformina.",
@@ -20019,7 +20019,7 @@
       "id": "pv-sír-2024-0097",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "TEP",
       "enunciado": "Homem, 67 anos de idade, é levado ao pronto-socorro por dispneia súbita há 4 horas, evoluindo com evidente desconforto respiratório. Está em acompanhamento por adenocarcinoma de reto em programação de quimioterapia. Tem antecedente de HAS e DM tipo 2. Ao exame físico, apresenta: PA: 83 x 60 mmHg, FC: 130 bpm, FR: 32 irpm e saturação periférica de oxigênio 90% em ar ambiente. O exame cardiopulmonar está normal. A ultrassonografia point-of-care cardíaca evidencia sobrecarga de ventrículo direito e relação VD/VE 1.2. Entre as opções abaixo, a melhor conduta para este paciente é:",
       "alternativas": {
         "A": "trombólise com alteplase.",
@@ -20133,7 +20133,7 @@
       "id": "pv-df-2025-0120",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "DAC",
       "enunciado": "Um paciente de 65 anos de idade com histórico de diabetes mellitus tipo 2 e tabagismo foi levado ao pronto-socorro com queixa de dor torácica intensa, súbita, em região retroesternal, acompanhada de sudorese profusa e dispneia. Ao exame físico, apresenta PA = 90 mmHg X 60 mmHg, FC = 120 bpm, FR = 24 irpm e SatO2 = 91%. Realizou eletrocardiograma (ECG), que revelou supradesnível do segmento ST em derivações DII, DIII e aVF. A troponina está elevada. Nesse caso clínico, é correto afirmar que a hipótese diagnóstica mais provável e o tratamento de escolha são, respectivamente,",
       "alternativas": {
         "A": "infarto agudo de parede inferior; administrar nitratos sublinguais como primeira linha.",
@@ -20337,7 +20337,7 @@
       "id": "pv-sír-2025-0104",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "DRC",
       "enunciado": "Atencão: Considere o caso clinico abaixo para responder a questão. Mulher, 63 anos de idade, comparece ao ambulatório para consulta de rotina. No momento, está assintomática e relata estar urinando normalmente. Não teve nenhuma intercorrência no período. Tem história de hipertensão arterial sistêmica, diabetes mellitus tipo 2, e doença renal crônica estágio IIIb, estando em uso de enalapril 20 mg duas vezes por dia, aniodipino 10 mg/dia, hidroclorotiazida 25 mg/dia e espironolactona 25 mg/dia. Ao exame, apresenta FC: 66 bpm e PA: 138 x 86 mmHg. Tem crepitos discretos em bases de ambos os hemotóraces e discreto edema perimaleolar. Sem sinais de edema ou outras alterações ao exame dos demais aparelhos e sistemas. Os exames laboratoriais realizados há dois dias seguem abaixo. Foi solicitado um eletrocardiograma que pode ser visto na imagem a seguir: A conduta que deve ser adotada neste momento com relação à hipercalemia, além de orientar dieta hipocalêmica.",
       "alternativas": {
         "A": "Manter todas as medicações e iniciar uso de furosemida e bicarbonato de sódio oral ambulatorialmente.",
@@ -20449,7 +20449,7 @@
       "id": "pv-ena-2024-0085",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "DRC",
       "enunciado": "Mulher de 68 anos, acompanhada da filha, foi encaminhada para nefrologia pela unidade básica de saúde (UBS) devido à alteração no exame de creatinina. Trouxe exames laboratoriais que evidenciavam: Hb 8,7g/L; Creatinina 2,8 mg/dL; Ureia 92 mg/dL; Gasometria arterial: pH 7,3, Bicarbonato 18 mmol/L, Na 140 mmol/L, K 5.2 mmol/L. Um exame realizado há 4 anos já evidenciava creatinina sérica basal de 2,3 mg/dL. O peso da paciente é de 56 Kg. Conforme o caso apresentado, assinale a alternativa correta.",
       "alternativas": {
         "A": "Está contraindicada vacina contra hepatite B para essa paciente.",
@@ -20497,7 +20497,7 @@
       "id": "pv-ena-2025-0106",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "",
+      "sub_subarea": "Anemias",
       "enunciado": "Uma mulher de 20 anos se queixa de edema generalizado iniciado há 3 semanas, que evoluiu com piora progressiva. Relata hiporexia e astenia nesse período. Desconhece ser portadora de doenças atuais ou prévias e não faz uso de quaisquer medicamentos ou drogas. Ao exame físico, PA: 160 x 90 mmHg, FC: 97 bpm, FR: 22 ipm, SpO2 98% (em ar ambiente). As mucosas estão hipocoradas, ictéricas e hidratadas. Há edema na face, pálpebras, parede abdominal e membros inferiores. Há também ascite e síndrome de derrame pleural. Exames de laboratório: sangue: Hb: 7,0 g/dL; Hct: 24%; VCM: 98 fL; HCM: 31 pg; CHCM: 32 g/dL; RDW: 18, 3%; leucócitos: 3.400/mm³; neutrófilos segmentados: 1.500/mm³; linfócitos: 700/mm³; Plq.: 201.000/mm³; PCR: 28m g/dL; FAN reagente: 1:320 padrão nuclear homogêneo; anti-DNA reagente; anti-SSA reagente; anti-SSB reagente; anti-Sm reagente; ANCA não reagente; C3: 43 mg/dL (90-170 mg/dL); C4: 10 mg/dL (VR: 12-36 mg/dL); exame de urina: densidade 1.020; pH 6,0; nitrito negativo; proteínas ++++; hemoglobina ++; 4 piócitos/campo, 145 hemácias/campo; presença de cilindros hemáticos. Para investigação da anemia apresentada pela paciente, são solicitados os seguintes exames: LDL: 1150 UI/L (VR: 120-246 UI/L); BT: 4,2 mg/dL; BD: 0,4 mg/dL; reticulócitos: 18%, Coombs direto positivo; ferro sérico: 52 mcg/dL (VR: 65-175 mcg/dL); ferritina 650 ng/mL (VR: 10-291 ng/mL); capacidade total de ligação do ferro: 200 mcg/dL (250-425 mcg/dL). A conduta imediata mais adequada para o tratamento da anemia é:",
       "alternativas": {
         "A": "administração de eritropoetina;",
@@ -20521,7 +20521,7 @@
       "id": "pv-ena-2025-0118",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Glomerulopatias",
       "enunciado": "Um paciente de 22 anos apresentou quadro clínico com início abrupto de febre, cefaleia, mialgia, anorexia, náuseas e vômitos. Foi avaliado na UPA e liberado com prescrição de sintomáticos. Vinte e quatro horas depois, apresentou diarreia, artralgia, dor ocular, fotofobia e hemorragia conjuntival, além de tosse. Foi internado, recebendo hidratação venosa e sintomáticos venosos. Foram solicitados exames complementares, com os seguintes resultados: leucocitose, neutrofilia e desvio à esquerda, plaquetopenia, aumento de ureia e creatinina, CPK elevada, baixa densidade urinária, proteinúria, hematúria microscópica e leucocitúria. Foi então iniciada antibioticoterapia com sulfametoxazol + trimetoprima. Logo a seguir, o paciente apresentou exantema, eritema macular, papular purpúrico, distribuídos no tronco ou na região pré-tibial. USG exibiu hepatomegalia, esplenomegalia e linfadenopatia. Na ocasião, reclamou de intensa mialgia, principalmente em região lombar e nas panturrilhas. Apesar do uso de antibiótico, não apresentou melhora, com evolução para tríade insuficiência renal, icterícia rubínica e hemorragia pulmonar discreta (síndrome de Weil). Foi intubado e no CTI iniciou penicilina G cristalina em dose plena e cuidados intensivos. Após 10 dias, apresentou melhora clínica, sendo transferido para enfermaria até concluir seu tratamento. A doença descrita acima é:",
       "alternativas": {
         "A": "febre maculosa;",
@@ -20698,7 +20698,7 @@
       "id": "pv-pe-2024-0084",
       "area": "Clínica Médica",
       "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "sub_subarea": "Sepse",
       "enunciado": "Um paciente de 80 anos foi trazido para a emergência com fratura de colo de fêmur após queda do próprio leito. Relata como comorbidades diabetes, hipertensão e doença coronariana. Foi submetido à artroplastia do quadril, mas evoluiu com lesão renal aguda que requereu terapia dialítica, vindo a falecer por infecção de corrente sanguínea por Staphylococcus aureus, provavelmente por contaminação do cateter de duplo lúmen. Você é o plantonista do turno e foi solicitado a preencher o atestado de óbito. Que diagnóstico você colocaria na linha superior do atestado de óbito?",
       "alternativas": {
         "A": "Choque séptico",
@@ -20728,7 +20728,7 @@
       "id": "pv-pe-2024-0098",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Glomerulopatias",
       "enunciado": "Um adolescente de 14 anos foi admitido ao hospital, com queixas de edema generalizado e cefaleia há uma semana. Ele referia um episódio de impetigo cerca de um mês atrás, que foi tratado com cefalexina. A admissão, a PA era 200 x 140 mmHg. Qual dos achados laboratoriais abaixo seria mais provavelmente encontrado neste caso?",
       "alternativas": {
         "A": "Proteinúria de 10 g/24 horas",
@@ -20806,7 +20806,7 @@
       "id": "pv-pe-2025-0117",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "Cefaleia",
       "enunciado": "Um homem de 28 anos, previamente saudável e sem comorbidades, apresenta febre súbita (39°C), cefaleia intensa e difusa, fotofobia e náuseas há três dias. Relata que os sintomas começaram após uma viagem de trabalho com exposição a mudanças climáticas e locais fechados com ar-condicionado. Nega infecções respiratórias, sintomas urinários ou contato com doentes. Nega histórico de enxaqueca, trauma craniano ou doenças neurológicas na família. No exame físico, o paciente está alerta e orientado, com sinais vitais normais, exceto por leve taquicardia (FC 102 bpm). Apresenta rigidez de nuca, mas sem sinais neurológicos focais, alteração de consciência, rash ou manifestações cutâneas. Reflexos e demais exames neurológicos estão normais. Não apresenta histórico de imunossupressão ou uso de drogas ilícitas. Exames complementares: Hemograma: leucócitos de 8.000/mm³, com predomínio de linfócitos (linfocitose). Punção lombar (Líquor): aspecto límpido, proteínas de 45 mg/dL (referência: <45 mg/dL), glicose de 65 mg/dL (normoglicorraquia), predomínio de linfócitos (350 células/mm³), ausência de organismos ao Gram. Ressonância magnética de crânio (RM): sem alterações significativas ou sinais de lesões estruturais. Dado o quadro clínico e os exames complementares, qual é o manejo mais apropriado para esse paciente?",
       "alternativas": {
         "A": "Iniciar corticoterapia para controle de inflamação meníngea.",
@@ -21018,7 +21018,7 @@
       "id": "pv-mg-2025-0108",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "Cefaleia",
       "enunciado": "Mulher de 42 anos anos informa ter migrânea, manifestando aura de hemiplegia. Relata que tem apresentado duas crises por semana de cefaleia intensa, com limitação das atividades de vida. É portadora de dismenorreia e hipertensão arterial sistêmica. Faz uso de ciproterona/etinilestradiol e losartana. Para o controle das crises de cefaleia, faz uso de anti- inflamatório não esteroidal. Ao exame físico, PA 152/94mmHg; FC 68bpm. Sem anormalidades outras. Assinale a alternativa ERRADA em relação à prevenção de acidente vascular encefálico nessa paciente:",
       "alternativas": {
         "A": "Otimizar o controle pressórico da paciente",
@@ -21177,7 +21177,7 @@
       "id": "pv-amr-2024-0017",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Tuberculose",
+      "sub_subarea": "Hanseníase",
       "enunciado": "Assinale a alternativa que apresenta casos que se enquadram em situação de notificação compulsória imediata no Brasil.",
       "alternativas": {
         "A": "Tuberculose e leishmaniose visceral.",
@@ -21319,7 +21319,7 @@
       "id": "pv-ufr-2024-0131",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "",
+      "sub_subarea": "Lúpus",
       "enunciado": "Mulher, 37 anos, afrodescendente, sem comorbidades, apresenta agudamente lesões cutâneas tipo eritema nodoso nos membros inferiores e dores articulares. Radiografia do tórax: adenopatia hilar bilateral. Evolui com lesões cutâneas na face sugestivas de lúpus pérnio. Pode-se afirmar que esse quadro agudo é mais sugestivo de:",
       "alternativas": {
         "A": "síndrome de Löfgren associada a sarcoidose",
@@ -21365,7 +21365,7 @@
       "id": "pv-ufr-2025-0171",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "Mulher, 55 anos, com HAS e diabetes Mellitus (DM) mal controlados, apresentou quadro súbito de hemiparesia direita. A principal hipótese diagnóstica e a descrição da TC do crânio mais provável é:",
       "alternativas": {
         "A": "AVE isquêmico / hipodensidade corticossubcortical na região nucleocapsular esquerda",
@@ -21394,7 +21394,7 @@
       "id": "pv-uer-2024-0001",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "AVC",
       "enunciado": "O uso excessivo de medicamentos constitui risco à saúde de pessoas mais idosas com comorbidades crescentes, sendo provavelmente mais ameaçador do que as doenças para as quais os fármacos são prescritos. Sobre a abordagem da polifarmácia, é correto afirmar que:",
       "alternativas": {
         "A": "os fármacos para problemas cardiovasculares fazem parte da lista de drogas que podem aumentar o risco de reações adversas aos medicamentos em idosos.",
@@ -21417,7 +21417,7 @@
       "id": "pv-uer-2024-0005",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes",
       "enunciado": "Homem de 55 anos, casado, ex-tabagista, procura o serviço de saúde pela primeira vez para fazer um check-up. Comenta estar muito ansioso desde que soube que seu vizinho sofreu um infarto agudo do miocárdio. Refere história familiar de diabetes, hipertensão arterial e gota. Nega sintomas de prostatismo ou de outra enfermidade. O exame físico é normal, com exceção do IMC = 33. Quanto à prevenção de doenças, as medidas recomendadas como condutas necessárias para rastreamento nesse caso, embasadas no impacto de morbimortalidade, são:",
       "alternativas": {
         "A": "colesterol total e frações, glicemia de jejum e teste ergométrico.",
@@ -21521,7 +21521,7 @@
       "id": "pv-uer-2025-0113",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Anemias",
+      "sub_subarea": "Coagulação",
       "enunciado": "Uma mulher de 32 anos, sem comorbidades conhecidas, procura a ginecologia por aumento de volume menstrual. Relata que sua menstruação ocorre de forma regular, mas com fluxo e duração aumentados, desde a menarca, aos 15 anos. À anamnese dirigida, refere episódios ocasionais de epistaxe e surgimento de hematomas não provocados pelo corpo desde a adolescência. Exames laboratoriais evidenciam anemia e plaquetopenia leves, tempo de atividade da protrombina (TAP) normal e tempo de tromboplastina parcial ativada (PTT) alargado. O diagnóstico mais provável, nesse caso, é:",
       "alternativas": {
         "A": "hemofilia A",
@@ -21630,7 +21630,7 @@
       "id": "pv-uer-2025-0196",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "sub_subarea": "Tireoide",
       "enunciado": "Mulher de 60 anos, com hipertensão controlada e obesidade, chega para consulta. Ela é ex- tabagista (20 maços-ano) há 25 anos e não apresenta outras queixas. Entre as diretrizes atuais de rastreamento com base em evidências científicas, a recomendação adequada para o caso é:",
       "alternativas": {
         "A": "realizar rastreamento para câncer de pulmão, com tomografia computadorizada de baixa dose, por conta do histórico de tabagismo e pela idade",
@@ -21661,7 +21661,7 @@
       "id": "pv-uer-2025-0198",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "O médico de família e comunidade está habilitado para lidar com a ambiguidade e a incerteza, em geral tendo de tomar decisões e realizar manejos e tratamentos sem ter a certeza diagnóstica. Em geral, as pessoas que se apresentam para atendimento na atenção primária têm diversas queixas e mais de três problemas de saúde. Em relação às demandas de saúde nesse cenário, os problemas mais frequentes são:",
       "alternativas": {
         "A": "ausência de doença, depressão e hipotireoidismo",
@@ -21762,7 +21762,7 @@
       "id": "pv-hcp-2025-0103",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes",
       "enunciado": "Paciente feminina, de 55 anos, veio à UBS para revisão do controle da pressão arterial e da dislipidemia. Com história de hipertensão desde os 45 anos, vinha em uso de enalapril (20 mg, 2 vezes/dia), hidroclorotiazida (25 mg/dia) e atorvastatina (40 mg/dia). Negou outras comorbidades. O exame físico indicou peso de 86 kg, altura de 156 cm e pressão arterial 128/78 mmHg; demais aspectos sem particularidades. Trouxe resultados de exames recentes, semelhantes aos anteriores: glicemia de 98 mg/dl, HbA1c de 5,6%, creatinina de 1,5 mg/dl (TFG de 42 ml/min/1,73 m²), albuminúria em amostra de 56 mg/l, colesterol total de 156 mg/dl, HDL de 38 mg/dl e triglicerídios de 152 mg/dl. Com base nos dados clínicos e laboratoriais, qual a conduta mais adequada?",
       "alternativas": {
         "A": "Recomendar apenas modificação de estilo de vida.",
@@ -21814,7 +21814,7 @@
       "id": "pv-hcp-2025-0172",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Obesidade",
+      "sub_subarea": "Diabetes",
       "enunciado": "Paciente feminina, de 52 anos, com hipertensão arterial sistêmica (em tratamento com hidroclorotiazida e enalapril) e dislipidemia (em tratamento com atorvastatina), trouxe à consulta resultados de exames laboratoriais de rotina, que identificaram elevação de aminotransferases (AST de 59 U/l e ALT de 74 U/l), glicemia de jejum de 184 de mg/dl, HbA1c de 6,1%, ferritina de 483 ng/ml, além de ultrassonografia abdominal, que revelou esteatose hepática moderada. Não tinha história de consumo de álcool, e as sorologias para hepatites B e C foram negativas. Estava assintomática. Ao exame físico, apresentava pressão arterial de 142/94 mmHg, circunferência abdominal de 102 cm, peso de 89 kg, altura de 165 cm (IMC de 32 kg/m2 ), abdômen globoso e hepatimetria de 14 cm na linha hemiclavicular. Com base no quadro, assinale a assertiva correta sobre MASLD (Metabolic disfunction-associated steatotic liver disease).",
       "alternativas": {
         "A": "Hiperferritinemia leve é incomum, devendo-se considerar hemocromatose hereditária o diagnóstico mais provável.",
@@ -22112,7 +22112,7 @@
       "id": "pv-uni-2024-0036",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes",
       "enunciado": "Mulher, 82 anos de idade, tem diagnóstico de diabetes, hipertensão arterial, hipotiroidismo e artrose de joelhos. Filha refere lapsos de memória eventuais. Faz uso de levotiroxina (75 mcg/dia), losartana (100 mg/dia), hidroclorotiazida (25 mg/dia), gliclazida (60 mg/dia) e insulina NPH (20 UI pela manhã e 16 UI ao deitar). Ganhou 2 kg desde a última consulta. Trouxe controles de PA nos limites da normalidade. Exames laboratoriais: TSH = 5,4 μUI/mL, glicemia de jejum = 84 mg/dL e HbA1c = 5,9%. Qual é a conduta mais apropriada e sua justificativa?",
       "alternativas": {
         "A": "Manter conduta, pois os exames revelam controle terapêutico adequado.",
@@ -22337,7 +22337,7 @@
       "id": "pv-sír-2024-0068",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Pancreatite",
       "enunciado": "Paciente masculino, 65 anos, com quadro de síndrome consumptiva há meses, refere perda de peso de 6 kg nos últimos 30 dias e piora da anorexia há 15 dias. Admitido no pronto- socorro por melena (Hb: 4,7g/dL), recebendo 4 concentrados de hemácias. No exame clínico apresentava-se descorado em REG, PA: 110 x 70 mmHg. FC: 90 bpm, abdome tenso, doloroso à palpação, com descompressão brusca positiva, toque retal sem sinais de sangramento. Laboratorial: Hb: 8,1 g/dL, leucograma: 15.660/mm³, PCR: 72, Cr: 1,03 mg/dL e lipase: 24 U/L. Foi submetido a uma tomografia, cujas imagens estão mostradas abaixo: Dentre os diagnósticos abaixo, o mais provável é:",
       "alternativas": {
         "A": "Neuroendócrino pancreático.",
@@ -22439,7 +22439,7 @@
       "id": "pv-sír-2024-0093",
       "area": "Clínica Médica",
       "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "sub_subarea": "Intoxicação",
       "enunciado": "Homem, 45 anos de idade, é levado ao pronto-socorro por hiporexia, náuseas e desconforto abdominal em hipocôndrio direito há 1 semana, evoluindo com \"\"amarelidão\"\" e febre há 3 dias. Etilista importante desde os 20 anos com última intoxicação alcoólica há 15 dias. Nega comorbidades e uso de outras substâncias. Nega relações sexuais desprotegidas no último ano. Ao exame físico, os sinais vitais estão normais, apresenta icterícia em escleras e frênulo lingual. O abdome está globoso, RHA presentes, flácido, doloroso à palpação de hipocôndrio direito com fígado palpável 3 cm abaixo do rebordo costal direito, sem sinais de peritonite. O restante do exame físico está normal. Realizou teste rápido para hepatites virais, todos não reagentes. Uma vez que o quadro do paciente foi classificado como grave, entre as opções de tratamento abaixo, a melhor é:",
       "alternativas": {
         "A": "Pentoxifilina.",
@@ -22463,7 +22463,7 @@
       "id": "pv-sír-2024-0094",
       "area": "Clínica Médica",
       "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "sub_subarea": "Intoxicação",
       "enunciado": "Homem, 45 anos de idade, é levado ao pronto-socorro por hiporexia, náuseas e desconforto abdominal em hipocôndrio direito há 1 semana, evoluindo com \"\"amarelidão\"\" e febre há 3 dias. Etilista importante desde os 20 anos com última intoxicação alcoólica há 15 dias. Nega comorbidades e uso de outras substâncias. Nega relações sexuais desprotegidas no último ano. Ao exame físico, os sinais vitais estão normais, apresenta icterícia em escleras e frênulo lingual. O abdome está globoso, RHA presentes, flácido, doloroso à palpação de hipocôndrio direito com fígado palpável 3 cm abaixo do rebordo costal direito, sem sinais de peritonite. O restante do exame físico está normal. Realizou teste rápido para hepatites virais, todos não reagentes. Considerando o caso clínico, entre as opções abaixo, o padrão laboratorial mais provável para este paciente é:",
       "alternativas": {
         "A": "Aumento de TGO e TGP com relação TGO/TGP < 1.",
@@ -22566,7 +22566,7 @@
       "id": "pv-hia-2024-0002",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes",
       "enunciado": "Sr. Antônio, 62 anos, portador de hipertensão arterial e diabetes mellitus tipo 2 há 20 anos, vai à primeira consulta em UBS após ter mudado de município. Traz a última receita que segue há 3 anos sem modificações e os resultados dos últimos exames laboratoriais, realizados há 40 dias. Está assintomático, não fuma e não tem outras comorbidades. Os medicamentos em uso são: Hidroclorotiazida 25 mg por dia, Enalapril 40 mg por dia, Metformina 2.550 mg por dia e Rosuvastatina 40 mg por dia. Exame físico: Peso: 95 kg, Altura: 1,72 m, IMC: 31,4 kg/m², PA: 135 x 85 mmHg. Exames: Glicemia: 128 g/dL, HbA1c: 7,5%, Colesterol total: 200 mg/dL, HDL: 46 mg/dL, Triglicérides: 160 mg/dL. Creatinina: 1,8 mg/dL (taxa de filtração glomerular calculada por Cockroft-Gault 57 ,2 mL/min), Albuminúria: 12 mg/L. De acordo com as recomendações da Sociedade Brasileira de Diabetes de 2023, a melhor proposta terapêutica, dentre as abaixo, neste caso é:",
       "alternativas": {
         "A": "suspender Rosuvastatina e iniciar agonista do receptor GLP1.",
@@ -22732,7 +22732,7 @@
       "id": "pv-df-2024-0004",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hipertensão",
       "enunciado": "A respeito do Programa Aqui tem Farmácia Popular, assinale a alternativa correta.",
       "alternativas": {
         "A": "Consiste no fornecimento de medicamentos em unidades de farmácias próprias.",
@@ -22755,7 +22755,7 @@
       "id": "pv-df-2024-0015",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Meningites",
+      "sub_subarea": "Dengue",
       "enunciado": "Assinale a alternativa correspondente a ocorrências que fazem parte da Lista Nacional de Notificação Compulsória Imediata.",
       "alternativas": {
         "A": "Acidente de trabalho, doença de Chagas crônica, óbito por dengue",
@@ -22815,7 +22815,7 @@
       "id": "pv-df-2025-0128",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "TEP",
       "enunciado": "Acerca da profilaxia de tromboembolismo venoso (TEV) em pacientes internados, assinale a alternativa correta.",
       "alternativas": {
         "A": "A profilaxia mecânica é mais eficaz do que a farmacológica em pacientes com alto risco de sangramento.",
@@ -22948,7 +22948,7 @@
       "id": "pv-ba-2025-0048",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes",
       "enunciado": "Homem, 48 anos de idade, com histórico de hipertensão arterial controlada e sobrepeso, apresenta queixa de fadiga persistente, dificuldade de concentração e insônia há 6 meses. Ele também relata episódios de ansiedade e tristeza que afetam suas atividades diárias. O paciente é avaliado na UBS e, após investigação, é diagnosticado com transtorno depressivo maior. Iniciado tratamento com antidepressivo. Após 2 meses, ele retorna, relatando melhora parcial dos sintomas, mas continua apresentando fadiga e insônia. Ele também menciona aumento de peso desde o início do tratamento, apesar de manter os mesmos hábitos alimentares. Não há histórico de abuso de substâncias, e os sinais vitais estão normais. A comorbidade, dentre as abaixo, que mais provavelmente poderia estar associada à refratariedade dos sintomas",
       "alternativas": {
         "A": "Hipotireoidismo.",
@@ -22970,7 +22970,7 @@
       "id": "pv-ba-2025-0083",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Tuberculose",
       "enunciado": "Homem de 38 anos de idade, há três meses começou a apresentar tosse persistente, inicialmente seca, mas que evoluiu para tosse produtiva, com escarro amarelado. Refere perda 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 194/269 de peso de cerca de 8kg e fadiga, febre baixa predominante à tarde. É morador de comunidade em periferia urbana. Vive em uma casa pequena, e divide o espaço com quatro familiares, incluindo duas crianças pequenas. Nenhum dos familiares apresenta sintomas no momento, mas todos convivem em contato próximo. Ao exame, apresentase emagrecido. Mucosas hipocrômicas. FR: 24ipm, PR: 91bpm, Temp: 36,8ºC. Sem linfonodos cervicais e axilares patológicos. Ap resp: presença de crépitos e roncos que se intensificam pós tosse em terço superior de pulmão direito. O paciente relata que trabalha como pedreiro, mas tem se sentido muito cansado e, muitas vezes, falta ao trabalho devido aos sintomas. Os filhos menores deste paciente foram vacinados contra BCG. Quanto a esta vacinação, é correto afirmar que protege contra:",
       "alternativas": {
         "A": "Meningite por tuberculose e tuberculose miliar.",

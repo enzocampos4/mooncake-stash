@@ -196,7 +196,7 @@
       "id": "pv-ufr-2025-0222",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Mama",
       "enunciado": "Mulher, 63 anos, notou, há 2 meses, um nódulo em mama direita que nunca havia palpado antes. Exame físico: mamas de médio volume; nódulo de 2cm em quadrante superior externo (QSE) da mama direita, indolor, pouco móvel e de consistência endurecida; axilas sem linfonodopatias palpáveis. Mamografia de alta resolução: nódulo espiculado de 2cm no QSE da mama direita (categoria BIRADS 5). Core biópsia do nódulo: compatível com carcinoma ductal infiltrante de mama, com receptores fortemente positivos para estrogênio e progesterona, baixo índice de proliferação celular e grau histológico 1. Indicada a quadrantectomia de mama direita com pesquisa de linfonodo sentinela. Além do procedimento cirúrgico, pode-se afirmar que está indicado obrigatoriamente:",
       "alternativas": {
         "A": "nenhum tratamento complementar",
@@ -1473,7 +1473,7 @@
       "id": "pv-pe-2024-0043",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Mama",
       "enunciado": "Paciente de 25 anos procura ambulatório de ginecologia por apresentar nódulo mamário mal definido e endurecido, percebido durante o autoexame. Chama a atenção na anamnese a história de queda de bicicleta há dois meses, quando apresentou equimose e hematoma na mama esquerda, produzido pelo impacto com o guidão. De acordo com o quadro acima, qual o provável diagnóstico?",
       "alternativas": {
         "A": "Cisto simples",
@@ -1506,7 +1506,7 @@
       "id": "pv-pe-2024-0047",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Mulher de 30 anos, G2P2, assintomática, procura o ambulatório de ginecologia para mostrar o resultado do exame de Papanicolau realizado há três semanas. O resultado revela cândida sp, lactobacllus e cocos. Diante do achado acima, qual a melhor conduta?",
       "alternativas": {
         "A": "Independente dos sintomas, os microrganismos possuem importância prognóstica, e a paciente deve ser tratada.",
@@ -1591,7 +1591,7 @@
       "id": "pv-mg-2024-0050",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Paciente de 22 anos, G1A1, retorna à consulta ginecológica trazendo resultado de exame citológico coletado há um mês. Relata bastante preocupação, pois o resultado evidencia processo inflamatório compatível com infeção pelo vírus papiloma humano (HPV) e lesão intraepitelial escamosa de baixo grau (LSIL). Nega ter sido vacinada para HPV. Não tem parceria fixa e faz uso de contraceptivo hormonal combinado oral. Afirma uso irregular de preservativos. Conforme diretriz do Ministério da Saúde, a conduta MAIS INDICADA para esta paciente é:",
       "alternativas": {
         "A": "Encaminhar para realização de colposcopia.",
@@ -1620,7 +1620,7 @@
       "id": "pv-mg-2024-0054",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Paciente de 37 anos, nulípara, comparece para atendimento ginecológico de rotina. Faz uso de DIU T de cobre 380A como contraceptivo. Vive com HIV, em tratamento com terapia antirretroviral de alta atividade, com carga viral indetectável e CD4 > 1.000células/mm³. Solicita orientações sobre vacina contra HPV. Já fez uso de duas doses da vacina quadrivalente contra HPV, na unidade básica de saúde, sendo a segunda dose há um ano. A orientação CORRETA a ser dada à paciente é:",
       "alternativas": {
         "A": "Deve ser aplicada dose de reforço cinco anos após a segunda dose administrada.",
@@ -2006,7 +2006,7 @@
       "id": "pv-ufr-2025-0226",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Mulher, 36 anos, com dispositivo intrauterino (DIU) de levonorgestrel há 3 anos, queixa-se de dor abdominal em baixo ventre e febre (38,2ºC), há 1 dia. Refere ser sexualmente ativa e diz estar bem adaptada ao DIU. Exame físico: FC = 86bpm; temperatura axilar = 37,8ºC; hidratada; corada; abdome flácido, peristáltico, doloroso à palpação do hipogástrio, sem sinais de descompressão dolorosa. Exame especular: conteúdo vaginal fisiológico; colo uterino sem lesões aparentes; fios do DIU visualizados; conteúdo cervical mucopurulento. Toque vaginal: colo doloroso à mobilização; anexos dolorosos, porém impalpáveis. Conforme o “Manual de Planejamento Familiar” de 2022, da OMS, a conduta mais adequada é:",
       "alternativas": {
         "A": "antibioticoterapia para doença inflamatória pélvica; retirar o DIU; lavagem da cavidade uterina",
@@ -2173,7 +2173,7 @@
       "id": "pv-uer-2025-0157",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Infertilidade",
       "enunciado": "Paciente de 28 anos, primigesta, com sete semanas pela DUM, é atendida na emergência com quadro de sangramento vaginal de pequena intensidade, iniciado há uma semana e associado à dor pélvica. Refere tratamento para infertilidade, tendo feito indução de ovulação para essa gestação. Ao exame obstétrico, está normocorada, hidratada, anictérica, acianótica, com PA = 100x60mmHg e FC = 72bpm; verifica-se abdômen flácido, peristáltico e sem sinais de irritação peritoneal; toque vaginal revela útero intrapélvico, doloroso à mobilização, sem massas palpáveis. A paciente realizou ultrassonografia transvaginal por indicação do seu obstetra após início do sangramento, procedimento que não identificou saco gestacional intrauterino ou massa anexial, nem líquido em fundo de saco posterior. Nesse caso, a principal hipótese diagnóstica é reforçada pelo(a):",
       "alternativas": {
         "A": "culdocentese negativa",
@@ -2204,7 +2204,7 @@
       "id": "pv-hcp-2025-0137",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Assinale a assertiva correta sobre a contracepção.",
       "alternativas": {
         "A": "Durante o puerpério e a amamentação, a contracepção de emergência (1,5 mg de levonorgestrel, em dose única, usado em caso de falha da contracepção usual) está contraindicada, mesmo para pacientes sem comorbidades.",
@@ -2227,7 +2227,7 @@
       "id": "pv-hcp-2025-0174",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Menopausa",
       "enunciado": "Paciente feminina, de 73 anos, veio à consulta de rotina queixando-se de dor lombar, iniciada há aproximadamente 2 semanas após uma queda da própria altura em casa. Relatou fazer atividade física regularmente e tentar manter hábitos de vida saudáveis, tendo como base uma dieta vegana. Não havia história de fraturas prévias. A menopausa ocorrera aos 43 anos, sem uso de terapia de reposição hormonal. Submetia-se a tratamento para câncer de mama com inibidor de aromatase há 2 anos e negou uso de outros medicamentos. Trouxe raio X de coluna recente, evidenciando fratura moderada de T12 e L1. Diante do quadro, qual a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Solicitar densitometria óssea para confirmar o diagnóstico de osteoporose.",
@@ -2840,7 +2840,7 @@
       "id": "pv-uni-2025-0173",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Infertilidade",
       "enunciado": "Um casal formado por um homem de 28 anos de idade e uma mulher nuligesta de 27 anos idade, refere 2 anos de tentativas de gestação. Ele, com histórico de uretrite tratada, exame físico sem alterações e espermograma normal. Ela, saudável, com ciclos menstruais regulares, sem queixas de dismenorreia ou dispareunia e com exame físico sem alterações. Qual é o próximo exame na investigação da infertilidade desse casal?",
       "alternativas": {
         "A": "Avaliação hormonal para ele.",
@@ -3215,7 +3215,7 @@
       "id": "pv-df-2024-0036",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "A citologia cervicovaginal é um método bastante eficaz na detecção de lesões precursoras de câncer de colo uterino. De acordo com as diretrizes do Ministério da Saúde, assinale a alternativa correta.",
       "alternativas": {
         "A": "As pacientes abaixo de 25 anos de idade devem iniciar o rastreio com citologia anual tão logo se inicie a atividade sexual.",
@@ -3246,7 +3246,7 @@
       "id": "pv-df-2024-0040",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Menopausa",
       "enunciado": "Nas pacientes climatéricas, com sintomas vasomotores associados a contraindicações ao uso de terapias de reposição hormonal, como o câncer de mama, a terapia com outras medicações torna-se importante. A respeito do assunto, assinale a alternativa correta.",
       "alternativas": {
         "A": "Nas pacientes com hipoestrogenismo vaginal, cremes à base de estradiol podem ser utilizados, mesmo nas pacientes com câncer de mama com receptores positivos.",
@@ -3454,7 +3454,7 @@
       "id": "pv-ena-2024-0028",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Ovário",
       "enunciado": "Diversos fatores de risco genéticos, ambientais e reprodutivos foram associados ao desenvolvimento do câncer de ovário, sendo que cerca de 5 a 10% das pacientes apresentam predisposição genética. Nas outras 90 a 95% sem qualquer conexão genética identificável para o desenvolvimento do câncer, a maioria dos fatores de risco está relacionada com o padrão de ciclos ovulatórios durante os anos reprodutivos. Sobre esse tema, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "Os carcinomas epiteliais ovarianos representam entre 90 e 95% dos casos, incluindo os tumores mais indolentes com baixo potencial de malignidade.",
@@ -3522,7 +3522,7 @@
       "id": "pv-ena-2025-0160",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Um escolar de 10 anos apresenta queixa de cansaço, dores nas pernas que o acordam durante a noite e emagrecimento de 2 kg no último mês. Apresenta as seguintes alterações ao exame físico: palidez cutâneo-mucosa 3+/4+, sopro sistólico 2+/6+ em bordo esternal esquerdo, taquicardia (FC = 120 bpm), fígado a 2,5 cm do RCD, ponta de baço palpável, dor à palpação do terço proximal da tíbia bilateralmente e petéquias esparsas em membros. O quadro clínico é sugestivo de:",
       "alternativas": {
         "A": "anemia falciforme;",
@@ -3552,7 +3552,7 @@
       "id": "pv-ena-2025-0166",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Paciente de 32 anos foi à consulta ginecológica de rotina para realização de colpocitologia oncótica. O exame evidenciou agrupamento de células escamosas com núcleos aumentados, hipercrômicos e irregulares, com alta relação núcleo-citoplasmática sugestiva de lesão intraepitelial de alto grau. Como a amostra foi coletada em meio líquido, foi solicitado teste de HPV, que veio positivo para o subtipo 16. Frente a essas informações, é correto afirmar que:",
       "alternativas": {
         "A": "se trata de exame normal, com seguimento em 3 anos;",
@@ -3582,7 +3582,7 @@
       "id": "pv-ena-2025-0170",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Mioma/Endometriose",
       "enunciado": "Uma mulher de 63 anos, portadora de diabetes mellitus e hipertensão arterial sistêmica controlada, encontra-se em menopausa há 10 anos. Comparece ao ginecologista com queixas de sangramento vaginal há 3 meses. O exame físico não apresenta alterações aparentes ou sinais de sangramento ativo no momento. É realizada uma ultrassonografia transvaginal, que evidencia endométrio com 3 mm de espessura, com imagem ecogênica focal que ocupa a interface entre os folhetos endometriais e mede 5 mm no maior eixo. A causa mais provável do sangramento nesse caso é:",
       "alternativas": {
         "A": "adenomiose;",
@@ -3644,7 +3644,7 @@
       "id": "pv-ena-2025-0179",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Uma gestante de 38 anos, secundigesta e cardiopata, chega à emergência referindo cólicas intensas, sangramento vaginal em grande quantidade e sangue vivo. A idade gestacional, estabelecida pela ultrassonografia transvaginal realizada com 6 semanas, é de 9 semanas e 3 dias. Ao exame, o útero encontra-se aumentado de volume, amolecido, com colo entreaberto e saída de material ovular identificada no exame especular. A ultrassonografia mostra a presença de restos ovulares em grande quantidade. Diante desse quadro, a conduta deve ser:",
       "alternativas": {
         "A": "esvaziamento uterino por aspiração a vácuo ou curetagem;",
@@ -3676,7 +3676,7 @@
       "id": "pv-pe-2024-0086",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Uma paciente de 38 anos queixa-se de fadiga vespertina, episódios recorrentes de diplopia e, às vezes, ptose palpebral. Qual o diagnóstico mais provável?",
       "alternativas": {
         "A": "Polimialgia reumática",
@@ -3700,7 +3700,7 @@
       "id": "pv-pe-2024-0089",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Mama",
       "enunciado": "Uma paciente de 85 anos, cujas únicas comorbidades são diabetes e hipertensão arterial leves, procura o médico para consulta de rotina. Qual das medidas abaixo seria adequada para o caso?",
       "alternativas": {
         "A": "Solicitar colonoscopia para screening de câncer colorretal",
@@ -3724,7 +3724,7 @@
       "id": "pv-pe-2024-0097",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "À ausculta cardíaca, um paciente apresenta um sopro sistólico de grande intensidade, audível em quase os focos. Com relação às manobras que podem ser utilizadas para a determinação da origem do sopro, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "O aumento da intensidade do sopro durante a inspiração profunda (manobra de Rivero Carvalho) sugere que o sopro tem origem nas válvulas do coração esquerdo.",
@@ -3808,7 +3808,7 @@
       "id": "pv-pe-2025-0156",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Infertilidade",
       "enunciado": "Paciente 28 anos em investigação de infertilidade. Na propedêutica complementar em diagnóstico por imagem, foi realizada uma histerossalpingografia. Assinale a alternativa que identifica o fator causal pesquisado e o resultado da prova de Cotte.",
       "alternativas": {
         "A": "Fator uterino cervical e prova de Cotte negativa.",
@@ -3903,7 +3903,7 @@
       "id": "pv-mg-2024-0038",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Menopausa",
       "enunciado": "Na vida da mulher, a transição entre o estágio reprodutivo e o não reprodutivo é denominada climatério. Nessa fase, as mulheres apresentam inúmeras necessidades de prevenção de doenças e de promoção de saúde, e os médicos devem estar atentos a uma série de condutas direcionadas à otimização da qualidade de vida. Das recomendações abaixo, qual NÃO É indicada para o climatério?",
       "alternativas": {
         "A": "A solicitação de ultrassonografia pélvica e transvaginal para mulheres (de risco habitual) mesmo sem sinais ou sintomas sugestivos de doença demonstra boa relação custo- benefício.",
@@ -3926,7 +3926,7 @@
       "id": "pv-mg-2024-0060",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Paciente, 29 anos, é trazida ao atendimento de urgência por autoridades policiais. A paciente relata ter sido agredida sexualmente quanto voltava do trabalho. Chorosa e confusa, refere ter sido forçada a praticar sexo oral e coito vaginal. Não sabe dizer se o agressor usou preservativos. Nega doenças ou uso de medicamentos regulares. Ciclos menstruais regulares e é usuária de DIU T de cobre há cinco anos. Após acolhimento inicial, é levada para realização de exames laboratoriais e abordagem terapêutica. Sobre a assistência à paciente na urgência, é CORRETO afirmar que:",
       "alternativas": {
         "A": "Está indicado o uso de antirretrovirais por 60 dias.",
@@ -3959,7 +3959,7 @@
       "id": "pv-mg-2025-0089",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Mioma/Endometriose",
       "enunciado": "Assinale a alternativa CORRETA quanto ao período de transição menopáusica.",
       "alternativas": {
         "A": "Durante a fase inicial de transição menopáusica, os níveis de progesterona são mais baixos quando comparados aos de mulheres na meia idade reprodutiva. Entretanto, os níveis de testosterona não variam significativamente",
@@ -3982,7 +3982,7 @@
       "id": "pv-mg-2025-0104",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "As vacinas foram inicialmente desenvolvidas contra infecções muito graves com grande morbimortalidade por doença aguda. Como as doenças não transmissíveis, incluindo o câncer, se tornaram as causas mais frequentes de morte nos países industrializados e em alguns países em desenvolvimento, as vacinas também estão sendo usadas para evitá-las quando os agentes infecciosos estão envolvidos na carcinogênese. São exemplos de vacinas que LEVAM SECUNDARIAMENTE À PROTEÇÃO contra o câncer:",
       "alternativas": {
         "A": "Vacina inativada para poliomielite - VIP e vacina oral do rotavírus humano.",
@@ -4011,7 +4011,7 @@
       "id": "pv-mg-2025-0119",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Homem de 89 anos é levado pelos familiares para consulta com a queixa de perda de memória, como dificuldade de concentração e esquecimento de alguns nomes de pessoas e de algumas palavras. Apresenta insônia, vários despertares noturnos, noctúria e sonolência diurna. O exame físico não apresenta anormalidades. O miniexame do estado mental revela pontuação 21, considerada baixa para a escolaridade (ensino superior). EXAMES DE LABORATÓRIO: vitamina B12 387pg/mL; TSH 8,8mcUI/mL; T4 livre 1,3ng/dL; sorologia para Treponema pallidum lgG reagente; anti-HIV não reagente. Assinale, entre as abaixo, a conduta inicial INADEQUADA em relação ao manejo das queixas cognitivas nesse paciente:",
       "alternativas": {
         "A": "Prescrever inibidor da colinesterase.",
@@ -4040,7 +4040,7 @@
       "id": "pv-amr-2025-0115",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Menopausa",
       "enunciado": "Em relação à osteoporose, analise as assertivas a seguir: I. O raloxifeno está aprovado para prevenção e tratamento da osteoporose da coluna vertebral em mulheres na pós-menopausa, sem sintomas climatéricos, promovendo redução significante de fraturas vertebrais, sem impacto na redução de outras fraturas. II. Pacientes com T-score igual ou menor do que -2,5 DP na coluna lombar, colo femoral, fêmur total ou rádio 33% devem ser considerados para terapia farmacológica. III. O tratamento com altas doses de vitamina D (dose superior a 50.000 UI por semana) é recomendado para todas as mulheres em pós-menopausa, independentemente do nível sérico de vitamina D e do histórico de fraturas. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -4071,7 +4071,7 @@
       "id": "pv-amr-2025-0144",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Menopausa",
       "enunciado": "São opções terapêuticas para os sintomas vasomotores da síndrome climatérica: I. Modificações de estilo de vida: roupas leves, temperatura ambiente mais baixa e não fumar. II. Terapia de reposição hormonal sistêmica. III. Uso de inibidores seletivos da recaptação de serotonina e inibidores seletivos de recaptação da serotonina e noradrenalina. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I.",
@@ -4175,7 +4175,7 @@
       "id": "pv-amr-2025-0185",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Vilmar, 62 anos, com hipertensão arterial sistêmica, diabético e com história de depressão, vem à consulta na Unidade de Saúde queixando-se de edema em ambos os tornozelos. Qual das medicações de uso contínuo utilizada pelo paciente é a causa mais provável do edema perimaleolar?",
       "alternativas": {
         "A": "Losartana.",
@@ -4198,7 +4198,7 @@
       "id": "pv-ufr-2024-0080",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Menopausa",
       "enunciado": "Mulher, 65 anos, menopausa aos 43 anos, peso = 60kg, altura = 160cm, é tabagista de longa data e ingere 3 drinques/dia. Densitometria óssea: menor T-score no colo do fêmur, medindo -1,6 desvios padrão. O cálculo do índice FRAX revelou risco de fraturas maiores de 4,8% e no quadril 1,8% nos próximos 10 anos. A principal hipótese diagnóstica e as medidas terapêuticas mais adequadas são:",
       "alternativas": {
         "A": "osteopenia/mudanças de estilo de vida; reposição de vitamina D",
@@ -4236,7 +4236,7 @@
       "id": "pv-ufr-2025-0167",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Em relação à insuficiência cardíaca, pode-se afirmar que é possível se observar:",
       "alternativas": {
         "A": "aumento no fluxo sanguíneo renal",
@@ -4259,7 +4259,7 @@
       "id": "pv-ufr-2025-0245",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Menino, 8 anos, vítima de politraumatismo, com hemorragia intraparenquimatosa e edema cerebral, sem sinais clínicos de hipertensão intracraniana, é internado em Unidade Intensiva Pediátrica após colocação de cateter de monitorização de pressão intracraniana e intubação orotraqueal. No momento, apresenta pressão arterial (PA) sistólica menor que o percentil 5% para idade, taquicardia, pupilas isocóricas e fotorreagentes, pressão intracraniana = 18mmHg. Pode-se afirmar que, visando a neuroproteção, a abordagem terapêutica inicial mais adequada é:",
       "alternativas": {
         "A": "iniciar vasopressina para se atingir PA sistólica > que o percentil 95% para a idade",
@@ -4282,7 +4282,7 @@
       "id": "pv-ufr-2025-0272",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Menina, 14 anos comparece a UBS e apresenta a Caderneta de Vacinação a seguir. Pode-se afirmar que, de acordo com o Programa Nacional de Imunizações do Ministério da Saúde do Brasil, ela deve ser orientada adicionalmente a receber as vacinas:",
       "alternativas": {
         "A": "pneumo 23; MeningoACWY; DTP; hepatite A",
@@ -4347,7 +4347,7 @@
       "id": "pv-uer-2024-0084",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Paciente com síndrome de imunodeficiência do adulto (SIDA) e sem histórico de tratamento inicia, concomitantemente ao diagnóstico da doença retroviral, quadro de febre, cefaleia e diplopia. No exame físico, apresenta rigidez de nuca e alteração do III e VI pares cranianos. O líquor apresenta pleocitose mononuclear, proteína aumentada, glicose baixa e GeneXpert positivo. Segundo o Ministério da Saúde (2019), nesse caso, a conduta mais adequada é iniciar:",
       "alternativas": {
         "A": "RIPE e esquema antirretroviral concomitante",
@@ -4370,7 +4370,7 @@
       "id": "pv-uer-2024-0087",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "No consultório, durante conversa do médico com um paciente diabético, é descrita uma opção terapêutica que tem como benefício ação diurética e redução de peso, mas não tem relação com resistência à insulina. Entretanto, tal medicação é menos potente na redução da hemoglobina glicada se comparada ao grupo das sulfonilureias. A droga que apresenta essas manifestações de forma bem definida é a:",
       "alternativas": {
         "A": "sitagliptina",
@@ -4424,7 +4424,7 @@
       "id": "pv-uer-2025-0106",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Homem de 55 anos, com índice de massa corporal (IMC) = 31kg/m², evoluiu com elevação da pressão arterial nos últimos anos. Seu nível tensional em aferições repetidas era de 150x105mmHg. O clearance de creatinina estimado era de 55mL/min e não havia sinais de falência cardíaca. O paciente tem história de tabagismo e asma brônquica bem controlada, em uso de beclometasona e formoterol. A melhor opção terapêutica será feita com:",
       "alternativas": {
         "A": "clonidina e hidroclorotiazida",
@@ -4447,7 +4447,7 @@
       "id": "pv-uer-2025-0146",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Mioma/Endometriose",
       "enunciado": "Uma mulher de 34 anos, com desejo de gestar, apresenta um exame de imagem cujo laudo refere mioma tipo 7 pela classificação da FIGO. O tipo de mioma e uma possível indicação terapêutica nesse caso, respectivamente, são:",
       "alternativas": {
         "A": "submucoso pediculado / miomectomia histeroscópica",
@@ -4481,7 +4481,7 @@
       "id": "pv-hcp-2024-0030",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Paciente feminina, de 48 anos, procurou a Emergência com queixa de cansaço progressivo há 3 semanas, com agravamento há 7 dias. Referiu não ter ido trabalhar por sentir-se extremamente cansada, até mesmo para ir ao banheiro, com a sensação de coração acelerado. Negou a ocorrência de qualquer tipo de sangramento nas últimas semanas ou de modificações na menstruação (fluxo normal, com duração, em média, de 3-5 dias), que ocorrera antes do início dos sintomas de cansaço (deve menstruar em breve). Sem histórico de problemas de saúde, não fazia uso crônico de medicamentos. Trouxe hemograma, realizado há 90 dias em avaliação ginecológica de rotina, com resultados normais. Ao exame físico por ocasião da admissão, apresentava palidez, taquicardia e sopro sistólico 2+/6+, audível em todos os focos, mas não se detectou sangramento oculto. Exames laboratoriais revelaram hemoglobina de 5,0 g/dl (valores de referência - VR: 11,7-14,9 g/dl), leucócitos totais com diferencial normal, plaquetas normais, VCM de 90 fl (VR: 83-96 fl), RDW de 15,5% (VR: 11,8-14,2%) e reticulócitos de 300.000/mm³ (VR: 30.000-100.000/mm³). Hematoscopia indicou policromatofilia e anisocitose. Os achados do hemograma e a contagem dos reticulócitos sugerem",
       "alternativas": {
         "A": "anemia microcítica provavelmente por ferropenia secundária à menstruação.",
@@ -4504,7 +4504,7 @@
       "id": "pv-hcp-2025-0135",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Paciente de 40 anos, G1P1, veio ao Posto de Saúde para realizar exame citopatológico (CP) de colo de útero. O exame não era realizado há 4 anos. Negou diagnóstico prévio de HPV e informou não ter feito a vacina. Qual a conduta mais adequada com base no exame especular reproduzido abaixo?",
       "alternativas": {
         "A": "Fazer a drenagem da lesão e coletar o CP em outro dia.",
@@ -4546,7 +4546,7 @@
       "id": "pv-hcp-2025-0177",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Paciente masculino, de 65 anos, com doença pulmonar obstrutiva crônica (DPOC) avançada e câncer de pulmão de pequenas células recentemente diagnosticado, foi trazido à Emergência por ter apresentado uma crise convulsiva tônico-clônica generalizada. Em seu histórico, constavam perda de peso significativa, malestar e fraqueza profunda nas últimas semanas. Ao exame físico, encontrava-se confuso, taquipneico, com frequência respiratória de 30 mpm. A tomografia computadorizada de crânio foi considerada normal. Os resultados dos exames laboratoriais iniciais encontram-se reproduzidos abaixo. Qual a causa mais provável para a crise convulsiva?",
       "alternativas": {
         "A": "Encefalite límbica",
@@ -4579,7 +4579,7 @@
       "id": "pv-fam-2024-0008",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Homem de 83 anos apresenta em consulta ambulatorial descontrole dos níveis pressóricos em medidas residenciais com aparelho adequado. Está em uso de Anlodipina 10 mg/dia e Clortalidona 25 mg/dia. Refere ser hipertenso há 15 anos, com histórico de AVC isquêmico prévio, ocasião em que interrompeu o tabagismo. Sobre esse caso assinale a CORRETA:",
       "alternativas": {
         "A": "A utilização de medicamentos tais como enalapril ou losartana está contraindicada.",
@@ -4608,7 +4608,7 @@
       "id": "pv-fam-2025-0126",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Mulher 23 anos, solteira, sexo feminino, orientação sexual heterossexual, residente no município A, na zona urbana, centro, sem nenhum tipo de deficiência ou transtorno. Atendida no Hospital de Referência da Regional de Saúde para os casos agudos de violência sexual. A paciente refere ter sofrido violência sexual, sendo que o local de ocorrência foi a via pública e que a violência foi motivada por sexismo, sendo o meio da agressão a ameaça, a força corporal e o espancamento. Refere ter sido estuprada por um homem desconhecido de aproximadamente 45 anos. No atendimento médico realizado, conforme recomendações do Ministério da Saúde/2024, quais são os procedimentos e encaminhamentos corretos?",
       "alternativas": {
         "A": "Procedimentos: medidas de contracepção de emergência, profilaxias (com as vacina HPV e vacina hepatite B) e a coleta de material biológico realizada no atendimento. Notificação imediata (até 24h). Encaminhamentos: para Rede de Saúde para a UBS; Rede de atendimento a mulher e Delegacia de atendimento a mulher para fazer o Boletim de ocorrência.",
@@ -4647,7 +4647,7 @@
       "id": "pv-sp-2024-0033",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Uma paciente de 32 anos de idade, previamente saudável, apresentou‑se ao ginecologista com resultado de Papanicolau indicando uma lesão de alto grau (HSIL). Realizou‑se uma colposcopia, que revelou a presença de um carcinoma in situ no colo do útero. A paciente não apresenta comorbidades e deseja preservar a fertilidade. Não há evidências de doença invasiva nos exames de imagem. Com base nessa situação hipotética, assinale a alternativa que apresenta a conduta a ser adotada.",
       "alternativas": {
         "A": "realização de histerectomia total, com linfadenectomia pélvica",
@@ -4683,7 +4683,7 @@
       "id": "pv-sp-2024-0035",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Assinale a alternativa correta quanto à vacinação contra o papilomavírus humano (HPV), considerando as recomendações do Ministério da Saúde para meninas, meninos e situações especiais.",
       "alternativas": {
         "A": "Meninas devem ser vacinadas contra o HPV com duas doses, iniciando dos nove aos quatorze anos de idade.",
@@ -4716,7 +4716,7 @@
       "id": "pv-sp-2024-0062",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Em relação ao paciente politraumatizado, assinale a alternativa correta.",
       "alternativas": {
         "A": "Em caso de retenção urinária, com hematoma perianal, deve ser realizada uma sondagem vesical de demora imediatamente.",
@@ -4740,7 +4740,7 @@
       "id": "pv-sp-2025-0162",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Uma paciente de 23 anos de idade relatou ter corrimento branco amarelado com odor desagradável, que piora quando mantém relações sexuais. Ao exame especular, o colo uterino estava aparentemente normal, e o conteúdo vaginal era branco leitoso. Ao realizar exame a fresco com soro fisiológico, o médico encontrou diversas células, descritas como clue cells ou células alvos. Com base nessa situação hipotética, esses achados sugerem",
       "alternativas": {
         "A": "candidíase vaginal.",
@@ -4807,7 +4807,7 @@
       "id": "pv-sp-2025-0170",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Uma paciente portadora de herpes genital simples indagou o ginecologista a respeito da origem da afecção, do prognóstico e da terapêutica. Com base nessa situação hipotética, assinale a alternativa correta.",
       "alternativas": {
         "A": "É causada pelos cinco tipos de herpes (1, 2, 3, 4 e 5) e tem bom prognóstico.",
@@ -4902,7 +4902,7 @@
       "id": "pv-uni-2024-0058",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Mioma/Endometriose",
       "enunciado": "Mulher, 65 anos de idade, deu entrada em sepses no PS referindo dor pélvica há 3 dias. Exame ginecológico: conteúdo vaginal purulento e fétido; colo amolecido, útero aumentado para 15 cm e doloroso à palpação. US pélvico: útero 260 ml, cavidade endometrial preenchida por conteúdo sólido-cístico com fluxo ao Doppler e interposição gasosa de permeio, sem plano de clivagem com o miométrio, eco endometrial irregular de 15 mm; ovários diminuídos de tamanho, hidrosalpinge bilateral de moderadas proporções. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Neoplasia maligna das tubas uterinas e endometrite.",
@@ -4931,7 +4931,7 @@
       "id": "pv-uni-2025-0122",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Mulher, 70 anos de idade, com hipertensão, osteoartrose e osteoporose em coluna lombar (T- score -2,9), realiza investigação laboratorial com os seguintes resultados: creatinina = 0,9 mg/dL (VR 0,6 a 1,1 mg/dL), TSH = 3,0 mUI/L (VR 0,44 a 5,4 mUI/L), PTH = 15 pg/mL (VR 22 a 84 pg/mL), cálcio total = 10,7 mg/dL (VR 8,6 a 10,3 mg/dL). Qual medicamento listado abaixo pode causar a alteração laboratorial observada?",
       "alternativas": {
         "A": "Denosumabe",
@@ -4964,7 +4964,7 @@
       "id": "pv-sír-2024-0067",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Paciente de 23 anos foi submetido a tamponamento pélvico extraperitoneal e fixador externo devido a fratura de pelve em livro aberto após acidente com moto. Durante a cirurgia, fez uso de noradrenalina e vasopressina pela instabilidade. Recebeu 10 concentrados de hemácias, 5 de plasma fresco e 1,5 g de fibrinogênio. Os dois eletrólitos que devem ser especialmente monitorados após esse pacote de transfusão são:",
       "alternativas": {
         "A": "cálcio e potássio.",
@@ -4990,7 +4990,7 @@
       "id": "pv-sír-2024-0079",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Paciente de 24 anos, vítima de colisão moto x auto, apresenta pressão sistólica de 80 mmHg e FC: 120 bpm após 1 litro de ringer lactato aquecido. Intubado por queda do nível de consciência, FAST (Focused Assessment Sonoghaphy in Trauma) positivo e sondagem vesical com diurese clara. Radiografia de pelve com fratura de pelve. O protocolo de transfusão maciça, nesse caso, é:",
       "alternativas": {
         "A": "Iniciar prontamente a transfusão.",
@@ -5017,7 +5017,7 @@
       "id": "pv-sír-2025-0118",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Atenção: Considere o caso clinico abaixo para responder à questão. Homem, 25 anos de idade, procura atendimento médico por surgimento de lesões cutâneas há aproximadamente uma semana. Relata que as lesões começaram no tronco e progrediram para palmas das mãos e plantas dos pés, associadas a adinamia cefaleia. Relata que teve relações sexuais desprotegidas com uma nova parceira há três meses. Ao exame físico encontra-se em estado geral com temperatura axilar de 37,8 °C. Na ectoscopia notam-se erupções cutâneas maculopapulares difusas, especialmente nas regiões palmar e plantar. Sem linfadenopatia inguinal. O restante do exame físico está normal. Foi iniciado o tratamento e 24 horas após a aplicação o paciente apresentou piora das lesões cutâneas, mal-estar geral, febre baixa e artralgias. A abordagem recomendada neste cenário é",
       "alternativas": {
         "A": "trocar tratamento para ceftriaxona.",
@@ -5041,7 +5041,7 @@
       "id": "pv-sír-2025-0119",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Atenção: Considere o caso clinico abaixo para responder à questão. Homem, 25 anos de idade, procura atendimento médico por surgimento de lesões cutâneas há aproximadamente uma semana. Relata que as lesões começaram no tronco e progrediram para palmas das mãos e plantas dos pés, associadas a adinamia cefaleia. Relata que teve relações sexuais desprotegidas com uma nova parceira há três meses. Ao exame físico encontra-se em estado geral com temperatura axilar de 37,8 °C. Na ectoscopia notam-se erupções cutâneas maculopapulares difusas, especialmente nas regiões palmar e plantar. Sem linfadenopatia inguinal. O restante do exame físico está normal. Foi iniciado o tratamento e 24 horas após a aplicação o paciente apresentou piora das lesões cutâneas, mal-estar geral, febre baixa e artralgias. A abordagem recomendada neste cenário é",
       "alternativas": {
         "A": "trocar tratamento para ceftriaxona.",
@@ -5096,7 +5096,7 @@
       "id": "pv-hia-2025-0080",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Um paciente do sexo masculino de 37 anos de idade, portador de doença de Crohn, atualmente em uso de adalimumabe 40 mg em infusões quinzenais com bom controle de atividade de doença, perdeu seu cartão de vacinação e comparece ao centro de referência de imunobiológicos para atualização vacinal. Esse paciente pode ser vacinado com todas alternativas a seguir, EXCETO:",
       "alternativas": {
         "A": "meningocócica C em dose única.",
@@ -5127,7 +5127,7 @@
       "id": "pv-hia-2025-0091",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Paciente de 35 anos, sexo feminino, previamente hígida, admitida no Pronto-Socorro com quadro de dor abdominal em epigastro e hipocôndrios há 4 dias, associada a episódios de vômito e inapetência. Na admissão, encontrava-se em regular estado geral, FC 126 bpm, PA 95 x 60 mmHg, FR 22, peso 60 kg. Palpação abdominal com distensão leve, dor em andar superior, pior em epigastro, sem sinais de irritação peritoneal, sem massas palpáveis. Ruídos hidroaéreos presentes, mas diminuídos. Descompressão brusca negativa, sinal de Giordano negativo, sinal de Murphy negativo. Foram realizados exames laboratoriais na chegada: Hb 14 g/dL, Ht 46%, leucócitos 15500 (sem desvio), ureia 90 mg/dL (Valor de Referência – VR 8 – 20), creatinina 1,9 md/dL (VR 0,7 – 1,3), TGO 125 U/L (VR 10 – 40), TGP 98 U/L (VR 10 – 40), bilirrubinas totais 1,2 mg/dL (VR 0,2 – 1,1), bilirrubina direta 1,0 mg/dL (0 – 0,3), amilase 245 U/L (VR 25 – 125), lipase 1250 U/L (VR 10 – 140), PCR 105 mg/dL. Assinale a alternativa que apresenta a melhor conduta para essa paciente, nesse momento.",
       "alternativas": {
         "A": "Monitorização; jejum; ringer lactato – 500 mL EV, agora e de 6/6 h; dipirona 1g EV, de 6/6 h; ondansetrona – 4 mg EV, de 8/8 h; sondagem vesical de demora.",
@@ -5252,7 +5252,7 @@
       "id": "pv-df-2025-0158",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Mioma/Endometriose",
       "enunciado": "Uma paciente de 36 anos de idade apresenta ciclos persistentes, com volume aumentado de início há um ano, associado a dismenorreia frequente, sem repercussão hemodinâmica no atendimento ambulatorial. Acerca do manejo inicial da paciente com sangramento uterino anormal, assinale a alternativa correta.",
       "alternativas": {
         "A": "O uso de anti-inflamatórios não esteroidais e o ácido tranexâmico auxiliam no controle do sangramento em torno de 50% dos casos.",
@@ -6305,7 +6305,7 @@
       "id": "pv-uni-2025-0125",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Homem, 70 anos de idade, com diagnóstico de miocardiopatia dilatada por doença de Chagas é admitido no PS por piora da dispneia, ortopneia, dispneia paroxística noturna, edema de membros inferiores bilateralmente até a região escrotal e ganho de peso. Exame físico: sonolência, PA = 90/50 mmHg, FC = 100 bpm em ritmo sinusal, FR = 30 rpm, SpO₂ = 90% em ar ambiente, tempo de enchimento capilar = 4 s, ausculta cardíaca com presença de terceira bulha e sopro holossistólico de foco mitral 3+/6+, ausculta pulmonar reduzida em campos médio-inferiores bilateralmente. Qual é o perfil clínico-hemodinâmico da insuficiência cardíaca e a estratégia terapêutica inicial mais adequada?",
       "alternativas": {
         "A": "Perfil C; furosemida e captopril",
@@ -6334,7 +6334,7 @@
       "id": "pv-mg-2025-0122",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Paciente de 72 anos, sexo masculino, submetido à gastrectomia total há cinco dias, inicia quadro de agitação e confusão mental, taquipneia (30irpm), drenagem de secreção de mau cheiro pela ferida operatória, alteração aguda de 5 pontos no escore SOFA (Sequential Sepsis-related Organ Failure Assessment), necessitando de vasopressores para manutenção da pressão arterial média maior ou igual a 65mmHg e dosagem de lactato de 7mmol/litro, mesmo após reposição volêmica adequada. Considerando os dados descritos acima, o diagnóstico MAIS PRECISO para o quadro apresentado por este paciente é:",
       "alternativas": {
         "A": "Choque séptico.",
@@ -6357,7 +6357,7 @@
       "id": "pv-hia-2025-0107",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Um homem de 45 anos, sem comorbidades conhecidas e com antecedente de alergia a dipirona, foi submetido a uma colecistectomia laparoscópica. No primeiro dia de pós- operatório, ele relata dor abdominal difusa com uma pontuação de 5/10 na escala de dor. A analgesia multimodal, incluindo paracetamol e cetoprofeno, não aliviou suficientemente a dor. O paciente apresenta dificuldade para respirar profundamente devido ao desconforto. Exames de imagem e outros testes descartaram quaisquer complicações cirúrgicas. A equipe médica agora busca otimizar o manejo da dor pós-operatória. Qual é o próximo passo mais apropriado no manejo da dor para esse paciente?",
       "alternativas": {
         "A": "Aumentar a dose de paracetamol para maximizar seu efeito analgésico.",
@@ -6380,7 +6380,7 @@
       "id": "pv-mg-2024-0073",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Pré-escolar, 4 anos de idade, comparece ao pronto atendimento com relato de febre, otalgia e secreção ocular, iniciados há três dias. Mãe relata que a dor piorou na última noite, com alívio parcial após uso de dipirona. Ao exame físico, o paciente encontra-se febril (Tax: 38,7°C), observa-se hiperemia e abaulamento da membrana timpânica à direita, secreção purulenta e hiperemia de conjuntiva em olho direito. Assinale a conduta MAIS ADEQUADA para o paciente:",
       "alternativas": {
         "A": "Prescrever amoxacilina com clavulanato por 7 dias e orientar retorno em 48 horas caso os sintomas persistam.",
@@ -6403,7 +6403,7 @@
       "id": "pv-ufr-2024-0090",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Dentre as opções em contracepção em nosso país se encontram os LARCS (Long-Acting Reversible Contraceptives - métodos de contracepção de longa ação). Pode-se afirmar, a respeito deles, que:",
       "alternativas": {
         "A": "são métodos com eficácia de uso típico muito próximo ao de uso perfeito",
@@ -6432,7 +6432,7 @@
       "id": "pv-sp-2024-0101",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Paciente de 2 anos, sexo feminino, sem antecedentes relevantes, apresenta quadro de febre de até 39.8 ºC, vômitos e prostração, há dois dias. Hoje estava sonolenta e apresentou episódio de crise convulsiva tônico-clônica generalizada com duração de cerca de 10 minutos, sendo levada ao pronto-socorro. Na triagem, paciente apresentou nova crise convulsiva, sendo levada à sala de emergência. Foi solicitado acesso venoso, cuja obtenção foi malsucedida. A: Via aérea pérvia. B: Murmúrio vesicular presente sem ruídos adventícios, boa expansibilidade, FR 43 ipm. C: 2BRNF sem sopros, tempo de enchimento capilar 5 segundos, pulsos finos. D: Sem resposta verbal e ocular, retira o membro ao estímulo doloroso. Pupilas isofotorreagentes. Glicemia capilar 73 mg/dL. E: Nada digno de nota. Com relação ao quadro neurológico apresentado pela paciente, pode-se afirmar:",
       "alternativas": {
         "A": "Não requer investigação específica nessa idade, por ser decorrente de quadro febril.",
@@ -6464,7 +6464,7 @@
       "id": "pv-sp-2024-0102",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Paciente de 2 anos, sexo feminino, sem antecedentes relevantes, apresenta quadro de febre de até 39.8 ºC, vômitos e prostração, há dois dias. Hoje estava sonolenta e apresentou episódio de crise convulsiva tônico-clônica generalizada com duração de cerca de 10 minutos, sendo levada ao pronto-socorro. Na triagem, paciente apresentou nova crise convulsiva, sendo levada à sala de emergência. Foi solicitado acesso venoso, cuja obtenção foi malsucedida. Após administração de duas doses da medicação obteve-se controle da crise convulsiva e foi possível obter um acesso venoso periférico. Na avaliação sistematizada em sala de emergência, a paciente apresentava os seguintes dados de exame físico e monitorização: A: Via aérea pérvia. B: Murmúrio vesicular presente sem ruídos adventícios, boa expansibilidade, FR 43 ipm. C: 2BRNF sem sopros, tempo de enchimento capilar 5 segundos, pulsos finos. D: Sem resposta verbal e ocular, retira o membro ao estímulo doloroso. Pupilas isofotorreagentes. Glicemia capilar 73 mg/dL. E: Nada digno de nota. Assinale a alternativa que apresenta a conduta correta nesse momento.",
       "alternativas": {
         "A": "Reverter os efeitos centrais do benzodiazepínico com flumazenil.",
@@ -6496,7 +6496,7 @@
       "id": "pv-sp-2024-0117",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Paciente do sexo feminino, 3 anos, é admitida no pronto-socorro com quadro de tosse e dificuldade para respirar há um dia, sem febre ou coriza associados. Apresenta histórico de ter apresentado três crises semelhantes nos últimos 06 meses, com necessidade de internação. Na triagem, apresentava-se taquidispneica, sendo levada à sala de emergência. Na avaliação sistematizada em sala de emergência, a paciente apresentava os seguintes dados de exame físico e monitorização: A: Via aérea pérvia. B: Murmúrio vesicular com sibilos difusos, tempo expiratório prolongado, FR: 45 ipm, tiragens subdiafragmática, intercostal e de fúrcula, SpO₂ 93% em máscara não reinalante. C: 2BRNF sem sopros, FC: 140 bpm, tempo de enchimento capilar de 2 segundos, pulsos cheios. D: Alerta e orientada. E: Lesões eritemato-crostosas em superfícies flexoras de pernas e braços. Quanto ao uso profilático de corticoide inalatório no momento da alta hospitalar, é correto afirmar:",
       "alternativas": {
         "A": "Não está indicado para essa paciente.",
@@ -6531,7 +6531,7 @@
       "id": "pv-sp-2024-0118",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Paciente do sexo feminino, 3 anos, é admitida no pronto-socorro com quadro de tosse e dificuldade para respirar há um dia, sem febre ou coriza associados. Apresenta histórico de ter apresentado três crises semelhantes nos últimos 06 meses, com necessidade de internação. Na triagem, apresentava-se taquidispneica, sendo levada à sala de emergência. Na avaliação sistematizada em sala de emergência, a paciente apresentava os seguintes dados de exame físico e monitorização: A: Via aérea pérvia. B: Murmúrio vesicular com sibilos difusos, tempo expiratório prolongado, FR: 45 ipm, tiragens subdiafragmática, intercostal e de fúrcula, SpO₂ 93% em máscara não reinalante. C: 2BRNF sem sopros, FC: 140 bpm, tempo de enchimento capilar de 2 segundos, pulsos cheios. D: Alerta e orientada. E: Lesões eritemato-crostosas em superfícies flexoras de pernas e braços. Além de corticoide sistêmico, assinale o que a paciente deverá receber como medida inicial em sala de emergência.",
       "alternativas": {
         "A": "Cateter nasal de alto fluxo e beta-2 agonista endovenoso.",
@@ -6572,7 +6572,7 @@
       "id": "pv-uni-2024-0005",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Menina, 3 anos de idade, apresenta o segundo episódio de infecção do trato urinário, sendo indicada investigação de cicatriz renal. Com este propósito, qual é o exame indicado?",
       "alternativas": {
         "A": "Cintilografia renal com DMSA.",
@@ -6601,7 +6601,7 @@
       "id": "pv-uni-2024-0047",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Menopausa",
       "enunciado": "Mulher, 66 anos de idade, hipertensa, em acompanhamento com a geriatria, refere 2 episódios de sangramento vaginal de pequena intensidade há 1 mês. Menopausa aos 50 anos de idade, não faz terapia hormonal. Exame físico sem alterações. Ultrassom pélvico revelou eco endometrial de 3 mm. A conduta mais adequada é:",
       "alternativas": {
         "A": "estrogenioterapia transdérmica.",
@@ -6632,7 +6632,7 @@
       "id": "pv-uni-2025-0107",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Recém-nascido de 35 semanas de idade gestacional, apresenta desconforto respiratório logo após o nascimento. Ao exame, está cianótico +/4+, com murmúrio vesicular presente bilateralmente com roncos disseminados; sopro sistólico rude no foco aórtico; abdome globoso, distendido, flácido, RHA + e normais, ausência de orifício anal; apresenta escoliose e deformidade em perna e pé à direita. Qual é a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Ultrassonografia de abdome.",
@@ -6663,7 +6663,7 @@
       "id": "pv-sír-2025-0108",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Atenção: Considere o caso clinico abaixo para responder a questão. Mulher, de 28 anos de idade, comparece ao ambulatório de clínica médica se queixando de nervosismo, palpitação, dificuldade para dormir, sensação de calor e sudorese excessivas e perda de 6 kg nos últimos 2 meses, apesar de ter notado um aumento no seu apetite. Não tem nenhuma comorbidade prévia e faz uso apenas de anticoncepcional oral (levonorgestrel 0,15 mg + etinilestradiol 0,03 mg). Adicionalmente, pratica musculação e corrida todos os dias da semana, fazendo suplementação de proteína (whey), creatina e BCCA. Ao exame, apresenta FC: 98 bpm, PA: 146 x 88 mmHg e tireoide de dimensões levemente aumentadas, heterogênea, fibroelastica, indolor à palpação e sem sopros à ausculta. Sem outras alterações. A cintilografia de tireoide evidenciou aumento heterogêneo na captação do radiomarcador, com múltiplas áreas de hipercaptação alternadas com áreas de hipocaptação na tireoide. Os exames laboratoriais evidenciaram: Optou-se por iniciar o tratamento com atenolol e metimazol. Os exames que devem ser solicitados antes do início do tratamento são:",
       "alternativas": {
         "A": "Leucograma, transaminases e bilirrubina.",
@@ -6691,7 +6691,7 @@
       "id": "pv-ufr-2024-0052",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Menina, 4 anos, apresenta quadro de movimentação ocular anormal e “sustos” com 2 meses de evolução. Mãe refere que ela vem apresentando movimentação ocular multidirecional associada a movimentos bruscos de membros superiores e tronco. Ausência de antecedentes patológicos relevantes. Exame físico: regular estado geral; hipocorada (2+/4+); hidratada; anictérica; acianótica; ausculta respiratória normal; FR = 24irpm; ritmo cardíaco regular (RCR) em 2 tempos (2T), sem sopros; FC = 93bpm; PA = 90 x 65mmHg; abdome distendido, indolor, com fígado palpável a 3cm do rebordo costal direito, baço impalpável, presença de massa palpável em flanco esquerdo, endurecida e de limites imprecisos; ataxia cerebelar e movimentos oculares rápidos e irregulares; mioclonia de tronco. Pode-se afirmar que a principal hipótese diagnóstica é:",
       "alternativas": {
         "A": "feocromocitoma",
@@ -6714,7 +6714,7 @@
       "id": "pv-hcp-2024-0076",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Paciente de 29 anos, assintomática, veio à consulta para avaliação ginecológica. Trouxe laudos de exames citopatológicos (CP) de colo uterino negativos (dentro da normalidade) realizados aos 25 e aos 26 anos. Há 30 dias, coletou material para novo CP, cujo resultado indicou: Satisfatório para avaliação. Presença de células escamosas, glandulares e metaplásicas. Células escamosas atípicas de significado indeterminado (ASC-US). Flora sugestiva de vaginose. Diante desse resultado, qual a recomendação do Ministério da Saúde?",
       "alternativas": {
         "A": "Tratar a vaginose e repetir o CP em 3 meses.",
@@ -6745,7 +6745,7 @@
       "id": "pv-fam-2024-0015",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Paciente AN, sexo masculino, 68 anos, contador, ex tabagista( fumou num período de 12 anos, porem, não fuma há 38 anos). Hipertenso controlado e em uso de amlodipina e sem antecedentes de doenças pulmonares prévias, com queixa de dispneia progressiva aos esforços há 09 meses, atualmente com dispneia MRC 2. Sem outras queixas respiratorias. Interrogatório sobre os demais aparelhos: não relata queixas relacionadas aos demais aparelhos ou sistemas. Mora em casa de alvenaria de bom padrão e sem animais de estimação e sem hobbies. Ao exame físico encontra se em BEG, eupneico em repouso, acianótico, presença de hipocratismo digital. Ausculta torácica : bulhas cardíacas rítmicas e normofonéticas e sem sopros e com presença de estertores do tipo velcro em ambos terços inferiores. Abdomen flácido, sem visceromegalias. Sem edemas periféricos. Já solicitado e realizado tomografia computadorizada de tórax de alta resolução: presença de cistos de faveolamento, espessamento septal (padrão reticular), bilateral, de localização subpleural e em lobos inferiores associados a bronquioloectasias de tração (consistente com padrão PIU - pneumonite intersticial usual). Com hipótese diagnostica de fibrose pulmonar idiopática realizada espirometria com presença de distúrbio ventilatorio do tipo restritivo de grau moderado, com os valores abaixo:",
       "alternativas": {
         "A": "Capacidade vital forçada ( CVF) = 80% do previsto, relação VEF1/CVF = 65%",
@@ -6774,7 +6774,7 @@
       "id": "pv-fam-2024-0040",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Mulher, 31 anos de idade, G=3 P=3 (N), colhe sua Colpocitologia Oncótica de rotina, cujo resultado veio ASC-US (Atipia de Células Escamosas de Significado Indeterminado). Diante deste",
       "alternativas": {
         "A": "Fazer Colposcopia",
@@ -6805,7 +6805,7 @@
       "id": "pv-fam-2025-0106",
       "area": "Ginecologia",
       "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "",
+      "sub_subarea": "Colo Uterino",
       "enunciado": "Mulher, 35 anos de idade, G=2 P=2 (N) A=0, colhe sua Colpocitologia Oncótica de rotina, cujo resultado veio LSIL (Lesão Intra-epitelial de Baixo grau). De acordo com as Diretrizes Brasileiras para Rastreamento de Câncer do Colo Uterino, 2016, qual a próxima conduta?",
       "alternativas": {
         "A": "Fazer Colposcopia",
@@ -6837,7 +6837,7 @@
       "id": "pv-rib-2025-0127",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Paciente 47 anos, sexo feminino, comparece em consulta com queixa de há 3 meses apresentar fadiga, astenia e episódios de tontura. Paciente G1P1A0C0, com método contraceptivo e laqueadura tubária há 12 anos, sem atraso menstrual. Nega uso de medicações, doenças prévias e história familiar de doenças. Exame físico normal. Qual o questionamento mais adequado que o médico deve fazer para complementar a anamnese?",
       "alternativas": {
         "A": "Perda ponderal não intencional.",
@@ -6895,7 +6895,7 @@
       "id": "pv-hcp-2025-0123",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Adolescente feminina, de 13 anos e 6 meses, procurou o Ambulatório de Pediatria. Ao iniciar a consulta, o pediatra perguntou se algum familiar ou responsável a acompanhava. Ela informou que procurara esse atendimento sem comunicar aos pais porque desejava que a consulta fosse realizada sob sigilo médico. Tinha interesse em saber sobre sua saúde e em falar sobre sexualidade. Seguindo as orientações da Sociedade Brasileira de Pediatria, da Federação Brasileira das Associações de Ginecologia e Obstetrícia e do Código de Ética Médica, que conduta, dentre as abaixo, é a mais adequada?",
       "alternativas": {
         "A": "Informar à adolescente que, por ter menos de 14 anos, lhe é vedado esclarecer as questões que vierem a ser apresentadas sem a presença de pais e/ou responsável.",
@@ -6924,7 +6924,7 @@
       "id": "pv-amr-2025-0165",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "O médico é chamado no alojamento conjunto para avaliar um RN a termo que nasceu há 20 horas e está sem diurese. Sobre a conduta nesse caso, assinale a alternativa correta.",
       "alternativas": {
         "A": "Aguardar, pois o RN normal pode retardar a sua primeira diurese por cerca de 24 a 36 horas.",
@@ -6953,7 +6953,7 @@
       "id": "pv-sp-2025-0112",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Uma mulher de 63 anos de idade, obesa, hipertensa, diabética e dislipidêmica, em uso irregular de anlodipino, metformina e sinvastatina, compareceu ao pronto‑socorro com relato de tosse, febre aferida de 38,2 ºC, coriza, mialgia e espirros há três dias, porém, nos últimos dois dias também percebeu edema de membros inferiores e dispneia importante que a fizeram procurar o pronto‑socorro. Ela relatou que realizou um teste recente na farmácia, influenza A positivo. Na admissão, apresentou: temperatura de 37,7 ºC; glasgow 15; PA 180 x 110; FC 118 irpm; e FR 26 irpm. A paciente segurava‑se à grade do leito devido à ortopneia, havia presença de estase jugular, pulso com ritmo irregular e ausculta com estertores de base até terço ápice bilateralmente. O eletrocardiograma da paciente apresentou: ausência de onda P; RR irregular; QRS estreito; e FC 118 bpm. Assinale a alternativa que corresponda ao exame de imagem compatível ao caso clínico apresentado.",
       "alternativas": {
         "A": "A",
@@ -6987,7 +6987,7 @@
       "id": "pv-df-2024-0027",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "SOP",
       "enunciado": "Acerca do tratamento da atonia uterina, assinale a alternativa que apresenta o medicamento contraindicado para pacientes hipertensas.",
       "alternativas": {
         "A": "Metilergometrina",
@@ -7019,7 +7019,7 @@
       "id": "pv-uni-2024-0021",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Mulher, 21 anos de idade, casada, sem filhos, procura a UBS em busca de método contraceptivo. Depois de ser informada de todos os métodos possíveis, ela opta pela laqueadura tubária. Segundo a Lei nº 14.443 de 02 de setembro 2022, que altera a Lei nº 9.263 de 12 de janeiro de 1996 sobre o planejamento familiar, qual é a alternativa correta?",
       "alternativas": {
         "A": "O procedimento pode ser realizado, mas somente com a autorização do cônjuge.",
@@ -7042,7 +7042,7 @@
       "id": "pv-ena-2024-0017",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções",
       "enunciado": "Um senhor de 62 anos, portador de HAS e tabagista, comparece à UBS para trazer os resultados de seus exames de rotina. Ele faz uso de losartana 50 mg BID e anlodipino 5 mg MID e apresenta bom controle de pressão arterial. A seguir estão os resultados dos exames desse paciente: Hemoglobina: 14,3 mg/dl / Leucócitos: 7200/mm3 / Plaquetas: 230.000/mm3 / Potássio: 5,6 mEq/L / Sódio: 143 mEq/L / Ácido Úrico: 4,3 mg/dl / Glicose: 93 mg/dl / HbA1c – 5,4% / Creatinina: 0,8 mg/dl. Sangue oculto nas fezes (imunohistoquímica): positivo / Colesterol total: 122 / Col. HDL: 46 / Col. LDL: 68 / Relação albumina-creatinina: 3,2 mg/g. Diante desse quadro, qual é a conduta mais adequada?",
       "alternativas": {
         "A": "O paciente apresenta hipercalemia, sendo necessária a prescrição de diuréticos de alça para controle do potássio. Ele deve também ser referenciado para realização de colonoscopia para rastreio de câncer de cólon.",
@@ -7101,7 +7101,7 @@
       "id": "pv-uni-2024-0051",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção",
       "enunciado": "Adolescente, 16 anos de idade, vai a UBS para orientação anticoncepcional. Refere ter tido 5 parceiros sexuais. Refere ciclos menstruais abundantes, com duração de 9 dias e cólica menstrual nos 4 primeiros dias. Última menstruação iniciou há 5 dias. Na Unidade encontram- se disponíveis os seguintes métodos: pílulas combinadas, implante subcutâneo, injetável mensal e DIU de cobre. Além da recomendação do uso de preservativos, qual é a orientação mais adequada?",
       "alternativas": {
         "A": "Inserção imediata de DIU de cobre.",
