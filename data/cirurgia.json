@@ -2076,36 +2076,6 @@
       ]
     },
     {
-      "id": "pv-ena-2024-0091",
-      "area": "Cirurgia",
-      "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
-      "enunciado": "Paciente do sexo masculino, 73 anos, apresentou desconforto respiratório progressivo na última semana e foi avaliado no pronto-socorro. Ao exame físico, apresentava, na ausculta pulmonar, murmúrio vesicular abolido em 2/3 inferiores, tendo sido confirmado derrame pleural moderado por radiografia de tórax. Após ser avaliado pela cirurgia torácica, optou-se por toracocentese de alívio e diagnóstica. Os exames séricos do paciente eram: Proteína total 3,8/dl, DHL 154 U/L. A rotina laboratorial de líquido pleural: Proteína total 1,7 g/dl, DHL 60 U/L. Observação: Desidrogenase láctica (DHL) – valores séricos normais de referência 120 a 246 U/L. Após análise dos resultados dos exames séricos e da rotina do líquido pleural do paciente, são aplicados os critérios de Light. Assinale a alternativa correta em relação a esse caso.",
-      "alternativas": {
-        "A": "Os resultados da análise indicam características de transudato, e insuficiência cardíaca poderia ser uma das hipóteses diagnósticas.",
-        "B": "A relação entre LDH do líquido pleural/nível sérico preenche um dos critérios de Light, caraterístico de exsudato.",
-        "C": "Os resultados da análise indicam características de exsudato pelos critérios de Light, e pneumonia bacteriana é uma das hipóteses diagnósticas.",
-        "D": "Para transudato, é necessário preencher pelo menos dois dos critérios de Light.",
-        "E": "Um dos critérios de Light é que o DHL do líquido pleural seja > 1/3 do valor do limite superior sérico."
-      },
-      "correta": "A",
-      "explicacao": "Os resultados da análise indicam características de transudato, e insuficiência cardíaca poderia ser uma das hipóteses diagnósticas. Gabarito: A. Estamos diante de uma questão clássica de provas de residência, mas que nunca havia caído no enare ainda. Toda análise de toracocentese começa pela diferenciação entre exsudatos e transudatos, que é feita pelos critérios de Light: Na questão, vemos: proteína no LP/proteína sérica= 1,7 / 3,8; portanto <0,5; LDH no LP/ LDH sérico = 60/154 , portanto < 0,6 e DHL no LP de 60 quando o limite ´serio é 246, portanto < 2/3. sendo assim, podemos afirmar que se trata de um transudato. As causas de transudato são descritas na tabela abaixo:",
-      "banca": "ENARE",
-      "instituicao": "ENARE",
-      "ano": 2024,
-      "fonte": "ENARE 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-ena-2024-0091_145_0.png"
-      ],
-      "_id_original": "4000205831",
-      "_pdf": "1. ENARE.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ena-2024-0091_145_0.png"
-      ]
-    },
-    {
       "id": "pv-ena-2024-0094",
       "area": "Cirurgia",
       "subarea": "Geral",
@@ -2417,44 +2387,6 @@
       "imagens_enunciado": [],
       "imagens_explicacao": [
         "data/questoes-img/pv-pe-2025-0128_255_0.png"
-      ]
-    },
-    {
-      "id": "pv-pe-2025-0134",
-      "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
-      "enunciado": "Paciente, sexo masculino, 64 anos, evoluindo com hemorragia digestiva alta. Foi submetido a endoscopia com biópsia, imagens abaixo. A biópsia evidenciou mucosa gástrica normal. Realizou tomografias que não evidenciaram outras alterações em tórax ou abdome. Menos de 48h após a endoscopia evoluiu com nova hemorragia digestiva alta com hematêmese, tentado nova endoscopia, mas não foi possível controlar o sangramento por via endoscópica. Qual melhor opção terapêutica para o caso? Qual o provável diagnóstico?",
-      "alternativas": {
-        "A": "Gastrectomia em Cunha. GIST gástrico.",
-        "B": "gastrectomia total. Adenocarcinoma gástrico polipóide.",
-        "C": "Gastrorrafia. Lesão de Dieulafoy.",
-        "D": "Gastrectomia parcial com vagotomia troncular. Úlcera péptica.",
-        "E": "Gastrotomia e rafia de variz. Hipertensão portal segmentar."
-      },
-      "correta": "A",
-      "explicacao": "Gastrectomia em Cunha. GIST gástrico. A interpretação de imagens endoscópicas é fundamental em provas de residência médica. À primeira vista, esta questão parece abordar apenas o manejo de uma hemorragia digestiva alta refratária ao tratamento endoscópico. Entretanto, a chave para sua resolução está na correta interpretação da imagem endoscópica apresentada. A imagem mostra uma lesão subepitelial volumosa, caracterizada por elevação recoberta por mucosa normal, localizada no corpo gástrico, com ulceração em seu polo superior. Este padrão é típico de lesões que crescem na parede gástrica e se projetam para a luz (crescimento submucoso), sendo o GIST o principal diagnóstico diferencial nesta localização. A ulceração central ocorre por isquemia da mucosa sobrejacente devido à compressão exercida pelo tumor, explicando também porque a biópsia convencional mostra apenas mucosa normal. Abaixo, veja outras imagens semelhantes desse tipo de lesão: . . O sangramento, neste caso, origina-se da ulceração secundária à lesão subepitelial, e não de uma lesão mucosa primária. Isto explica por que os métodos hemostáticos endoscópicos convencionais são ineficazes, sendo necessária abordagem cirúrgica definitiva. Com essas informações em mente, vamos analisar as alternativas, em busca do diagnóstico mais provável e da conduta:",
-      "banca": "SES-PE",
-      "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
-      "ano": 2025,
-      "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-pe-2025-0134_267_0.png",
-        "pv-pe-2025-0134_268_0.png",
-        "pv-pe-2025-0134_268_1.jpeg",
-        "pv-pe-2025-0134_269_0.jpeg",
-        "pv-pe-2025-0134_269_1.png"
-      ],
-      "_id_original": "4000235704",
-      "_pdf": "3. SES-PE.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-pe-2025-0134_267_0.png",
-        "data/questoes-img/pv-pe-2025-0134_268_0.png",
-        "data/questoes-img/pv-pe-2025-0134_268_1.jpeg",
-        "data/questoes-img/pv-pe-2025-0134_269_0.jpeg",
-        "data/questoes-img/pv-pe-2025-0134_269_1.png"
       ]
     },
     {
@@ -2885,38 +2817,6 @@
         "data/questoes-img/pv-amr-2025-0174_330_0.png"
       ],
       "imagens_explicacao": []
-    },
-    {
-      "id": "pv-ufr-2024-0077",
-      "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Câncer de Mama",
-      "enunciado": "Mulher, 49 anos, apresenta na mamografia área de microcalcificações pleomórficas medindo cerca de 1,5cm em quadrante superior externo (QSE) de mama direita. Exame físico das mamas sem alterações. Realizada mamotomia da lesão com diagnóstico histopatológico de hiperplasia ductal atípica. Mamografia de controle: microcalcificações residuais no local da biópsia. Pode-se afirmar que a melhor conduta a seguir é realizar uma:",
-      "alternativas": {
-        "A": "setorectomia com uso de tamoxifeno por 5 anos",
-        "B": "quadrantectomia com esvaziamento axilar",
-        "C": "mastectomia com uso de raloxifeno por 5 anos",
-        "D": "adenectomia bilateral profilática com biópsia de linfonodo sentinela"
-      },
-      "correta": "A",
-      "explicacao": "setorectomia com uso de tamoxifeno por 5 anos Estrategista, esta paciente apresentou na mamografia área de microcalcificações pleomórficas e foi submetida a mamotomia da lesão com diagnóstico histopatológico de hiperplasia ductal atípica. Na mamografia de controle: foram observadas microcalcificações residuais no local da biópsia. A mamotomia (ou biópsia por agulha grossa vácuo assistida) é um tipo de biópsia que é chamada assim porque a captura do fragmento é realizada por “aspiração” do tecido mamário, para o interior da agulha, por meio do vácuo. A mamotomia pode ser guiada pelo ultrassom ou pela mamografia (também chamada de estereotaxia). Sua indicação mais frequente é a biópsia das microcalcificações suspeitas (BI- RADS 4 e 5) que são visíveis somente pela mamografia. Mas a mamotomia pode ser usada também para biópsias de nódulos menores que 1 cm, distorções arquiteturais e cistos complexos. A mamotomia guiada por mamografia é realizada em uma mesa com um furo central. A paciente se deita na mesa e coloca a mama que vai ser biopsiada no furo. Na parte de baixo da mesa está o equipamento que irá prender e comprimir a mama para que seja feita a mamografia e a localização da lesão. A paciente permanece “presa” durante o procedimento. Introduzimos a agulha na mama após a sua localização e capturamos os fragmentos de tecido mamário com as microcalcificações. Perceba que a mesa funciona como se fosse uma mamografia deitada e que é desta maneira que localizamos a lesão. Primeiro “tiramos uma chapa” e depois introduzimos a agulha no local da lesão apontado por esta “chapa”. O procedimento é realizado com anestesia local e é rápido, demorando poucos minutos. Figura: Mamotomia (biópsia por agulha grossa vácuo assistida) guiada por mamografia (estereotaxia). Paciente deitada em uma mesa com um buraco central, onde introduz a mama que é comprimida como na mamografia. Realizamos a biópsia com a paciente “presa” com a mama comprimida após a localização da lesão através de imagens mamográficas. Procedemos com a radiografia dos fragmentos após a sua obtenção pela biópsia, para verificar que foram retiradas amostras das microcalcificações e que a biópsia foi bem realizada, sendo significativa. Sempre deixamos um clip no local da biópsia, para sinalizar que a lesão foi biopsiada e para ter uma referência do local onde estavam as microcalcificações caso todas sejam retiradas na mamotomia. Isto é muito importante para os casos que apresentam resultado maligno ou com atipia, pois será o indicador do local que deve ser ressecado. A grande vantagem da mamotomia é que ela pode substituir a ressecção segmentar (setorectomia) das microcalcificações pleomórficas e segmentares (suspeitas / BI-RADS 4), evitando que a paciente seja internada para ser submetida a um procedimento cirúrgico sob anestesia geral. A paciente deste caso foi submetida a mamotomia e o resultado do estudo anatomopatológico foi de hiperplasia ductal atípica. O enunciado informa que a mamografia de controle após a biópsia apresenta microcalcificações residuais, ou seja, ainda resta hiperplasia ductal atípica na mama da paciente. Além disso, pode haver área de lesão invasora (câncer) adjacente ao local da biópsia nestes casos. Sendo assim, sempre que o resultado de uma biópsia por agulha grossa é de atipia, devemos prosseguir na investigação do caso da paciente realizando uma ressecção segmentar (setorectomia) para retirar uma área maior de tecido mamário, para garantir que realmente não havia sobrado área de atipia ou mesmo lesão invasora adjacente ao tecido retirado pela biópsia. Nestes casos em que o resultado da biópsia por agulha grossa é de atipia só se pode ficar tranquilo que realmente não há câncer após a realização de ressecção segmentar da região da lesão que confirme que realmente não havia câncer adjacente e que a hiperplasia ductal com atipia foi retirada por completo, com margens livres. Agora vamos analisar as alternativas:",
-      "banca": "UFRJ",
-      "instituicao": "UFRJ",
-      "ano": 2024,
-      "fonte": "UFRJ 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-ufr-2024-0077_146_0.png",
-        "pv-ufr-2024-0077_147_0.jpeg"
-      ],
-      "_id_original": "4000209148",
-      "_pdf": "6. UFRJ.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-ufr-2024-0077_146_0.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ufr-2024-0077_147_0.jpeg"
-      ]
     },
     {
       "id": "pv-ufr-2024-0104",
@@ -3480,35 +3380,6 @@
       "imagens": [],
       "_id_original": "4000230258",
       "_pdf": "8. HCPA.pdf"
-    },
-    {
-      "id": "pv-hcp-2025-0159",
-      "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
-      "enunciado": "Paciente masculino, de 65 anos, com história de doença pulmonar obstrutiva crônica, tabagismo e diabetes melito (amputação do antepé direito há 2 anos), foi internado com quadro de perfuração gástrica por úlcera de estresse, sendo operado de urgência. Evoluiu com abscesso peritoneal, necessitando de laparotomia para lavagem da cavidade. Continuava apresentando picos febris e leucograma com desvio à esquerda. Nova tomografia computadorizada evidenciou presença de coleção peritoneal subdiafragmática direita e derrame pleural volumoso à direita com áreas loculadas. Que conjunto de condutas, dentre as abaixo, seria adequado neste momento?",
-      "alternativas": {
-        "A": "Expectante, com antibioticoterapia de amplo espectro e controle do diabetes melito",
-        "B": "Pleuroscopia e nova abordagem da coleção abdominal",
-        "C": "Drenagem torácica e antibioticoterapia de amplo espectro",
-        "D": "Punção percutânea da coleção abdominal e toracocentese"
-      },
-      "correta": "B",
-      "explicacao": "Pleuroscopia e nova abordagem da coleção abdominal Estamos diante de um paciente com um quadro compatível com empiema loculado, que surgiu como extensão de uma coleção subdiafragmática à direita secundária à perfuração de uma úlcera péptica. Assim, a questão deseja saber quais condutas deverão ser tomadas em relação à coleção abdominal e o empiema loculado. Vamos avaliar, separadamente, as alternativas, em busca da melhor resposta.",
-      "banca": "HCPA",
-      "instituicao": "HCPA",
-      "ano": 2025,
-      "fonte": "HCPA 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-hcp-2025-0159_292_0.jpeg"
-      ],
-      "_id_original": "4000230255",
-      "_pdf": "8. HCPA.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-hcp-2025-0159_292_0.jpeg"
-      ],
-      "imagens_explicacao": []
     },
     {
       "id": "pv-fam-2024-0050",
@@ -4265,32 +4136,6 @@
       ]
     },
     {
-      "id": "pv-sír-2024-0036",
-      "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Mulher de 45 anos de idade queixa-se de ondas de calor intensas desde que foi operada para remoção de tumor de ovário direito, classificado como cistoadenocarcinoma seroso estádio 1, há 3 anos. A cirurgia foi considerada completa (histerectomia, anexectomia bilateral, omentectomia e linfadenectomia, ausência de neoplasia exceto no ovário direito) e não houve necessidade de terapia complementar sistêmica. Refere ter artrite reumatoide em uso de imunobiológico há 6 anos, com melhora importante do quadro de dor articular. Demais exames de rastreamento de neoplasias (mama e cólon) estão normais. Para o tratamento do climatério, indica-se",
-      "alternativas": {
-        "A": "estrogênio transdérmico.",
-        "B": "derivados de soja por via transdérmica.",
-        "C": "progesterona natural micronizada por via vaginal.",
-        "D": "estrogênio associado a progesterona por via oral.",
-        "E": "sertralina ou sulpirida."
-      },
-      "correta": "A",
-      "explicacao": "estrogênio transdérmico. A terapia hormonal pode ser dividida em duas categorias: tópica (local) e sistêmica. A terapia sistêmica é composta pelo uso de hormônios por via transdérmica (adesivos ou géis) ou por via oral. Os regimes terapêuticos que podem ser empregados estão descritos abaixo. -- Mulheres histerectomizadas (sem útero): uso de estrogênio isoladamente. -- Mulheres com útero: estrogênio + progestagênio (proteção endometrial). - Sequencial: estrogênio contínuo + progestagênio (12 - 14 dias no mês ou a cada três a seis meses) -> preferencial até os primeiros anos de pós-menopausa. * Esse esquema apresenta taxa de sangramento maior, porém permite uma regularização do sangramento menstrual, uma queixa bastante comum nessa fase do climatério. - Contínuo: ambos os hormônios contínuos (preferencial na pós-menopausa). Já a via tópica é a opção de tratamento para atrofia urogenital. A absorção sistêmica dessa via é mínima, não havendo as mesmas contraindicações dos regimes sistêmicos.",
-      "banca": "Sírio-Libanês",
-      "instituicao": "Sírio-Libanês",
-      "ano": 2024,
-      "fonte": "Sírio-Libanês 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "data/questoes-img/pv-sír-2024-0036_74_0.png"
-      ],
-      "_id_original": "4000211735",
-      "_pdf": "15. SÍRIO.pdf"
-    },
-    {
       "id": "pv-sír-2024-0061",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
@@ -4428,33 +4273,6 @@
         "data/questoes-img/pv-sír-2024-0080_155_1.png"
       ],
       "_id_original": "4000211859",
-      "_pdf": "15. SÍRIO.pdf"
-    },
-    {
-      "id": "pv-sír-2025-0122",
-      "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
-      "enunciado": "Paciente vitima de trauma moto x anteparo fixo, na cena apresentava FC: 120 bpm, PA: 140 × 90 mmHg e Glasgow 4, sendo intubado em sequência rápida e levado com colar e prancha rígida ao pronto-socorro. No atendimento inicial, após medidas de reanimação, feita radiografia com o seguinte achado. Sobre este caso clinico, é correto afirmar:",
-      "alternativas": {
-        "A": "Traumatismo esplênico e está indicada laparotomia para tratamento da lesão.",
-        "B": "Pneumotórax à direita, sendo indicada drenagem torácica.",
-        "C": "Atelectasia pulmonar, sendo o tratamento indicado ventilação com pressão positiva.",
-        "D": "Hérnia diafragmática traumática e o tratamento cirúrgico estão indicados.",
-        "E": "Hemotórax traumático, que deverá ser drenado."
-      },
-      "correta": "D",
-      "explicacao": "Hérnia diafragmática traumática e o tratamento cirúrgico estão indicados. Estamos diante de um paciente vítima de queda de moto apresentando na radiografia de tórax hérnia diafragmática à esquerda (presença de alças na cavidade torácica). Vamos relembrar as indicações de laparotomia imediata no trauma abdominal contuso: - Trauma abdominal com dor e irritação abdominal; - Paciente instável com FAST ou LPD positivos; - Pneumopetriônio; retropneumoperitônio - Evidência de ruptura diafragmática; - Sangramento gastrointestinal persistente e significativo observado na drenagem nasogástrica ou vômito (hematêmese) ou sangramento retal; - TC de abdome revelando lesão do trato gastrointestinal, lesão vesical intraperitoneal, lesão de pedículo renal e lesão parenquimatosa grave. Dessa forma, nosso paciente tem indicação de tratamento cirúrgico imediato para redução do conteúdo herniado e fechamento do diafragma.",
-      "banca": "Sírio-Libanês",
-      "instituicao": "Sírio-Libanês",
-      "ano": 2025,
-      "fonte": "Sírio-Libanês 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "data/questoes-img/pv-sír-2025-0122_248_0.png",
-        "data/questoes-img/pv-sír-2025-0122_249_0.png"
-      ],
-      "_id_original": "4000234899",
       "_pdf": "15. SÍRIO.pdf"
     },
     {
@@ -5544,40 +5362,6 @@
       "imagens_explicacao": []
     },
     {
-      "id": "pv-ena-2025-0128",
-      "area": "Cirurgia",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes Mellitus",
-      "enunciado": "Um paciente de 58 anos foi submetido a uma gastrectomia subtotal devido a um adenocarcinoma gástrico. Após a cirurgia, ele desenvolveu episódios frequentes de sudorese, palpitações, tonturas e diarreia após as refeições. Essa complicação pós-operatória está relacionada:",
-      "alternativas": {
-        "A": "ao desenvolvimento de diabetes mellitus tipo 2;",
-        "B": "a uma trombose venosa profunda;",
-        "C": "à síndrome de dumping;",
-        "D": "ao aumento da densidade óssea;",
-        "E": "à presença de úlcera alcalina."
-      },
-      "correta": "C",
-      "explicacao": "à síndrome de dumping; Paciente no pós-operatório de gastrectomia com reconstrução a BII, apresentando quadro clínico típico de síndrome de dumping precoce. Embora possa surgir após qualquer tipo de gastrectomia, o dumping precoce é mais comum após a gastrectomia parcial com a Billroth II. A síndrome de dumping precoce corresponde ao surgimento de sintomas gastrointestinais e vasomotores em 15 a 20 minutos após as refeições. Os sintomas gastrointestinais incluem náuseas e vômitos, sensação de plenitude gástrica, cólicas abdominais e, frequentemente, diarreia explosiva. Com menor frequência, ocorrem sintomas vasomotores, como palpitações, diaforese, tonturas e rubor. O dumping precoce é resultado do rápido esvaziamento de alimentos hiperosmolares (carboidratos simples) no intestino delgado devido à interrupção do mecanismo pilórico, que, associada à pequena bolsa gástrica após a gastrectromia, impede o estômago de preparar seu conteúdo e liberá-lo para o intestino proximal. Os pacientes devem ser orientados a evitar alimentos ricos em açúcar e a substituí-los por uma dieta composta por alimentos ricos em fibras, em carboidratos complexos, em gorduras e em proteínas, além de fazer refeições pequenas e frequentes. Para aqueles que não respondem às medidas dietéticas, os agonistas de ação prolongada do octreotide têm melhorado os sintomas (retardam o esvaziamento gástrico e a motilidade do intestino delgado). Normalmente, o dumping precoce é autolimitado e resolve-se dentro de 7 a 12 semanas. Aproveitando a questão, a síndrome de dumping tardio, atualmente referida como hipoglicemia hiperinsulinêmica pós-prandial, é uma complicação mais rara. Os sintomas do dumping tardio geralmente ocorrem de uma a três horas após a ingestão de carboidratos e, geralmente, meses a anos após a cirurgia. Estão associados à hipoglicemia documentada.",
-      "banca": "ENARE",
-      "instituicao": "ENARE",
-      "ano": 2025,
-      "fonte": "ENARE 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-ena-2025-0128_211_0.jpeg",
-        "pv-ena-2025-0128_212_0.jpeg",
-        "pv-ena-2025-0128_213_0.png"
-      ],
-      "_id_original": "4000227390",
-      "_pdf": "1. ENARE.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ena-2025-0128_211_0.jpeg",
-        "data/questoes-img/pv-ena-2025-0128_212_0.jpeg",
-        "data/questoes-img/pv-ena-2025-0128_213_0.png"
-      ]
-    },
-    {
       "id": "pv-ena-2025-0130",
       "area": "Cirurgia",
       "subarea": "Gastroenterologia",
@@ -5700,39 +5484,6 @@
         "data/questoes-img/pv-ena-2025-0136_228_1.png"
       ],
       "imagens_explicacao": []
-    },
-    {
-      "id": "pv-ena-2025-0138",
-      "area": "Cirurgia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuficiência Cardíaca",
-      "enunciado": "Um paciente de 81 anos, com diagnóstico de doença pulmonar obstrutiva crônica e insuficiência cardíaca congestiva, é internado para tratamento de pneumonia. Após alguns dias de tratamento com antibióticos e repouso no leito, ele começa a apresentar distensão abdominal significativa, dor leve e náuseas, mas sem vômitos. Não apresenta sinais clínicos de peritonite aos exames físico e laboratorial. Radiografias do abdômen mostram dilatação importante dos cólons, principalmente no ceco e cólon ascendente, porém sem evidência de obstrução mecânica. Diante desse quadro clínico, o diagnóstico mais provável e a melhor abordagem inicial para o manejo desse paciente são, respectivamente:",
-      "alternativas": {
-        "A": "síndrome de Ogilvie e tratamento com neostigmina;",
-        "B": "colite pseudomembranosa e tratamento com metronidazol;",
-        "C": "obstrução intestinal por brida e tratamento com cirurgia exploratória;",
-        "D": "volvo de sigmoide e tratamento com sigmoidoscopia descompressiva;",
-        "E": "íleo paralítico e tratamento com reposição de eletrólitos e mobilização precoce."
-      },
-      "correta": "A",
-      "explicacao": "síndrome de Ogilvie e tratamento com neostigmina; O enunciado nos descreve um quadro muito característico de pseudo-obstrução colônica, também chamada síndrome de Ogilvie, que consiste na distensão aguda do cólon, com sinais e sintomas de obstrução colônica, na ausência de uma causa física de obstrução intestinal. Esse quadro geralmente acomete pacientes hospitalizados ou institucionalizados, em associação com uma doença grave ou após uma cirurgia, em conjunto com um desequilíbrio metabólico ou administração de certos fármacos. As condições predisponentes mais comuns são o trauma não cirúrgico, infecção (sepse), ventilação mecânica e doença cardíaca (principalmente infarto agudo do miocárdio). O diagnóstico deve ser suspeitado em pacientes hospitalizados que apresentem distensão abdominal e confirmado por exame de imagem. Geralmente, o diagnóstico é feito por exclusão, sendo primordial descartar uma obstrução intestinal mecânica que necessite de tratamento cirúrgico. As radiografias abdominais mostram um cólon dilatado, geralmente do ceco à flexão esplênica com haustrações normais, semelhante a uma obstrução intestinal baixa. As estratégias terapêuticas encontram-se abaixo. Dito isso, vamos às alternativas.",
-      "banca": "ENARE",
-      "instituicao": "ENARE",
-      "ano": 2025,
-      "fonte": "ENARE 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-ena-2025-0138_231_0.png",
-        "pv-ena-2025-0138_233_0.png"
-      ],
-      "_id_original": "4000227380",
-      "_pdf": "1. ENARE.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-ena-2025-0138_231_0.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ena-2025-0138_233_0.png"
-      ]
     },
     {
       "id": "pv-ena-2025-0167",
@@ -5862,72 +5613,6 @@
       ]
     },
     {
-      "id": "pv-pe-2025-0108",
-      "area": "Cirurgia",
-      "subarea": "Nefrologia",
-      "sub_subarea": "Doença Renal Crônica",
-      "enunciado": "Um homem de 45 anos chega ao hospital com náuseas, constipação e fraqueza muscular. Ele relata uso diário de altas doses de vitamina D e cálcio há vários meses. Exames laboratoriais mostram cálcio sérico de 12,5 mg/dL (referência: 8,5–10,5 mg/dL), PTH baixo de 10 pg/mL (referência: 15–65 pg/mL), 25-hidroxivitamina D elevada de 150 ng/mL (referência: 20–50 ng/mL) e creatinina normal. Qual é a conduta inicial mais apropriada para o manejo desse paciente?",
-      "alternativas": {
-        "A": "Prescrever bifosfonatos para reduzir o cálcio sérico.",
-        "B": "Administrar corticosteroides para reduzir a absorção de cálcio.",
-        "C": "Iniciar diálise para remoção do excesso de cálcio.",
-        "D": "Realizar paratireoidectomia para controle da hipercalcemia.",
-        "E": "Suspender a suplementação de vitamina D e iniciar hidratação venosa com solução salina."
-      },
-      "correta": "E",
-      "explicacao": "Suspender a suplementação de vitamina D e iniciar hidratação venosa com solução salina. Estrategistas, temos um paciente com manifestações clínicas de hipercalcemia (náuseas, constipação e fraqueza muscular), corroborada por níveis séricos de cálcio elevados. Quanto à etiologia, o padrão laboratorial é sugestivo de intoxicação por vitamina D (Cálcio elevado, PTH suprimido e 25-OH-vitamina D elevada). Como se trata de um caso de hipercalcemia sem sintomas de gravidade (como desidratação intensa e rebaixamento de nível de consciência) e com cálcio total menor do que 14 mg/dL, podemos considerar o caso como de gravidade leve a moderada. Nesses cenários, o melhor tratamento é corrigir a causa-base (suspender a suplementação de vitamina D) e instituir hidratação. Isso difere da conduta a ser tomada nos casos graves (também chamados de crise hipercalcêmica), onde o tratamento geralmente é feito com correção da causa-base, hidratação e bisfosfonato endovenoso. Esta é uma questão bem tradicional sobre a investigação de hipercalcemia. Vamos relembrar alguns conceitos sobre o tema. MANIFESTAÇÕES CLÍNICAS A hipercalcemia leva a uma REDUÇÃO da excitabilidade das membranas neuronais, causando uma redução da atividade do sistema nervoso como um todo. Isso ocorre porque o cálcio que se acumula no meio extracelular possui carga positiva. Recorde que o neurônio apresenta uma carga negativa em seu citoplasma, de forma que o aumento da diferença de potencial entre o meio intra e extracelular dificultará a sua despolarização. Mecanismos similares ocorrem também no sistema de condução cardíaco, justificando parte das alterações eletrocardiográficas observadas. Por fim, a hipercalcemia, por mecanismos pouco claros, provoca resistência do receptor de vasopressina nos ductos coletores renais ao seu ligante, ocasionando um quadro de diabetes insipidus nefrogênico. As manifestações clínicas da hipercalcemia são: Nas questões de prova as três grandes dicas para te fazer pensar em hipercalcemia são: - Poliúria, polidipsia e desitração - para te fazer pensar em diabetes insipidus. - Sintomas gastrointestinais - pois há redução da excitabilidade do sistema nervoso entérico e, consequentemente, da motilidade. - Encurtamento do intervalo Qt - cuja explicação fisiopatológica está abaixo. ETIOLOGIA As duas principais etiologias de hipercalcemia sintomática são: Hiperparatireoidismo primário e Hipercalcemia da malignidade. Contudo, muitas outras etiologias podem provocar hipercalcemia, sendo esta uma das abordagens mais ricas da medicina interna: O primeiro exame a ser solicitado na abordagem da hipercalcemia é o PTH. Se ele estiver elevado ou inapropriadamente normal, temos duas grandes opções diagnósticas: - Hiperparatireoidismo primário: condição na qual há um aumento na secreção de PTH de forma autônoma pelas paratireoides. Esta é a principal causa de hipercalcemia na comunidade. Nela, encontramos o seguinte padrão laboratorial: PTH elevado, cálcio elevado, fósforo normal ou reduzido (por efeito do PTH) e calciúria normal ou elevada. Apesar de o PTH estimular a reabsorção renal de cálcio, a quantidade deste eletrólito presente no filtrado glomerular é tão grande que esgota a capacidade do rim de reabsorção, levando à calciúria elevada. - Hipercalcemia hipocalciúrica familiar (HHF): Essa é uma condição na qual existe uma mutação do receptor presente nas paratireoides responsável por \"verificar\" os níveis séricos de cálcio, o CaSR (Calcium sensing receptor). O resultado é que as paratireoides dessas pessoas vão precisar de níveis séricos de cálcios mais elevados para que as paratireóides percebam que o cálcio está ali. Essa é uma condição benigna e geralmente assintomática, na qual os pacientes apresentam o seguinte perfil laboratorial: PTH normal ou levemente elevado, cálcio normal ou levemente elevado, fósforo normal e calciúria reduzida. Atenção a calciúria reduzida é a principal forma de diferenciarmos a HHF do hiperparatireoidismo primário! A hipocalciúria ocorre porque o CaSR também está presente nos túbulos renais. Seguindo o fluxograma, caso o PTH esteja suprimido, devemos investigar a possibilidade de hipercalcemia da malignidade. No hospital, esta é a causa mais comum de hipercalcemia. O câncer pode levar à hipercalcemia por diversos mecanismos, como: (1) produção de molécula similar ao PTH, chamada de PTHrp; (2) presença de lesões ósseas líticas, metastáticas ou por mieloma múltiplo, com liberação do cálcio e fósforo existente naquele osso destruído; (3) Aumento na conversão de 25-OH-vitamina D a 1,25-OH-vitamina D (sua forma metabolicamente ativa) e (4) Produção ectópica de PTH (raro). Assim, para a investigação de hipercalcemia da malignidade devemos avaliar de forma clínico-radiológica a presença de um câncer ou dosar o nível sérico de PTHrp (pouco disponível na prática). Caso seja descartada a presença de malignidade, devemos solicitar a dosagem de vitamina D (25-OH-Vitamina D ou calcidiol) e de sua forma ativa (1,25-OH-vitamina D ou calcitriol). Quando a questão não especificar de qual tipo de exame está se referindo, a dosagem de vitamina D simples se refere ao calcidiol. Níveis séricos de calcidiol elevados sugerem intoxicação por suplementos contendo vitamina D. Níveis séricos elevados de calcitriol ocorrem por condições em que há um aumento na expressão da enzima 1-alfa-hidroxilase, como linfomas e doenças granulomatosas (como tuberculose, sarcoidose e doença de Crohn). Se tanto o calcidiol, quanto o calcitriol estiverem normais, devemos cogitar a presença de outras doenças, com destaque para o mieloma múltiplo (MM). No MM, a grande dica de prova será a presença de outras manifestações clínicas típicas, como disfunção renal, anemia e dor/lesões ósseas. A sua investigação deverá ser feita com a solicitação de eletroforese de proteínas séricas e urinárias, imunofixação sérica e urinária e pesquisa de cadeias leves livres sérica. TRATAMENTO Além do tratamento da causa-base, o tratamento da hipercalcemia deverá ser realizado de acordo com a gravidade do quadro. Quadros leves a moderados, que são aqueles com cálcio total menor do que 14 mg/dL e/ou ausência de sintomatologia grave, devem ser tratados com hidratação. Quadros graves (também chamados de crise hipercalcêmica) geralmente são encontrados em contexto de pronto-socorro. Estes são caracterizados por cálcio total maior do que 14 mg/dL ou sintomas graves (como desidratação importante, rebaixamento do nível de consciência e sintomas gastrointestinais intensos). As opções terapêuticas de primeira linha para a crise hipercalcêmica são: - Expansão volêmica com cristaloides - é a primeira medida que deve ser realizada. Muitos dos sinais e sintomas mais graves da hipercalcemia são devido à desidratação. Além disso, a expansão volêmica, por si só, é capaz de diminuir os níveis séricos de cálcio. As recomendações posológicas são: iniciar com 200-300ml/h de cristaloides e titular objetivando um débito urinário de 100-150 ml/h. Em pacientes com fatores de risco para sobrecarga volêmica (como pessoas com insuficiência cardíaca ou renal), pode-se lançar mão de diuréticos de alça para evitar a hipervolemia. - Bisfosfonatos (preferencialmente o ácido zoledrônico endovenoso) - reduzem a mobilização de cálcio do osso para o sangue. É uma medida muito eficaz, mas com início de ação somente após 1-3 dias da sua administração. Contraindicado para pacientes com taxa de filtração glomerular < 35. - Denosumab - utilizado como substituto aos bisfosfonatos nos pacientes com contraindicações ao uso dessas drogas. - Glicocorticoides - somente indicados quando a etiologia da hipercalcemia é uma doença responsiva ao corticoide, como é o caso dos linfomas e da sarcoidose. - Calcitonina - hormônio antagônico ao PTH, portanto reduzindo a calcemia. Tem o início de ação rápido, porém também possui curta duração de ação. Devido à sua baixa disponibilidade, é reservado para casos em que uma redução rápida do cálcio é necessária enquanto as demais medidas surtem efeito. Muitos autores sequer consideram a calcitonina como um tratamento de primeira linha.",
-      "banca": "SES-PE",
-      "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
-      "ano": 2025,
-      "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-pe-2025-0108_215_0.png",
-        "pv-pe-2025-0108_215_1.png",
-        "pv-pe-2025-0108_216_0.png"
-      ],
-      "_id_original": "4000235730",
-      "_pdf": "3. SES-PE.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-pe-2025-0108_215_0.png",
-        "data/questoes-img/pv-pe-2025-0108_215_1.png",
-        "data/questoes-img/pv-pe-2025-0108_216_0.png"
-      ]
-    },
-    {
-      "id": "pv-pe-2025-0112",
-      "area": "Cirurgia",
-      "subarea": "Hematologia",
-      "sub_subarea": "Distúrbios da Coagulação",
-      "enunciado": "Um homem de 48 anos, que recentemente voltou de um voo de 10 horas, apresenta dor torácica pleurítica e dispneia súbita. Ele não usou meia de compressão e permaneceu sentado por períodos prolongados. No exame físico, apresenta leve taquipneia e saturação de 93% em ar ambiente. Exames complementares mostram Dímero-D de 1500 ng/mL (referência: <500 ng/mL), Ultrassonografia Doppler de membros inferiores com trombose venosa na veia poplítea direita, e angiotomografia de tórax com defeito de enchimento em ramo segmentar da artéria pulmonar direita. Diante desse quadro, qual é a conduta inicial mais adequada?",
-      "alternativas": {
-        "A": "Administrar profilaxia com antiagregante plaquetário e monitorar.",
-        "B": "Observar e reavaliar o dímero-D em 48 horas.",
-        "C": "Realizar trombólise para evitar complicações.",
-        "D": "Iniciar anticoagulação com heparina de baixo peso molecular e orientar medidas preventivas para futuras viagens.",
-        "E": "Prescrever anticoagulação oral com varfarina e ajustar conforme INR."
-      },
-      "correta": "D",
-      "explicacao": "Iniciar anticoagulação com heparina de baixo peso molecular e orientar medidas preventivas para futuras viagens. Gabarito: alternativa D O caso descreve um homem de 48 anos que recentemente realizou um voo prolongado de 10 horas, desenvolvendo dor torácica pleurítica e dispneia súbita. Ele apresenta fatores de risco para tromboembolismo venoso (TEV), incluindo imobilização prolongada durante o voo e ausência de medidas preventivas, como o uso de meia de compressão. Exames diagnósticos revelaram aumento significativo do dímero-D (1500 ng/mL, acima do valor de referência), trombose venosa profunda em membro inferior direito identificada pelo ultrassom Doppler, e um defeito de enchimento em ramo segmentar da artéria pulmonar direita confirmado pela angiotomografia de tórax, caracterizando tromboembolismo pulmonar (TEP). A investigação de uma suspeita de TEP deve seguir uma análise da probabilidade pré-teste, que pode ser feita pelo escore de Wells, no entanto o diagnóstico em nosso caso já foi até realizado pela angiotomografia de tórax. Observe abaixo como seguiria essa investigação a partir do uso do escore de Wells: Sendo assim, resta-nos tratá-lo. O tratamento inicial do TEP agudo consiste na anticoagulação com heparina de baixo peso molecular (HBPM) subcutânea em dose terapêutica ou heparina não fracionada em bomba de infusão ou com os anticoagulantes orais diretos (DOACs) em casos menos graves, para prevenir a propagação do trombo e novas embolias. Em pacientes hemodinamicamente estáveis, como neste caso, a anticoagulação é suficiente e, em geral deve ser mantida por 3 a 6 meses. Comentário das alternativas:",
-      "banca": "SES-PE",
-      "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
-      "ano": 2025,
-      "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-pe-2025-0112_226_0.png",
-        "pv-pe-2025-0112_226_1.jpeg"
-      ],
-      "_id_original": "4000235726",
-      "_pdf": "3. SES-PE.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-pe-2025-0112_226_0.png",
-        "data/questoes-img/pv-pe-2025-0112_226_1.jpeg"
-      ]
-    },
-    {
       "id": "pv-pe-2025-0121",
       "area": "Cirurgia",
       "subarea": "Geral",
@@ -5997,37 +5682,6 @@
       ]
     },
     {
-      "id": "pv-mg-2024-0002",
-      "area": "Cirurgia",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Síndrome Metabólica / Obesidade",
-      "enunciado": "Mulher de 32 anos, IMC 42Kg/m², apresentado como co-morbidades hipertensão arterial sistêmica, dislipidemia, esteatose hepática acentuada e diabetes mellitus tipo 2 de difícil controle. Está em uso de insulina há dois anos. Ela foi encaminhada para tratamento cirúrgico da obesidade e foi liberada pela equipe multidisciplinar. Em relação ao tratamento cirúrgico dessa paciente, assinale a alternativa ERRADA:",
-      "alternativas": {
-        "A": "A dosagem pré-operatória do peptídeo C é preditor da melhora do diabetes no pósoperatório.",
-        "B": "A exclusão duodenal não afeta a absorção de proteínas.",
-        "C": "Deve ser indicada a realização de cirurgia bypass gástrico em Y de Roux.",
-        "D": "Podem ocorrer deficiências de ferro, de folato, de vitamina B12 e de vitamina D no pós- operatório."
-      },
-      "correta": "B",
-      "explicacao": "A exclusão duodenal não afeta a absorção de proteínas. Antes de tudo, é importante que você saiba definir se o paciente em questão possui indicação para a realização de uma cirurgia para perda de peso. Afinal, esse é um tema que despenca nas provas. As cirurgias bariátricas, independentemente da técnica a ser utilizada, estão indicadas nas situações abaixo relacionadas: Em relação à massa corpórea: a) IMC > 40, independentemente da presença de comorbidades. b) IMC entre 35 e 40 na presença de comorbidades relacionadas à obesidade. Também é obrigatória a constatação de “intratabilidade clínica da obesidade”, ou seja, o paciente não consegue perder peso apesar dos cuidados médicos realizados regularmente há pelo menos dois anos, como dietoterapia, psicoterapia, tratamento farmacológico e atividade física. São comorbidades relacionadas a alterações decorrentes do excesso de gordura corporal: Posto isso, vamos avaliar separadamente cada uma das alternativas, e revisar alguns aspectos técnicos quanto ao tratamento cirúrgico da obesidade, lembrando que a questão quer a assertiva ERRADA.",
-      "banca": "PSU-MG",
-      "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
-      "ano": 2024,
-      "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-mg-2024-0002_5_0.png",
-        "pv-mg-2024-0002_5_1.png"
-      ],
-      "_id_original": "4000210991",
-      "_pdf": "4. PSU-MG.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-mg-2024-0002_5_0.png",
-        "data/questoes-img/pv-mg-2024-0002_5_1.png"
-      ]
-    },
-    {
       "id": "pv-mg-2024-0020",
       "area": "Cirurgia",
       "subarea": "Pneumologia",
@@ -6078,41 +5732,6 @@
       "imagens": [],
       "_id_original": "4000211010",
       "_pdf": "4. PSU-MG.pdf"
-    },
-    {
-      "id": "pv-mg-2025-0115",
-      "area": "Cirurgia",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Tireoide",
-      "enunciado": "Homem de 54 anos queixa-se de formigamento nas mãos e nos pés e fraqueza generalizada. Realizou tireoidectomia total há duas semanas por causa de bócio multinodular e faz uso de levotiroxina 150mcg ao dia. Ao exame físico, apresenta contratura carpal após 3 minutos de insuflação do manguito do esfigmomanômetro acima da pressão arterial sistólica. EXAMES DE LABORATÓRIO: cálcio total 7,3mg/dl; fósforo 5,4mg/dL; albumina 4,3g/dL. Assinale a alternativa que apresenta uma complicação precoce ou tardia que NÂO ocorre devido ao distúrbio metabólico mais provavelmente apresentado pelo paciente:",
-      "alternativas": {
-        "A": "Insuficiência cardíaca",
-        "B": "Laringoespasmo",
-        "C": "Osteoporose",
-        "D": "Síndrome rígido-acinética"
-      },
-      "correta": "C",
-      "explicacao": "Osteoporose Paciente com quadro de formigamento, dor abdominal, fraqueza generalizada e sinal de Trousseau (flexão do punho e das articulações metacarpofalangeanas, extensão das interfalangeanas distais e adução do polegar à medida pressórica), no pós-operatório de uma tireoidectomia. Todo o quadro é muito sugestivo de hipoparatireoidismo primário iatrogênico com hipocalcemia sintomática, cujo principal tratamento é a reposição de cálcio. Vamos revisar um pouco sobre hipocalcemia. O principal mecanismo fisiopatológico a se conhecer da hipocalcemia para entender suas manifestações clínicas é que esta condição leva a um AUMENTO da excitabilidade das membranas neuronais. Isso ocorre porque o cálcio que se acumula no meio extracelular possui carga positiva. Recorde que o neurônio apresenta uma carga negativa em seu citoplasma, de forma que a redução da diferença de potencial entre o meio intra e extracelular (por redução da quantidade de cargas positivas pelo déficit de cálcio) facilitará a sua despolarização. Mecanismos similares ocorrem também no sistema de condução cardíaco, justificando parte das alterações eletrocardiográficas observadas. A hipocalcemia severa pode se manifestar por múltiplos sinais e sintomas clínicos: - Parestesias periorais - Cãimbras - Dor abdominal - Vômitos - Espasmos - Laringoespasmo e broncoespasmo - Tetania (contração muscular generalizada) - Convulsões - Aumento do intervalo QT e, consequentemente, de risco de taquiarritmias - Insuficiência cardíaca - Sinal de Chvostek - Percussão do masseter e/ou zigomático levando a contração da musculatura facial e desvio ipsilateral da boca. - Sinal de Trousseau - Testado com a insuflação do manguito com pressão fixa no valor médio entre a pressão arterial sistólica e a diastólica. Ocorre flexão do punho e das articulações metacarpofalangeanas, extensão das interfalangeanas distais e adução do polegar Sempre que estamos diante de uma hipocalcemia, como o cálcio se liga à albumina, devemos dosar o nível sérico de albumina e corrigir o valor do cálcio total para a albumina (segundo a fórmula abaixo). Atentar que níveis de cálcio iônico não precisam ser corrigidos, porque aqui só se dose a fração livre do cálcio, não sendo incluída aquela fração ligada à albumina Os dois principais reguladores dos níveis séricos de cálcio são o PTH e a vitamina D. Relembre que o PTH tem como ação o aumento da calcemia por meio do estímulo à reabsorção óssea, reabsorção renal de cálcio e conversão da vitamina D à sua forma ativa. Por sua vez, a vitamina D estimula a reabsorção intestinal e renal de cálcio e fósforo. Recorde também que os níveis séricos de cálcio exercem, por sua vez, um feedback negativo na secreção de PTH. Como este hormônio tem papel fundamental na regulação da calcemia, dividimos as etiologias de hipocalcemia de acordo com os níveis de PTH. Revise a tabela abaixo: Destas etiologias, a mais comum a causar hipocalcemias graves é o hipoparatireoidismo primário iatrogênico pós-tireoidectomia, que ocorre devido a lesão isquêmica das paratireoides durante a dissecção da tireoide ou por exérese inadvertida das glândulas.",
-      "banca": "PSU-MG",
-      "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
-      "ano": 2025,
-      "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-mg-2025-0115_220_0.png",
-        "pv-mg-2025-0115_220_1.png",
-        "pv-mg-2025-0115_220_2.png",
-        "pv-mg-2025-0115_221_0.png"
-      ],
-      "_id_original": "4000233824",
-      "_pdf": "4. PSU-MG.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-mg-2025-0115_220_0.png",
-        "data/questoes-img/pv-mg-2025-0115_220_1.png",
-        "data/questoes-img/pv-mg-2025-0115_220_2.png",
-        "data/questoes-img/pv-mg-2025-0115_221_0.png"
-      ]
     },
     {
       "id": "pv-mg-2025-0126",
@@ -6658,29 +6277,6 @@
       "_pdf": "7. UERJ.pdf"
     },
     {
-      "id": "pv-hcp-2024-0032",
-      "area": "Cirurgia",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatites",
-      "enunciado": "Paciente de 62 anos, com cirrose por hepatite C e álcool, foi trazido à Emergência por confusão mental e aumento de volume abdominal. Ao exame físico, apresentava ascite, flapping e desorientação. Os exames complementares iniciais revelaram hemoglobina de 9,3 g/dl, leucócitos de 2.430/mm³, plaquetas de 56.000/mm³, creatinina de 2,3 mg/dl, sódio de 132 mEq/l, tempo de protrombina de 18,1 segundos e atividade de 52%, bilirrubina total de 2,8 mg/dl e direta de 1,9 mg/dl. Em relação ao caso clínico, assinale a assertiva correta.",
-      "alternativas": {
-        "A": "Está indicada paracentese diagnóstica para pesquisa de peritonite bacteriana espontânea, que constitui infecção do líquido de ascite devido à translocação bacteriana e pode ser um desencadeante de encefalopatia hepática.",
-        "B": "Deve ser iniciada administração de diuréticos, sendo espironolactona a primeira opção para o manejo da ascite na cirrose.",
-        "C": "Deve ser considerada encefalopatia hepática, porém, para confirmação do diagnóstico, é necessário realizar dosagem de amônia sérica que apresenta relação direta com os sintomas.",
-        "D": "Ocorre hiponatremia na maioria dos pacientes com cirrose e ascite e pode ser um desencadeante de encefalopatia hepática, sendo recomendada restrição hídrica < 1,5 litro/dia quando a concentração de sódio sérica estiver < 135 mEq/l."
-      },
-      "correta": "A",
-      "explicacao": "Está indicada paracentese diagnóstica para pesquisa de peritonite bacteriana espontânea, que constitui infecção do líquido de ascite devido à translocação bacteriana e pode ser um desencadeante de encefalopatia hepática. Estrategista, vamos abordar esta questão focando nas complicações da cirrose hepática, especificamente a encefalopatia hepática e a ascite, que são fundamentais para entender o caso clínico apresentado. A cirrose, como sabemos, é uma condição crônica do fígado caracterizada por fibrose e formação de nódulos, que alteram a arquitetura e a função hepática. As complicações decorrentes da cirrose, como a encefalopatia hepática e a ascite, são desafios comuns no manejo clínico desses pacientes. - Encefalopatia Hepática A encefalopatia hepática é uma disfunção cerebral causada pela incapacidade do fígado de remover substâncias nitrogenadas do sangue, predominantemente a AMÔNIA (NH3), que atravessa facilmente a barreira hematoencefálica, provocando toxicidade direta ao SNC. Isso pode levar a uma variedade de sintomas neuropsiquiátricos, desde alterações sutis no comportamento (como inversão do sono-vigília, discreta desorientação) no até torpor e coma. Você precisa decorar as causas mais comuns de desencadeamento da encefalopatia hepática, que incluem infecções (especialmente a peritonite bacteriana espontânea), sangramento gastrointestinal (especialmente por ruptura de varizes de esôfago), desequilíbrio eletrolítico e metabólico (hiponatremia, alcalose metabólica), hipóxia, hipoglicemia, hipovolemia, desidratação, constipação, abuso alimentar (especialmente o alto consumo de proteínas), abuso de álcool e uso de diuréticos. - Ascite A ascite, por outro lado, é o acúmulo anormal de líquido no espaço peritoneal, frequentemente associado à hipertensão portal e hipoalbuminemia na cirrose. Lembre-se de que, na cirrose, a paracentese diagnóstica é fundamental para confirmar a natureza da ascite. Devemos calcular o GASA (Gradiente de Albumina Soro - Ascite), que é a diferença do valor da albumina sérica pela albumina do líquido ascítico. Se esse valor for maior ou igual a 1,1, é compatível com hipertensão portal e cirrose (transudato, líquido pobre em proteínas). Se o valor for inferior a 1,1, é compatível com exsudato, e devemos considerar outras etiologias, como tuberculose peritoneal, ascite carcinomatosa, ascite pancreática, ascite quilosa ou síndrome nefrótica. A ascite pode ser complicada por infecções, como a peritonite bacteriana espontânea (PBE), que é uma infecção primária do líquido ascítico sem uma fonte intra- abdominal evidente, muitas vezes proveniente da translocação de bactérias intestinais. Agora, vamos avaliar as alternativas:",
-      "banca": "HCPA",
-      "instituicao": "HCPA",
-      "ano": 2024,
-      "fonte": "HCPA 2024",
-      "dificuldade": "Média",
-      "imagens": [],
-      "_id_original": "4000208259",
-      "_pdf": "8. HCPA.pdf"
-    },
-    {
       "id": "pv-hcp-2024-0054",
       "area": "Cirurgia",
       "subarea": "Cardiologia",
@@ -6707,35 +6303,6 @@
       "imagens_enunciado": [],
       "imagens_explicacao": [
         "data/questoes-img/pv-hcp-2024-0054_101_0.png"
-      ]
-    },
-    {
-      "id": "pv-hcp-2024-0071",
-      "area": "Cirurgia",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes Mellitus",
-      "enunciado": "Paciente de 62 anos veio à consulta por apresentar episódios intermitentes de sangramento vaginal após a menopausa. A investigação diagnóstica identificou adenocarcinoma não endometrioide do endométrio. Com base na patogênese da neoplasia e no grupo histológico específico, é possível afirmar que",
-      "alternativas": {
-        "A": "há associação entre esse tipo de adenocarcinoma e obesidade e diabetes melito.",
-        "B": "o tumor apresenta como marcador biomolecular mutação em p53.",
-        "C": "a doença tem comportamento biológico indolente e pouco agressivo.",
-        "D": "o tratamento cirúrgico indicado é histerectomia com salpingooforectomia bilateral sem estadiamento cirúrgico."
-      },
-      "correta": "B",
-      "explicacao": "o tumor apresenta como marcador biomolecular mutação em p53. Estrategista, classificamos o câncer de endométrio em tipo I e tipo II. Veja a tabela abaixo: Os cânceres do endométrio do tipo II incluem os carcinomas de células claras, o carcinoma seroso e os tumores mistos (carcinossarcomas). Os carcinomas de células claras e seroso não são estimulados pelo estrogênio e tem uma fisiopatologia diferente. Eles geralmente surgem no endométrio atrófico ou de um pólipo endometrial em mulheres mais velhas. A carcinogênese dos tumores do tipo II de endométrio não está relacionada com o estímulo estrogênico sem oposição da progesterona e ainda não está completamente esclarecida. A carcinogênese destes tumores está relacionada com alterações genéticas diferentes das mutações envolvidas nos tumores do tipo I. Os tumores do tipo II não se originam da hiperplasia atípica. Os tumores do tipo II têm outras lesões precursoras. A lesão precursora do carcinoma seroso é o carcinoma intraepitelial endometrial (CIE). É caracterizado por uma única camada de células muito atípicas que revestem a superfície da cavidade endometrial ou de um pólipo. O CIE contém mutações do p53. Os carcinomas serosos mostram altos níveis de aneuploidia, amplificação do fator de crescimento epidérmico humano 2 (HER2) e alterações de p16. A lesão precursora do carcinoma de células claras é o carcinoma intraepitelial de células claras. São muito semelhantes ao carcinoma de células claras do rim. O carcinoma seroso é o segundo tipo histológico mais comum de câncer de endométrio, sendo responsável por aproximadamente 10% dos casos. São considerados tumores do tipo II. Os carcinomas endometriais serosos têm um mal prognóstico, porque frequentemente é diagnosticado quando já existe doença extra-uterina. Os carcinomas serosos têm um comportamento agressivo e geralmente se infiltram difusamente no miométrio, além de poder apresentar extensa invasão do espaço linfovascular e disseminação peritoneal. Os tumores serosos apresentam alterações no p53, assim como outras alterações moleculares como p16, E-caderina e C-erb-B2 (Her 2). A intensa proliferação celular deste carcinoma pode ser confirmada pela imuno-histoquímica com valores altos do Ki67. São estas alterações bioquímicas e genéticas que conferem maior agressividade à este tipo histológico. O carcinoma de células claras é um tipo histológico incomum e corresponde a menos que 5% dos casos de câncer de endométrio. Como o carcinoma seroso, esse tumor é tipicamente de alto grau e geralmente se apresenta em estágio avançado, sendo um tumor do tipo II. Agora vamos analisar as alternativas:",
-      "banca": "HCPA",
-      "instituicao": "HCPA",
-      "ano": 2024,
-      "fonte": "HCPA 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-hcp-2024-0071_130_0.png"
-      ],
-      "_id_original": "4000208330",
-      "_pdf": "8. HCPA.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-hcp-2024-0071_130_0.png"
       ]
     },
     {
@@ -6797,103 +6364,6 @@
       "_pdf": "8. HCPA.pdf"
     },
     {
-      "id": "pv-hcp-2025-0165",
-      "area": "Cirurgia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Doença Arterial Coronariana",
-      "enunciado": "Paciente de 67 anos, com hipertensão arterial, diabetes melito e história de tabagismo, foi trazido à Emergência de um hospital terciário por dor torácica opressiva iniciada há aproximadamente 2 horas, que se irradiava para o braço esquerdo, associada a sudorese e náuseas. Informou que a dor surgira enquanto realizava uma caminhada leve. À admissão, apresentava pressão arterial de 140/90 mmHg, frequência cardíaca de 137 bpm e saturação de oxigênio de 96%. O exame físico não revelou anormalidades significativas. Exames laboratoriais iniciais indicaram níveis ligeiramente elevados de troponina T ultrassensível. O eletrocardiograma em repouso, feito no momento da chegada, está reproduzido abaixo. Considerando o caso clínico, assinale a alternativa que contempla o diagnóstico e o manejo adequado.",
-      "alternativas": {
-        "A": "Infarto agudo do miocárdico com supradesnivelamento do segmento ST de parede anterior – O paciente deve ser submetido ou à trombólise com alteplase ou à estratégia de estratificação invasiva imediata (< 2 horas).",
-        "B": "Infarto agudo do miocárdico sem supradesnivelamento do segmento ST de alto risco – O paciente necessita ser submetido à estratégia de estratificação invasiva precoce (< 24 horas).",
-        "C": "Infarto agudo do miocárdico sem supradesnivelamento do segmento ST, de muito alto risco – O paciente necessita ser submetido à estratégia de estratificação invasiva imediata (< 2 horas).",
-        "D": "Angina instável – O paciente deve ser submetido a teste de estresse não invasivo."
-      },
-      "correta": "C",
-      "explicacao": "Infarto agudo do miocárdico sem supradesnivelamento do segmento ST, de muito alto risco – O paciente necessita ser submetido à estratégia de estratificação invasiva imediata (< 2 horas). Gabarito: C Comentário: Excelente questão do HCPA! Esse é um tema importante e abordado pela diretriz brasileira de angina instável e infarto sem supra. Trata-se de um paciente com quadro típico de síndrome coronariana aguda sem supra do segmento ST. Clinicamente, ele está estável. O ECG é a chave para a definição da conduta, pois é típico de isquemia subendocárdica, representado por supra do segmento ST em aVR e/ou V1 + infra ST > 1 mm em 6 ou mais derivações. Significa que há grande chance de um acometimento de tronco do coronária esquerda ou de artéria descendente anterior proximal. Esse é um achado de muito alto risco e requer cateterismo de urgência (em até 2h). Veja na tabela, as outras situações em que o cateterismo de urgência está indicado.",
-      "banca": "HCPA",
-      "instituicao": "HCPA",
-      "ano": 2025,
-      "fonte": "HCPA 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-hcp-2025-0165_299_0.png"
-      ],
-      "_id_original": "4000230249",
-      "_pdf": "8. HCPA.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-hcp-2025-0165_299_0.png"
-      ],
-      "imagens_explicacao": []
-    },
-    {
-      "id": "pv-hcp-2025-0166",
-      "area": "Cirurgia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão Arterial",
-      "enunciado": "Paciente masculino, de 70 anos, com hipertensão de longa data, apresentou quadro súbito de dor torácica retroesternal, de forte intensidade, tendo sido trazido à Emergência. À admissão, apresentava saturação de oxigênio de 96%. Foram realizados eletrocardiografia de repouso e raio X de tórax (imagens abaixo). O resultado da dosagem de troponina estava normal, e a dosagem de D-dímeros indicou 1.900 ng/ml (valor de referência: 500 ng/ml). Qual o provável diagnóstico e qual a investigação complementar?",
-      "alternativas": {
-        "A": "Síndrome aórtica aguda – angiotomografia de tórax e abdômen",
-        "B": "Síndrome coronariana aguda – coronariografia",
-        "C": "Tromboembolismo pulmonar agudo – angiografia pulmonar",
-        "D": "Aneurisma roto da aorta torácica – angiotomografia de tórax"
-      },
-      "correta": "A",
-      "explicacao": "Síndrome aórtica aguda – angiotomografia de tórax e abdômen Gabarito: A Comentário: Essa questão possui alguns pontos importantes que você precisa ficar atento(a) na hora da prova: 1. A característica da dor torácica, descrita como de início súbito. 2. Eletrocardiograma com taquicardia sinusal, sem critérios de isquemia. 3. Raio x de tórax sem achados relevantes. Ou seja, as principais informações são o tipo de dor torácica (súbita), a elevação do d- dímero, e os exames complementares sem muita relevância. Nesse tipo de caso, podemos aplicar o critério de ADD-RS, utilizado na suspeita de dissecção aguda de aorta. Veja abaixo: Seguindo o fluxograma e o critério ADD-RS, temos apenas 1 ponto (dor torácica súbita). O d- dímero está ≥ 500 mg/dl, ou seja, a próxima conduta é a realização de angiotomografia de aorta.",
-      "banca": "HCPA",
-      "instituicao": "HCPA",
-      "ano": 2025,
-      "fonte": "HCPA 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-hcp-2025-0166_301_0.png",
-        "pv-hcp-2025-0166_301_1.png",
-        "pv-hcp-2025-0166_302_0.png",
-        "pv-hcp-2025-0166_303_0.png"
-      ],
-      "_id_original": "4000230248",
-      "_pdf": "8. HCPA.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-hcp-2025-0166_301_0.png",
-        "data/questoes-img/pv-hcp-2025-0166_301_1.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-hcp-2025-0166_302_0.png",
-        "data/questoes-img/pv-hcp-2025-0166_303_0.png"
-      ]
-    },
-    {
-      "id": "pv-fam-2025-0086",
-      "area": "Cirurgia",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Pneumonias",
-      "enunciado": "Paciente de 45 anos, gênero feminino, é admitida por quadro de tosse produtiva, febre e dispneia há 3 dias. Realizou Rx de tórax cuja imagem é compatível com pneumonia de lobo inferior direito associado a velamento do seio costofrênico ipsilateral. Ao POCUS (Point-of- Care-Ultrasound) foi possível confirmar a hipótese de derrame pleural tendo sido realizada toracocentese e prescritos ceftriaxona associado a azitromicina. Os achados bioquímicos do líquido pleural evidenciam proteínas totais=4,5g/dl (sérica=6,8), DHL=1250UI/I, pH=6,9, celularidade=1800 células/mm³ (88% neutrófilos), ADA=120UI/I e cultura em andamento. Qual deve ser a conduta mais adequada neste momento?",
-      "alternativas": {
-        "A": "Indicar drenagem torácica",
-        "B": "Escalonar antibioticoterapia para tazocin e vancomicina",
-        "C": "Manter antibioticoterapia e reavaliar resposta clínica em 48h",
-        "D": "Investigar tuberculose como condição facilitadora da pneumonia bacteriana"
-      },
-      "correta": "A",
-      "explicacao": "Indicar drenagem torácica Gabarito: alternativa A O caso clínico apresentado descreve uma paciente de 45 anos com pneumonia de lobo inferior direito associada a derrame pleural. A confirmação do derrame foi realizada por ultrassonografia, e o líquido pleural analisado apresenta características típicas de um derrame parapneumônico complicado ou empiema pleural, evidenciado por pH ácido (6,9), DHL elevada (1250 UI/L) e predominância de neutrófilos na celularidade. O ADA de 120 U/L, embora sugestivo de tuberculose em certos contextos, também pode ser encontrado em empiemas bacterianos, especialmente em quadros com intensa resposta inflamatória. Veja como diferenciar a partir da análise de toracoentese os derrames parapneumônicos complicados dos não complicados: Derrames parapneumônicos complicados, ou empiemas, são classificados como estágios avançados de infecção pleural, que frequentemente requerem intervenção mecânica, como drenagem torácica, para resolução do quadro. O tratamento empírico antibiótico deve ser mantido, mas, diante das características laboratoriais do líquido pleural, a drenagem torna-se uma medida terapêutica essencial para controle da infecção e prevenção de complicações adicionais. Comentário das alternativas:",
-      "banca": "FAMERP",
-      "instituicao": "FAMERP",
-      "ano": 2025,
-      "fonte": "FAMERP 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-fam-2025-0086_179_0.png",
-        "pv-fam-2025-0086_180_0.jpeg"
-      ],
-      "_id_original": "4000234570",
-      "_pdf": "9. FAMERP.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-fam-2025-0086_179_0.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-fam-2025-0086_180_0.jpeg"
-      ]
-    },
-    {
       "id": "pv-fam-2025-0147",
       "area": "Cirurgia",
       "subarea": "Cardiologia",
@@ -6915,35 +6385,6 @@
       "imagens": [],
       "_id_original": "4000234304",
       "_pdf": "9. FAMERP.pdf"
-    },
-    {
-      "id": "pv-fam-2025-0149",
-      "area": "Cirurgia",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes Mellitus",
-      "enunciado": "Mulher de 52 anos, obesa, diabética, comparece ao pronto-atendimento queixando-se de febre alta e aparecimento de grande ferida dolorosa em região da vulva há 3 dias. Ao exame físico, observa-se a lesão abaixo: Sobre o diagnóstico e o tratamento desta condição, assinale a alternativa correta:",
-      "alternativas": {
-        "A": "A fasceite necrotizante do perineo, também chamada de gangrena de Fournier corresponde a uma infecção monomicrobiana das partes moles do perineo causada por cepas multi-resistentes de Staphylococcus aureus.",
-        "B": "Trata-se de uma infecção polimicrobiana causada por espécies anaeróbias (mais comumente Bacteroides e Clostridium) em combinação com enterobactérias (por exemplo, Escherichia coli, Klebsiella, Proteus).",
-        "C": "Diabetes, obesidade, hipertensão arterial sistémica e neoplasias malignas são considerados os principais fatores de risco associados e o tratamento depende da compensação clinica destas condições.",
-        "D": "O desbridamento cirúrgico deve ser realizado idealmente em até 72 horas do diagnóstico, associado a antibioticoterapia de amplo espectro e terapias de curativo à vácuo."
-      },
-      "correta": "B",
-      "explicacao": "Trata-se de uma infecção polimicrobiana causada por espécies anaeróbias (mais comumente Bacteroides e Clostridium) em combinação com enterobactérias (por exemplo, Escherichia coli, Klebsiella, Proteus). O quadro clínico descrito, associado às áreas de necrose extensa e edema apresentados pela foto nos remete à fasceíte necrotizante perineal (Sd. de Fournier) como principal hipótese diagnóstica. As infecções necrotizantes, da qual faz parte a fasciíte necrotizante, são infecções de partes moles com evolução rápida e dramática. Em geral, são causadas por flora polimicrobiana ou, em alguns casos, por estreptococos do grupo A. As manifestações clínicas comuns incluem sintomas sistêmicos, como a toxemia, com queda do estado geral e febre. No local da lesão, há saída de secreção com odor fétido, necrose cutânea e formação e acúmulo de gás no subcutâneo, que pode ser identificado por meio de crepitação à palpação da área acometida. O diagnóstico das infecções necrotizantes é primariamente clínico e tratamento desse tipo de infecção consiste em cirurgia de urgência, com debridamento agressivo dos tecidos acometidos e introdução precoce de antibioticoterapia de amplo espectro, além de suporte hemodinâmico. Se a questão tentar lhe vender “punção ou drenagem”, ao invés de debridamento, não compre! Nos casos em que a infecção necrotizante é provocada por bactérias do gênero Clostridium, a câmara hiperbárica, como medida suplementar ao tratamento, parece reduzir a mortalidade e deve ser indicada caso esteja disponível. Dito isso, vamos às alternativas.",
-      "banca": "FAMERP",
-      "instituicao": "FAMERP",
-      "ano": 2025,
-      "fonte": "FAMERP 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-fam-2025-0149_309_0.png"
-      ],
-      "_id_original": "4000234302",
-      "_pdf": "9. FAMERP.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-fam-2025-0149_309_0.png"
-      ],
-      "imagens_explicacao": []
     },
     {
       "id": "pv-fam-2025-0150",
@@ -7069,36 +6510,6 @@
       "_pdf": "14. SUS-SP.pdf"
     },
     {
-      "id": "pv-sp-2025-0165",
-      "area": "Cirurgia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Doença Arterial Coronariana",
-      "enunciado": "Uma paciente de 49 anos de idade relatou irritabilidade, sudorese noturna e secura vaginal. Aos 44 anos, ela foi submetida à histerectomia subtotal devido a mioma uterino. A paciente é acometida por diabetes tipo II controlado e faz uso de 500 mg de metformina por dia. O ginecologista chegou ao diagnóstico de síndrome do climatério e propôs realizar uma terapia hormonal. Com base nessa situação hipotética, é correto afirmar que",
-      "alternativas": {
-        "A": "a terapia hormonal está contraindicada em razão do diabetes.",
-        "B": "deve ser realizada uma terapia hormonal combinada de estrogênio e progestagênio obrigatoriamente.",
-        "C": "pode ser realizada uma terapia hormonal apenas com estrogênio, em razão da histerectomia subtotal.",
-        "D": "será encontrado LH mais elevado que o FSH e a androstenediona bastante elevada, se for realizada uma dosagem hormonal.",
-        "E": "a melhor terapêutica é o uso de implante hormonal de etonogestrel (progestagênio)."
-      },
-      "correta": "C",
-      "explicacao": "pode ser realizada uma terapia hormonal apenas com estrogênio, em razão da histerectomia subtotal. As indicações atuais para o uso de TH são o tratamento de sintomas vasomotores que impactem na qualidade de vida e da atrofia vulvovaginal (uso tópico), além da prevenção e do tratamento da osteoporose em casos individualizados. O uso deve ser feito na chamada janela de oportunidade, isto é, em pacientes até 60 anos de idade e com menos de 10 anos de menopausa. É importante lembrar que a terapia tópica pode ser usada fora da janela de oportunidade por não apresentar absorção sistêmica significativa. A tabela abaixo resume as contraindicações à TH, segundo a Sociedade Brasileira de Climatério (SOBRAC): A terapia hormonal pode ser dividida em duas categorias: tópica (local) e sistêmica. A terapia sistêmica é composta pelo uso de hormônios por via transdérmica (adesivos ou géis) ou por via oral. Os regimes terapêuticos que podem ser empregados estão descritos abaixo.  Mulheres histerectomizadas (sem útero): uso de estrogênio isoladamente.  Mulheres com útero ou com antecedente de endometriose grave: estrogênio + progestagênio (proteção endometrial). Os estrogênios podem ser empregados por via oral, transdérmica ou tópica. O uso por via oral é absorvido pelo trato gastrointestinal e atinge o fígado para a metabolização. Esse processo é chamado de primeira passagem hepática e é responsável pela ativação de outras vias metabólicas hepáticas, ocasionando os seguintes efeitos: - Aumenta os níveis de globulina carreadora de hormônios sexuais -> reduz a fração livre de androgênio circulante. - Aumenta os valores de HDL e de triglicérides e reduz os níveis de LDL. - Aumenta a produção de fatores de coagulação -> hipercoagulabilidade. - Ativa o sistema renina-angiotensina-aldosterona -> elevação de PA",
-      "banca": "SUS-SP",
-      "instituicao": "SP - Sistema Único de Saúde - SUS SP",
-      "ano": 2025,
-      "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-sp-2025-0165_331_0.png"
-      ],
-      "_id_original": "4000234080",
-      "_pdf": "14. SUS-SP.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-sp-2025-0165_331_0.png"
-      ]
-    },
-    {
       "id": "pv-hc)-2025-0175",
       "area": "Cirurgia",
       "subarea": "Nefrologia",
@@ -7160,37 +6571,6 @@
         "data/questoes-img/pv-sp-2025-0237_597_1.png",
         "data/questoes-img/pv-sp-2025-0237_597_2.png",
         "data/questoes-img/pv-sp-2025-0237_597_3.png"
-      ]
-    },
-    {
-      "id": "pv-uni-2024-0087",
-      "area": "Cirurgia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão Arterial",
-      "enunciado": "Homem, 28 anos de idade, apresenta edema cervicofacial matinal, tontura e cefaleia de início recente há 10 dias. Exame físico: corado, hidratado eupneico, PA = 120/70 mmHg, telangiectasias na parede torácica anterior, murmúrio vesicular presente e simétrico bilateral, sem ruídos adventícios. Fundo de olho: edema de papila. Exame neurológico normal. Qual é o diagnóstico sindrômico, possível causa e tratamento?",
-      "alternativas": {
-        "A": "Síndrome de hipertensão intracraniana – câncer de pulmão – radioterapia.",
-        "B": "Síndrome da veia cava superior – linfoma mediastinal – quimioterapia.",
-        "C": "Síndrome de Cushing – linfoma – cirurgia descompressiva.",
-        "D": "Pericardite restritiva – tuberculose – cirurgia."
-      },
-      "correta": "B",
-      "explicacao": "Síndrome da veia cava superior – linfoma mediastinal – quimioterapia. Gabarito: B Olá, estrategista. Para chegarmos à conclusão dessa questão é necessário que observemos algumas dicas do enunciado: edema cervicofacial matinal (ou seja, após muito tempo deitado), tontura e cefaleia, telangiectasias na parede torácica e edema de papila. Como vermos, esse quadro é compatível com uma diagnóstico de síndrome da veria cava superior (SVCS). A SVCS é resultado de qualquer condição que leve à obstrução do fluxo sanguíneo da veia cava superior (VCS), podendo ser de causa neoplásica ou não neoplásica (acesos centrais, trombose etc.). A obstrução secundária à neoplasia pode ser por invasão tumoral ou compressão extrínseca tanto neoplásica quanto linfonodal. À medida que o fluxo sanguíneo pela VCS fica limitado, a circulação venosa colateral busca por alternativas para a drenagem sanguínea para o átrio direito, por isso o paciente pode desenvolver circulação colateral tipo VCS e, assim, cursar com aumento da pressão venosa no segmento superior do corpo. Independentemente da etiologia, a dispneia é a manifestação clínica mais comum da SVCS. Aproximadamente 60-85% das SVCS são neoplásicas. Carcinoma de pulmão não pequenas células corresponde a aproximadamente 50% do total, pequenas células a 25-35% e linfoma não Hodgkin (LNH) a 10-15%. O exame diagnóstico de escolha é a tomografia de tórax com contraste, em que deve ser observada uma falha de enchimento na topografia da veia cava superior, além de ser um exame interessante para a avaliação da presença ou ausência de trombose na VCS. O tratamento da SVCS secundária à neoplasia envolve o alívio dos sintomas, prevenção de complicações e tratamento da doença de base, o que depende da neoplasia e de seu subtipo histológico. Como medidas gerais, devemos evitar a hiperidratação e manter o paciente em decúbito elevado. Se houver trombose, o tratamento deve ser instituído. O tratamento com stent de VCS pode cursar com melhora sintomática em pacientes com doença ameaçadora à vida ou eventualmente como estratégia para ganhar tempo e alívio dos sintomas até que o diagnóstico definitivo seja alcançado, já que uma parcela das neoplasias apresenta quimiorresponsividade (LNH e CPPC), ao passo que o CPNPC deve ser tratado com radioterapia seguida de tratamento quimioterápico. O subgrupo mais frequentemente afetado são os homens com idade por volta de 60 anos, e as principais manifestações clínicas são edema de face e membros superiores, circulação colateral do tipo VCS e pletora facial e comumente os sintomas podem piorar quando o paciente se deita. Em casos mais graves, o paciente pode cursar com edema cerebral e, consequentemente edema de papila, herniação de estruturas do sistema nervoso central. Uma piora aguda dos sintomas deve levantar a hipótese de trombose da VCS. Na questão, observamos um paciente jovem e à princípio não tabagista. Sendo assim, a principal suspeita etiológica para a SVCS é a de um linfoma.",
-      "banca": "UNIFESP",
-      "instituicao": "UNIFESP",
-      "ano": 2024,
-      "fonte": "UNIFESP 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-uni-2024-0087_160_0.jpeg",
-        "pv-uni-2024-0087_160_1.png"
-      ],
-      "_id_original": "4000210926",
-      "_pdf": "11. UNIFESP.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-uni-2024-0087_160_0.jpeg",
-        "data/questoes-img/pv-uni-2024-0087_160_1.png"
       ]
     },
     {
@@ -7299,30 +6679,6 @@
         "data/questoes-img/pv-sp-2024-0050_107_0.png"
       ],
       "imagens_explicacao": []
-    },
-    {
-      "id": "pv-sp-2025-0105",
-      "area": "Cirurgia",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Pneumonias",
-      "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15. Quanto ao líquido ascítico, assinale a alternativa correta.",
-      "alternativas": {
-        "A": "O paciente possui diagnóstico confirmado de peritonite bacteriana espontânea, e o antibiótico iniciado provavelmente foi uma cefalosporina de terceira geração.",
-        "B": "Caso a cultura do líquido ascítico termine como negativa, o diagnóstico seria bacterascite e o antibiótico seria desnecessário.",
-        "C": "Caso a cultura do líquido ascítico termine como negativa, o diagnóstico seria ascite neutrofílica e o antibiótico adequado seria uma cefalosporina de terceira geração.",
-        "D": "A análise do líquido demonstra um GASA elevado, logo o paciente possui diagnóstico de líquido exsudativo e, portanto, provável peritonite bacteriana secundária.",
-        "E": "A análise do líquido demonstra um GASA baixo, logo o paciente possui diagnóstico de líquido exsudativo e, portanto, provável peritonite bacteriana secundária."
-      },
-      "correta": "C",
-      "explicacao": "Caso a cultura do líquido ascítico termine como negativa, o diagnóstico seria ascite neutrofílica e o antibiótico adequado seria uma cefalosporina de terceira geração. A cirrose hepática e suas complicações são temas frequentemente abordados nas provas do SUS-SP. O caso apresenta um paciente com cirrose avançada, já complicada com carcinoma hepatocelular (CHC), que interna com um quadro de descompensação aguda caracterizado por ascite, dor abdominal e encefalopatia. A análise do líquido ascítico revela 375 neutrófilos, valor usado como critério diagnóstico presuntivo para a peritonite bacteriana espontânea (PBE), uma vez que ultrapassa o limite de 250 neutrófilos/mm³. Um ponto crítico na condução do caso, que merece destaque especial para o candidato, foi o início inadequado de diuréticos neste contexto. Em pacientes com PBE, existe um estado de vasodilatação esplâncnica importante que, associado à resposta inflamatória sistêmica, pode levar à instabilidade hemodinâmica. O uso de diuréticos neste cenário pode agravar a hipoperfusão renal e precipitar um quadro de lesão renal aguda, que pode evoluir para a síndrome hepatorrenal (SHR), que é exatamente o que está ocorrendo nesse paciente. A evolução com oligoanúria, elevação significativa da creatinina (de 0,8 para 2,9), hipercalemia e acidose metabólica é compatível com uma lesão renal aguda. Caso esse paciente não tenha redução da creatinina após expansão volêmica e suspensão dos diuréticos, em 24 horas, teremos o diagnóstico firmado da síndrome hepatorrenal. Agora, analisando as alternativas:",
-      "banca": "SUS-SP",
-      "instituicao": "SP - Sistema Único de Saúde - SUS SP",
-      "ano": 2025,
-      "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
-      "dificuldade": "Média",
-      "imagens": [],
-      "_id_original": "4000234148",
-      "_pdf": "14. SUS-SP.pdf"
     },
     {
       "id": "pv-sír-2024-0070",
@@ -7476,32 +6832,6 @@
         "data/questoes-img/pv-sír-2025-0132_264_0.jpeg"
       ],
       "_id_original": "4000234789",
-      "_pdf": "15. SÍRIO.pdf"
-    },
-    {
-      "id": "pv-sír-2025-0137",
-      "area": "Cirurgia",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Pancreatite",
-      "enunciado": "Mulher, 45 anos, com antecedente de hipertensão arterial, relata dor súbita e intensa em abdome superior, irradiando para dorso, associada a náuseas e vômitos. Ao exame fisico, apresenta abdome discretamente distendido, doloroso à palpação em epigástrio, sem sinais de irritação peritoneal. O diagnóstico mais provável é:",
-      "alternativas": {
-        "A": "Infarto do miocárdio.",
-        "B": "Colecistite aguda.",
-        "C": "Apendicite aguda.",
-        "D": "Pancreatite aguda.",
-        "E": "Úlcera péptica perfurada."
-      },
-      "correta": "D",
-      "explicacao": "Pancreatite aguda. Estrategista, A paciente apresenta quadro clínico altamente sugestivo de pancreatite aguda, baseado nos seguintes achados: Dor abdominal súbita, intensa, em abdome superior, irradiando para dorso → típica da pancreatite. Náuseas e vômitos → sintomas comuns na doença. Abdome discretamente distendido e doloroso em epigástrio, sem sinais de irritação peritoneal → achado frequente na pancreatite leve a moderada. Hipertensão arterial → pode estar associada a fatores de risco, como dislipidemia e cálculos biliares (etiologia biliar da pancreatite). O diagnóstico definitivo de pancreatite aguda é baseado em pelo menos dois dos três critérios: 1. Clínica compatível (dor epigástrica irradiada para dorso). 2. Elevação de amilase/lipase (≥3x o limite superior da normalidade). 3. Achados típicos em imagem (TC, RM ou ultrassom abdominal). Vamos analisar juntos as alternativas?",
-      "banca": "Sírio-Libanês",
-      "instituicao": "Sírio-Libanês",
-      "ano": 2025,
-      "fonte": "Sírio-Libanês 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "data/questoes-img/pv-sír-2025-0137_271_0.png"
-      ],
-      "_id_original": "4000234784",
       "_pdf": "15. SÍRIO.pdf"
     },
     {
@@ -7785,35 +7115,6 @@
       ]
     },
     {
-      "id": "pv-df-2024-0083",
-      "area": "Cirurgia",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatites",
-      "enunciado": "Um paciente de 45 anos de idade, portador de cirrose hepática por causa da hepatite C crônica, foi submetido a avaliação multidisciplinar, indicado como candidato a transplante hepático e inserido na lista de espera por um órgão compatível. Na admissão, os sinais vitais apresentavam PA = 120 mmHg x 80 mmHg, FC = 75 bpm, FR = 19 irpm e temperatura = 36,8 °C. Ele realizou exames laboratoriais, os quais revelaram os seguintes resultados: bilirrubina total = 2,5 mg/dL, albumina = 3,0 g/dL, INR = 2,2 e creatinina = 1,0 mg/dL. Tendo em vista o caso clínico apresentado, assinale a alternativa que corresponde à principal indicação para transplante hepático em pacientes com cirrose hepática.",
-      "alternativas": {
-        "A": "Diagnóstico de carcinoma hepatocelular",
-        "B": "Ascite não responsiva ao tratamento médico",
-        "C": "Peritonite bacteriana espontânea recorrente",
-        "D": "Insuficiência cardíaca refratária"
-      },
-      "correta": "A",
-      "explicacao": "Diagnóstico de carcinoma hepatocelular Estrategista, sinceramente, essa é uma questão bem mal feita. Para começar, é apresentado um caso clínico de um paciente com cirrose hepática por hepatite C crônica, sendo que o foco da pergunta não tem nenhuma relação com os detalhes específicos do caso, mas sim em identificar a principal indicação para transplante hepático em pacientes com cirrose no Brasil. Ou seja, nós perdemos tempo lendo o caso clínico sem a menor necessidade. Além disso, as principais indicações para transplante hepático são pacientes com cirrose avançada por hepatite C e álcool, sendo priorizados aqueles com escore MELD mais alto. O escore MELD (calculado usando os parâmetros \"bilirrubina\", \"INR\" e \"creatinina\") avalia a gravidade da doença hepática e a urgência do transplante, sendo um critério chave para a priorização na lista de espera para transplante hepático. Pacientes com cirrose avançada e alto escore MELD geralmente têm prioridade na lista de transplante devido à maior gravidade de sua condição. Lendo as opções da questão, não fica claro que a gravidade da perda da função hepática é a principal indicação para o transplante, dando a impressão de que a maior frequência dos transplantes está relacionada à presença de complicações. Portanto, vamos deixar aqui uma explicação muito clara: vamos escolher a principal indicação para transplante \"entre as opções que foram fornecidas\" pela questão:",
-      "banca": "SES-DF",
-      "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
-      "ano": 2024,
-      "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-df-2024-0083_165_0.png"
-      ],
-      "_id_original": "4000213160",
-      "_pdf": "17. SES-DF.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-df-2024-0083_165_0.png"
-      ],
-      "imagens_explicacao": []
-    },
-    {
       "id": "pv-df-2024-0084",
       "area": "Cirurgia",
       "subarea": "Cardiologia",
@@ -7993,62 +7294,6 @@
       "imagens_explicacao": [
         "data/questoes-img/pv-df-2025-0110_216_0.png"
       ]
-    },
-    {
-      "id": "pv-df-2025-0114",
-      "area": "Cirurgia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuficiência Cardíaca",
-      "enunciado": "Um paciente de 22 anos de idade foi admitido no prontosocorro após ser vítima de ferimento por arma de fogo na região toracoabdominal esquerda. Na admissão, os sinais vitais eram PA = 85 mmHg X 60 mmHg, FC = 125 bpm, FR = 28 irpm, temperatura = 36,2 °C e SatO2 = 92% em ar ambiente. Ao exame físico, observou-se orifício de entrada na região lombar esquerda, hematoma palpável e em expansão na região lombar, abdome rígido, com sinais de peritonite, hematúria macroscópica e rebaixamento progressivo do nível de consciência. Realizou tomografia computadorizada com contraste, que evidenciou laceração extensa no parênquima do rim esquerdo, estendendo-se ao córtex, à medula e ao sistema coletor, com extravasamento de contraste, hematoma perirrenal volumoso e sinais de comprometimento vascular segmentar. O rim contralateral apresentava-se normal. A respeito da lesão renal traumática, assinale a alternativa correta.",
-      "alternativas": {
-        "A": "A hematúria é um indicador de pouca importância no trauma do sistema urinário, já que o primeiro volume urinado ou a amostra de urina cateterizada pode estar diluída e atrapalhar a interpretação do quadro.",
-        "B": "O grau de hematúria não se correlaciona necessariamente com o grau de lesão. Mas, a combinação de choque sistêmico (pressão arterial sistólica < 90 mmHg) e hematúria microscópica se associa fortemente a lesões renais graves.",
-        "C": "Pacientes sem choque e com qualquer hematúria (macroscópica ou microscópica) devem realizar exames de imagem em razão do risco elevado de lesões renais significativas.",
-        "D": "A minoria das lesões renais pode ser tratada de forma não operatória. Com estadiamento apropriado da lesão renal e seleção cuidadosa, apenas lesões de baixo grau podem ser tratadas clinicamente."
-      },
-      "correta": "B",
-      "explicacao": "O grau de hematúria não se correlaciona necessariamente com o grau de lesão. Mas, a combinação de choque sistêmico (pressão arterial sistólica < 90 mmHg) e hematúria microscópica se associa fortemente a lesões renais graves. Estamos diante de um paciente vítima de ferimento penetrante por arma de fogo em região lombar já apresentando na admissão instabilidade hemodinâmica e sinais de peritonite, indicações absolutas de laparotomia exploradora. Foi realizada uma tomografia (que não deveria ter feito pois instabilidade é uma contraindicação) que evidenciou trauma renal Grau IV. Dessa forma, a conduta, além da reanimação volêmica com solução cristaloide e hemoderivados é indicar laparotomia imediata para nefrectomia.",
-      "banca": "SES-DF",
-      "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
-      "ano": 2025,
-      "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-df-2025-0114_222_0.png",
-        "pv-df-2025-0114_224_0.png"
-      ],
-      "_id_original": "4000238144",
-      "_pdf": "17. SES-DF.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-df-2025-0114_222_0.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-df-2025-0114_224_0.png"
-      ]
-    },
-    {
-      "id": "pv-df-2025-0125",
-      "area": "Cirurgia",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatites",
-      "enunciado": "Um paciente de 52 anos de idade, etilista crônico e cirrótico, foi levado ao serviço de emergência com queixa de dor abdominal difusa, febre e confusão mental. Ao exame físico, apresentou PA = 90 mmHg X 60 mmHg, FC = 120 bpm, FR 24 = irpm, SatO2 = 94% e abdome tenso, com sinal de Murphy negativo. O resultado do hemograma mostrou leucócitos = 18.000/mm³ com desvio à esquerda. Nesse caso, qual é o diagnóstico mais provável?",
-      "alternativas": {
-        "A": "Peritonite bacteriana espontânea (PBE)",
-        "B": "Pancreatite necrotizante infectada",
-        "C": "Sepse de origem abdominal",
-        "D": "Hepatite alcoólica grave",
-        "E": "B) Pancreatite necrotizante infectada"
-      },
-      "correta": "A",
-      "explicacao": "Peritonite bacteriana espontânea (PBE) Essa questão foi anulada, pois há mais de uma alternativa que poderia ser considerada correta. Vamos discutir em detalhes: As complicações da cirrose hepática são um tema amplamente explorado em provas de residência médica, dada a sua alta prevalência e relevância clínica. A cirrose é o estágio final de diversas doenças hepáticas crônicas e está associada a complicações graves que resultam de hipertensão portal e/ou insuficiência hepatocelular. Entre as complicações mais comuns estão a ascite, presente em até 50% dos pacientes com cirrose descompensada ao longo de 10 anos; a peritonite bacteriana espontânea (PBE), que ocorre em cerca de 10-30% dos pacientes com ascite; a encefalopatia hepática, caracterizada por alterações do estado mental devido ao acúmulo de toxinas como amônia; as varizes esofágicas e gástricas, que podem causar hemorragia digestiva alta; e o hepatocarcinoma, cuja incidência é elevada em pacientes com cirrose avançada. O caso apresentado descreve um paciente cirrótico com sintomas como febre, dor abdominal difusa e confusão mental, associados a sinais de instabilidade hemodinâmica (hipotensão e taquicardia). Esses achados são altamente sugestivos de peritonite bacteriana espontânea (PBE), uma infecção do líquido ascítico sem fonte intra-abdominal evidente. A PBE é uma complicação grave da ascite e resulta da translocação bacteriana do trato gastrointestinal para o líquido ascítico. Clinicamente, ela se manifesta com febre, dor abdominal difusa, alteração do estado mental (encefalopatia hepática) e sinais sistêmicos de inflamação, como leucocitose com desvio à esquerda. O diagnóstico da PBE é confirmado pela análise do líquido ascítico obtido por paracentese diagnóstica. Os critérios incluem uma contagem de polimorfonucleares (PMN) ≥ 250 células/mm³, mesmo na ausência de cultura positiva. O manejo inclui antibióticos de amplo espectro (como cefotaxima ou ceftriaxona) e albumina intravenosa para prevenir insuficiência renal associada à síndrome hepatorrenal. Identificar precocemente essa complicação é essencial para evitar desfechos graves, como sepse ou falência multiorgânica. Após essa breve revisão sobre o assunto, vamos discutir as alternativas:",
-      "banca": "SES-DF",
-      "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
-      "ano": 2025,
-      "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
-      "dificuldade": "Média",
-      "imagens": [],
-      "_id_original": "4000238133",
-      "_pdf": "17. SES-DF.pdf"
     },
     {
       "id": "pv-uer-2025-0137",
@@ -8397,29 +7642,6 @@
       "banca": "ESTRATÉGIA MED"
     },
     {
-      "id": "pv-hcp-2024-0068",
-      "area": "Cirurgia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuficiência Cardíaca",
-      "enunciado": "Paciente de 19 anos veio à Emergência por dor abdominal e sangramento. Relatou um abortamento espontâneo há 2 dias. À admissão, a temperatura era de 38,2 ºC, a pressão arterial de 90/60 mmHg e a frequência cardíaca de 110 bpm; o exame especular mostrou sangramento vaginal em pequena quantidade e odor fétido; o toque vaginal revelou colo uterino aberto, abdômen doloroso à palpação e útero de aproximadamente 12 semanas. O hemograma indicou 15.000 leucócitos/mm³ e 10% de bastões. À ultrassonografia, foram visualizados útero antevertido, com restos ovulares de aproximadamente 30 mm, além de ausência de feto ou partes ósseas. Com base no quadro, assinale a assertiva correta.",
-      "alternativas": {
-        "A": "O diagnóstico e a conduta dependem do resultado de uma ultrassonografia transvaginal.",
-        "B": "A conduta deve incluir internação hospitalar, solicitação de exames laboratoriais, reposição volêmica e esvaziamento uterino após 12- 24 horas de antibioticoterapia intravenosa de amplo espectro.",
-        "C": "Coagulação intravascular disseminada, insuficiência renal aguda, formação de abscesso tubo-ovariano e histerectomia são complicações possíveis.",
-        "D": "DIUs hormonal e de cobre são considerados categoria 2 nos critérios de elegibilidade (os benefícios superam os riscos), constituindo, portanto, opções contraceptivas adequadas neste momento."
-      },
-      "correta": "C",
-      "explicacao": "Coagulação intravascular disseminada, insuficiência renal aguda, formação de abscesso tubo-ovariano e histerectomia são complicações possíveis. O que o examinador quer saber: sobre abortamento infectado. O abortamento infectado, em geral, é uma complicação do abortamento retido. Em países em que o aborto não é legalizado, muitas vezes está associado à prática de abortamento inseguro, fora do ambiente hospitalar. A flora bacteriana envolvida, assim como em todos os processos do trato genital superior feminino, envolve bactérias Gram-positivas e negativas, além de anaeróbias. Assim como na doença inflamatória pélvica (veja o livro digital sobre esse assunto), a doença pode propagar- se do útero para os anexos e para a cavidade pélvica, além de haver disseminação hematogênica, levando a quadros sépticos. O quadro clínico da paciente depende do grau de comprometimento. Nos casos mais leves de mioendometrite, a paciente apresenta dor abdominal, febre, sangramento vaginal e saída de secreção purulenta pela vagina. Ao exame físico, a paciente pode encontrar-se febril e taquicárdica por quadro séptico. O útero encontra-se doloroso e o colo uterino encontra-se geralmente pérvio. Ao exame especular, pode ser evidenciada saída de sangue e de secreção purulenta. Em casos mais graves, a paciente pode evoluir com choque séptico e com disfunção de múltiplos órgãos. A conduta nos casos de abortamento infectado é a antibioticoterapia de amplo espectro e o esvaziamento uterino. O esquema de escolha é clindamicina e gentamicina endovenosa",
-      "banca": "HCPA",
-      "instituicao": "HCPA",
-      "ano": 2024,
-      "fonte": "HCPA 2024",
-      "dificuldade": "Média",
-      "imagens": [],
-      "_id_original": "4000208327",
-      "_pdf": "8. HCPA.pdf"
-    },
-    {
       "id": "pv-sír-2024-0021",
       "area": "Cirurgia",
       "subarea": "Geral",
@@ -8512,6 +7734,58 @@
       "imagens_explicacao": [
         "data/questoes-img/pv-df-2024-0085_169_0.png"
       ]
+    },
+    {
+      "id": "pv-uer-2025-0140",
+      "area": "Cirurgia",
+      "subarea": "Saúde Coletiva / SUS",
+      "sub_subarea": "",
+      "enunciado": "Homem de 25 anos, com suspeita de apendicite aguda, é encaminhado para avaliação no prontosocorro. Refere história de anorexia, desconforto epigástrico e náuseas iniciadas há 24 horas. Conta ainda que, nas últimas 12 horas, notou mudança nos sintomas, com piora da dor, que agora está localizada no flanco direito. Nega febre, diarreia, vômitos e outras comorbidades. No exame físico, encontra-se afebril, corado, eupneico, anictérico e hemodinamicamente estável. Apresenta dor importante à palpação profunda em fossa ilíaca direita, porém sem sinais de irritação peritoneal. Realizou também hemograma, que mostrou hematócrito = 39% e leucócito = 13.000mcL com 1% de bastões. Utilizando, nesse caso, o escore de Alvarado, a pontuação e sua interpretação são, respectivamente:",
+      "alternativas": {
+        "A": "7 / apendicite provável",
+        "B": "4 / apendicite improvável",
+        "C": "12 / apendicite confirmada",
+        "D": "10 / apendicite muito provável"
+      },
+      "correta": "A",
+      "explicacao": "7 / apendicite provável Essa questão trata sobre o escore de alvarado e sua interpretação. O escore de Alvarado é utilizado para descrever a probabilidade de um paciente apresentar uma apendicite aguda baseado em dados da história clínica, exame físico e testes laboratoriais. É considerado um bom método para triagem diagnóstica na apendicite aguda por ser simples, rápido, acessível e de fácil aplicação, que pode acelerar o diagnóstico e, com isso, reduzir o tempo de evolução da doença e das complicações pós- operatórias. Veja a tabela abaixo. Interpretação: • 0-3 pontos: apendicite pouco provável, investigar outras patologias; • ≥ 4: provável apendicite = solicitar exame de imagem se necessário; • ≥ 7: alto risco de apendicite = cirurgia. Solicitar exame de imagem se necessário (mulheres, idosos, imunocomprometidos,gestantes). Análise do caso Com base nos dados do paciente: Sintomas: Dor migratória para a fossa ilíaca direita: 1 ponto Anorexia: 1 ponto Náuseas: 1 ponto Subtotal: 3 pontos Sinais clínicos: Dor/defesa à palpação na fossa ilíaca direita: 2 pontos Descompressão dolorosa: 0 pontos (ausente) Febre: 0 pontos (afebril) Subtotal: 2 pontos Aqui vale a pena um parênteses. Na escala original, a defesa de parede no quadrante inferior direito é descrita pelo termo “tenderness”, um termo médico em inglês que significa sensibilidade ou dor à palpação. Entretanto, em tradução livre, algumas escalas trazem esse termo como defesa abdominal involuntária, secundária à dor. Achados laboratoriais: Leucocitose (13.000/mcL): 2 pontos Desvio à esquerda (1% de bastões): 0 ponto Subtotal: 2 pontos Pontuação total: 7 pontos",
+      "banca": "UERJ",
+      "instituicao": "UERJ",
+      "ano": 2025,
+      "fonte": "UERJ 2025",
+      "dificuldade": "Média",
+      "imagens": [
+        "pv-uer-2025-0140_235_0.png"
+      ],
+      "_id_original": "4000232004",
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "data/questoes-img/pv-uer-2025-0140_235_0.png"
+      ]
+    },
+    {
+      "id": "pv-hcp-2024-0011",
+      "area": "Cirurgia",
+      "subarea": "Saúde Coletiva / SUS",
+      "sub_subarea": "Atenção Primária",
+      "enunciado": "Paciente feminina, de 14 anos, pertencente à comunidade indígena Kaingang, foi trazida pela mãe à UBS, localizada no norte do Rio Grande do Sul e vinculada ao Distrito Sanitário Especial Indígena (DSEI) Interior Sul. Queixava-se de dor na fossa ilíaca direita, iniciada há, aproximadamente, 24 horas. Ao exame físico, constatou-se dor intensa à palpação da fossa ilíaca direita, com rigidez abdominal e sinal de Blumberg positivo. Considerando que a principal hipótese diagnóstica seja apendicite aguda, a paciente deverá ser encaminhada para avaliação cirúrgica, seguindo a organização da atenção à saúde dos povos indígenas vigente na Política Nacional de Atenção à Saúde dos Povos Indígenas (PNASPI). Com base nessa situação, assinale a assertiva correta.",
+      "alternativas": {
+        "A": "O médico da UBS, contratado pela Secretaria da Saúde do Estado do Rio Grande do Sul, pode telefonar e encaminhar a paciente para a emergência cirúrgica mais próxima.",
+        "B": "O médico da UBS, contratado pela Secretaria da Saúde do Município, deve respeitar a rede e o fluxo assistencial acordado pela Secretaria, de maneira que cabe a ele encaminhar a paciente para a emergência cirúrgica de referência do Município em que está localizada a UBS.",
+        "C": "No âmbito do Subsistema de Atenção à Saúde Indígena, os atendimentos de alta complexidade devem ocorrer em um hospital geral do DSEI, preparado para receber e tratar pacientes indígenas.",
+        "D": "Cada DSEI organiza a atenção básica à saúde dentro de seus territórios, e a atenção especializada e de urgência são realizadas de forma integrada e hierarquizada com a rede assistencial do Sistema Único de Saúde de sua respectiva região."
+      },
+      "correta": "D",
+      "explicacao": "Cada DSEI organiza a atenção básica à saúde dentro de seus territórios, e a atenção especializada e de urgência são realizadas de forma integrada e hierarquizada com a rede assistencial do Sistema Único de Saúde de sua respectiva região. GABARITO: ALTERNATIVA D Referência Bibliográfica: 1. Brasil. Fundação Nacional de Saúde. Política Nacional de Atenção à Saúde dos Povos Indígenas. - 2ª edição - Brasília: Ministério da Saúde. Fundação Nacional de Saúde, 2002. 40 p. Estrategistas, questão interessante abordando conceitos operacionais relacionados ao subsistema de saúde indígena em nosso país. Como bem sabemos, a população indígena constitui-se em uma das populações consideradas vulneráveis pelas autoridade sanitárias brasileiras e, dadas as suas especificidades nos campos da saúde e de cultura, fez-se necessário criar um subsistema especial para esses povos dentro do Sistema Único de Saúde (SUS), de modo a atender às suas especificidades. A base organizacional do subsistema de saúde indígena, funcionando como sua unidade fundamental, são os chamados DISTRITOS SANITÁRIOS INDÍGENAS (DSEI). O DSEI consiste em uma unidade organizacional bem delimitada, que leva em consideração para sua construção as características étnicas, culturais, geográficas, populacionais e administrativas da população indígena a ser atendida. Dentro de cada DSEI, um conjunto de atividades em saúde será estabelecido, fomentando assim uma rede de serviços orientados e ordenados pela ATENÇÃO BÁSICA, que se achará completamente integrada e hierarquizada com níveis crescentes de complexidade, estando articulada aos demais pontos das Redes de Atenção à Saúde (RAS) do SUS. As equipes de atenção básica situadas nos DSEI serão compostas minimamente por médicos, enfermeiros, odontólogos, auxiliares de enfermagem e os chamados agentes indígenas de saúde. Além dessas equipes, uma outra instância de cuidados ainda focados no ideário da atenção básica está presente, são os chamados Polos-Base. Estes ficam localizados dentro de uma comunidade indígena ou em um município de referência próximo. No caso dos municípios de referência, essas unidades do Polo-Base consistem em Unidades Básicas de Saúde (UBS) presentes na rede municipal. Por meio dos cuidados das equipes de saúde específicas e daquelas presentes nos Polos- Base, objetiva-se resolver a gigantesca maioria das demandas em saúde dos povos indígenas. Porém, como o subsistema indígena baseia-se na integralidade da atenção, caso as demandas não sejam sanadas no interior do DSEI ou no Polo-Base, haverá necessidade de referenciar o sujeito para a rede de serviços do SUS mais próxima e que possua a capacidade tecnológica instalada para atender à necessidade do indivíduo. Assim, os serviços de média e alta complexidade são acessados pela população indígena de acordo com a demanda e o referenciamento dos pacientes a partir dos DSEI ou Polos-Base. Com essa lógica em mente, vamos avaliar a situação trazida pela banca. Estamos diante de uma paciente indígena do sexo feminino e que foi trazida à uma UBS vinculada ao DSEI da qual pertencem (essa UBS funciona como uma Polo-Base). O quadro clínico nos aponta para um diagnóstico de apendicite aguda, situação que demandará atenção especializada de média complexidade (procedimento cirúrgico corriqueiro em hospital de médio porte). Assim, conforme apontado acima, sabemos que a média e alta complexidade é acessada pelos povos indígenas a partir do referenciamento pelas equipes de saúde atuantes no DSEI ou no polo base. Portanto, diante da demanda real de atenção de média complexidade, essa jovem paciente deverá ser encaminhada pela equipe da UBS para a rede de atenção à saúde mais próxima e que conte com hospital de médio porte para sanar a sua necessidade. Seguiremos esse fluxo nos cuidados dessa paciente.",
+      "banca": "HCPA",
+      "instituicao": "HCPA",
+      "ano": 2024,
+      "fonte": "HCPA 2024",
+      "dificuldade": "Média",
+      "imagens": [],
+      "_id_original": "4000208229",
+      "_pdf": "8. HCPA.pdf"
     }
   ]
 }
