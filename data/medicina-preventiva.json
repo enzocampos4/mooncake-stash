@@ -2473,10 +2473,14 @@
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ena-2024-0002_5_0.png"
+        "pv-ena-2024-0002_5_0.png"
       ],
       "_id_original": "4000205736",
-      "_pdf": "1. ENARE.pdf"
+      "_pdf": "1. ENARE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ena-2024-0002_5_0.png"
+      ]
     },
     {
       "id": "pv-ena-2024-0003",
@@ -2547,11 +2551,17 @@
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ena-2024-0008_14_0.png",
-        "data/questoes-img/pv-ena-2024-0008_15_0.jpeg"
+        "pv-ena-2024-0008_14_0.png",
+        "pv-ena-2024-0008_15_0.jpeg"
       ],
       "_id_original": "4000205742",
-      "_pdf": "1. ENARE.pdf"
+      "_pdf": "1. ENARE.pdf",
+      "imagens_enunciado": [
+        "pv-ena-2024-0008_14_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ena-2024-0008_15_0.jpeg"
+      ]
     },
     {
       "id": "pv-ena-2024-0009",
@@ -2574,10 +2584,14 @@
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ena-2024-0009_15_0.jpeg"
+        "pv-ena-2024-0009_15_0.jpeg"
       ],
       "_id_original": "4000205743",
-      "_pdf": "1. ENARE.pdf"
+      "_pdf": "1. ENARE.pdf",
+      "imagens_enunciado": [
+        "pv-ena-2024-0009_15_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ena-2024-0011",
@@ -2696,11 +2710,17 @@
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ena-2024-0068_110_0.png",
-        "data/questoes-img/pv-ena-2024-0068_112_0.jpeg"
+        "pv-ena-2024-0068_110_0.png",
+        "pv-ena-2024-0068_112_0.jpeg"
       ],
       "_id_original": "4000205808",
-      "_pdf": "1. ENARE.pdf"
+      "_pdf": "1. ENARE.pdf",
+      "imagens_enunciado": [
+        "pv-ena-2024-0068_110_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ena-2024-0068_112_0.jpeg"
+      ]
     },
     {
       "id": "pv-ena-2024-0078",
@@ -2771,10 +2791,14 @@
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ena-2025-0110_179_0.png"
+        "pv-ena-2025-0110_179_0.png"
       ],
       "_id_original": "4000227408",
-      "_pdf": "1. ENARE.pdf"
+      "_pdf": "1. ENARE.pdf",
+      "imagens_enunciado": [
+        "pv-ena-2025-0110_179_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ena-2025-0111",
@@ -2821,10 +2845,14 @@
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ena-2025-0154_261_0.png"
+        "pv-ena-2025-0154_261_0.png"
       ],
       "_id_original": "4000227364",
-      "_pdf": "1. ENARE.pdf"
+      "_pdf": "1. ENARE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ena-2025-0154_261_0.png"
+      ]
     },
     {
       "id": "pv-ena-2025-0182",
@@ -2847,10 +2875,14 @@
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ena-2025-0182_318_0.png"
+        "pv-ena-2025-0182_318_0.png"
       ],
       "_id_original": "4000227336",
-      "_pdf": "1. ENARE.pdf"
+      "_pdf": "1. ENARE.pdf",
+      "imagens_enunciado": [
+        "pv-ena-2025-0182_318_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ena-2025-0184",
@@ -2921,12 +2953,19 @@
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ena-2025-0192_339_0.png",
-        "data/questoes-img/pv-ena-2025-0192_339_1.png",
-        "data/questoes-img/pv-ena-2025-0192_341_0.png"
+        "pv-ena-2025-0192_339_0.png",
+        "pv-ena-2025-0192_339_1.png",
+        "pv-ena-2025-0192_341_0.png"
       ],
       "_id_original": "4000227326",
-      "_pdf": "1. ENARE.pdf"
+      "_pdf": "1. ENARE.pdf",
+      "imagens_enunciado": [
+        "pv-ena-2025-0192_339_0.png",
+        "pv-ena-2025-0192_339_1.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ena-2025-0192_341_0.png"
+      ]
     },
     {
       "id": "pv-pe-2024-0001",
@@ -2973,10 +3012,14 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2024-0004_10_0.png"
+        "pv-pe-2024-0004_10_0.png"
       ],
       "_id_original": "4000212168",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2024-0004_10_0.png"
+      ]
     },
     {
       "id": "pv-pe-2024-0012",
@@ -2999,13 +3042,20 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2024-0012_30_0.jpeg",
-        "data/questoes-img/pv-pe-2024-0012_30_1.jpeg",
-        "data/questoes-img/pv-pe-2024-0012_31_0.jpeg",
-        "data/questoes-img/pv-pe-2024-0012_31_1.jpeg"
+        "pv-pe-2024-0012_30_0.jpeg",
+        "pv-pe-2024-0012_30_1.jpeg",
+        "pv-pe-2024-0012_31_0.jpeg",
+        "pv-pe-2024-0012_31_1.jpeg"
       ],
       "_id_original": "4000212176",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2024-0012_30_0.jpeg",
+        "pv-pe-2024-0012_30_1.jpeg",
+        "pv-pe-2024-0012_31_0.jpeg",
+        "pv-pe-2024-0012_31_1.jpeg"
+      ]
     },
     {
       "id": "pv-pe-2024-0017",
@@ -3076,10 +3126,14 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2024-0021_47_0.jpeg"
+        "pv-pe-2024-0021_47_0.jpeg"
       ],
       "_id_original": "4000212191",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2024-0021_47_0.jpeg"
+      ]
     },
     {
       "id": "pv-pe-2024-0031",
@@ -3102,11 +3156,16 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2024-0031_70_0.jpeg",
-        "data/questoes-img/pv-pe-2024-0031_70_1.jpeg"
+        "pv-pe-2024-0031_70_0.jpeg",
+        "pv-pe-2024-0031_70_1.jpeg"
       ],
       "_id_original": "4000212207",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2024-0031_70_0.jpeg",
+        "pv-pe-2024-0031_70_1.jpeg"
+      ]
     },
     {
       "id": "pv-pe-2024-0066",
@@ -3129,10 +3188,14 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2024-0066_141_0.jpeg"
+        "pv-pe-2024-0066_141_0.jpeg"
       ],
       "_id_original": "4000212251",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2024-0066_141_0.jpeg"
+      ]
     },
     {
       "id": "pv-pe-2024-0090",
@@ -3155,10 +3218,14 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2024-0090_180_0.png"
+        "pv-pe-2024-0090_180_0.png"
       ],
       "_id_original": "4000212282",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2024-0090_180_0.png"
+      ]
     },
     {
       "id": "pv-pe-2025-0118",
@@ -3301,10 +3368,14 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2025-0185_379_0.png"
+        "pv-pe-2025-0185_379_0.png"
       ],
       "_id_original": "4000235615",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2025-0185_379_0.png"
+      ]
     },
     {
       "id": "pv-pe-2025-0187",
@@ -3327,11 +3398,16 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2025-0187_385_0.png",
-        "data/questoes-img/pv-pe-2025-0187_386_0.png"
+        "pv-pe-2025-0187_385_0.png",
+        "pv-pe-2025-0187_386_0.png"
       ],
       "_id_original": "4000235613",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2025-0187_385_0.png",
+        "pv-pe-2025-0187_386_0.png"
+      ]
     },
     {
       "id": "pv-pe-2025-0189",
@@ -3378,12 +3454,18 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2025-0190_396_0.jpeg",
-        "data/questoes-img/pv-pe-2025-0190_396_1.jpeg",
-        "data/questoes-img/pv-pe-2025-0190_397_0.jpeg"
+        "pv-pe-2025-0190_396_0.jpeg",
+        "pv-pe-2025-0190_396_1.jpeg",
+        "pv-pe-2025-0190_397_0.jpeg"
       ],
       "_id_original": "4000235610",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-pe-2025-0190_396_0.jpeg",
+        "pv-pe-2025-0190_396_1.jpeg",
+        "pv-pe-2025-0190_397_0.jpeg"
+      ]
     },
     {
       "id": "pv-pe-2025-0191",
@@ -3406,10 +3488,14 @@
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-pe-2025-0191_397_0.jpeg"
+        "pv-pe-2025-0191_397_0.jpeg"
       ],
       "_id_original": "4000235609",
-      "_pdf": "3. SES-PE.pdf"
+      "_pdf": "3. SES-PE.pdf",
+      "imagens_enunciado": [
+        "pv-pe-2025-0191_397_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-pe-2025-0192",
@@ -3478,10 +3564,14 @@
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-mg-2024-0031_51_0.png"
+        "pv-mg-2024-0031_51_0.png"
       ],
       "_id_original": "4000211020",
-      "_pdf": "4. PSU-MG.pdf"
+      "_pdf": "4. PSU-MG.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-mg-2024-0031_51_0.png"
+      ]
     },
     {
       "id": "pv-mg-2024-0035",
@@ -3503,10 +3593,14 @@
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-mg-2024-0035_57_0.jpeg"
+        "pv-mg-2024-0035_57_0.jpeg"
       ],
       "_id_original": "4000211024",
-      "_pdf": "4. PSU-MG.pdf"
+      "_pdf": "4. PSU-MG.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-mg-2024-0035_57_0.jpeg"
+      ]
     },
     {
       "id": "pv-mg-2024-0039",
@@ -3528,11 +3622,16 @@
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-mg-2024-0039_65_0.png",
-        "data/questoes-img/pv-mg-2024-0039_66_0.png"
+        "pv-mg-2024-0039_65_0.png",
+        "pv-mg-2024-0039_66_0.png"
       ],
       "_id_original": "4000211028",
-      "_pdf": "4. PSU-MG.pdf"
+      "_pdf": "4. PSU-MG.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-mg-2024-0039_65_0.png",
+        "pv-mg-2024-0039_66_0.png"
+      ]
     },
     {
       "id": "pv-mg-2024-0043",
@@ -3692,10 +3791,14 @@
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-mg-2024-0064_117_0.png"
+        "pv-mg-2024-0064_117_0.png"
       ],
       "_id_original": "4000211053",
-      "_pdf": "4. PSU-MG.pdf"
+      "_pdf": "4. PSU-MG.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-mg-2024-0064_117_0.png"
+      ]
     },
     {
       "id": "pv-mg-2024-0065",
@@ -3717,11 +3820,16 @@
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-mg-2024-0065_117_0.png",
-        "data/questoes-img/pv-mg-2024-0065_119_0.jpeg"
+        "pv-mg-2024-0065_117_0.png",
+        "pv-mg-2024-0065_119_0.jpeg"
       ],
       "_id_original": "4000211054",
-      "_pdf": "4. PSU-MG.pdf"
+      "_pdf": "4. PSU-MG.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-mg-2024-0065_117_0.png",
+        "pv-mg-2024-0065_119_0.jpeg"
+      ]
     },
     {
       "id": "pv-mg-2025-0076",
@@ -3743,10 +3851,14 @@
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-mg-2025-0076_136_0.png"
+        "pv-mg-2025-0076_136_0.png"
       ],
       "_id_original": "4000233863",
-      "_pdf": "4. PSU-MG.pdf"
+      "_pdf": "4. PSU-MG.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-mg-2025-0076_136_0.png"
+      ]
     },
     {
       "id": "pv-mg-2025-0090",
@@ -3814,10 +3926,14 @@
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-mg-2025-0093_174_0.png"
+        "pv-mg-2025-0093_174_0.png"
       ],
       "_id_original": "4000233846",
-      "_pdf": "4. PSU-MG.pdf"
+      "_pdf": "4. PSU-MG.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-mg-2025-0093_174_0.png"
+      ]
     },
     {
       "id": "pv-mg-2025-0095",
@@ -3908,11 +4024,17 @@
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-mg-2025-0109_207_0.png",
-        "data/questoes-img/pv-mg-2025-0109_209_0.jpeg"
+        "pv-mg-2025-0109_207_0.png",
+        "pv-mg-2025-0109_209_0.jpeg"
       ],
       "_id_original": "4000233830",
-      "_pdf": "4. PSU-MG.pdf"
+      "_pdf": "4. PSU-MG.pdf",
+      "imagens_enunciado": [
+        "pv-mg-2025-0109_207_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-mg-2025-0109_209_0.jpeg"
+      ]
     },
     {
       "id": "pv-mg-2025-0111",
@@ -3980,11 +4102,16 @@
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2024-0002_5_0.png",
-        "data/questoes-img/pv-amr-2024-0002_5_1.png"
+        "pv-amr-2024-0002_5_0.png",
+        "pv-amr-2024-0002_5_1.png"
       ],
       "_id_original": "4000209376",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2024-0002_5_0.png",
+        "pv-amr-2024-0002_5_1.png"
+      ]
     },
     {
       "id": "pv-amr-2024-0004",
@@ -4029,10 +4156,14 @@
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2024-0006_14_0.png"
+        "pv-amr-2024-0006_14_0.png"
       ],
       "_id_original": "4000209380",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2024-0006_14_0.png"
+      ]
     },
     {
       "id": "pv-amr-2024-0009",
@@ -4077,11 +4208,16 @@
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2024-0014_32_0.jpeg",
-        "data/questoes-img/pv-amr-2024-0014_32_1.png"
+        "pv-amr-2024-0014_32_0.jpeg",
+        "pv-amr-2024-0014_32_1.png"
       ],
       "_id_original": "4000209390",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [
+        "pv-amr-2024-0014_32_0.jpeg",
+        "pv-amr-2024-0014_32_1.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-amr-2024-0015",
@@ -4172,10 +4308,14 @@
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2024-0039_89_0.png"
+        "pv-amr-2024-0039_89_0.png"
       ],
       "_id_original": "4000209427",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2024-0039_89_0.png"
+      ]
     },
     {
       "id": "pv-amr-2024-0046",
@@ -4197,10 +4337,14 @@
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2024-0046_101_0.png"
+        "pv-amr-2024-0046_101_0.png"
       ],
       "_id_original": "4000209441",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [
+        "pv-amr-2024-0046_101_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-amr-2024-0051",
@@ -4222,11 +4366,17 @@
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2024-0051_112_0.png",
-        "data/questoes-img/pv-amr-2024-0051_113_0.png"
+        "pv-amr-2024-0051_112_0.png",
+        "pv-amr-2024-0051_113_0.png"
       ],
       "_id_original": "4000209446",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [
+        "pv-amr-2024-0051_112_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-amr-2024-0051_113_0.png"
+      ]
     },
     {
       "id": "pv-amr-2024-0088",
@@ -4248,10 +4398,14 @@
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2024-0088_164_0.png"
+        "pv-amr-2024-0088_164_0.png"
       ],
       "_id_original": "4000209499",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2024-0088_164_0.png"
+      ]
     },
     {
       "id": "pv-amr-2024-0094",
@@ -4273,10 +4427,14 @@
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2024-0094_179_0.jpeg"
+        "pv-amr-2024-0094_179_0.jpeg"
       ],
       "_id_original": "4000209505",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2024-0094_179_0.jpeg"
+      ]
     },
     {
       "id": "pv-amr-2025-0111",
@@ -4298,11 +4456,16 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0111_209_0.png",
-        "data/questoes-img/pv-amr-2025-0111_210_0.png"
+        "pv-amr-2025-0111_209_0.png",
+        "pv-amr-2025-0111_210_0.png"
       ],
       "_id_original": "4000230573",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2025-0111_209_0.png",
+        "pv-amr-2025-0111_210_0.png"
+      ]
     },
     {
       "id": "pv-amr-2025-0117",
@@ -4324,10 +4487,14 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0117_222_0.png"
+        "pv-amr-2025-0117_222_0.png"
       ],
       "_id_original": "4000230563",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2025-0117_222_0.png"
+      ]
     },
     {
       "id": "pv-amr-2025-0122",
@@ -4372,10 +4539,14 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0153_283_0.png"
+        "pv-amr-2025-0153_283_0.png"
       ],
       "_id_original": "4000230509",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2025-0153_283_0.png"
+      ]
     },
     {
       "id": "pv-amr-2025-0181",
@@ -4443,10 +4614,14 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0183_350_0.jpeg"
+        "pv-amr-2025-0183_350_0.jpeg"
       ],
       "_id_original": "4000230456",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2025-0183_350_0.jpeg"
+      ]
     },
     {
       "id": "pv-amr-2025-0184",
@@ -4491,10 +4666,14 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0187_359_0.png"
+        "pv-amr-2025-0187_359_0.png"
       ],
       "_id_original": "4000230452",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [
+        "pv-amr-2025-0187_359_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-amr-2025-0189",
@@ -4516,10 +4695,14 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0189_363_0.png"
+        "pv-amr-2025-0189_363_0.png"
       ],
       "_id_original": "4000230450",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [
+        "pv-amr-2025-0189_363_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-amr-2025-0193",
@@ -4541,10 +4724,14 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0193_376_0.jpeg"
+        "pv-amr-2025-0193_376_0.jpeg"
       ],
       "_id_original": "4000230446",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [
+        "pv-amr-2025-0193_376_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-amr-2025-0194",
@@ -4589,11 +4776,16 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0196_386_0.jpeg",
-        "data/questoes-img/pv-amr-2025-0196_387_0.jpeg"
+        "pv-amr-2025-0196_386_0.jpeg",
+        "pv-amr-2025-0196_387_0.jpeg"
       ],
       "_id_original": "4000230443",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2025-0196_386_0.jpeg",
+        "pv-amr-2025-0196_387_0.jpeg"
+      ]
     },
     {
       "id": "pv-amr-2025-0197",
@@ -4615,10 +4807,14 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0197_387_0.jpeg"
+        "pv-amr-2025-0197_387_0.jpeg"
       ],
       "_id_original": "4000230442",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [
+        "pv-amr-2025-0197_387_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-amr-2025-0198",
@@ -4640,10 +4836,14 @@
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-amr-2025-0198_390_0.jpeg"
+        "pv-amr-2025-0198_390_0.jpeg"
       ],
       "_id_original": "4000230441",
-      "_pdf": "5. AMRIGS.pdf"
+      "_pdf": "5. AMRIGS.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-amr-2025-0198_390_0.jpeg"
+      ]
     },
     {
       "id": "pv-ufr-2024-0001",
@@ -4711,10 +4911,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0004_9_0.png"
+        "pv-ufr-2024-0004_9_0.png"
       ],
       "_id_original": "4000208925",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0004_9_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0007",
@@ -4759,10 +4963,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0008_18_0.png"
+        "pv-ufr-2024-0008_18_0.png"
       ],
       "_id_original": "4000208929",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0008_18_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0009",
@@ -4784,10 +4992,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0009_18_0.png"
+        "pv-ufr-2024-0009_18_0.png"
       ],
       "_id_original": "4000208930",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2024-0009_18_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ufr-2024-0010",
@@ -4855,10 +5067,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0013_29_0.png"
+        "pv-ufr-2024-0013_29_0.png"
       ],
       "_id_original": "4000208934",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0013_29_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0014",
@@ -4903,10 +5119,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0015_34_0.png"
+        "pv-ufr-2024-0015_34_0.png"
       ],
       "_id_original": "4000208936",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0015_34_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0016",
@@ -4928,10 +5148,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0016_34_0.png"
+        "pv-ufr-2024-0016_34_0.png"
       ],
       "_id_original": "4000208937",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2024-0016_34_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ufr-2024-0017",
@@ -4976,10 +5200,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0018_40_0.png"
+        "pv-ufr-2024-0018_40_0.png"
       ],
       "_id_original": "4000208939",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0018_40_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0019",
@@ -5047,13 +5275,21 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0024_52_0.png",
-        "data/questoes-img/pv-ufr-2024-0024_54_0.png",
-        "data/questoes-img/pv-ufr-2024-0024_54_1.png",
-        "data/questoes-img/pv-ufr-2024-0024_55_0.png"
+        "pv-ufr-2024-0024_52_0.png",
+        "pv-ufr-2024-0024_54_0.png",
+        "pv-ufr-2024-0024_54_1.png",
+        "pv-ufr-2024-0024_55_0.png"
       ],
       "_id_original": "4000208945",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2024-0024_52_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0024_54_0.png",
+        "pv-ufr-2024-0024_54_1.png",
+        "pv-ufr-2024-0024_55_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0027",
@@ -5167,11 +5403,16 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0079_151_0.png",
-        "data/questoes-img/pv-ufr-2024-0079_154_0.png"
+        "pv-ufr-2024-0079_151_0.png",
+        "pv-ufr-2024-0079_154_0.png"
       ],
       "_id_original": "4000209150",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0079_151_0.png",
+        "pv-ufr-2024-0079_154_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0081",
@@ -5193,13 +5434,21 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0081_157_0.png",
-        "data/questoes-img/pv-ufr-2024-0081_157_1.png",
-        "data/questoes-img/pv-ufr-2024-0081_158_0.png",
-        "data/questoes-img/pv-ufr-2024-0081_159_0.jpeg"
+        "pv-ufr-2024-0081_157_0.png",
+        "pv-ufr-2024-0081_157_1.png",
+        "pv-ufr-2024-0081_158_0.png",
+        "pv-ufr-2024-0081_159_0.jpeg"
       ],
       "_id_original": "4000209152",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2024-0081_157_0.png",
+        "pv-ufr-2024-0081_157_1.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0081_158_0.png",
+        "pv-ufr-2024-0081_159_0.jpeg"
+      ]
     },
     {
       "id": "pv-ufr-2024-0084",
@@ -5244,10 +5493,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0085_164_0.png"
+        "pv-ufr-2024-0085_164_0.png"
       ],
       "_id_original": "4000209156",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0085_164_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0092",
@@ -5269,10 +5522,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0092_174_0.png"
+        "pv-ufr-2024-0092_174_0.png"
       ],
       "_id_original": "4000209163",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2024-0092_174_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2024-0127",
@@ -5317,11 +5574,16 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0130_237_0.png",
-        "data/questoes-img/pv-ufr-2024-0130_237_1.png"
+        "pv-ufr-2024-0130_237_0.png",
+        "pv-ufr-2024-0130_237_1.png"
       ],
       "_id_original": "4000209201",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2024-0130_237_0.png",
+        "pv-ufr-2024-0130_237_1.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ufr-2024-0134",
@@ -5366,10 +5628,14 @@
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2024-0140_254_0.jpeg"
+        "pv-ufr-2024-0140_254_0.jpeg"
       ],
       "_id_original": "4000209211",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2024-0140_254_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ufr-2024-0145",
@@ -5414,10 +5680,14 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0169_299_0.png"
+        "pv-ufr-2025-0169_299_0.png"
       ],
       "_id_original": "4000231467",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2025-0169_299_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2025-0178",
@@ -5508,10 +5778,14 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0238_409_0.png"
+        "pv-ufr-2025-0238_409_0.png"
       ],
       "_id_original": "4000231358",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2025-0238_409_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ufr-2025-0250",
@@ -5533,10 +5807,14 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0250_433_0.jpeg"
+        "pv-ufr-2025-0250_433_0.jpeg"
       ],
       "_id_original": "4000231336",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2025-0250_433_0.jpeg"
+      ]
     },
     {
       "id": "pv-ufr-2025-0253",
@@ -5558,11 +5836,17 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0253_437_0.png",
-        "data/questoes-img/pv-ufr-2025-0253_439_0.png"
+        "pv-ufr-2025-0253_437_0.png",
+        "pv-ufr-2025-0253_439_0.png"
       ],
       "_id_original": "4000231333",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2025-0253_437_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ufr-2025-0253_439_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2025-0256",
@@ -5607,10 +5891,14 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0274_480_0.jpeg"
+        "pv-ufr-2025-0274_480_0.jpeg"
       ],
       "_id_original": "4000231312",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [
+        "pv-ufr-2025-0274_480_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ufr-2025-0275",
@@ -5655,10 +5943,14 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0278_491_0.jpeg"
+        "pv-ufr-2025-0278_491_0.jpeg"
       ],
       "_id_original": "4000231308",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2025-0278_491_0.jpeg"
+      ]
     },
     {
       "id": "pv-ufr-2025-0280",
@@ -5680,11 +5972,16 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0280_494_0.jpeg",
-        "data/questoes-img/pv-ufr-2025-0280_494_1.jpeg"
+        "pv-ufr-2025-0280_494_0.jpeg",
+        "pv-ufr-2025-0280_494_1.jpeg"
       ],
       "_id_original": "4000231306",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2025-0280_494_0.jpeg",
+        "pv-ufr-2025-0280_494_1.jpeg"
+      ]
     },
     {
       "id": "pv-ufr-2025-0281",
@@ -5959,10 +6256,14 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0298_531_0.png"
+        "pv-ufr-2025-0298_531_0.png"
       ],
       "_id_original": "4000231287",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2025-0298_531_0.png"
+      ]
     },
     {
       "id": "pv-ufr-2025-0301",
@@ -5984,12 +6285,18 @@
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-ufr-2025-0301_538_0.png",
-        "data/questoes-img/pv-ufr-2025-0301_540_0.jpeg",
-        "data/questoes-img/pv-ufr-2025-0301_542_0.png"
+        "pv-ufr-2025-0301_538_0.png",
+        "pv-ufr-2025-0301_540_0.jpeg",
+        "pv-ufr-2025-0301_542_0.png"
       ],
       "_id_original": "4000231284",
-      "_pdf": "6. UFRJ.pdf"
+      "_pdf": "6. UFRJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ufr-2025-0301_538_0.png",
+        "pv-ufr-2025-0301_540_0.jpeg",
+        "pv-ufr-2025-0301_542_0.png"
+      ]
     },
     {
       "id": "pv-uer-2024-0002",
@@ -6149,12 +6456,18 @@
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2024-0057_105_0.png",
-        "data/questoes-img/pv-uer-2024-0057_105_1.png",
-        "data/questoes-img/pv-uer-2024-0057_105_2.png"
+        "pv-uer-2024-0057_105_0.png",
+        "pv-uer-2024-0057_105_1.png",
+        "pv-uer-2024-0057_105_2.png"
       ],
       "_id_original": "4000209038",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uer-2024-0057_105_0.png",
+        "pv-uer-2024-0057_105_1.png",
+        "pv-uer-2024-0057_105_2.png"
+      ]
     },
     {
       "id": "pv-uer-2024-0081",
@@ -6222,13 +6535,21 @@
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2024-0096_167_0.jpeg",
-        "data/questoes-img/pv-uer-2024-0096_168_0.png",
-        "data/questoes-img/pv-uer-2024-0096_169_0.png",
-        "data/questoes-img/pv-uer-2024-0096_169_1.jpeg"
+        "pv-uer-2024-0096_167_0.jpeg",
+        "pv-uer-2024-0096_168_0.png",
+        "pv-uer-2024-0096_169_0.png",
+        "pv-uer-2024-0096_169_1.jpeg"
       ],
       "_id_original": "4000209077",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [
+        "pv-uer-2024-0096_167_0.jpeg"
+      ],
+      "imagens_explicacao": [
+        "pv-uer-2024-0096_168_0.png",
+        "pv-uer-2024-0096_169_0.png",
+        "pv-uer-2024-0096_169_1.jpeg"
+      ]
     },
     {
       "id": "pv-uer-2024-0097",
@@ -6250,11 +6571,16 @@
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2024-0097_169_0.png",
-        "data/questoes-img/pv-uer-2024-0097_169_1.jpeg"
+        "pv-uer-2024-0097_169_0.png",
+        "pv-uer-2024-0097_169_1.jpeg"
       ],
       "_id_original": "4000209078",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [
+        "pv-uer-2024-0097_169_0.png",
+        "pv-uer-2024-0097_169_1.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-uer-2024-0099",
@@ -6276,11 +6602,17 @@
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2024-0099_173_0.png",
-        "data/questoes-img/pv-uer-2024-0099_174_0.png"
+        "pv-uer-2024-0099_173_0.png",
+        "pv-uer-2024-0099_174_0.png"
       ],
       "_id_original": "4000209080",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [
+        "pv-uer-2024-0099_173_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-uer-2024-0099_174_0.png"
+      ]
     },
     {
       "id": "pv--2024-0100",
@@ -6348,13 +6680,21 @@
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2025-0111_192_0.png",
-        "data/questoes-img/pv-uer-2025-0111_193_0.png",
-        "data/questoes-img/pv-uer-2025-0111_194_0.png",
-        "data/questoes-img/pv-uer-2025-0111_194_1.png"
+        "pv-uer-2025-0111_192_0.png",
+        "pv-uer-2025-0111_193_0.png",
+        "pv-uer-2025-0111_194_0.png",
+        "pv-uer-2025-0111_194_1.png"
       ],
       "_id_original": "4000232045",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [
+        "pv-uer-2025-0111_192_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-uer-2025-0111_193_0.png",
+        "pv-uer-2025-0111_194_0.png",
+        "pv-uer-2025-0111_194_1.png"
+      ]
     },
     {
       "id": "pv-uer-2025-0112",
@@ -6422,10 +6762,14 @@
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2025-0140_235_0.png"
+        "pv-uer-2025-0140_235_0.png"
       ],
       "_id_original": "4000232004",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uer-2025-0140_235_0.png"
+      ]
     },
     {
       "id": "pv-uer-2025-0144",
@@ -6447,15 +6791,24 @@
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2025-0144_241_0.png",
-        "data/questoes-img/pv-uer-2025-0144_241_1.jpeg",
-        "data/questoes-img/pv-uer-2025-0144_242_0.jpeg",
-        "data/questoes-img/pv-uer-2025-0144_242_1.jpeg",
-        "data/questoes-img/pv-uer-2025-0144_243_0.png",
-        "data/questoes-img/pv-uer-2025-0144_243_1.jpeg"
+        "pv-uer-2025-0144_241_0.png",
+        "pv-uer-2025-0144_241_1.jpeg",
+        "pv-uer-2025-0144_242_0.jpeg",
+        "pv-uer-2025-0144_242_1.jpeg",
+        "pv-uer-2025-0144_243_0.png",
+        "pv-uer-2025-0144_243_1.jpeg"
       ],
       "_id_original": "4000231994",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uer-2025-0144_241_0.png",
+        "pv-uer-2025-0144_241_1.jpeg",
+        "pv-uer-2025-0144_242_0.jpeg",
+        "pv-uer-2025-0144_242_1.jpeg",
+        "pv-uer-2025-0144_243_0.png",
+        "pv-uer-2025-0144_243_1.jpeg"
+      ]
     },
     {
       "id": "pv-uer-2025-0145",
@@ -6477,10 +6830,14 @@
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2025-0145_245_0.png"
+        "pv-uer-2025-0145_245_0.png"
       ],
       "_id_original": "4000231993",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uer-2025-0145_245_0.png"
+      ]
     },
     {
       "id": "pv-uer-2025-0184",
@@ -6502,10 +6859,14 @@
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uer-2025-0184_323_0.png"
+        "pv-uer-2025-0184_323_0.png"
       ],
       "_id_original": "4000231930",
-      "_pdf": "7. UERJ.pdf"
+      "_pdf": "7. UERJ.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uer-2025-0184_323_0.png"
+      ]
     },
     {
       "id": "pv-uer-2025-0189",
@@ -6711,11 +7072,16 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0016_35_0.png",
-        "data/questoes-img/pv-hcp-2024-0016_35_1.png"
+        "pv-hcp-2024-0016_35_0.png",
+        "pv-hcp-2024-0016_35_1.png"
       ],
       "_id_original": "4000208234",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2024-0016_35_0.png",
+        "pv-hcp-2024-0016_35_1.png"
+      ]
     },
     {
       "id": "pv-hcp-2024-0017",
@@ -6737,11 +7103,16 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0017_35_0.png",
-        "data/questoes-img/pv-hcp-2024-0017_35_1.png"
+        "pv-hcp-2024-0017_35_0.png",
+        "pv-hcp-2024-0017_35_1.png"
       ],
       "_id_original": "4000208235",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2024-0017_35_0.png",
+        "pv-hcp-2024-0017_35_1.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hcp-2024-0018",
@@ -6763,12 +7134,19 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0018_39_0.png",
-        "data/questoes-img/pv-hcp-2024-0018_40_0.png",
-        "data/questoes-img/pv-hcp-2024-0018_41_0.png"
+        "pv-hcp-2024-0018_39_0.png",
+        "pv-hcp-2024-0018_40_0.png",
+        "pv-hcp-2024-0018_41_0.png"
       ],
       "_id_original": "4000208236",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2024-0018_39_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-hcp-2024-0018_40_0.png",
+        "pv-hcp-2024-0018_41_0.png"
+      ]
     },
     {
       "id": "pv-hcp-2024-0019",
@@ -6790,10 +7168,14 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0019_41_0.png"
+        "pv-hcp-2024-0019_41_0.png"
       ],
       "_id_original": "4000208237",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2024-0019_41_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hcp-2024-0020",
@@ -6815,10 +7197,14 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0020_46_0.jpeg"
+        "pv-hcp-2024-0020_46_0.jpeg"
       ],
       "_id_original": "4000208238",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2024-0020_46_0.jpeg"
+      ]
     },
     {
       "id": "pv-hcp-2024-0023",
@@ -6840,10 +7226,14 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0023_50_0.jpeg"
+        "pv-hcp-2024-0023_50_0.jpeg"
       ],
       "_id_original": "4000208248",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2024-0023_50_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hcp-2024-0026",
@@ -6888,10 +7278,14 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0028_58_0.png"
+        "pv-hcp-2024-0028_58_0.png"
       ],
       "_id_original": "4000208254",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2024-0028_58_0.png"
+      ]
     },
     {
       "id": "pv-hcp-2024-0035",
@@ -6936,10 +7330,14 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0040_78_0.jpeg"
+        "pv-hcp-2024-0040_78_0.jpeg"
       ],
       "_id_original": "4000208278",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2024-0040_78_0.jpeg"
+      ]
     },
     {
       "id": "pv-hcp-2024-0056",
@@ -6961,11 +7359,16 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0056_106_0.png",
-        "data/questoes-img/pv-hcp-2024-0056_107_0.png"
+        "pv-hcp-2024-0056_106_0.png",
+        "pv-hcp-2024-0056_107_0.png"
       ],
       "_id_original": "4000208306",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2024-0056_106_0.png",
+        "pv-hcp-2024-0056_107_0.png"
+      ]
     },
     {
       "id": "pv-hcp-2024-0079",
@@ -6987,11 +7390,17 @@
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2024-0079_144_0.png",
-        "data/questoes-img/pv-hcp-2024-0079_145_0.png"
+        "pv-hcp-2024-0079_144_0.png",
+        "pv-hcp-2024-0079_145_0.png"
       ],
       "_id_original": "4000208343",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2024-0079_144_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-hcp-2024-0079_145_0.png"
+      ]
     },
     {
       "id": "pv-hcp-2025-0101",
@@ -7013,10 +7422,14 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0101_186_0.png"
+        "pv-hcp-2025-0101_186_0.png"
       ],
       "_id_original": "4000230230",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2025-0101_186_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hcp-2025-0118",
@@ -7061,12 +7474,19 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0120_218_0.png",
-        "data/questoes-img/pv-hcp-2025-0120_220_0.jpeg",
-        "data/questoes-img/pv-hcp-2025-0120_220_1.jpeg"
+        "pv-hcp-2025-0120_218_0.png",
+        "pv-hcp-2025-0120_220_0.jpeg",
+        "pv-hcp-2025-0120_220_1.jpeg"
       ],
       "_id_original": "4000230294",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2025-0120_218_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-hcp-2025-0120_220_0.jpeg",
+        "pv-hcp-2025-0120_220_1.jpeg"
+      ]
     },
     {
       "id": "pv-hcp-2025-0140",
@@ -7088,10 +7508,14 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0140_262_0.png"
+        "pv-hcp-2025-0140_262_0.png"
       ],
       "_id_original": "4000230274",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2025-0140_262_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hcp-2025-0141",
@@ -7136,16 +7560,27 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0143_267_0.png",
-        "data/questoes-img/pv-hcp-2025-0143_269_0.png",
-        "data/questoes-img/pv-hcp-2025-0143_270_0.png",
-        "data/questoes-img/pv-hcp-2025-0143_271_0.png",
-        "data/questoes-img/pv-hcp-2025-0143_271_1.png",
-        "data/questoes-img/pv-hcp-2025-0143_271_2.png",
-        "data/questoes-img/pv-hcp-2025-0143_271_3.png"
+        "pv-hcp-2025-0143_267_0.png",
+        "pv-hcp-2025-0143_269_0.png",
+        "pv-hcp-2025-0143_270_0.png",
+        "pv-hcp-2025-0143_271_0.png",
+        "pv-hcp-2025-0143_271_1.png",
+        "pv-hcp-2025-0143_271_2.png",
+        "pv-hcp-2025-0143_271_3.png"
       ],
       "_id_original": "4000230271",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2025-0143_267_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-hcp-2025-0143_269_0.png",
+        "pv-hcp-2025-0143_270_0.png",
+        "pv-hcp-2025-0143_271_0.png",
+        "pv-hcp-2025-0143_271_1.png",
+        "pv-hcp-2025-0143_271_2.png",
+        "pv-hcp-2025-0143_271_3.png"
+      ]
     },
     {
       "id": "pv-hcp-2025-0151",
@@ -7213,10 +7648,14 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0164_299_0.png"
+        "pv-hcp-2025-0164_299_0.png"
       ],
       "_id_original": "4000230250",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2025-0164_299_0.png"
+      ]
     },
     {
       "id": "pv-hcp-2025-0169",
@@ -7238,10 +7677,14 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0169_307_0.png"
+        "pv-hcp-2025-0169_307_0.png"
       ],
       "_id_original": "4000230245",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2025-0169_307_0.png"
+      ]
     },
     {
       "id": "pv-hcp-2025-0176",
@@ -7286,13 +7729,21 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0178_323_0.png",
-        "data/questoes-img/pv-hcp-2025-0178_324_0.png",
-        "data/questoes-img/pv-hcp-2025-0178_325_0.png",
-        "data/questoes-img/pv-hcp-2025-0178_325_1.png"
+        "pv-hcp-2025-0178_323_0.png",
+        "pv-hcp-2025-0178_324_0.png",
+        "pv-hcp-2025-0178_325_0.png",
+        "pv-hcp-2025-0178_325_1.png"
       ],
       "_id_original": "4000230235",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2025-0178_323_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-hcp-2025-0178_324_0.png",
+        "pv-hcp-2025-0178_325_0.png",
+        "pv-hcp-2025-0178_325_1.png"
+      ]
     },
     {
       "id": "pv-hcp-2025-0180",
@@ -7314,11 +7765,17 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0180_327_0.jpeg",
-        "data/questoes-img/pv-hcp-2025-0180_328_0.png"
+        "pv-hcp-2025-0180_327_0.jpeg",
+        "pv-hcp-2025-0180_328_0.png"
       ],
       "_id_original": "4000230233",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2025-0180_327_0.jpeg"
+      ],
+      "imagens_explicacao": [
+        "pv-hcp-2025-0180_328_0.png"
+      ]
     },
     {
       "id": "pv-hcp-2025-0183",
@@ -7340,10 +7797,14 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0183_333_0.png"
+        "pv-hcp-2025-0183_333_0.png"
       ],
       "_id_original": "4000230229",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [
+        "pv-hcp-2025-0183_333_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hcp-2025-0184",
@@ -7365,10 +7826,14 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0184_335_0.png"
+        "pv-hcp-2025-0184_335_0.png"
       ],
       "_id_original": "4000230228",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2025-0184_335_0.png"
+      ]
     },
     {
       "id": "pv--2025-0186",
@@ -7528,10 +7993,14 @@
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hcp-2025-0197_362_0.png"
+        "pv-hcp-2025-0197_362_0.png"
       ],
       "_id_original": "4000230215",
-      "_pdf": "8. HCPA.pdf"
+      "_pdf": "8. HCPA.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hcp-2025-0197_362_0.png"
+      ]
     },
     {
       "id": "pv-fam-2024-0010",
@@ -7576,11 +8045,16 @@
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2024-0041_87_0.png",
-        "data/questoes-img/pv-fam-2024-0041_87_1.png"
+        "pv-fam-2024-0041_87_0.png",
+        "pv-fam-2024-0041_87_1.png"
       ],
       "_id_original": "4000210505",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [
+        "pv-fam-2024-0041_87_0.png",
+        "pv-fam-2024-0041_87_1.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-fam-2024-0073",
@@ -7602,10 +8076,14 @@
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2024-0073_146_0.png"
+        "pv-fam-2024-0073_146_0.png"
       ],
       "_id_original": "4000210537",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [
+        "pv-fam-2024-0073_146_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-fam-2024-0075",
@@ -7627,10 +8105,14 @@
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2024-0075_153_0.png"
+        "pv-fam-2024-0075_153_0.png"
       ],
       "_id_original": "4000210539",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-fam-2024-0075_153_0.png"
+      ]
     },
     {
       "id": "pv-fam-2024-0076",
@@ -7698,14 +8180,22 @@
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2024-0078_162_0.png",
-        "data/questoes-img/pv-fam-2024-0078_163_0.png",
-        "data/questoes-img/pv-fam-2024-0078_164_0.png",
-        "data/questoes-img/pv-fam-2024-0078_164_1.png",
-        "data/questoes-img/pv-fam-2024-0078_164_2.png"
+        "pv-fam-2024-0078_162_0.png",
+        "pv-fam-2024-0078_163_0.png",
+        "pv-fam-2024-0078_164_0.png",
+        "pv-fam-2024-0078_164_1.png",
+        "pv-fam-2024-0078_164_2.png"
       ],
       "_id_original": "4000210542",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-fam-2024-0078_162_0.png",
+        "pv-fam-2024-0078_163_0.png",
+        "pv-fam-2024-0078_164_0.png",
+        "pv-fam-2024-0078_164_1.png",
+        "pv-fam-2024-0078_164_2.png"
+      ]
     },
     {
       "id": "pv-fam-2024-0080",
@@ -7727,10 +8217,14 @@
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2024-0080_168_0.png"
+        "pv-fam-2024-0080_168_0.png"
       ],
       "_id_original": "4000210544",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [
+        "pv-fam-2024-0080_168_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-fam-2025-0104",
@@ -7752,10 +8246,14 @@
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2025-0104_218_0.jpeg"
+        "pv-fam-2025-0104_218_0.jpeg"
       ],
       "_id_original": "4000234552",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-fam-2025-0104_218_0.jpeg"
+      ]
     },
     {
       "id": "pv-fam-2025-0109",
@@ -7777,10 +8275,14 @@
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2025-0109_225_0.png"
+        "pv-fam-2025-0109_225_0.png"
       ],
       "_id_original": "4000234547",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-fam-2025-0109_225_0.png"
+      ]
     },
     {
       "id": "pv-fam-2025-0110",
@@ -7802,10 +8304,14 @@
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2025-0110_225_0.png"
+        "pv-fam-2025-0110_225_0.png"
       ],
       "_id_original": "4000234546",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [
+        "pv-fam-2025-0110_225_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-fam-2025-0114",
@@ -7827,10 +8333,14 @@
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2025-0114_232_0.png"
+        "pv-fam-2025-0114_232_0.png"
       ],
       "_id_original": "4000234542",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [
+        "pv-fam-2025-0114_232_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-fam-2025-0116",
@@ -7852,10 +8362,14 @@
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2025-0116_237_0.png"
+        "pv-fam-2025-0116_237_0.png"
       ],
       "_id_original": "4000234540",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [
+        "pv-fam-2025-0116_237_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-fam-2025-0119",
@@ -7923,10 +8437,14 @@
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2025-0125_261_0.png"
+        "pv-fam-2025-0125_261_0.png"
       ],
       "_id_original": "4000234531",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-fam-2025-0125_261_0.png"
+      ]
     },
     {
       "id": "pv-fam-2025-0128",
@@ -7972,13 +8490,21 @@
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-fam-2025-0137_288_0.png",
-        "data/questoes-img/pv-fam-2025-0137_289_0.png",
-        "data/questoes-img/pv-fam-2025-0137_289_1.png",
-        "data/questoes-img/pv-fam-2025-0137_290_0.png"
+        "pv-fam-2025-0137_288_0.png",
+        "pv-fam-2025-0137_289_0.png",
+        "pv-fam-2025-0137_289_1.png",
+        "pv-fam-2025-0137_290_0.png"
       ],
       "_id_original": "4000234328",
-      "_pdf": "9. FAMERP.pdf"
+      "_pdf": "9. FAMERP.pdf",
+      "imagens_enunciado": [
+        "pv-fam-2025-0137_288_0.png",
+        "pv-fam-2025-0137_289_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-fam-2025-0137_289_1.png",
+        "pv-fam-2025-0137_290_0.png"
+      ]
     },
     {
       "id": "pv-sp-2024-0006",
@@ -8025,10 +8551,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0007_20_0.png"
+        "pv-sp-2024-0007_20_0.png"
       ],
       "_id_original": "4000213362",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2024-0007_20_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-sp-2024-0014",
@@ -8051,11 +8581,16 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0014_35_0.png",
-        "data/questoes-img/pv-sp-2024-0014_36_0.png"
+        "pv-sp-2024-0014_35_0.png",
+        "pv-sp-2024-0014_36_0.png"
       ],
       "_id_original": "4000213369",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-sp-2024-0014_35_0.png",
+        "pv-sp-2024-0014_36_0.png"
+      ]
     },
     {
       "id": "pv-sp-2024-0015",
@@ -8078,12 +8613,19 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0015_36_0.png",
-        "data/questoes-img/pv-sp-2024-0015_37_0.png",
-        "data/questoes-img/pv-sp-2024-0015_39_0.png"
+        "pv-sp-2024-0015_36_0.png",
+        "pv-sp-2024-0015_37_0.png",
+        "pv-sp-2024-0015_39_0.png"
       ],
       "_id_original": "4000213370",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2024-0015_36_0.png",
+        "pv-sp-2024-0015_37_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-sp-2024-0015_39_0.png"
+      ]
     },
     {
       "id": "pv-sp-2024-0016",
@@ -8106,11 +8648,17 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0016_39_0.png",
-        "data/questoes-img/pv-sp-2024-0016_41_0.jpeg"
+        "pv-sp-2024-0016_39_0.png",
+        "pv-sp-2024-0016_41_0.jpeg"
       ],
       "_id_original": "4000213371",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2024-0016_39_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-sp-2024-0016_41_0.jpeg"
+      ]
     },
     {
       "id": "pv-sp-2024-0019",
@@ -8133,12 +8681,19 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0019_47_0.png",
-        "data/questoes-img/pv-sp-2024-0019_48_0.png",
-        "data/questoes-img/pv-sp-2024-0019_49_0.jpeg"
+        "pv-sp-2024-0019_47_0.png",
+        "pv-sp-2024-0019_48_0.png",
+        "pv-sp-2024-0019_49_0.jpeg"
       ],
       "_id_original": "4000213374",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2024-0019_47_0.png",
+        "pv-sp-2024-0019_48_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-sp-2024-0019_49_0.jpeg"
+      ]
     },
     {
       "id": "pv-sp-2024-0020",
@@ -8184,10 +8739,14 @@
       "fonte": " 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv--2024-0027_70_0.png"
+        "pv--2024-0027_70_0.png"
       ],
       "_id_original": "4000212096",
-      "_pdf": "10. USP-SP.pdf"
+      "_pdf": "10. USP-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv--2024-0027_70_0.png"
+      ]
     },
     {
       "id": "pv-sp-2024-0037",
@@ -8210,10 +8769,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0037_85_0.png"
+        "pv-sp-2024-0037_85_0.png"
       ],
       "_id_original": "4000213392",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2024-0037_85_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hc)-2024-0045",
@@ -8235,10 +8798,14 @@
       "fonte": "HC) 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hc)-2024-0045_116_0.png"
+        "pv-hc)-2024-0045_116_0.png"
       ],
       "_id_original": "4000212114",
-      "_pdf": "10. USP-SP.pdf"
+      "_pdf": "10. USP-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hc)-2024-0045_116_0.png"
+      ]
     },
     {
       "id": "pv-sp-2024-0052",
@@ -8261,10 +8828,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0052_112_0.jpeg"
+        "pv-sp-2024-0052_112_0.jpeg"
       ],
       "_id_original": "4000213407",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-sp-2024-0052_112_0.jpeg"
+      ]
     },
     {
       "id": "pv-sp-2024-0055",
@@ -8358,14 +8929,22 @@
       "fonte": "HC) 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hc)-2024-0078_181_0.jpeg",
-        "data/questoes-img/pv-hc)-2024-0078_181_1.jpeg",
-        "data/questoes-img/pv-hc)-2024-0078_182_0.jpeg",
-        "data/questoes-img/pv-hc)-2024-0078_183_0.jpeg",
-        "data/questoes-img/pv-hc)-2024-0078_183_1.jpeg"
+        "pv-hc)-2024-0078_181_0.jpeg",
+        "pv-hc)-2024-0078_181_1.jpeg",
+        "pv-hc)-2024-0078_182_0.jpeg",
+        "pv-hc)-2024-0078_183_0.jpeg",
+        "pv-hc)-2024-0078_183_1.jpeg"
       ],
       "_id_original": "4000212150",
-      "_pdf": "10. USP-SP.pdf"
+      "_pdf": "10. USP-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hc)-2024-0078_181_0.jpeg",
+        "pv-hc)-2024-0078_181_1.jpeg",
+        "pv-hc)-2024-0078_182_0.jpeg",
+        "pv-hc)-2024-0078_183_0.jpeg",
+        "pv-hc)-2024-0078_183_1.jpeg"
+      ]
     },
     {
       "id": "pv-sp-2024-0097",
@@ -8388,10 +8967,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0097_190_0.png"
+        "pv-sp-2024-0097_190_0.png"
       ],
       "_id_original": "4000213452",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2024-0097_190_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-sp-2024-0106",
@@ -8413,14 +8996,23 @@
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2024-0106_249_0.png",
-        "data/questoes-img/pv-sp-2024-0106_249_1.png",
-        "data/questoes-img/pv-sp-2024-0106_250_0.png",
-        "data/questoes-img/pv-sp-2024-0106_251_0.png",
-        "data/questoes-img/pv-sp-2024-0106_251_1.png"
+        "pv-sp-2024-0106_249_0.png",
+        "pv-sp-2024-0106_249_1.png",
+        "pv-sp-2024-0106_250_0.png",
+        "pv-sp-2024-0106_251_0.png",
+        "pv-sp-2024-0106_251_1.png"
       ],
       "_id_original": "4000212214",
-      "_pdf": "10. USP-SP.pdf"
+      "_pdf": "10. USP-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2024-0106_249_0.png",
+        "pv-sp-2024-0106_249_1.png"
+      ],
+      "imagens_explicacao": [
+        "pv-sp-2024-0106_250_0.png",
+        "pv-sp-2024-0106_251_0.png",
+        "pv-sp-2024-0106_251_1.png"
+      ]
     },
     {
       "id": "pv-sp-2025-0126",
@@ -8443,12 +9035,18 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0126_258_0.jpeg",
-        "data/questoes-img/pv-sp-2025-0126_259_0.jpeg",
-        "data/questoes-img/pv-sp-2025-0126_260_0.jpeg"
+        "pv-sp-2025-0126_258_0.jpeg",
+        "pv-sp-2025-0126_259_0.jpeg",
+        "pv-sp-2025-0126_260_0.jpeg"
       ],
       "_id_original": "4000234127",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-sp-2025-0126_258_0.jpeg",
+        "pv-sp-2025-0126_259_0.jpeg",
+        "pv-sp-2025-0126_260_0.jpeg"
+      ]
     },
     {
       "id": "pv-sp-2025-0152",
@@ -8471,10 +9069,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0152_304_0.png"
+        "pv-sp-2025-0152_304_0.png"
       ],
       "_id_original": "4000234093",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-sp-2025-0152_304_0.png"
+      ]
     },
     {
       "id": "pv-sp-2025-0163",
@@ -8497,11 +9099,17 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0163_326_0.png",
-        "data/questoes-img/pv-sp-2025-0163_328_0.png"
+        "pv-sp-2025-0163_326_0.png",
+        "pv-sp-2025-0163_328_0.png"
       ],
       "_id_original": "4000234082",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2025-0163_326_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-sp-2025-0163_328_0.png"
+      ]
     },
     {
       "id": "pv-sp-2025-0181",
@@ -8524,12 +9132,19 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0181_358_0.png",
-        "data/questoes-img/pv-sp-2025-0181_360_0.jpeg",
-        "data/questoes-img/pv-sp-2025-0181_361_0.jpeg"
+        "pv-sp-2025-0181_358_0.png",
+        "pv-sp-2025-0181_360_0.jpeg",
+        "pv-sp-2025-0181_361_0.jpeg"
       ],
       "_id_original": "4000234064",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2025-0181_358_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-sp-2025-0181_360_0.jpeg",
+        "pv-sp-2025-0181_361_0.jpeg"
+      ]
     },
     {
       "id": "pv-sp-2025-0182",
@@ -8552,10 +9167,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0182_361_0.jpeg"
+        "pv-sp-2025-0182_361_0.jpeg"
       ],
       "_id_original": "4000234063",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2025-0182_361_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-sp-2025-0183",
@@ -8578,11 +9197,16 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0183_365_0.jpeg",
-        "data/questoes-img/pv-sp-2025-0183_366_0.jpeg"
+        "pv-sp-2025-0183_365_0.jpeg",
+        "pv-sp-2025-0183_366_0.jpeg"
       ],
       "_id_original": "4000234062",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-sp-2025-0183_365_0.jpeg",
+        "pv-sp-2025-0183_366_0.jpeg"
+      ]
     },
     {
       "id": "pv-sp-2025-0184",
@@ -8605,10 +9229,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0184_366_0.jpeg"
+        "pv-sp-2025-0184_366_0.jpeg"
       ],
       "_id_original": "4000234061",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2025-0184_366_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-sp-2025-0187",
@@ -8631,10 +9259,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0187_372_0.jpeg"
+        "pv-sp-2025-0187_372_0.jpeg"
       ],
       "_id_original": "4000234058",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2025-0187_372_0.jpeg"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-sp-2025-0189",
@@ -8705,10 +9337,14 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0192_383_0.jpeg"
+        "pv-sp-2025-0192_383_0.jpeg"
       ],
       "_id_original": "4000234053",
-      "_pdf": "14. SUS-SP.pdf"
+      "_pdf": "14. SUS-SP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-sp-2025-0192_383_0.jpeg"
+      ]
     },
     {
       "id": "pv-sp-2025-0195",
@@ -8825,13 +9461,21 @@
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-sp-2025-0236_594_0.png",
-        "data/questoes-img/pv-sp-2025-0236_594_1.png",
-        "data/questoes-img/pv-sp-2025-0236_595_0.png",
-        "data/questoes-img/pv-sp-2025-0236_595_1.png"
+        "pv-sp-2025-0236_594_0.png",
+        "pv-sp-2025-0236_594_1.png",
+        "pv-sp-2025-0236_595_0.png",
+        "pv-sp-2025-0236_595_1.png"
       ],
       "_id_original": "4000231900",
-      "_pdf": "10. USP-SP.pdf"
+      "_pdf": "10. USP-SP.pdf",
+      "imagens_enunciado": [
+        "pv-sp-2025-0236_594_0.png",
+        "pv-sp-2025-0236_594_1.png"
+      ],
+      "imagens_explicacao": [
+        "pv-sp-2025-0236_595_0.png",
+        "pv-sp-2025-0236_595_1.png"
+      ]
     },
     {
       "id": "pv-uni-2024-0023",
@@ -8853,10 +9497,14 @@
       "fonte": "UNIFESP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uni-2024-0023_40_0.png"
+        "pv-uni-2024-0023_40_0.png"
       ],
       "_id_original": "4000210862",
-      "_pdf": "11. UNIFESP.pdf"
+      "_pdf": "11. UNIFESP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uni-2024-0023_40_0.png"
+      ]
     },
     {
       "id": "pv-uni-2024-0025",
@@ -8878,10 +9526,14 @@
       "fonte": "UNIFESP 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uni-2024-0025_43_0.png"
+        "pv-uni-2024-0025_43_0.png"
       ],
       "_id_original": "4000210864",
-      "_pdf": "11. UNIFESP.pdf"
+      "_pdf": "11. UNIFESP.pdf",
+      "imagens_enunciado": [
+        "pv-uni-2024-0025_43_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-uni-2024-0026",
@@ -9087,11 +9739,16 @@
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uni-2025-0110_194_0.jpeg",
-        "data/questoes-img/pv-uni-2025-0110_194_1.jpeg"
+        "pv-uni-2025-0110_194_0.jpeg",
+        "pv-uni-2025-0110_194_1.jpeg"
       ],
       "_id_original": "4000233116",
-      "_pdf": "11. UNIFESP.pdf"
+      "_pdf": "11. UNIFESP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uni-2025-0110_194_0.jpeg",
+        "pv-uni-2025-0110_194_1.jpeg"
+      ]
     },
     {
       "id": "pv-uni-2025-0134",
@@ -9182,10 +9839,14 @@
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uni-2025-0148_269_0.png"
+        "pv-uni-2025-0148_269_0.png"
       ],
       "_id_original": "4000233058",
-      "_pdf": "11. UNIFESP.pdf"
+      "_pdf": "11. UNIFESP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uni-2025-0148_269_0.png"
+      ]
     },
     {
       "id": "pv-uni-2025-0149",
@@ -9207,10 +9868,14 @@
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uni-2025-0149_269_0.png"
+        "pv-uni-2025-0149_269_0.png"
       ],
       "_id_original": "4000233057",
-      "_pdf": "11. UNIFESP.pdf"
+      "_pdf": "11. UNIFESP.pdf",
+      "imagens_enunciado": [
+        "pv-uni-2025-0149_269_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-uni-2025-0150",
@@ -9301,10 +9966,14 @@
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uni-2025-0153_277_0.png"
+        "pv-uni-2025-0153_277_0.png"
       ],
       "_id_original": "4000233051",
-      "_pdf": "11. UNIFESP.pdf"
+      "_pdf": "11. UNIFESP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uni-2025-0153_277_0.png"
+      ]
     },
     {
       "id": "pv-uni-2025-0157",
@@ -9326,11 +9995,17 @@
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uni-2025-0157_288_0.png",
-        "data/questoes-img/pv-uni-2025-0157_291_0.jpeg"
+        "pv-uni-2025-0157_288_0.png",
+        "pv-uni-2025-0157_291_0.jpeg"
       ],
       "_id_original": "4000233045",
-      "_pdf": "11. UNIFESP.pdf"
+      "_pdf": "11. UNIFESP.pdf",
+      "imagens_enunciado": [
+        "pv-uni-2025-0157_288_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-uni-2025-0157_291_0.jpeg"
+      ]
     },
     {
       "id": "pv-uni-2025-0168",
@@ -9352,10 +10027,14 @@
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-uni-2025-0168_318_0.png"
+        "pv-uni-2025-0168_318_0.png"
       ],
       "_id_original": "4000233024",
-      "_pdf": "11. UNIFESP.pdf"
+      "_pdf": "11. UNIFESP.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-uni-2025-0168_318_0.png"
+      ]
     },
     {
       "id": "pv-uni-2025-0187",
@@ -10234,10 +10913,14 @@
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2024-0005_10_0.png"
+        "pv-hia-2024-0005_10_0.png"
       ],
       "_id_original": "4000205845",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hia-2024-0005_10_0.png"
+      ]
     },
     {
       "id": "pv-hia-2024-0006",
@@ -10259,10 +10942,14 @@
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2024-0006_10_0.png"
+        "pv-hia-2024-0006_10_0.png"
       ],
       "_id_original": "4000205846",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hia-2024-0006_10_0.png"
+      ]
     },
     {
       "id": "pv-hia-2024-0007",
@@ -10284,11 +10971,16 @@
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2024-0007_14_0.png",
-        "data/questoes-img/pv-hia-2024-0007_15_0.png"
+        "pv-hia-2024-0007_14_0.png",
+        "pv-hia-2024-0007_15_0.png"
       ],
       "_id_original": "4000205847",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hia-2024-0007_14_0.png",
+        "pv-hia-2024-0007_15_0.png"
+      ]
     },
     {
       "id": "pv-hia-2024-0012",
@@ -10310,11 +11002,17 @@
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2024-0012_27_0.png",
-        "data/questoes-img/pv-hia-2024-0012_30_0.png"
+        "pv-hia-2024-0012_27_0.png",
+        "pv-hia-2024-0012_30_0.png"
       ],
       "_id_original": "4000205852",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [
+        "pv-hia-2024-0012_27_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-hia-2024-0012_30_0.png"
+      ]
     },
     {
       "id": "pv-hia-2024-0014",
@@ -10382,10 +11080,14 @@
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2024-0020_42_0.png"
+        "pv-hia-2024-0020_42_0.png"
       ],
       "_id_original": "4000205860",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [
+        "pv-hia-2024-0020_42_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hia-2024-0031",
@@ -10476,11 +11178,16 @@
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2024-0051_99_0.jpeg",
-        "data/questoes-img/pv-hia-2024-0051_100_0.png"
+        "pv-hia-2024-0051_99_0.jpeg",
+        "pv-hia-2024-0051_100_0.png"
       ],
       "_id_original": "4000205891",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [
+        "pv-hia-2024-0051_99_0.jpeg",
+        "pv-hia-2024-0051_100_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-hia-2024-0065",
@@ -10502,11 +11209,16 @@
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2024-0065_127_0.jpeg",
-        "data/questoes-img/pv-hia-2024-0065_128_0.png"
+        "pv-hia-2024-0065_127_0.jpeg",
+        "pv-hia-2024-0065_128_0.png"
       ],
       "_id_original": "4000205905",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hia-2024-0065_127_0.jpeg",
+        "pv-hia-2024-0065_128_0.png"
+      ]
     },
     {
       "id": "pv-hia-2024-0073",
@@ -10528,10 +11240,14 @@
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2024-0073_143_0.png"
+        "pv-hia-2024-0073_143_0.png"
       ],
       "_id_original": "4000205913",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hia-2024-0073_143_0.png"
+      ]
     },
     {
       "id": "pv-hia-2025-0105",
@@ -10576,10 +11292,14 @@
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2025-0120_236_0.jpeg"
+        "pv-hia-2025-0120_236_0.jpeg"
       ],
       "_id_original": "4000227133",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hia-2025-0120_236_0.jpeg"
+      ]
     },
     {
       "id": "pv-hia-2025-0129",
@@ -10601,10 +11321,14 @@
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2025-0129_255_0.png"
+        "pv-hia-2025-0129_255_0.png"
       ],
       "_id_original": "4000227124",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-hia-2025-0129_255_0.png"
+      ]
     },
     {
       "id": "pv-hia-2025-0140",
@@ -10695,13 +11419,21 @@
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-hia-2025-0145_285_0.jpeg",
-        "data/questoes-img/pv-hia-2025-0145_287_0.png",
-        "data/questoes-img/pv-hia-2025-0145_288_0.png",
-        "data/questoes-img/pv-hia-2025-0145_288_1.png"
+        "pv-hia-2025-0145_285_0.jpeg",
+        "pv-hia-2025-0145_287_0.png",
+        "pv-hia-2025-0145_288_0.png",
+        "pv-hia-2025-0145_288_1.png"
       ],
       "_id_original": "4000227108",
-      "_pdf": "16. HIAE.pdf"
+      "_pdf": "16. HIAE.pdf",
+      "imagens_enunciado": [
+        "pv-hia-2025-0145_285_0.jpeg"
+      ],
+      "imagens_explicacao": [
+        "pv-hia-2025-0145_287_0.png",
+        "pv-hia-2025-0145_288_0.png",
+        "pv-hia-2025-0145_288_1.png"
+      ]
     },
     {
       "id": "pv-df-2024-0002",
@@ -10723,11 +11455,16 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2024-0002_4_0.png",
-        "data/questoes-img/pv-df-2024-0002_4_1.png"
+        "pv-df-2024-0002_4_0.png",
+        "pv-df-2024-0002_4_1.png"
       ],
       "_id_original": "4000213079",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [
+        "pv-df-2024-0002_4_0.png",
+        "pv-df-2024-0002_4_1.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-df-2024-0003",
@@ -10772,11 +11509,16 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2024-0005_13_0.png",
-        "data/questoes-img/pv-df-2024-0005_14_0.png"
+        "pv-df-2024-0005_13_0.png",
+        "pv-df-2024-0005_14_0.png"
       ],
       "_id_original": "4000213082",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-df-2024-0005_13_0.png",
+        "pv-df-2024-0005_14_0.png"
+      ]
     },
     {
       "id": "pv-df-2024-0008",
@@ -10821,10 +11563,14 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2024-0010_25_0.png"
+        "pv-df-2024-0010_25_0.png"
       ],
       "_id_original": "4000213087",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-df-2024-0010_25_0.png"
+      ]
     },
     {
       "id": "pv-df-2024-0011",
@@ -10846,10 +11592,14 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2024-0011_25_0.png"
+        "pv-df-2024-0011_25_0.png"
       ],
       "_id_original": "4000213088",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [
+        "pv-df-2024-0011_25_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-df-2024-0012",
@@ -10917,10 +11667,14 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2024-0016_40_0.png"
+        "pv-df-2024-0016_40_0.png"
       ],
       "_id_original": "4000213093",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-df-2024-0016_40_0.png"
+      ]
     },
     {
       "id": "pv-df-2024-0019",
@@ -10988,10 +11742,14 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2024-0034_81_0.png"
+        "pv-df-2024-0034_81_0.png"
       ],
       "_id_original": "4000213111",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [
+        "pv-df-2024-0034_81_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-df-2024-0038",
@@ -11013,11 +11771,16 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2024-0038_89_0.png",
-        "data/questoes-img/pv-df-2024-0038_91_0.png"
+        "pv-df-2024-0038_89_0.png",
+        "pv-df-2024-0038_91_0.png"
       ],
       "_id_original": "4000213115",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-df-2024-0038_89_0.png",
+        "pv-df-2024-0038_91_0.png"
+      ]
     },
     {
       "id": "pv-df-2024-0066",
@@ -11062,10 +11825,14 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2024-0067_142_0.png"
+        "pv-df-2024-0067_142_0.png"
       ],
       "_id_original": "4000213144",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-df-2024-0067_142_0.png"
+      ]
     },
     {
       "id": "pv-df-2024-0069",
@@ -11110,11 +11877,16 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2025-0116_225_0.png",
-        "data/questoes-img/pv-df-2025-0116_226_0.png"
+        "pv-df-2025-0116_225_0.png",
+        "pv-df-2025-0116_226_0.png"
       ],
       "_id_original": "4000238142",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-df-2025-0116_225_0.png",
+        "pv-df-2025-0116_226_0.png"
+      ]
     },
     {
       "id": "pv-df-2025-0124",
@@ -11251,10 +12023,14 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2025-0173_340_0.png"
+        "pv-df-2025-0173_340_0.png"
       ],
       "_id_original": "4000238085",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [
+        "pv-df-2025-0173_340_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-df-2025-0176",
@@ -11276,10 +12052,14 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2025-0176_345_0.png"
+        "pv-df-2025-0176_345_0.png"
       ],
       "_id_original": "4000238082",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [
+        "pv-df-2025-0176_345_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-df-2025-0177",
@@ -11324,10 +12104,14 @@
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
       "imagens": [
-        "data/questoes-img/pv-df-2025-0180_351_0.png"
+        "pv-df-2025-0180_351_0.png"
       ],
       "_id_original": "4000238078",
-      "_pdf": "17. SES-DF.pdf"
+      "_pdf": "17. SES-DF.pdf",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-df-2025-0180_351_0.png"
+      ]
     },
     {
       "id": "pv-ba-2024-0002",
@@ -11347,9 +12131,15 @@
       "ano": 2024,
       "fonte": "SUS-BA 2024",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2024-0002_51_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209943"
+      "_id_original": "4000209943",
+      "imagens_enunciado": [
+        "pv-ba-2024-0002_51_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ba-2024-0003",
@@ -11369,9 +12159,18 @@
       "ano": 2024,
       "fonte": "SUS-BA 2024",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2024-0003_53_0.png",
+        "pv-ba-2024-0003_54_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209944"
+      "_id_original": "4000209944",
+      "imagens_enunciado": [
+        "pv-ba-2024-0003_53_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ba-2024-0003_54_0.png"
+      ]
     },
     {
       "id": "pv-ba-2024-0007",
@@ -11391,9 +12190,15 @@
       "ano": 2024,
       "fonte": "SUS-BA 2024",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2024-0007_62_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209948"
+      "_id_original": "4000209948",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ba-2024-0007_62_0.png"
+      ]
     },
     {
       "id": "pv-ba-2024-0008",
@@ -11413,9 +12218,18 @@
       "ano": 2024,
       "fonte": "SUS-BA 2024",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2024-0008_62_0.png",
+        "pv-ba-2024-0008_64_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209949"
+      "_id_original": "4000209949",
+      "imagens_enunciado": [
+        "pv-ba-2024-0008_62_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ba-2024-0008_64_0.png"
+      ]
     },
     {
       "id": "pv-ba-2024-0026",
@@ -11435,9 +12249,15 @@
       "ano": 2024,
       "fonte": "SUS-BA 2024",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2024-0026_95_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209967"
+      "_id_original": "4000209967",
+      "imagens_enunciado": [
+        "pv-ba-2024-0026_95_0.png"
+      ],
+      "imagens_explicacao": []
     },
     {
       "id": "pv-ba-2024-0027",
@@ -11457,9 +12277,17 @@
       "ano": 2024,
       "fonte": "SUS-BA 2024",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2024-0027_97_0.png",
+        "pv-ba-2024-0027_99_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209968"
+      "_id_original": "4000209968",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ba-2024-0027_97_0.png",
+        "pv-ba-2024-0027_99_0.png"
+      ]
     },
     {
       "id": "pv-ba-2024-0044",
@@ -11501,9 +12329,15 @@
       "ano": 2025,
       "fonte": "SUS-BA 2025",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2025-0052_140_0.jpeg"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000231227"
+      "_id_original": "4000231227",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ba-2025-0052_140_0.jpeg"
+      ]
     },
     {
       "id": "pv-ba-2025-0054",
@@ -11523,9 +12357,18 @@
       "ano": 2025,
       "fonte": "SUS-BA 2025",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2025-0054_144_0.jpeg",
+        "pv-ba-2025-0054_146_0.jpeg"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000231225"
+      "_id_original": "4000231225",
+      "imagens_enunciado": [
+        "pv-ba-2025-0054_144_0.jpeg"
+      ],
+      "imagens_explicacao": [
+        "pv-ba-2025-0054_146_0.jpeg"
+      ]
     },
     {
       "id": "pv-ba-2025-0064",
@@ -11609,9 +12452,28 @@
       "ano": 2025,
       "fonte": "SUS-BA 2025",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2025-0074_175_0.png",
+        "pv-ba-2025-0074_175_1.png",
+        "pv-ba-2025-0074_177_0.png",
+        "pv-ba-2025-0074_177_1.png",
+        "pv-ba-2025-0074_178_0.png",
+        "pv-ba-2025-0074_178_1.png",
+        "pv-ba-2025-0074_179_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000231205"
+      "_id_original": "4000231205",
+      "imagens_enunciado": [
+        "pv-ba-2025-0074_175_0.png",
+        "pv-ba-2025-0074_175_1.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ba-2025-0074_177_0.png",
+        "pv-ba-2025-0074_177_1.png",
+        "pv-ba-2025-0074_178_0.png",
+        "pv-ba-2025-0074_178_1.png",
+        "pv-ba-2025-0074_179_0.png"
+      ]
     },
     {
       "id": "pv-ba-2025-0075",
@@ -11631,9 +12493,20 @@
       "ano": 2025,
       "fonte": "SUS-BA 2025",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2025-0075_179_0.png",
+        "pv-ba-2025-0075_180_0.png",
+        "pv-ba-2025-0075_181_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000231204"
+      "_id_original": "4000231204",
+      "imagens_enunciado": [
+        "pv-ba-2025-0075_179_0.png"
+      ],
+      "imagens_explicacao": [
+        "pv-ba-2025-0075_180_0.png",
+        "pv-ba-2025-0075_181_0.png"
+      ]
     },
     {
       "id": "pv-ba-2025-0077",
@@ -11675,9 +12548,17 @@
       "ano": 2025,
       "fonte": "SUS-BA 2025",
       "dificuldade": "Media",
-      "imagens": [],
+      "imagens": [
+        "pv-ba-2025-0081_189_0.png",
+        "pv-ba-2025-0081_191_0.png"
+      ],
       "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000231198"
+      "_id_original": "4000231198",
+      "imagens_enunciado": [],
+      "imagens_explicacao": [
+        "pv-ba-2025-0081_189_0.png",
+        "pv-ba-2025-0081_191_0.png"
+      ]
     }
   ]
 }

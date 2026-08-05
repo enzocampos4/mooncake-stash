@@ -493,16 +493,18 @@ function mostrarQuestao(idx) {
       </div>
       <div class="q-num">Questão ${q.numero} de ${questoes.length}</div>
       <div class="enunciado">${q.enunciado}</div>
-      ${temImagemNoEnunciado(q.enunciado) && q.imagens && q.imagens.length > 0
-        ? `<div class="enunciado-imgs"><img src="${q.imagens[0]}" alt="Imagem da questão" onclick="window.open(this.src)" loading="lazy"></div>`
-        : ''}
+      ${q.imagens_enunciado && q.imagens_enunciado.length > 0
+        ? `<div class="enunciado-imgs">${q.imagens_enunciado.map(s => `<img src="${s}" alt="Imagem da questão" onclick="window.open(this.src)" loading="lazy" style="max-width:100%;border-radius:8px;margin-bottom:6px;cursor:pointer;">`).join('')}</div>`
+        : (q.imagens && q.imagens.length > 0 && temImagemNoEnunciado(q.enunciado)
+          ? `<div class="enunciado-imgs"><img src="${q.imagens[0]}" alt="Imagem da questão" onclick="window.open(this.src)" loading="lazy"></div>`
+          : '')}
       <div class="alts">${altsHtml}</div>
       <div class="explicacao ${showExp ? 'visible' : ''}" id="qExp">
         <span class="exp-title">📖 Resolução</span>
         <div id="qExpText">${q.explicacao || 'Resolução não disponível.'}</div>
-        ${q.imagens && q.imagens.length > 0 ? q.imagens.map(img => 
+        ${(q.imagens_explicacao && q.imagens_explicacao.length > 0 ? q.imagens_explicacao : (q.imagens || [])).map(img => 
           `<div class="exp-img-box"><img src="${img}" alt="Imagem da resolução" class="exp-img" loading="lazy" onclick="window.open(this.src)"></div>`
-        ).join('') : ''}
+        ).join('')}
       </div>
       <div class="q-foot" id="qFoot">
         ${!modoProvaAtivo && !respondida

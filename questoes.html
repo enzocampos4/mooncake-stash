@@ -1413,10 +1413,11 @@ function showQuestion(index) {
   // Enunciado
   document.getElementById('qEnunciado').innerHTML = q.enunciado;
 
-  // Imagem do enunciado
+  // Imagem do enunciado (usa imagens_enunciado, fallback pra imagens antigo)
   var imgBox = document.getElementById('qImagens');
-  if (temImagemNoEnunciado(q.enunciado) && q.imagens && q.imagens.length > 0) {
-    imgBox.innerHTML = q.imagens.map(src =>
+  var imgsEnun = q.imagens_enunciado || q.imagens || [];
+  if (temImagemNoEnunciado(q.enunciado) && imgsEnun.length > 0) {
+    imgBox.innerHTML = imgsEnun.map(src =>
       '<img src="' + src.replace(/'/g, "\\'") + '" alt="Imagem da questão" onclick="window.open(this.src)" loading="lazy" style="max-width:100%;border-radius:8px;margin-bottom:6px;cursor:pointer;">'
     ).join('');
   } else {
