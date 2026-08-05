@@ -1366,7 +1366,9 @@ function renderInstBody() {
 
 // ─── Detecta se o enunciado referencia uma imagem que deve ser exibida ───
 function temImagemNoEnunciado(enunciado) {
-  // Exam/Image name + "a seguir"/"abaixo"/"acima"/"conforme"
+  // Se a questão tem imagens, sempre mostrar
+  return true;
+  // Fallback original (não usado, mas preservado)
   var pat = /(ECG|eletrocardiograma|raio[\s-]?[Xx]|radiografia|tomografia|ultrassonografia|ultrassom|ressonância|angiografia|esfregaço|eletroencefalograma|imagem|figura|gráfic[oa]|fotografia)[^.]{0,60}?(a seguir|abaixo|acima|conforme|como observado)/i;
   var pat2 = /(imagem|figura)\s.*(abaixo|a seguir|acima|demonstra|mostra|apresenta)/i;
   return pat.test(enunciado) || pat2.test(enunciado);
@@ -1411,11 +1413,12 @@ function showQuestion(index) {
   // Enunciado
   document.getElementById('qEnunciado').innerHTML = q.enunciado;
 
-  // Imagem do enunciado (só se o texto referenciar)
+  // Imagem do enunciado
   var imgBox = document.getElementById('qImagens');
   if (temImagemNoEnunciado(q.enunciado) && q.imagens && q.imagens.length > 0) {
-    var src = q.imagens[0];
-    imgBox.innerHTML = '<img src="' + src.replace(/'/g, "\\'") + '" alt="Imagem da questão" onclick="window.open(this.src)" loading="lazy">';
+    imgBox.innerHTML = q.imagens.map(src =>
+      '<img src="' + src.replace(/'/g, "\\'") + '" alt="Imagem da questão" onclick="window.open(this.src)" loading="lazy" style="max-width:100%;border-radius:8px;margin-bottom:6px;cursor:pointer;">'
+    ).join('');
   } else {
     imgBox.innerHTML = '';
   }
