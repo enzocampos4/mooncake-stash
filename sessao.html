@@ -206,6 +206,18 @@
   <div id="arvore"><div class="loading"><span class="spin">📚</span>Carregando questões...</div></div>
 </div>
 
+<!-- Filtros -->
+<div class="hero" id="filtrosBox" style="margin-top:4px;display:none;">
+  <div style="display:flex;flex-wrap:wrap;align-items:center;gap:6px;">
+    <span style="font-size:0.75rem;color:var(--muted);font-weight:600;">📅 Ano:</span>
+    <span id="filtroAnos"></span>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:4px;">
+    <span style="font-size:0.75rem;color:var(--muted);font-weight:600;">🏛️ Banca:</span>
+    <span id="filtroBancas"></span>
+  </div>
+</div>
+
 <!-- Barra de resumo fixa -->
 <div class="resumo">
   <div class="inner">
@@ -238,6 +250,10 @@ const AREAS_ORDER = [
   ['reumatologia','🦵','Reumatologia']
 ];
 
+// ─── Filtros ───
+let filtroAno = '';   // '' = todas
+let filtroBanca = '';  // '' = todas
+
 function esc(s) {
   return String(s ?? '').replace(/[&<>"']/g, c => ({
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
@@ -254,6 +270,7 @@ async function carregar() {
     return;
   }
   renderArvore();
+  montarFiltros();
   // Abre "Minhas Sessões" se houver sessões salvas
   const sessoes = getSessoes();
   if (sessoes.length > 0) {
@@ -278,10 +295,84 @@ async function carregar() {
   }
 }
 
-// ─── Agrupar por área → sub → subsub ───
+// ─── Filtros de Ano e Banca ───
+function limparNomeBanca(nome) {
+  // Remove sujeira tipo "BQMED (ID 40000...)"
+  return nome.replace(/\s*\(ID \d+\).*$/, '').trim();
+}
+
+function montarFiltros() {
+  const anos = new Set();
+  const bancas = new Set();
+  for (const info of Object.values(idx)) {
+    if (info.ano) anos.add(info.ano);
+    if (info.banca) {
+      const nomeLimpo = limparNomeBanca(info.banca);
+      if (nomeLimpo) bancas.add(nomeLimpo);
+    }
+  }
+  const anosOrd = [...anos].filter(a => a).sort((a, b) => b - a);
+  const bancasOrd = [...bancas].sort();
+
+  // Mostra a barra de filtros se houver mais de 1 ano ou mais de 1 banca
+  const box = document.getElementById('filtrosBox');
+  box.style.display = (anosOrd.length > 1 || bancasOrd.length > 1) ? 'block' : 'none';
+
+  // Renderiza anos
+  const elAnos = document.getElementById('filtroAnos');
+  elAnos.innerHTML = `<span class="sub-pill ${!filtroAno ? 'active' : ''}" onclick="filtrarAno('')" style="cursor:pointer;font-size:0.75rem;padding:3px 10px;border-radius:12px;background:var(--card2);color:var(--muted);margin-right:4px;${!filtroAno ? 'border:1px solid var(--accent);color:var(--accent2);' : 'border:1px solid transparent;'}">Todas</span>` +
+    anosOrd.map(a => `<span class="sub-pill ${filtroAno == a ? 'active' : ''}" onclick="filtrarAno('${a}')" style="cursor:pointer;font-size:0.75rem;padding:3px 10px;border-radius:12px;background:var(--card2);color:var(--muted);margin-right:4px;${filtroAno == a ? 'border:1px solid var(--accent);color:var(--accent2);' : 'border:1px solid transparent;'}">${a}</span>`).join('');
+
+  // Renderiza bancas
+  const elBancas = document.getElementById('filtroBancas');
+  elBancas.innerHTML = `<span class="sub-pill ${!filtroBanca ? 'active' : ''}" onclick="filtrarBanca('')" style="cursor:pointer;font-size:0.75rem;padding:3px 10px;border-radius:12px;background:var(--card2);color:var(--muted);margin-right:4px;${!filtroBanca ? 'border:1px solid var(--accent);color:var(--accent2);' : 'border:1px solid transparent;'}">Todas</span>` +
+    bancasOrd.map(b => `<span class="sub-pill ${filtroBanca === b ? 'active' : ''}" onclick="filtrarBanca('${esc(b)}')" style="cursor:pointer;font-size:0.75rem;padding:3px 10px;border-radius:12px;background:var(--card2);color:var(--muted);margin-right:4px;${filtroBanca === b ? 'border:1px solid var(--accent);color:var(--accent2);' : 'border:1px solid transparent;'}">${esc(b)}</span>`).join('');
+}
+
+function filtrarAno(ano) {
+  filtroAno = ano || '';
+  montarFiltros();
+  // Preserva seleção existente (remove itens que não existem mais)
+  limparSelecaoInvalida();
+  renderArvore();
+  atualizarResumo();
+}
+
+function filtrarBanca(banca) {
+  filtroBanca = banca || '';
+  montarFiltros();
+  limparSelecaoInvalida();
+  renderArvore();
+  atualizarResumo();
+}
+
+function limparSelecaoInvalida() {
+  const base = idxFiltrado();
+  for (const chave of Object.keys(selecao)) {
+    const [a, sub, subsub] = chave.split('||');
+    const existem = Object.entries(base).filter(([, i]) =>
+      i.area === a && (i.sub || '(sem tópico)') === sub && (i.subsub || '(sem subtópico)') === subsub
+    ).length;
+    if (existem === 0) delete selecao[chave];
+  }
+}
+
+// ─── Agrupar por área → sub → subsub (com filtros) ───
+function idxFiltrado() {
+  return Object.fromEntries(
+    Object.entries(idx).filter(([, info]) => {
+      if (filtroAno && info.ano != filtroAno) return false;
+      if (filtroBanca && info.banca !== filtroBanca) return false;
+      return true;
+    })
+  );
+}
+
 function agrupar() {
+  const base = idxFiltrado();
   const areas = {};
-  for (const [qId, info] of Object.entries(idx)) {
+  let total = 0;
+  for (const [qId, info] of Object.entries(base)) {
     const a = info.area;
     if (!areas[a]) areas[a] = { nome: info.area_nome || a, subs: {} };
     const sub = info.sub || '(sem tópico)';
@@ -289,15 +380,20 @@ function agrupar() {
     const subsub = info.subsub || '(sem subtópico)';
     if (!areas[a].subs[sub][subsub]) areas[a].subs[sub][subsub] = [];
     areas[a].subs[sub][subsub].push(qId);
+    total++;
   }
-  return areas;
+  return { areas, total };
 }
 
 // ─── Renderizar árvore ───
 function renderArvore() {
-  const areas = agrupar();
+  const { areas, total } = agrupar();
   const container = document.getElementById('arvore');
   container.innerHTML = '';
+
+  // Atualiza subtítulo com total filtrado
+  document.getElementById('pageSub').textContent =
+    (filtroAno || filtroBanca ? `Filtrado: ${total} questões` : `${total} questões disponíveis`);
 
   for (const [aSlug, aInfo] of Object.entries(areas)) {
     const ordem = AREAS_ORDER.find(([s]) => s === aSlug);
@@ -397,12 +493,11 @@ function stepQtd(chave, delta) {
 }
 
 function addTodas(chave) {
-  // Acha a quantidade disponível da leaf
+  const base = idxFiltrado();
   const [a, sub, subsub] = chave.split('||');
-  const qIds = (idx) => Object.entries(idx).filter(([, i]) =>
+  const qs = Object.entries(base).filter(([, i]) =>
     i.area === a && (i.sub || '(sem tópico)') === sub && (i.subsub || '(sem subtópico)') === subsub
   ).map(([id]) => id);
-  const qs = qIds(idx);
   const input = document.querySelector(`input[onchange="setQtd('${chave.replace(/'/g, "\\'")}', this.value)"]`);
   const v = qs.length;
   selecao[chave] = { q: v };
@@ -417,10 +512,11 @@ function limparSessao() {
 }
 
 function contarSelecionadas() {
+  const base = idxFiltrado();
   let total = 0;
   for (const [chave, sel] of Object.entries(selecao)) {
     const [a, sub, subsub] = chave.split('||');
-    const disponiveis = Object.entries(idx).filter(([, i]) =>
+    const disponiveis = Object.entries(base).filter(([, i]) =>
       i.area === a && (i.sub || '(sem tópico)') === sub && (i.subsub || '(sem subtópico)') === subsub
     ).length;
     total += Math.min(sel.q, disponiveis);
@@ -458,10 +554,11 @@ function nomeAtual() {
   return document.getElementById('sessaoNome').value.trim() || 'Sessão sem nome';
 }
 function coletarIds() {
+  const base = idxFiltrado();
   const ids = [];
   for (const [chave, sel] of Object.entries(selecao)) {
     const [a, sub, subsub] = chave.split('||');
-    const candidatos = Object.entries(idx).filter(([, i]) =>
+    let candidatos = Object.entries(base).filter(([, i]) =>
       i.area === a && (i.sub || '(sem tópico)') === sub && (i.subsub || '(sem subtópico)') === subsub
     ).map(([id]) => id);
     for (let i = candidatos.length - 1; i > 0; i--) {
