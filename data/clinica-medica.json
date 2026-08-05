@@ -829,7 +829,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Hepatologia",
+      "subarea": "Gastroenterologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -990,7 +990,7 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Hepatologia",
+      "subarea": "Gastroenterologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1364,7 +1364,7 @@
       "id": "site-int-001",
       "numero": 1,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "A máscara laríngea:",
       "alternativas": [
@@ -1389,7 +1389,7 @@
       "id": "site-int-002",
       "numero": 2,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "Assinale a alternativa que apresenta um dispositivo que pode ser utilizado para canulização cega das vias aéreas:",
       "alternativas": [
@@ -1414,7 +1414,7 @@
       "id": "site-int-003",
       "numero": 3,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "Para intubação endotraqueal em serviços de urgência, podemos apenas CONCORDAR com o item:",
       "alternativas": [
@@ -1439,7 +1439,7 @@
       "id": "site-int-004",
       "numero": 4,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "Em relação à aplicação da máscara laríngea no trauma, é ERRADO afirmar que:",
       "alternativas": [
@@ -1464,7 +1464,7 @@
       "id": "site-int-005",
       "numero": 5,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "Uma via aérea definitiva implica na colocação de um tubo endotraqueal com balão insuflado abaixo das cordas vocais, devidamente fixado e conectado a um sistema de ventilação assistida com mistura enriquecida com oxigênio. Em relação à adoção de uma via aérea definitiva em um paciente politraumatizado, marque a alternativa correta:",
       "alternativas": [
@@ -1490,7 +1490,7 @@
       "id": "site-int-006",
       "numero": 6,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "A causa mais comum de obstrução das vias aéreas em paciente inconsciente no trauma é?",
       "alternativas": [
@@ -1515,7 +1515,7 @@
       "id": "site-int-007",
       "numero": 7,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "A intubação em \"sequência rápida\" é uma estratégia em serviço de emergência para prevenir aspiração em paciente sem jejum ou de tempo de jejum desconhecido. Como é feita?",
       "alternativas": [
@@ -1540,7 +1540,7 @@
       "id": "site-int-008",
       "numero": 8,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "A causa mais comum de obstrução das vias aéreas em paciente inconsciente no trauma é?",
       "alternativas": [
@@ -1565,7 +1565,7 @@
       "id": "site-int-009",
       "numero": 9,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "No atendimento inicial ao politraumatizado que chega ao pronto socorro com estômago e bexiga cheia e Glasgow 4, devemos inicialmente:",
       "alternativas": [
@@ -1591,7 +1591,7 @@
       "id": "site-int-010",
       "numero": 10,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "Vítima de colisão de autos, motorista sem cinto, dá entrada no Hospital de Trauma com FR 32 e Glasgow 13. Tem estridor inspiratório, cianose e grande deformidade em face. Após máscara facial com oxigênio 12 L/min, o médico tenta elevar o mento, mas as fraturas múltiplas e o sangramento impedem-no de o fazer com sucesso. Melhor conduta nesse momento:",
       "alternativas": [
@@ -1617,7 +1617,7 @@
       "id": "site-int-011",
       "numero": 11,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "A cricotireoidostomia:",
       "alternativas": [
@@ -1642,7 +1642,7 @@
       "id": "site-int-012",
       "numero": 12,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia Intensiva",
+      "subarea": "Pneumologia",
       "sub_subarea": "",
       "enunciado": "Em qual das situações a seguir não existe indicação de intubação endotraqueal no paciente traumatizado?",
       "alternativas": [
@@ -17511,50 +17511,6 @@
       "_pdf": "17. SES-DF.pdf"
     },
     {
-      "id": "s9-046",
-      "numero": 46,
-      "area": "Cirurgia - Hepatologia",
-      "enunciado": "Paciente masculino, 58 anos, com cirrose hepática por \nhepatite C tratada, em seguimento ambulatorial. Apresenta função hepática preservada (Child-Pugh A), sem ascite ou encefalopatia.\nDurante rastreio, foi identificado nódulo hepático único de 3,2 cm em segmento VI, com padrão típico de realce arterial e washout portal \nna tomografia. Alfafetoproteína: 120 ng/mL. Não há evidência de invasão vascular ou metástases à distância.\nDiante do caso clínico apresentado, assinale a alternativa que indica a conduta mais adequada.",
-      "alternativas": {
-        "A": "Indicar ressecção hepática do segmento acometido.",
-        "B": "Indicar transplante hepático de forma prioritária, independentemente de outros fatores.",
-        "C": "Iniciar terapia sistêmica com sorafenibe como tratamento de primeira linha.",
-        "D": "Indicar quimioembolização transarterial (TACE) como tratamento inicial."
-      },
-      "correta": "A",
-      "explicacao": "Temos um paciente com cirrose compensada, Child-Pugh A, sem ascite e sem encefalopatia, portanto com função hepática preservada. No \nrastreio, apareceu nódulo único de 3,2 cm, com padrão radiológico típico de CHC e sem invasão vascular nem metástases. Em outras palavras, \no caso foi desenhado para um cenário de doença inicial, localizada, potencialmente tratável com intenção curativa. As principais diretrizes \ncolocam a ressecção hepática como tratamento de primeira linha para pacientes com CHC localizado, especialmente quando há função \nhepática preservada (no máximo Child A); no modelo mais conservador, isso vale sobretudo para tumor único e sem hipertensão portal \n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n75\nRESIDÊNCIA MÉDICA\nclinicamente significativa. Já o transplante é preferido sobretudo quando o paciente está dentro dos critérios de Milão e a ressecção não é \nviável, porque o transplante trata ao mesmo tempo o tumor e a cirrose subjacente. TACE fica mais bem posicionado para doença multinodular \nsem invasão vascular, e terapia sistêmica é reservada principalmente para doença irressecável, avançada, com invasão macrovascular e/ou \nmetástases.\nAqui vale uma dica importante de prova. O fato de o paciente ter cirrose não o empurra automaticamente para transplante. Quando o \nenunciado mostra lesão única pequena, ausência de invasão vascular, ausência de doença extra-hepática e boa reserva funcional, a primeira \nleitura deve ser: “há possibilidade de ressecção?” O transplante entra muito forte quando há critérios oncológicos favoráveis, mas com \nlimitação hepática, hipertensão portal relevante, ou quando a ressecção não é a melhor opção técnica/funcional.\nAgora, vamos analisar as alternativas.\nCorreta a alternativa A. A melhor conduta, entre as opções apresentadas, é ressecção hepática do segmento acometido. O paciente tem \ntumor único de 3,2 cm, sem invasão vascular, sem metástases, com função hepática preservada e sem sinais clínicos de descompensação. \nEsse é o perfil clássico de candidato a tratamento curativo local, e a ressecção ocupa papel central nesse cenário. É verdade que, na prática, a \ndecisão cirúrgica também depende de avaliação de hipertensão portal clinicamente significativa e do volume hepático remanescente, mas o \nenunciado claramente aponta para um paciente ressecável.\nIncorreta a alternativa B. O transplante hepático não deve ser indicado “de forma prioritária, independentemente de outros fatores”. Esse \ntrecho final já torna a alternativa errada. Embora um tumor único de 3,2 cm esteja dentro dos critérios de Milão, o transplante não substitui \nautomaticamente a ressecção em todo paciente. As diretrizes convergem em que o transplante é a opção preferencial para CHC dentro \nde Milão quando a ressecção não é viável ou quando o contexto hepático favorece mais o transplante do que a hepatectomia. Portanto, o \nsimples fato de caber em Milão não transforma o transplante na resposta obrigatória.\nIncorreta a alternativa C. Terapia sistêmica com sorafenibe não é tratamento de primeira linha para um caso como esse. O tratamento \nsistêmico é reservado principalmente para doença avançada ou irressecável, especialmente na presença de invasão macrovascular, metástases \nou impossibilidade de terapias locorregionais/curativas. Além disso, o sorafenibe deixou de ser a principal referência isolada de primeira linha \nem muitos algoritmos atuais, que passaram a priorizar combinações imunoterápicas em doença avançada. Aqui, porém, nem estamos no \ncenário de doença avançada, então a alternativa já falha antes mesmo dessa discussão.\nIncorreta a alternativa D. A quimioembolização transarterial, a TACE, é classicamente indicada para doença multinodular sem invasão vascular, \nou como estratégia de ponte/downstaging em contextos específicos (reduzir o tamanho do tumor para facilitar outros tratamentos). Não é a \nmelhor escolha inicial para um paciente com tumor único pequeno e potencialmente ressecável. Em prova, sempre que houver possibilidade \nrealista de tratamento curativo com cirurgia ou ablação, TACE deixa de ser a opção principal.\n\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n76\nRESIDÊNCIA MÉDICA",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
-      "imagens": [],
-      "_simulado": "9-simulado",
-      "_edicao": "9",
-      "subarea": "Urologia",
-      "_area_slug": "cirurgia",
-      "sub_subarea": "",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
-      "id": "s9-063",
-      "numero": 63,
-      "area": "Cirurgia - Hepatologia",
-      "enunciado": "Paciente do sexo masculino, 52 anos, com história \nde obesidade (IMC: 31 kg/m²), diabetes mellitus tipo 2 e hipertensão arterial, comparece para avaliação de exames de rotina. Nega \nconsumo significativo de álcool (< 20 g/dia). Exames laboratoriais mostram: ALT = 42 U/L, AST = 38 U/L, glicemia de jejum = 132 mg/dL, \nHbA1c = 7,4%. Ultrassonografia abdominal indica esteatose hepática. Foi calculado o escore FIB-4, com resultado de 1,1.\nDiante do caso clínico apresentado, assinale a alternativa correta.",
-      "alternativas": {
-        "A": "O diagnóstico depende obrigatoriamente de biópsia hepática para confirmação da esteatose associada à disfunção metabólica.",
-        "B": "O paciente apresenta critérios para doença hepática esteatótica associada à disfunção metabólica, sendo indicado estratificar risco de fibrose, e o FIB-4 baixo afasta fibrose avançada.",
-        "C": "A presença de transaminases normais exclui doença hepática significativa, não sendo necessária investigação adicional.",
-        "D": "O tratamento farmacológico com vitamina E deve ser iniciado rotineiramente em todos os pacientes com esteatose hepática."
-      },
-      "correta": "B",
-      "explicacao": "Essa é uma questão que explora um tema recente e de altíssimo rendimento, principalmente pela mudança de nomenclatura e abordagem.\nTemos um paciente com síndrome metabólica clássica: obesidade, DM2 e hipertensão. Além disso, apresenta esteatose hepática ao ultrassom \ne consumo alcoólico baixo, o que afasta etiologia alcoólica.\nAqui entra o primeiro ponto-chave: o diagnóstico atual de doença hepática esteatótica associada à disfunção metabólica (MASLD) é feito \nquando há esteatose hepática associada a pelo menos um fator cardiometabólico, o que está claramente presente nesse caso.\nOutro ponto fundamental da questão é a estratificação de fibrose, que hoje é o centro do manejo desses pacientes. O FIB-4 é uma ferramenta \ninicial amplamente utilizada:\nFIB-4 < 1,3 → baixo risco de fibrose avançada.\nFIB-4 intermediário/alto → necessidade de avaliação adicional (ex.: elastografia).\nNo caso, o paciente tem FIB-4 de 1,1, o que sugere baixo risco de fibrose avançada, permitindo seguimento clínico sem necessidade imediata \nde métodos mais complexos.\nTendo isso em mente, vamos analisar as alternativas.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n109\nRESIDÊNCIA MÉDICA\nIncorreta a alternativa A. A biópsia hepática não é obrigatória para diagnóstico. Hoje ela fica reservada para casos de dúvida diagnóstica ou \nnecessidade de estadiamento mais preciso.\nCorreta a alternativa B. O paciente preenche critérios para MASLD e a conduta correta inclui estratificação de fibrose, sendo que um FIB-4 \nbaixo praticamente afasta fibrose avançada nesse contexto.\nIncorreta a alternativa C. Transaminases normais não excluem doença significativa. Muitos pacientes com fibrose avançada podem ter \nenzimas normais.\nIncorreta a alternativa D. O uso de vitamina E não é universal. Está restrito a subgrupos específicos e não é indicado rotineiramente para \ntodos os pacientes.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
-      "imagens": [],
-      "_simulado": "9-simulado",
-      "_edicao": "9",
-      "subarea": "Urologia",
-      "_area_slug": "cirurgia",
-      "sub_subarea": "",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
       "id": "pv-ena-2025-0128",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
@@ -23017,6 +22973,52 @@
         "data/questoes-img/pv-hcp-2025-0171_309_0.jpeg"
       ],
       "imagens_explicacao": []
+    },
+    {
+      "id": "s1-028",
+      "numero": 28,
+      "area": "Clínica Médica",
+      "enunciado": "Um homem de 19 anos procura atendimento por \nfadiga progressiva há cerca de 6 meses, associada a episódios de icterícia leve, náuseas ocasionais e piora recente do rendimento escolar. \nA família refere que o paciente se tornou mais retraído, com lapsos de memória e alterações de humor. Nega etilismo, uso de drogas ou \nmedicamentos. Não há história familiar conhecida de doença hepática. Ao exame físico, encontra-se em bom estado geral, sem ascite ou \nestigmas de hepatopatia crônica. Chama atenção discreto tremor fino de extremidades. Exames laboratoriais: AST = 142 U/L, ALT = 158 \nU/L, bilirrubina total = 2,4 mg/dL (direta = 1,3 mg/dL), fosfatase alcalina = 82 U/L, GGT = 29 U/L, INR = 1,2. Sorologias virais negativas. \nCeruloplasmina sérica: 14 mg/dL (VN > 20).\nConsiderando a principal hipótese diagnóstica, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A normalidade da fosfatase alcalina afasta a possibilidade de doença metabólica hepática.",
+        "B": "A ausência de sinais clínicos de cirrose torna improvável uma doença hereditária hepática.",
+        "C": "A investigação deve prosseguir com dosagem de cobre urinário de 24 horas e exame oftalmológico com lâmpada de fenda.",
+        "D": "O diagnóstico pode ser confirmado exclusivamente pela ceruloplasmina sérica reduzida."
+      },
+      "correta": "C",
+      "explicacao": "Pessoal, diante de um paciente jovem com elevação persistente de transaminases, icterícia intermitente e sintomas neuropsiquiátricos \nprogressivos, o raciocínio não deve se limitar às causas virais ou tóxicas. O caso foi construído para induzir a reflexão sobre doenças metabólicas \ne hereditárias, sobretudo quando há associação entre manifestações hepáticas e alterações comportamentais, cognitivas ou motoras.\nOutro ponto importante do caso é a ausência de sinais clínicos de cirrose. Em provas, isso frequentemente funciona como armadilha, \nlevando o candidato a descartar etiologias graves. Entretanto, várias doenças metabólicas podem se manifestar inicialmente apenas com \nhepatite crônica bioquímica, antes do desenvolvimento de cirrose.\nA presença de ceruloplasmina reduzida, associada a quadro hepático e neurológico em indivíduo jovem, direciona fortemente a \ninvestigação. No entanto, o diagnóstico nunca se apoia em um único exame isolado. A banca costuma cobrar justamente o próximo passo \ndiagnóstico e a compreensão de que se trata de um conjunto de achados clínicos, laboratoriais e oftalmológicos.\nTendo isso em mente, vamos partir para a análise das alternativas.\nIncorreta a alternativa A. A fosfatase alcalina normal não afasta doença metabólica hepática. Pelo contrário, em alguns quadros hereditários, \nespecialmente nas fases iniciais, a FA pode estar normal ou até desproporcionalmente baixa em relação às transaminases. Esse dado não \nexclui investigação.\nIncorreta a alternativa B. A ausência de estigmas de cirrose não torna improvável uma doença hereditária. Muitas doenças metabólicas \nhepáticas se manifestam inicialmente como hepatite crônica, antes de evoluírem para cirrose. Esse é um erro clássico explorado em provas.\nCorreta a alternativa C. Diante da combinação de idade jovem, alteração de transaminases, ceruloplasmina reduzida e sintomas \nneuropsiquiátricos, a investigação deve prosseguir com dosagem de cobre urinário de 24 horas e exame oftalmológico com lâmpada de \nfenda, em busca do anel de Kayser-Fleischer. Esses exames fazem parte do fluxo diagnóstico padrão, podendo ser complementados, conforme \no caso, por biópsia hepática com quantificação de cobre.\nIncorreta a alternativa D. A ceruloplasmina reduzida é um achado sugestivo, mas não confirma isoladamente o diagnóstico. Ela pode estar \nnormal em parte dos pacientes e reduzida em outras condições. O diagnóstico exige correlação clínica e outros métodos complementares.\n\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 1º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n52",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+      "imagens": [],
+      "_simulado": "1-simulado",
+      "_edicao": "1",
+      "subarea": "Gastroenterologia",
+      "_area_slug": "clinica-medica",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s14-001",
+      "numero": 1,
+      "area": "Clínica Médica",
+      "enunciado": "Um homem de 55 anos, \nportador de cirrose compensada Child-Pugh A, secundária à \nesteato-hepatite metabólica (MASH), comparece à consulta \nde rotina. Ele está assintomático, sem alterações ao exame \nfísico. O paciente questiona o médico sobre a necessidade e \na frequência de exames para o rastreamento do carcinoma \nhepatocelular (CHC). De acordo com as recomendações da \nSociedade Brasileira de Hepatologia (SBH), qual é a conduta \ncorreta para o rastreamento do CHC nesse paciente?",
+      "alternativas": {
+        "A": "Solicitar tomografia computadorizada de abdome com contraste trifásico, a cada 12 meses.",
+        "B": "Solicitar ultrassonografia de abdome total associada ou não à dosagem de alfafetoproteína, a cada 6 meses.",
+        "C": "Solicitar alfafetoproteína anual.",
+        "D": "Orientar que o rastreamento do CHC está indicado apenas em casos de cirrose avançada."
+      },
+      "correta": "B",
+      "explicacao": "A cirrose é o principal fator de risco para o hepatocarcinoma. Por isso, todo paciente com cirrose deve ser submetido a uma ultrassonografia\nde abdome e à dosagem de alfafetoproteína (a cada 6 meses) para o rastreamento do hepatocarcinoma. As diretrizes mais atuais trazem\nque o exame de imagem é essencial, e a alfafetoproteína pode ser solicitada em conjunto.\nIncorreta a alternativa A. O rastreamento é feito com ultrassonografia de abdome a cada 6 meses.\nCorreta a alternativa B. Esta é a conduta adequada.\nIncorreta a alternativa C. A alfafetoproteína não deve ser indicada de forma isolada. Além disso, a periodicidade está incorreta.\nIncorreta a alternativa D. A presença de cirrose, compensada ou não, indica o rastreamento de CHC.",
+      "imagens": [
+        "data/simulados/imgs/14-simulado/q1_img1.jpeg",
+        "data/simulados/imgs/14-simulado/q1_img2.jpeg"
+      ],
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Gastroenterologia",
+      "_area_slug": "clinica-medica",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     }
   ]
 }

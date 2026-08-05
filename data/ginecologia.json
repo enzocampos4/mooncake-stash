@@ -19,7 +19,7 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Dermatologia",
+      "subarea": "Geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -43,7 +43,7 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cardiologia",
+      "subarea": "Geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -65,7 +65,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cardiologia",
+      "subarea": "Geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -87,7 +87,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Pneumologia",
+      "subarea": "Geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -111,7 +111,7 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cardiologia",
+      "subarea": "Geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -133,32 +133,8 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cardiologia",
+      "subarea": "Geral",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
-      "id": "s3-010",
-      "numero": 10,
-      "area": "Ginecologia",
-      "enunciado": "Homem de 49 anos, vítima de acidente automobilístico, tem indicação de laparotomia \nexploradora devido a trauma abdominal contuso com sinais de irritação peritoneal e instabilidade hemodinâmica. Na avaliação inicial, o \npaciente apresentava confusão mental, pele fria e pegajosa, frequência cardíaca de 120 bpm e pressão arterial de 80 x 50 mmHg. Sobre \no manejo do choque no pré e transoperatório, assinale a alternativa mais adequada.",
-      "alternativas": {
-        "A": "Solicitar reserva de hemocomponentes para a cirurgia.",
-        "B": "Iniciar expansão volêmica com cristaloides e solicitar concentrado de hemácias apenas se resposta transitória ou mínima à reposição.",
-        "C": "Realizar infusão de albumina para manutenção da pressão coloide.",
-        "D": "É aceitável a manutenção de uma pressão arterial sistólica acima de 70 mmHg."
-      },
-      "correta": "D",
-      "explicacao": "No trauma, a principal causa de choque é o hemorrágico. Devido a isso, os pilares do manejo do choque é o controle de hemorragia e \nreposição volêmica.\nTemos um paciente com choque hemorrágico grave, com provável foco de hemorragia abdominal, já indicada abordagem cirúrgica \npara controle do sangramento.\nQuanto à reposição volêmica, a primeira medida é a avaliação da gravidade da hemorragia. O ATLS 11ª edição alterou a classificação do \nchoque, dividindo em choque leve, moderado e grave. Essa tabela auxilia na avaliação de indicação de transfusão de hemoderivados.\nPara a reposição volêmica, é indicada a obtenção de dois acesso venosos periféricos calibrosos e iniciar reposição com solução isotônica, \ncerca de 500-1000 mL de ringer lactato ou soro fisiológico. Nos casos de resposta transitória ou ausente à reposição inicial, já deve ser iniciada \na transfusão de hemocomponentes. Além disso, para pacientes com choque grave (rebaixamento do nível de consciência, FC > 120 bpm e PAS \n< 90 mmHg) ou ABC score > 2, já deve ser indicado imediatamente o protocolo de transfusão maciça.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n19\nABC score:\n -\nTrauma penetrante em tronco (tórax ou abdome): 1 ponto.\n -\nFAST positivo: 1 ponto.\n -\nPressão arterial sistólica igual ou abaixo de 90: 1 ponto.\n -\nFrequência cardíaca igual ou acima de 120: 1 ponto.\nA transfusão maciça deve ser realizada com hemoderivados na proporção de 1:1:1 de hemácias, plasma e plaquetas.\nPor fim, no contexto do trauma é orientada a hipotensão permissiva, visando à manutenção de uma pressão arterial sistólica > 70 \nmmHg, a fim de evitar a administração excessiva de fluidos que podem elevar agudamente a pressão arterial revertendo a vasoconstrição \ncompensatória e a coagulopatia por diluição.\nVoltando ao caso, temos um paciente com choque grave e ABC score > 2, já sendo indicado iniciar transfusão com hemoderivados.\nIncorreta a alternativa A. Em pacientes com choque grave, os hemoderivados devem ser idealmente iniciados já na sala de trauma. Quando \nsolicitamos reserva para uma cirurgia, eles não são imediatamente fornecidos pelo banco de sangue.\nIncorreta a alternativa B. No trauma, devemos reduzir a quantidade de cristaloide infundido devido ao risco de piorar a coagulopatia e não \nrepor os componentes do sangue, fornecendo uma reposição inadequada. Dessa forma, deve ser indicada de forma precoce a transfusão de \nhemoderivados, que deve ser com sangue total ou solução balanceada com hemácias, plaquetas e plasma na proporção de 1:1:1. De fato é \nindicado iniciar a reposição com soluções isotônicas aquecidas, devido a sua maior disponibilidade, entretanto, nesse contexto de um choque \ngrave, já é recomendado solicitar não apenas concentrado de hemácias, mas também plasma e plaquetas.\nIncorreta a alternativa C. Não há indicação formal de administração de soluções coloides no contexto do trauma com choque hemorrágico.\nCorreta a alternativa D. No contexto do trauma, exceto nos casos de TCE, é indicada a hipotensão permissiva, fornecendo uma reposição que \nseja suficiente para manutenção de PAS > 70 mmHg.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
-      "imagens": [
-        "data/simulados/imgs/3-simulado/q10_img1.jpeg"
-      ],
-      "_simulado": "3-simulado",
-      "_edicao": "3",
-      "subarea": "Trauma",
-      "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
@@ -261,7 +237,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Ginecologia endócrina",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -283,9 +259,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -305,7 +281,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Infecções em ginecologia",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -327,7 +303,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -349,7 +325,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Ginecologia endócrina",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -371,7 +347,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Ginecologia endócrina",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -395,9 +371,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -419,7 +395,7 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Mastologia",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -441,9 +417,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -465,7 +441,7 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Infecções em ginecologia",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -508,9 +484,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -530,9 +506,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -572,9 +548,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -592,7 +568,7 @@
       "explicacao": "Estrategista, esta é uma questão sobre o rastreamento do câncer de mama nas mulheres de alto risco. Veja a tabela\nabaixo:\nRECOMENDAÇÕES DE RASTREAMENTO PARA MULHERES DE ALTO RISCO\nCaracterística\nRecomendação\nMulheres com história familiar de câncer de mama (parente\nde 1º grau, antes da menopausa), com risco > 20% ao longo\nda vida, calculado por um dos modelos matemáticos\nRastreamento com mamografia anual iniciando 10 anos\nantes da idade do diagnóstico da parente mais jovem (não\niniciar antes dos 30 anos de idade)\nMulheres com mutação dos genes BRCA 1, ou com parentes\nde 1º grau com mutação comprovada\nRastreamento com mamografia anual a partir do\ndiagnóstico da mutação (não antes dos 35 anos)\nMulheres com mutação dos genes BRCA 2, ou com parentes\nde 1º grau com mutação comprovada\nRastreamento com mamografia anual a partir do\ndiagnóstico da mutação (não antes dos 30 anos)\nMulheres que foram submetidas à radioterapia do tórax\nantes dos 30 anos de idade\nRastreamento com mamografia anual iniciando 8 anos após\no tratamento radioterápico (não iniciar antes dos 30 anos\nde idade)\nMulheres com as síndrome de Li-Fraumeni ou de Cowden\nou parentes de primeiro grau com essas síndromes\nRastreamento com mamografia anual a partir do\ndiagnóstico da síndrome (não iniciar antes dos 30 anos de\nidade)\nMulheres com histórico de lesões precursoras (hiperplasia\nductal ou lobular atípica, carcinoma lobular in situ)\nRastreamento com mamografia anual iniciando a partir do\ndiagnóstico dessas lesões\n(não iniciar antes dos 30 anos de idade)\n\nEstratégia\nMED\n116\nAgora, vamos analisar as alternativas:\nCorreta a alternativa A: trata-se de paciente de alto risco, com parente de 1º grau (mãe) com diagnóstico de câncer de mama antes dos 50\nanos, sendo indicado fazer o rastreamento iniciando 10 anos antes do diagnóstico da parente.\nIncorreta a alternativa B, porque o rastreamento nas mulheres de alto risco deve ser anual.\nIncorreta a alternativa C, porque esta é a conduta indicada para as mulheres de baixo risco de acordo com a FEBRASGO.\nIncorreta a alternativa D, porque esta é a diretriz do MS/INCA para o rastreamento “propriamente dito”. De acordo com o MS da Saúde o\nrastreamento pode ser iniciado aos 40 anos “sob demanda”.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Mastologia",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -612,9 +588,9 @@
       "explicacao": "Estrategista, em 2026, foi adicionada pelo Ministério da Saúde a indicação de vacinação para pacientes que foram submetidas a tratamento\ndas lesões de alto grau (NIC 2 e NIC 3) ou do adenocarcinoma in situ, através da conização ou CAAF. Essas pacientes devem ser vacinadas\nindependentemente da idade e trata-se, nesses casos, de uma estratégia de prevenção secundária, não primária. O objetivo é reduzir o\nrisco de recorrência dessas lesões (que é de 17%), além de reduzir o risco do câncer de colo. A vacinação dessas pacientes deve ser realizada\npreferencialmente no período perioperatório ou até 12 meses após o procedimento, no esquema de 3 doses (0, 2 e 6 meses).\nA tabela abaixo resume as indicações da vacina contra o HPV pelo Ministério da Saúde:\nINDICAÇÕES DA VACINA QUADRIVALENTE HPV (MINISTÉRIO DA SAÚDE)\nMENINAS\ne\nMENINOS\n•\t 9 a 14 anos (dose única);\n•\t 15 a 19 anos (dose única “de resgate”)\n•\t 9 a 45 anos (imunodeprimidos): três doses (0, 2 e 6 meses):\n◦\nconvivendo com HIV/AIDS\n◦\ntransplantados de órgãos sólidos\n◦\nem quimioterapia\nVítimas de violência\nsexual\n•\t 9 a 14 anos: duas doses (0 e 6 meses)\n•\t 15 a 45 anos: três doses (0, 2 e 6 meses)\nUsuários de Profilaxia\nPré-Exposição (PrEP)\n•\t 15 a 45 anos: três doses (0, 2 e 6 meses)\nPapilomatomatose\nrespiratória recorrente\n(PRR)\n•\t A partir de 2 anos de idade: três doses (0, 2 e 6 meses)\nMulheres tratadas por\nNIC 2/3 e AIS\n•\t Independentemente da idade: três doses (0, 2 e 6 meses)\nAgora, vamos analisar as alternativas:\n\nEstratégia\nMED\n137\nIncorreta a alternativa A, porque a paciente tem indicação de receber a vacina contra o HPV de acordo com o PNI.\nIncorreta a alternativa B, porque é indicado o esquema de 3 doses para estes casos.\nIncorreta a alternativa C, porque este não é o esquema preconizado para a vacinação do HPV nas mulheres que foram tratadas de NIC 2/3\nou AIS.\nCorreta a alternativa D: a paciente tem indicação de receber a vacina contra o HPV no esquema de 3 doses (0, 2 e 6 meses).",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -632,7 +608,7 @@
       "explicacao": "Estrategista, de acordo com o PCDT Câncer de Mama:\n“A recomendação atual é que os seguintes sinais e sintomas sejam considerados como de referência urgente para serviços de diagnóstico\nmamário (recomendação favorável fraca, ou seja, os possíveis benefícios provavelmente superam os possíveis danos):\n- Qualquer nódulo mamário em mulheres com mais de 50 anos;\n- Nódulo mamário em mulheres com mais de 30 anos, que persistem por mais de um ciclo menstrual;\n- Nódulo mamário de consistência endurecida e fixo ou que vem aumentando de tamanho, em mulheres adultas de qualquer idade;\n- Descarga papilar sanguinolenta unilateral;\n- Lesão eczematosa da pele que não responde a tratamentos tópicos;\n- Homens com mais de 50 anos com tumoração palpável unilateral;\n- Presença de linfadenopatia axilar;\n- Aumento progressivo do tamanho da mama com a presença de sinais de edema, como pele com aspecto de casca de laranja;\n- Retração na pele da mama, e;\n- Mudança no formato do mamilo.”\nAgora, vamos analisar as alternativas:\nCorreta a alternativa A: de acordo com o PCDT, é indicado encaminhar para o serviço de referência nódulo mamário em mulheres com mais\nde 30 anos, e que persistem por mais de um ciclo menstrual.\nIncorreta a alternativa B, porque não se deve aguardar 6 meses para reavaliar o caso, já que pode se tratar de malignidade.\nIncorreta a alternativa C, porque, apesar do câncer de mama ser raro nesta faixa etária, é sempre importante avaliar melhor o nódulo, através\nde exame de imagem e possivelmente biópsia, para se caracterizar definitivamente se é benigno ou maligno.\n\nEstratégia\nMED\n146\nIncorreta a alternativa D, porque não se deve prosseguir com exérese do nódulo sem definir se é benigno ou maligno. A biópsia excisional de\num nódulo maligno pode ser um “subtratamento” levando ao atraso do tratamento cirúrgico definitivo da paciente, além de possivelmente\nser necessária uma cirurgia “maior” depois.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Mastologia",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -652,7 +628,7 @@
       "explicacao": "Estrategista, a idade da mulher é uma boa orientação para as possíveis causas do sangramento uterino anormal. Muitas questões de provas\nde Residência seguem essa lógica!\n•\t Nos primeiros anos após a menarca, é bastante frequente a irregularidade menstrual devido à imaturidade do eixo H-H-O e os\nciclos anovulatórios. A segunda causa mais frequente de SUA desde a menarca são as coagulopatias, principalmente a síndrome de\nVon Willebrand.\n•\t Nas mulheres entre 20 e 40 anos de idade, o eixo já está amadurecido e as menstruações costumam ser regulares. Nessa faixa\netária, as causas mais comuns de sangramento uterino anormal são as estruturais.\n•\t Próximamente à menopausa, as causas mais frequentes de SUA são os ciclos anovulatórios devido à proximidade do esgotamento\nfolicular dos ovários.\n•\t Após a menopausa, são mais comuns as causas endometriais.\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente apresenta ciclo menstrual regular.\nIncorreta a alternativa B, porque a miomatose uterina é muito rara nesta faixa etária.\nIncorreta a alternativa C, porque a endometriose não é uma causa de sangramento uterino anormal. Os principais sintomas da endometriose\nsão a dismenorreia, a dispareunia, a dor pélvica crônica e a infertilidade.\nCorreta a alternativa D: a paciente apresenta ciclos menstruais regulares com fluxo aumentado desde a menarca e isso é sugestivo de\ncoagulopatia. A coagulopatia mais frequente nesses casos é a Síndrome de Von Willebrand.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Ginecologia endócrina",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -674,9 +650,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -696,7 +672,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia endócrina",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -718,9 +694,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia geral",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mioma",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -740,9 +716,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia geral",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mioma",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -762,7 +738,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Infecções em ginecologia",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -784,7 +760,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia endócrina",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -806,9 +782,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -828,7 +804,7 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Mastologia",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -852,7 +828,7 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Mastologia",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -874,9 +850,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -896,7 +872,7 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Sexualidade",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -920,9 +896,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -942,7 +918,7 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Uroginecologia",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -967,7 +943,7 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia endócrina",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -989,7 +965,7 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia básica",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1011,7 +987,7 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Sexualidade",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1033,9 +1009,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1057,7 +1033,7 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia endócrina",
+      "subarea": "Ginecologia Geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1081,9 +1057,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Oncologia ginecológica",
+      "subarea": "Oncologia Ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -6194,53 +6170,6 @@
       "banca": "ESTRATÉGIA MED"
     },
     {
-      "id": "s1-065",
-      "numero": 65,
-      "area": "Ginecologia",
-      "enunciado": "Yolanda, 50 anos, compareceu em uma unidade \nprivada de diagnóstico por imagem para a realização de mamografia bilateral. Foi acompanhada do esposo Gilberto, mas ele não pôde \nacompanhar o exame. A unidade alegou que o direito ao acompanhante é aplicado somente nas unidades públicas de saúde e, mesmo \nassim, com aviso prévio. A conduta da unidade está:",
-      "alternativas": {
-        "A": "Incorreta, pois a Lei 8.080/90 garante à mulher o direito de ter um acompanhante em consultas, exames e procedimentos, seja em unidade pública ou privada.",
-        "B": "Correta, pois a Lei 8.080/90 permite a presença de um acompanhante apenas na rede pública de saúde, desde que haja o aviso prévio de que a paciente levará uma pessoa para acompanhá-la.",
-        "C": "Incorreta, pois a Lei 8.080/90 garante também o direito ao acompanhante na rede privada, mas desde que haja o aviso prévio.",
-        "D": "Correta, pois a Lei 8.080/90 só permite o direito ao acompanhante em consultas e partos, não havendo esse direito em exames e demais procedimentos. Estratégia MED Estratégia MED | Caderno de Respostas | 1º Simulado Residência Médica - ENAMED | Fevereiro de 2026 RESIDÊNCIA MÉDICA 111"
-      },
-      "correta": "A",
-      "explicacao": "Tema: Lei 8.080/90 – Subsistema de Atenção à Saúde Indígena (SASI-SUS)\nEstrategista, a legislação brasileira, especificamente a Lei 8.080/90, traz um subsistema especial de atendimento à mulher, o qual \npermite a presença de um acompanhante em consultas, exames e procedimentos, desde que ele tenha idade superior a 18 anos. Acompanhe \no artigo a seguir:\n“DO SUBSISTEMA DE ACOMPANHAMENTO À MULHER NOS SERVIÇOS DE SAÚDE\nArt. 19-J. Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito \nde fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia.\n§ 1º O acompanhante de que trata o caput deste artigo será de livre indicação da paciente ou, nos casos em que ela esteja \nimpossibilitada de manifestar sua vontade, de seu representante legal, e estará obrigado a preservar o sigilo das informações de saúde de que \ntiver conhecimento em razão do acompanhamento.\n§ 2º No caso de atendimento que envolva qualquer tipo de sedação ou rebaixamento do nível de consciência, caso a paciente não \nindique acompanhante, a unidade de saúde responsável pelo atendimento indicará pessoa para acompanhá-la, preferencialmente \nprofissional de saúde do sexo feminino, sem custo adicional para a paciente, que poderá recusar o nome indicado e solicitar a indicação de \noutro, independentemente de justificativa, registrando-se o nome escolhido no documento gerado durante o atendimento. \n§ 2º-A Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito previsto neste artigo deverá ser feita por \nescrito, após o esclarecimento dos seus direitos, com no mínimo 24 (vinte e quatro) horas de antecedência, assinada por ela e arquivada em \nseu prontuário. \n§ 3º As unidades de saúde de todo o País ficam obrigadas a manter, em local visível de suas dependências, aviso que informe sobre o \ndireito estabelecido neste artigo. \n§ 4º No caso de atendimento realizado em centro cirúrgico ou unidade de terapia intensiva com restrições relacionadas à segurança \nou à saúde dos pacientes, devidamente justificadas pelo corpo clínico, somente será admitido acompanhante que seja profissional de saúde.\n§ 5º Em casos de urgência e emergência, os profissionais de saúde ficam autorizados a agir na proteção e defesa da saúde e da vida da \npaciente, ainda que na ausência do acompanhante requerido”.\nResumindo:\n- A mulher tem direito a um acompanhante em consultas, exames e procedimentos em qualquer tipo de unidade de saúde \n(pública e privada), durante todo o período de acompanhamento, e não há a necessidade de avisar previamente a unidade.\n- Esse acompanhante deve ser de sua livre escolha e não há especificação quanto ao gênero, mas há a necessidade de que seja \nmaior de idade (≥ 18 anos).\n- Se o procedimento envolver sedação ou rebaixamento do nível de consciência, e a paciente comparecer sem o acompanhante, \ncabe a própria unidade designar um profissional de saúde, preferencialmente do sexo feminino, para realizar esse \nacompanhamento, sem custo adicional para a mulher. No entanto, a paciente pode recusar a profissional designada, sem a \nnecessidade de informar o motivo, e a unidade deverá indicar outro, registrando o nome escolhido no atendimento.\n- A paciente pode renunciar ao acompanhante em atendimentos que envolvam sedação ou rebaixamento do nível de consciência, \ndesde que informe isso por escrito com 24 horas de antecedência.\n- Centros cirúrgicos e unidades de terapia intensiva só admitirão acompanhante que for profissional de saúde.\n- Em casos de urgência e emergência, em que há a possibilidade de a mulher chegar ao serviço desacompanhada (por exemplo, \napresentou síncope em via pública e estava sozinha), os próprios profissionais de saúde atuarão em defesa dela.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 1º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n112\nPortanto, a unidade agiu de forma incorreta, pois a paciente tem direito ao acompanhante durante o exame, mesmo em unidade \nprivada, ainda que não haja o aviso prévio de sua presença.\nCorreta a alternativa A, sem ressalvas.\nIncorretas as alternativas B e C porque o direito também é garantido na rede privada e sem aviso prévio de que haverá um acompanhante \njunto à paciente.\nIncorreta a alternativa D porque o direito é garantido em consultas, exames e procedimentos (incluindo parto).",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
-      "imagens": [],
-      "_simulado": "1-simulado",
-      "_edicao": "1",
-      "subarea": "Ética Médica",
-      "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
-      "id": "s3-059",
-      "numero": 59,
-      "area": "Ginecologia",
-      "enunciado": "Mulher de 74 anos dá entrada na UPA \npor palpitações e cansaço. Refere início súbito do quadro “anteontem à noite”, estimando cerca de 48 horas de evolução, sem conseguir \nprecisar o horário exato. Nega dor torácica típica, síncope ou déficit neurológico. Antecedentes: hipertensão arterial e diabetes mellitus \ntipo 2. Em uso irregular apenas de anti-hipertensivos. Ao exame físico: consciente, orientada, corada, sem sinais de choque; PA de 128×76 \nmmHg, FC de 120 bpm, FR de 18 irpm, SatO₂ de 96% em ar ambiente. Ausculta cardíaca com ritmo irregularmente irregular, sem sopros. \nSem estertores pulmonares, sem turgência jugular e sem edema de membros inferiores. O eletrocardiograma revela: \nwww.researchgate.net\nDiante desse quadro, a conduta mais adequada é:",
-      "alternativas": {
-        "A": "realizar cardioversão elétrica imediata, pois o início foi há menos de 48 horas.",
-        "B": "realizar cardioversão farmacológica com amiodarona e prescrever alta com betabloqueador oral.",
-        "C": "controlar a frequência cardíaca.",
-        "D": "administrar adenosina em bólus para reversão do ritmo, após manobras vagais."
-      },
-      "correta": "C",
-      "explicacao": "O primeiro passo para respondermos a essa questão é a correta identificação do ritmo no ECG. Estamos diante de um ritmo irregular, \nsem onda P e com um leve serrilhado fino na linha de base. Essa descrição corresponde com exatidão ao diagnóstico eletrocardiográfico de \nfibrilação atrial. \n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n94\nRitmo cardíaco irregular - intervalo RR irregular\nAusência de onda P bem definida\nAtivação atrial muito irregular - padrão “serrilhado fino”,\nmultiplas ondas “f” irregulares e com frequência elevada\nA decisão terapêutica na fibrilação atrial (FA) no pronto atendimento costuma se basear em “qual é o caminho seguro”. O raciocínio do \nfluxograma a seguir é exatamente o que cai em prova: primeiro, separar quem está instável de quem está estável; depois, no paciente estável, \ndecidir se é possível cardioversão agora ou se há chance relevante de já existir trombo no átrio esquerdo (principalmente em apêndice \natrial esquerdo), o que tornaria a cardioversão um gatilho para embolização sistêmica. Instabilidade, aqui, não é “estar taquicárdico”; é ter \nrepercussão hemodinâmica ou isquêmica importante atribuível à arritmia: hipotensão/choque, dor torácica típica sugestiva de isquemia em \ncurso, rebaixamento do nível de consciência, edema agudo de pulmão/insuficiência respiratória importante, sinais de hipoperfusão. \nPaciente instável:\n• Diminuição da pressão:\nPA< 90/60\n• Dor torácica típica\n• Diminuição da\nconsciência\n• Dispneia\nPaciente\nestável\nSIM\nNÃO\nCardioversão\nelétrica imediata\ne anticoagulação\nInício há menos de\n24 horas e baixo risco\ntromboembólico\nou\nEcocardiograma\ntransesofágico sem\nevidências de trombos\nou\nPaciente anticoagulado\nhá pelo menos \n3 semanas\nFibrilação/Flutter atrial\ncom FC > 100 BPM\nna emergência\nDEVO CARDIOVERTER!\nRealizar cardioversão química e/ou\nelétrica e anticoagular\nou\nControlar a frequência cardíaca\ne anticoagular\nPOSSO CARDIOVERTER!\nControlar a frequência\ncardíaca e anticoagular\nNÃO POSSO\nCARDIOVERTER!\nQuando o paciente está instável, a prioridade é reverter o ritmo imediatamente com cardioversão elétrica sincronizada, porque \na ameaça imediata é a deterioração hemodinâmica; a anticoagulação deve ser providenciada o quanto antes, mas não pode atrasar a \nintervenção salvadora. \n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n95\nJá no paciente estável, como nessa questão (PA preservada, boa perfusão, sem dor torácica típica, sem EAP, sem rebaixamento), abre-\nse espaço para o segundo passo do fluxograma: “posso cardioverter com segurança agora?”. Esse segundo passo depende essencialmente do \ntempo de início e do risco de trombo. No fluxograma apresentado, a cardioversão no estável fica condicionada a um cenário de baixo risco \nde trombo (por exemplo, início claramente muito recente < 24h e baixo risco tromboembólico), ou à demonstração de ausência de trombo \nem ecocardiograma transesofágico, ou à anticoagulação adequada por período suficiente; se esses critérios não forem atendidos, a conduta \ncorreta é não cardioverter naquele momento, priorizando controle de frequência e anticoagulação.\nA sacada da questão é que a história informa cerca de 48 horas, mas sem horário exato. Além disso, a paciente tem fatores de risco \n(idade, HAS, DM) que aumentam o risco tromboembólico basal e não está anticoagulada. Nesse contexto, seguir o fluxograma significa \nassumir que há possibilidade de trombo já formado, portanto a conduta segura é controle de frequência (por exemplo, betabloqueador ou \nbloqueador de canal de cálcio não di-hidropiridínico, conforme contraindicações; digoxina em cenários específicos) e iniciar anticoagulação, \npostergando cardioversão para depois de anticoagulação adequada ou estratégia guiada por ecocardiograma transesofágico para excluir \ntrombo, conforme disponibilidade e avaliação clínica. \nIsso também conversa com o que o ECG sugere: FA com resposta ventricular rápida, em paciente estável, cujo principal benefício \nimediato é reduzir sintomas e demanda miocárdica com controle de frequência, sem expor a paciente ao risco embólico de uma cardioversão \nfeita sem garantia de ausência de trombo.\nIncorreta a alternativa A, já que cardioversão elétrica imediata é a conduta de escolha quando há instabilidade hemodinâmica (hipotensão/\nchoque, dor torácica isquêmica, edema agudo de pulmão, rebaixamento do nível de consciência), o que não ocorre no caso descrito.\nIncorreta a alternativa B, já que cardioversão farmacológica com amiodarona não resolve o problema central do fluxograma no paciente \nestável: o risco tromboembólico quando existe possibilidade de trombo atrial pré-formado. \nCorreta a alternativa C, já que a paciente está hemodinamicamente estável e apresenta fibrilação atrial com resposta ventricular rápida, \ncom início em torno de 48 horas sem horário exato. Seguindo o fluxograma, após definir estabilidade, deve-se considerar a possibilidade \nde trombo já formado; nessa situação, e sem anticoagulação prévia, a conduta mais segura e imediata no pronto atendimento é controle \nde frequência (reduzir a FC com fármacos apropriados conforme contraindicações), que melhora sintomas e reduz risco de isquemia por \ntaquicardia, deixando a cardioversão para um momento em que a segurança tromboembólica esteja assegurada.\nIncorreta a alternativa D, já que adenosina em bólus é indicada para taquicardias supraventriculares dependentes do nó AV (como reentrada \nnodal e algumas reentradas AV), frequentemente após manobras vagais, mas não reverte fibrilação atrial. No máximo, pode diminuir \ntransitoriamente a condução AV e ajudar no diagnóstico de alguns ritmos, porém não é terapia de reversão da FA e não substitui a abordagem \ncorreta baseada em estabilidade e controle da resposta ventricular.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
-      "imagens": [
-        "data/simulados/imgs/3-simulado/q59_img1.jpeg",
-        "data/simulados/imgs/3-simulado/q59_img2.jpeg"
-      ],
-      "_simulado": "3-simulado",
-      "_edicao": "3",
-      "subarea": "Epidemiologia",
-      "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
       "id": "pv-ufr-2024-0085",
       "area": "Ginecologia",
       "subarea": "Reprodução / Climatério",
@@ -7119,6 +7048,509 @@
       "imagens": [],
       "_id_original": "4000210890",
       "_pdf": "11. UNIFESP.pdf"
+    },
+    {
+      "id": "s14-097",
+      "numero": 97,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 49 anos \nde idade, comparece à unidade de Saúde se queixando de \ndor pélvica e aumento do abdome. Foi realizado ultrassom \ntransvaginal que apresentou imagem anecoica, de paredes \nespessas, contornos regulares, sem septações no interior, \nmedindo 13,3 x 13,8 cm. Assinale a alternativa que descreve a \nconduta indicada para esse caso.",
+      "alternativas": {
+        "A": "Seguimento ultrassonográfico em 3 meses.",
+        "B": "Prescrever pílula combinada e reavaliar o caso em 6 meses.",
+        "C": "Punção com agulha fina do cisto para estudo citológico.",
+        "D": "Encaminhar para avaliação com oncocirurgião para realização de laparotomia exploradora."
+      },
+      "correta": "D",
+      "explicacao": "Estrategista, nesta fase de vida da mulher, o risco de malignidade na presença de uma massa anexial é mais alto do que nas demais. Por\nesse motivo, a investigação invasiva será mais frequente do que nas pacientes mais jovens. Além dos exames de imagem, o uso do CA-125 é\nimportante para a definição da conduta terapêutica. O fluxograma abaixo, também extraído do tratado de Ginecologia da FEBRASGO traz a\nabordagem das massas anexiais nessa faixa etária:\nVamos analisar as alternativas:\nIncorreta a alternativa A. Como vimos, o paciente não fecha\ncritérios para PBE.\nIncorreta a alternativa B. Esta é uma terapia para a ascite\nrefratária. Podemos, sim, realizar uma paracentese neste\npaciente, porém, a longo prazo, como solicita a questão, o\nmanejo com diuréticos e restrição de sódio na dieta faz mais\nsentido como conduta inicial.\n\nEstratégia\nMED\n160\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque se trata\nde imagem suspeita, com mais de 10 cm\ne parede espessada, por isso não se deve\nprosseguir apenas com o seguimento, o que\npode atrasar o tratamento da paciente.\nIncorreta a alternativa B, porque não\nse deve prescrever pílula combinada e\nreavaliar o caso em 6 meses para uma lesão\npossivelmente maligna.\nIncorreta a alternativa C, porque não se deve realizar punção com agulha fina para estudo citológico de cisto anexial, já que pode se tratar de\nlesão maligna e podem se “espalhar” células neoplásicas na cavidade peritoneal.\nCorreta a alternativa D: trata-se de lesão ovariana possivelmente maligna, sendo indicado prosseguir na investigação desses casos com a\nrealização de laparotomia exploradora e congelação da lesão para definição do diagnóstico.",
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "imagens": [
+        "data/simulados/imgs/14-simulado/q97_img1.jpeg"
+      ],
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s3-006",
+      "numero": 6,
+      "area": "Ginecologia",
+      "enunciado": "Uma mulher de 38 anos de idade, nuligesta, comparece \nao ambulatório de Ginecologia com queixa de dor pélvica e sensação de peso há cerca de 6 meses. Nega outros sintomas. Refere ciclos \nmenstruais regulares e uso de preservativo como método anticoncepcional. Ao exame ginecológico: colo pouco doloroso à mobilização, \nútero de tamanho normal, retrovertido e anexo direito aumentado. A ultrassonografia transvaginal apresentou imagem cística homogênea \nno ovário direito, com conteúdo de aspecto de “vidro fosco”, paredes regulares, sem septações ou projeções papilares, medindo 3,2 cm.\nDiante do caso apresentado, a conduta mais adequada é:",
+      "alternativas": {
+        "A": "solicitar marcadores tumorais e indicar laparotomia exploradora.",
+        "B": "realizar punção aspirativa esvaziadora guiada por USG do cisto.",
+        "C": "prescrever anticoncepcional combinado e reavaliação após 3 meses.",
+        "D": "indicar histerectomia total com salpingooforectomia bilateral abdominal."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, o endometrioma de ovário é um cisto resultante do tecido endometrial ectópico dentro do ovário. Ele contém fluido \nespesso, marrom, sendo comumente chamado de \"cisto de chocolate\" ou “cisto café com leite” ou cisto com conteúdo de “vidro fosco”. \nO tratamento clínico (medicamentoso) é uma boa opção para o tratamento da dor pélvica, mas não é eficaz para o tratamento dos \nendometriomas de ovário.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n13\nVocê deve estar pensando: e agora? Como eu trato o endometrioma? \nSe, por um lado, é importante fazer sua exérese para tratar a dor, por outro lado, sua exérese pode afetar a fertilidade da paciente, \ndevido à retirada de parte do tecido ovariano. Por isso, operamos os endometriomas somente quando estão sintomáticos e grandes (> 5-6 \ncm). Quando são assintomáticos e pequenos, a melhor opção é o acompanhamento através de exame de imagem. \nDeve ser realizada a exérese completa do endometrioma (cistectomia ou ooforoplastia), não a punção, para evitar sua recorrência.\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque não se trata de quadro suspeito de malignidade e não há indicação de conduta cirúrgica. \nIncorreta a alternativa B, porque não se deve realizar punção aspirativa esvaziadora guiada por USG dos endometriomas, já que eles costumam \n“recidivar”.\nCorreta a alternativa C: trata-se de quadro de endometriose, sendo indicado prescrever anticoncepcional combinado para controle da dor \npélvica crônica da paciente.\nIncorreta a alternativa D, porque se trata de paciente nuligesta.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+      "imagens": [
+        "data/simulados/imgs/3-simulado/q6_img1.jpeg",
+        "data/simulados/imgs/3-simulado/q6_img2.png"
+      ],
+      "_simulado": "3-simulado",
+      "_edicao": "3",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s3-035",
+      "numero": 35,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 61 anos, foi submetida à histerectomia radical \npor câncer de colo há 6 semanas, refere perda contínua de urina pela vagina, que começou de forma progressiva no pós-operatório, \nassociada à dor lombar leve à direita. Refere que está urinando normalmente. A ultrassonografia abdominal apresenta hidronefrose \nunilateral à esquerda.\nA principal hipótese diagnóstica é:",
+      "alternativas": {
+        "A": "fístula vesicovaginal.",
+        "B": "incontinência urinária de urgência.",
+        "C": "fístula ureterovaginal.",
+        "D": "seroma pélvico."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, as fístulas são comunicações anormais entre dois epitélios de órgãos diferentes, decorrentes de processos infecciosos/\ninflamatórios, trauma, malformações ou necrose. As fístulas urogenitais comunicam os tratos genital e urinário.\n• Nos países desenvolvidos, as fístulas são causadas, em sua maioria, por lesão em histerectomia abdominal; nos países em \ndesenvolvimento, o trabalho de parto prolongado tem maior relevância.\n• As fístulas associadas à histerectomia abdominal correspondem a 75% de todos os casos ginecológicos.\n• Outras causas possíveis para fístulas são: radioterapia prévia e traumas.\nO quadro clínico depende da etiologia, localização e tamanho das fístulas. Pode haver manifestações precoces no pós-operatório imediato \npela presença de urina na cavidade abdominal: febre, íleo paralítico, dor abdominal, hematúria ou peritonite. Porém, a maior parte dos casos \nmanifesta-se entre 7 a 10 dias após a cirurgia, com queixa de perda urinária em graus variáveis. Em alguns casos, a manifestação pode ser \nmais tardia.\nAs fístulas abordadas nas provas são a vesicovaginal e a ureterovaginal; a tabela a seguir compara as características de cada uma delas:\nFístula vesicovaginal\nFístula ureterovaginal\nCorresponde a 75% das fístulas urogenitais.\nIncidência baixa.\nCausada em geral por lesão vascular no momento da \ndissecção da bexiga.\nCausada por secção, ligadura ou isquemia do ureter.\nPerda urinária involuntária em graus variáveis, sem micção \nnormal.\nPerda urinária involuntária associada a micções normais, \npois um dos ureteres está funcionando normalmente.\nApós a introdução de azul de metileno via vesical, há perda \nde líquido azulado pela vagina.\nApós a introdução de azul de metileno via vesical, há perda \nde urina com coloração habitual, pois a comunicação está \nacima da bexiga.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n55\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque, na fístula vesicovaginal, não ocorre micção normal.\nIncorreta a alternativa B, porque a paciente não apresenta urgência urinária, nem noctúria e aumento do número de micções. \nCorreta a alternativa C: trata-se de quadro de fístula ureterovaginal.\nIncorreta a alternativa D, porque seroma pélvico não cursa com perda urinária vaginal e não está associado à hidronefrose.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+      "imagens": [],
+      "_simulado": "3-simulado",
+      "_edicao": "3",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s9-018",
+      "numero": 18,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 49 anos de idade, comparece à UBS referindo \naumento do volume abdominal há 3 meses. Foi solicitado ultrassom transvaginal que apresentou uma imagem com contornos regulares, \narredondada, anecogênica, no ovário esquerdo e com formações sólidas no seu interior, medindo 9 x 8 cm de diâmetro. \nAssinale a alternativa que descreve a conduta indicada para esse caso.",
+      "alternativas": {
+        "A": "Seguimento ultrassonográfico em 6 meses.",
+        "B": "Solicitar marcadores tumorais e indicar a laparotomia exploradora.",
+        "C": "Solicitar PET-SCAN.",
+        "D": "Indicar realização de biópsia do ovário guiada por ultrassom."
+      },
+      "correta": "B",
+      "explicacao": "Estrategista, nessa fase de vida da mulher, o risco de malignidade na presença de uma massa anexial é mais alto do que nas demais. Por \nesse motivo, a investigação invasiva será mais frequente do que nas pacientes mais jovens. Além dos exames de imagem, o uso do CA-125 é \nimportante para a definição da conduta terapêutica. O fluxograma a seguir, também extraído do tratado de Ginecologia da FEBRASGO traz a \nabordagem das massas anexiais nessa faixa etária:\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n30\nRESIDÊNCIA MÉDICA\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente apresenta um cisto ovariano com características suspeitas de malignidade (formações sólidas no \nseu interior). \nCorreta a alternativa B: trata-se de achado ultrassonográfico suspeito de malignidade, sendo indicado prosseguir com a realização de \nlaparotomia exploradora e biópsia por congelação. \nIncorreta a alternativa C, porque a PET-SCAN seria indicada após se confirmar o diagnóstico de malignidade, para a pesquisa de metástases.\nIncorreta a alternativa D, porque não se deve realizar biópsia do ovário guiada por ultrassom, devido ao risco de “espalhar” células tumorais \npela cavidade pélvica peritoneal.\n\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n31\nRESIDÊNCIA MÉDICA",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "imagens": [
+        "data/simulados/imgs/9-simulado/q18_img1.jpeg"
+      ],
+      "_simulado": "9-simulado",
+      "_edicao": "9",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s9-069",
+      "numero": 69,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 25 anos de idade, nuligesta, usuária de dispositivo \nintrauterino (DIU), comparece ao PS queixando-se de dor em baixo ventre há 5 dias. Ao exame físico: PA = 110 x 70 mmHg, temperatura = \n37,7°C, dor à palpação do hipogástrio. Toque vaginal: dor à mobilização do colo e a palpação do anexo direito. Foi observado corrimento \nacinzentado no exame especular. \nAssinale a alternativa que descreve a conduta mais adequada.",
+      "alternativas": {
+        "A": "Indicar analgesia e uso de anti-inflamatório.",
+        "B": "Indicar tratamento ambulatorial com antibioticoterapia via oral.",
+        "C": "Indicar internação para antibioticoterapia endovenosa.",
+        "D": "Indicar internação para antibioticoterapia endovenosa e laparotomia exploradora. Estratégia MED Estratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED 117 RESIDÊNCIA MÉDICA"
+      },
+      "correta": "B",
+      "explicacao": "Estrategista, o diagnóstico de doença inflamatória pélvica (DIP) pode ser difícil devido à ampla variedade de sinais e sintomas. Esse fato faz \ncom que o diagnóstico seja feito de forma tardia, podendo aumentar as chances de complicações agudas e tardias. Nem mesmo a história \nclínica, o exame físico e os testes laboratoriais são sensíveis ou específicos o suficiente para chegarmos ao diagnóstico.\nDevido à heterogeneidade de sintomas e a fim de evitar que haja perda de diagnósticos, foram desenvolvidos critérios diagnósticos bem \ndefinidos para a doença inflamatória pélvica que se encontram no quadro a seguir:\nCRITÉRIOS DIAGNÓSTICOS DE DIP\nMAIORES \nMENORES \nELABORADOS \nDor abdominal ou infraumbilical\nDor à palpação anexial\nDor à mobilização do colo uterino\nTemperatura axilar maior que 38,3 \ngraus\nConteúdo cervical ou vaginal anormal\nMassa pélvica\nLeucocitose em sangue periferico\nProteína C reativa ou velocidade de \nhemossedimentação aumentadas\nMais de cinco leucócitos por \ncampo de imersão em secreção de \nendocérvice\nComprovação laboratorial de \ninfecção por clamídia, gonococo ou \nmicoplasma\nEvidência histopatológica de \nendometrite. \nPresença de abscesso tubo-ovariano \nou de fundo de saco de Douglas em \nestudo de imagem (USG pélvica ou \nressonância magnética). \nVLSC com evidências de DIP.\nDIAGNÓSTICO: TRÊS CRITÉRIOS MAIORES + UM CRITÉRIO MENOR OU UM CRITÉRIO ELABORADO\nA infertilidade é uma das principais complicações da DIP, sendo causada pelo processo inflamatório mal resolvido que provoca aderências \npelviperitoneais e obstruções tubárias. A doença inflamatória pélvica prévia também aumenta o risco de gestação ectópica.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n118\nRESIDÊNCIA MÉDICA\nCritérios de internação para a doença inflamatória pélvica\nPresença de abscesso tubo-ovariano ou peritonite\nEstado tóxico e grave de início/queda do estado geral\nUso de DIU\nAntibioticoterapia oral não tolerada ou não efetiva\nHIV+ ou imunossuprimidas\nGravidez\nEmergências cirúrgicas (por exemplo, apendicite) não podem ser excluídas\nO tratamento deve ser realizado com antibioticoterapia de amplo espectro (Gram-positivos, Gram-negativos e anaeróbios). Em casos de \nperitonite e abscesso tubo-ovariano associado, está indicada a internação para antibioticoterapia endovenosa e, em alguns casos, abordagem \ncirúrgica para drenagem de abscesso e limpeza da cavidade.\nCritérios para abordagem cirúrgica\nFalha de tratamento clínico\nManutenção de abcesso pélvico, mesmo após o tratamento clínico\nSuspeita de abscesso tubo-ovariano roto\nPeritonite difusa ou hemoperitônio\nInstabilidade hemodinâmica refratária\nAbscesso em fundo de saco de Douglas (indicação de culdocentese)\nO tratamento da DIP depende de sua gravidade. Casos leves podem ser tratados ambulatorialmente, enquanto casos graves devem ser \ninternados e receber antibioticoterapia endovenosa.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n119\nRESIDÊNCIA MÉDICA\nTratamento da DIP (Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções \nSexualmente Transmissíveis - Ministério da Saúde)\nTratamento\nPrimeira opção\nSegunda opção\nTerceira opção\nAmbulatorial\nCeftriaxone 500 mg IM, \ndose única\nMAIS\nDoxiciclina 100 mg VO \n12/12h, por 14 dias\nMAIS\nMetronidazol 500 mg \n12/12 h, por 14 dias\nCefotaxima 500 mg IM, \ndose única\nMAIS\nDoxiciclina 100 mg VO \n12/12h, por 14 dias\nMAIS\nMetronidazol 500 mg \n12/12 h, por 14 dias\nHospitalar\nCefoxitina 2 g, IV 6/6h, por \n14 dias \nMAIS \nDoxiciclina 100 mg VO, \n12/12 h, por 14 dias\nMAIS\nMetronidazol 500mg 12/12 \nh, por 14 dias\nClindamicina 900 mg IV, \n8/8h, por 14 dias MAIS \nGentamicina (IV ou IM): \ndose de ataque 2 mg/kg; \ndose de manutenção: 3-5 \nmg/kg/dia, por 14 dias\nAmpicilina/sulbactam 3 g \nIV, 6/6h, por 14 dias MAIS \nDoxiciclina 100 mg VO, \n12/12h, por 14 dias\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente preenche os critérios para o diagnóstico da DIP, sendo indicado tratamento com antibioticoterapia.\nCorreta a alternativa B: trata-se de caso de doença inflamatória pélvica sem indicações de internação, sendo indicada antibioticoterapia \nambulatorial.\nIncorreta a alternativa C, porque não há indicação de internação. \nIncorreta a alternativa D, porque a paciente não tem indicação de tratamento cirúrgico.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "imagens": [
+        "data/simulados/imgs/9-simulado/q69_img1.jpeg"
+      ],
+      "_simulado": "9-simulado",
+      "_edicao": "9",
+      "subarea": "Ginecologia Geral",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s1-015",
+      "numero": 15,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 27 anos de idade, sexualmente ativa, comparece \nà consulta ginecológica para realização do seu primeiro exame preventivo. O médico realiza a coleta do teste de DNA-HPV. Após 1 mês, a \npaciente retorna com o resultado “presença de HPV não 16-18”.\nConsiderando a diretriz de rastreamento do câncer de colo do útero do MS/INCA de 2025, qual é a conduta indicada para esse resultado?",
+      "alternativas": {
+        "A": "Repetir o exame em 5 anos.",
+        "B": "Repetir o exame em 1 ano.",
+        "C": "Encaminhar para a colposcopia.",
+        "D": "Realizar citologia reflexa."
+      },
+      "correta": "D",
+      "explicacao": "Estrategista, esta é uma questão sobre a diretriz de rastreamento do câncer de colo uterino de 2025. Veja o fluxograma a seguir:\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 1º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n31\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque essa é a conduta indicada se o teste de DNA-HPV for negativo para HPV oncogênico. \nIncorreta a alternativa B, porque essa é a conduta se a citologia reflexa se apresentar normal. \nIncorreta a alternativa C, porque essa seria a conduta se o resultado do teste de DNA-HPV fosse positivo para HPV 16 ou 18. \nCorreta a alternativa D: a conduta indicada para o resultado de HPV não 16-18 (HPV outros) é realizar a citologia reflexa.\n\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 1º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n32",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+      "imagens": [
+        "data/simulados/imgs/1-simulado/q15_img1.jpeg"
+      ],
+      "_simulado": "1-simulado",
+      "_edicao": "1",
+      "subarea": "Ginecologia Geral",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s11-008",
+      "numero": 8,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 57 anos de idade procurou o serviço de \nginecologia trazendo resultado de ultrassonografia transvaginal que apresenta uma imagem cística, complexa, no seu ovário esquerdo, \nmedindo 8 cm de diâmetro, multiloculada, com estruturas papilares no seu interior e vascularização interna. A paciente está menopausada \nhá 8 anos e nega qualquer sintoma. Nega comorbidades e cirurgias anteriores. \nAssinale a alternativa que descreve a conduta indicada para o caso descrito.",
+      "alternativas": {
+        "A": "Repetir exame de imagem em 6 meses.",
+        "B": "Solicitar tomografia computadorizada.",
+        "C": "Solicitar beta-hCG.",
+        "D": "Encaminhar para oncoginecologista."
+      },
+      "correta": "D",
+      "explicacao": "Estrategista, a fim de padronizar as avaliações e predizer o risco de malignidade associado aos tumores anexiais, a International \nOvarian Tumor Analysis (IOTA) desenvolveu critérios que permitem classificar as lesões em provavelmente benignas, provavelmente malignas \ne indeterminadas, facilitando a decisão no planejamento terapêutico dessas pacientes. As provas de Residência não costumam abordar, \nespecificamente, esses critérios, porém utilizam-nos, implicitamente, para cobrar a conduta em casos de tumores ovarianos. A tabela abaixo \ntraz as chamadas “regras simples” desenvolvidas pela IOTA:\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n14\nCritérios de IOTA (International Ovarian Tumor Analysis) para predição de risco de câncer de ovário em tumores \nanexiais – regras simples ou simple rules\nBenignidade\nMalignidade\nUnilocular\nTumor sólido irregular\nPresença de componente sólido menor que 7mm\nPresença de ascite\nPresença de sombra acústica posterior\nAo menos quatro estruturas papilares\nTumor multilocular regular com diâmetro menor que \n100 mm\nTumor multilocular com componente sólido e diâmetro \nmaior ou igual a 100 mm\nAusência de fluxo ao Doppler\nVascularização intensa\nOs critérios para utilização das regras são:\n• Se o tumor apresentar ao menos uma característica de malignidade e nenhuma de benignidade, é considerado \nprovavelmente maligno.\n• Se o tumor apresentar ao menos uma característica de benignidade e nenhuma de malignidade, o tumor é provavelmente \nbenigno.\n• Se o tumor apresentar características de benignidade e malignidade, é considerado inconclusivo.\nAs características da lesão ovariana da paciente são suspeitas de malignidade, sugerindo a hipótese diagnóstica de um tumor maligno.\nNessa fase de vida da mulher, o risco de malignidade na presença de uma massa anexial é mais alto do que nas demais. Por esse \nmotivo, a investigação invasiva será mais frequente do que nas pacientes mais jovens. Além dos exames de imagem, o uso do CA-125 é \nimportante para a definição da conduta terapêutica. Quando se opta por conduta cirúrgica nessa faixa etária, a cirurgia de escolha costuma \nser o estadiamento completo. Porém, a ooforectomia com congelação é uma possibilidade em caso de dúvida diagnóstica.\nO fluxograma a seguir resume as condutas diante de tumores anexiais nessas pacientes, de acordo com a FEBRASGO. \nMassa anexial\nReferenciar para\noncoginecologista\nAchados suspeitos\nde malignidade\nMassa > 10 cm\nCA 125 > 35U/ml\nSIM\nSIM\nSIM\nNÃO\nNÃO\nNÃO\nPersistência\nRepetir exame\nde imagem\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n15\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque se trata de tumor ovariano com características suspeitas de malignidade. \nIncorreta a alternativa B, porque a tomografia computadorizada não irá mudar a conduta em relação a esse caso, que é de abordar \ncirurgicamente a tumoração para se fazer um diagnóstico anatomopatológico.\nIncorreta a alternativa C, porque essa seria a conduta indicada para os casos em mulheres pré-menopausa, ou em mulheres com suspeita de \ncoriocarcinoma, carcinoma embrionário ou disgerminoma. \nCorreta a alternativa D: trata-se de tumor ovariano provavelmente maligno, sendo indicado encaminhar para oncoginecologista para realizar \nlaparotomia exploradora.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "imagens": [],
+      "_simulado": "11-simulado",
+      "_edicao": "11",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s11-022",
+      "numero": 22,
+      "area": "Ginecologia",
+      "enunciado": "Uma mulher de 56 anos de idade procurou o serviço de \nMastologia referindo o aparecimento de um nódulo na mama direita há 1 mês. Ao exame físico mamário: nódulo endurecido, com limites \nmal definidos, aderido profundamente, indolor, medindo 2 cm, localizado na junção dos quadrantes laterais da mama direita. Axilas \nclinicamente livres.\nFoi submetida à quadrantectomia com linfonodos sentinelas e apresentou o seguinte exame anatomopatológico: carcinoma mamário \ndo tipo não especial, grau histológico I, receptores hormonais positivos (estrógeno e progesterona), HER2 positivo (3+/3+), Ki 67 = 25%, \nmedindo 2,0 cm na maior extensão. Presença de invasão linfovascular. Linfonodos axilares livres de neoplasia (3/3). Margens livres de \nneoplasia.\nConsiderando o caso descrito, assinale o fator de melhor prognóstico para essa paciente.",
+      "alternativas": {
+        "A": "Receptores hormonais positivos.",
+        "B": "HER 2 positivo.",
+        "C": "Ki 67 = 25%.",
+        "D": "Presença de invasão linfovascular. Estratégia MED Estratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026 RESIDÊNCIA MÉDICA 36"
+      },
+      "correta": "A",
+      "explicacao": "Estrategista, essa é uma questão sobre os fatores prognósticos do câncer de mama. Veja a tabela a seguir:\nFatores Prognósticos do Câncer de Mama\nIdade da paciente \nPacientes jovens têm pior prognóstico\nRaça \nMulheres negras têm pior prognóstico\nTamanho do tumor/grau histológico \nQuanto maior o tamanho e o grau histológico, pior é o prognóstico\nStatus linfonodal (comprometimento dos \nlinfonodos)\nO comprometimento linfonodal caracteriza um pior prognóstico\nPresença de receptores hormonais de \nestrógeno/progesterona (RE / RP)\nA presença de receptores confere um prognóstico melhor\nSuperexpressão do HER 2\nCaracteriza um prognóstico pior\nKi67 (marcador de proliferação celular)\nQuanto maior o Ki 67 pior é o prognóstico\nPresença de metástases\nCaracteriza pior prognóstico\nAgora, vamos analisar as alternativas:\nCorreta a alternativa A: a presença de receptores hormonais positivos denota bom prognóstico.\nIncorreta a alternativa B, porque o HER 2 positivo (superexpresso 3+/3+) é um fator de mau prognóstico, relacionado com tumores mais \nagressivos e que crescem mais rápido.\nIncorreta a alternativa C, porque o Ki 67 = 25% (alto) mostra que o tumor da paciente apresenta elevada taxa de mitoses, com muita \nproliferação das células tumorais. Ou seja, que é um tumor mais agressivo e de pior prognóstico.\nIncorreta a alternativa D, porque a presença de invasão linfovascular também está relacionada com um pior prognóstico, devido ao maior \nrisco de invasão linfática e metastática.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "imagens": [
+        "data/simulados/imgs/11-simulado/q22_img1.jpeg"
+      ],
+      "_simulado": "11-simulado",
+      "_edicao": "11",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s11-037",
+      "numero": 37,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 46 anos de idade, comparece ao ambulatório \nde ginecologia referindo sangramento uterino anormal irregular há 1 ano. Nuligesta, obesa e hipertensa, está em tratamento com \nestrogenioterapia exclusiva há 6 meses, sem melhora do quadro. Exame físico ginecológico sem alterações. Foi realizada ultrassonografia \ntransvaginal que apresentou útero de 86 cm3, eco endometrial de 9 mm e ovários normais. Qual é a conduta indicada para esse caso?",
+      "alternativas": {
+        "A": "Seguimento com novo ultrassom transvaginal em 6 meses.",
+        "B": "Prescrever anticoncepcional hormonal combinado.",
+        "C": "Prescrever progestágeno exclusivo.",
+        "D": "Realizar histeroscopia com biópsia do endométrio."
+      },
+      "correta": "D",
+      "explicacao": "Estrategista, essa paciente apresenta quadro de sangramento uterino anormal (SUA) com fatores de risco para o desenvolvimento do \ncâncer de endométrio (obesidade, hipertensão e terapia estrogênica exclusiva). Foi realizada ultrassonografia que apresentou endométrio \ncom medida de 9 mm.\nNão existe um valor de referência para a espessura do endométrio nas mulheres no menacme, mas essa paciente tem indicação de \nbiópsia do endométrio devido ao quadro de SUA associado a fatores de risco para o desenvolvimento do câncer de endométrio. \nVeja a tabela a seguir:\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n62\nIndicações de avaliação endometrial no SUA\nIdade > 45 anos\nEspessamento endometrial\nMulheres com fatores de risco para câncer de endométrio\nHistória de exposição estrogênica sem oposição da progesterona\nDúvida no diagnóstico\nIdade entre 35 e 45 anos\nSem melhora com o tratamento medicamentoso\nSuspeita de sangramento anovulatório\nIdade < 35 anos\nEstimulação estrogênica prolongada\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente apresenta quadro suspeito de hiperplasia ou câncer de endométrio, sendo indicada a realização \nde biópsia guiada por histeroscopia. \nIncorreta a alternativa B, porque não se pode adotar nenhuma conduta terapêutica antes de se avaliar histologicamente o endométrio dessa \npaciente.\nIncorreta a alternativa C, porque a indicação de progestágeno exclusivo só pode ser feita após o diagnóstico histopatológico afastando a \nmalignidade e a atipia.\nCorreta a alternativa D: essa é a conduta indicada para essa paciente. Trata-se de caso de SUA em paciente de mais de 45 anos, com fatores \nde risco para o câncer de endométrio e história de exposição estrogênica sem oposição da progesterona.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "imagens": [],
+      "_simulado": "11-simulado",
+      "_edicao": "11",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s11-075",
+      "numero": 75,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 57 anos de idade, menopausada há 7 anos, \ncomparece à UBS referindo sangramento vaginal esporádico há 4 meses. Está em tratamento com terapia hormonal combinada \n(estrógeno + progesterona) há 4 anos. Obesa, hipertensa e diabética compensada com tratamento clínico medicamentoso. Ao exame físico \nginecológico, não foram observadas anormalidades. Foi solicitada ultrassonografia transvaginal que apresentou espessura endometrial \nde 6 mm. \nAssinale a alternativa que descreve a conduta indicada para esse caso.",
+      "alternativas": {
+        "A": "Orientação e seguimento clínico.",
+        "B": "Seguimento ultrassonográfico em 6 meses.",
+        "C": "Solicitar histeroscopia com biópsia do endométrio.",
+        "D": "Histerectomia total."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, essa paciente apresenta um quadro de sangramento pós-menopausa. Sua causa mais frequente é a atrofia endometrial, \nmas o sangramento pós-menopausa é o principal sintoma do câncer de endométrio. Por isso, é essencial realizar a ultrassonografia transvaginal \npara avaliar a espessura do endométrio. Veja o fluxograma a seguir:\nSangramento\npós-menopausa\n< 4 mm\nPaciente em uso de \nterapia hormonal\nPaciente sem\nterapia hormonal\nUltrassonografia\n(espessura\nendometrial)\n≥ 4 mm\n≤ 5 mm\nAtrofia/\nSeguimento\nBiópsia\nAtrofia/\nSeguimento\nBiópsia\n> 5 mm\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente apresenta quadro de sangramento pós-menopausa e espessamento endometrial, sendo indicada \na realização de biópsia do endométrio. \nIncorreta a alternativa B, porque não se deve aguardar 6 meses para se prosseguir com a investigação diagnóstica da paciente. \nCorreta a alternativa C: a paciente tem indicação de realizar biópsia do endométrio guiada pela histeroscopia.\nIncorreta a alternativa D, porque não se pode indicar a histerectomia total antes de se confirmar com a biópsia do endométrio que a paciente \napresenta hiperplasia com atipia ou câncer.\n\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n122",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+      "imagens": [],
+      "_simulado": "11-simulado",
+      "_edicao": "11",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s14-062",
+      "numero": 62,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 58 anos de \nidade, menopausada há 9 anos, G3,P3, procura a UBS referindo \nepisódios recorrentes de sangramento genital há 3 meses. Foi \nrealizada uma ultrassonografia transvaginal que apresentou \nespessura endometrial de 5 mm. Assinale a alternativa que \ndescreve a conduta indicada para esse caso.",
+      "alternativas": {
+        "A": "Seguimento clínico e ultrassonográfico em 6 meses",
+        "B": "Prescrever progestágeno",
+        "C": "Realizar curetagem de prova",
+        "D": "Realizar histeroscopia com biópsia do endométrio"
+      },
+      "correta": "D",
+      "explicacao": "Estrategista, esta paciente apresenta um quadro de sangramento pós-menopausa e a ultrassonografia apresentou uma espessura endometrial\nde 5 mm. Veja o fluxograma abaixo:\n\nEstratégia\nMED\n104\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente tem indicação de realizar biópsia do endométrio.\nIncorreta a alternativa B, porque, antes de poder indicar um tratamento, é necessário realizar a biópsia do endométrio para avaliar se existe\nhiperplasia ou câncer e, aí sim, decidir a conduta mais apropriada.\nIncorreta a alternativa C, porque, apesar de a curetagem de prova ser uma opção para se obter amostra de tecido endometrial, trata-se de\nmétodo com acurácia menor que a histeroscopia.\nCorreta a alternativa D: o método padrão-ouro para avaliar a cavidade endometrial é a histeroscopia, sendo a melhor opção para prosseguir\ncom a avaliação diagnóstica.",
+      "imagens": [
+        "data/simulados/imgs/14-simulado/q62_img1.jpeg"
+      ],
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s14-089",
+      "numero": 89,
+      "area": "Ginecologia",
+      "enunciado": "Gestante, 35 anos, \nG4P3, deu entrada na maternidade em período expulsivo. \nNão realizou pré-natal. No hospital, o teste rápido veio com \nresultado não reagente para HIV e reagente para sífilis. A mãe \nnega tratamento para a doença. O resultado de seu VDRL é de \n1:32. Qual é a conduta a ser tomada com este neonato?",
+      "alternativas": {
+        "A": "Coletar VDRL do RN e, se vier menor que o materno, realizar apenas acompanhamento ambulatorial.",
+        "B": "Coletar VDRL do RN, liquor, realizar radiografia de ossos longos e tratar com penicilina.",
+        "C": "Coletar VDRL do RN, liquor, realizar radiografia de ossos longos e, caso o VDRL venha menor que o materno e os outros exames venham normais, aplicar dose única de penicilina benzatina.",
+        "D": "Coletar VDRL do RN e, se vier positivo, complementar os exames com hemograma, liquor e radiografia de ossos longos."
+      },
+      "correta": "B",
+      "explicacao": "Olá, Estrategista. Quando nos deparamos com uma questão sobre sífilis congênita, o primeiro passo a se fazer é: determinar se a mãe foi\nadequadamente tratada ou não. Observe:\nNesse caso, a mãe sequer foi tratada. Filhos de mães inadequadamente tratadas ou não tratadas devem sempre ser triados com VDRL,\nhemograma, coleta de liquor e radiografia de ossos longos. O resultado desses exames define a conduta, se o RN será tratado com Penicilina\nCristalina ou Benzatina. Observe o fluxograma abaixo.\n\nEstratégia\nMED\n149\nPortanto, para o RN da questão, devemos realizar a triagem completa com VDRL, hemograma, liquor e radiografia de ossos longos. Ele deverá\nser tratado com penicilina. Os resultados dos exames vão definir se utilizaremos penicilina cristalina, procaína ou benzatina.\nCorreta a alternativa B.\nIncorreta a alternativa A. Além do VDRL, é mandatório coletar hemograma, liquor e realizar radiografia de ossos longos.\nIncorreta a alternativa C. Quando o VDRL do RN vem positivo, independentemente da titulação, é obrigatório usar penicilina cristalina ou\nprocaína (na ausência de neurossífilis).\nIncorreta a alternativa D. Os exames de triagem completos devem ser coletados independentemente do resultado do VDRL.",
+      "imagens": [
+        "data/simulados/imgs/14-simulado/q89_img1.jpeg",
+        "data/simulados/imgs/14-simulado/q89_img2.jpeg"
+      ],
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s3-080",
+      "numero": 80,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 66 anos de idade, menopausada há 11 anos, \nprocura atendimento ginecológico por apresentar episódios esporádicos de sangramento vaginal nos últimos 6 meses. Nega dor pélvica \nou dispareunia. Foi realizada ultrassonografia que apresentou endométrio homogêneo, medindo 6 mm de espessura. A causa mais \nprovável do sangramento apresentado é:",
+      "alternativas": {
+        "A": "atrofia endometrial.",
+        "B": "hiperplasia endometrial.",
+        "C": "pólipo endometrial.",
+        "D": "adenomiose."
+      },
+      "correta": "B",
+      "explicacao": "Estrategista, essa paciente apresenta um quadro de sangramento pós-menopausa e espessamento endometrial. Veja o fluxograma a \nseguir:\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n130\nSangramento\npós-menopausa\n< 4 mm\nPaciente em uso de \nterapia hormonal\nPaciente sem\nterapia hormonal\nUltrassonografia\n(espessura\nendometrial)\n≥ 4 mm\n≤ 5 mm\nAtrofia/\nSeguimento\nBiópsia\nAtrofia/\nSeguimento\nBiópsia\n> 5 mm\nFluxograma: avaliação ultrassonográfica da espessura endometrial nas mulheres menopausadas e indicação de avaliação endometrial. Fonte: Hiperplasia e Câncer de \nEndométrio, Protocolos FEBRASGO 2021.\nAgora veja a tabela a seguir:\nCausas de sangramento uterino pós-menopausa\nCausas\nPorcentagem\nAtrofia endometrial\n60-80%\nTerapia hormonal estrogênica\n15-25%\nPólipo endometrial\n2-12%\nHiperplasia endometrial\n5-10%\nCâncer de endométrio\n10%\nFonte: Bereck & Novak, 2020\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente apresenta uma espessura endometrial de 6 mm. \nCorreta a alternativa B: a paciente apresenta sangramento pós-menopausa e espessamento endometrial, sendo a hiperplasia endometrial a \ncausa mais provável entre as alternativas.\nIncorreta a alternativa C, porque a paciente não apresenta espessamento focal ou imagem nodular intracavitária na ultrassonografia. \nIncorreta a alternativa D, porque a adenomiose não é uma causa de sangramento pós-menopausa, já que é uma doença estrógeno-\ndependente que regride após a menopausa.\n\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n131",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+      "imagens": [],
+      "_simulado": "3-simulado",
+      "_edicao": "3",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s5-005",
+      "numero": 5,
+      "area": "Ginecologia",
+      "enunciado": "Um menino de 12 anos de idade e sua irmã de 8 anos \ncomparecem à UBS acompanhados da mãe. O exame físico dos dois pacientes não apresenta alteração. O cartão de vacinação não \napresenta aplicação da vacina contra o HPV para nenhuma das duas crianças. \nQual é a conduta indicada?",
+      "alternativas": {
+        "A": "Somente o menino deve ser vacinado.",
+        "B": "Somente a menina deve ser vacinada.",
+        "C": "Nenhum dos dois deve ser vacinado.",
+        "D": "O menino e a menina devem ser vacinados."
+      },
+      "correta": "A",
+      "explicacao": "Estrategista, veja a seguir as indicações da vacinação contra o HPV:\nINDICAÇÕES DA VACINA QUADRIVALENTE HPV \n(MINISTÉRIO DA SAÚDE)\nMENINAS\ne \nMENINOS\n• 9 a 14 anos (dose única)\n• 15 a 19 anos (dose única \"de resgate\")\n• 9 a 45 anos (imunodeprimidos): três doses (0, 2 e 6 meses):\n- convivendo com HIV/aids;\n- transplantados de órgãos sólidos;\n- em quimioterapia.\nVítimas de violência sexual\n(caso não tenha sido vacinada \nanteriormente)\n• 9 a 14 anos: duas doses (0 e 6 meses)\n• 15 a 45 anos: três doses (0, 2 e 6 meses)\nUsuários de profilaxia pré-\nexposição (PrEP)\n• 15 a 45 anos: três doses (0, 2 e 6 meses)\nPapilomatomatose respiratória \nrecorrente (PRR)\nA partir de 2 anos de idade: três doses (0, 2 e 6 meses)\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 5º Simulado Residência Médica - ENAMED\nRESIDÊNCIA MÉDICA\n9\nAgora, vamos analisar as alternativas:\nCorreta a alternativa A: somente o menino deve ser vacinado, já que está na faixa etária de 9 a 14 anos de idade.\nIncorreta a alternativa B, porque a menina tem menos de 9 anos de idade. \nIncorreta a alternativa C, porque o menino deve ser vacinado. \nIncorreta a alternativa D, porque a menina não deve ser vacinada (ainda).",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "imagens": [],
+      "_simulado": "5-simulado",
+      "_edicao": "5",
+      "subarea": "Ginecologia Geral",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s5-063",
+      "numero": 63,
+      "area": "Ginecologia",
+      "enunciado": "Uma mulher de 67 anos de idade comparece ao \nambulatório de PTGI (Patologia do Trato Genital Inferior), queixando-se de prurido genital há 2 anos. Paciente refere tratamento com \ncorticoide tópico, sem melhora do quadro. Ao exame físico, foi observada área hipocrômica, atrófica, localizada nos pequenos lábios, \nde aproximadamente 4 cm. \nConsiderando o caso descrito, assinale a alternativa que descreve a conduta indicada.",
+      "alternativas": {
+        "A": "Seguimento clínico com reavaliação em 6 meses.",
+        "B": "Tratar com fluconazol 150 mg via oral semanal, por 6 meses.",
+        "C": "Cauterização da lesão.",
+        "D": "Biópsia da lesão."
+      },
+      "correta": "D",
+      "explicacao": "Estrategista, essa é uma questão sobre as lesões precursoras e o câncer de vulva. Assim como a neoplasia intraepitelial cervical (NIC), a \nneoplasia intraepitelial vulvar (NIV) representa a presença de células escamosas anormais na vulva. Já foi classificada de diversas maneiras. \nAnteriormente, a NIV era dividida em analogia à NIC (pela espessura do epitélio acometido). Todavia, o termo NIV 1 foi removido em 2004, \npois foi visto que ele não tem potencial oncogênico. A terminologia atual aceita que a LSIL vulvar corresponde às verrugas genitais e às \nalterações celulares do HPV, e que a HSIL vulvar e a NIV diferenciada são lesões precursoras do carcinoma escamoso de vulva.\nDiferentemente do colo uterino, em que praticamente 100% dos cânceres estão relacionados ao HPV, o carcinoma escamoso de vulva possui \n2 vias de desenvolvimento, uma via HPV dependente, que tem como precursor o HSIL vulvar, a outra relacionada ao líquen escleroso, que tem \ncomo precursor a NIV diferenciada.\nLESÕES DE ALTO GRAU VULVAR (HSIL) OU NIV USUAL\nA HSIL vulvar representa a maioria dos casos de NIV. Sua incidência é de 5:100 mil mulheres ao ano, com aumento do número de casos no \nmundo inteiro, devido ao aumento da incidência de infecção pelo HPV. A faixa etária acometida reduziu de 50 para 30-40 anos. Os fatores de \nrisco associados são:\n- presença de HPV de alto risco oncogênico (78-92% dos casos estão associados ao HPV 16);\n- tabagismo (presente em 60-80% dos casos);\n- uso de contraceptivos hormonais; e \n- imunossupressão.\nAs lesões geralmente são multifocais e multicêntricas, já que o HPV infecta qualquer região do trato anogenital. Elas manifestam-se, na \nmaioria das vezes, como lesões verrucosas distribuídas principalmente em áreas sem pelos, com coloração branco-acinzentada, rósea ou \namarronzada. Na vulvoscopia, após aplicação do ácido acético 5%, tornam-se esbranquiçadas. Apresenta elevado índice de regressão, \npodendo ser tratada conservadoramente (discutiremos as formas de tratamento adiante). A progressão para o câncer de vulva é possível, \nmas ela é lenta e ocorre em menor frequência quando comparada à NIV diferenciada.\nNIV DIFERENCIADA\nA NIV diferenciada representa menos de 5% dos casos de NIV. É uma infecção típica da idade avançada, com prevalência máxima entre \n75-79 anos. Geralmente se origina do líquen escleroso e/ou hiperplasia escamosa. A localização preferencial é nas áreas com pelos. A lesão é \nunilateral e focal, apresentando-se tipicamente como área branco-acinzentada, queratótica, com limites bem demarcados. Quando associada \n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 5º Simulado Residência Médica - ENAMED\nRESIDÊNCIA MÉDICA\n115\nao líquen, pode apresentar os sinais clínicos característicos desse último. A taxa de progressão para câncer é 5,6 vezes maior que a da NIV \nusual. Apresenta baixo índice de regressão, preferindo-se a exérese da lesão.\nEssa paciente apresenta um quadro de lesão que não melhorou com o uso de corticoide. Ou seja, precisamos pensar que a lesão pode ser \numa NIV diferenciada ou até mesmo um câncer de vulva e, por isso, devemos indicar a biópsia da lesão. \nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque se trata de caso suspeito de câncer de vulva ou lesão precursora, não se devendo postergar a realização de \nbiópsia da lesão. \nIncorreta a alternativa B, porque a paciente não apresenta quadro sugestivo de candidíase, e sim de lesão precursora e/ou câncer de vulva\nIncorreta a alternativa C, porque não se deve cauterizar a lesão sem realizar sua investigação anatomopatológica para definir seu diagnóstico.\nCorreta a alternativa D: trata-se de provável NIV diferenciada e/ou câncer de vulva, sendo indicada a realização de biópsia da lesão para \ndefinição diagnóstica e indicação de tratamento correspondente.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "imagens": [],
+      "_simulado": "5-simulado",
+      "_edicao": "5",
+      "subarea": "Ginecologia Geral",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s5-068",
+      "numero": 68,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 38 anos de idade, comparece em atendimento \nna UBS trazendo ultrassom transvaginal que apresentou uma imagem anexial direita, sólida, irregular de aproximadamente 1,5 cm de \ndiâmetro. A paciente nega queixas e ao exame ginecológico não foram encontradas anormalidades. \nAssinale a alternativa que descreve a conduta correta.",
+      "alternativas": {
+        "A": "Conduta expectante.",
+        "B": "Repetir a ultrassonografia em 6 meses.",
+        "C": "Indicar punção por agulha fina da massa anexial.",
+        "D": "Encaminhar a paciente para avaliação oncológica."
+      },
+      "correta": "D",
+      "explicacao": "Estrategista, a ultrassonografia pélvica é o exame de escolha para a investigação inicial de massas anexiais. O baixo custo, associado à \nfamiliaridade dos ginecologistas com o uso e à boa qualidade de imagem, faz com que esse seja o método de primeira linha nesses casos. As \ncaracterísticas básicas que devem ser avaliadas nos tumores anexiais são: paredes, conteúdo, presença de septos, presença de projeções \nsólidas e vascularização.\nA tabela a seguir traz as chamadas “regras simples” desenvolvidas pela IOTA (European International Ovarian Tumor Analysis) para avaliar a \nprobabilidade de malignidade de um tumor ovariano:\nCritérios de IOTA (European International Ovarian Tumor Analysis) para predição de risco de \ncâncer de ovário em tumores anexiais – “regras simples” ou “simple rules”\nBenignidade.\nMalignidade.\nUnilocular.\nTumor sólido irregular.\nPresença de componente sólido menor do \nque 7 mm.\nPresença de ascite.\nPresença de sombra acústica posterior.\nAo menos 4 estruturas papilares.\nTumor multilocular regular com diâmetro \nmenor do que 100 mm.\nTumor multilocular com componente sólido e \ndiâmetro maior ou igual a 100 mm.\nAusência de fluxo ao Doppler.\nVascularização intensa.\nOs critérios para utilização das regras são:\n1-      Se o tumor apresentar ao menos uma característica de malignidade e nenhuma de \nbenignidade, é considerado provavelmente maligno.\n2-      Se o tumor apresentar ao menos uma característica de benignidade e nenhuma de \nmalignidade, é provavelmente benigno.\n3-      Se o tumor apresentar características de benignidade e malignidade, é considerado \ninconclusivo.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 5º Simulado Residência Médica - ENAMED\nRESIDÊNCIA MÉDICA\n124\nAlém dos critérios de IOTA, algumas outras características podem estar associadas à malignidade, como: bilateralidade, paredes irregulares \ne presença de septos grosseiros. Em algumas referências, uma dimensão superior a 8 cm é considerada critério de malignidade.\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente apresenta achado suspeito de malignidade, não sendo indicado atrasar a investigação \ncomplementar da lesão. \nIncorreta a alternativa B, porque a paciente apresenta achado ultrassonográfico com característica maligna, sendo indicado complementar a \navaliação e conduta diagnóstica com o especialista o quanto antes. \nIncorreta a alternativa C, porque não se deve proceder com punção por agulha fina da massa anexial, já que esse procedimento pode \n“espalhar” células neoplásicas pela cavidade pélvica.\nCorreta a alternativa D: deve-se encaminhar a paciente para avaliação oncológica, que prosseguirá com a investigação diagnóstica através da \nrealização de ressonância magnética, CA125, CA19.9 e CEA, além de indicar uma laparotomia exploradora para ressecar a lesão e proceder \ncom o estudo anatomopatológico.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "imagens": [],
+      "_simulado": "5-simulado",
+      "_edicao": "5",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s1-046",
+      "numero": 46,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 30 anos, comparece em consulta na UBS \nreferindo “ferida” na vulva há 5 dias. Ao exame físico ginecológico, foi observada úlcera dolorosa na transição entre o pequeno e o \ngrande lábio à direita, com bordas irregulares. Apresenta fundo “sujo”. Observa-se também linfonodomegalia inguinal ipsilateral com \nsinais flogísticos. \nConsiderando o quadro clínico, qual é a principal hipótese diagnóstica?",
+      "alternativas": {
+        "A": "Sífilis.",
+        "B": "Linfogranuloma venéreo.",
+        "C": "Cancroide.",
+        "D": "Donovanose."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, esta paciente apresenta uma úlcera genital dolorosa, de fundo “sujo”, com linfonodomegalia inguinal. Esse quadro é \nsugestivo do cancro mole (cancroide). \nO cancro mole, também conhecido como cancroide, é uma infecção sexualmente transmissível causada pela bactéria gram-negativa \nHaemophilus ducreyi. Tem período de incubação curto, três a cinco dias, e logo após surgem pápulas raras que rapidamente se rompem e \nformam úlceras com as seguintes características:\nCANCRO MOLE\nMúltiplas\nDolorosas\nFundo sujo/purulento\nBordas irregulares\nLinfadenopatia dolorosa com fistulização em orifício único\nFigura: Cancro mole.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 1º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n82\nO diagnóstico é feito por meio da microscopia direta, que visualiza os bacilos Gram-negativos dispostos em “cardume de peixe”. O \ntratamento padrão é com azitromicina 1 g, dose única, com tratamento de todos os parceiros sexuais dos 10 dias anteriores ao aparecimento \nda úlcera. \nFigura: microscopia direta mostrando Haemophilus ducreyi (imagem em cardume de peixe).\nCANCRO MOLE OU CANCROIDE\nAgente etiológico: Haemophilus ducreyi\nQuadro clínico: úlceras múltiplas, dolorosas, bordas irregulares e com fundo sujo (purulento); acometimento linfonodal \ncom fistulização em orifício único\nIncubação: 3 a 5 dias\nDiagnóstico: clínico/microscopia com presença de bactérias em disposição “em cardume de peixe”\nTratamento: azitromicina 1 grama VO em dose única\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a lesão da sífilis é indolor com bordas regulares sobrelevadas e com fundo limpo.\nIncorreta a alternativa B, porque o linfogranuloma venéreo costuma se manifestar com linfonodomegalia com fistulização. \nCorreta a alternativa C: a paciente apresenta úlcera característica do cancroide.\nIncorreta a alternativa D, porque a donovanose apresenta úlceras de grande extensão, geralmente bastante “sangrantes”.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+      "imagens": [
+        "data/simulados/imgs/1-simulado/q46_img1.jpeg"
+      ],
+      "_simulado": "1-simulado",
+      "_edicao": "1",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s1-057",
+      "numero": 57,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 32 anos de idade, com diagnóstico de estenose \nmitral e fibrilação atrial, procura a UBS desejando orientação sobre método anticoncepcional. É nuligesta e tem feito uso de camisinha, \nmas refere que o parceiro não quer mais utilizar esse método. Considerando os critérios de elegibilidade para o uso de anticoncepcionais \nda OMS, assinale a alternativa que descreve a melhor opção de método para essa paciente.",
+      "alternativas": {
+        "A": "Anel vaginal.",
+        "B": "Adesivo transdérmico.",
+        "C": "SIU de levonorgestrel.",
+        "D": "Injetável mensal."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, esta é uma questão sobre as contraindicações dos anticoncepcionais hormonais combinados. Veja a seguir:\nCONTRAINDICAÇÕES ABSOLUTAS (CATEGORIA 4) AOS ANTICONCEPCIONAIS HORMONAIS COMBINADOS, DE ACORDO \nCOM OS CRITÉRIOS DE ELEGIBILIDADE DA OMS\n< 6 semanas pós-parto em lactantes\n< 21 dias pós-parto em não lactantes, mas com fatores de risco para TVP\nTVP/TEP atual ou pregressa, independentemente do uso de anticoagulante\nTrombofilia conhecida\nCirurgia maior com imobilização prolongada\nLúpus eritematoso sistêmico com anticorpos antifosfolipídeos positivos ou desconhecidos\nDoença valvular complicada com hipertensão pulmonar, FA ou endocardite\nTabagismo (≥ 15 cigarros/dia + idade ≥ 35 anos)\nEnxaqueca com aura\nDoença cardíaca isquêmica atual ou pregressa\nAcidente vascular cerebral (atual ou pregresso)\nHipertensão arterial sistêmica descompensada (sistólica > 160 ou diastólica > 100 mmHg)\nHipertensão arterial sistêmica associada à doença vascular\nMúltiplos fatores de risco para DCV (idade avançada, tabagismo, DM, HAS)\nDiabetes com nefropatia, retinopatia ou neuropatia, ou diabetes há mais de 20 anos\nCâncer de mama atual\nAdenoma hepatocelular e tumores hepáticos malignos\nCirrose descompensada ou hepatite aguda\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 1º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n102\nCONTRAINDICAÇÕES RELATIVAS (CATEGORIA 3) AOS ANTICONCEPCIONAIS HORMONAIS COMBINADOS, DE ACORDO \nCOM OS CRITÉRIOS DE ELEGIBILIDADE DA OMS\n≥ 6 semanas e < 6 meses pós-parto em lactantes\n< 21 dias pós-parto em não lactantes, mas sem fatores de risco para TVP\n21 a 42 dias pós-parto em não lactantes, mas com fatores de risco para TVP\nTabagismo (< 15 cigarros/dia + idade > 35 anos)\nHipertensão controlada\nHipertensão arterial sistêmica descompensada (sistólica entre 140-159 ou diastólica entre 90-99 mmHg)\nEnxaqueca sem aura (> 35 anos)\nCâncer de mama prévio sem evidência da doença nos últimos 5 anos \nDoença da vesícula biliar atual ou em tratamento medicamentoso\nPassado de colestase\nAlguns anticonvulsivantes, rifampicina e rifabutina (veja na tabela de interações medicamentosas)\nLegenda: TVP - trombose venosa profunda; TEP - tromboembolismo pulmonar; FA - fibrilação atrial; DCV - doença cardiovascular.\nRepare que a paciente apresenta uma doença valvular complicada com fibrilação atrial, ou seja, apresenta contraindicação absoluta \n(categoria 4) para o uso desse tipo de anticoncepcional. \nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente apresenta contraindicação absoluta para o uso de anticoncepcional hormonal combinado e o \nanel vaginal tem, em sua composição, o etinilestradiol e o etonogestrel.\nIncorreta a alternativa B, porque o adesivo transdérmico também é um anticoncepcional hormonal combinado, composto de etinilestradiol \ne norelgestromina.\nCorreta a alternativa C: o SIU de levonorgestrel é um método de progestágeno exclusivo, sendo considerado categoria 2 nesse caso, podendo \nser indicado para a paciente.\nIncorreta a alternativa D, porque o Injetável mensal também é um tipo de método hormonal combinado.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+      "imagens": [],
+      "_simulado": "1-simulado",
+      "_edicao": "1",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s3-025",
+      "numero": 25,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 31 anos de idade, procura atendimento na \nUBS queixando-se de prurido vaginal intenso há 5 dias. Refere piora dos sintomas no período pré-menstrual. Ao exame especular, foi \nobservado corrimento esbranquiçado, grumoso, aderido às paredes vaginais, sem odor fétido. Colo uterino sem alterações. Presença de \nhiperemia vulvar.\nO exame complementar mais indicado e o achado esperado são respectivamente:",
+      "alternativas": {
+        "A": "exame a fresco – protozoários flagelados móveis.",
+        "B": "coloração de Gram – presença de clue cells.",
+        "C": "exame com hidróxido de potássio – hifas e pseudo-hifas.",
+        "D": "cultura bacteriana – Gardnerella vaginalis."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, temos nesse caso um quadro característico de candidíase. O quadro clínico da vulvovaginite fúngica caracteriza-se por \nprurido, de intensidade variável, acompanhado de corrimento vaginal esbranquiçado com aspecto de “leite coalhado” ou “queijo cottage”, \nsem odor associado. Se houver muita inflamação, pode haver queixa de dispareunia, queimação e disúria. Os sintomas geralmente são piores \nna semana que antecede a menstruação.\nAo exame ginecológico, pode ser observada hiperemia vulvar, edema e fissuras. O exame especular mostra mucosa vaginal hiperemiada \ne o corrimento vaginal aderido às paredes vaginais.\nNo consultório, além da anamnese e da avaliação do corrimento vaginal, também pode ser realizada a medida do pH vaginal e a \nmicroscopia.\n1. Anamnese: além da queixa do corrimento vaginal e de prurido, devem ser avaliadas a ciclicidade do corrimento (a candidíase \ntende a iniciar os sintomas na fase que antecede o período menstrual) e os fatores de risco para a doença.\n2. pH vaginal: o pH vaginal da candidíase é ácido, quase sempre abaixo de 4,5.\n3. KOH 10%: nesse caso, o teste das aminas é negativo.\n4. Microscopia: a secreção vaginal deve ser colocada em, no mínimo, duas lâminas, uma com solução salina e outra com KOH 10%. \nA preparação com KOH destrói os elementos celulares e facilita o reconhecimento do fungo (leveduras, hifas e pseudo-hifas). No \nentanto, a microscopia é negativa em até 50% dos pacientes com candidíase vulvovaginal confirmada por cultura.\n5. Cultura: a secreção vaginal é inoculada no meio de ágar Sabouraud ou meio de Nickerson. A cultura está recomendada nos \nseguintes casos:\na) \nAlta suspeita de candidíase com microscopia negativa.\nO CDC recomenda que, nesse grupo de pacientes, caso a cultura não possa ser realizada, deve ser feito o tratamento empírico.\nb) Mulheres com sintomas persistentes ou recorrentes (para avaliar a possibilidade de espécies não albicans).\nA cultura não está recomendada em pacientes sem sintomas, pois a Candida sp. cresce em 10-20% das mulheres saudáveis.\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque o encontro de protozoários flagelados móveis (Trichomonas vaginalis) ocorre nos casos de tricomoníase e \npaciente apresentaria quadro de corrimento amarelo esverdeado. \n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n41\nIncorreta a alternativa B, porque a presença de clue cells ocorre nos casos de vaginose bacteriana e a paciente apresentaria corrimento \nbranco acinzentado de mau odor e sem inflamação local.\nCorreta a alternativa C: esse é o achado esperado nos quadros de candidíase vaginal. \nIncorreta a alternativa D, porque esse achado é associado à vaginose bacteriana, não à candidíase vulvovaginal.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+      "imagens": [],
+      "_simulado": "3-simulado",
+      "_edicao": "3",
+      "subarea": "Ginecologia Geral",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s5-026",
+      "numero": 26,
+      "area": "Ginecologia",
+      "enunciado": "Uma mulher de 46 anos procurou uma UBS, referindo um \n“caroço na mama direita”. Ao exame físico mamário: nódulo medindo 1 cm, indolor, no quadrante superolateral da mama direita. Axilas \nsem linfonodomegalias. Foi realizada biópsia do nódulo que resultou em carcinoma invasivo do tipo não especial, subtipo molecular triplo \nnegativo. A paciente foi submetida à quadrantectomia e biópsia do linfonodo sentinela, cujo laudo histopatológico confirmou carcinoma \nductal invasivo, com 2 linfonodos sentinelas livres de neoplasia maligna, receptores hormonais (progesterona e estrogênio) negativos e \nHER2 negativo.\nAssinale a alternativa que descreve o fator de pior prognóstico para o caso dessa paciente.",
+      "alternativas": {
+        "A": "Carcinoma ductal invasivo (tipo histológico do tumor).",
+        "B": "Linfonodos axilares livres de neoplasia.",
+        "C": "Estadiamento (tamanho do tumor).",
+        "D": "Subtipo molecular (triplo negativo)."
+      },
+      "correta": "B",
+      "explicacao": "Estrategista, os fatores prognósticos do câncer de mama são:\nFatores Prognósticos do Câncer de Mama\nIdade da paciente (pacientes jovens têm pior prognóstico)\nRaça (mulheres negras têm pior prognóstico)\nTamanho do tumor/grau histológico\nStatus linfonodal (comprometimento dos linfonodos)\nPresença de receptores hormonais de estrógeno/progesterona (RE/RP)\nSuperexpressão do HER 2\nKi67 (marcador de proliferação celular)\nPresença de metástases\nTabela: Fatores prognósticos do câncer de mama\nO principal fator prognóstico isolado do câncer de mama é o comprometimento dos linfonodos axilares.\nA presença de receptores hormonais mostra que o tumor é mais diferenciado e mais parecido com o tecido mamário normal, apresentando \num melhor prognóstico. A superexpressão do Her2 confere ao tumor uma capacidade maior de proliferação, por isso está relacionada com \num pior prognóstico.\nAgora, o subtipo molecular triplo negativo é o de pior prognóstico, devido ao seu comportamento biológico agressivo, sobrevida geral limitada \ne alta mortalidade.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 5º Simulado Residência Médica - ENAMED\nRESIDÊNCIA MÉDICA\n51\nSubtipos moleculares de acordo com o Perfil Imuno-histoquímico\nLuminal A\nReceptor de Estrógeno (RE) e Progesterona (RP) \npositivo(s); HER 2 negativo; Ki-67 < 14-20%.\nLuminal B\nReceptor de Estrógeno positivo; HER 2 positivo ou \nnegativo, RP < 20% e/ou Ki-67 > 14-20%.\nHER 2 (puro)\nHER 2 positivo; RE e RP negativos\nTriplo negativo\nReceptores de Estrógeno e Progesterona negativos e \nHER 2 negativo\nTabela: Classificação molecular do câncer de mama\nCada subtipo molecular apresenta um diferente comportamento biológico, sendo que os tumores do subtipo luminal A apresentam o melhor \nprognóstico e os tumores triplo negativos (também chamados de “basaloides”) apresentam o pior prognóstico. \nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque o carcinoma ductal invasivo (tipo histológico do tumor), não é o fator de pior prognóstico para esse caso. \nEsse tipo histológico é o tipo mais frequente de câncer de mama, representando cerca de 80% dos casos.\nIncorreta a alternativa B, porque a ausência de linfonodos axilares comprometidos pela neoplasia é um fator de bom prognóstico.\nIncorreta a alternativa C, porque, nesse caso, temos um tumor pequeno, de 1 cm de diâmetro, considerado T1, não sendo um fator de mau \nprognóstico. \nCorreta a alternativa D: o subtipo molecular triplo negativo é o subtipo de pior prognóstico.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "imagens": [],
+      "_simulado": "5-simulado",
+      "_edicao": "5",
+      "subarea": "Oncologia Ginecológica",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s9-033",
+      "numero": 33,
+      "area": "Ginecologia",
+      "enunciado": "Mulher de 22 anos de idade, usuária de dispositivo \nintrauterino (DIU) como método contraceptivo. Procurou a UBS queixando-se de prurido e secreção vaginal. Refere que o corrimento é \namarelado. Ao exame especular, foi observado hiperemia dos órgãos genitais externos e de parede vaginal, com presença de secreção \nespessa e aderida às paredes vaginais.\nAssinale a alternativa que descreve o exame indicado e o agente etiológico.",
+      "alternativas": {
+        "A": "Cultura de secreção vaginal e clue cells.",
+        "B": "Exame de secreção vaginal e protozoários flagelados móveis.",
+        "C": "Exame de secreção vaginal e hifas e esporos.",
+        "D": "Cultura de secreção vaginal e bacilos de Doderlein."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, a candidíase vulvovaginal (CVV) é a segunda causa mais comum de vulvovaginites (ficando atrás apenas da vaginose bacteriana) \ne é responsável por um terço dos casos de vulvovaginites. A prevalência real dessa doença é difícil de determinar, pois a Candida é encontrada \nna flora vaginal de 20-25% das mulheres saudáveis no menacme.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n54\nRESIDÊNCIA MÉDICA\nAcredita-se que aproximadamente 75% das mulheres adultas apresentem pelo menos um episódio de vulvovaginite fúngica na vida e que \n5-10% das pacientes apresentem recorrência (4 ou mais infecções em 12 meses). Candida albicans é o agente etiológico da CVV em 80-92% \ndos casos, podendo o restante ser devido às espécies não albicans (glabrata, krusei, parapsilosis) e Saccharomyces cerevisae.\nMICROBIOLOGIA E FISIOPATOLOGIA \nCandida sp. é um fungo de forma ovalada que se reproduz por brotamento e, sob certas circunstâncias, pode assumir forma tubular ou \nde hifa. Esse fungo, por si só, não costuma se apresentar como agente agressor, vivendo muitas vezes como comensal. Entretanto, tem a \nhabilidade de tirar proveito das alterações do meio vaginal do hospedeiro para agredir a mucosa e gerar doença.\nOs organismos de Candida provavelmente acessam a vagina através da migração do reto pela área perianal. Menos comumente, a fonte de \ninfecção é sexual ou recidiva de um reservatório vaginal. \nA doença sintomática está associada ao crescimento excessivo do organismo e a aderência às células epiteliais superficiais da parede vaginal. \nAs espécies albicans aderem mais efetivamente que as não albicans. O mecanismo pelo qual as espécies de Candida se transformam da \ncolonização assintomática em uma forma invasiva, causando doença vulvovaginal sintomática, é complexo, envolvendo respostas inflamatórias \ndo hospedeiro e fatores de virulência da levedura. \nO quadro clínico da vulvovaginite fúngica caracteriza-se por prurido, de intensidade variável, acompanhado de corrimento vaginal \nesbranquiçado (ou amarelado) com aspecto de “leite coalhado” ou “queijo cottage”, sem odor associado. Se houver muita inflamação, \npode haver queixa de dispareunia, queimação e disúria. Os sintomas geralmente são piores na semana que antecede a menstruação.\nAo exame ginecológico, pode ser observada hiperemia vulvar, edema e fissuras. O exame especular mostra mucosa vaginal hiperemiada e o \ncorrimento vaginal aderido às paredes vaginais. \nNo consultório, além da anamnese e da avaliação do corrimento vaginal, também pode ser realizada a medida do pH vaginal e a microscopia.\n1. Anamnese: além da queixa do corrimento vaginal e de prurido, devem ser avaliados a ciclicidade do corrimento (a candidíase tende \na iniciar os sintomas na fase que antecede o período menstrual) e os fatores de risco para a doença.\n2. pH vaginal: o pH vaginal da candidíase é ácido, quase sempre abaixo de 4,5.\n3. KOH 10%: nesse caso, o teste das aminas é negativo.\n4. Microscopia: a secreção vaginal deve ser colocada em, no mínimo, duas lâminas, uma com solução salina e outra com KOH 10%. A \npreparação com KOH destrói os elementos celulares e facilita o reconhecimento do fungo (leveduras, hifas e pseudohifas). No entanto, \na microscopia é negativa em até 50% dos pacientes com candidíase vulvovaginal confirmada por cultura.\n5. Cultura: a secreção vaginal é inoculada no meio de ágar Sabouraud ou meio de Nickerson. A cultura está recomendada nos seguintes \ncasos:\na. Alta suspeita de candidíase com microscopia negativa.\nO CDC recomenda que, nesse grupo de pacientes, caso a cultura não possa ser realizada, deve ser feito o tratamento empírico.\nb. Mulheres com sintomas persistentes ou recorrentes (para avaliar a possibilidade de espécies não albicans).\nA cultura não está recomendada em pacientes sem sintomas, pois a Candida sp. cresce em 10-20% das mulheres saudáveis.\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque as clue cells (células alvo) são encontradas nos casos de vaginose bacteriana. \nIncorreta a alternativa B, porque o protozoário flagelado móvel (Trichomonas vaginalis) é o agente etiológico da tricomoníase.\nCorreta a alternativa C: trata-se de quadro de candidíase vaginal, sendo esperado o encontro de hifas e esporos (fungos) no exame de \nsecreção vaginal.\nIncorreta a alternativa D, porque esse é o resultado esperado para conteúdo vaginal fisiológico. \n\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n55\nRESIDÊNCIA MÉDICA",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "imagens": [],
+      "_simulado": "9-simulado",
+      "_edicao": "9",
+      "subarea": "Ginecologia Geral",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s9-098",
+      "numero": 98,
+      "area": "Ginecologia",
+      "enunciado": "Adolescente de 14 anos de idade comparece à UBS \nacompanhada da mãe. Está bastante preocupada porque todas as suas amigas já menstruaram e ela ainda não. Sem comorbidades. \nExame físico: estatura = 1,58 m, peso = 55 kg, mamas M4 de Tanner, pelos pubianos P4 de Tanner. Qual é a conduta indicada?",
+      "alternativas": {
+        "A": "Seguimento clínico.",
+        "B": "Solicitar ressonância magnética de sela túrcica.",
+        "C": "Encaminhar para a ginecologia endócrina.",
+        "D": "Dosagem de GnRH."
+      },
+      "correta": "A",
+      "explicacao": "Estrategista, a amenorreia primária é definida como ausência de menstruação (menarca) aos 14 anos associada à falha no desenvolvimento \nde caracteres sexuais ou até 16 anos, mesmo com desenvolvimento de caracteres sexuais (mamas e pelos). A média de idade da menarca é \nde 12 anos. Ela ocorre quando há o amadurecimento do eixo HHO.\nDIVERGÊNCIAS NA DEFINIÇÃO DE AMENORREIA PRIMÁRIA\nA definição acima é adotada pelo Tratado de Ginecologia do Williams. Já o Tratado de Ginecologia \nda Febrasgo (Federação Brasileira das Associações de Ginecologia e Obstetrícia) e o livro do Berek \ne Novak consideram a amenorreia primária como ausência de menstruação aos 13 anos, quando \nnão há caracteres sexuais secundários, ou aos 15 anos, mesmo na presença de caracteres sexuais \nsecundários.\nO Tratado da Febrasgo também acrescenta algumas outras situações que merecem investigação:\n1. A menarca não ocorreu cinco anos após o início do desenvolvimento das mamas, se isso se deu antes dos 10 anos de \nidade.\n2. Meninas com idade inferior a 15 anos e com caracteres sexuais secundários presentes que não apresentaram a \nmenarca e apresentam dor pélvica cíclica (risco de obstrução do trato genital).\n3. Meninas com estigmas de síndrome de Turner devem ser investigadas em qualquer idade.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED\n166\nRESIDÊNCIA MÉDICA\nA puberdade normal nas meninas ocorre dos 8-13 anos. \nA primeira característica sexual secundária mais detectável no exame físico na maioria das meninas é o desenvolvimento mamário/areolar \n(telarca), embora cerca de 15% possua pelos pubianos como manifestação inicial (pubarca). Logo após vem a aceleração do crescimento e, \npor último, a menarca. A menarca ocorre, em média, 2 a 2,5 anos após o início da puberdade.\nSEQUÊNCIA DO DESENVOLVIMENTO PUBERAL NORMAL:\nTelarca -> Pubarca -> Estirão do crescimento -> Menarca\nAgora, vamos analisar as alternativas:\nCorreta a alternativa A: trata-se de paciente de 14 anos com caracteres sexuais secundários (mamas M4 e pelos P4), não sendo considerado \num caso de amenorreia primária. \nConsideramos amenorreia primária se a paciente tiver caracteres sexuais secundários e ainda não tiver menstruado na idade de 16 anos \n(Williams) ou 15 anos (FEBRASGO/Berek & Novak).\nIncorreta a alternativa B, porque não há indicação de prosseguir com a investigação da paciente com qualquer exame subsidiário. \nIncorreta a alternativa C, porque a paciente não apresenta quadro de amenorreia primária, não sendo necessário encaminhar para avaliação \nde especialista. \nIncorreta a alternativa D, porque não costumamos realizar a dosagem de GnRH para investigar a amenorreia primária (nem nos casos de \namenorreia primária mesmo!).",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+      "imagens": [
+        "data/simulados/imgs/9-simulado/q98_img1.jpeg"
+      ],
+      "_simulado": "9-simulado",
+      "_edicao": "9",
+      "subarea": "Ginecologia Geral",
+      "_area_slug": "ginecologia",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     }
   ]
 }
