@@ -2435,7 +2435,9 @@
       "ano": 2024,
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2024-0061_102_0.png"
+      ],
       "_id_original": "4000205801",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2459,7 +2461,9 @@
       "ano": 2024,
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2024-0062_102_0.png"
+      ],
       "_id_original": "4000205802",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2483,7 +2487,9 @@
       "ano": 2024,
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2024-0063_104_0.png"
+      ],
       "_id_original": "4000205803",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2507,7 +2513,9 @@
       "ano": 2024,
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2024-0069_112_0.jpeg"
+      ],
       "_id_original": "4000205809",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2555,7 +2563,9 @@
       "ano": 2024,
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2024-0077_124_0.png"
+      ],
       "_id_original": "4000205817",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2603,7 +2613,9 @@
       "ano": 2024,
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2024-0091_145_0.png"
+      ],
       "_id_original": "4000205831",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2627,7 +2639,10 @@
       "ano": 2024,
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2024-0093_148_0.png",
+        "pv-ena-2024-0093_149_0.png"
+      ],
       "_id_original": "4000205833",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2651,7 +2666,10 @@
       "ano": 2024,
       "fonte": "ENARE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2024-0094_149_0.png",
+        "pv-ena-2024-0094_151_0.png"
+      ],
       "_id_original": "4000205834",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2675,7 +2693,9 @@
       "ano": 2025,
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2025-0109_179_0.png"
+      ],
       "_id_original": "4000227409",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2723,7 +2743,9 @@
       "ano": 2025,
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2025-0125_205_0.png"
+      ],
       "_id_original": "4000227393",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2747,7 +2769,10 @@
       "ano": 2025,
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2025-0127_210_0.jpeg",
+        "pv-ena-2025-0127_211_0.jpeg"
+      ],
       "_id_original": "4000227391",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2771,7 +2796,10 @@
       "ano": 2025,
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2025-0129_213_0.png",
+        "pv-ena-2025-0129_214_0.png"
+      ],
       "_id_original": "4000227389",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2819,7 +2847,9 @@
       "ano": 2025,
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2025-0161_272_0.jpeg"
+      ],
       "_id_original": "4000227357",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2843,7 +2873,10 @@
       "ano": 2025,
       "fonte": "ENARE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ena-2025-0171_294_0.jpeg",
+        "pv-ena-2025-0171_295_0.png"
+      ],
       "_id_original": "4000227347",
       "_pdf": "1. ENARE.pdf"
     },
@@ -2867,7 +2900,10 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0061_129_0.png",
+        "pv-pe-2024-0061_130_0.png"
+      ],
       "_id_original": "4000212244",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -2891,7 +2927,14 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0062_131_0.png",
+        "pv-pe-2024-0062_132_0.png",
+        "pv-pe-2024-0062_133_0.jpeg",
+        "pv-pe-2024-0062_134_0.jpeg",
+        "pv-pe-2024-0062_134_1.jpeg",
+        "pv-pe-2024-0062_135_0.jpeg"
+      ],
       "_id_original": "4000212245",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -2915,7 +2958,9 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0064_138_0.png"
+      ],
       "_id_original": "4000212249",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -2939,7 +2984,10 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0065_138_0.png",
+        "pv-pe-2024-0065_139_0.png"
+      ],
       "_id_original": "4000212250",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -2963,7 +3011,9 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0067_143_0.png"
+      ],
       "_id_original": "4000212259",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -2987,7 +3037,10 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0068_143_0.png",
+        "pv-pe-2024-0068_144_0.png"
+      ],
       "_id_original": "4000212260",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3011,7 +3064,9 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0069_144_0.png"
+      ],
       "_id_original": "4000212261",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3035,7 +3090,9 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0070_147_0.png"
+      ],
       "_id_original": "4000212262",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3059,7 +3116,10 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0071_147_0.png",
+        "pv-pe-2024-0071_148_0.png"
+      ],
       "_id_original": "4000212263",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3083,7 +3143,9 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0072_151_0.png"
+      ],
       "_id_original": "4000212264",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3107,7 +3169,9 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0074_153_0.png"
+      ],
       "_id_original": "4000212266",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3131,7 +3195,9 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0075_155_0.png"
+      ],
       "_id_original": "4000212267",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3155,7 +3221,9 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0076_157_0.png"
+      ],
       "_id_original": "4000212268",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3179,7 +3247,12 @@
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2024-0078_159_0.png",
+        "pv-pe-2024-0078_160_0.png",
+        "pv-pe-2024-0078_160_1.png",
+        "pv-pe-2024-0078_161_0.jpeg"
+      ],
       "_id_original": "4000212270",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3203,7 +3276,10 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0104_205_0.png",
+        "pv-pe-2025-0104_205_1.jpeg"
+      ],
       "_id_original": "4000235734",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3227,7 +3303,9 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0125_248_0.png"
+      ],
       "_id_original": "4000235713",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3251,7 +3329,9 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0126_252_0.png"
+      ],
       "_id_original": "4000235712",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3275,7 +3355,9 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0128_255_0.png"
+      ],
       "_id_original": "4000235710",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3299,7 +3381,9 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0129_258_0.jpeg"
+      ],
       "_id_original": "4000235709",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3323,7 +3407,10 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0133_265_0.png",
+        "pv-pe-2025-0133_265_1.png"
+      ],
       "_id_original": "4000235705",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3347,7 +3434,13 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0134_267_0.png",
+        "pv-pe-2025-0134_268_0.png",
+        "pv-pe-2025-0134_268_1.jpeg",
+        "pv-pe-2025-0134_269_0.jpeg",
+        "pv-pe-2025-0134_269_1.png"
+      ],
       "_id_original": "4000235704",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3419,7 +3512,10 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0158_317_0.png",
+        "pv-pe-2025-0158_318_0.png"
+      ],
       "_id_original": "4000235663",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3443,7 +3539,10 @@
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-pe-2025-0193_405_0.jpeg",
+        "pv-pe-2025-0193_405_1.jpeg"
+      ],
       "_id_original": "4000235607",
       "_pdf": "3. SES-PE.pdf"
     },
@@ -3489,7 +3588,10 @@
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-mg-2024-0003_5_0.png",
+        "pv-mg-2024-0003_5_1.png"
+      ],
       "_id_original": "4000210992",
       "_pdf": "4. PSU-MG.pdf"
     },
@@ -3512,7 +3614,9 @@
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-mg-2024-0007_12_0.png"
+      ],
       "_id_original": "4000210996",
       "_pdf": "4. PSU-MG.pdf"
     },
@@ -3558,7 +3662,9 @@
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-mg-2024-0011_17_0.png"
+      ],
       "_id_original": "4000211000",
       "_pdf": "4. PSU-MG.pdf"
     },
@@ -3581,7 +3687,11 @@
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-mg-2024-0013_19_0.jpeg",
+        "pv-mg-2024-0013_21_0.png",
+        "pv-mg-2024-0013_21_1.png"
+      ],
       "_id_original": "4000211002",
       "_pdf": "4. PSU-MG.pdf"
     },
@@ -3604,7 +3714,9 @@
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-mg-2025-0084_154_0.png"
+      ],
       "_id_original": "4000233855",
       "_pdf": "4. PSU-MG.pdf"
     },
@@ -3650,7 +3762,10 @@
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-mg-2025-0106_203_0.png",
+        "pv-mg-2025-0106_203_1.jpeg"
+      ],
       "_id_original": "4000233833",
       "_pdf": "4. PSU-MG.pdf"
     },
@@ -3719,7 +3834,9 @@
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-mg-2025-0123_232_0.png"
+      ],
       "_id_original": "4000233816",
       "_pdf": "4. PSU-MG.pdf"
     },
@@ -3880,7 +3997,10 @@
       "ano": 2024,
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2024-0052_113_0.png",
+        "pv-amr-2024-0052_116_0.png"
+      ],
       "_id_original": "4000209447",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -3926,7 +4046,10 @@
       "ano": 2024,
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2024-0066_135_0.png",
+        "pv-amr-2024-0066_136_0.png"
+      ],
       "_id_original": "4000209472",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -3949,7 +4072,10 @@
       "ano": 2024,
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2024-0067_136_0.png",
+        "pv-amr-2024-0067_137_0.png"
+      ],
       "_id_original": "4000209473",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4041,7 +4167,10 @@
       "ano": 2024,
       "fonte": "AMRIGS 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2024-0077_147_0.jpeg",
+        "pv-amr-2024-0077_148_0.jpeg"
+      ],
       "_id_original": "4000209483",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4087,7 +4216,9 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0106_201_0.png"
+      ],
       "_id_original": "4000230581",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4180,7 +4311,11 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0128_236_0.png",
+        "pv-amr-2025-0128_238_0.jpeg",
+        "pv-amr-2025-0128_238_1.jpeg"
+      ],
       "_id_original": "4000230547",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4203,7 +4338,13 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0130_242_0.png",
+        "pv-amr-2025-0130_242_1.jpeg",
+        "pv-amr-2025-0130_243_0.jpeg",
+        "pv-amr-2025-0130_243_1.png",
+        "pv-amr-2025-0130_244_0.png"
+      ],
       "_id_original": "4000230544",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4226,7 +4367,9 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0134_249_0.png"
+      ],
       "_id_original": "4000230537",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4249,7 +4392,9 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0135_251_0.jpeg"
+      ],
       "_id_original": "4000230536",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4272,7 +4417,10 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0136_253_0.jpeg",
+        "pv-amr-2025-0136_253_1.jpeg"
+      ],
       "_id_original": "4000230534",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4341,7 +4489,10 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0143_263_0.png",
+        "pv-amr-2025-0143_263_1.png"
+      ],
       "_id_original": "4000230524",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4364,7 +4515,10 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0151_277_0.png",
+        "pv-amr-2025-0151_278_0.png"
+      ],
       "_id_original": "4000230512",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4387,7 +4541,12 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0169_321_0.png",
+        "pv-amr-2025-0169_322_0.png",
+        "pv-amr-2025-0169_323_0.jpeg",
+        "pv-amr-2025-0169_324_0.png"
+      ],
       "_id_original": "4000230470",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4410,7 +4569,9 @@
       "ano": 2025,
       "fonte": "AMRIGS 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-amr-2025-0174_330_0.png"
+      ],
       "_id_original": "4000230465",
       "_pdf": "5. AMRIGS.pdf"
     },
@@ -4433,7 +4594,11 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0060_118_0.jpeg",
+        "pv-ufr-2024-0060_119_0.png",
+        "pv-ufr-2024-0060_119_1.png"
+      ],
       "_id_original": "4000208981",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4456,7 +4621,9 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0066_127_0.jpeg"
+      ],
       "_id_original": "4000209137",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4479,7 +4646,10 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0077_146_0.png",
+        "pv-ufr-2024-0077_147_0.jpeg"
+      ],
       "_id_original": "4000209148",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4525,7 +4695,10 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0097_181_0.png",
+        "pv-ufr-2024-0097_181_1.png"
+      ],
       "_id_original": "4000209168",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4571,7 +4744,9 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0104_190_0.png"
+      ],
       "_id_original": "4000209175",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4594,7 +4769,11 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0105_190_0.png",
+        "pv-ufr-2024-0105_191_0.png",
+        "pv-ufr-2024-0105_192_0.png"
+      ],
       "_id_original": "4000209176",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4640,7 +4819,10 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0109_197_0.png",
+        "pv-ufr-2024-0109_197_1.png"
+      ],
       "_id_original": "4000209180",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4663,7 +4845,9 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0113_203_0.png"
+      ],
       "_id_original": "4000209184",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4686,7 +4870,10 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0114_206_0.jpeg",
+        "pv-ufr-2024-0114_207_0.png"
+      ],
       "_id_original": "4000209185",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4732,7 +4919,9 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0119_215_0.png"
+      ],
       "_id_original": "4000209190",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4755,7 +4944,13 @@
       "ano": 2024,
       "fonte": "UFRJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2024-0123_224_0.png",
+        "pv-ufr-2024-0123_224_1.png",
+        "pv-ufr-2024-0123_225_0.png",
+        "pv-ufr-2024-0123_226_0.png",
+        "pv-ufr-2024-0123_227_0.png"
+      ],
       "_id_original": "4000209194",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4801,7 +4996,11 @@
       "ano": 2025,
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2025-0170_299_0.png",
+        "pv-ufr-2025-0170_300_0.png",
+        "pv-ufr-2025-0170_301_0.png"
+      ],
       "_id_original": "4000231466",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4824,7 +5023,11 @@
       "ano": 2025,
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2025-0174_305_0.png",
+        "pv-ufr-2025-0174_305_1.png",
+        "pv-ufr-2025-0174_306_0.png"
+      ],
       "_id_original": "4000231462",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4870,7 +5073,9 @@
       "ano": 2025,
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2025-0182_319_0.png"
+      ],
       "_id_original": "4000231454",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4893,7 +5098,9 @@
       "ano": 2025,
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2025-0183_322_0.png"
+      ],
       "_id_original": "4000231453",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4916,7 +5123,9 @@
       "ano": 2025,
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2025-0184_322_0.png"
+      ],
       "_id_original": "4000231452",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4939,7 +5148,10 @@
       "ano": 2025,
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2025-0193_335_0.jpeg",
+        "pv-ufr-2025-0193_337_0.png"
+      ],
       "_id_original": "4000231443",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -4962,7 +5174,9 @@
       "ano": 2025,
       "fonte": "UFRJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-ufr-2025-0194_337_0.png"
+      ],
       "_id_original": "4000231442",
       "_pdf": "6. UFRJ.pdf"
     },
@@ -5123,7 +5337,9 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0031_59_0.png"
+      ],
       "_id_original": "4000209012",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5146,7 +5362,11 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0052_94_0.png",
+        "pv-uer-2024-0052_95_0.png",
+        "pv-uer-2024-0052_96_0.png"
+      ],
       "_id_original": "4000209033",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5192,7 +5412,10 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0059_107_0.png",
+        "pv-uer-2024-0059_110_0.png"
+      ],
       "_id_original": "4000209040",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5215,7 +5438,9 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0060_110_0.png"
+      ],
       "_id_original": "4000209041",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5261,7 +5486,11 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0062_113_0.png",
+        "pv-uer-2024-0062_114_0.png",
+        "pv-uer-2024-0062_114_1.jpeg"
+      ],
       "_id_original": "4000209043",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5284,7 +5513,9 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0063_116_0.png"
+      ],
       "_id_original": "4000209044",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5307,7 +5538,9 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0066_119_0.png"
+      ],
       "_id_original": "4000209047",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5330,7 +5563,10 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0069_123_0.png",
+        "pv-uer-2024-0069_123_1.png"
+      ],
       "_id_original": "4000209050",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5376,7 +5612,9 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0072_127_0.png"
+      ],
       "_id_original": "4000209053",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5399,7 +5637,10 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0075_130_0.jpeg",
+        "pv-uer-2024-0075_131_0.png"
+      ],
       "_id_original": "4000209056",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5445,7 +5686,10 @@
       "ano": 2024,
       "fonte": "UERJ 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2024-0098_172_0.jpeg",
+        "pv-uer-2024-0098_173_0.png"
+      ],
       "_id_original": "4000209079",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5468,7 +5712,9 @@
       "ano": 2025,
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2025-0105_183_0.png"
+      ],
       "_id_original": "4000232054",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5583,7 +5829,10 @@
       "ano": 2025,
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2025-0126_215_0.png",
+        "pv-uer-2025-0126_215_1.jpeg"
+      ],
       "_id_original": "4000232026",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5629,7 +5878,9 @@
       "ano": 2025,
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2025-0139_233_0.jpeg"
+      ],
       "_id_original": "4000232005",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5652,7 +5903,9 @@
       "ano": 2025,
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2025-0141_237_0.png"
+      ],
       "_id_original": "4000232000",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5675,7 +5928,9 @@
       "ano": 2025,
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2025-0150_251_0.png"
+      ],
       "_id_original": "4000231987",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5698,7 +5953,10 @@
       "ano": 2025,
       "fonte": "UERJ 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uer-2025-0151_251_0.png",
+        "pv-uer-2025-0151_252_0.png"
+      ],
       "_id_original": "4000231979",
       "_pdf": "7. UERJ.pdf"
     },
@@ -5790,7 +6048,9 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0043_81_0.png"
+      ],
       "_id_original": "4000208285",
       "_pdf": "8. HCPA.pdf"
     },
@@ -5813,7 +6073,9 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0047_89_0.jpeg"
+      ],
       "_id_original": "4000208289",
       "_pdf": "8. HCPA.pdf"
     },
@@ -5836,7 +6098,10 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0048_89_0.jpeg",
+        "pv-hcp-2024-0048_91_0.png"
+      ],
       "_id_original": "4000208290",
       "_pdf": "8. HCPA.pdf"
     },
@@ -5859,7 +6124,9 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0049_93_0.jpeg"
+      ],
       "_id_original": "4000208291",
       "_pdf": "8. HCPA.pdf"
     },
@@ -5905,7 +6172,9 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0057_107_0.png"
+      ],
       "_id_original": "4000208307",
       "_pdf": "8. HCPA.pdf"
     },
@@ -5928,7 +6197,9 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0059_112_0.jpeg"
+      ],
       "_id_original": "4000208309",
       "_pdf": "8. HCPA.pdf"
     },
@@ -5951,7 +6222,10 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0065_120_0.png",
+        "pv-hcp-2024-0065_122_0.png"
+      ],
       "_id_original": "4000208324",
       "_pdf": "8. HCPA.pdf"
     },
@@ -5974,7 +6248,10 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0073_134_0.png",
+        "pv-hcp-2024-0073_134_1.png"
+      ],
       "_id_original": "4000208332",
       "_pdf": "8. HCPA.pdf"
     },
@@ -5997,7 +6274,9 @@
       "ano": 2024,
       "fonte": "HCPA 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2024-0075_136_0.png"
+      ],
       "_id_original": "4000208339",
       "_pdf": "8. HCPA.pdf"
     },
@@ -6020,7 +6299,12 @@
       "ano": 2025,
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2025-0142_265_0.png",
+        "pv-hcp-2025-0142_266_0.png",
+        "pv-hcp-2025-0142_266_1.png",
+        "pv-hcp-2025-0142_267_0.png"
+      ],
       "_id_original": "4000230272",
       "_pdf": "8. HCPA.pdf"
     },
@@ -6089,7 +6373,10 @@
       "ano": 2025,
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2025-0157_290_0.jpeg",
+        "pv-hcp-2025-0157_290_1.jpeg"
+      ],
       "_id_original": "4000230257",
       "_pdf": "8. HCPA.pdf"
     },
@@ -6112,7 +6399,9 @@
       "ano": 2025,
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2025-0158_292_0.jpeg"
+      ],
       "_id_original": "4000230256",
       "_pdf": "8. HCPA.pdf"
     },
@@ -6135,7 +6424,9 @@
       "ano": 2025,
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2025-0159_292_0.jpeg"
+      ],
       "_id_original": "4000230255",
       "_pdf": "8. HCPA.pdf"
     },
@@ -6205,7 +6496,9 @@
       "ano": 2025,
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2025-0171_309_0.jpeg"
+      ],
       "_id_original": "4000230243",
       "_pdf": "8. HCPA.pdf"
     },
@@ -6228,7 +6521,10 @@
       "ano": 2025,
       "fonte": "HCPA 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hcp-2025-0182_331_0.png",
+        "pv-hcp-2025-0182_333_0.png"
+      ],
       "_id_original": "4000230231",
       "_pdf": "8. HCPA.pdf"
     },
@@ -6274,7 +6570,10 @@
       "ano": 2024,
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2024-0050_105_0.png",
+        "pv-fam-2024-0050_106_0.png"
+      ],
       "_id_original": "4000210514",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6297,7 +6596,9 @@
       "ano": 2024,
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2024-0052_109_0.png"
+      ],
       "_id_original": "4000210516",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6320,7 +6621,10 @@
       "ano": 2024,
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2024-0053_111_0.png",
+        "pv-fam-2024-0053_111_1.png"
+      ],
       "_id_original": "4000210517",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6343,7 +6647,11 @@
       "ano": 2024,
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2024-0055_114_0.png",
+        "pv-fam-2024-0055_115_0.png",
+        "pv-fam-2024-0055_116_0.png"
+      ],
       "_id_original": "4000210519",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6366,7 +6674,10 @@
       "ano": 2024,
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2024-0056_116_0.png",
+        "pv-fam-2024-0056_117_0.png"
+      ],
       "_id_original": "4000210520",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6389,7 +6700,9 @@
       "ano": 2024,
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2024-0057_117_0.png"
+      ],
       "_id_original": "4000210521",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6435,7 +6748,9 @@
       "ano": 2024,
       "fonte": "FAMERP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2024-0063_126_0.png"
+      ],
       "_id_original": "4000210527",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6504,7 +6819,10 @@
       "ano": 2025,
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2025-0083_173_0.png",
+        "pv-fam-2025-0083_173_1.png"
+      ],
       "_id_original": "4000234573",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6527,7 +6845,9 @@
       "ano": 2025,
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2025-0138_290_0.png"
+      ],
       "_id_original": "4000234325",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6573,7 +6893,10 @@
       "ano": 2025,
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2025-0148_307_0.png",
+        "pv-fam-2025-0148_308_0.png"
+      ],
       "_id_original": "4000234303",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6596,7 +6919,9 @@
       "ano": 2025,
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2025-0151_314_0.jpeg"
+      ],
       "_id_original": "4000234298",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6619,7 +6944,9 @@
       "ano": 2025,
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2025-0158_324_0.png"
+      ],
       "_id_original": "4000234284",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6665,7 +6992,9 @@
       "ano": 2025,
       "fonte": "FAMERP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-fam-2025-0160_329_0.png"
+      ],
       "_id_original": "4000234281",
       "_pdf": "9. FAMERP.pdf"
     },
@@ -6713,7 +7042,10 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0018_46_0.png",
+        "pv-sp-2024-0018_47_0.png"
+      ],
       "_id_original": "4000213373",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6761,7 +7093,9 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0036_85_0.png"
+      ],
       "_id_original": "4000213391",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6785,7 +7119,9 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0038_88_0.png"
+      ],
       "_id_original": "4000213393",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6809,7 +7145,10 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0040_92_0.png",
+        "pv-sp-2024-0040_93_0.png"
+      ],
       "_id_original": "4000213395",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6833,7 +7172,10 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0063_132_0.jpeg",
+        "pv-sp-2024-0063_132_1.png"
+      ],
       "_id_original": "4000213418",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6857,7 +7199,10 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0064_133_0.png",
+        "pv-sp-2024-0064_134_0.png"
+      ],
       "_id_original": "4000213419",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6881,7 +7226,11 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0065_136_0.png",
+        "pv-sp-2024-0065_137_0.png",
+        "pv-sp-2024-0065_137_1.png"
+      ],
       "_id_original": "4000213420",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6905,7 +7254,10 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0066_137_0.png",
+        "pv-sp-2024-0066_137_1.png"
+      ],
       "_id_original": "4000213421",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6929,7 +7281,9 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0073_148_0.png"
+      ],
       "_id_original": "4000213428",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -6953,7 +7307,10 @@
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0074_148_0.png",
+        "pv-sp-2024-0074_149_0.png"
+      ],
       "_id_original": "4000213429",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -7047,7 +7404,11 @@
       "ano": 2024,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2024-0116_277_0.png",
+        "pv-sp-2024-0116_277_1.png",
+        "pv-sp-2024-0116_278_0.png"
+      ],
       "_id_original": "4000212254",
       "_pdf": "10. USP-SP.pdf"
     },
@@ -7143,7 +7504,9 @@
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0132_269_0.png"
+      ],
       "_id_original": "4000234121",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -7191,7 +7554,10 @@
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0136_276_0.png",
+        "pv-sp-2025-0136_277_0.png"
+      ],
       "_id_original": "4000234117",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -7263,7 +7629,12 @@
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0158_315_0.jpeg",
+        "pv-sp-2025-0158_316_0.png",
+        "pv-sp-2025-0158_317_0.png",
+        "pv-sp-2025-0158_317_1.png"
+      ],
       "_id_original": "4000234087",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -7287,7 +7658,10 @@
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0168_334_0.png",
+        "pv-sp-2025-0168_335_0.png"
+      ],
       "_id_original": "4000234077",
       "_pdf": "14. SUS-SP.pdf"
     },
@@ -7310,7 +7684,9 @@
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0205_510_0.png"
+      ],
       "_id_original": "4000231983",
       "_pdf": "10. USP-SP.pdf"
     },
@@ -7333,7 +7709,9 @@
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0206_510_0.png"
+      ],
       "_id_original": "4000231982",
       "_pdf": "10. USP-SP.pdf"
     },
@@ -7356,7 +7734,9 @@
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0208_517_0.png"
+      ],
       "_id_original": "4000231980",
       "_pdf": "10. USP-SP.pdf"
     },
@@ -7379,7 +7759,10 @@
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0234_589_0.png",
+        "pv-sp-2025-0234_591_0.png"
+      ],
       "_id_original": "4000231902",
       "_pdf": "10. USP-SP.pdf"
     },
@@ -7402,7 +7785,10 @@
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sp-2025-0240_605_0.png",
+        "pv-sp-2025-0240_606_0.jpeg"
+      ],
       "_id_original": "4000231896",
       "_pdf": "10. USP-SP.pdf"
     },
@@ -7448,7 +7834,10 @@
       "ano": 2024,
       "fonte": "UNIFESP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2024-0042_81_0.png",
+        "pv-uni-2024-0042_82_0.png"
+      ],
       "_id_original": "4000210881",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7471,7 +7860,9 @@
       "ano": 2024,
       "fonte": "UNIFESP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2024-0053_102_0.png"
+      ],
       "_id_original": "4000210892",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7494,7 +7885,11 @@
       "ano": 2024,
       "fonte": "UNIFESP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2024-0054_104_0.png",
+        "pv-uni-2024-0054_104_1.png",
+        "pv-uni-2024-0054_105_0.png"
+      ],
       "_id_original": "4000210893",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7609,7 +8004,9 @@
       "ano": 2024,
       "fonte": "UNIFESP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2024-0095_172_0.jpeg"
+      ],
       "_id_original": "4000210934",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7655,7 +8052,9 @@
       "ano": 2024,
       "fonte": "UNIFESP 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2024-0097_175_0.jpeg"
+      ],
       "_id_original": "4000210936",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7724,7 +8123,10 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0103_182_0.png",
+        "pv-uni-2025-0103_182_1.png"
+      ],
       "_id_original": "4000233126",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7747,7 +8149,9 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0104_184_0.png"
+      ],
       "_id_original": "4000233124",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7770,7 +8174,10 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0108_190_0.png",
+        "pv-uni-2025-0108_191_0.png"
+      ],
       "_id_original": "4000233119",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7793,7 +8200,10 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0112_196_0.png",
+        "pv-uni-2025-0112_196_1.png"
+      ],
       "_id_original": "4000233113",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7885,7 +8295,10 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0136_244_0.png",
+        "pv-uni-2025-0136_244_1.jpeg"
+      ],
       "_id_original": "4000233074",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7931,7 +8344,11 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0160_297_0.jpeg",
+        "pv-uni-2025-0160_299_0.png",
+        "pv-uni-2025-0160_299_1.png"
+      ],
       "_id_original": "4000233039",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7954,7 +8371,9 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0165_314_0.png"
+      ],
       "_id_original": "4000233029",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -7977,7 +8396,9 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0166_314_0.png"
+      ],
       "_id_original": "4000233028",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -8000,7 +8421,9 @@
       "ano": 2025,
       "fonte": "UNIFESP 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-uni-2025-0185_353_0.png"
+      ],
       "_id_original": "4000233006",
       "_pdf": "11. UNIFESP.pdf"
     },
@@ -8048,7 +8471,9 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0036_74_0.png"
+      ],
       "_id_original": "4000211735",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8072,7 +8497,9 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0061_122_0.png"
+      ],
       "_id_original": "4000211840",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8096,7 +8523,10 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0062_122_0.png",
+        "pv-sír-2024-0062_124_0.png"
+      ],
       "_id_original": "4000211841",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8120,7 +8550,11 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0063_124_0.png",
+        "pv-sír-2024-0063_125_0.png",
+        "pv-sír-2024-0063_126_0.png"
+      ],
       "_id_original": "4000211842",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8144,7 +8578,10 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0065_128_0.png",
+        "pv-sír-2024-0065_129_0.png"
+      ],
       "_id_original": "4000211844",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8168,7 +8605,13 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0075_144_0.jpeg",
+        "pv-sír-2024-0075_146_0.png",
+        "pv-sír-2024-0075_146_1.png",
+        "pv-sír-2024-0075_147_0.png",
+        "pv-sír-2024-0075_147_1.png"
+      ],
       "_id_original": "4000211854",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8192,7 +8635,12 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0076_147_0.png",
+        "pv-sír-2024-0076_147_1.png",
+        "pv-sír-2024-0076_148_0.png",
+        "pv-sír-2024-0076_149_0.png"
+      ],
       "_id_original": "4000211855",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8216,7 +8664,9 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0077_151_0.jpeg"
+      ],
       "_id_original": "4000211856",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8240,7 +8690,10 @@
       "ano": 2024,
       "fonte": "Sírio-Libanês 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2024-0080_155_0.png",
+        "pv-sír-2024-0080_155_1.png"
+      ],
       "_id_original": "4000211859",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8264,7 +8717,10 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0122_248_0.png",
+        "pv-sír-2025-0122_249_0.png"
+      ],
       "_id_original": "4000234899",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8288,7 +8744,9 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0125_252_0.png"
+      ],
       "_id_original": "4000234896",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8360,7 +8818,9 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0131_262_0.png"
+      ],
       "_id_original": "4000234790",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8384,7 +8844,9 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0133_264_0.jpeg"
+      ],
       "_id_original": "4000234788",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8456,7 +8918,12 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0136_268_0.png",
+        "pv-sír-2025-0136_268_1.png",
+        "pv-sír-2025-0136_269_0.png",
+        "pv-sír-2025-0136_269_1.png"
+      ],
       "_id_original": "4000234785",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8480,7 +8947,10 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0140_275_0.png",
+        "pv-sír-2025-0140_276_0.png"
+      ],
       "_id_original": "4000234781",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8504,7 +8974,11 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0141_276_0.png",
+        "pv-sír-2025-0141_277_0.png",
+        "pv-sír-2025-0141_278_0.png"
+      ],
       "_id_original": "4000234780",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8528,7 +9002,12 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0148_292_0.png",
+        "pv-sír-2025-0148_294_0.png",
+        "pv-sír-2025-0148_295_0.png",
+        "pv-sír-2025-0148_295_1.png"
+      ],
       "_id_original": "4000234773",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8576,7 +9055,9 @@
       "ano": 2025,
       "fonte": "Sírio-Libanês 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-sír-2025-0184_378_0.png"
+      ],
       "_id_original": "4000234667",
       "_pdf": "15. SÍRIO.pdf"
     },
@@ -8647,7 +9128,9 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0025_54_0.png"
+      ],
       "_id_original": "4000205865",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8670,7 +9153,10 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0026_54_0.png",
+        "pv-hia-2024-0026_55_0.png"
+      ],
       "_id_original": "4000205866",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8693,7 +9179,9 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0027_56_0.png"
+      ],
       "_id_original": "4000205867",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8716,7 +9204,9 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0030_61_0.png"
+      ],
       "_id_original": "4000205870",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8785,7 +9275,10 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0049_95_0.png",
+        "pv-hia-2024-0049_96_0.png"
+      ],
       "_id_original": "4000205889",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8808,7 +9301,12 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0050_96_0.png",
+        "pv-hia-2024-0050_98_0.jpeg",
+        "pv-hia-2024-0050_98_1.jpeg",
+        "pv-hia-2024-0050_99_0.jpeg"
+      ],
       "_id_original": "4000205890",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8831,7 +9329,9 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0052_102_0.png"
+      ],
       "_id_original": "4000205892",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8854,7 +9354,9 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0053_103_0.png"
+      ],
       "_id_original": "4000205893",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8877,7 +9379,12 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0056_107_0.png",
+        "pv-hia-2024-0056_108_0.png",
+        "pv-hia-2024-0056_109_0.png",
+        "pv-hia-2024-0056_109_1.png"
+      ],
       "_id_original": "4000205896",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8900,7 +9407,10 @@
       "ano": 2024,
       "fonte": "HIAE 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2024-0060_115_0.png",
+        "pv-hia-2024-0060_116_0.jpeg"
+      ],
       "_id_original": "4000205900",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8923,7 +9433,9 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0081_155_0.jpeg"
+      ],
       "_id_original": "4000227182",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8946,7 +9458,11 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0092_181_0.png",
+        "pv-hia-2025-0092_182_0.jpeg",
+        "pv-hia-2025-0092_183_0.png"
+      ],
       "_id_original": "4000227167",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8969,7 +9485,11 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0093_181_0.png",
+        "pv-hia-2025-0093_182_0.jpeg",
+        "pv-hia-2025-0093_183_0.png"
+      ],
       "_id_original": "4000227167",
       "_pdf": "16. HIAE.pdf"
     },
@@ -8992,7 +9512,11 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0094_181_0.png",
+        "pv-hia-2025-0094_182_0.jpeg",
+        "pv-hia-2025-0094_183_0.png"
+      ],
       "_id_original": "4000227167",
       "_pdf": "16. HIAE.pdf"
     },
@@ -9015,7 +9539,11 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0095_183_0.png",
+        "pv-hia-2025-0095_185_0.jpeg",
+        "pv-hia-2025-0095_186_0.jpeg"
+      ],
       "_id_original": "4000227166",
       "_pdf": "16. HIAE.pdf"
     },
@@ -9038,7 +9566,9 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0097_188_0.png"
+      ],
       "_id_original": "4000227164",
       "_pdf": "16. HIAE.pdf"
     },
@@ -9084,7 +9614,9 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0100_195_0.jpeg"
+      ],
       "_id_original": "4000227160",
       "_pdf": "16. HIAE.pdf"
     },
@@ -9107,7 +9639,11 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0101_195_0.jpeg",
+        "pv-hia-2025-0101_197_0.png",
+        "pv-hia-2025-0101_198_0.png"
+      ],
       "_id_original": "4000227158",
       "_pdf": "16. HIAE.pdf"
     },
@@ -9153,7 +9689,12 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0127_248_0.png",
+        "pv-hia-2025-0127_250_0.png",
+        "pv-hia-2025-0127_250_1.png",
+        "pv-hia-2025-0127_251_0.png"
+      ],
       "_id_original": "4000227126",
       "_pdf": "16. HIAE.pdf"
     },
@@ -9176,7 +9717,9 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0128_251_0.png"
+      ],
       "_id_original": "4000227125",
       "_pdf": "16. HIAE.pdf"
     },
@@ -9199,7 +9742,11 @@
       "ano": 2025,
       "fonte": "HIAE 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-hia-2025-0133_264_0.jpeg",
+        "pv-hia-2025-0133_264_1.png",
+        "pv-hia-2025-0133_265_0.jpeg"
+      ],
       "_id_original": "4000227120",
       "_pdf": "16. HIAE.pdf"
     },
@@ -9222,7 +9769,9 @@
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2024-0022_58_0.png"
+      ],
       "_id_original": "4000213099",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9268,7 +9817,9 @@
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2024-0087_171_0.png"
+      ],
       "_id_original": "4000213164",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9291,7 +9842,10 @@
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2024-0088_174_0.png",
+        "pv-df-2024-0088_174_1.png"
+      ],
       "_id_original": "4000213165",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9337,7 +9891,9 @@
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2024-0093_181_0.png"
+      ],
       "_id_original": "4000213170",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9360,7 +9916,9 @@
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2024-0094_181_0.png"
+      ],
       "_id_original": "4000213171",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9383,7 +9941,11 @@
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2024-0098_187_0.png",
+        "pv-df-2024-0098_189_0.png",
+        "pv-df-2024-0098_189_1.png"
+      ],
       "_id_original": "4000213175",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9406,7 +9968,12 @@
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2025-0108_210_0.png",
+        "pv-df-2025-0108_211_0.png",
+        "pv-df-2025-0108_212_0.jpeg",
+        "pv-df-2025-0108_212_1.png"
+      ],
       "_id_original": "4000238150",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9429,7 +9996,10 @@
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2025-0111_216_0.png",
+        "pv-df-2025-0111_218_0.png"
+      ],
       "_id_original": "4000238147",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9452,7 +10022,10 @@
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2025-0112_218_0.png",
+        "pv-df-2025-0112_220_0.png"
+      ],
       "_id_original": "4000238146",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9475,7 +10048,10 @@
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2025-0113_220_0.png",
+        "pv-df-2025-0113_222_0.png"
+      ],
       "_id_original": "4000238145",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9498,7 +10074,10 @@
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2025-0150_296_0.jpeg",
+        "pv-df-2025-0150_297_0.png"
+      ],
       "_id_original": "4000238108",
       "_pdf": "17. SES-DF.pdf"
     },
@@ -9521,7 +10100,9 @@
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
       "dificuldade": "Média",
-      "imagens": [],
+      "imagens": [
+        "pv-df-2025-0174_343_0.png"
+      ],
       "_id_original": "4000238084",
       "_pdf": "17. SES-DF.pdf"
     }
