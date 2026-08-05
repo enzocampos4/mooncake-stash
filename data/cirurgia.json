@@ -241,7 +241,7 @@
       "_edicao": "1",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -718,7 +718,7 @@
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1012,7 +1012,7 @@
       "_edicao": "14",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1034,7 +1034,7 @@
       "_edicao": "3",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Hérnias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1056,7 +1056,7 @@
       "_edicao": "3",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1078,7 +1078,7 @@
       "_edicao": "3",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1190,7 +1190,7 @@
       "_edicao": "3",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1442,7 +1442,7 @@
       "_edicao": "5",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1486,7 +1486,7 @@
       "_edicao": "5",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1510,7 +1510,7 @@
       "_edicao": "5",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1646,7 +1646,7 @@
       "_edicao": "5",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1733,7 +1733,7 @@
       "_edicao": "9",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1757,7 +1757,7 @@
       "_edicao": "9",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1898,7 +1898,7 @@
       "_edicao": "9",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2116,7 +2116,7 @@
       "id": "pv-ena-2025-0127",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Após um traumatismo torácico contuso, um paciente apresenta sinais de tamponamento cardíaco, incluindo hipotensão, taquicardia, aumento da turgência jugular e pulso fino. A conduta clínico-cirúrgica mais apropriada para esse paciente é:",
       "alternativas": {
         "A": "realização de pericardiocentese emergencial;",
@@ -2305,7 +2305,7 @@
       "id": "pv-pe-2025-0104",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Uma mulher de 50 anos, tabagista e sem comorbidades conhecidas, é hospitalizada com febre alta, dispneia progressiva e dor torácica. A radiografia de tórax mostra derrame pleural moderado à direita, e a toracocentese é realizada. Resultados do líquido pleural mostram proteína de 4,2 g/dL, DHL de 800 U/L, glicose de 30 mg/dL, pH de 7,0 e predomínio de neutrófilos na citologia. Com base nos achados clínicos e laboratoriais, qual é a conduta mais apropriada?",
       "alternativas": {
         "A": "Iniciar antibióticos e observar a evolução.",
@@ -3314,7 +3314,7 @@
       "id": "pv-hcp-2024-0049",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Menina de 7 anos, com síndrome de EhlersDanlos e portadora de aneurismas intracranianos, foi trazida à Emergência por febre e dificuldade ventilatória há 48 horas. Exame clínico mostrou redução de murmúrio vesicular em região inferior do hemitórax direito, com estertores audíveis. Radiografia de tórax evidenciou grande consolidação no lobo inferior direito e derrame pleural ipsilateral. Ultrassonografia torácica revelou volumoso derrame pleural, com líquido espesso e com septações e loculações. Qual a conduta mais indicada para o derrame pleural?",
       "alternativas": {
         "A": "Drenagem pleural tubular fechada",
@@ -4441,7 +4441,7 @@
       "id": "pv-sír-2025-0148",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Pré-escolar, 3 anos, previamente hígida, apresenta febre alta e tosse há 5 dias. Evoluiu com dificuldade respiratória progressiva. Ao exame físico, há estertores crepitantes no pulmão direito e redução do murmúrio vesicular na base direita. Radiografia de tórax revelou derrame pleural moderado no hemitórax direito. A ultrassonografia (US) de tórax confirmou presença de loculações no derrame pleural. A criança está hemodinamicamente estável. O próximo passo no manejo da paciente deverá ser:",
       "alternativas": {
         "A": "Efetuar toracocentese guiada por US com análise microbiológica da amostra.",
@@ -4644,7 +4644,7 @@
       "id": "pv-hia-2024-0060",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Paciente de 55 anos foi vítima de ferimento por arma branca em hemitórax esquerdo. Na cena, com grande quantidade de sangue, notou-se vias aéreas pérvias, FR: 15 ipm e SatO₂: 90% em ar ambiente, murmúrios vesiculares presentes bilateralmente, PA: 90 x 60 mmHg, FC: 81 bpm, bulhas hipofonéticas. No transporte, feita expansão inicial com 500 mL de ringer lactato, suporte de oxigênio e curativo em 3 pontas não soprante. Exame físico de entrada: vias aéreas pérvias, sem colar cervical. FR: 18 ipm, SatO₂: 99% com máscara 10 L/min. Murmúrio vesicular diminuído à esquerda, não timpânico, PA: 60 x 36 mmHg, FC: 121 bpm, bulhas rítmicas, hipofonéticas, descorado 3+/4+. Ultrassom FAST com achado de líquido no pericárdio, sem líquido livre abdominal. Escala de coma de Glasgow 15. Paciente em prancha rígida, três ferimentos penetrantes em região precordial, e múltiplas escoriações em tórax e abdome. Na sala de emergência evoluiu com atividade elétrica sem pulso e foi intubado. A melhor conduta imediata nesse momento deve ser",
       "alternativas": {
         "A": "esternotomia mediana.",
@@ -5689,7 +5689,7 @@
       "id": "pv-mg-2024-0020",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Homem de 35 anos apresenta febre, tosse produtiva com escarro purulento, dor torácica ventilatório-dependente no hemitórax direito e dispneia há 72h. Desconhece comorbidades e nega uso de quaisquer drogas. Ao exame físico, PA 130/78mmHg, FC 104bpm, FR 18ipm, SpO2 95% (ar ambiente), Tax 38,8°C. Apresenta-se alerta e orientado. A ausculta respiratória revela crepitações grossas e sons respiratórios reduzidos na base do hemitórax direito; a percussão revela submacicez e o frêmito toracovocal está abolido. Exames de laboratório: PCR 123mg/L; leucócitos 14.560/mm³; neutrófilos segmentados 9.760/mm³; neutrófilos bastonetes 1.200/mm³; plaquetas 234.000/mm³; creatinina 1,1mg/dL; bilirrubinas totais 0,8mg/dL. Teste de Covid-19 não reagente. Radiografia do tórax: consolidação no lobo inferior direito, derrame pleural leve a moderado à D com sinal do menisco evidente e sem alterações pleurais evidentes. No decúbito lateral direito, houve mudança do aspecto do derrame pleural, que assumiu posição gravidadedependente e mediu 1cm entre as pleuras parietal e visceral. O paciente foi internado. Assinale a alternativa que apresenta a conduta inicial MAIS ADEQUADA nesse caso:",
       "alternativas": {
         "A": "Prescrever amoxicilina-clavulanato e seguir pela resposta clinica, laboratorial e radiológica.",
@@ -6142,7 +6142,7 @@
       "id": "pv-uer-2025-0109",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Mulher de 40 anos, com história pregressa de infarto do miocárdio, evolui com disfunção moderada de ventrículo esquerdo (VE). Faz tratamento com carvedilol e losartana, e uso irregular de diurético. Há 15 dias houve piora da dispneia, tosse, queda do estado geral e mal- estar. O exame físico é compatível com derrame pleural a direita. Na toracocentese, os achados do líquido pleural mostram proteína = 4g/dL, LDH = 350UI/L, glicose = 50mg/dL e citologia = 1.000 células/mm³, sendo 50% de células mononucleares. No sangue, verifica-se hemoglobina = 9g/dL, leucócitos = 8.000/mm³, VHS = 60mm/h, proteína = 7g/dL e LDH = 350UI/L. A melhor conduta, nesse caso, será:",
       "alternativas": {
         "A": "iniciar diurético, associado com nitrato-hidralazina, e objetivar balanço hídrico negativo",
@@ -6765,7 +6765,7 @@
       "id": "pv-sír-2024-0099",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Homem, 24 anos de idade, procura pronto-socorro por febre aferida de 38 ºC, tosse com secreção purulenta e dispneia há 2 semanas. Buscou atendimento médico no início do quadro, sendo iniciada antibioticoterapia via oral para tratamento em domicílio. Evoluiu com melhora da tosse, porém persiste com febre diária e dispneia progressiva há 1 semana. Tem antecedente de asma com bom controle de sintomas com uso de formoterol-budesonida a cada 12 horas. Nega exacerbações no último ano. Ao exame físico, encontra-se com PA: 126 x 82 mmHg, FC: 118 bpm, FR: 26 irpm, saturação periférica de oxigênio 95% em ar ambiente e temperatura axilar 37,8 ºC. A ausculta pulmonar está abolida em até terço médio do hemitórax direito com sibilos discretos em hemitórax esquerdo. O restante do exame físico está normal. Entre as opções abaixo, a melhor conduta para este paciente é:",
       "alternativas": {
         "A": "Tomografia de tórax sem contraste.",
@@ -7025,7 +7025,7 @@
       "id": "pv-hia-2024-0058",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Paciente feminino, 55 anos, dá entrada no pronto-socorro com dor torácica de forte intensidade há 1 hora. Antecedentes pessoais de hipertensão arterial sistêmica, e tabagismo. Ao exame físico: PA: 200 x 100 mmHg, pulso: 110 bpm, SatO₂: 99% em ar ambiente. Pulsos em MMSS e MMII todos presentes. Radiografia e tomografia de tórax abaixo: Dentre os tratamentos abaixo, o melhor para este caso é:",
       "alternativas": {
         "A": "Internação hospitalar para drenagem de tórax de emergência.",
@@ -8307,7 +8307,7 @@
       "id": "pv-ena-2024-0091",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Paciente do sexo masculino, 73 anos, apresentou desconforto respiratório progressivo na última semana e foi avaliado no pronto-socorro. Ao exame físico, apresentava, na ausculta pulmonar, murmúrio vesicular abolido em 2/3 inferiores, tendo sido confirmado derrame pleural moderado por radiografia de tórax. Após ser avaliado pela cirurgia torácica, optou-se por toracocentese de alívio e diagnóstica. Os exames séricos do paciente eram: Proteína total 3,8/dl, DHL 154 U/L. A rotina laboratorial de líquido pleural: Proteína total 1,7 g/dl, DHL 60 U/L. Observação: Desidrogenase láctica (DHL) – valores séricos normais de referência 120 a 246 U/L. Após análise dos resultados dos exames séricos e da rotina do líquido pleural do paciente, são aplicados os critérios de Light. Assinale a alternativa correta em relação a esse caso.",
       "alternativas": {
         "A": "Os resultados da análise indicam características de transudato, e insuficiência cardíaca poderia ser uma das hipóteses diagnósticas.",
@@ -10320,7 +10320,7 @@
       "_edicao": "14",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Hérnias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10410,7 +10410,7 @@
       "_edicao": "5",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10502,7 +10502,7 @@
       "_edicao": "9",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Obstrução Intestinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10592,7 +10592,7 @@
       "_edicao": "11",
       "subarea": "Cirurgia Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Hérnias",
       "banca": "ESTRATÉGIA MED"
     },
     {
