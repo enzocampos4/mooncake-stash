@@ -22,7 +22,8 @@
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal"
+      "sub_subarea": "Obstrução intestinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-008",
@@ -45,7 +46,8 @@
       "_edicao": "1",
       "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Fissura anal"
+      "sub_subarea": "Fissura anal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-013",
@@ -66,7 +68,8 @@
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda"
+      "sub_subarea": "Apendicite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-019",
@@ -87,7 +90,8 @@
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Diverticulite aguda"
+      "sub_subarea": "Diverticulite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-024",
@@ -108,7 +112,8 @@
       "_edicao": "1",
       "subarea": "Cirurgia Infantil",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Estenose hipertrófica de piloro"
+      "sub_subarea": "Estenose hipertrófica de piloro",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-031",
@@ -129,7 +134,8 @@
       "_edicao": "1",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Coledocolitíase"
+      "sub_subarea": "Coledocolitíase",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-038",
@@ -150,7 +156,8 @@
       "_edicao": "1",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnia inguinal"
+      "sub_subarea": "Hérnia inguinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-042",
@@ -173,7 +180,8 @@
       "_edicao": "1",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-047",
@@ -196,7 +204,8 @@
       "_edicao": "1",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hiperplasia prostática benigna"
+      "sub_subarea": "Hiperplasia prostática benigna",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-053",
@@ -220,7 +229,8 @@
       "_edicao": "1",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Complicações respiratórias"
+      "sub_subarea": "Complicações respiratórias",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-058",
@@ -241,7 +251,8 @@
       "_edicao": "1",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-063",
@@ -262,7 +273,8 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária"
+      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-068",
@@ -283,7 +295,8 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma cranioencefálico (TCE)"
+      "sub_subarea": "Trauma cranioencefálico (TCE)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-074",
@@ -306,7 +319,8 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-078",
@@ -327,7 +341,8 @@
       "_edicao": "1",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-083",
@@ -348,7 +363,8 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária"
+      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-086",
@@ -369,7 +385,8 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-089",
@@ -392,7 +409,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "Queimaduras",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-092",
@@ -413,7 +431,8 @@
       "_edicao": "1",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-098",
@@ -434,7 +453,8 @@
       "_edicao": "1",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Coledocolitíase"
+      "sub_subarea": "Coledocolitíase",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-001",
@@ -457,7 +477,8 @@
       "_edicao": "11",
       "subarea": "Cicatrização de Feridas",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Cicatrização por 1ª e 2ª intenção"
+      "sub_subarea": "Cicatrização por 1ª e 2ª intenção",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-007",
@@ -478,7 +499,8 @@
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-010",
@@ -499,7 +521,8 @@
       "_edicao": "11",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-014",
@@ -520,7 +543,8 @@
       "_edicao": "11",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Tumores de vias biliares"
+      "sub_subarea": "Tumores de vias biliares",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-021",
@@ -543,7 +567,8 @@
       "_edicao": "11",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Colelitíase e colecistite"
+      "sub_subarea": "Colelitíase e colecistite",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-024",
@@ -564,7 +589,8 @@
       "_edicao": "11",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnia inguinal"
+      "sub_subarea": "Hérnia inguinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-030",
@@ -587,7 +613,8 @@
       "_edicao": "11",
       "subarea": "Megacólon Adquirido",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Megacólon"
+      "sub_subarea": "Megacólon",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-034",
@@ -607,7 +634,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-038",
@@ -628,7 +656,8 @@
       "_edicao": "11",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-041",
@@ -649,7 +678,8 @@
       "_edicao": "11",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção urinária"
+      "sub_subarea": "Infecção urinária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-045",
@@ -670,7 +700,8 @@
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-049",
@@ -691,7 +722,8 @@
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Derrame pleural (cirúrgico)"
+      "sub_subarea": "Derrame pleural (cirúrgico)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-052",
@@ -711,7 +743,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Cirurgia de Cabeça e Pescoço",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-056",
@@ -735,7 +768,8 @@
       "_edicao": "11",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária"
+      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-068",
@@ -755,7 +789,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "Ostomias Intestinais",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-070",
@@ -778,7 +813,8 @@
       "_edicao": "11",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção urinária"
+      "sub_subarea": "Infecção urinária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-077",
@@ -799,7 +835,8 @@
       "_edicao": "11",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo"
+      "sub_subarea": "Abdome agudo perfurativo",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-085",
@@ -820,7 +857,8 @@
       "_edicao": "11",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-090",
@@ -842,7 +880,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-007",
@@ -861,7 +900,8 @@
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo"
+      "sub_subarea": "Abdome agudo perfurativo",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-009",
@@ -883,7 +923,8 @@
       "_edicao": "14",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Derrame pleural (cirúrgico)"
+      "sub_subarea": "Derrame pleural (cirúrgico)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-023",
@@ -906,7 +947,8 @@
       "_edicao": "14",
       "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hemorroidas"
+      "sub_subarea": "Hemorroidas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-059",
@@ -932,7 +974,8 @@
         "data/simulados/imgs/14-simulado/q59_img3.jpeg",
         "data/simulados/imgs/14-simulado/q59_img4.jpeg",
         "data/simulados/imgs/14-simulado/q59_img5.jpeg"
-      ]
+      ],
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-064",
@@ -951,7 +994,8 @@
       "_edicao": "14",
       "subarea": "Megacólon Adquirido",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Megacólon"
+      "sub_subarea": "Megacólon",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-072",
@@ -973,7 +1017,8 @@
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda"
+      "sub_subarea": "Apendicite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-085",
@@ -995,7 +1040,8 @@
       "_edicao": "14",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnia inguinal"
+      "sub_subarea": "Hérnia inguinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-091",
@@ -1015,7 +1061,8 @@
       "_edicao": "14",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção de sítio cirúrgico"
+      "sub_subarea": "Infecção de sítio cirúrgico",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-095",
@@ -1040,7 +1087,8 @@
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda"
+      "sub_subarea": "Apendicite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-004",
@@ -1061,7 +1109,8 @@
       "_edicao": "3",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnia inguinal"
+      "sub_subarea": "Hérnia inguinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-010",
@@ -1084,7 +1133,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-015",
@@ -1105,7 +1155,8 @@
       "_edicao": "3",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Neoplasias Torácicas"
+      "sub_subarea": "Neoplasias Torácicas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-021",
@@ -1126,7 +1177,8 @@
       "_edicao": "3",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal"
+      "sub_subarea": "Obstrução intestinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-028",
@@ -1147,7 +1199,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma raquimedular"
+      "sub_subarea": "Trauma raquimedular",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-033",
@@ -1168,7 +1221,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária"
+      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-040",
@@ -1189,7 +1243,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-045",
@@ -1210,7 +1265,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-051",
@@ -1231,7 +1287,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária"
+      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-058",
@@ -1254,7 +1311,8 @@
       "_edicao": "3",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo"
+      "sub_subarea": "Abdome agudo perfurativo",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-063",
@@ -1275,7 +1333,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária"
+      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-068",
@@ -1296,7 +1355,8 @@
       "_edicao": "3",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção de sítio cirúrgico"
+      "sub_subarea": "Infecção de sítio cirúrgico",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-074",
@@ -1317,7 +1377,8 @@
       "_edicao": "3",
       "subarea": "Princípios da Anestesiologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Anestesia geral"
+      "sub_subarea": "Anestesia geral",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-079",
@@ -1338,7 +1399,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma vascular"
+      "sub_subarea": "Trauma vascular",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-084",
@@ -1359,7 +1421,8 @@
       "_edicao": "3",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção de sítio cirúrgico"
+      "sub_subarea": "Infecção de sítio cirúrgico",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-088",
@@ -1380,7 +1443,8 @@
       "_edicao": "3",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Coledocolitíase"
+      "sub_subarea": "Coledocolitíase",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-090",
@@ -1401,7 +1465,8 @@
       "_edicao": "3",
       "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Fissura anal"
+      "sub_subarea": "Fissura anal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-092",
@@ -1421,7 +1486,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "Cirurgia Bariátrica",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-094",
@@ -1444,7 +1510,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma cranioencefálico (TCE)"
+      "sub_subarea": "Trauma cranioencefálico (TCE)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-098",
@@ -1467,7 +1534,8 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-004",
@@ -1490,7 +1558,8 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma vascular"
+      "sub_subarea": "Trauma vascular",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-008",
@@ -1511,7 +1580,8 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-029",
@@ -1532,7 +1602,8 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária"
+      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-035",
@@ -1553,7 +1624,8 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo"
+      "sub_subarea": "Abdome agudo perfurativo",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-039",
@@ -1580,7 +1652,8 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal"
+      "sub_subarea": "Obstrução intestinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-044",
@@ -1601,7 +1674,8 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda"
+      "sub_subarea": "Apendicite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-049",
@@ -1622,7 +1696,8 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo"
+      "sub_subarea": "Abdome agudo perfurativo",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-060",
@@ -1643,7 +1718,8 @@
       "_edicao": "5",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hiperplasia prostática benigna"
+      "sub_subarea": "Hiperplasia prostática benigna",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-065",
@@ -1666,7 +1742,8 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal"
+      "sub_subarea": "Obstrução intestinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-067",
@@ -1689,7 +1766,8 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo"
+      "sub_subarea": "Abdome agudo perfurativo",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-070",
@@ -1710,7 +1788,8 @@
       "_edicao": "5",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Litíase urinária"
+      "sub_subarea": "Litíase urinária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-072",
@@ -1733,7 +1812,8 @@
       "_edicao": "5",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Coledocolitíase e colangite"
+      "sub_subarea": "Coledocolitíase e colangite",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-074",
@@ -1754,7 +1834,8 @@
       "_edicao": "5",
       "subarea": "Avaliação Pré-Operatória",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Risco cirúrgico (ASA, Goldman, Lee)"
+      "sub_subarea": "Risco cirúrgico (ASA, Goldman, Lee)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-076",
@@ -1775,7 +1856,8 @@
       "_edicao": "5",
       "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Fissura anal"
+      "sub_subarea": "Fissura anal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-082",
@@ -1798,7 +1880,8 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-084",
@@ -1819,7 +1902,8 @@
       "_edicao": "5",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Câncer de próstata"
+      "sub_subarea": "Câncer de próstata",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-087",
@@ -1840,7 +1924,8 @@
       "_edicao": "5",
       "subarea": "Princípios da Anestesiologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Anestesia local e sedação"
+      "sub_subarea": "Anestesia local e sedação",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-094",
@@ -1861,7 +1946,8 @@
       "_edicao": "5",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Derrame pleural (cirúrgico)"
+      "sub_subarea": "Derrame pleural (cirúrgico)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-096",
@@ -1882,7 +1968,8 @@
       "_edicao": "5",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-099",
@@ -1902,7 +1989,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "",
-      "_area_slug": "cirurgia"
+      "_area_slug": "cirurgia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-001",
@@ -1923,7 +2011,8 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-017",
@@ -1944,7 +2033,8 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo"
+      "sub_subarea": "Abdome agudo perfurativo",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-023",
@@ -1965,7 +2055,8 @@
       "_edicao": "9",
       "subarea": "Avaliação Pré-Operatória",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-024",
@@ -1988,7 +2079,8 @@
       "_edicao": "9",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Neoplasias Torácicas"
+      "sub_subarea": "Neoplasias Torácicas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-030",
@@ -2009,7 +2101,8 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção urinária"
+      "sub_subarea": "Infecção urinária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-034",
@@ -2032,7 +2125,8 @@
       "_edicao": "9",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma cranioencefálico (TCE)"
+      "sub_subarea": "Trauma cranioencefálico (TCE)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-043",
@@ -2055,7 +2149,8 @@
       "_edicao": "9",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnia inguinal"
+      "sub_subarea": "Hérnia inguinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-046",
@@ -2076,7 +2171,8 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção urinária"
+      "sub_subarea": "Infecção urinária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-048",
@@ -2100,7 +2196,8 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Litíase urinária"
+      "sub_subarea": "Litíase urinária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-054",
@@ -2123,7 +2220,8 @@
       "_edicao": "9",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária"
+      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-063",
@@ -2144,7 +2242,8 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção urinária"
+      "sub_subarea": "Infecção urinária",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-065",
@@ -2165,7 +2264,8 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda"
+      "sub_subarea": "Apendicite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-071",
@@ -2188,7 +2288,8 @@
       "_edicao": "9",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal"
+      "sub_subarea": "Trauma abdominal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-078",
@@ -2211,7 +2312,8 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda"
+      "sub_subarea": "Apendicite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-084",
@@ -2234,7 +2336,8 @@
       "_edicao": "9",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção de sítio cirúrgico"
+      "sub_subarea": "Infecção de sítio cirúrgico",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-090",
@@ -2257,7 +2360,8 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hiperplasia prostática benigna"
+      "sub_subarea": "Hiperplasia prostática benigna",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-091",
@@ -2278,7 +2382,8 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal"
+      "sub_subarea": "Obstrução intestinal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-093",
@@ -2299,7 +2404,8 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-097",
@@ -2320,7 +2426,8 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-099",
@@ -2341,7 +2448,8 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Diverticulite aguda"
+      "sub_subarea": "Diverticulite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "pv-ena-2024-0014",
@@ -2895,7 +3003,7 @@
       },
       "correta": "C",
       "explicacao": "Colangiografia transdreno de Kehr. Estamos diante de uma paciente submetida recentemente a uma \"cirurgia hepatobiliar\" e a banca mostra uma imagem de uma colangiografia realizada com a injeção de contraste pelo dreno de Kehr locado na via biliar principal (seta vermelha). Nessa imagem é possível ver que há obstrução na topografia de colédoco distal (seta azul) e o contraste não progride para o duodeno. A imagem mais clara, sugere extravasamento de contraste, por uma possível lesão da via biliar (seta amarela).",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -2922,7 +3030,7 @@
       },
       "correta": "E",
       "explicacao": "Adenoma hepático, com sangramento subcapsular. GABARITO: ALTERNATIVA E Uma pequena revisão sobre os adenomas hepáticos: Adenoma hepatocelular ou adenoma hepático é a 3ª neoplasia benigna primária do fígado mais comum, sendo mais frequente em mulheres em idade fértil. Pode ser classificado em 3 tipos: - Adenomas inflamatórios: subtipo mais comum, mais frequente em mulheres, com risco em torno de 13% de malignização e maior risco de sangramento; - Adenomas com inativação do HNF (fator nuclear de hepatócitos) 1α: quase exclusivo em mulheres, com menor risco de degeneração maligna; - Adenomas com ativação da beta-catenina: representa 10-15% dos adenomas hepáticos, é o tipo mais observado no sexo masculino, com maior risco de transformação maligna, observada em até 40% dos casos. O padrão radiológico do adenoma hepático é extremamente variável e até por isso que é a lesão cuja interpretação radiológica é menos comumente cobrada. O motivo: geralmente, a interpretação radiológica adequada requer a correlação de dados clínicos e os achados radiológicos necessitam ser avaliados em mais de uma fase do exame, por vezes, utilizando até sequências que suprimem a gordura intralesional. Além disso, o adenoma pode se manifestar de diversas formas, o que dificulta a sua interpretação. Usualmente, essas lesões são vistas em mulheres, apresentam um realce importante na fase arterial, muitas vezes com gordura intralesional (o que é mais facilmente caracterizado no estudo de ressonância magnética) e comportamento variável na fase portal e na fase de equilíbrio. Uma característica dessa lesão que ajuda muito a diferenciar da hiperplasia nodular focal é que, tipicamente, o adenoma não apresenta realce na fase hepatobiliar em estudos de ressonância magnética com contraste hepatoespecífico. Esse é um T1 pré e pós contraste. Repare que a lesão no segmento IV apresenta discreto hipossinal em relação ao parênquima adjacente na fase sem contraste. Na sequência T1 pós- contraste na fase arterial, a lesão apresenta um realce significativo, mas essa característica não é exclusiva dos adenomas. Essas são sequências \"em fase\" e \"fora de fase\" utilizadas para detectar gordura microscópica na lesão. Repare que o sinal da lesão cai consideravelmente de uma imagem para outra, o que demonstra a presença de gordura. Além disso, outra característica comum aos adenomas é a ausência de captação de contraste na fase hepatobiliar. obs: para realizar a fase hepatobiliar é necessária a utilização de um meio de contraste hepatoespecífico, o que não é amplamente disponibilizado na rede de saúde. O tratamento cirúrgico do adenoma usualmente está reservado para tumores maiores que 05 cm ou sintomáticos em mulheres e independente do tamanho no sexo masculino. No caso da imagem fornecida, temos um adenoma hepático com sua complicação clássica: sangramento. Reparem que vemos uma lesão heterogênea, limites irregulares, com centro hipoatenuante, localizada no lobo direito do fígado (seta azul), a qual apresenta sangramento adjacente (seta vermelha). Portanto, o diagnóstico mais provável é de um adenoma hepático complicado. Vamos avaliar as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -2953,7 +3061,7 @@
       },
       "correta": "E",
       "explicacao": "Laparoscopia exploradora Estamos diante de um paciente vítima de ferimento por arma branca no sexto espaço intercostal, ou seja, na região toracoabdominal. Relembrando os limites da região toracoabdominal: Limite superior: linha intermamilar Limite inferior: rebordo costal Bom, seguindo a sequência do ABCDE do ATLS: A: Vias aéreas pérvias, mas Glasgow 8 = indicação de via aérea definitiva (IOT) B: MV abolido HTD = drenagem torácica C: Instabilidade hemodinâmica = reposição volêmica com 1000 ml de Ringer lactato aquecido, ácido tranexâmico e transfusão de hemoconcentrados. D: Glasgow = 8 E: Ferimento penetrante em HTD - toracoabdominal A conduta diante de pacientes com ferimentos penetrantes na região toracoabdominal é, além de realizar a drenagem torácica (se necessário), é excluir lesão diafragmática, geralmente por laparoscopia (diagnóstica e terapêutica), desde que apresente estabilidade hemodinâmica. Como a banca questiona a melhor conduta após as medidas iniciais e estabilização do paciente, resposta seria laparoscopia.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -2979,7 +3087,7 @@
       },
       "correta": "A",
       "explicacao": "Radiografia de tórax Estamos diante de um paciente vítima de ferimento por arma branca no sexto espaço intercostal, ou seja, na região toracoabdominal. Apresenta-se com instabilidade hemodinâmica e rebaixamento do nível de consciência (Glasgow 8): Bom, seguindo a sequência do ABCDE do ATLS: A: Vias aéreas pérvias, mas Glasgow 8 = indicação de via aérea definitiva (IOT) B: MV abolido HTD = drenagem torácica C: Instabilidade hemodinâmica = reposição volêmica com 1000 ml de Ringer lactato aquecido, ácido tranexâmico e transfusão de hemoconcentrados. D: Glasgow = 8 E: Ferimento penetrante em HTD - toracoabdominal",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3006,7 +3114,7 @@
       },
       "correta": "E",
       "explicacao": "Deambulação precoce, fisioterapia motora e respiratória O projeto ACERTO-ERAS se refere às recomendações nas prescrições nutricionais aplicadas ao período perioperatório de procedimentos eletivos em cirurgia geral (TGI, parede abdominal e CCP). As principais medidas são: - Abreviar abreviar o jejum pré-operatório com líquidos contendo carboidratos para 2h antes da anestesia - Alimentar precocemente no pós-operatório - Deambulação precoce OBJETIVOS: - Diminuem complicações pós-operatórias (morbimortalidade) - Reduzir o tempo de internação com segurança",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3032,7 +3140,7 @@
       },
       "correta": "D",
       "explicacao": "menor taxa de infecção de ferida operatória. Na tabela abaixo estão as principais vantagens da cirurgia minimamente invasiva, por exemplo, a laparoscopia:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3059,7 +3167,7 @@
       },
       "correta": "B",
       "explicacao": "Fazer sintomáticos, solicitar EDA ambulatorial e realizar tratamento com IBP. Estamos diante de uma paciente de 52 anos que, após diversos episódios de vômito, apresenta eliminação de raios de sangue, sem nenhuma repercussão hemodinâmica e/ou alteração da hematimetria. Trata-se da síndrome de Mallory-Weiss, a terceira causa mais comum de hemorragia digestiva (fica atrás apenas da doença ulcerosa péptica e do sangramento por varizes de esôfago). Estamos acostumados a atender pacientes com HDA que apresentam-se hipovolêmicos, com sinais de instabilidade hemodinâmica e/ou com sangramento ativo na emergência. Mas, nesse caso em questão, nosso paciente é relativamente jovem, está apresentando um caso auto- limitado de sangramento (como é maioria dos casos de Mallory-Weiss). Vamos precisar interná-lo para tratar? A conduta frente ao caso é o principal conceito exigido por essa questão. Vamos continuar a discussão, enquanto avaliamos as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3085,7 +3193,7 @@
       },
       "correta": "C",
       "explicacao": "Esse tipo de hérnia acontece abaixo da linha arqueada de Douglas. O enunciado nos descreve uma hérnia na parede abdominal localizada em fossa ilíaca esquerda, topografia do cólon sigmoide. Com esse dado, nossa principal hipótese diagnóstica é uma hérnia de Spiegel. As hérnias de Spiegel são raras e representam apenas 0,1 a 2% de todas as hérnias ventrais. Elas são hérnias pequenas, com 1 a 2 cm de diâmetro e ocorrem na parede abdominal anterolateral, mais especificamente na fáscia de Spiegel, composta pelas aponeuroses dos músculos transverso do abdome e oblíquo interno. Suas bordas são compostas pelo músculo reto abdominal, medialmente, e a linha semilunar, lateralmente. Embora as hérnias de Spigel possam se desenvolver em qualquer lugar ao longo de toda a extensão da aponeurose de Spigel, elas ocorrem mais comumente na região logo abaixo do nível da cicatriz umbilical até o plano interespinhal (uma linha horizontal entre a espinha ilíaca ântero-superior direita e esquerda). Esta região é frequentemente chamada de cinturão de hérnia de Spigel. As hérnias de Spiegel costumam ser interparietais, ou seja, o saco herniário encontra-se entre as camadas da parede abdominal, não rompem a aponeurose do oblíquo externo. Não há clara predileção por sexo, e a maioria dos pacientes é diagnosticada na quinta ou sexta década de vida. Essas hérnias raramente são descritas em crianças. ETIOLOGIA E FATORES DE RISCO. \u0000 Aumento da pressão intra-abdominal: obesidade; gestações múltiplas; tosse crônica, especialmente em fumantes) e \u0000 Fatores que enfraquecem as camadas de tecido: distúrbios do colágeno, tabagismo, ou doença pulmonar obstrutiva crônica). \u0000 Trauma contuso: também é uma causa bem conhecida de ruptura da aponeurose de Spiegel. TRATAMENTO CIRÚRGICO: deve ser indicado pelo risco elevado de encarceramento devido ao anel herniário relativamente estreito. O defeito é fechado transversalmente pela sutura do músculo transverso do abdome com o músculo oblíquo interno, seguido pelo fechamento da aponeurose do músculo oblíquo externo. Nos defeitos maiores, está indicado o uso de tela para diminuir o risco de recorrência.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3111,7 +3219,7 @@
       },
       "correta": "D",
       "explicacao": "A paciente é cirúrgica devido ao tamanho do tumor, devendo ser indicada uma pancreatectomia caudal com ou sem esplenectomia. Os tumores neuroendócrinos pancreáticos (TNE-p) são neoplasias raras, porém clinicamente importantes, originadas das células endócrinas do pâncreas. Eles representam aproximadamente 1-2% de todos os cânceres pancreáticos. Os TNE-p podem ser classificados em funcionantes e não funcionantes. Os tumores funcionantes tipicamente produzem hormônios, tais como insulina, glucagon, gastrina ou somatostatina, levando a síndromes endócrinas clínicas específicas, como hipoglicemia, diabetes, úlcera péptica ou diarreia. Por outro lado, os tumores não funcionantes não produzem hormônios e podem crescer mais antes de serem diagnosticados. Devido à sua natureza variada e, por vezes, insidiosa, diagnóstico precoce, caracterização dos subtipos e manejo especializado são de extrema importância na sua abordagem, pois alguns deles, mesmo quando não funcionantes, têm grande chance de comportamento agressivo e metastático. A questão nos apresenta o caso de um TNE-p medindo > 3 cm na cauda pancreática, provavelmente não-funcionante, já que não há sintomas clínicos associados ao tumor. Diante disso, qual seria a conduta mais adequada? Vamos avaliar entre as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3138,7 +3246,7 @@
       },
       "correta": "C",
       "explicacao": "A equipe reconhecerá o papel do cirurgião como chefe da equipe cirúrgica, e o este deverá responder ao Checklist. O Programa Nacional de Segurança do Paciente (PNSP), instituído pela Portaria GM/MS nº 529/2013, objetiva contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos de saúde do território nacional. A Segurança do Paciente é um dos seis atributos da qualidade do cuidado, e tem adquirido, em todo o mundo, grande importância para os pacientes, famílias, gestores e profissionais de saúde com a finalidade de oferecer uma assistência segura. A Organização Mundial de Saúde (OMS) demonstrando preocupação com a situação, criou em 2002 a World Alliance for Patient Safety (Aliança Mundial pela Segurança do Paciente) que tem como objetivos organizar os conceitos e as definições sobre segurança do paciente e propor medidas para reduzir os riscos e diminuir os eventos adversos. As ações do PNSP articulam-se com os objetivos da Aliança Mundial e comtemplam demais políticas de saúde para somar esforços aos cuidados em redes de atenção à saúde. Um de desafios da Aliança Mundial para a Segurança do Paciente, é a CIRURGIA SEGURA, por meio de quatro ações importantes, inclusas no programa Cirurgias Seguras Salvam Vidas, aderido em 2008 pelo Ministério da Saúde do Brasil: 1) Prevenção de infecções do sítio cirúrgico; 2) Anestesia segura; 3) Equipes cirúrgicas seguras; 4) Indicadores da assistência cirúrgica. Para a verificação desses indicadores, foi criada uma lista de verificação padronizada, muito conhecida no centro cirúrgico como checklist! LISTA DE VERIFICAÇÃO PADRONIZADA. O checklist possui 3 tempos diferentes: SIGN IN: antes do início da anestesia 1. IDENTIFICAÇÃO DO PACIENTE E PRESENÇA DE ALERGIAS; 2. MARCAÇÃO DO SÍTIO CIRÚRGICO (LOCAL E LATERALIDADE) - idealmente realizada pelo cirurgião antes de o paciente ser levado ao centro cirúrgico; 3. ASSINATURA DO TERMO DE CONSENTIMENTO; 4. CONFORMIDADE DOS MATERIAIS SOLICITADOS (ANESTESIA E CIRURGIA); 5. CHECAR DIFICULDADE DE VIA AÉREA E RISCO DE ASPIRAÇÃO; 6. CHECAR RISCO DE SANGRAMENTO - > 500 ml no adulto ou 7ml/kg na criança (solicitar tipagem sanguínea e reserva de sangue). TIME OUT: antes da incisão na pele 1. APRESENTAÇÃO DOS MEMBROS DA EQUIPE CIRÚRGICA, ANESTESISTA E EMFERMEIROS; 2. CONFIRMAÇÃO VERBAL DO NOME DO PACIENTE, SÍTIO CIRÚRGICO E PROCEDIMENTO A SER REALIZADO; 3. CONFIRMAÇÃO DA APLICAÇÃO DE ANTIMICROBIANOS, QUANDO INDICADOS; 4. DISPONIBILIDADE DOS EXAMES DE IMAGEM; 5. MATERIAIS (FUNCIONAMENTO E ESTERILIZAÇÃO) SIGN OUT: antes da saída do paciente da sala de cirurgia. 1. CONFERÊNCIA DE MATERIAIS UTILIZADOS (contagem de materiais como gazes, compressas); 2. IDENTIFICAÇÃO DE AMOSTRAS E MATERIAIS COLETADOS (por exemplo: anatomopatológico)",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3164,7 +3272,7 @@
       },
       "correta": "E",
       "explicacao": "Em paciente estável, pouco sintomático e acompanhado de perto (incluindo Rx contrastado), podemos inicialmente indicar tratamento clínico dessa perfuração. Paciente com diagnóstico de úlcera gástrica perfurada, submetido a tratamento cirúrgico com ulcerorrafia e patch de Graham, além de biópsia das bordas da úlcera.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3190,7 +3298,7 @@
       },
       "correta": "D",
       "explicacao": "A alça identificada pela seta é, com certeza, de delgado Estamos diante de um paciente com antecedente de cirurgia abdominal cursando com dor abdominal, náuseas e vômitos. A radiografia apresentada tem um padrão de obstrução intestinal alta, com distensão centralizada de de alças de delgado, uma vez que as pregas coniventes, chamada de “empilhamento de moedas”, estão bem evidentes nessa imagem. A principal hipótese diagnóstica nesse caso é obstrução intestinal por bridas (aderências intestinais pós-operatórias tardias).",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3216,7 +3324,7 @@
       },
       "correta": "A",
       "explicacao": "Atrofia de mucosa gástrica A classificação de Lauren é uma classificação histopatológica que foi originalmente desenvolvida para categorizar os diferentes tipos histológicos de adenocarcinoma gástrico. Ela foi proposta em 1965 e continua sendo usada como uma ferramenta importante para classificar os tumores gástricos com base em suas características histológicas. Esta classificação reconhece dois principais tipos histológicos de adenocarcinoma gástrico: 1. Subtipo intestinal de Lauren: caracterizado por células epiteliais que formam estruturas de glândulas bem diferenciadas. Este tipo está frequentemente associado à infecção por H. pylori e é mais comum em áreas com maior prevalência da infecção por essa bactéria. 2. Subtipo difuso de Lauren: caracterizado por células em uma disposição de padrão difuso sem formação de estruturas de glândulas. Este tipo é menos comum e, muitas vezes, está associado à perda da aderência celular e possui uma pior evolução clínica. Está bastante associado a mutações genéticas a ao câncer difuso hereditário. O esquema abaixo ajuda a memorizar as principais características dos 2 subtipos: A paciente da questão é uma mulher jovem, apresentando uma lesão no corpo gástrico proximal, um tumor realmente compatível com o subtipo DIFUSO de Lauren. A questão pede, então, para identificarmos um fator que não está relacionado ao subtipo difuso, vamos procurar entre as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3242,7 +3350,7 @@
       },
       "correta": "C",
       "explicacao": "Hérnia direta e indireta A hernioplastia laparoscópica utiliza o conceito de “tension-free”, ou seja, utiliza tela para seu reparo. A tela deve recobrir o orifício miopectínio, descrito por Fruchaud em 1956, que seria uma área de fraqueza da região inguinal que daria origem a todas as hérnias da região, tanto inguinal quanto femoral: Na visão laparoscópica de uma herniorrafia inguinal, alguns triângulos anatômicos devem ser identificados. São eles: Triângulo de Hesselbach: ✔ Local em que ocorrem as hérnias inguinais DIRETAS. ✔ Limite medial: Borda lateral da bainha do músculo reto abdominal; ✔ Limite superolateral: Vasos epigástricos inferiores; ✔ Limite inferior: Ligamento Inguinal (ou de Poupart). Triângulo da dor e do desastre: ✓ O TRIÂNGULO DO DESASTRE (doom, em inglês) é limitado medialmente pelos vasos deferentes e lateralmente pelos vasos do cordão espermático. O conteúdo do espaço inclui os vasos ilíacos externos, a veia ilíaca circunflexa profunda, o nervo femoral e o ramo genital do nervo genitofemoral. As lesões nessa área levam a sangramento intenso. ✓ O TRIÂNGULO DA DOR (pain, em inglês) é uma região delimitada pelo trato iliopúbico e vasos gonadais e contém os nervos cutâneo femoral lateral, ramo femoral do genitofemoral e femoral. As lesões nessa área levam à dor crônica neuropática Canal femoral (localização das hérnias femorais): Limites: ✔ Limite anterior: trato iliopúbico; ligamento inguinal; ✔ Limite posterior: ligamento de Cooper; ✔ Limite lateral: veia femoral. ✔ Limite medial: junção do trato iliopúbico e do ligamento de Cooper (formando o ligamento lacunar).",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3271,7 +3379,7 @@
       },
       "correta": "C",
       "explicacao": "Realizar drenagem pleural e iniciar antibióticos. Gabarito: alternativa C O caso descreve uma mulher de 50 anos, tabagista, apresentando febre alta, dispneia progressiva e dor torácica, associadas a um derrame pleural moderado à direita. Nesse caso, devemos suspeitar de um derrame pleural parapneumônico. A toracocentese foi realizada corretamente e revelou um líquido pleural com características de exsudato. Os critérios que definem um derrame pleural como exsudato incluem a presença de proteína pleural/proteína sérica > 0,5, DHL pleural/DHL sérica > 0,6 ou DHL pleural > dois terços do limite superior do normal sérico, que são os critérios de Light: Além disso, podemos afirmar que é um derrame complicado, evidenciado por glicose de 30 mg/dL e pH de 7,0. Esses achados são altamente sugestivos de um derrame parapneumônico complicado , que requer intervenção precoce com drenagem pleural e antibioticoterapia. Quando estivermos diante de um derrame pleural parapneumônico, devemos observar três parâmetros para definirmos a necessidade de drenagem pleural: PH, LDH e glicose. Além disso, se houver bactérias no líquido pleural ou líquido purulento, indica que é um empiema, portanto, haveria também a necessidade de drenagem pleural. Observe a tabela abaixo:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3298,7 +3406,7 @@
       },
       "correta": "E",
       "explicacao": "Presença de metástase pulmonar Os critérios de Fong, criados pelo médico Yuman Fong são utilizados para definir o risco de recorrência do câncer colorretal e inclui: 1. CEA > 200 ng/mL. 2. Mais de uma metástase hepática. 3. Tamanho da metástase hepática > 5 cm. 4. Intervalo < 12 meses entre tumor primário e metástases. 5. Linfonodos positivos no tumor primário. Portanto o único elemento apresentado, que não faz parte dos critérios é a presença de metástase pulmonar. GABARITO: ALTERNATIVA “E”.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3324,7 +3432,7 @@
       },
       "correta": "C",
       "explicacao": "Homem, 51 anos, doença de Crohn em cólon transverso com estenose severa Questão ruim, com duas respostas e deveria ter sido anulada. Antes de avaliarmos as alternativas, precisamos definir alguns conceitos e classificações do abdome agudo obstrutivo, como obstrução mecânica e obstrução baixa. Vamos lá. 1. Classificação quanto ao mecanismo de obstrução: ✓ Obstrução mecânica: há um agente físico causando a obstrução do trato gastrointestinal. Como exemplos, podemos citar as neoplasias, corpos estranhos, volvos, bridas. Eu costumo dizer que a obstrução mecânica é visível e palpável! ✓ Obstrução funcional: causada por uma alteração na motilidade intestinal, sem um agente físico obstrutivo. Ocorre, por exemplo, no íleo paralítico ou adinâmico e na síndrome de Ogilvie. 2. Classifique quanto à localização da obstrução: ✓ Obstrução alta: são as que ocorrem no intestino delgado, ou seja, proximal à válvula ileocecal. Aqui se encontra a causa mais comum das obstruções intestinais, que são as aderências intestinais, também chamadas de bridas. ✓ Obstrução baixa: são as obstruções colônicas, por exemplo, neoplasias colorretais, volvo de sigmóide e fecaloma. Nas obstruções intestinais baixas, é importante definir se há ou não patência da válvula ileocecal. E o que isso significa? • Válvula ileocecal competente (mais comum): a válvula ileocecal impede que haja um retorno do conteúdo do intestino grosso obstruído para o intestino delgado. Dessa forma, há uma obstrução em alça fechada, com maior risco de isquemia e perfuração do cólon proximal (geralmente o ceco). • Válvula ileocecal incompetente: a válvula ileocecal não impede que o conteúdo colônico obstruído retorne em direção ao intestino delgado. Com isso, há um menor risco de perfuração do cólon proximal, e o paciente apresenta maior distensão abdominal e pode apresentar vômitos fecalóides. Por meio de uma boa anamnese, exame físico e uma simples radiografia de abdome, é possível definir se a obstrução é alta ou baixa e, o mais importante, se será necessário o tratamento cirúrgico. 3. Classificação quanto a origem do bloqueio: As obstruções podem ser classificadas como mural (intrínseca) ou extramural (extrínseca), dependendo da origem do bloqueio. Exemplos de obstruções murais incluem: Câncer de cólon: É a causa mais comum de obstrução do intestino grosso, onde o crescimento tumoral dentro da parede do cólon leva ao estreitamento do lúmen e, eventualmente, à obstrução. Doença diverticular: A inflamação ou formação de abscessos associados a divertículos pode causar estreitamento do lúmen colônico, resultando em obstrução. Exemplos de obstruções extramurais incluem: Volvo colônico: Ocorre quando uma parte do cólon se torce sobre si mesma, causando obstrução. É uma causa comum de obstrução benigna e pode ser identificada por sinais específicos em exames de imagem, como o sinal do redemoinho mesentérico. Compressão por massas extrínsecas: Tumores ou massas fora do cólon, como aqueles originados de órgãos adjacentes, podem comprimir o cólon externamente, levando à obstrução. Agora, vamos prosseguir para as alternativas.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3350,7 +3458,7 @@
       },
       "correta": "D",
       "explicacao": "medidas dietéticas são suficientes para tratar a maioria dos pacientes. Essa questão apresenta duas alternativas corretas e deveria ter sido anulada pela banca. Inicialmente, vamos entender o procedimento de gastrectomia subtotal ao qual nosso paciente foi submetido. Pacientes submetidos a gastrectomia subtotal apresentam tumores próximos ao antro gástrico. Afinal, tumores no meio do corpo gástrico e no fundo gástrico requerem uma gastrectomia total. Uma vez realizada a gastrectomia parcial, três tipos de reconstrução do trânsito gastrointestinal são possíveis. Veja as três possibilidades abaixo. Atualmente, a reconstrução à Billroth I quase não é realizada, em decorrência da elevada taxa de complicações em relação às duas outras técnicas. A despeito disso, a síndrome de dumping pode estar presente em qualquer uma das três técnicas de reconstrução pós gastrectomia. Pois bem, agora, vamos entender o fenômeno do dumping. Por definição, o dumping caracteriza-se pelo surgimento de sintomas gastrointestinais poucos minutos após uma refeição (dumping precoce) ou sintomas secundários à hipoglicemia poucas horas após a refeição (dumping tardio). Embora possa surgir após qualquer tipo de gastrectomia, é mais comum após a gastrectomia parcial com a Billroth II. A síndrome de dumping precoce corresponde ao surgimento de sintomas gastrointestinais e vasomotores em 15 a 20 minutos após as refeições. Os sintomas gastrointestinais incluem náuseas e vômitos, sensação de plenitude gástrica, cólicas abdominais e, frequentemente, diarreia explosiva. Com menor frequência, ocorrem sintomas vasomotores, como palpitações, diaforese, tonturas e rubor. O dumping precoce é resultado do rápido esvaziamento de alimentos hiperosmolares em direção ao jejuno devido à ressecção do mecanismo pilórico junto à gastrectomia, impedindo o estômago de preparar seu conteúdo e liberá-lo para o intestino proximal sob a forma de pequenas partículas em solução isotônica. O bolo alimentar hipertônico passa para o lúmen intestinal e induz à rápida passagem de líquido extracelular para o lúmen intestinal, a fim de obter a isotonicidade. Esse deslocamento de líquido extracelular promove distensão intestinal que, por sua vez, gera as respostas autonômicas responsáveis pelos sintomas descritos. Os pacientes devem ser orientados a evitar alimentos ricos em açúcar e a substituí-los por uma dieta composta por alimentos ricos em fibras, em carboidratos complexos, em gorduras e em proteínas, além de fazer refeições pequenas e frequentes. Para aqueles que não respondem às medidas dietéticas, os agonistas de ação prolongada do octreotide têm melhorado os sintomas (retardam o esvaziamento gástrico e a motilidade do intestino delgado). Normalmente, o dumping precoce é autolimitado e resolve-se dentro de 7 a 12 semanas. Já a síndrome de dumping tardio, atualmente referida como hipoglicemia hiperinsulinêmica pós-prandial, é uma complicação mais rara. Os sintomas do dumping tardio geralmente ocorrem de uma a três horas após a ingestão de carboidratos e, geralmente, meses a anos após a cirurgia. Estão associados à hipoglicemia documentada. A fisiopatologia não é totalmente compreendida. A liberação acelerada de carboidratos no lúmen intestinal e sua rápida absorção resulta em hiperglicemia, processo que desencadeia a liberação de grandes quantidades de insulina. Isso pode resultar em uma resposta excessiva e evoluir para uma hipoglicemia profunda em resposta a esse excesso de insulina. A glândula adrenal é excitada a liberar catecolaminas e o paciente desenvolve sintomas adrenérgicos, como diaforese, tremores, tonturas e taquicardia. A maioria dos pacientes com dumping tardio pode ser tratada com a mesma modificação alimentar sugerida acima para a síndrome do dumping precoce. Pacientes refratários à modificação da dieta podem ser tratados com medicamentos, sendo a cirurgia bariátrica revisional reservada para os pacientes refratários aos tratamentos conservadores. Após essa revisão completa sobre dumping, vamos às alternativas.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3376,7 +3484,7 @@
       },
       "correta": "A",
       "explicacao": "as hérnias de hiato tipo II e III são consideradas como hérnias paraesofágicas. A doença do refluxo gastroesofágico (DRGE) representa um dos temas mais frequentemente abordados em provas de residência médica em gastroenterologia. É definida como uma condição que se desenvolve quando o refluxo do conteúdo gástrico causa sintomas e/ou lesões na mucosa esofágica. Os sintomas típicos incluem pirose e regurgitação, enquanto manifestações atípicas podem incluir tosse crônica, rouquidão, dor torácica não cardíaca e asma. O manejo inicial é predominantemente clínico, baseado em medidas comportamentais e uso de inibidores de bomba de prótons (IBP) em dose plena por 8 semanas, especialmente em pacientes jovens, sem sinais de alarme e sem tratamento prévio. Pacientes com idade superior a 50 anos, presença de sinais de alarme (disfagia, odinofagia, emagrecimento, anemia) ou refratários ao tratamento clínico inicial requerem investigação complementar. A endoscopia digestiva alta é o primeiro exame a ser solicitado, seguida de pHmetria em casos selecionados. A manometria esofágica é reservada para casos em que se considera tratamento cirúrgico. As hérnias hiatais frequentemente se associam à DRGE e são classificadas em quatro tipos. A tipo I (por deslizamento) representa 95% dos casos e caracteriza-se pela migração da junção esofagogástrica para o tórax. A tipo II (paraesofágica verdadeira) mantém a junção esofagogástrica em posição normal com herniação do fundo gástrico. A tipo III (mista) combina elementos das tipos I e II, enquanto a tipo IV envolve herniação de outras vísceras além do estômago. Abaixo, veja uma ilustração dos tipos de hérnia hiatal diafragmática: O tratamento cirúrgico tem indicações específicas: hérnias tipo I grandes com sintomas refratários ao tratamento clínico adequado, hérnias paraesofágicas volumosas (tipos II-IV) mesmo em pacientes assintomáticos pelo risco de complicações agudas como volvulo ou estrangulamento. A escolha da técnica cirúrgica depende do tipo de hérnia e da presença de DRGE associada. Analisando as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3402,7 +3510,7 @@
       },
       "correta": "C",
       "explicacao": "Se optar pelo tratamento expectante, a chance de evoluir com sintomas leves ou aumento da hérnia e necessitar da cirurgia em até 10 anos é de aproximadamente 70%. Vamos avaliar, separadamente, cada uma das assertivas em relação às hérnias inguinais, em busca da alternativa correta.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3429,7 +3537,7 @@
       },
       "correta": "A",
       "explicacao": "Gastrectomia em Cunha. GIST gástrico. A interpretação de imagens endoscópicas é fundamental em provas de residência médica. À primeira vista, esta questão parece abordar apenas o manejo de uma hemorragia digestiva alta refratária ao tratamento endoscópico. Entretanto, a chave para sua resolução está na correta interpretação da imagem endoscópica apresentada. A imagem mostra uma lesão subepitelial volumosa, caracterizada por elevação recoberta por mucosa normal, localizada no corpo gástrico, com ulceração em seu polo superior. Este padrão é típico de lesões que crescem na parede gástrica e se projetam para a luz (crescimento submucoso), sendo o GIST o principal diagnóstico diferencial nesta localização. A ulceração central ocorre por isquemia da mucosa sobrejacente devido à compressão exercida pelo tumor, explicando também porque a biópsia convencional mostra apenas mucosa normal. Abaixo, veja outras imagens semelhantes desse tipo de lesão: . . O sangramento, neste caso, origina-se da ulceração secundária à lesão subepitelial, e não de uma lesão mucosa primária. Isto explica por que os métodos hemostáticos endoscópicos convencionais são ineficazes, sendo necessária abordagem cirúrgica definitiva. Com essas informações em mente, vamos analisar as alternativas, em busca do diagnóstico mais provável e da conduta:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3459,7 +3567,7 @@
       },
       "correta": "C",
       "explicacao": "a drenagem pode ser realizada no quinto espaço intercostal com dreno à selo d'água calibroso. Vamos relembrar os passos necessários a uma drenagem torácica. 1. Preparação do Paciente: O paciente deve ser posicionado de forma adequada, em decúbito dorsal com o braço do lado a ser drenado levantado sobre a cabeça para expor a área axilar. A área de inserção é desinfetada e coberta com campos estéreis. 2. Anestesia Local: A anestesia local é administrada, para anestesiar a pele, o tecido subcutâneo, o periósteo da costela e a pleura parietal. É importante lembrar que o nervo e os vasos intercostais correm ao longo da borda inferior da costela, portanto, a anestesia deve ser aplicada na borda superior da costela. 3. Identificação do Local de Inserção do tubo: O local de inserção adequado, segundo o ATLS, é o quarto ou quinto espaço intercostal entre a linha axilar anterior e média. 4. Incisão e Dissecção: Uma incisão é feita na pele, e o tecido subcutâneo e a musculatura intercostal são dissecados até a cavidade pleural. 5. Inserção do Tubo: Um tubo torácico calibre 28 a 32 é inserido através do túnel criado, direcionando-o para cima e para trás. 6. Fixação do Tubo: O tubo é fixado à pele com sutura em bailarina e em seguida, é conectado a um sistema de drenagem com selo d'água para permitir a saída de ar ou líquido sem permitir a entrada de ar no espaço pleural. 7. Verificação e Monitoramento: Após a inserção, a posição do tubo é verificada, geralmente com uma radiografia de tórax e o exame físico torácico do paciente deve ser repetido. Agora, vamos às alternativas.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3483,7 +3591,7 @@
       },
       "correta": "E",
       "explicacao": "Diagnóstico provável de pancreatite aguda pós-operatória, sendo necessários exames laboratoriais para confirmar o diagnóstico. Tratamento clínico de suporte seria indicado. A paciente apresenta dor abdominal intensa no sétimo dia de pós-operatório de uma colecistectomia videolaparoscópica, associada a vômitos refratários, dor intensa em andar superior do abdome, sinais de irritação peritoneal e distensão abdominal. Todos esses elementos são compatíveis com o diagnóstico de pancreatite aguda. Embora seja infrequentemente ainda é possível que ocorra pancreatite aguda após a colecistectomia. Esse quadro pode estar associado à coledocolitíase residual que pode não ter sido identificada.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3507,7 +3615,7 @@
       },
       "correta": "C",
       "explicacao": "Encaminhar imediatamente para realizar a biópsia do colo uterino. Estrategista, esta paciente foi submetida a colpocitologia que apresentou resultado de ASC-H. A conduta frente a estes casos é encaminhar a paciente para a realização de colposcopia e esse exame apresentou epitélio aceto branco denso, com vasos atípicos e sangrantes ao toque, superfície irregular e áreas de ulceração, que podem ser vistos na imagem da questão. O que representa esses achados colposcópicos? Veja a tabela abaixo: Observando a tabela acima podemos ver que a paciente apresenta achados sugestivos de invasão. Ou seja, achados sugestivos de câncer de colo uterino. Sendo assim, a conduta é realizar biópsia do colo para confirmar o diagnóstico e, depois que confirmado que se trata de lesão invasora, proceder com o estadiamento da paciente para definir o seu tratamento. Agora vamos analisar as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3534,7 +3642,7 @@
       },
       "correta": "E",
       "explicacao": "Nenhuma das alternativas GABARITO: ALTERNATIVA E. Referência bibliográfica: 1. Ministério da Saúde. Manual de Instruções para o Preenchimento da Declaração de Óbito. Brasília, agosto de 2001. Disponível em: https://bvsms.saude.gov.br/bvs/publicacoes/manual_declaracao_obitos.pdf. 2. Ministério da Saúde. Declaração de Óbito - manual de instruções para preenchimento. Destinado a apoiar médicos e técnicos/gestores do Sistema de Informações sobre Mortalidade para o correto preenchimento e estabelecimento de fluxos da Declaração de Óbito. Disponível em: https://www.gov.br/saude/pt-br/centrais- de-conteudo/publicacoes/svsa/vigilancia/declaracao-de-obito-manual-de-instrucoes- para-preenchimento.pdf/view. Estrategista, Estamos diante de uma questão clássica de preenchimento do campo 40 da declaração de óbito, e olha que curioso, a banca utilizou um exemplo muito similar ao do Ministério da Saúde no Manual de Preenchimento da Declaração de Óbito de 2005! Veja que o Ministério utilizou justamente o exemplo da febre tifoide ocasionando perfuração intestinal e peritonite: Figura 1 - Declaração de óbito de um paciente que faleceu de febre tifoide, que levou a perfuração intestinal, que por sua vez levou a peritonite. Extraído da referência 1 (Ministério da Saúde, 2001). Pois bem, mas o que você precisa saber sobre esse tópico para gabaritar as próximas questões do assunto? Vamos lá! O primeiro ponto fundamental é compreender que diversas informações constam na declaração de óbito, como idade, ocupação/profissão e grau de escolaridade, porém o campo mais relevante para a sua prova é o “campo 40”, onde as causas do óbito são informadas. Esses dados alimentam o Sistema de Informações sobre Mortalidade (SIM), gerando estatísticas de mortalidade sobre a nossa população. Logo, a identificação das causas do óbito tem fins epidemiológicos! Por sua vez, o campo 40 é dividido em partes 1 e 2. A parte 1 é aquela que contém a sequência principal do óbito e pode ser preenchida com até 4 causas, em ordem cronológica inversa, a saber: - causa direta, terminal ou imediata da morte, que é a causa que antecedeu imediatamente a morte do paciente. - causas intervenientes ou intermediárias da morte: são os eventos intermediários entre a causa terminal e a causa básica e que participaram do processo de morte do paciente. - causa básica da morte, que é a doença ou lesão que iniciou a cadeia de eventos que conduziram à morte. Por exemplo, suponha que um paciente com doença de Alzheimer tenha evoluído para disfagia motora. Com isso, acabou se engasgando com um alimento e broncoaspirando, evoluindo dias depois para pneumonia e óbito. A sequência de causas do óbito será: Doença de Alzheimer (causa básica) -- disfagia motora (causa intermediária 1) - broncoaspiração (causa intermediária 2) -- pneumonia (causa terminal). Porém, como escrevemos na DO em ordem cronológica inversa, temos que: Linha a: pneumonia; Linha b: broncoaspiração; Linha c: disfagia; Linha d: doença de Alzheimer. Já a parte 2 do campo 40 é reservada para as causas contribuintes do óbito. São doenças cuja presença não se relaciona diretamente com a morte, mas “atrapalham” a evolução clínica. Por exemplo, paciente que é diabético e que foi submetido à gastrectomia total por câncer de estômago, evoluindo com deiscência de anastomose, sepse e óbito. Fica claro que o diabetes é causa contribuinte do óbito por “atrapalhar” a cicatrização e resposta à infecção, muito embora não participe da sequência principal do processo de morte. Voltando para a questão, a banca informa que que o paciente tinha febre tifoide e apresentou perfuração intestinal, falecendo em consequência de peritonite. Ora, a febre tifoide é a causa básica, a perfuração intestinal é a causa intermediária e a peritonite é a causa terminal: Parte 1: Linha a: peritonite; Linha b: perfuração intestinal; Linha c: febre tifoide; Linha d: ---- Parte 2: ------- Observe que a febre tifoide não será descrita na linha d, e sim na linha c, uma vez que não pulamos linhas em declarações de óbito. Além disso, como nada foi mencionado sobre causas contribuintes, a parte 2 do campo 40 ficará em branco. Com essas informações em mente, vamos avaliar as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3560,7 +3668,7 @@
       },
       "correta": "D",
       "explicacao": "Avaliar a letra X e controlar o sangramento exsanguinante da coxa com uso de torniquete e enfaixamento compressivo do coto de amputação. Antes de respondermos a essa questão, devemos nos lembrar do seguinte: No atendimento pré-hospitalar (PHTLS) o tratamento de hemorragias graves, com risco de exsanguinação, é prioritário em relação à estabilidade de coluna cervical, vias aéreas e ventilação. O mnemônico de atendimento das prioridades de atendimento pré-hospitalar é o XABCDE. X- Medidas para contenção de hemorragias externas graves (risco de exsanguinação) A- Proteção da coluna cervical e vias aéreas B- Respiração e ventilação C- Circulação com controle de hemorragia (outros focos, não exsanguinantes) D- Avaliação neurológica E- Exposição. Portanto, a primeira medida é se certificar de que o foco da hemorragia exsanguinante foi devidamente controlado. Visto isso, vamos às alternativas.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3583,7 +3691,7 @@
       },
       "correta": "B",
       "explicacao": "Considerar a lesão como possível de ser melanoma e indicar biópsia incisional ou excisional. Estrategista, sempre que estamos diante de uma lesão pigmentada precisamos aplicar a regra do ABCDE para sabermos se devemos suspeitar de um melanoma ou não. Vamos relembrar? A – assimetria. Lesão assimétrica indica suspeita de malignidade B – bordas irregulares. Bordas irregulares indica suspeita de malignidade C – cores. Lesões pigmentadas com múltiplas cores (preto, marrom escuro, marrom claro...) indicam suspeita de malignidade D – diâmetro. Lesões pigmentadas com diâmetro maior que 5mm indicam suspeita de malignidade E - evolução. Lesões que estão mudando de aspecto indicam malignidade. Essa lesão enegrecida possui mais que 5mm (2cm) e é nova (evolução). Portanto, provavelmente estamos de um melanoma do tipo lentiginoso acral. Diante de uma lesão suspeita de melanoma, a melhor conduta é realizar uma biópsia excisional com margens mínimas. Nos casos em que a lesão é muito grande em um local de difícil execução da biópsia excisional, é possível realizar a biópsia incisional (retirada de um fragmento da lesão) para confirmação histopatológica.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3609,7 +3717,7 @@
       },
       "correta": "A",
       "explicacao": "A hidratação oral deve ser priorizada e quando necessária, a hidratação venosa deve ser feita a uma taxa aproximada de 30mL/kg em 24 horas. Para respondermos a essa questão, vamos recorrer a tabela com as recomendações mais importantes do projeto Projeto ACERTO (Aceleração da Recuperação Total Pós-Operatória): O que é preconizado é que evitemos a reposição excessiva de fluidos, visto que o excesso de volume está associado a maiores complicações pós-operatórias, como íleo pós-operatório e risco de deiscência das anastomoses. A restrição de volume vale para todo o período operatório: pré, trans e pós-operatório.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3634,7 +3742,7 @@
       },
       "correta": "B",
       "explicacao": "Acidose metabólica com anion gap aumentado e acidose respiratória. Caro estrategista, mais uma questão que nos cobra a análise de uma gasometria arterial. Vamos agora para o nosso passo a passo da gasometria arterial: Passo 1: olhar o pH. O enunciado nos forneceu um pH de 7,25. A faixa normal do pH plasmático é entre 7,35 e 7,45. Estamos diante, portanto, de uma acidemia. Passo 2: encontrar o distúrbio primário. Uma acidemia deve nos levar à busca de duas condições: uma redução dos níveis de bicarbonato (acidose metabólica) ou um aumento nos níveis de pCO2 (acidose respiratória). O que encontramos é um bicarbonato de 13mEq/L (valores normais entre 22-26mEq/L). Concluímos então, que temos uma acidose metabólica. Passo 3: existe compensação respiratória do distúrbio metabólico? O cálculo para avaliar o pCO2 esperado como forma de compensar a acidose metabólica é o seguinte: [(1,5 x HCO3-) + 8] = pCO2 esperado. No nosso caso, o valor encontrado é 19,5, abaixo do pCO2 fornecido pela gasometria. Então, o paciente apresenta distúrbio respiratório associado, uma acidose respiratória, por estar retendo mais CO2 que deveria. Passo 4: sempre que estivermos frente a uma acidose metabólica, devemos calcular o ânion- gap. A fórmula do ânion-gap é [Na+ - (Cl- + HCO3-)], e seu valor normal é em torno de 12mEq/L. Com os dados que nos foram fornecidos, chegamos a um ânion-gap de 27mEq/L. Temos então, uma acidose metabólica de ânion-gap aumentado. Passo 5: diagnóstico final do distúrbio ácido-básico. Neste caso, o paciente apresenta uma acidose metabólica de ânion-gap aumentado associada a uma acidose respiratória. Temos, portanto, uma acidose mista. Alternativa B correta.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3657,7 +3765,7 @@
       },
       "correta": "D",
       "explicacao": "Pode ser oferecida solução rica em carboidratos por via oral até duas horas antes da cirurgia. Estamos diante de uma questão que versa sobre tópicos variados, relacionados ao contexto perioperatório. Assim, vamos avaliar separadamente cada uma das alternativas e, a partir disso, fazer uma pequena revisão sobre o tema.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3682,7 +3790,7 @@
       },
       "correta": "C",
       "explicacao": "A nutrição pré-operatória, iniciada por pelo menos cinco a sete dias antes da cirurgia, reduz as complicações e a mortalidade. Primeiramente, é importante entender que um paciente que vai para cirurgia com estado nutricional abaixo do ideal terá sérias consequências no pós-operatório, como: ✓ prejuízo na cicatrização das feridas; ✓ resposta imune inadequada ao grau de agressão; ✓ recuperação pós-operatória lenta; ✓ tempo prolongado de internação; ✓ aumento da morbimortalidade. Com o suporte nutricional adequado, nós conseguimos prevenir, em alguma medida, esses efeitos adversos. Assim, uma das perguntas é: por quanto tempo devemos otimizar a nutrição pré-operatória? Se a intervenção cirúrgica puder ser adiada, o período ideal é de 10 a 14 dias. É importante frisar que o objetivo do suporte nutricional não é “engordar” o paciente, tampouco recuperá-lo completamente. Aqui, o objetivo é diminuir o risco de complicações graves, como vimos. E quais são os pacientes que têm indicação de suporte nutricional perioperatório? Uma vez que conseguimos identificar o paciente que está em risco de complicações por conta do seu estado nutricional, é preciso determinar a via alimentar que utilizaremos. E, nesse contexto, é mandatório saber que a via alimentar preferencial é a VIA ENTERAL! Muita atenção aqui para o termo “enteral”: você pode rapidamente associá-lo com a nutrição por sonda nasoenteral. Cuidado: aqui, o termo “enteral” é utilizado em um sentido amplo, isto é, de utilização do trato gastrointestinal para absorção dos nutrientes. Veja só: Visto isso, vamos às alternativas.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3709,7 +3817,7 @@
       },
       "correta": "C",
       "explicacao": "Inserção de sistema intrauterino de levonorgestrel (SIU-LNG). Estrategista, esta é uma questão sobre a conduta frente a hiperplasia endometrial. Veja o esquema abaixo: Agora vamos analisar as alternativas:",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3734,7 +3842,7 @@
       },
       "correta": "B",
       "explicacao": "Citologia 6 e 12 meses após o procedimento. Se as citologias forem negativas passar para citologia anual até completar cinco anos do tratamento. Estrategista, esta é uma questão sobre o seguimento pós tratamento das lesões de alto grau. Esta paciente foi submetida à conização para a ressecção completa, com margens livres, de uma lesão NIC III. Existe risco de recorrência de lesões pré-invasivas ou invasivas do colo após o tratamento conservador de NIC 2/3. O principal fator de risco para a doença residual ou recorrente é o relato de margens cirúrgicas comprometidas. Outros fatores que podem estar relacionados são: 1. Idade acima de 50 anos; 2. Grau da doença tratada; 3. Persistência do HPV oncogênico; 4. Tabagismo; 5. Multiparidade; 6. Imunocomprometimento; 7. Existência de lesões fora da ZT. Caso você se depare com um produto de conização com margens cirúrgicas comprometidas a conduta não é retratamento! Os estudos mostram que, mesmo com o risco aumento de lesão residual ou recorrente nesses casos, a maioria das mulheres não terá doença, podendo ser assumida uma conduta conservadora. Isso acontece pois o procedimento excisional provoca reação inflamatória e estimula o sistema imunológico da paciente, o que favorece o clareamento da infecção viral. Já que a persistência do HPV oncogênico é um dos fatores de risco, existem protocolos de seguimento orientando pesquisa de DNA HPV após, no mínimo, 6 meses do tratamento excisional, pois esse teste tem maior sensibilidade que a citologia no diagnóstico de doença residual ou recorrente. Entretanto, lembre-se: a diretriz brasileira (2016) não recomenda o teste de DNA HPV. Recomendações de seguimento nestes casos: • Se margens cirúrgicas livres ou comprometidas por NIC 1: o Citologia 6 e 12 meses após o procedimento. A colposcopia fica à critério do serviço. o Após o primeiro ano: citologia anual até completar 5 anos do tratamento. • Se qualquer uma das margens for comprometida por NIC 2/3: o Citologia + colposcopia semestralmente por 2 anos; o Após os 2 primeiros anos: citologia anual até completar 5 anos do tratamento. • Após 5 anos: citologia trienal. Agora vamos analisar as alternativas:",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3757,7 +3865,7 @@
       },
       "correta": "B",
       "explicacao": "Enoxaparina SC Gabarito: alternativa B. Questão polêmica! A questão apresentada trata de um quadro clínico compatível com tromboembolismo pulmonar (TEP), associado a sinais de disfunção ventricular direita no ecocardiograma e falhas de enchimento na angiotomografia de tórax. Antes de justificar as alternativas, é fundamental compreender a gravidade do caso, as indicações de cada modalidade terapêutica e a racionalidade do tratamento. Essa análise exige a integração da história clínica, dos achados de exame físico e dos exames complementares. O TEP é uma condição potencialmente fatal, especialmente em pacientes com instabilidade hemodinâmica, como evidenciado pela pressão arterial inicial de 70/50 mmHg na questão, síncope e enchimento capilar aumentado. Observe abaixo os critérios de instabilidade hemodinâmica no TEP: Esses achados indicam choque obstrutivo devido à sobrecarga aguda do ventrículo direito. O ecocardiograma confirmando dilatação e hipocinesia do ventrículo direito reforça o diagnóstico de TEP maciço, assim como os achados na angiotomografia. Observe o fluxograma de investigação do TEP maciço: O tratamento do TEP instável deve ser imediato, considerando trombólise ou embolectomia mecânica, enquanto no TEP em pacientes estáveis, o foco é a anticoagulação. Baseado nisso, a questão é extremamente polêmica. Inicialmente era um caso clássico de TEP instável em que foi optado por tratamento clínico com hidratação venosa. Neste momento houve uma melhora clínica e o paciente estabilizou, porém, considerando a causa do choque (obstrutivo) é necessário pensarmos que a instabilidade logo retornaria. Ainda assim, a banca considerou que no momento atual não seria correto resolver a causa do choque obstrutivo e prosseguir com tratamento de suporte. Discordo da decisão da banca, já que o manejo desse paciente é dúbio, não havendo, portanto, apenas uma resposta correta. Comentando as alternativas:",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3783,7 +3891,7 @@
       },
       "correta": "B",
       "explicacao": "Colestiramina Estrategista, a paciente foi submetida a uma colecistectomia videolaparoscópica e, após a alta, desenvolveu um quadro de diarreia crônica de início pós-operatório. A diarreia ocorre principalmente após as refeições, sem sangue ou sinais de inflamação intestinal, e os exames laboratoriais e endoscópicos estão normais. Esse quadro é altamente sugestivo de diarreia pós-colecistectomia, causada pelo excesso de ácidos biliares no intestino delgado, levando a um efeito irritativo e secretório na mucosa intestinal. O tratamento de escolha para essa condição é a colestiramina, um sequestrante de ácidos biliares.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3806,7 +3914,7 @@
       },
       "correta": "B",
       "explicacao": "Indicar a realização de ecoendoscopia com punção/biópsia do nódulo. Estrategista, a paciente de 70 anos realizou tomografia de abdome devido a lombalgia e foi identificado um nódulo hipervascular no colo do pâncreas, medindo 1,9 cm, sem sintomas associados. Diante desse achado incidental, é essencial definir a natureza do nódulo antes de indicar qualquer cirurgia. Os nódulos hipervasculares pancreáticos podem corresponder a tumores neuroendócrinos pancreáticos (TNEs), metástases hipervasculares (como de rim ou fígado) ou lesões benignas (como hemangiomas ou hiperplasias). A avaliação inicial padrão é a ecoendoscopia com punção aspirativa por agulha fina (EUS-FNA) para caracterizar melhor a lesão antes de definir a conduta cirúrgica.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3829,7 +3937,7 @@
       },
       "correta": "B",
       "explicacao": "A maioria das tumorações primárias de retroperitônio é benigna. Sempre que estivermos diante de um paciente com uma massa retroperitoneal, devemos supeitar de sarcoma de partes moles. Sarcomas são tumores malignos que surgem de tecidos conjuntivos esqueléticos e extraesqueléticos. A maioria dos sarcomas de tecidos moles (SТS) se apresenta nas extremidades, mas muitos outros locais podem ser afetados, incluindo o retroperitônio, parede torácica, cabeça e pescoço e tecidos subcutâneos. Sarcomas habitualmente apresentam-se como massas de crescimento progressivo e indolor, e os sintomas iniciais podem ser secundários a fenômenos compressivos. Aproximadamente 13% dessas lesões acometem o retroperitônio. O diagnóstico histológico das lesões retroperitoneais é realizado por meio de punção por agulha grossa somente nos casos em que há dúvida diagnóstica ou tumor irressecável. As lesões retroperitoneais com aparência radiológica característica de sarcoma, como no caso em questão, em que a cirurgia figura como principal proposta terapêutica, não devem ser biopsiadas, pois há o risco de disseminação da neoplasia pelo trajeto de punção. A pedra fundamental no tratamento dos sarcomas é a ressecção cirúrgica com margens livres de neoplasia, sem violar a cápsula tumoral. Não se sabe ao certo qual a espessura ideal das margens de segurança para os sarcomas. De modo geral, recomenda-se no mínimo 1cm de margem, desde que isso não acarrete a ressecção ou lesão de estruturas nobres, como vasos ou nervos. Próximo a essas estruturas, a ressecção deve ser “marginal”, ou seja, uma ressecção que tangencia as estruturas nobres sem ressecá-las, mesmo que isso implique em margens de segurança inferiores a 1cm. A radioterapia (RT) está indicada como complemento ao tratamento cirúrgico para a maioria dos casos. No entanto, pode-se considerar tratar o paciente apenas com cirurgia, sem a administração de RT, se todas as condições abaixo forem respeitadas (veja a tabela): Para todos os demais casos, está indicada radioterapia. Saiba que tanto a radioterapia neoadjuvante quanto a radioterapia adjuvante apresentam taxas semelhantes de sucesso para controle local da doença. No entanto, a radioterapia neoadjuvante está associada a menos efeitos colaterais da área irradiada. A quimioterapia pode ser utilizada em regime neoadjuvante, junto à radioterapia, para pacientes com grandes lesões ou, ainda, como regime neoadjuvante isolado para tumores maiores que 5cm e com grau de indiferenciação celular moderado a alto. No entanto, a quimioterapia neoadjuvante deve ser considerada apenas para pacientes com bom status performance, com condições para tolerar a carga de quimioterápicos.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3854,7 +3962,7 @@
       },
       "correta": "A",
       "explicacao": "A tomografia de abdome sem contraste é o melhor exame para diagnóstico diferencial neste caso. Gabarito: alternativa A.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3877,7 +3985,7 @@
       },
       "correta": "D",
       "explicacao": "Os tumores que se desenvolvem em cicatrizes de queimaduras geralmente comportam-se de maneira mais agressiva com maior índice de metástases Gabarito: Alternativa D.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3900,7 +4008,7 @@
       },
       "correta": "C",
       "explicacao": "Já que consegue reduzir o conteúdo herniário com manobras manuais e tem várias comorbidades é mais seguro evitar a cirurgia. Estamos diante de um quadro de hérnia inguinal sintomática, portanto, com indicação de abordagem cirúrgica. Dito isso, vamos avaliar, separadamente, cada uma das alternativas em busca da assertiva incorreta.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -3923,7 +4031,7 @@
       },
       "correta": "A",
       "explicacao": "Apendicite aguda é a causa mais comum de dor abdominal de indicação cirúrgica em lactentes, sendo o diagnóstico difícil face à apresentação atípica e à dificuldade de se obter a história clínica e realizar o exame físico. A apendicite aguda constitui a causa mais frequente de abdome agudo na infância e é a principal afecção cirúrgica da criança. Ocorre em qualquer idade, mas é muito mais frequente entre os 04 e 15 anos. O quadro clássico é de dor abdominal incaracterística, inicialmente periumbilical ou difusa, que, após algum tempo, localiza-se na fossa ilíaca direita. À palpação abdominal, há dor à descompressão brusca de fossa ilíaca direita, no chamado ponto de McBurney. O exame de imagem de escolha para investigação diagnóstica da apendicite em crianças é a ultrassonografia do abdome. Em função da crescente preocupação com cânceres induzidos por radiação entre crianças, a tomografia computadorizada é uma modalidade diagnóstica a ser evitada neste grupo. Os achados ultrassonográficos compatíveis com apendicite aguda incluem: • Apêndice com diâmetro ≥ 07 mm. • Estrutura luminal não compressível, vista longitudinalmente. • Paredes espessadas, imagem referida como “aspecto em alvo”. • Fluxo sanguíneo é aumentado ao doppler, levando ao chamado “anel de aparência de fogo”. • Líquido periapendicular, abscesso ou aparência de massa (estágios mais avançados). O tratamento da apendicite é a apendicectomia, que pode ser realizada por via convencional ou laparoscópica. Dito isso, vamos às alternativas.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -7013,7 +7121,7 @@
       },
       "correta": "D",
       "explicacao": "sopro fisiológico O que o examinador quer saber: sobre as modificações fisiológicas cardiovasculares da gestação. Vamos iniciar o nosso estudo pela análise das modificações gestacionais que ocorrem nos sistemas cardiovascular e hematológico durante a gestação. Fique atento! Dentre as alterações sistêmicas relacionadas à gravidez, esse costuma ser o tópico favorito dos examinadores, aparecendo nas provas de Residência Médica com maior frequência do que as demais modificações gravídicas. Durante a gestação, observa-se o aumento da volemia materna, isto é, o volume sanguíneo aumenta cerca de 30 a 50% em relação aos níveis pré-gravídicos. Esse aumento permite que a elevação da demanda da irrigação sanguínea no útero seja suprida, assim como permite a compensação da diminuição do retorno venoso. Perceba que, caso isso não ocorresse, a gestante tenderia a ter muitos sintomas quando estivesse em posição supina ou em pé, assim como o feto não receberia suprimento sanguíneo adequado nessas situações. Esse aumento da volemia materna está associado ao aumento de eritrócitos em cerca de 30% em relação aos níveis pré-gravídicos. Lembrar dessa informação será importante para entender por que um dos cuidados pré-natais é recomendar a reposição profilática de ferro para todas as gestantes, independentemente de estarem anêmicas. Uma vez que a produção de células vermelhas estará aumentada, é importante suprir a necessidade de “matéria-prima” para essa produção. Vale ressaltar que a necessidade de ferro durante a gravidez também aumenta devido ao consumo fetal, às perdas sanguíneas e ao aleitamento. Associado ao aumento do volume eritrocitário, também ocorre o aumento do volume plasmático em cerca de 45 a 50% em relação aos níveis pré-gravídicos. Note que, uma vez que o aumento do volume plasmático é maior em relação ao aumento do volume eritrocitário, ocorre uma diluição das células vermelhas, ocasionando um período de hemodiluição relativa característico da gravidez. Essas modificações já se iniciam no primeiro trimestre e se intensificam no segundo trimestre, atingindo um platô nas últimas semanas de gestação. Uma das alterações cardiovasculares importantes que ocorrem durante a gestação é a redução da resistência vascular periférica. Ela ocorre devido à: Ação vasodilatadora do aumento da produção de prostaciclina e dos níveis de progesterona, assim como pela produção de óxido nítrico pelo endotélio vascular; e Presença da circulação uteroplacentária, a qual cria um território de baixa resistência para onde há desvio de fluxo sanguíneo. A redução da resistência vascular periférica é mais acentuada até por volta da 20ª semana de gestação e, embora aumente gradativamente com a evolução da gravidez, mesmo no termo, ainda é menor do que a resistência vascular periférica pré-gravídica. Outra alteração cardiovascular observada durante a gestação é o aumento da frequência cardíaca, cerca de 15 a 20 batimentos por minuto, que está associada ao volume sistólico maior. Perceba que, uma vez que o débito cardíaco é o resultado do produto entre o volume sistólico e a frequência cardíaca, se ambos estão aumentados durante a gravidez, ele também estará aumentado desde a quinta semana de gestação. O débito cardíaco tende a estabilizar por volta da 20ª a 24ª semana de gestação, sendo cerca de 50% maior do que o débito cardíaco pré-gravídico. Volta a aumentar e atinge seu ápice durante o pós-parto imediato devido ao aumento do retorno venoso após a descompressão dos vasos pélvicos com a saída do feto e a redução do volume uterino. Doc, conhecer essas modificações será importante para entender porque gestantes cardiopatas podem apresentar descompensação hemodinâmica durante a gravidez e ainda mais durante o período expulsivo do parto, devido à realização de puxos, e durante o pós- parto, devido ao aumento da pré-carga. Esteja atento! Esse conceito pode aparecer na sua prova em uma questão do bloco de Clínica Médica sobre Cardiologia. Observa-se a redução da pressão arterial sistêmica, especialmente da pressão arterial diastólica em relação à sistólica, já no primeiro trimestre de gestação, sendo mais pronunciada no segundo trimestre. Alterações discretas de ritmo cardíaco e a presença de sopros sistólicos também são comuns durante a gravidez, estando presentes em cerca de 90% das gestantes. Tais sopros funcionais ocorrem em decorrência da redução da viscosidade sanguínea e do aumento do débito cardíaco. Durante a gravidez, ainda é possível que ocorra o desdobramento das 1ª e 2ª bulhas, assim como o aparecimento da 3ª bulha. Mais uma vez, perceba que esses conceitos podem ser explorados em questões de Cardiologia no bloco da Clínica Médica. Por isso, fique atento!",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7037,7 +7145,7 @@
       },
       "correta": "B",
       "explicacao": "atividade física 150 min/sem + dieta mediterrânea + metformina 2 g/dia + semaglutida 0,25 mg/sem Caro Estrategista, temos nessa questão um paciente jovem recém-diagnosticado com DM2 e obesidade grau II. Em relação ao DM2, temos que lembrar que o tratamento consiste em medidas farmacológicas + não farmacológicas. Em relação às medidas não farmacológicas, devemos estimular a prática de atividade física, pelo menos 150minutos/semana, além da perda de peso de pelo menos 5% do peso total. Em relação à dieta escolhida, hoje sabe-se que mais importante do que o tipo de dieta (low carb, low fat, jejum intermitente, etc) o mais importante é o déficit calórico, não tendo uma recomendação formal de dieta específica para os diabéticos (SBD, 2023). Devemos também orientar os pacientes a reduzir a ingesta de carboidratos refinados, aumentar a ingesta de fibras e diminuir o consumo de bebidas açucaradas. Os itens trouxeram em todas as opções a dieta do mediterrâneo como opção. A dieta do mediterrâneo consiste em uma dieta rica em frutas, cereais, oleaginosas, azeite, peixes e alimentos integrais ricas em fibras. Seu uso tem sido associado com diminuição de doença cardiovascular, mas faltam evidências científicas para recomendar a dieta do mediterrâneo para todos os diabetes em preferência a outros tipos de dieta. Porém, como todos os itens trazem a mesma dieta, não iremos nos ater a essa informação. Em relação ao tratamento farmacológico, vamos relembrar o seguinte fluxograma do tratamento do DM2 em indivíduos sem doença cardiovascular ou doença renal crônica: Vemos que o paciente apresenta uma HBA1c >7,5%, devendo então ser iniciada terapia dupla de metformina com um 2º antidiabético. E como escolher a melhor opção de antidiabético nesse momento? Relembre agora esse seguinte esquema: Em indivíduos diabéticos e com obesidade, devemos ter como 2ª escolha de antidiabético um representante da classe dos análogos do GLP-1 ou dos inibidores da SGLT-2. Devemos lembrar que os inibidores da SGLT-2 não são medicações aprovadas para o tratamento da obesidade e promovem uma perda de peso discreta devido seu efeito glicosúrico, variando de 2-4kgs. Os análogos de GLP-1 promovem uma perna de peso significativa que chega a 17% do peso em estudos com a semaglutida. Atualmente a liraglutida 3,0mg e a semaglutida de 2,4mg são aprovadas para o tratamento da obesidade, além do diabetes, no Brasil (A semaglutida 2,4mg ainda não se encontra no mercado até dezembro/2023, porém teve seu registro aprovado este ano). Os principais efeitos colaterais são gastrointestinais (náuseas, vômitos, constipação) e para diminuir a incidência de tais efeitos, o aumento de dose deve ser progressivo. No caso da Semaglutida, utilizamos a dose de 0,25mg subcutânea 1x/semana por 4 semanas, progredindo a dose a cada 4 semanas conforme a tolerância do paciente.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7064,7 +7172,7 @@
       },
       "correta": "E",
       "explicacao": "A ligadura tubária pode ser solicitada durante o parto, com a manifestação da vontade sessenta dias antes. Estrategista, veja abaixo os pontos principais da Lei do Planejamento Familiar (14.443 / 2022): \"PONTOS-CHAVE\" DA LEI DE PLANEJAMENTO FAMILIAR 1. QUEM PODE? • Homens e mulheres; • Idade igual ou superior a 21 anos OU dois filhos vivos; • Risco de vida à mulher ou ao futuro concepto->assinado por 2 médicos; 2. Manifestação da vontade por escrito -> prazo de 60 dias entre a manifestação do desejo e o procedimento; 3. Permitida a esterilização cirúrgica no parto ou aborto; 4. Proibida esterilização por histerectomia ou ooforectomia; 5. Se sociedade conjugal -> não é necessária a assinatura do cônjuge; 6. PENA: • reclusão de 2-8 anos e multa. Agora vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7088,7 +7196,7 @@
       },
       "correta": "A",
       "explicacao": "videolaparoscopia diagnóstica Estrategista, a endometriose é caracterizada pela presença de endométrio fora da cavidade uterina. A teoria mais aceita atualmente para a fisiopatologia da endometriose é a teoria de Sampson ou da menstruação retrógrada. Esta teoria diz que o refluxo menstrual através das trompas é a causa da endometriose. Os sintomas clássicos da endometriose são a dismenorreia, a dispareunia, a infertilidade e a dor pélvica crônica. Sintomas cíclicos, relacionados com o período menstrual também são sugestivos da doença e sintomas com disúria, hematúria, disquezia e tenesmo podem estar relacionados com o acometimento do trato urinário e intestinal pela doença. O encontro no exame físico de dor ao toque bimanual, nodulação dolorosa no fundo de saco, útero fixo e massa anexial (endometrioma) também são sinais desta doença. O método diagnóstico padrão ouro para o diagnóstico da endometriose é a videolaparoscopia com biópsia das lesões endometrióticas. Outros exames indicados para a sua investigação diagnóstica são o ultrassom transvaginal com preparo intestinal e a ressonância magnética. O CA-125 não é indicado para a investigação diagnóstica da endometriose, porque é um exame pouco específico, que pode se mostrar alterado até em doenças não ginecológicas e porque é um exame que pode se mostrar normal nas mulheres com endometriose inicial. A endometriose é uma doença estrógeno dependente. Lembre-se que o endométrio prolifera devido ao estímulo do estrógeno e, portanto, o estrógeno produz a proliferação dos implantes de endometriose. Por isso, o tratamento clínico da endometriose é realizado com o bloqueio hormonal. As opções de medicamentos para realizar o bloqueio hormonal são os anticoncepcionais, o DIU de levonorgestrel, os Análogos do GnRH e os inibidores da aromatase. A tabela abaixo mostra as indicações de tratamento cirúrgico da endometriose: Agora vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7114,7 +7222,7 @@
       },
       "correta": "C",
       "explicacao": "observação clínica Estrategista, esta paciente está em uso de tamoxifeno para o tratamento do câncer de mama e sua ultrassonografia apresenta uma espessura do endométrio de 8mm. Será que essa espessura está normal? Repare em um detalhe muito importante neste caso para acertar esta questão: a paciente não apresenta sangramento pós menopausa. De acordo com o Tratado da FEBRASGO: \"um limiar de 11 mm separaria as mulheres na pós- menopausa sem sangramento em alto ou baixo risco para câncer de endométrio. Na mulher na pós-menopausa sem sangramento vaginal, o risco de câncer de endométrio é de aproximadamente 6,7% se o endométrio está espessado (> 11 mm), sendo a biópsia de endométrio necessária nesses casos, e de 0,02% se o endométrio está fino (≤ 11 mm), dispensando a necessidade de biópsia endometrial\" Sendo assim, podemos entender que o principal sintoma da hiperplasia endometrial atípica e do câncer de endométrio é o sangramento pós menopausa e, nos casos em que a paciente não apresenta sangramento, devemos indicar a biópsia somente se a espessura endometrial for maior que 11 mm. Por outro lado, para as mulheres com sangramento pós menopausa, devemos indicar a biópsia para os casos de espessamento endometrial levando em consideração o valor de referência de 4 mm. Veja o fluxograma abaixo: Agora vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7140,7 +7248,7 @@
       },
       "correta": "B",
       "explicacao": "realizar uma biópsia endometrial, com histeroscopia Estrategista, esta paciente apresenta um quadro de sangramento pós menopausa e sua ultrassonografia apresentou uma espessura endometrial de 5 mm. Veja o fluxograma abaixo sobre a conduta frente a estes casos: Nos casos de sangramento pós menopausa e espessamento endometrial (eco > 4 mm) devemos prosseguir a investigação diagnóstica com a biópsia do endométrio, de preferência através da histeroscopia (método padrão ouro), mas a biópsia pode ser ambulatorial (Novak ou Pipelle) ou com a curetagem. Observação: não existe uma definição de medida normal para o eco endometrial das mulheres no menacme. Nestes casos o importante é a história clínica e a avaliacão dos fatores de risco para indicar a investigação com biópsia do endométrio. Agora vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7167,7 +7275,7 @@
       },
       "correta": "A",
       "explicacao": "promover o relaxamento da musculatura esfincteriana Questão sobre fissura anal. Vamos relembrar os pontos mais importantes dessa doença orificial: Definição: úlcera linear no epitélio escamoso do canal anal Localização: LINHA MÉDIA POSTERIOR (90%) Outras localizações: pesquisar doenças associadas (Chron, sífilis, TB, HIV, hidroadenite supurativa) Etiologia: trauma na região → fezes muito endurecidas, episódios com múltiplas evacuações aumento da pressão anal em repouso (do esfíncter anal interno) = diminui fluxo sanguíneo Sintomas: DOR AGUDA DURANTE E APÓS EVACUAÇÃO, sangramento (papel ou vaso) menos comuns: secreção, retenção urinária, dispareunia Classificação: aguda (até 6-8 semanas), crônica Exame físico: - Aguda: presença de úlcera superficial - Crônica: úlcera + bordas enduradas, plicoma sentinela, papila anal hipertrófica Fissura anal aguda Fissura anal crônica Tratamento: Reduzir trauma local + reduzir pressão esfíncter anal interno - medidas higienodietéticas e analgesia para TODOS - clínico: pomada de nitroglicerina ou diltiazem, ou nifedipino → redução na pressão de repouso do esfíncter anal. - toxina botulínica (esfincterotomia química, com relaxamento do esfíncter anal interno) - cirúrgico (após falha do tratamento clínico): esfincterectomia lateral interna (95% cura)",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7194,7 +7302,7 @@
       },
       "correta": "D",
       "explicacao": "palpação, inspeção estática e dinâmica da região anal, toque retal e anuscopia O diagnóstico da doença hemorroidária é clínico, por meio de anamnese e exame proctológico. O exame proctológico compreende quatro etapas: inspeção da região anossacrococcígea, toque retal, anuscopia e retossigmoidoscopia 1- PALPAÇÃO 2- INSPEÇÃO: Com as mãos espalmadas, as nádegas são delicadamente afastadas pelo examinador, possibilitando a visualização do início do canal anal. Esta é a inspeção estática. Solicita-se, então, que o paciente execute a manobra de Valsalva − a inspeção dinâmica, que pode acrescentar novos diagnósticos, como prolapso de hemorroidas internas ou mesmo prolapso retal. 3- TOQUE RETAL: Inicie o procedimento sempre explicando ao paciente o que será realizado e qual é o objetivo do exame. O dedo indicador deve estar devidamente protegido com luva e lubrificado com vaselina ou xilocaína. através de movimentos rotatórios do dedo, identifica\u0000se alterações do relevo do canal. Em condições normais, o canal anal e o início do reto apresentam paredes lisas, sem qualquer rugosidade. Qualquer endurecimento deve chamar nossa atenção para a presença de massa tumoral (lembre-se de que grande parte das neoplasias malignas do intestino grosso está localizada no reto, frequentemente ao alcance do toque retal)! Ainda, sente-se o tônus do aparelho esfincteriano e avalia-se a presença de sangramento ao observar o dedo da luva recoberto por sangue. 4- ANUSCOPIA: Utiliza-se um instrumento denominado anuscópio, dispositivo que mede aproximadamente 8cm e que apresenta um mandril, retirado após introdução do aparelho lubrificado no canal anal. O anuscópio permite visão direta do canal anal, possibilitando a identificação de lesões – como a doença hemorroidária interna. A anuscopia fornece também exposição adequada para procedimentos anais, como a ligadura elástica de mamilos hemorroidários internos. 5- RETOSSIGMOIDOSCOPIA: Reservada para casos em que há suspeita de patologias mais altas, por exemplo, tumores, retites (actínicas, inflamatórias) e processos estenosantes.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7221,7 +7329,7 @@
       },
       "correta": "B",
       "explicacao": "É a impactação de um cálculo biliar no trato gastrointestinal, após ter passado por uma fístula bilioentérica. Questão sobre íleo biliar, causa de obstrução intestinal alta. Vamos fazer uma breve revisão sobre íleo biliar: A obstrução intestinal consequente à passagem de um cálculo através de uma fístula colecistoduodenal é denominada “íleo biliar”. O íleo biliar é uma complicação rara da litíase vesicular que ocorre com uma frequência de 0,3-0,5% dos casos e 2 a 3% na presença de colecistite aguda. É responsável por apenas 1 a 4% das obstruções intestinais. Acomete principalmente pacientes do sexo feminino e idosos. Se caracteriza pela impactação de um ou mais cálculos grandes, geralmente maior que 2,5 cm, no intestino delgado, decorrente da passagem através de uma fístula colecistoduodenal, o qual impacta no íleo terminal (local mais comum da obstrução), próximo à válvula ileocecal. Causa um quadro de obstrução intestinal alta com dor e distensão abdominal associada a vômitos biliosos ou fecaloides. Raramente o cálculo biliar é impactado dentro do canal pilórico ou duodeno, causando obstrução da saída gástrica (Síndrome de Bouveret). Nesses casos, os sintomas apresentados são início abrupto de dor epigástrica, náuseas e vômitos. O diagnóstico do íleo biliar é confirmado por exames de imagem, sendo a tomografia o exame de escolha. Os principais achados incluem:  Espessamento da parede da vesícula biliar (devido à colecistite)  Pneumobilia (aerobilia)  Padrão de obstrução intestinal alta (distensão de alças, níveis hidroaéreos, empilhamento de moedas)  Cálculo biliar > 2,5 cm no íleo terminal  Tríade de Riegler: obstrução de delgado, cálculos biliares ectópicos e pneumobilia ou aerobilia (veja nas imagens abaixo): O tratamento é cirúrgico, laparotomia e enterotomia e retirada do cálculo. Em pacientes de baixo risco, devemos acrescentar o procedimento íleobiliar (colecistectomia e fechamento da fístula).",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7249,7 +7357,7 @@
       },
       "correta": "E",
       "explicacao": "prosseguir a investigação com endoscopia digestiva alta e colonoscopia e tratar clinicamente a doença hemorroidária Vamos por partes! 1) Paciente de 62 anos com diagnóstico de colelitíase = a princípio assintomático e sem indicação de colecistectomia. 2) Exame proctológico com hemorroida grau I (hemorroida interna que não sofre prolapso) = tratamento clínico com medidas higieno-dietéticas (obter fezes menos endurecidas e evitar o esforço evacuatório, aumentar a ingesta de fibras para 25 a 30 gramas por dia, beber mais líquidos, evitar alimentos constipantes e ingerir verduras, legumes e cereais em maior quantidade. Melhorar a higiene local: evitar esfregar excessivamente a região perianal e realizar banhos de assento frequentes) 3) Queixa-se de alteração do hábito intestinal, empachamento, dor abdominal e sangramento nas fezes = sintomas sugestivos de neoplasia colorretal = indicação de colonoscopia. Como ele também refere sensação de empachamento, seria recomendado realizar uma endoscopia digestiva alta.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7276,7 +7384,7 @@
       },
       "correta": "E",
       "explicacao": "Em pacientes de maior risco (menor reserva funcional), o programa de pré‑habilitação com exercício físico deve ser realizado antes da cirurgia. Vamos ver uma tabela com as recomendações mais importantes do projeto Projeto ACERTO (Aceleração da Recuperação Total Pós-Operatória):",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7302,7 +7410,7 @@
       },
       "correta": "C",
       "explicacao": "tumor de reto médio irressecável em paciente com abdome agudo obstrutivo Primeiramente, vamos definir o que é a cirurgia de Hartmann: Consiste na ressecção do segmento intestinal acometido (geralmente o sigmoide), colostomia terminal proximal e fechamento do coto retal. Geralmente é realizada quando há contraindicação à anastomose primária colorretal, por exemplo, em pacientes instáveis e diante de peritonite purulenta e fecal, devido à contaminação peritoneal. Em um segundo tempo, é refeito o transito intestinal, geralmente após 3 meses.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7329,7 +7437,7 @@
       },
       "correta": "B",
       "explicacao": "curativo estéril oclusivo e encaminhar para um serviço especializado Estamos diante de um paciente com queimadura por piche em ambas as mãos. Já foram realizadas algumas medidas iniciais como analgesia e irrigação da queimadura. Essas medidas incluem: 1. Avaliação de necessidade de escarotomia dos membros, indicada em queimaduras circunferenciais de 3º grau - não é o caso do nosso paciente 2. Analgesia - com opioides potentes, como fentanil ou morfina, por via endovenosa. 3. Profilaxia do tétano - para todas as vítimas de queimadura de 2º e 3º graus 4. Profilaxia para tromboembolismo venoso (TEV) - para todos os pacientes com mais de 20% da superfície corpórea queimada, (desde que não existam contraindicações) - não é o caso do nosso paciente. 5. Descompressão gástrica - indicada para todos os pacientes com superfície corpórea queimada acima de 20% ou, ainda, que apresentem distensão abdominal, náuseas ou vômitos - não é o caso do nosso paciente. O paciente também tem indicação de ser transferido para um serviço especializado em queimados, por apresentar queimadura em mãos. Vamos relembrar as indicações:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7353,7 +7461,7 @@
       },
       "correta": "A",
       "explicacao": "É prudente a solicitação de um ecocardiograma. O caso apresenta um homem de 65 anos, obeso e diabético, com artrite crônica, astenia e hiperpigmentação cutânea, além de aumento das transaminases. Este perfil é compatível com a hemocromatose hereditária, uma condição de origem genética que causa sobrecarga de ferro no fígado e em outros órgãos. A hemocromatose é mais prevalente em indivíduos de ascendência europeia e tende a se manifestar mais frequentemente e de forma mais severa em homens, especialmente após os 40 anos. A relação entre a hemocromatose e a artrite é particularmente notável. O acúmulo de ferro nas articulações pode levar a uma artrite degenerativa, frequentemente afetando as articulações metacarpofalângicas. A astenia e a hiperpigmentação cutânea (\"bronzeamento\" da pele) são também manifestações clássicas da hemocromatose. A astenia pode ser resultado da disfunção de múltiplos órgãos afetados pelo excesso de ferro, enquanto a hiperpigmentação ocorre devido ao aumento da melanina, muitas vezes agravada pelo próprio ferro. O aumento das transaminases neste paciente sugere envolvimento hepático, pois o fígado é o órgão mais comumente afetado nessa doença. A sobrecarga de ferro hepático pode levar a hepatopatia crônica, cirrose e até carcinoma hepatocelular. O diabetes mellitus, conhecido como \"diabetes bronzeado\" na hemocromatose, ocorre devido ao depósito de ferro nas células beta do pâncreas, prejudicando a produção de insulina. O diagnóstico de hemocromatose hereditária é confirmado por testes genéticos, que identificam mutações no gene HFE, e por avaliações laboratoriais, incluindo o índice de saturação de transferrina (IST) e a ferritina sérica. Valores de IST acima de 45% são considerados elevados e podem indicar sobrecarga de ferro. No contexto da hemocromatose hereditária, frequentemente observam-se valores ainda mais elevados, muitas vezes acima de 60%. Os níveis de ferritina sérica geralmente são encontrados em valores muito elevados, frequentemente acima de 300 ng/mL em mulheres e 400 ng/mL em homens, mas facilmente podem ultrapassar 800 a 1000 ng/mL. A biópsia hepática pode ser utilizada para avaliar o grau de sobrecarga de ferro e o dano hepático. Após essa revisão sobre a hipótese diagnóstica mais provável para o caso, vamos avaliar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -7399,7 +7507,7 @@
       },
       "correta": "A",
       "explicacao": "Broncoscopia. Estrategista, sempre que temos início súbito de: - estridor; - tosse; - esforço respiratório; - impossibilidade de falar ou chorar; - broncoespasmo; - cianose Precisamos pensar em obstrução de vias aéreas por corpo estranho. Para definirmos a conduta, precisamos avaliar se a obstrução é parcial ou total e se a criança está consciente. Na obstrução parcial, a criança apresenta tosse, seguida de taquipneia, estridor. Esses sinais mostram que, apesar da obstrução, o ar está passando. Na obstrução total, o ar não passa, não há sons respiratórios, a criança apresenta sinais de asfixia e realiza o movimento do sinal universal do engasgo (leva as duas mãos sobre o pescoço). Aqui, ela pode evoluir para perda de consciência rapidamente. DEFINIR CONDUTA Primeiramente, você deve saber que, se o corpo estranho for visível, deve-se retirar com movimento de pinça. Mas, se não for visível, não está indicada a varredura de orofaringe. OBSTRUÇÃO TOTAL A conduta depende da consciência da criança e da idade. 1. Se ela estiver consciente. - Para menores de 1 ano: Nesse caso, colocamos a criança de costas, apoiada em nosso antebraço e com a cabeça inclinada para baixo. Inicialmente, damos 5 golpes nas costas, na região interescapular, seguido de 5 compressões torácicas, até que ocorra a desobstrução ou o paciente evolua para inconsciência. No caso de inconsciência, seguimos o protocolo de PCR. - Maiores de 1 ano: Em maiores de 1 ano, realizar a Manobra de Heimlich: compressões abdominais entre a cicatriz umbilical e o apêndice xifoide, em sentido para cima, até que o objeto seja expelido ou a criança evolua para inconsciência. 2. Se ela estiver inconsciente Seguir as manobras de reanimação cardiopulmonar. OBSTRUÇÃO PARCIAL Pacientes com aspiração presenciada, manifestações clínicas sem outras causas ou imagem suspeita são considerados moderados a altamente suspeitos. Eles devem ser encaminhados para realizar exames de imagem mais acurados, como tomografia computadorizada ou ressonância magnética ou, ainda, serem submetidos diretamente a broncoscopia para retirada do corpo estranho. Se nenhuma das características acima é encontrada, a suspeição é baixa. Nesse caso, a criança deve ser apenas seguida clinicamente e realizar broncoscopia se a sintomatologia persistir ou progredir. Vamos voltar ao caso? O examinador já nos diz que houve engasgo e as manifestações mostram que a obstrução é parcial, já que o ar está passando. Como a suspeição é alta, podemos encaminhá-lo prontamente para a broncoscopia.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2024,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
@@ -7427,7 +7535,7 @@
       },
       "correta": "A",
       "explicacao": "Somente os itens I, II e V estão certos. Para respondermos a essa questão, devemos nos lembrar qual o conceito de obstrução intestinal em alça fechada. Trata-se de uma forma específica de obstrução intestinal em que um segmento do intestino é obstruído em dois pontos distintos, formando um segmento de alça fechado em ambas extremidades. Habitualmente esse padrão está relacionado a hérnias, aderências pós-operatórias relacionadas a hérnias internas ou volvulus de segmentos de delgado, bandas congênitas de ladd, má rotação intestinal com volvulo de intestino médio ou volvo de sigmóide. A obstrução em alça fechada é particularmente preocupante porque está associada a um alto risco de comprometimento vascular, o que pode levar à isquemia e perfuração do segmento acometido. Dito isso, vamos avaliar, separadamente, cada um dos itens: I. Volvo de sigmoide: O volvo de sigmóide representa uma causa clássica de abdome agudo obstrutivo em alça fechada. Nesse caso, o cólon sigmóide torce-se sobre o próprio eixo, gerando obstrução em ambas as extremidades do segmento torcido. Além disso, forma-se outra alça fechada se a válvula ileocecal for competente, desde o ceco até a porção proximal do sigmóide torcido. II. Hérnia interna: Ocorre quando há uma protrusão do intestino através de orifícios internos na cavidade abdominal (como brechas mesentéricas após anastomoses intestinais), levando ao aprisionamento de um segmento intestinal, obstruindo as duas extremidades do segmento aprisionado, configurando assim uma alça fechada. Esse tipo de obstrução pode causar isquemia e perfuração e requer diagnóstico e intervenção precoces. III. Ileobiliar: Essa condição, que envolve a obstrução intestinal por um cálculo biliar que migrou para o trato gastrointestinal através de uma fístula Colecisto-entérica, geralmente causa uma obstrução simples em um único ponto, tipicamente no íleo terminal. Como não há bloqueio em ambas as extremidades do intestino, não configura uma alça fechada. IV. Tumor de cólon esquerdo estenosante com válvula ileocecal incompetente: No caso dos tumore de cólóns, para que uma alça fechada seja formada, é necessário que a válvula ileocecal seja competente, retendo a passagem de gases e líquidos tanto em direção ao ânus como em direção ao intestino delgado. Com a válvula incompetente, há alívio da pressão retrógrada, o que não caracteriza uma obstrução em alça fechada. V. Hérnia inguinal encarcerada: Quando um segmento intestinal fica aprisionado no saco herniário, ocorre obstrução completa em ambas as extremidades, configurando uma alça fechada. Gabarito: alternativa A.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7451,7 +7559,7 @@
       },
       "correta": "E",
       "explicacao": "Somente os itens I, II e III estão certos Vamos avaliar cada um dos itens e entender quais condições podem ser diagnosticadas a partir do toque retal. Hiperplasia prostática: Correto. A hiperplasia prostática é uma condição que pode ser avaliada durante o toque retal, uma vez que este exame permite ao médico palpar a próstata. Na hiperplasia prostática, a glândula apresenta aumento de tamanho, mas mantém uma consistência homogênea e uma superfície lisa. Esse exame é fundamental para auxiliar no diagnóstico diferencial entre a hiperplasia e o câncer de próstata, que geralmente está associado a uma próstata de consistência endurecida, nodular ou irregular. Fecaloma: Correto. O toque retal pode diagnosticar a presença de fecaloma, que é um acúmulo endurecido de fezes no reto. Durante o exame, o médico pode sentir a massa compacta no interior do canal retal. Em boa parte dos casos, o toque retal também auxilia na terapia do fecaloma. (Quem já quebrou um fecaloma no pronto atendimento, nunca mais se esquece). Retocele: Correto. A retocele é uma protrusão da parede anterior do reto em direção ao septo retovaginal, frequentemente associada a disfunções defecatórias e sintomas de prolapso. Sua fisiopatologia envolve o enfraquecimento do suporte estrutural do assoalho pélvico, que pode ser exacerbado por fatores como trauma obstétrico, envelhecimento e aumento crônico da pressão intra-abdominal durante a defecação (constipação crônica). O diagnóstico no exame físico é feito, essencialmente através da inspeção e do toque, ambos realizados em caráter estático e dinâmico (durante a manobra de valssalva). O exame retal digital padronizado (SDRE) na retocele é uma técnica tem mostrado forte correlação interexaminador, além de ajudar a identificar defeitos no septo retovaginal. Tumor localizado na transição retossigmóide: Incorreto. O toque retal não é passível de diagnosticar tumores localizados na transição retossigmóide, pois essa região está além do alcance do exame. A transição entre o reto e o sigmóide está entre 12 a 15 cm da margem anal e o toque retal é capaz de palpar estruturas até 6 a 8 cm da margem anal, a depender do dedo do examinador. Doença hemorroidária interna grau I: Incorreto. Hemorroidas internas de grau I, que não prolapsam além da linha pectínea, geralmente não são palpáveis ao toque retal, uma vez que são macias e não são identificáveis através desse método. Para avaliar essas lesões, a anuscopia é o exame mais adequado, pois permite visualização direta da hemorróida. Gabarito: alternativa E.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7475,7 +7583,7 @@
       },
       "correta": "C",
       "explicacao": "Somente os itens I, III e IV estão certos. A tomografia computadorizada com contraste é o melhor exame diagnóstico para a maioria dos quadros de abdome agudo. Dito isso, vamos avaliar cada um dos itens a seguir e ver quando a tomografia computadorizada com contraste não está bem indicada. I. apendicite aguda retrocecal: A tomografia de abdome e pelve com contraste é um exame excelente para o diagnóstico de apendicite aguda, especialmente em casos que podem cursar com apresentação atípica, como na apendicite retrocecal. Além disso, o posicionamento retrocecal do apêndice dificulta o diagnóstico por ultrassonografia, que é um exame inferior à tomografia com contraste, mas é amplamente utilizado em decorrência de seu baixo custo e ampla disponibilidade. II. ureterolitíase: Embora a tomografia seja o exame de escolha para o diagnóstico de ureterolitíase, ela deve ser realizada sem contraste. A tomografia computadorizada helicoidal, com cortes finos, sem contraste, é o padrão-ouro para detectar cálculos ureterais. Os cálculos são altamente densos e facilmente visualizados sem o uso de contraste. III. diverticulite aguda complicada: A tomografia com contraste é o exame de escolha para avaliação dos casos de diverticulite aguda complicada, pois permite identificar abscessos, perfurações, fístulas ou obstruções associadas. O contraste endovenoso realça as áreas de inflamação e ajuda a identificar melhor as estruturas. IV. pancreatite aguda: A tomografia com contraste pode ser indicada em casos de pancreatite aguda quando há suspeita de complicações, como necrose pancreática, abscessos ou pseudocistos, ou se o diagnóstico clínico e laboratorial for duvidoso. Contudo, ela não é necessária em casos de pancreatite leve, nos quais o diagnóstico é confirmado clinicamente e por exames laboratoriais. Do ponto de vista prático, indicamos a tomografia computadorizada após 72 horas do início dos sintomas, caso haja suspeita de complicações. Antes desse período não é possível a adequada visualização da extensão das áreas de necrose e isquemia pancreática e peripancreática. V. colecistite aguda: A colecistite aguda tem como seu exame diagnóstico de escolha a ultrassonografia. a tomografia com contraste pode ser usada em casos duvidosos ou para avaliar complicações, como abscessos pericolecísticos ou perfuração da vesícula biliar. Como os cálculos biliares são isodensos em relação à bile, frequentemente, a tomografia computadorizada é incapaz de visualizar os cálculos. Isso faz com que, em casos iniciais de colecistite, a tomografia seja menos sensível, já que, nesse período, a principal alteração é a impactação de um cálculo no infundíbulo. Gabarito: alternativa C.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7499,7 +7607,7 @@
       },
       "correta": "C",
       "explicacao": "A principal distinção entre pólipos malignos e suas lesões precursoras benignas é sua localização no cólon. Os pólipos colônicos são lesões que se projetam para dentro do lúmen intestinal e podem ser classificados em diversos tipos com base em sua morfologia, histologia e potencial maligno. Quanto a sua aparência, os pólipos podem ser classificados em sésseis e pedunculados. - PÓLIPOS SÉSSEIS: pólipos achatados, base alargada e sem haste. - PÓLIPOS PEDUNCULADOS: com uma haste e base mais fina, assumindo aparência “alongada”. Quanto à sua natureza, os pólipos podem ser classificados em epiteliais e não epiteliais. Dentre esses, destacam-se os epiteliais, que se classificam em neoplásicos e não neoplásicos. - PÓLIPOS NEOPLÁSICOS: são, basicamente, os adenomas (benignos) ou adenocarcinomas (malignos) e tumores carcinóides - PÓLIPOS NÃO NEOPLÁSICOS: são assim classificados os pólipos inflamatórios, hiperplásicos, hamartomas etc. Agora, a partir das alternativas, vamos nos aprofundar um pouco mais nessas classificações.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7525,7 +7633,7 @@
       },
       "correta": "E",
       "explicacao": "A síndrome compartimental resulta da combinação da diminuição da elasticidade da pele com o aumento do edema dos tecidos moles. GABARITO: ALTERNATIVA E.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7549,7 +7657,7 @@
       },
       "correta": "C",
       "explicacao": "Somente os itens II, III e IV estão certos. Para respondermos a essa questão, vamos avaliar, separadamente, cada uma das afirmações acima. I. As recomendações de rastreamento do câncer de próstata variam conforme as diretrizes e os fatores de risco individuais - FALSO. Segundo as orientações da Sociedade Brasileira de Urologia (SBU) Homens com risco habitual podem começar o rastreamento aos 50 anos, enquanto homens de maior risco (como afrodescendentes ou com histórico familiar de câncer de próstata) podem iniciar aos 45 anos. Contudo, segundo o último consenso da SBU, o rastreamento deve ser uma decisão compartilhada entre médico e paciente, considerando riscos, benefícios e expectativas, e não uma obrigatoriedade universal. II. A maioria dos tumores localizados são assintomáticos. - VERDADEIRO. Cânceres de próstata em estágios iniciais (localizados) frequentemente são assintomáticos e podem ser detectados apenas por exames de rastreamento, como o PSA ou toque retal. Sintomas urinários ou outros sinais clínicos geralmente surgem em estágios mais avançados ou nas doenças metastáticas. III. Muitos homens com a doença menos agressiva tendem a morrer com o câncer em vez de morrer do câncer - VERDADEIRO. Cânceres de próstata de baixo risco têm crescimento lento e indolente, desse modo, pacientes vivem por décadas sem progressão significativa da doença. Nesses casos, é comum que o paciente morra de outras causas antes que o câncer se torne clinicamente relevante. A vigilância ativa (watchful waiting) é uma abordagem apropriada para a maior parte desses pacientes. IV. Pacientes entre 40 e 50 anos de idade com histórico familiar, afrodescendentes e mutação patogênica no gene BRCA são pacientes de maior risco - VERDADEIRO. Esses são fatores de risco reconhecidos para câncer de próstata. Afrodescendentes têm maior incidência e mortalidade pela doença. Homens com histórico familiar de câncer de próstata, especialmente em parentes de primeiro grau, ou com mutações patogênicas no gene BRCA1 ou BRCA2, têm risco aumentado, justificando início precoce de rastreamento. V. Diante de um diagnóstico de câncer, a cirurgia, a radioterapia ou as terapias sistêmicas têm de ser indicadas - FALSO. Nem todo câncer de próstata requer tratamento ativo imediato. Em casos de tumores de baixo risco ou muito baixo risco a vigilância ativa (watchful waiting) é uma abordagem válida. As terapias sistêmicas com deprivação androgênica são reservadas para lesões mais agressivas ou tumores metastáticos e a quimioterapia citotoxica padrão é prevista para tumores metastáticos. Veja o fluxograma terapêutico do câncer de próstata abaixo, que se organiza conforme risco e estadiamento e você irá entender melhor. Gabarito: alternativa C.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7576,7 +7684,7 @@
       },
       "correta": "D",
       "explicacao": "Ramos viscerais da aorta abdominal são: tronco celíaco; artérias suprarrenais médias; artéria mesentérica superior; artérias renais; artérias gonadais; e artéria mesentérica inferior. Essa é uma questão sobre anatomia vascular que eu considero bastante difícil. Vamos avaliar, separadamente, cada uma das alternativas, para concluirmos qual das assertivas encontra-se correta. Aproveitaremos esse momento para revisar alguns aspectos da anatomia vascular e para apreciarmos a maldade do autor dessa questão.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7600,7 +7708,7 @@
       },
       "correta": "D",
       "explicacao": "O melhor exame de imagem para o diagnóstico é a tomografia computadorizada. Essa é uma questão bastante difícil acerca das hérnias da região inguinocrural. Mas é uma oportunidade interessante para revisarmos ou aprendermos conceitos novos a partir das alternativas. Vamos avaliar cada uma das assertivas separadamente e aproveitar para entendermos alguns aspectos importantes das hérnias da região inguinocrural.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7624,7 +7732,7 @@
       },
       "correta": "E",
       "explicacao": "solicitar tomografia de crânio para avaliar possíveis lesões intracranianas GABARITO E Olá, Estrategista. O traumatismo cranioencefálico (TCE) é importante causa de morbimortalidade na população pediátrica. Para definirmos a conduta, em primeiro lugar, definimos se o traumatismo é leve, moderado ou grave, de acordo com a Escala de Coma de Glasgow (ECG). O TCE moderado e grave sempre exigirá uma tomografia computadorizada de crânio. Quando o TCE for leve, o que é a maioria dos casos, a conduta poderá ser tomografia, observação clínica ou alta com orientações. O estudo PECARN (Pediatric Emergency Care Applied Research Network) é um estudo de 2009 com objetivo de identificar os pacientes vítimas de TCE leve que necessitam tomografia computadorizada de crânio. Suas recomendações são as mais cobradas em provas. Observe abaixo: TCE DE ALTO RISCO - Exige sempre Tomografia de crânio. TCE DE RISCO MODERADO - Exige tomografia de crânio ou observação de 6 horas. Agora, vamos definir alguns conceitos vistos no organograma. • Estado mental alterado: - Agitação/ Irritabilidade - Sonolência - Questionamento repetitivo - Resposta lenta à comunicação verbal • Sinais de fratura de base de crânio: - Equimose periorbital (“Olhos de guaxinim”) - Equimose retroauricular (“Sinal de Battle”) - Líquido cefalorraquidiano vazando pelo nariz ou conduto auditivo - Hemotímpano • Mecanismo de trauma grave - Ejeção do veículo. - Capotamento do veículo. - Morte de outro passageiro do veículo. - Ciclista sem capacete. - Atropelamento. - Queda de mais de 1 metro em criança com menos de 2 anos ou mais de 1,5 metro nas maiores de 2 anos. - Cabeça atingida por objeto em velocidade. Se nenhum desses fatores estiver presente, o TCE é de baixo risco e a criança pode ir de alta apenas com orientações aos responsáveis. Dito isso, vamos voltar ao caso? Temos uma criança de 5 anos com: - Estado mental alterado: irritabilidade e sonolência - Vômitos Ela tem um TCE leve de alto risco, portanto, precisa realizar tomografia de crânio.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7653,7 +7761,7 @@
       },
       "correta": "A",
       "explicacao": "os focos de endometriose penetram mais que 5 mm no local de implantação. Estrategista, a endometriose é caracterizada pela presença de tecido endometrial fora da cavidade uterina. A Endometriose geralmente acomete a pelve, mas pode ser encontrada também fora da pelve, no abdômen, tórax, cérebro e até mesmo na pele. Classificamos a endometriose em superficial, ovariana ou profunda. Agora vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7679,7 +7787,7 @@
       },
       "correta": "C",
       "explicacao": "Gabapentina. Algumas pacientes apresentam sintomas vasomotores, porém não podem fazer uso da terapia hormonal por apresentarem contraindicações absolutas. Apesar de os sintomas terem origem no hipoestrogenismo, o fato da termorregulação depender da ação de neurotransmissores faz com que determinadas drogas possam auxiliar na redução dos sintomas. Os antidepressivos inibidores seletivos da recaptação de serotonina (ISRS) e os inibidores seletivos da recaptação de serotonina e norepinefrina (IRSNs) atuam bloqueando a recaptação desses neurotransmissores, podendo diminuir os sintomas vasomotores. Outras medicações, como anti-hipertensivos e anticonvulsivantes também podem ser empregadas. A tabela abaixo demonstra a eficácia de cada uma dessas medicações: A paciente em questão tem contraindicação absoluta à terapia hormonal pelo antecedente de câncer de mama.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7704,7 +7812,7 @@
       },
       "correta": "D",
       "explicacao": "Implante dentário. Estrategistas, essa é uma questão bastante atípica sobre os efeitos adversos do tratamento de osteoporose. Vamos aproveitar para revisar este tema. Para a maioria dos pacientes, o tratamento da osteoporose é feito com o quinteto: 1. Prevenção de quedas; 2. Exercícios físicos - preferencialmente resistidos e de equilíbrio; 3. Consumo adequado de cálcio (1.000-1.200 mg/d) - o consumo deverá ser preferencialmente feito por meio da dieta, reservando-se a suplementação somente aos pacientes que não conseguem atingir a ingestão adequada. 4. Manutenção de níveis adequados de vitamina D - a reposição só está indicada em pacientes com 25-OH-Vitamina D < 30 ng/mL. 5. Bisfosfonatos - atenção, pois estão contraindicados em pessoas com taxa de filtração glomerular < 35 ml/min/1,73m². Agora vamos nos aprofundar um pouco mais sobre os efeitos adversos das terapias farmacológicas. Carbonato de cálcio - os principais efeitos adversos são: dispepsia; constipação; diminuição na absorção de outros medicamentos se administrado em conjunto (como levotiroxina e suplementos de ferro); hipercalcemia (se utilizado em sobredose); nefrolitíase (especialmente se utilizado em doses > 2.000 mg/d de cálcio elementar) e há controvérsias quanto ao aumento do risco de eventos cardiovasculares. Vitamina D - efeitos adversos ocorrem com níveis séricos de 25-OH-vitamina D maiores que 50 ng/mL. Os principais efeitos adversos são: hipercalcemia e nefrolitíase. Há controvérsias entre a associação de níveis séricos elevados de vitamina D e aumento do risco de quedas, algumas neoplasias (especialmente de pâncreas) e mortalidade. Bisfosfonatos (como o alendronato) Efeitos colaterais comuns das formulações orais de bisfosfonatos: dispepsia, sintomas de doença do refluxo gastroesofágico, úlceras esofágicas e esofagite. É por esses sintomas gastrointestinais que se recomenda administrar o medicamento, tomar logo em seguida um grande copo com água e permanecer sentado ou em pé por pelo menos 30-60 minutos. Efeitos colaterais comuns das formulações endovenosas de bisfosfonatos: sintomas flu-like (similares a uma gripe, podendo envolver mal-estar, mialgias, artralgias e febre baixa, e geralmente melhorando após 72 horas da administração). Efeitos colaterais compartilhados por formulações orais e endovenosas: hipocalcemia, dor musculoesquelética, fibrilação atrial (controverso) e reações cutâneas (rash, urticária, angioedema e fotossensibilidade). Dois outros efeitos adversos infrequentes mas importantes merecem atenção: osteonecrose de mandíbula e fraturas atípicas Osteonecrose da mandíbula: Definição: Exposição ou necrose óssea da região maxilofacial que não cicatriza dentro do prazo de 8 semanas. Trata-se de uma complicação rara do uso das terapias antirreabsortivas (bisfosfonatos e denosumabe), ocorrendo em 1 a cada 100.000 pacientes-ano. Manifestações clínicas: além da exposição óssea, os pacientes podem apresentar dor, edema, infecção e fratura patológica. Fatores de risco para o seu desenvolvimento: uso de bisfosfonato endovenoso, doses e durações elevadas de bisfosfonatos (por exemplo, no tratamento de envolvimento ósseo do câncer doses maiores são utilizadas), imunossupressão, uso de glicocorticoides, diabetes, tabagismo, dentaduras mal adaptadas e procedimentos com manipulação da gengiva (como extrações e implantes dentários). Prevenção: higiene bucal e visitas regulares ao dentista são recomendadas. Se antes de iniciar um bisfosfonato o paciente está em planejamento de uma extração ou implante dentário, deve-se postergar o início do bisfosfonato por alguns meses até a cicatrização completa. Se um paciente em uso de bisfosfonatos há menos de 4 anos necessitar de um desses dois procedimentos, a American Association of Oral and Maxillofacial Surgeons recomenda que o bisfosfonato não seja suspenso, baseado no racional de que a impregnação do medicamento em tecidos ósseos pode durar por anos. Por outro lado, essa mesma sociedade recomenda a suspensão do bisfosfonato 2 meses antes de cirurgias em pacientes que utilizam bisfosfonatos há mais de 4 anos. A suspensão ou não de bisfosfonatos nesses cenários é muito controversa, com outras sociedades apresentando recomendações diferentes. Fratura atípica de fêmur: é uma complicação rara que acontece especialmente em pacientes que fazem uso de bisfosfonatos por longos períodos. O risco da sua ocorrência é o motivo pelo qual avaliamos a possibilidade de holiday de bisfosfonatos após 3-5 anos de seu uso. Pacientes tipicamente apresentam sintomas prodrômicos de dor na coxa ou virilha. Nesse período prodrômico, radiografias podem demonstrar espessamento periostial e afilamento cortical na diáfise femoral. Com o passar do tempo, o paciente poderá evoluir com fratura patológica no local afetado. Uma vez identificadas alterações ósseas, deve-se realizar uma avaliação com ortopedista (quanto à necessidade de procedimentos cirúrgicos), manutenção de níveis séricos adequados de vitamina D, manutenção de ingestão/suplementação adequada de cálcio, suspensão do bisfosfonato e avaliação quanto à possibilidade de uso de análogos de PTH. Os principais efeitos adversos da terapia de reposição hormonal combinada são: Aumento de risco de eventos cardiovasculares (especialmente doença cerebrovascular) Aumento de eventos tromboembólicos (TVP e TEP). Aumento de risco de câncer de mama Logo, em nossa questão, o procedimento que poderá ter seu resultado comprometido pela terapia seria o implante dentário, por apresentar risco de evolução para osteonecrose de mandíbula.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7729,7 +7837,7 @@
       },
       "correta": "A",
       "explicacao": "Laparotomia . o que o examinador quer saber: sobre gestação ectópica. Atenção, estrategista! O diagnóstico e conduta na gestação ectópica na FMUSP difere do protocolo do Ministério da Saúde. A gestação ectópica (GE) corresponde a qualquer gestação que ocorre fora da cavidade endometrial, sendo local mais comum a tuba uterina ( 70% dos casos se implantam na ampola tubária). O diagnóstico se faz com a história clínica, a dosagem de HCG sérico e a ultrassonografia. Diante de gestante com quadro clinico de dor abdominal aguda e intensa e sinais de instabilidade hemodinâmica no inicio da gestação deve-se pensar primeiramente em GE rota. Quando a gestante apresenta quadro clinico leve ou ausente, o diagnóstico de GE se dá pelos níveis séricos de B-hCG e pela ultrassonografia. Pacientes com HCG sérico com valores > 2000mUI/ml, sem imagem de saco gestacional intrauterino são altamente suspeitas para gestação ectópica. A visualização de imagem de saco gestacional extrauterino confirma a hipótese de gestação ectópica. Outras imagens como anel tubário e hematossalpinge (sangue na tuba uterina) também se correlacionam com gestação ectópica. Em casos de HCG < 2000mUI/ml, devemos repetir a dosagem e o USG em 48h, de modo que o crescimento inferior a 50% no período, ainda sem imagem tópica direcionam para o diagnóstico de gestação ectópica. O tratamento pode ser cirúrgico, medicamentoso ou podemos manter uma conduta expectante. O tratamento cirúrgico está indicado nos casos de gravidez ectópica rota ou nos casos de gravidez ectópica integra com prole constituída ou recidiva na mesma tuba ou contraindicação ao tratamento clínico. Dá-se preferência à via laparoscópica, a não ser que haja instabilidade hemodinâmica. O tratamento medicamentoso com metotrexato (MTX) por via intramuscular, em dose única de 50 mg/m2, pode ser feito nas seguintes situações: • Desejo reprodutivo. • Gravidez ectópica íntegra de até 4 cm no maior diâmetro. • Estabilidade hemodinâmica. • Ausência de atividade cardíaca do produto conceptual. • β-hCG sérica ≤ 5.000 mUI/mL e crescente (acima de 10%) em 2 dosagens consecutivas (24- 48 horas). • Líquido livre limitado à pelve. • Normalidade da função renal (creatinina), de enzimas hepáticas e do hemograma. • Autorização por escrito após esclarecimento de riscos e benefícios do tratamento proposto. A conduta expectante está indicada nas seguintes condições: • Desejo reprodutivo. • Gravidez ectópica íntegra de até 4 cm no maior diâmetro. • Estabilidade hemodinâmica. • Ausência de atividade cardíaca do produto conceptual. • β-hCG sérica ≤ 5.000 mUl/mL e decrescente (acima de 10%), ou estável (variação até 10%) em 2 dosagens consecutivas (24-48 horas). • Líquido livre limitado à pelve. • Autorização por escrito após esclarecimento de riscos e benefícios do tratamento proposto.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7754,7 +7862,7 @@
       },
       "correta": "C",
       "explicacao": "Compressões torácicas. GABARITO C Estrategista, temos aqui uma paciente de 2 anos, com quadro agudo de sonolência e vômitos. Ela está: - Arresponsiva - Bradipneica (FR 10) - Bradicárdica (FC 45) - Mal perfundida (pulsos centrais finos) Vamos relembrar a sequência de atendimento de uma bradicardia sinusal, de acordo com o suporte avançado de vida na pediatria. 1. Identificar se há comprometimento cardiopulmonar: estado mental alterado, sinais de choque ou hipotensão. Na ausência, mantenha a observação clínica e eletrocardiográfica da criança, considere oxigênio, identifique e trate as causas subjacentes. Na presença, mantenha as vias aéreas patentes, inicie ventilação e monitore o ritmo cardíaco, o pulso, a pressão arterial e a oximetria. 2. Caso a FC caia para menos de 60bpm, apesar da oxigenação e da ventilação, iniciar a RCP, com compressões e ventilação. 3. Na manutenção do quadro, considerar epinefrina, atropina, estimulação transtorácica ou marca passo transvenoso. 4. Checar o pulso a cada 2 minutos. Na ausência de pulso, iniciar algoritmo de PCR. Observe o fluxograma abaixo. Vamos voltar ao caso? Nosso paciente está com FC menor que 60bpm, com sinais de hipotensão. Foi, acertadamente, iniciada a ventilação, porém, ela mantinha FC menor que 60. O próximo passo é iniciar a RCP, com compressões torácicas.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7780,7 +7888,7 @@
       },
       "correta": "D",
       "explicacao": "Hérnia inguinal. Cirurgia de emergência. Estamos diante de uma lactente de um mês cursando com quadro de obstrução intestinal (distensão abdominal, parada de eliminação de fezes e flatos e vômitos) com 12 horas de evolução, já apresentando febre e prostração. Apesar da imagem ter sido retirada, por ter feito a prova, sei que mostrava um lactente do sexo masculino com abaulamento da região inguinal direita, como na figura a seguir (Fonte: Prova de acesso direto UNESP 2018): Com esses dados, temos o diagnostico de obstrução intestinal causada por hérnia inguinal complicada com estrangulamento, pois apresenta repercussão clínica (febre e prostração) e hiperemia local. A conduta na presença de estrangulamento é cirurgia de emergência e o acesso cirúrgico preferencialmente por inguinotomia. Vamos avaliar as alternativas:",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -9764,7 +9872,7 @@
       },
       "correta": "C",
       "explicacao": "Sinal de Kehr. O que o examinador quer saber: sobre gestação ectópica. A gestação ectópica (GE) corresponde a qualquer gestação que ocorre fora da cavidade endometrial, sendo local mais comum a tuba uterina ( 70% dos casos se implantam na ampola tubária). O diagnóstico se faz com a história clínica, a dosagem de HCG sérico e a ultrassonografia. Diante de gestante com quadro clinico de dor abdominal aguda e intensa e sinais de instabilidade hemodinâmica no inicio da gestação deve-se pensar primeiramente em GE rota. Quando a gestante apresenta quadro clinico leve ou ausente, o diagnóstico de GE se dá pelos níveis séricos de B-hCG e pela ultrassonografia. Pacientes com HCG sérico com valores > 2000mUI/ml, sem imagem de saco gestacional intrauterino são altamente suspeitas para gestação ectópica. A visualização de imagem de saco gestacional extrauterino confirma a hipótese de gestação ectópica. Outras imagens como anel tubário e hematossalpinge (sangue na tuba uterina) também se correlacionam com gestação ectópica. Quando o B-hCG é maior do que 3500 mUi/ml é obrigatório a visualização do saco gestacional, caso contrário já é possível confirmar o diagnóstico de gestação ectópica, mesmo sem não for observada imagem sugestiva de GE. Em casos de HCG < 2000mUI/ml, devemos repetir a dosagem e o USG em 48h, de modo que o crescimento inferior a 50% no período, ainda sem imagem tópica direcionam para o diagnóstico de gestação ectópica.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -9789,7 +9897,7 @@
       },
       "correta": "A",
       "explicacao": "infarto mesentérico. Estamos diante de um paciente com queixa de dor abdominal de forte intensidade, no hipocôndrio esquerdo, com repercussão hemodinâmica (taquicardia e hipotensão) e sinais de peritonite localizada. Como a amilase está dentro dos limites da normalidade, praticamente descartamos o diagnóstico de pancreatite aguda. E a presença de leucocitose com aumento do lactato é altamente sugestivo de abdome agudo vascular, por isquemia mesentérica aguda.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -9812,7 +9920,7 @@
       },
       "correta": "D",
       "explicacao": "Monitoramento da glicemia perioperatória, mantendoa abaixo de 180 mg/dL. Estamos diante de um paciente de 58 anos, portador de HAS controlada, em pré-operatório de colecistectomia eletiva. Exames laboratoriais demonstram apenas uma glicemia um pouco aumentada. Vamos analisar as alternativas:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -9837,7 +9945,7 @@
       },
       "correta": "B",
       "explicacao": "Adiar a cirurgia para otimizar o controle da pressão arterial, solicitando monitorização ambulatorial da pressão arterial (MAPA) e risco cirúrgico. Gabarito: ANULADA Comentário: Questão polêmica e que mereceu ser anulada por conter mais de uma resposta. Segue o fio... O objetivo principal da avaliação perioperatória é identificar variáveis relacionadas ao estado clínico do paciente e ao procedimento cirúrgico que podem resultar em um maior risco de complicações. Para isso, uma investigação criteriosa deve ser feita, começando pela história clínica até a realização de exames complementares, quando necessários. Pacientes com fatores de risco para doença cardiovascular devem ter seu risco cirúrgico avaliado, conforme a diretriz Brasileira de Avaliação Cardiovascular Perioperatória: “Merecem ainda investigação: pacientes com idade superior a 65 anos, verificando o grau de fragilidade; presença de valvopatias, próteses valvares e necessidade de profilaxia para endocardite bacteriana; fatores de risco para cardiopatias; presença de marca-passo ou de cardioversor/desfibrilador implantável; diagnósticos de doença vascular periférica, insuficiência renal, doença vascular cerebral, diabetes melito, hepatopatia, distúrbios hemorrágicos, distúrbios da tireoide, apneia obstrutiva do sono e doença pulmonar crônica; e uso de medicamentos, fitoterápicos, álcool, drogas ilícitas e avaliação de potencial interferência com o ato operatório”. Apesar da hipertensão arterial (HA) ser um fator de risco para cardiopatias, a diretriz não a cita de forma específica, o que abre margem para recurso, já que a banca pode não considerar necessária a avaliação pré-operatória. Na prática clínica, pacientes hipertensos são encaminhados para a avaliação de risco cirúrgico perioperatório. A conduta perioperatória pode ser simplificada através do fluxograma a seguir, baseado no tipo de procedimento, na presença de doenças cardiovasculares graves e na estratificação de risco cardiovascular. Entre as condições cardiovasculares graves que adiam a cirurgia está uma pressão arterial (PA) > 180 x 110 mmHg. Vale lembrar que a PA da paciente está em 176 x 90 mmHg, o que não é motivo para o cancelamento da cirurgia. Correta as alternativas A e C: essas duas alternativas falam a mesma coisa! Não é preciso adiar a cirurgia por causa da PA elevada, assim como, a paciente poderá prosseguir com a cirurgia sem a necessidade de uma avaliação cardiovascular mais detalhada. Incorreta a alternativa B: pois não há necessidade de adiar a cirurgia. Incorreta a alternativa D: com esse nível pressórico, não há necessidade de administrar medicação anti-hipertensiva adicional.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -9863,7 +9971,7 @@
       },
       "correta": "A",
       "explicacao": "Obstrutivo–hérnia femoral encarcerada–inguinotomia Estamos diante de uma paciente com quadro de abdome agudo obstrutivo pois apresenta dor e distensão abdominal associada a náuseas, vômitos e parada de de evacuação. A causa dessa obstrução intestinal é uma hérnia femoral (abaixo do ligamento inguinal) encarcerada, indicação de tratamento cirúrgico imediato. O acesso cirúrgico nos casos de hérnia inguinocrural complicada com encarceramento é por inguinotomia.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -9886,7 +9994,7 @@
       },
       "correta": "C",
       "explicacao": "inferior: ligamento inguinal / medial: músculo reto abdominal / lateral: vasos epigástricos. Questão direta sobre a anatomia da região inguinal. Hérnias inguinais indiretas: decorrentes da persistência do conduto peritônio vaginal, estão localizadas lateralmente aos vasos epigástricos inferiores. Hérnias inguinais diretas: decorrentes da fraqueza da parede posterior, estão localizadas medialmente aos vasos epigástricos inferiores, no triângulo de Hesselbach. Veja seus limites na figura abaixo: ✔ Limite medial: Borda lateral da bainha do músculo reto abdominal; ✔ Limite superolateral: Vasos epigástricos inferiores; ✔ Limite inferior: Ligamento Inguinal (ou de Poupart).",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -9911,7 +10019,7 @@
       },
       "correta": "B",
       "explicacao": "cálculo residual do colédoco e CPRE para retirada do cálculo. Estamos diante de uma paciente com antecedente de colecistectomia há 7 meses evoluindo há 8 dias com dor em hipocôndrio direito, icterícia, colúria e acolia fecal. Houve uma perda de peso de apenas 1 kg nesse período. Como a colecistectomia foi há menos de 2 anos, nossa principal hipótese diagnóstica é coledocolitíase residual, ou seja, secundária à migração de um cálculo vesicular. Lembre-se: ✔ COLEDOCOLITÍASE PRIMÁRIA: são os cálculos que se formam no interior do colédoco. Eles geralmente são cálculos marrons e estão associados a infecção bacteriana e estase biliar, que pode ocorrer nos colédocos muito dilatados (> 2 cm). São mais comuns em pacientes asiáticos. ✔ COLEDOCOLITÍASE SECUNDÁRIA: é o tipo mais comum no Ocidente. Ele ocorre pela migração de um cálculo da vesícula biliar para o colédoco. O cálculo de colédoco que surge até 2 anos após a colecistectomia é considerado um cálculo secundário (ou residual). A conduta nesse caso é realizar um exame de imagem para confirmação diagnóstica (geralmente o exame inicial é a ultrassonografia de abdome superior) e retirada do cálculo por CPRE (coolangiopancreatografia endoscópica).",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -9936,7 +10044,7 @@
       },
       "correta": "B",
       "explicacao": "linfadenite mesentérica. Estamos diante de uma criança com quadro de dor abdominal em quadrante inferior direito há dois dias e com antecedente de gastroenterite recente. A ultrassonografia descartou apendicite aguda e visualizou a presença de linfonodos mesentéricos. Estamos diante de uma quadro de adenite ou linfadenite mesentérica, um dos principais diagnósticos diferenciais da apendicite aguda. LINFADENITE MESENTÉRICA é uma inflamação dos nódulos linfáticos do mesentério, mais comum em crianças na fase escolar e adolescentes. Causada geralmente por gastroenterite viral e bacteriana, principalmente por Yersinia enterocolítica, doença inflamatória intestinal e linfoma. Os sintomas podem começar após um resfriado ou infecção viral e incluem dor no quadrante inferior direito do abdome (maior concentração de gânglios mesentéricos) ou em outras partes, febre, náuseas e vômitos, diarreia, mal-estar e perda de peso. Apresenta um quadro clínico bem semelhante à apendicite, porém com tratamento clínico que envolve cuidados de suporte, incluindo tratamento da dor e hidratação adequada. Leucopenia e linfocitose podem estar presentes nos exames laboratoriais (padrão viral). A dor abdominal que ocorre em pacientes com linfadenite mesentérica geralmente desaparece dentro de uma a quatro semanas, no entanto, muitas crianças podem apresentar sintomas por até 10 semanas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -9963,7 +10071,7 @@
       },
       "correta": "D",
       "explicacao": "espaço de ocorrência das hérnias femorais. Questão que cobra anatomia da região inguinal, na visão de uma laparoscopia. Vamos colocar uma imagem \"colorida\" para melhor entendimento: Agora, a imagem apresentada com as identificadas: Dessa forma, estamos diante de uma hérnia femoral (abaixo do ligamento inguinal).",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -9991,7 +10099,7 @@
       },
       "correta": "D",
       "explicacao": "Quase todos os pacientes têm disseminação peritoneal de células tumorais no momento do diagnóstico. Porém, a maioria dessas neoplasias não é invasiva. Metástases para o fígado e nodais são incomuns. Já a recidiva locorregional é típica. Estamos diante de um paciente jovem com quadro clínico muito sugestivo de apendicite aguda, mas a tomografia apresenta características de uma neoplasia de apendice cecal. Os neoplasmas apendiculares compreendem vários tipos histológicos, amplamente categorizados como tumores neuroendócrinos (também conhecidos como carcinoides do apêndice) e neoplasias epiteliais.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -10017,7 +10125,7 @@
       },
       "correta": "C",
       "explicacao": "Grau IV Estamos diante de um paciente vítima de ferimento penetrante por arma de fogo em região lombar já apresentando na admissão instabilidade hemodinâmica e sinais de peritonite, indicações absolutas de laparotomia exploradora. Foi realizada uma tomografia (que não deveria ter feito pois instabilidade é uma contraindicação) que evidenciou trauma renal Grau IV (laceração extensa no parênquima do rim esquerdo, estendendo-se ao córtex, à medula e ao sistema coletor, com extravasamento de contraste, hematoma perirrenal volumoso e sinais de comprometimento vascular segmentar). Dessa forma, a conduta, além da reanimação volêmica com solução cristaloide e hemoderivados é indicar laparotomia imediata para nefrectomia.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -10043,7 +10151,7 @@
       },
       "correta": "A",
       "explicacao": "Laparotomia exploradora com exploração precoce do hilo renal e da vasculatura antes do retroperitôneo. Estamos diante de um paciente vítima de ferimento penetrante por arma de fogo em região lombar já apresentando na admissão instabilidade hemodinâmica e sinais de peritonite, indicações absolutas de laparotomia exploradora. Foi realizada uma tomografia (que não deveria ter feito pois instabilidade é uma contraindicação) que evidenciou trauma renal Grau IV. Dessa forma, a conduta, além da reanimação volêmica com solução cristaloide e hemoderivados é indicar laparotomia exploradora imediata para nefrectomia.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -10069,7 +10177,7 @@
       },
       "correta": "A",
       "explicacao": "repetir exame de citologia em 6 meses. Estrategista, esta paciente apresentou um resultado de colpocitologia com ASCUS e posteriormente, no seu seguimento, um resultado de lesão de baixo grau. A lesão intraepitelial de baixo grau (LSIL/LIEBG) é o segundo diagnóstico citológico mais frequente (precedido apenas por ASCUS). Representa a manifestação citológica da infecção pelo HPV, muito prevalente e com alto potencial de regressão, por isso, uma conduta conservadora deve ser adotada. Recomendações: mulheres com diagnóstico citopatológico de LSIL devem repetir o exame citopatológico em seis meses. Processos infecciosos ou atrofia genital identificados devem ser tratados antes da nova coleta. Se a citologia de repetição for negativa em dois exames consecutivos, a paciente deve retornar à rotina de rastreamento citológico trienal. Se uma das citologias subsequentes no período de um ano for positiva, encaminhar para colposcopia. À colposcopia, se presentes achados anormais no colo do útero, deve-se realizar a biópsia. Presente NIC II/III ou câncer, deve-se seguir conduta específica. Caso presente NIC I, a paciente deverá ser mantida em seguimento citológico. Quando presentes achados anormais menores, a biópsia poderá ser dispensada, considerando-se outros fatores como idade menor do que 30 anos, rastreamento prévio negativo e ausência de história de doença cervical pré-invasiva (NIC II/III). As pacientes não submetidas à biópsia devem ser seguidas com citologia em 12 meses até dois exames seguidos negativos, seguindo-se conduta específica a partir dos resultados subsequentes. Na ausência de achados colposcópicos anormais no colo e na vagina, é recomendado repetir a citologia. A nova citologia deverá ser realizada a cada seis meses em mulheres com mais de 30 anos ou anualmente, nas mulheres até 30 anos. Caso o exame citopatológico seja negativo em dois exames seguidos, a mulher deve retornar à rotina de rastreamento citológico trienal. Mantido o diagnóstico citopatológico de LSIL, a mulher deverá ser mantida em seguimento citológico até que os exames retornem à normalidade. Caso, nesse seguimento, seja obtido um diagnóstico mais relevante (ASC-H, HSIL, AGC ou câncer), a conduta deverá ser definida em função do novo resultado. Segue um resumo das principais recomendações: Repare que esta paciente foi submetida a colposcopia porque teve dois resultados de colpocitologia seguidos alterados (ASCUS e LIEBG) e na colposcopia foi encontrado epitélio acetobranco tênue, com orifícios glandulares espessados. A tabela abaixo mostra os achados colposcópicos e sua classificação: Repare que a paciente apresenta orifícios glandulares espessados, que é um achado colposcópico maior, sugestivo de lesão de alto grau e não compatível com o resultado da colpocitologia que apresentou lesão de baixo grau. Sendo assim, de acordo com a diretriz do MS de 2016, entendemos que a conduta indicada para este caso seria a realização de biópsia da lesão guiada pela colposcopia. Agora vamos analisar as alternativas:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -10095,7 +10203,7 @@
       },
       "correta": "C",
       "explicacao": "Tabagismo Gabarito: alternativa C (Tabagismo) O câncer de pulmão é uma das neoplasias malignas mais incidentes e letais no mundo, sendo a principal causa de morte por câncer em ambos os sexos. Ele se divide, histologicamente, em dois grandes grupos: o câncer de pulmão de pequenas células (CPCP) e o câncer de pulmão de não pequenas células (CPNPC), sendo este último mais prevalente. Entre os principais subtipos do CPNPC estão o adenocarcinoma, o carcinoma de células escamosas e o carcinoma de grandes células. A etiologia do câncer de pulmão está fortemente associada a fatores ambientais e ocupacionais, sendo o tabagismo o principal fator de risco modificável. O cigarro contém mais de 7.000 substâncias químicas, das quais pelo menos 60 são reconhecidamente carcinogênicas, como hidrocarbonetos policíclicos aromáticos, aminas aromáticas e metais pesados. O risco de desenvolver câncer de pulmão é diretamente proporcional ao número de cigarros fumados e ao tempo de exposição ao tabaco. A exposição passiva ao tabagismo também é um fator de risco importante, especialmente para não fumantes que convivem com fumantes em ambientes fechados. Além do tabagismo, outros fatores de risco incluem exposição ocupacional a substâncias como amianto, radônio e metais pesados, poluição ambiental, radiações ionizantes e predisposição genética. Entretanto, entre todos esses fatores, o tabagismo é o que apresenta a maior correlação com a doença e, por ser um hábito comportamental, é um alvo primário das políticas de prevenção.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",

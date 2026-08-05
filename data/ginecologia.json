@@ -20,7 +20,8 @@
       "_edicao": "1",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-015",
@@ -43,7 +44,8 @@
       "_edicao": "1",
       "subarea": "Ginecologia básica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Anatomia ginecológica"
+      "sub_subarea": "Anatomia ginecológica",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-027",
@@ -64,7 +66,8 @@
       "_edicao": "1",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-037",
@@ -85,7 +88,8 @@
       "_edicao": "1",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)"
+      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-046",
@@ -108,7 +112,8 @@
       "_edicao": "1",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-057",
@@ -129,7 +134,8 @@
       "_edicao": "1",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama"
+      "sub_subarea": "Câncer de mama",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-069",
@@ -150,7 +156,8 @@
       "_edicao": "1",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-079",
@@ -171,7 +178,8 @@
       "_edicao": "1",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-088",
@@ -192,7 +200,8 @@
       "_edicao": "1",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Amenorreia"
+      "sub_subarea": "Amenorreia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-097",
@@ -215,7 +224,8 @@
       "_edicao": "1",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-003",
@@ -238,7 +248,8 @@
       "_edicao": "11",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama"
+      "sub_subarea": "Câncer de mama",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-008",
@@ -259,7 +270,8 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de ovário"
+      "sub_subarea": "Câncer de ovário",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-022",
@@ -282,7 +294,8 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-037",
@@ -303,7 +316,8 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de endométrio"
+      "sub_subarea": "Câncer de endométrio",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-057",
@@ -324,7 +338,8 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-065",
@@ -347,7 +362,8 @@
       "_edicao": "11",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções sexualmente transmissíveis (IST)"
+      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-067",
@@ -367,7 +383,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "ginecologia"
+      "_area_slug": "ginecologia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-075",
@@ -388,7 +405,8 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de endométrio"
+      "sub_subarea": "Câncer de endométrio",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-086",
@@ -409,7 +427,8 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-096",
@@ -430,7 +449,8 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-029",
@@ -448,7 +468,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "",
-      "_area_slug": "ginecologia"
+      "_area_slug": "ginecologia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-056",
@@ -470,7 +491,8 @@
       "_edicao": "14",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-062",
@@ -492,7 +514,8 @@
       "_edicao": "14",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de endométrio"
+      "sub_subarea": "Câncer de endométrio",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-070",
@@ -511,7 +534,8 @@
       "_edicao": "14",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama"
+      "sub_subarea": "Câncer de mama",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-080",
@@ -530,7 +554,8 @@
       "_edicao": "14",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-087",
@@ -549,7 +574,8 @@
       "_edicao": "14",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama"
+      "sub_subarea": "Câncer de mama",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-089",
@@ -572,7 +598,8 @@
       "_edicao": "14",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-094",
@@ -591,7 +618,8 @@
       "_edicao": "14",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Endometriose"
+      "sub_subarea": "Endometriose",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-097",
@@ -613,7 +641,8 @@
       "sub_subarea": "Neoplasia intraepitelial cervical (NIC)",
       "imagens": [
         "data/simulados/imgs/14-simulado/q97_img1.jpeg"
-      ]
+      ],
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-006",
@@ -637,7 +666,8 @@
       "_edicao": "3",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-018",
@@ -658,7 +688,8 @@
       "_edicao": "3",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de ovário"
+      "sub_subarea": "Câncer de ovário",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-025",
@@ -679,7 +710,8 @@
       "_edicao": "3",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)"
+      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-035",
@@ -700,7 +732,8 @@
       "_edicao": "3",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-044",
@@ -721,7 +754,8 @@
       "_edicao": "3",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-054",
@@ -742,7 +776,8 @@
       "_edicao": "3",
       "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Sangramento uterino anormal (SUA)"
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-062",
@@ -763,7 +798,8 @@
       "_edicao": "3",
       "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Dismenorreia e síndrome pré-menstrual"
+      "sub_subarea": "Dismenorreia e síndrome pré-menstrual",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-070",
@@ -784,7 +820,8 @@
       "_edicao": "3",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções sexualmente transmissíveis (IST)"
+      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-080",
@@ -805,7 +842,8 @@
       "_edicao": "3",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de endométrio"
+      "sub_subarea": "Câncer de endométrio",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-096",
@@ -826,7 +864,8 @@
       "_edicao": "3",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Amenorreia"
+      "sub_subarea": "Amenorreia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-005",
@@ -847,7 +886,8 @@
       "_edicao": "5",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções sexualmente transmissíveis (IST)"
+      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-026",
@@ -868,7 +908,8 @@
       "_edicao": "5",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama"
+      "sub_subarea": "Câncer de mama",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-034",
@@ -889,7 +930,8 @@
       "_edicao": "5",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de endométrio"
+      "sub_subarea": "Câncer de endométrio",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-036",
@@ -910,7 +952,8 @@
       "_edicao": "5",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama"
+      "sub_subarea": "Câncer de mama",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-047",
@@ -933,7 +976,8 @@
       "_edicao": "5",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama"
+      "sub_subarea": "Câncer de mama",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-057",
@@ -954,7 +998,8 @@
       "_edicao": "5",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de endométrio"
+      "sub_subarea": "Câncer de endométrio",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-061",
@@ -975,7 +1020,8 @@
       "_edicao": "5",
       "subarea": "Sexualidade",
       "_area_slug": "ginecologia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-063",
@@ -996,7 +1042,8 @@
       "_edicao": "5",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-068",
@@ -1017,7 +1064,8 @@
       "_edicao": "5",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de ovário"
+      "sub_subarea": "Câncer de ovário",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-079",
@@ -1040,7 +1088,8 @@
       "_edicao": "5",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-018",
@@ -1063,7 +1112,8 @@
       "_edicao": "9",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de ovário"
+      "sub_subarea": "Câncer de ovário",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-027",
@@ -1084,7 +1134,8 @@
       "_edicao": "9",
       "subarea": "Uroginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Incontinência urinária (IU)"
+      "sub_subarea": "Incontinência urinária (IU)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-033",
@@ -1105,7 +1156,8 @@
       "_edicao": "9",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Doença Inflamatória Pélvica (DIP)"
+      "sub_subarea": "Doença Inflamatória Pélvica (DIP)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-056",
@@ -1129,7 +1181,8 @@
       "_edicao": "9",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)"
+      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-060",
@@ -1150,7 +1203,8 @@
       "_edicao": "9",
       "subarea": "Ginecologia básica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Semiologia ginecológica (exame especular, toque, PN)"
+      "sub_subarea": "Semiologia ginecológica (exame especular, toque, PN)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-064",
@@ -1171,7 +1225,8 @@
       "_edicao": "9",
       "subarea": "Sexualidade",
       "_area_slug": "ginecologia",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-069",
@@ -1194,7 +1249,8 @@
       "_edicao": "9",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Doença Inflamatória Pélvica (DIP)"
+      "sub_subarea": "Doença Inflamatória Pélvica (DIP)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-077",
@@ -1215,7 +1271,8 @@
       "_edicao": "9",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-082",
@@ -1238,7 +1295,8 @@
       "_edicao": "9",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Amenorreia"
+      "sub_subarea": "Amenorreia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-089",
@@ -1261,7 +1319,8 @@
       "_edicao": "9",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau"
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-098",
@@ -1284,7 +1343,8 @@
       "_edicao": "9",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Amenorreia"
+      "sub_subarea": "Amenorreia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "site-pf-001",
@@ -1306,7 +1366,7 @@
       },
       "correta": "E",
       "explicacao": "Gabarito: alternativa E. Nem sempre o prurido vulvar é sinônimo de candidíase, pois outras patologias podem cursar com esse sintoma (dermatoses vulvares, dermatite atópica, eczemas etc.). A presença de corrimento vaginal faz com que a etiologia mais provável seja a candidíase, causada pela proliferação de fungos, na maioria dos casos Candida albicans. O tratamento deve ser feito com antifúngicos (via tópica ou oral têm igual eficácia). Análise: A (22%) incorreta — metronidazol é para vaginose bacteriana; B (2%) incorreta — azitromicina é para cervicite por clamídia; C (2%) incorreta — tinidazol é para vaginose bacteriana; D (2%) incorreta — clindamicina é para vaginose bacteriana; E (71%) correta — miconazol é antifúngico. Tópicos: Ginecologia endócrina → Planejamento familiar → Métodos hormonais combinados → Contraindicações.",
-      "banca": "PR - UEM - Universidade Estadual de Maringá"
+      "banca": "UEM"
     },
     {
       "id": "site-pf-002",
@@ -1327,7 +1387,7 @@
       },
       "correta": "D",
       "explicacao": "Gabarito: alternativa D. Houve rompimento do preservativo durante relação desprotegida no período fértil. O período fértil ocorre em torno do meio do ciclo (ovulação), e o óvulo pode ser fertilizado por até 24h após liberação, enquanto espermatozoides permanecem viáveis por até 5 dias. Como a relação ocorreu há 2 dias no período fértil, existe janela de fertilização. Se a gravidez não é desejada, indicar contracepção de emergência (pílula do dia seguinte, eficaz até 72h, algumas opções até 5 dias). O risco teórico de gestação em relação desprotegida no período fértil é de cerca de 20%. Análise: A (5%) incorreta; B (43%) incorreta; C (4%) incorreta; D (48%) correta — risco de cerca de 20%.",
-      "banca": "BA - SUS Bahia (BA)",
+      "banca": "SUS-BA",
       "sub_subarea": "Anticoncepção"
     },
     {
@@ -1349,7 +1409,7 @@
       },
       "correta": "D",
       "explicacao": "Gabarito: alternativa D. Paciente tem mioma e a questão pede método anticoncepcional que sirva também para o tratamento da miomatose. A (10%) incorreta — paciente tem mais de 35 anos e é tabagista, contraindicação para anticoncepcionais combinados; B (3%) incorreta — anel vaginal também é combinado (etinilestradiol + etonogestrel); C (11%) incorreta — mioma distorce a cavidade endometrial, contraindicação para DIU; D (76%) correta — sem contraindicação para progestágeno exclusivo e é opção de tratamento da miomatose uterina.",
-      "banca": "ES - Hospital Evangélico de Cachoeira de Itapemirim (HECI)",
+      "banca": "BQMED",
       "sub_subarea": "Anticoncepção"
     },
     {
@@ -1372,7 +1432,7 @@
       },
       "correta": "D",
       "explicacao": "Gabarito: alternativa D. Paciente com sangramento uterino anormal por miomatose, tratada com SIU de levonorgestrel. Miomas têm crescimento estimulado por estrógeno e progesterona; os medicamentos hormonais objetivam diminuir ou impedir esse estímulo. Anticoncepcionais combinados e progestágenos induzem atrofia endometrial, reduzindo o fluxo menstrual. A (1%) incorreta — não agem diminuindo aporte sanguíneo arterial; B (9%) incorreta — inibem ovulação, mas esse não é o mecanismo para reduzir sangramento dos miomas; C (12%) incorreta — não diminuem tamanho dos miomas (só análogos do GnRH); D (72%) correta — promover atrofia endometrial; E (6%) incorreta — não é o mecanismo para tratamento dos miomas.",
-      "banca": "PI - Hospital Estadual Dirceu Arcoverde (HEDA)"
+      "banca": "HEDA"
     },
     {
       "id": "site-pf-005",
@@ -1393,7 +1453,7 @@
       },
       "correta": "B",
       "explicacao": "Gabarito: alternativa B. Lúpus com anticorpos antifosfolipídeos positivos ou desconhecidos são categoria 3 pelo OMS para DIU de levonorgestrel, por isso nesse caso o DIU de cobre é a melhor opção para essa paciente. Análise: A (18%) — DIU com levonorgestrel categoria 3 pelo OMS em lúpus com anticorpos antifosfolipídeos positivos/desconhecidos; B (80%) correta — DIU de cobre, método não hormonal, sem interferência no LES; C (0%) — injetável mensal combinado hormonal, contraindicado; D (2%) — adesivo transdérmico combinado hormonal, contraindicado.",
-      "banca": "MS - Santa Casa de Misericórdia de Campo Grande (SCMCG)",
+      "banca": "SCMCG",
       "sub_subarea": "Anticoncepção"
     },
     {
@@ -1770,7 +1830,7 @@
       },
       "correta": "A",
       "explicacao": "Todos os itens estão corretos. Estrategista, esta é uma questão sobre a Lei do Planejamento Familiar. Os \"PONTOS-CHAVE\" dessa lei são: 1. QUEM PODE? • Homens e mulheres; • Idade igual ou superior a 21 anos OU dois filhos vivos; • Risco de vida à mulher ou ao futuro concepto->assinado por 2 médicos; 2. Manifestação da vontade por escrito -> prazo de 60 dias entre a manifestação do desejo e o procedimento; 3. Permitida a esterilização cirúrgica no parto ou aborto; 4. Proibida esterilização por histerectomia ou ooforectomia; 5. Se sociedade conjugal -> não é necessária a assinatura do cônjuge; 6. PENA: • reclusão de 2-8 anos e multa. Agora vamos analisar os itens abaixo: I. A Lei reduz para 21 anos a idade mínima para a realização dos procedimentos de esterilização cirúrgica. (CORRETO) Anteriormente a idade mínima era de 25 anos de idade, mas foi reduzida para 21 anos na Lei 14.443 / 2022. Il. Quem tem dois ou mais filhos vivos poderá realizar a cirurgia a partir dos 18 anos. (CORRETO) O homem ou mulher que tem dois ou mais filhos vivos não precisa ter 21 anos para poder ser submetido a cirurgia. III. A Lei mantém o prazo mínimo de 60 dias entre a manifestação da vontade e o ato cirúrgico. (CORRETO) O prazo mínimo de 60 dias entre a manifestação do desejo e assinatura do pedido e a realização do procedimento foi mantido em relação a Lei anterior. IV. A Lei dispensa o consentimento do cônjuge para autorizar a laqueadura em mulheres e vasectomia em homens. (CORRETO) Anteriormente era necessário a assinatura do cônjuge para a realização do procedimento, mas a Lei 14.443 / 20222 modificou isso, dispensando a necessidade de consentimento do cônjuge para que possa ser realizada a esterilização. Agora vamos analisar as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1794,7 +1854,7 @@
       },
       "correta": "B",
       "explicacao": "Útero didelfo/Ausência de fusão dos ductos de Muller Durante o processo de fusão e reabsorção dos ductos de Muller, algumas falhas podem ocorrer, levando às chamadas malformações uterinas ou müllerianas. As malformações uterinas ou müllerianas são as anormalidades causadas por fusão embriológica defeituosa ou falha na recanalização dos ductos de Müller na formação da cavidade uterina normal. As malformações uterinas mais comuns são a agenesia, os defeitos de fusão lateral e os defeitos de fusão vertical. Agenesia: é a presença de cornos rudimentares ou de nenhuma estrutura uterina. A associação com agenesia de terço superior de vagina é a síndrome de Mayer-Rokitansky-Küster-Hauser. Defeitos de fusão lateral: são o tipo mais comum, sendo resultado de falha na formação de um ducto, na fusão desses ductos ou na reabsorção do septo entre eles. Dentre esses defeitos, temos: 1. útero septado (parcial ou completo) – não há regressão do septo medial dos ductos paramesonéfricos após a fusão. É a malformação uterina mais comum. 2. útero arqueado – discreta convexidade do fundo uterino ou pequeno septo na linha média com um fundo normal. 3. útero unicorno – resulta da falha de desenvolvimento de um dos ductos paramesonéfricos, podendo ou não apresentar um corno rudimentar. 4. útero bicorno – apresenta duas cavidades endometriais que se comunicam e um colo uterino por fusão incompleta dos ductos. 5. útero didelfo – presença de dois cornos uterinos separados, cada um com uma cavidade uterina e com um colo uterino por uma falha na fusão dos ductos. Defeitos de fusão vertical: são resultado da falha de fusão distal dos ductos müllerianos com o seio urogenital ou de defeitos na recanalização vaginal, resultando na formação de septos vaginais. Vale lembrar-se de que os septos vaginais associados à amenorreia são os transversos. A ilustração abaixo demonstra as principais malformações müllerianas existentes:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1820,7 +1880,7 @@
       },
       "correta": "D",
       "explicacao": "Esteatonecrose Estrategista, esta paciente tem um nódulo mal definido e endurecido na mama e estas características são suspeitas de malignidade, fazendo com que você suspeite que ela esteja com um câncer. Mas tome cuidado! Esta é a \"pegadinha\" desta questão. Repare que trata-se de uma paciente jovem de 25 anos de idade e que a malignidade é rara nessa faixa etária. Veja o gráfico abaixo: Repare que o câncer é raro nas mulheres jovens e apresenta um aumento na sua incidência a partir dos 40 anos de idade, sendo mais prevalente nas mulheres idosas. Além disso, esta paciente tem uma história de queda de bicicleta há dois meses, quando apresentou equimose e hematoma na mama esquerda, produzido pelo impacto com o guidão. Esta é a dica para acertar esta questão! Esta história é sugestiva de que o nódulo seja na verdade uma esteatonecrose devido a este trauma. A esteatonecrose, como diz o nome, é a necrose da gordura da mama. É uma alteração absolutamente benigna, mas que pode ser confundida com o câncer em alguns casos. A esteatonecrose pode acontecer devido ao trauma, uma cirurgia da mama ou até mesmo em consequência de uma radioterapia prévia. Em alguns casos podemos reconhecer a esteatonecrose devido a presença de cistos oleosos associados à lesão. Nos casos em que não há certeza devemos proceder com a biópsia para diferenciar a esteatonecrose das lesões malignas. Uma vez confirmado o diagnóstico de esteatonecrose a conduta é o seguimento. A presença de esteatonecrose não aumenta o risco de desenvolver o câncer de mama. Agora vamos analisar as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1847,7 +1907,7 @@
       },
       "correta": "B",
       "explicacao": "No cenário acima, deve-se seguir a rotina de rastreamento citológico habitual, estabelecendo tratamento específico nas sintomáticas. A flora vaginal normal é constituída principalmente por diferentes espécies de lactobacilos (L. acidophilus ou bacilos de Doderlein), bactérias aeróbias Gram-positivas. Também pode incluir a presença de outras bactérias Gram-positivas (Staphylococcus epidermidis e Streptococcus agalactiae), Gram- negativas (Escherichia coli), anaeróbios (Gardnerella vaginalis, presente em 5% - 60% da flora vaginal normal) e fungos. Existem diversas espécies de lactobacilos, mas geralmente três ou quatro estão predominantes no microambiente vaginal, que correspondem ao complexo de Lactobacillus acidophilus (L. crispatus, L. iners, L. jensenii e L. gasseri), com destaque para L. crispatus e L. iners. Os lactobacilos são o “escudo” do meio vaginal. Atuam inibindo a adesão, o crescimento e a proliferação de outros microrganismos estranhos ao meio vaginal, mediante diferentes mecanismos: secreção de ácidos orgânicos, produção de substâncias antimicrobianas (peróxido de hidrogênio, bacteriocinas e biossurfactantes), competição por nutrientes e por receptores e ativação de linfócitos T.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1871,7 +1931,7 @@
       },
       "correta": "A",
       "explicacao": "Menopausa precoce A amenorreia secundária corresponde à ausência de menstruação por um período equivalente a três ciclos menstruais (se regulares) ou pelo menos seis meses (se ciclos irregulares), em mulheres em que a menarca já ocorreu. A ausência de menstruação em um período de tempo inferior aos descritos é classificada como atraso menstrual. A definição acima é adotada pelo Tratado de Ginecologia do Williams. Já o Tratado de Ginecologia da FEBRASGO considera a amenorreia secundária como ausência de menstruação por três meses ou quando ocorrem menos de nove menstruações ao longo do ano, em mulheres que já tiveram a menarca. A seguir, apresentamos o fluxograma que resume a investigação diagnóstica:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1895,7 +1955,7 @@
       },
       "correta": "E",
       "explicacao": "Hipertrofia de colo uterino Existem diversas classificações utilizadas para avaliar os POPs, porém o POP-Q (pelvic organ prolapse quantification) é o mais aceito pelas sociedades científicas e o mais cobrado nas provas de Residência. Sabemos que avaliar as grades do POP-Q é amplamente cobrado nas provas e é uma das maiores dificuldades dos alunos. A avaliação do POP-Q tem como base a fixação de pontos de referência na vagina (conforme imagem abaixo). Independentemente do ponto, sua distância é medida em centímetros, em relação à carúncula himenal, que é o introito da vagina (ponto zero). Os pontos internos da vagina são negativos e os pontos externos são positivos. Os valores aferidos pelo POP-Q são descritos através de uma grade, como a representada na imagem abaixo. Em algumas provas, os nomes dos pontos não são dados e você tem que decorar a organização dessa grade. Vamos usar o passo a passo do POP - Q na prova? 1º Veja os valores dos pontos Ba, Bp, C e D (a partir deles você conseguirá avaliar se há a presença de prolapso e sua localização). O comprimento vaginal total (CVT) também será importante para fazer a classificação. Ba -3 Bp -3 C -2 D -8 CVT 10 2º Os pontos Ba e Bp são maiores do que –3 (por exemplo -2, -1, 0 etc.)? Se sim, isso significa que há prolapso e você deve empregar a classificação em estádios para definir seu grau. Lembrando que o ponto Ba representa a parede vaginal anterior e o Bp, a parede posterior. Não há prolapsos de parede anterior e posterior, pois os pontos Ba e Bp estão em -3. 3º Qual o valor do comprimento total da vagina? Vamos supor que seja de 10 cm. Transforme esse valor em um número negativo e compare-o com o ponto D. Se o valor do ponto D for maior que -10, por exemplo -9, -8 ou -7, isso significa que há uma descida da cúpula vaginal, porém consideraremos patológico somente se a diferença for maior do que 2 cm. A partir disso, você deve usar a classificação do POP-Q para ver seu estádio. É importante lembrar que o ponto C e o ponto D descem juntos, pois representam o colo do útero e a cúpula vaginal. O CVT é de 10 ---> -10. Ao compararmos com o ponto D, vemos que a diferença não é superior a 2 cm e, portanto, não há prolapso de parede apical. Mas, há uma diferença muito grande entre C e D. São 6 cm. O que isso significa? Há uma hipertrofia do colo uterino, quando ele mede mais do que 4-5cm. Diante do exposto, a alternativa correta é a letra \"e\".",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1923,7 +1983,7 @@
       },
       "correta": "C",
       "explicacao": "8 semanas O que o examinador quer saber: sobre as modificações fisiológicas da gestação. Os principais sinais que podem aparecer nas modificações fisiológicas do trato genital durante a gestação: Aumento uterino: O útero aumenta de tamanho e pode ser palpável no abdômen. Mudanças cervicais: O colo do útero amolece e se dilata gradualmente em preparação para o parto. Aumento da vascularização: Pode haver um aumento visível no fluxo sanguíneo e na vascularização dos órgãos genitais. Variações hormonais: Os níveis de estrogênio e progesterona aumentam, influenciando as mudanças no trato genital. Alterações na vagina: A vagina pode ficar mais vascularizada e produzir mais muco, resultando em aumento da umidade. Aumento da pressão na bexiga: O útero em crescimento pode causar uma necessidade frequente de urinar. Hemorroidas: O aumento da pressão nas veias pélvicas pode levar ao desenvolvimento de hemorroidas. Dilatação das veias da vulva: As veias da vulva podem se tornar dilatadas e proeminentes devido à pressão sanguínea na área. Comentários: Considerando a data da ultima menstruação, a gestante estaria com 6 a 7 semanas. As características clínicas descritas, como a flexão do corpo uterino, o istmo amolecido e a pulsação vaginal, podem ser observadas geralmente a partir de aproximadamente 6 a 8 semanas de idade gestacional. No entanto, é importante lembrar que essas características podem variar de paciente para paciente e não são indicadores absolutos de idade gestacional. Elas podem estar presentes em um estágio um pouco antes ou depois desse período, dependendo da individualidade de cada mulher e de outros fatores. Para uma determinação precisa da idade gestacional e para avaliar o desenvolvimento fetal, a ultrassonografia transvaginal é a ferramenta mais confiável. Sendo assim, todas as alternativas são aceitáveis e essa questão deve ser anulada.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1947,7 +2007,7 @@
       },
       "correta": "A",
       "explicacao": "Manobra de Tarnier — positivo O que o examinador quer saber: sobre o diagnóstico de rotura prematura de membranas. A principal queixa da gestante com RPM é a saída de líquido amniótico pela vagina na ausência de contrações uterinas. Diante desse sintoma, a gestante deve ser avaliada clinicamente por meio do exame especular, a fim de verificar a saída de líquido amniótico pelo orifício externo do colo uterino. Pode-se fazer elevação da apresentação fetal e compressão no fundo uterino (manobra de Tarnier) ou solicitar que a gestante realize manobra de Valsalva para observar melhor a saída de líquido amniótico. O exame de toque não deve ser realizado se a gestante estiver fora de trabalho de parto pelo risco aumentado de infecção. Desse modo, o diagnóstico de rotura prematura de membranas ocorre em 90% dos casos por meio da avaliação clínica, com a visualização da saída de líquido amniótico pelo orifício externo do colo uterino no exame especular, sendo este o diagnóstico padrão-ouro. Diversos são os testes laboratoriais que podem ser utilizados para ajudar no diagnóstico de RPM quando a clínica for duvidosa. Algumas vezes, o líquido amniótico pode ser confundido com outras secreções presentes na vagina, como corrimento vaginal, muco cervical, urina materna e até mesmo transpiração materna. Nesses casos, os testes laboratoriais são de grande valia para ajudar na diferenciação entre RPM e seus diagnósticos diferenciais. Os testes diagnósticos mais utilizados estão resumidos na tabela abaixo: Com exceção dos testes PAMG-1 e IGFBP-1, os outros testes sofrem influência de sangue, sêmen, vaginose, tricomoníase e antisséptico alcalino, gerando resultados falsos-positivos. Diante de rotura prematura de membranas, ocorre a liberação de fibronectina para a vagina e por isso o teste de fibronectina fica positivo nessa situação, embora esse teste não seja utilizado para avaliar RPM, mas sim a probabilidade de parto prematuro nos próximos dias em gestante de risco de prematuridade e membrana íntegra. A avaliação ultrassonográfica do líquido amniótico pode ser utilizada para ajudar no diagnóstico, mas não exclui e nem confirma a RPM, uma vez que pode haver rotura de membranas e o líquido permanecer normal e, por outro lado, o oligoâmnio pode estar presente por outras causas que não a RPM, como na insuficiência placentária ou em malformações do sistema urinário.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1973,7 +2033,7 @@
       },
       "correta": "E",
       "explicacao": "Iniciar infliximab A questão nos apresenta um paciente sabidamente portador de Retocolite Ulcerativa, já em vigência de tratamento, que se apresenta com agudização da sua doença. Para responder adequadamente ao caso, é preciso que você se lembre das três formas de descompensação aguda da doença: 1. Colite Aguda Grave, 2. Colite Fulminante e 3. Megacólon Tóxico. Cada uma delas representa uma progressão do estágio anterior, até culminar no megacólon tóxico. Vamos rever: 1. COLITE AGUDA GRAVE Critérios diagnósticos: - Mais de 6 evacuações/dia - Fezes sanguinolentas - PCR elevado ou VHS > 30 mm - TAX > de 37,5°C - FC > 90 bpm - Hb < 75% do basal 2. COLITE FULMINANTE Critérios diagnósticos: - Mais de 10 evacuações/dia - Fezes sanguinolentas - PCR ou VHS consideravelmente mais elevados - Febre com TAX acima de 38,5°C - Taquicardia com FC > 100 bpm - Hemoglobina menor que 10 g/dL - Sinais de comprometimento sistêmico, como alteração do estado mental ou evidência de insuficiência de órgãos 3. MEGACÓLON TÓXICO Critérios diagnósticos: - Distensão do cólon > 6 cm E, pelo menos, 3 dos seguintes: - TAX > 38,5°C - FC > 120 bpm - Leucocitose às custas de neutrófilos - Anemia (Hb < 60% do valor basal) E, pelo menos, 1 dos seguintes: - Desidratação - Alteração do nível de consciência - Distúrbio hidroeletrolítico. O que fazer? --> Pacientes com COLITE AGUDA GRAVE OU FULMINANTE: 1. Afastar infecções oportunistas, como Clostridioides difficile e CMV 2. Evitar opioides, AINEs e medicamentos com efeito anti-colinérgico (para não precipitar o megacólon tóxico). 3. Opções terapêuticas: Metilprednisolona 60 mg/dia ou Hidrocortisona 100 mg 3-4x ao dia IV. 4. Se tiver falha nesse tratamento em 3 a 5 dias, o resgate será com Infliximabe ou Ciclosporina. Pacientes com MEGACÓLON TÓXICO: 1. Estabilização + reposição volêmica com cristaloides + corticoides 2. Antibioticoterapia de amplo espectro 3. Ausência de melhora em 48 a 72 horas = tratamento cirúrgico com COLECTOMIA TOTAL COM ILEOSTOMIA E PRESERVAÇÃO DO RETO. Perceba que você não precisa se debruçar sobre os critérios para categorizar o paciente entre colite grave e fulminante, pois o tratamento é o mesmo. Só faz diferença se tivermos um paciente com megacólon tóxico (dilatação > 6 cm de cólon + sinais inflamatórios sistêmicos graves), pois isso implicará na decisão cirúrgica mais precocemente. O paciente da questão tem colite grave a fulminante, já tendo sido tratado por 4 dias com corticoide (hidrocortisona), sem apresentar melhora substancial do quadro. Como ele não tem megacólon tóxico, a próxima conduta não será cirúrgica. Vamos procurar entre as alternativas para defini-la:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -1997,7 +2057,7 @@
       },
       "correta": "C",
       "explicacao": "12 semanas O que o examinador quer saber: sobre a estimativa da idade gestacional pela altura uterina. Aqui vale a pena relembrar como se realiza uma correta datação da gestação. A assistência ao pré-natal é estruturada de acordo com a evolução das semanas de gestação, assim como a programação do parto e os cuidados diante de intercorrências obstétricas. Sendo assim, observe que o cálculo da idade gestacional impacta diretamente as condutas obstétricas durante toda a gravidez, sendo fundamental, portanto, que a datação da gestação seja realizada de forma correta. As três principais maneiras de determinar a idade gestacional: ✓ Pela data da última menstruação (DUM). ✓ Pela ultrassonografia (USG). ✓ Pela altura uterina (AU). PELA DUM Um conceito essencial que você precisa sempre ter em mente para determinar a idade gestacional a partir da data da última menstruação (DUM) é saber que ela representa o primeiro dia do último ciclo menstrual. Então devemos somar o número de dias no mês da DUM até a data solicitada . Desta soma dividir por 7 que o resultado será em semanas e o que sobre da divisão é o número de dias. PELA ULTRASSONOGRAFIA A estimativa da IG pelo ultrassom é essencial nos casos em que não se tem certeza da data da última menstruação (DUM), o ciclo menstrual é irregular ou a mulher fazia uso de contracepção hormonal. A estimativa da IG pode ser feita por meio da medida do diâmetro médio do saco gestacional, pelo tamanho do embrião (comprimento cabeça-nádega) ou pelo tamanho de partes fetais (biometria fetal- crânio, ossos longos e abdome), como veremos a seguir. A medida do comprimento cabeça-nádega, realizada antes de 14 semanas, é o método mais preciso para avaliar a idade gestacional com um erro de 5 dias quando medido entre 5,5 e 9 semanas e de 7 dias entre 9 e 14 semanas. A estimativa da IG pelo diâmetro médio do saco gestacional tem um erro de até duas semanas, por isso seu uso para calcular a idade gestacional é recomendado apenas até ser possível visualizar o embrião e medir o CCN, o que se dá por volta de 5,5 -7 semanas. A vesícula vitelínica não é utilizada para estimar a idade gestacional. Após 14 semanas, se a paciente não realizou ultrassonografia no primeiro trimestre, utiliza-se as medidas biométricas para estimar a idade gestacional, pois não é mais possível medir o CCN. A partir do segundo trimestre, a utilização de múltiplos parâmetros biométricos é o método mais fiel para estimar a idade gestacional ultrassonográfica, com erro de 7-21 dias, a depender da IG. A acurácia de todas as medidas biométricas para estimar a IG diminui com a evolução da gestação, por isso, como dito anteriormente, entre 14 a 22 semanas o erro é de 7 a 10 dias, de 22 a 28 semanas o erro é de 14 dias e após 28 semanas o erro passa a ser de 21 dias. As principais medidas biométricas são: diâmetro biparietal, circunferência cefálica, circunferência abdominal e fêmur. Dentre os parâmetros biométricos, o mais fidedigno para indicar a idade gestacional isoladamente até 28 semanas é o diâmetro biparietal, após 28 semanas o comprimento do fêmur passa a ser o parâmetro isolado mais fidedigno para datar a gestação. A circunferência abdominal, em contrapartida, é o parâmetro menos fidedigno para se calcular a idade gestacional, mas é o melhor parâmetro para estimar o peso fetal. Lembre-se de que o CCN é superior aos parâmetros biométricos para estimar idade gestacional. Por isso, uma vez estabelecida a idade gestacional pelo CCN no primeiro trimestre, esta não deve ser alterada pelas medidas biométricas aferidas posteriormente. Os exames posteriores servem para avaliar o crescimento fetal, mas não mais a idade gestacional Quando a diferença entre a DUM e o ultrassom forem maiores que o erro do ultrassom, considera-se a idade gestacional calculada pelo ultrassom. Então, entre 5,5 e 9 semanas, se a diferença da IG entre a DUM e a ultrassonografia for menor do que 5 dias, pode-se considerar a IG calculada pela DUM, mas se a diferença for maior do que 5 dias, considera-se a IG calculada pela ultrassonografia inicial. Entre 9 e 14 semanas de gestação o erro do ultrassom é de até 7 dias. O erro de aferição da idade gestacional no segundo trimestre varia de 7 a 14 dias, sendo em torno de 7 a 10 dias entre 14 e 21 6/7 semanas e 14 dias entre 22 e 27 6/7 semanas. Quando a datação da gestação é realizada por ultrassonografia a partir de 22 semanas, considera-se que a idade gestacional é incerta. A partir de 28 semanas, o erro do cálculo da idade gestacional pelo ultrassom é de 21 dias, por isso, ultrassonografia realizada nessa idade gestacional deve ser utilizada para estimar a idade gestacional somente quando a gestante não sabe a data da última menstruação e não realizou ultrassom no primeiro e no segundo trimestre. Ultrassonografias realizadas: ✓ entre 5,5 e 9 semanas apresentam erro de até 5 dias; ✓ entre 9 e 14 semanas apresentam erro de até 7 dias; ✓ entre 14 e 21 6/7 semanas apresentam erro entre 7 e 10 dias; ✓ entre 22 e 27 6/7 semanas apresentam erro de 14 dias; ✓ a partir de 28 semanas apresentam erro de 21 dias. Devemos, então, comparar as idades gestacionais calculadas a partir da DUM e do USG e decidir qual delas será mais adequada. Diferenças menores de dias do que os citados indicam que a idade gestacional estimada pela DUM é a mais correta. Quando a diferença for maior do que os dias indicados, devemos considerar a IG do USG, isso é chamado de erro de data, ou seja, a DUM não deve ser levada em consideração para a estimativa da IG. PELA ALTURA UTERINA Há correlação entre a altura uterina e a idade gestacional, embora a altura uterina possa ser influenciada por fatores como presença de miomas, número de fetos, tamanho fetal, biotipo materno, quantidade de líquido amniótico, entre outros fatores que fazem com que a estimativa da idade gestacional não seja tão fidedigna a partir da altura uterina quando comparada à realizada a partir da DUM ou do USG. No entanto, esse pode ser um parâmetro importante em situações em que a datação da gestação é importante e em que não se têm outros meios, como, por exemplo, em um atendimento de urgência de uma gestante sem cartão de pré-natal ou quando não se sabe o quanto é possível confiar na DUM, entre diversas outras situações que podem se apresentar. Alguns marcos da avaliação da altura uterina são importantes de serem conhecidos. A figura a seguir auxilia sua memorização: • na 12ª semana, o útero é palpável na sínfise púbica; • na 16ª semana, o fundo uterino é palpável entre a sínfise púbica e a cicatriz umbilical; • na 20ª semana, a altura uterina é palpável na altura da cicatriz umbilical; • a partir da 20ª semana, observa-se relação direta entre a medida da altura uterina e as semanas de gestação, sendo menos fidedigna após a 30ª semana de gestação. Há ainda outra forma de utilizar a altura uterina para estimar a idade gestacional: o uso da regra de McDonald em gestante entre 28 e 34 semanas. Por essa regra, a idade gestacional é estimada multiplicando-se a altura uterina por 8 e dividindo-a por 7. IMPORTANTE: A datação da gestação realizada no primeiro trimestre não se altera. Lembre-se de que, durante o terceiro trimestre, tamanhos fetais incompatíveis com a IG devem levar à investigação de causas para um crescimento fetal acelerado ou retardado.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -2023,7 +2083,7 @@
       },
       "correta": "B",
       "explicacao": "se devem fazer dietas restritivas (com menos de 1.500 kcal/dia) são muito benéficas, pois reduzem bastante a chance de complicações maternas e neonatais. O que o examinador quer saber: sobre diabetes na gestação. O que o examinador quer saber: sobre diabetes na gestação. O diagnóstico de diabetes na gestação é feito conforme o organograma a seguir. Diante de uma gestante com diagnostico de diabetes gestacional, a primeira conduta é instituir dieta e exercício físico. Além disso, a gestante deve fazer o controle diário dos índices glicêmicos ( perfil glicêmico) pela aferição da glicemia capilar diária quatro vezes ao dia. Essas medidas são essenciais para avaliar se a terapêutica com dieta e atividade física está sendo eficaz para o controle glicêmico. Os valores das glicemias considerado normais são: - Jejum < 95mg/dl - 1 hora após as refeições < 140mg/dl - 2 horas após as refeições < 120mg/dl. A insulinoterapia nas gestantes com DMG é indicada quando não se alcança adequado controle glicêmico , isto é, na presença de duas ou mais medidas de glicemia acima da meta, avaliadas após 7 a 14 dias de terapia não farmacológica ou se 30 a 50 % dos valores alterados em 7 dias ou ainda se circunferência abdominal fetal ≥ percentil 75º na ultrassonografia de 3º trimestre ( 29 e 33 semanas de gestação), independente dos valores glicêmicos. Nas gestantes com Diabetes prévio à gestação ( DM1, DM2 ou over diabetes) o tratamento inicia-se com insulinoterapia, dieta, exercício físico e controle glicêmico, que deve ser feito seis vezes ao dia. A dose, o tipo de insulina e o momento da aplicação devem ser escolhidos de acordo com o perfil glicêmico de cada paciente. Sendo que as insulinas basais se prestam a controlar a glicemia do jejum e pré-prandiais, enquanto as insulinas prandiais se destinam a controlar a incursão glicêmica pós-prandial. A dose inicial de insulina deve ser de 0,5 UI/kg/dia, e a necessidade de ajustes deve ser feita a cada 15 dias até a 30ª semana gestacional, e semanalmente após esse marco temporal.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -2049,7 +2109,7 @@
       },
       "correta": "C",
       "explicacao": "Espessamento do endométrio por provável câncer do endométrio. Estrategista, temos aqui neste caso uma paciente com sangramento pós menopausa. A ultrassonografia mostra que o seu endométrio está bastante espessado. A medida da espessura do endométrio não aparece na imagem, mas podemos ver pela própria imagem que é um endométrio bastante espessado para uma mulher menopausada. Temos aqui a indicação de prosseguir com a investigação diagnóstica da paciente fazendo uma biópsia do endométrio para investigar se ela está com hiperplasia ou câncer. Veja o esquema abaixo: Agora vamos analisar as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -2077,7 +2137,7 @@
       },
       "correta": "B",
       "explicacao": "Deve ser tratado com esquema de rifampicina associada a isoniazida pelo período de três meses. QUESTÃO QUE DEVERIA TER SIDO ANULADA POR ERRO DE DIGITAÇÃO NO GABARITO Questões sobre tuberculose latente (investigação e tratamento) são muito prevalentes nas provas, portanto, vamos revisar alguns aspectos principais. A infecção latente pelo M. tuberculosis (ILTB) ocorre quando uma pessoa teve contato com o bacilo, mas não desenvolve sintomas e não transmite a tuberculose. Com essa ideia em mente, já podemos raciocinar que para diagnosticar ILTB, devemos SEMPRE descartar a doença ativa, afinal, se o paciente tiver sintomas, ele tem tuberculose doença. Existe uma extensa lista de indicações de quando é necessário realizar o rastreio de tuberculose latente. Vou deixá-la abaixo, mas não se preocupe em memorizá-la, isso quase nunca é cobrado nas provas: O mais cobrado nas provas é como é feita a investigação dos contactantes (que fazem parte dessa lista) e quando o tratamento deve ser indicado (nos contactantes e imunodeprimidos). Veja que na questão, uma vez sendo contactante de paciente com tuberculose pulmonar, devemos prosseguir com a investigação de ILTB. Para o diagnóstico de ILTB o passo inicial é excluir tuberculose doença, através de uma busca ativa de sintomas e realização de RX de tórax. Caso o paciente não tenha achados sugestivos de tuberculose, o próximo passo é pedir a prova tuberculínica (também chamada de reação de Mantoux ou PPD) ou o IGRA (Interferon-Gamma Release Assays), exames que vão nos indicar se houve ou não contato com o bacilo da tuberculose. O tratamento deve ser feito nos pacientes que têm indicação de investigação de ILTB e que possuem IGRA positivo ou com PPD ≥ 5mm ou 10mm. Existem situações em que a indicação do tratamento não depende desses exames. Analise esta tabela com cuidado e atenção, pois isso é muito cobrado em provas: Outro conceito interessante de se guardar é que naqueles contactuantes com PPD negativo (<5mm), o recomendado é repetir o teste em 8 semanas, e se incremento > 10mm, devemos tratar como ILTB. Para os pacientes descritos acima, com indicação de tratamento, há três opções de esquemas: 1) Rifapentina com isoniazida (esquema 3HP): Esse é o esquema preferencial. Podem usar adultos, crianças acima de 2 anos, idosos, e pessoas vivendo com o HIV. Ele consiste no uso da rifapentina (P) com isoniazida (H) em dose semanal, por 3 meses, totalizando 12 doses (esquema 3HP). Ele tem uma comodidade posológica superior em relação aos esquemas anteriores, e isso facilita a adesão ao tratamento. Seu uso não é indicado em gestantes pela falta de estudos. 2) Isoniazida (esquema 6H ou 9H): A isoniazida, no adulto, é usada na dose de 300 mg/dia e, na criança, de 10 mg/kg/dia. O tempo de tratamento é de 6 meses (180 doses). 3) Rifampicina (esquema 4R) Esse esquema é uma opção para hepatopatas, crianças < 10 anos e pessoas acima de 50 anos. O tempo de tratamento é de 4 meses com um mínimo de 120 doses. Vamos às alternativas:",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -2104,7 +2164,7 @@
       },
       "correta": "D",
       "explicacao": "Repetir citologia cervical/oncótica ao completar 25 anos e reavaliar. Estrategista, esta paciente tem 22 anos de idade e apresenta um resultado de colpocitologia com lesão de baixo grau. A lesão intraepitelial de baixo grau (LSIL/LIEBG) é o segundo diagnóstico citológico mais frequente (precedido apenas por ASCUS). Representa a manifestação citológica da infecção pelo HPV, muito prevalente e com alto potencial de regressão, por isso, uma conduta conservadora deve ser adotada. Recomendações: as mulheres com 25 anos ou mais com diagnóstico citopatológico de LSIL devem repetir o exame citopatológico em seis meses. Processos infecciosos ou atrofia genital identificados devem ser tratados antes da nova coleta. Se a citologia de repetição for negativa em dois exames consecutivos, a paciente deve retornar à rotina de rastreamento citológico trienal. Se uma das citologias subsequentes no período de um ano for positiva, encaminhar para colposcopia. À colposcopia, se presentes achados anormais no colo do útero, deve-se realizar a biópsia. Presente NIC II/III ou câncer, deve-se seguir conduta específica. Caso presente NIC I, a paciente deverá ser mantida em seguimento citológico. Quando presentes achados anormais menores, a biópsia poderá ser dispensada, considerando-se outros fatores como idade menor do que 30 anos, rastreamento prévio negativo e ausência de história de doença cervical pré-invasiva (NIC II/III). As pacientes não submetidas à biópsia devem ser seguidas com citologia em 12 meses até dois exames seguidos negativos, seguindo-se conduta específica a partir dos resultados subsequentes. Considerando-se a alta possibilidade de sobretratamento e efeitos adversos, o método “Ver e Tratar” é inaceitável nas mulheres com citologia de LSIL. Na ausência de achados colposcópicos anormais no colo e na vagina, é recomendado repetir a citologia. A nova citologia deverá ser realizada a cada seis meses em mulheres com mais de 30 anos ou anualmente, nas mulheres até 30 anos. Caso o exame citopatológico seja negativo em dois exames seguidos, a mulher deve retornar à rotina de rastreamento citológico trienal. Mantido o diagnóstico citopatológico de LSIL, a mulher deverá ser mantida em seguimento citológico até que os exames retornem à normalidade. Caso, nesse seguimento, seja obtido um diagnóstico mais relevante (ASC-H, HSIL, AGC ou câncer), a conduta deverá ser definida em função do novo resultado. Segue um resumo das principais recomendações: * Nos achados anormais menores a biópsia pode ser dispensada em caso de mulheres com menos de 30 anos, história de rastreamento prévio negativo para lesão intraepitelial ou câncer e possibilidade de seguimento. 1) As pacientes com colposcopia normal que retornam ao rastreio citológico só devem ser reencaminhadas a colposcopia na persistência de LSIL por 24 meses. 2) Como vimos, nos casos da lesão de baixo grau (NIC 1) no anatomopatológico, devido à sua possibilidade de regressão a conduta é repetição da citologia. Entretanto, a diretriz recomenda que, caso a paciente tenha biópsia de NIC 1 persistente por 24 meses, a manutenção do seguimento ou o tratamento são aceitáveis, sendo recomendada a individualização considerando a idade, paridade e preferências da paciente. Se a opção for pelo tratamento, nos casos de JEC visível e a menos de um centímetro no canal (ZT tipo 1 ou 2), pode-se optar por métodos destrutivos (eletrocauterização, criocauterização ou laserterapia) ou excisão tipo1 ou 2. Quando a decisão for tratar e a ZT for tipo 2 (com JEC além do primeiro centímetro do canal) ou 3, a indicação de um procedimento excisional (excisão tipos 2 ou 3) deve ser criteriosamente avaliada frente ao risco obstétrico. Situações especiais: • Mulheres até 24 anos (como no caso desta questão): de acordo com a diretriz do Ministério da Saúde, as pacientes nessa faixa etária não devem ser submetidas a coleta de citologia, mas caso você se depare com essa situação, lembre-se que nessa faixa etária, apesar da alta prevalência da infecção pelo HPV, a chance de regressão é alta. Recomendação: repetir citologia em 3 anos. Caso a nova citologia seja normal, reiniciar o rastreamento aos 25 anos. Caso se mantenha a atipia citológica, a paciente persiste no rastreio trienal e só deve ser encaminhada a colposcopia aos 25 anos. Caso a paciente tenha diagnóstico histológico de NIC 1, deve repetir a citologia em 3 anos. Métodos excisionais não estão indicados antes dos 25 anos. • Gestantes: a colposcopia da gestante pode mimetizar alterações intraepiteliais. Por isso, qualquer abordagem diagnóstica da gestante com citologia LSIL deve ser feita apenas após 3 meses do parto. • Mulheres na pós menopausa: a atrofia pode simular uma alteração epitelial. Por isso, antes de repetir a citologia, é fundamental realizar estrogenioterapia tópica. • Imunossuprimidas: nessas pacientes, a infecção pelo HPV é mais persistente e existe maior prevalência de lesão intraepitelial e câncer. Recomendação: encaminhar para colposcopia logo no primeiro exame alterado. Agora vamos analisar as alternativas:",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -2129,7 +2189,7 @@
       },
       "correta": "B",
       "explicacao": "O esquema vacinal está incompleto e deve ser administrada mais uma dose. Olá, Estrategista, a vacina contra o HPV disponível pelo PNI é a quadrivalente. Ela protege contra os sorotipos 6, 11, 16 e 18. Ela está indicada em duas doses, para meninos e meninas imunocompetentes de 9 a 14 anos e em três doses para imunossuprimidos de 9 a 45 anos. Observe. Como a paciente do enunciado é portadora do HIV, ela precisa de 3 doses. Portanto, está faltando uma dose a ela e deverá se aplicada de imediato.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -2154,7 +2214,7 @@
       },
       "correta": "A",
       "explicacao": "Prescrever amoxacilina com clavulanato por 7 dias e orientar retorno em 48 horas caso os sintomas persistam. Correta a alternativa \"a\"",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -2177,7 +2237,7 @@
       },
       "correta": "A",
       "explicacao": "Numa gestação de 10 semanas, o resultado de avidez elevada sugere que a toxoplasmose aguda ocorreu antes da gestação O que o examinador quer saber: sobre toxoplasmose na gestação. Como a maioria das gestantes é assintomática, o diagnóstico da toxoplasmose é feito pela sorologia materna, com avaliação dos anticorpos IgG e IgM para toxoplasmose, solicitada no rastreamento de rotina durante o pré-natal. Gestantes susceptíveis (podem adquirir a infecção na gestação) têm resultados negativos para os anticorpos IgG e IgM específicos para toxoplasmose e o acompanhamento deve ser feito com sorologia seriada (1-2 meses) e orientações preventivas, a depender do perfil epidemiológico da região. As principais orientações são: -Higienização correta das mãos antes das refeições, após manusear lixo, ter contato com animais e manipular alimentos e carnes cruas. -Manusear terra ou solo com luvas e higienizar as mãos após o término. -Consumir apenas água filtrada ou fervida. -Higienizar corretamente frutas e verduras (deixar de molho em solução clorada por 10 minutos). -Congelar carnes antes do consumo. -Não consumir carnes cruas, malcozidas ou malpassadas. -Não consumir leite e seus derivados crus. -Evitar contato com animais de rua. -Alimentar gatos com ração e não deixar que façam a ingestão de carne crua ou caça. -Evitar manipulação da caixa de areia dos gatos domésticos e o contato com as fezes dos gatos. Se a gestante apresentar IgG positiva e IgM negativa, elas são consideradas imunes e não precisam repetir a sorologia durante o pré-natal, a não ser que sejam imunocomprometidas. Por outro lado, quando a gestante apresenta IgM positiva e IgG negativa pode ser toxoplasmose aguda ou um caso de falso positivo. Por isso, deve-se introduzir espiramicina e repetir a sorologia em 2 semanas. Se IgM mantiver positiva com IgG também positivar, trata- se de um caso de toxoplasmose aguda com soroconversão na gestação. Se o IgG não positivar, trata-se de IgM falso positivo e deve-se suspender a espiramicina. Se a gestante apresentar IgM e IgG positivas no primeiro trimestre, deve-se introduzir espiramicina e realizar o teste de avidez para IgG, a fim de determinar se a infecção é recente (baixa avidez) ou tardia (alta avidez), uma vez que os títulos de IgM podem permanecer positivos por até 1 ano e o de IgG por vários anos. Sabe-se que a capacidade de ligação e avidez da imunoglobulina aumenta com a maturação da resposta imunológica, por isso avidez baixa sugere infecção recente (menos de 4 meses) e avidez alta sugere infecção há mais de 4 m A toxoplasmose materna aguda pode levar à transmissão vertical, causando toxoplasmose congênita. Por isso, o tratamento da toxoplasmose deve ser instituído se há suspeita ou confirmação de infecção aguda na gestação. O tratamento precoce em até 3 semanas da infecção materna diminui os riscos de infecção fetal. Portanto, a principal conduta frente a um caso de suspeita de infecção aguda é a profilaxia para toxoplasmose congênita, com a administração materna de espiramicina na dose de 3g/dia via oral. Isso é aplicado para todas as gestantes que apresentam sorologia IgM + e IgG – ou sorologia IgM + e IgG +. A espiramicina não ultrapassa a barreira placentária, mas tem como objetivo reduzir o risco de passagem transplacentária do parasita, impedindo a infecção fetal. Nos casos confirmados ou prováveis de infecção aguda, isto é, se houver soroconversão, avidez para IgG baixa ou intermediaria ou ascensão dos valores de IgG em amostra seriada, deve-se fazer a pesquisa de infecção fetal a partir de 18 semanas. Nos casos em que há dúvida se a infecção é recente ou antiga, como quando a primeira sorologia com IgG e IgM positiva é realizada após 16 semanas e o teste de avidez já não é mais fidedigno, deve-se considerar a gestante como infecção aguda e fazer a investigar infecção fetal. Atualmente, orienta-se utilizar espiramicina até 16 semanas e a partir de 16 semanas trocar para o esquema tríplice até realizar a pesquisa de infecção fetal. A pesquisa de infecção fetal é realizada por meio da amniocentese, com coleta de líquido amniótico e pesquisa do DNA do Toxoplasma gondii por PCR. Caso a pesquisa venha positiva, estamos diante de um feto com toxoplasmose congênita (infecção fetal). Se a pesquisa de infecção fetal vier negativa, trocar por espiramicina e até o parto. Se a infecção fetal for confirmada, manter tratamento com sulfadiazina, pirimetamina e ácido folínico até o fim da gestação. Lembre-se de não iniciar o esquema tríplice no primeiro trimestre, pelo risco de teratogenicidade dessas medicações.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -2203,7 +2263,7 @@
       },
       "correta": "A",
       "explicacao": "Choque séptico. GABARITO: ALTERNATIVA A A análise da questão segue os critérios diagnósticos estabelecidos pelo estudo Sepsis-3 (2016), ainda vigente, que define sepse e choque séptico com base em critérios clínicos e laboratoriais. A sepse é definida como disfunção orgânica ameaçadora à vida, causada por uma resposta desregulada do organismo a uma infecção. Disfunção orgânica é identificada pelo aumento de dois ou mais pontos no escore SOFA. O choque séptico, por sua vez, é caracterizado pela necessidade de vasopressores para manter uma pressão arterial média (PAM) ≥ 65 mmHg e lactato arterial > 2 mmol/L (18 mg/dL), mesmo após reposição volêmica adequada. No caso descrito, o paciente apresenta sinais claros de choque séptico, com infecção evidente (secreção purulenta e fétida da ferida operatória), disfunção orgânica (aumento de 5 pontos no SOFA), necessidade de vasopressores e lactato elevado (7 mmol/L).",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -2226,7 +2286,7 @@
       },
       "correta": "D",
       "explicacao": "Iniciar oxigenioterapia e lavagem nasal com soro fisiológico. Olá Coruja. Nesse enunciado temos um lactente que apresentou uma IVAS e agora está sibilando, com hipoxemia, crepitações difusas. Sua radiografia revela sinais de hiperinsuflação, esses dados são muito sugestivos da bronquiolite viral aguda (BVA) A bronquiolite é classicamente uma doença que afeta lactentes e sua sintomatologia é mais exuberante quanto mais jovem for a criança. Os sintomas iniciais da bronquiolite são semelhantes a um resfriado comum, ou seja, os lactentes apresentam febre baixa nos primeiros 2 dias, associada à coriza hialina, à obstrução nasal, espirros, tosse seca e a algum grau de irritabilidade. Por volta do 3o ao 6o dia, esses pacientes evoluem com piora respiratória que se deve ao acometimento das vias aéreas inferiores. Nesse momento, encontramos sibilos na ausculta pulmonar devido principalmente à inflamação e menos à broncoconstrição, as quais impedem a passagem normal de ar, causando o turbilhonamento de ar. A duração média da BVA é de 10 a 12 dias; contudo, a tosse pode persistir por cerca de 1 mês. O diagnóstico da BVA baseia-se em dados clínicos, sendo desnecessária a realização de exames laboratoriais ou radiológicos. Crianças que estão estáveis, sem sinais de desconforto respiratório e sem hipoxemia, podem receber tratamento ambulatorial. São recomendados: • Inalações com soro fisiológico para fluidificação de secreções; • Lavagem nasal com soro fisiológico em casos de obstrução nasal; e • Antitérmicos para a febre. Lactentes com desconforto respiratório, que se manifesta com hipóxia, diminuição da aceitação alimentar, apneia e taquipneia intensa, necessitam de hospitalização. São critérios utilizados para recomendar a para internação hospitalar: -Idade menor do que 4 a 6 semanas -Baixa aceitação da alimentação -Desidratação -Letargia -História de apneia -Taquipneia moderada a grave -Desconforto respiratório moderado a grave -Saturação de oxigênio < 92% -Presença de comorbidades: cardiopatia, hipertensão pulmonar, doença neuromuscular, pneumopatia, O tratamento da BVA em crianças internadas baseia-se em três pilares: hidratação, nebulização com solução salina e oferta de oxigênio se a saturação de oxigênio for menor ou igual a 92%, preferencialmente por métodos não invasivos.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -4365,7 +4425,7 @@
       },
       "correta": "C",
       "explicacao": "racecadotrila Discordamos do gabarito oficial dessa questão e entramos com recurso, solicitando mudança do gabarito. Até o momento da elaboração desses comentários, ainda não saiu o gabarito oficial após a análise dos recursos. Veja, Arthur, um homem de 42 anos, apresenta um quadro de diarreia aguda (menos de 24 horas de evolução), caracterizado por cólica abdominal e diarreia aquosa sem sinais de alarme como febre ou sangue nas fezes. Na diarreia aguda, o manejo inicial visa aliviar os sintomas e prevenir a desidratação. A escolha do medicamento depende da gravidade dos sintomas, da presença de sinais de alarme e da expectativa do paciente. Em casos leves a moderados sem sinais de alarme, como o de Arthur, o tratamento sintomático é frequentemente suficiente. A necessidade desse paciente por um medicamento de ação rápida para controlar a diarreia e permitir sua viagem é um fator crucial na escolha terapêutica. Tendo esses comentários em mente, vamos avaliar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -4389,7 +4449,7 @@
       },
       "correta": "C",
       "explicacao": "prática regular de atividade física e manutenção de um peso corporal saudável Estrategista, existem duas maneiras de prevenir o câncer de mama. Chamamos de prevenção primária e prevenção secundária. Com a prevenção primária tentamos evitar que a pessoa desenvolva o câncer, evitando a sua exposição aos fatores de risco. No caso do câncer de mama consideramos como prevenção primária: a prática de exercícios físicos, a perda de peso, dieta equilibrada, evitar o consumo de bebida alcoólica e o tabagismo. Outra opção de prevenção primária é a quimioprevenção, com a administração de tamoxifeno ou inibidores da aromatase para as mulheres com alto risco de desenvolver o câncer de mama. A tabela abaixo mostra os fatores de risco do câncer de mama. Fazer prevenção primária é afastar esses fatores de risco da paciente (sempre que possível). A prevenção secundária é feita através do rastreamento. O objetivo do rastreamento é diagnosticar a doença ainda no início, quando a paciente ainda é assintomática (sem lesão palpável), aumentando assim a sua chance de cura. A questão diz respeito a prevenção primária. Então vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -4415,7 +4475,7 @@
       },
       "correta": "C",
       "explicacao": "34 anos de idade, com mioma uterino, hemoglobina 8,1 mg/dl e cianose discreta em lábios e extremidades Estrategista, questão bastante interessante sobre pneumonia adquirida na comunidade, para identificação de critérios de gravidade nos casos apresentados. Existem alguns escores que nos auxiliam na classificação dos pacientes com PAC e sua estratificação com gravidade, como por exemplo o CURB-65 e o PSI-PORT, no entanto, estes podem, em certas situações, ser imprecisos e não nos auxiliar no manejo dos casos. O intuito da questão foi mostrar que, além dos escores (e apesar deles), o julgamento clínico (considerando as peculiaridades de cada caso, as comorbidades prévias, o suporte social dos pacientes) é MUITO valioso na avaliação dos pacientes com PAC. Como veremos nas alternativas, todos os pacientes apresentarão uma baixa pontuação nos escores e uma das características clínicas que vai nos auxiliar na resposta das questões, será a interpretação da cianose, correlacionando-a com o grau de hipoxemia. A cianose é uma manifestação clínica tardia de baixa saturação de O2 no sangue arterial (SaO2) definida como uma coloração azulada da pele e das membranas mucosas. A cianose ocorre quando há um aumento na quantidade de hemoglobina não ligada ao oxigênio (desoxihemoglobina). A cianose fica clinicamente evidente quando o nível de desoxihemoglobina excede 5 g/dL de sangue arterial, portanto, com hipoxemia profunda. Diversos fatores podem interferir no momento da avaliação do paciente hipoxêmico; um destes fatores são os estados anêmicos. Os pacientes com anemia podem ter hipoxemia considerável sem cianose. Por exemplo, se um paciente tem uma concentração de hemoglobina total de 12 g/dL, a cianose estará presente com 5 g/dL de desoxihemoglobina (12-5=7 g/dL de hemoglobina oxigenada). Isto corresponde a uma saturação fracional (SaO2) de 7/12, ou aproximadamente 58%, e a uma PaO2 de cerca de 32 mmHg (hipoxemia profunda). A situação é até pior na anemia grave. Suponha que um paciente anêmico apresente uma concentração de hemoglobina total de 7 g/dL. A cianose acontecerá com5g/dL de desoxihemoglobina, portanto com 2 g/dL de hemoglobina oxigenada, que corresponde a uma SaO2 de aproximadamente 29%, e a uma PaO2 de 18mmHg um caso muito mais grave de hipoxemia. Ou seja, é mais difícil um paciente anêmico apresentar-se com cianose, e essa quando presente, indica um estado de hipoxemia mais grave.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -4442,7 +4502,7 @@
       },
       "correta": "C",
       "explicacao": "PA divergente, pulso em martelo d’água e sopro audível logo após a segunda bulha Gabarito: ALTERNATIVA C. Comentário: A respeito da insuficiência aórtica (IAo), é fundamental que você entenda um conceito: quando nosso coração faz a sístole, registramos a propagação da pressão arterial sistólica. Quando a valva aórtica se fecha, por conseguinte, temos a pressão arterial diastólica. Agora, imagine comigo... se a valva aórtica não se fecha totalmente, parte da pressão arterial diastólica na aorta será aliviada pelo retorno de sangue para o ventrículo esquerdo. Em contrapartida, no momento da sístole, mais sangue será ejetado, elevando-se, assim, a pressão arterial sistólica. Dessa forma, nessa condição, teremos uma pressão arterial divergente, também chamada de pressão de pulso aumentada, ou seja, grande diferença entre a pressão sistólica e a diastólica. Devido a essa pressão de pulso aumentada, o exame físico dessa valvopatia pode ser muito chamativo, já que diversos sinais surgem. Nessa situação, o primeiro ponto a que devemos nos atentar é o pulso. A sístole faz uma grande onda, que se reduz profundamente depois. Sendo assim, encontraremos um pulso em martelo d´água, também conhecido como pulso de Corrigan ou pulso magno e célere (amplo e rápido). O sopro da insuficiência aórtica é protodiastólico (após a 2ª bulha), aspirativo e decrescente, mais audível no foco aórtico acessório (3º espaço intercostal esquerdo), com irradiação cervical e que aumenta com o paciente sentado e inclinado para frente.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -4469,7 +4529,7 @@
       },
       "correta": "A",
       "explicacao": "cardioversão elétrica sincronizada Gabarito: ALTERNATIVA A. Comentário: Questão polêmica e que mereceu recurso pois a banca não descreveu de forma adequada a dor torácica da paciente. Vamos relembrar a conduta diante de uma taquiarritmia no pronto- socorro: Toda vez que você estiver diante de uma taquiarritmia, a primeira pergunta que devemos responder é: o paciente está instável? Caso afirmativo, a conduta sempre será choque, seja cardioversão ou desfibrilação. São critérios de instabilidade (lembrar dos 4Ds): Diminuição do nível de consciência ou desmaio, Diminuição da pressão, Dor torácica anginosa ou Dispneia do tipo edema agudo de pulmão. A paciente da questão apresenta ritmo regular com QRS estreito e sem onda P visível, sugerindo o diagnóstico de taquicardia supraventricular (TPSV). No entanto, como já comentado, a dor torácica não foi bem descrita. Não sabemos se ela é anginosa ou não, já que a TPSV pode provocar desconforto torácico devido à elevação da frequência cardíaca. A banca considerou a como anginosa, e por isso o gabarito foi a alternativa A.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -4495,7 +4555,7 @@
       },
       "correta": "B",
       "explicacao": "Requer investigação adicional com coleta de líquido cefalorraquidiano. Olá Estrategista, Vamos resumir os principais dados do enunciado: -criança de 2 anos -febre , vômitos, prostração, sonolência -crise convulsiva tônico-clônica generalizada recorrente em vigência de febre -sem acesso venoso A princípio pode parecer um quadro de crise febril simples, mas vamos prestar atenção nos seguintes dados: A criança apresenta um quadro infeccioso grave, com comprometimento hemodinâmico, hipotensão (veja abaixo), rebaixamento do nível de consciência. Assim, precisamos descartar uma infecção do sistema nervoso central, que é muito provável para essa criança. Observe a seguir, como chegamos ao diagnóstico de hipotensão: De acordo com a AHA, os valores mínimos de PA sistólica em crianças variam com a idade, veja: Calculando: 70+ (2x2)=74mmHg, concluímos que ela está hipotensa. Crianças com choque, apresentam hipotensão tardiamente, assim, o quadro apresentado pelo paciente é grave, pois já evoluiu para hipotensão arterial. Portanto, considerando o quadro neurológico e a forte suspeita de infecção do sistema nervoso central, a coleta de líquido cefalorraquidiano é primordial.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2024,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
@@ -4521,7 +4581,7 @@
       },
       "correta": "C",
       "explicacao": "Expandir com ringer lactato 20 ml/kg e prescrever antimicrobianos. Olá Estrategista, Vamos resumir os principais dados do enunciado: -criança de 2 anos -febre , vômitos, prostração, sonolência -crise convulsiva tônico-clônica generalizada recorrente em vigência de febre -sem acesso venoso A criança recebeu medicação para resgate da crise e após o controle, passou a apresentar taquicardia, hipotensão, sem comprometimento respiratório, tempo de enchimento capilar 5 segundos, pulsos finos, rebaixamento do nível de consciência (sem hipoglicemia). esses dados falam a favor de uma infecção do sistema nervoso central e a criança apresenta sinais claros de sepse (taquicardia, pulsos finos, TEC aumentado, comprometimento neurológico). O fato de não se observar comprometimento respiratório, torna pouco provável que as manifestações clínicas sejam decorrentes de um efeito adverso ao medicamento usado para o controle da crise convulsiva. Observe a seguir, como chegamos ao diagnóstico de hipotensão: De acordo com a AHA, os valores mínimos de PA sistólica em crianças variam com a idade, veja: Assim, uma criança de 2 anos deve ter: 70 +(2x2)=74mmHg, assim, está hipotensa. Sabemos que crianças com choque, apresentam hipotensão tardiamente, assim, o quadro apresentado pelo paciente é grave, pois já evoluiu para hipotensão arterial. O examinador solicitou a conduta correta neste momento. Frente a uma criança com quadro de sepse, devemos tomar as seguintes condutas iniciais: O tratamento inicial de todos os tipos de choque objetiva aumentar a oferta de oxigênio para os tecidos e restaurar o equilíbrio entre a perfusão tecidual e a demanda metabólica. Assim, as primeiras medidas devem ser: 1. Aumento do teor de oxigênio no sangue: O teor de oxigênio no sangue depende, principalmente, da concentração de hemoglobina e da saturação de oxigênio. O teor de O₂ pode ser otimizado da seguinte forma: • Oferta de O₂ por máscara, ventilação invasiva ou não invasiva; • Transfusão de hemácias, caso a concentração de hemoglobina esteja abaixo do normal. 2. Melhora do volume e de sua distribuição: A administração de fluidos na fase inicial do choque é uma forma de melhorar a distribuição do volume circulante. As drogas vasoativas também podem ser consideradas, em caso de choque refratário ao volume. 3. Redução da demanda de oxigênio: Para reduzir a demanda de O₂, é necessário diminuir o esforço respiratório, intervir na dor e ansiedade e controlar a febre. As medidas utilizadas são: • Suporte à respiração (individualizado a cada caso); • Uso criterioso de analgésicos e sedativos e • Controle da febre. 4. Correção de distúrbios metabólicos: O choque pode estar associado a vários distúrbios metabólicos que podem interferir negativamente na contratilidade cardíaca. Os principais distúrbios são: • Hipoglicemia; • Hipocalcemia; • Hipercalemia e • Acidose metabólica. Além dessas medidas gerais, crianças com diagnóstico de choque séptico e evidências clínicas de perfusão anormal devem ser submetidas a seis passos dentro de um intervalo de 1 hora: • Obtenção de acesso venoso ou intraósseo; • Coleta de hemocultura antes do início do antibiótico e outras culturas de acordo com o quadro clínico; • Terapia antimicrobiana de amplo espectro; • Medida do lactato sérico e exames para pesquisa de disfunção orgânica; • Administração de bolus de solução salina 10-20ml/kg se o choque estiver presente e que, dependendo da reavaliação clínica, pode ser repetido e • Iniciar drogas vasoativas se o choque persistir mesmo após 40-60ml/kg (ou antes, caso o paciente apresente sinais de disfunção miocárdica). Agora, precisamos focar no tipo de ressuscitação volêmica que pode ser recomendada. De acordo com a OMS, a ressuscitação volêmica (administração de solução cristaloide em bolus) em crianças com choque séptico deve ser diferenciada, de acordo com a disponibilidade de acesso a um setor de terapia intensiva pediátrica, da seguinte forma: 1. Pacientes com acesso a leito de UTI e sem sinais de congestão circulatória: É indicada infusão de 10-20 ml/kg de solução cristaloide (ringer lactato preferencialmente ou soro fisiológico) em 5-10 minutos. O cálculo deve ser baseado no peso ideal (Percentil 50 para a idade). Em caso de sinais de congestão circulatória ou piora do desconforto respiratório, ritmo de galope, cardiomegalia, hepatomegalia ou edema pulmonar, a infusão de soro deve ser suspensa ou diminuída. A cada infusão de solução cristaloide, a criança deve ser reavaliada quanto aos sinais de perfusão e de excesso de líquido e, a partir dessa avaliação, será tomada a decisão de repetir o bolus ou interrompê-lo. Os sinais de excesso de líquido são: estertores, piora do desconforto respiratório, maior necessidade de oxigênio, ritmo de galope, hepatomegalia, cardiomegalia e edema pulmonar na radiografia de tórax. Assim, dentro dessa primeira hora, o médico deve avaliar se houve resposta à infusão de fluidos. Pacientes que não apresentaram melhora após 40-60ml/kg apresentam choque refratário e necessitam de drogas vasoativas. 2. Pacientes com recursos limitados de UTI, via aérea avançada ou suporte circulatório: COM HIPOTENSÃO - Se sinais de congestão ausentes, administrar 10 a 20mg/kg de cristaloide em bolus, - Reavaliação hemodinâmica, após administração de fluido e repetir o bolus até recuperação da hipotensão ou se surgirem sinais de congestão, - Avaliar a função cardíaca (se disponível) - Considerar epinefrina caso a hipotensão persista após 40ml/kg de fluidos ou antes, se sinais de congestão SEM HIPOTENSÃO - NÃO administrar fluidos, a menos que existam sinais de desidratação ou perdas contínuas (ex.: diarreia), - Iniciar soro de manutenção - Monitoração hemodinâmica constante, - Considerar suporte com droga vasoativa, se estiver disponível Vamos analisar as alternativas:",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2024,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
@@ -4547,7 +4607,7 @@
       },
       "correta": "C",
       "explicacao": "Deve ser prescrito em dose baixa. Fala, Coruja! A questão da USP fala sobre exacerbação, mas a resposta é baseada no tratamento de manutenção de asma em menores de 6 anos. Mas antes de discutir isso, vamos dar uma revisada sobre como podemos dizer que uma criança pequena tem asma. O GINA 2025 trouxe mudanças importantes no diagnóstico de asma em crianças < 6 anos. Existem boas diferenças em comparação aos ≥ 6 anos (cujo diagnóstico é fechado preferencialmente pela associação de clínica típica + evidência de variação do fluxo expiratório em espirometria ou PFE), já que os menores não conseguem fazer provas de função pulmonar. Logo de cara, o GINA 2025 afasta a aplicação prática de classificações fenotípicas dos sibilantes < 6 anos. Não se recomenda mais a utilização de termos como: sibilante recorrente, sibilante persistente e/ou sibilante transitório. Ainda bem, né? Esses termos eram confusos e acabavam atrasando a identificação e manejo de asma nos pequenos. Atualmente, podemos fazer o diagnóstico clínico de asma com base em 3 critérios (todos devem estar presentes): Para entender melhor, vamos definir alguns conceitos: Sintomas típicos de asma: sibilância expiratória, tosse seca, uso de musculatura acessória e/ou dispneia com variação de frequência e intensidade ao longo do tempo; Episódio de sibilância aguda: sintomas típicos de asma durando mais de 24 horas; Episódios recorrentes de sibilância aguda: ao menos 2 episódios de sibilância aguda nos últimos 12 meses, com a presença dos sibilos expiratórios confirmados (por um profissional da saúde) em ao menos um deles. Se a criança preenche apenas 1 ou 2 critérios, chamamos de “asma suspeita” e mantemos o seguimento. Sobre os diagnósticos diferenciais, procure sempre no seu enunciado palavras-chave que apontem para outra direção diferente de asma: Algumas considerações que são importantes: 1. Quanto mais cedo os sintomas iniciam (especialmente < 12 meses), menor a chance de ser asma. 2. A história familiar ou pessoal de atopias podem dar mais suporte para o diagnóstico de asma, mas não são critérios mandatórios ou específicos. 3. A presença de sintomas sugestivos de infecção de vias aéreas superiores (coriza, tosse, odinofagia) em concomitância com a sibilância não afasta o diagnóstico de asma. Como eu mencionei, as IVAS são um gatilho importante para sintomas de asma. Uma das dificuldades que você pôde notar é que não podemos falar de diagnóstico de asma em < 6 anos sem falar de tratamento! Afinal, o critério 3 é avaliação da resposta ao tratamento empírico. São duas classes de medicações que podemos utilizar como teste terapêutico: short acting beta-agonist (SABA, broncodilatadores de ação rápida) e corticoides inalatórios (CI). Lembrando que os broncodilatadores são a base do tratamento da exacerbação, e os CI são a base do tratamento de manutenção da asma. Existem situações em que vou sugerir para os pais um teste terapêutico com SABA, e outras situações em que vou propor um teste terapêutico com CI por alguns meses: Veja que nosso paciente tem sibilância aguda com necessidade de internação. Ou seja, é um candidato a um teste terapêutico com CI + SABA por 2 a 3 meses. Espera-se uma redução na frequência e intensidade dos sintomas asma-like quando utilizamos o CI. Se a resposta ao tratamento for convincente, e o paciente preencher os outros dois critérios, podemos fechar o diagnóstico de asma! Se a resposta não for boa, devemos rever a técnica de administração das medicações e diagnósticos diferenciais. No caso de a criança estar fazendo o SABA se necessário por 2 a 3 meses, podemos adicionar o CI e reavaliar. Uma vez fechado o diagnóstico, vamos falar de tratamento: Praticamente todas as crianças < 6 anos com asma vão iniciar no STEP 2, ok? Voltando para a questão... Criança < 6 anos; Episódios de sibilância aguda e história de dermatite atópica (evidenciada pelo exame físico); Não há descrição de diagnósticos diferenciais mais prováveis. Temos os Critérios 1 e 2 preenchidos. Isso é, no mínimo, uma asma suspeita. Para confirmar o diagnóstico, vamos avaliar o Critério 3: resposta terapêutica a CI e/ou SABA. Como a criança já foi hospitalizada por sibilância, o teste indicado é CI em dose baixa diária + SABA se necessário por 2 a 3 meses. Vamos dar uma olhada nas alternativas...",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2024,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
@@ -4575,7 +4635,7 @@
       },
       "correta": "B",
       "explicacao": "Beta-2 agonista e brometo de ipatrópio inalatórios. Fala, Coruja! Questão sobre asma em < 6 anos da USP. Vamos dar uma olhada? Primeiro passo é ver a idade do paciente. Lembre-se que o manejo de asma, tanto manutenção quanto exacerbação, mudam para menores de 6 anos, ok? Nessa questão, vou me ater às recomendações para pacientes < 6 anos. Vou trazer o que está de acordo com as versões do GINA a partir de 2025, ok? Vamos começar com o fluxograma: Note o seguinte: o primeiro passo é avaliar a gravidade. Na presença de um critério de gravidade, você deve manejar o paciente como exacerbação grave: Os parâmetros favoritos da maioria dos examinadores são: incapacidade de falar frases, uso de musculatura acessória e hipoxemia! Busque sinais de gravidade de forma direcionada. Definida a gravidade da exacerbação, vamos para o tratamento preconizado: O suporte de oxigênio que costuma ser mais adequado para o manejo inicial emergências pediátricas é a máscara não-reinalante, que oferece uma FiO2 de praticamente 100%. Mas você também encontrará questões falando de máscara de Venturi. Alguns examinadores vão mais fundo e cobram as doses: Lembre-se de que o corticoide via oral tem a mesma eficácia do endovenoso. Sempre que possível, daremos preferência para a administração via oral. Instituído o tratamento, o paciente tem dois caminhos: melhorar ou não melhorar. Se a criança melhorar: Além disso, se a criança < 6 anos não tem o diagnóstico de asma e aparece no PS com uma crise aguda de sibilância, ela vai ganhar um teste terapêutico com CI por 2 a 3 meses, ok? Isso pode nos ajudar a fechar o diagnóstico de asma com base nos três critérios clínicos! Caso não melhore, devemos interná-la. Se a crise for grave, solicite vaga de UTI! Voltando para a questão... Esse enunciado apresenta uma criança de 3 anos em crise de exacerbação de asma. De antecedentes, observamos histórico de três crises semelhantes nos últimos 06 meses, com necessidade de internação. Além disso, o exame físico revelou lesões eritemato-crostosas em superfícies flexoras de pernas e braços, sinal muito sugestivo de dermatite atópica. Diante desses dados, devemos considerar o diagnóstico de asma suspeita e tratar a crise de exacerbação que ela apresenta. Sobre a gravidade da crise, temos: Uso de musculatura acessória; SpO2 no limite mesmo com máscara não-reinalante; FR > 40 irpm. A crise é grave! De forma bem simples, o ideal seria: SABA 6 puffs 20 em 20 minutos; corticoide sistêmico; O2 suplementar para manter SpO2 maior ou igual a 94%; brometo de ipratrópio; considerar MgSO4. Vamos dar uma olhada nas alternativas...",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2024,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
@@ -4607,7 +4667,7 @@
       },
       "correta": "A",
       "explicacao": "repetir a mamografia em seis meses. Estrategista, esta é uma questão sobre a classificação BI-RADS. A mamografia desta paciente apresentou uma densidade assimétrica na mama esquerda, com diagnóstico radiológico de BI‑RADS 3. Veja abaixo o que significa um achado BI-RADS 3: A densidade assimétrica BI-RADS 3 é um achado provavelmente benigno, com uma chance muito pequena de ser câncer. Sendo assim, a conduta nestes casos é repetir o exame de imagem em 6 meses. Esta paciente também fez uma ultrassonografia que não apresentou alterações. Ou seja, a densidade assimétrica muito provavelmente é somente uma área de maior densidade glandular. Agora vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -4633,7 +4693,7 @@
       },
       "correta": "E",
       "explicacao": "o mioma está localizado integralmente na cavidade uterina. Estrategista, esta é uma questão sobre a classificação dos miomas uterinos e seu tratamento. Veja o esquema abaixo: Esta paciente tem um mioma FIGO 0, ou seja, um mioma intracavitário pediculado. A tabela abaixo mostra a via de ressecção para cada tipo de mioma: Agora vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -4661,7 +4721,7 @@
       },
       "correta": "B",
       "explicacao": "Somente se o problema de saúde do adolescente não representa um risco grave à sua saúde ou à saúde de terceiros. GABARITO: ALTERNATIVA B. Referência bibliográfica: 1. Código de Ética Médica 2018/2019. Disponível em: https://portal.cfm.org.br/images/PDF/cem2019.pdf. 2. Sociedade Brasileira de Pediatria. Consulta do adolescente: abordagem clínica, orientações éticas e legais como instrumentos ao pediatra. Manual de Orientação. Departamento científico de Adolescência. Nº 10, Janeiro de 2019. Disponível em https://www.sbp.com.br/fileadmin/user_upload/21512c-MO_-_ConsultaAdolescente_- _abordClinica_orientEticas.pdf. Estrategista, As questões que abordam o sigilo médico de pacientes adolescentes são muito comuns nas provas de Residência Médica, por isso, vamos revisar o tema. Segundo o Código de Ética Médica, que é a referência citada no enunciado da questão, é vedado ao médico revelar o sigilo profissional de crianças e adolescentes, desde que eles tenham capacidade de discernimento e desde que a não revelação não cause dano: \"É vedado ao médico: Art. 74. Revelar sigilo profissional relacionado a paciente criança ou adolescente, desde que estes tenham capacidade de discernimento, inclusive a seus pais ou representantes legais, salvo quando a não revelação possa acarretar dano ao paciente\". Embora o código fale em não acarretar dano ao próprio paciente, se a não revelação acarretar danos a terceiros, o sigilo também poderá ser quebrado. Observe que a única alternativa plausível dentre as que foram propostas é a alternativa B, uma vez que é esta a assertiva que traz o motivo verdadeiro de se respeitar a confidencialidade do paciente. No entanto, embora a questão não tenha citado as diretrizes da Sociedade Brasileira de Pediatria (SBP) quanto à quebra de sigilo médico, vamos revisar rapidamente este trecho porque ele também aparece nas provas. Segundo a SPB, estas são as situações em que o sigilo médico deve ser preservado ou pode ser quebrado. Lembrando que, em qualquer situação (seja pelo Código de Ética Médica ou pela SBP), sempre que houver a necessidade de quebrar o sigilo, o médico deve comunicar o fato ao adolescente, não sendo ético quebrar sem que ele saiba que isso acontecerá. Já sabemos que o gabarito é a alternativa B, mas vamos analisar as alternativas para entendermos onde está o erro das demais:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -4687,7 +4747,7 @@
       },
       "correta": "C",
       "explicacao": "realizar reuniões periódicas com a equipe das unidades para identificar pontos de melhoria e implementar propostas. GABARITO: ALTERNATIVA C. Estrategista, Estamos diante de mais uma questão do SUS SP 2025 considerada de baixo nível de dificuldade e com a suspeita de ter sido elaborada sem revisão por inteligência artificial. Um gestor de uma cidade de médio porte decidiu melhorar a qualidade dos atendimentos nas unidades de saúde, priorizando a redução de filas e a otimização do tempo de espera dos pacientes. Porém, observe o comando: \"ele resolveu implementar uma ação que envolvesse a participação dos próprios profissionais de saúde para identificar e propor melhorias\". Ora, se o gestor decidiu envolver os profissionais, então precisamos procurar pela alternativa onde os profissionais participam ativamente do processo. Portanto:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -4710,7 +4770,7 @@
       },
       "correta": "B",
       "explicacao": "Insulina NPH. O que o examinador quer saber: sobre diabetes na gestação. O diagnóstico de diabetes na gestação é feito conforme o organograma a seguir. Diante de uma gestante com diagnostico de diabetes gestacional, a primeira conduta é instituir dieta e exercício físico. Além disso, a gestante deve fazer o controle diário dos índices glicêmicos pela aferição da glicemia capilar diária. Essas medidas são essenciais para avaliar se a terapêutica com dieta e atividade física está sendo eficaz para o controle glicêmico. Para gestantes em tratamento com dieta e exercício físico, deve-se fazer o perfil glicêmico de 4 x ao dia ( jejum e pós- prandial ( pós café,almoço e jantar). Caso a paciente necessite de insulinoterapia, deve-se incluir também as medidas pré-prandiais ( pré almoço e pré jantar) e, quando necessário, na madrugada. Os valores das glicemias considerado normais são: - Jejum < 95mg/dl - 1 hora após as refeições < 140mg/dl - 2 horas após as refeições < 120mg/dl. A insulinoterapia está indicada quando após 1-2 semanas de dieta e exercício físico, mais de 30% das medidas glicêmcas estiverem acima do normal ou se a circunferência abdominal fetal estiver acima do percentil 75 para a idade gestacional e incompatível com as demais medidas fetais, com mais de 20% das medidas acima do alvo glicêmico. Nas pacientes com diabetes mellitus gestacional, inicia-se a insulinoterapia com a insulina NPH (ação intermediária) fracionada em 3 doses diárias, com maior dose no período da manhã. A dose inicial diária total é de 0,5 UI/kg de peso atual da gestante e deve ser fracionada da seguinte maneira: – Antes do desjejum: metade da dose total. – Antes do almoço: 1⁄4 da dose total. – Às 22 horas: um quarto da dose total. Poderá haver necessidade de ajustes na dose de insulina NPH e também de introdução de insulina de ação rápida antes das refeições, caso a paciente apresente valores de glicemia pré-prandiais adequados e pós-prandiais elevados. A prescrição de metformina é restrita às situações a seguir: • Como alternativa à insulina: o Falta de adesão à insulinoterapia o Não acessibilidade à insulina o Dificuldade de autoadministração da insulina o Estresse em nível exacerbado decorrente do uso de insulina o Restrição alimentar excessiva da gestante para evitar o uso da insulina • Associada à insulina o Doses elevadas de insulina ( >2 U/kg/dia) sem controle glicêmico adequado o Ganho de peso materno excessivo o Ganho de peso fetal excessivo",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -4737,7 +4797,7 @@
       },
       "correta": "D",
       "explicacao": "Iniciar inotrópico em bomba de infusão contínua. Fala, Coruja! Linda questão da USP-SP sobre choque em pediatria! Ela é a continuação da questão 4000231934. Nessa primeira questão, nós fechamos o diagnóstico de herpangina e orientamos analgesia e sinais de alarme. Mas parece que a criança apresentou os sinais de alarme e precisou voltar, não é? Vamos recapitular... Nessa questão temos um lactente de 10 meses com febre, inapetência e ao exame observamos lesões aftosas em palato mole compatíveis com herpangina. Sobre a otoscopia, na imagem à esquerda poderíamos descrever uma opacificação discreta da membrana timpânica, já que não visualizamos os ossículos e o reflexo tão bem quando na imagem à direita, porém, não há abaulamentos, nível líquido ou sinais flogísticos, como hiperemia, portanto, não podemos afirmar que há otite média aguda. Opacificações podem ocorrer em qualquer cenário de infecções das vias aéreas superiores em que a criança fica mais secretiva, pois são justamente reflexo dessa secreção em contato com a tuba auditiva, mas não indicam infecção na orelha média, ok? Por isso, orientamos apenas sintomáticos e demos alta. Só para lembrar, a herpangina é causada por três tipos de vírus, sendo o mais comum na prática clínica o vírus Coxsackie. Contudo, essa infecção também pode ser desencadeada pelo ECHOvirus e pelos enterovírus A71, A68 e A72. Classicamente, pode apresentar-se em associação à doença da mão-pé-boca. Essa apresentação é causada pelos mesmos vírus, mas de cepas diferentes das que causam a faringite de forma isolada. Nos bebês, a dor na orofaringe pode manifestar-se como choro, irritabilidade e/ou “babação”. A febre é um sintoma muito comum, frequentemente com temperaturas elevadas e duração de aproximadamente três dias. Ao exame físico da orofaringe, são verificadas múltiplas úlceras rasas de 4 a 8 mm nos pilares tonsilares anteriores, palato mole e tonsilas palatinas. Ainda na cavidade oral, podemos verificar a presença de úlceras em língua e gengiva. Embora a verificação de úlceras nessas localizações também seja frequentemente relacionada à infecção por herpesvírus tipo 1, a localização das úlceras rasas no palato mole e pilares tonsilares é mais característica da herpangina. Além disso, sialorreia e hiperemia de orofaringe são importantes manifestações clínicas complementares verificadas nessa infecção. Na descrição dos sintomas nos enunciados, foi relatada a presença de hiporexia (pelo acometimento faríngeo), além de vômitos, irritabilidade e cefaleia. Conforme citado anteriormente, o Coxsackie relaciona-se a outros enterovírus e sua infecção pode manifestar- se com sintomas gastrointestinais. As manifestações do sistema digestório que já apareceram em provas anteriores foram a presença de fezes amolecidas e dor abdominal. O tratamento deve ser feito utilizando sintomáticos e medidas adjuvantes. Mas olha onde está a genialidade por trás da questão... Eventualmente, infecções por Coxsackie e enterovírus complicam feio. Dentre as complicações, temos encefalite, meningite, paralisia flácida e miocardite. Estamos diante de um caso suspeito de miocardite viral! O tratamento inicial orientado para o paciente foi adequado. Mas veja que após 10 dias o lactente apresentou piora clínica! Vamos analisar o atendimento sistematizado trazido pelo enunciado. Se você quer prestar USP-SP, acostume-se a sistematizar o atendimento de pacientes na emergência dessa forma, ok? A: pérvia; B: murmúrio vesicular presente, com estertores bilateralmente, FR 55 ipm, saturação 93%, tiragem subdiafragmática = temos desconforto respiratório, tendendo a hipoxemia e descrição de estertores bilateralmente. Compatível com edema agudo de pulmão, certo? C: FC 184, PA 68x36 mmHg, taquicardia sinusal, bulhas rítmicas, 2 tempos, normofonéticas, sem sopros, tempo de enchimento capilar de 6 segundos, pulsos finos, fígado a 5 cm do rebordo costal direito = sinais de choque com disfunção miocárdica, incluindo hipotensão; D: abertura ocular e resposta verbal ao estímulo doloroso; localiza dor; glicemia capilar 75 mg/dL = rebaixamento sensório, provavelmente secundário ao choque; E: nada digno de nota, fontanela anterior normotensa = afasta hipertensão intracraniana como causa de rebaixamento do nível de consciência. Provavelmente está rebaixada por má perfusão de SNC secundário ao choque; Olha só, aparentemente nossa avaliação aponta para a base do problema estar no CORAÇÃO. A criança está chocada (taquicárdica, hipotensa, TEC prolongado, com pulsos finos), e provavelmente o coração disfuncional está ocasionando uma congestão vascular no pulmão, ocasionado um edema agudo pulmonar. Isso é confirmado com a imagem do POCUS pulmonar: Note que as linhas A não estão visíveis. As linhas A são reverberações da pleura num parênquima pulmonar saudável. Além disso, temos muitas linhas B confluentes, que denotam inflamação/congestão parenquimatosa. Isso pode ser tanto uma pneumonia intersticial quanto um edema pulmonar. Ao correlacionar com a clínica, a possibilidade de ser um edema pulmonar cardiogênico aumenta! Olha como eu esperaria um POCUS pulmonar normal. Veja as Linhas A, pleura bem definida, não temos linhas B... Tudo isso junto nos levamos à hipótese de choque cardiogênico. Considerando a história clínica do paciente, provavelmente foi desencadeada por uma miocardite provocada pelo vírus que causou a herpangina, provavelmente o Coxsackie. O quadro clínico clássico da miocardite é de uma insuficiência cardíaca. A gravidade vai depender do grau de acometimento miocárdico, e isso varia bastante. Durante a investigação podemos encontrar no eletrocardiograma complexos de baixa voltagem, alterações do segmento ST-T, prolongamento de PR, prolongamento do intervalo QT além de arritmias. No ecocardiograma geralmente há comprometimento da função do ventrículo esquerdo. O tratamento é de suporte com: Restrição hídrica e uso de diuréticos conforme necessidade; Agentes inotrópicos se sinais de choque; Considerar uso de imunoglobulina endovenosa e corticoide sistêmico. A indicação de drogas vasoativas clássicas, que antigamente utilizava conceitos de choque quente e frio, foi substituída por outra, que avalia variáveis hemodinâmicas avançadas. Em crianças em choque séptico, as primeiras drogas a serem utilizadas são a adrenalina e noradrenalina: Se houver disfunção miocárdica (antigo \"choque frio\", com TEC prolongado, pulsos fracos, sinais de congestão, extremidades frias, etc.), a escolha inicial deve ser a adrenalina. A noradrenalina é preferível em pacientes com sinais de baixa resistência vascular sistêmica (pulsos amplos, extremidades quentes, etc.). No fundo, a escolha baseia-se na preferência do profissional, fisiopatologia do choque e condições locais - mas fique atento às pistas do enunciado sobre disfunção miocárdica. Caso não se observe resposta com essa dose, deve ser iniciado um segundo vasopressor. Aqui, a adrenalina seria uma ótima escolha inicial de drogavasoativa! Mas outras drogas inotrópicas podem ser consideradas. Vamos dar uma olhada nas alternativas?",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -5255,7 +5315,7 @@
       },
       "correta": "B",
       "explicacao": "B GABARITO: ALTERNATIVA B Assista ao vídeo. O quadro clínico fornecido na questão é compatível com uma congestão pulmonar provavelmente descompensa por múltiplas comorbidades e um novo quadro infeccioso. Nesse momento, devemos buscar qual a radiografia mais compatível com esse quadro clínico. Vamos analisar uma por uma.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -5283,7 +5343,7 @@
       },
       "correta": "D",
       "explicacao": "Deve ser iniciado nitroprussiato endovenoso, com possibilidade de reversão dos sintomas com a melhora dos controles pressóricos. Antes de discutirmos essa questão, façamos uma análise crítica: elevação da pressão arterial é causa de cefaleia? A resposta correta é: sim, hipertensão arterial pode levar à cefaleia, contudo, em um paciente com cefaleia e pressão arterial elevada, de longe, o mais comum é que a elevação da pressão arterial seja consequência, não causa, da dor de cabeça. Chamamos esse fenômeno de pseudocrise hipertensiva. Considerando que a hipertensão arterial seja a causa, propriamente dita, da cefaleia, como isso acontece? De duas formas. Indiretamente, a partir de complicações do pico pressórico (por exemplo uma HSA) ou diretamente, quando a elevação pressórica é tão acentuada que gera edema hidrostático, promovendo hipertensão intracraniana e dor de cabeça. Essa situação é considerada um sintoma de uma crise hipertensiva. O paciente apresenta acentuada elevação pressórica (em geral, superior a 220x120 mmHg), sendo possível definir uma relação de causa e efeito. A circulação posterior, anatomica e fisiologicamente é mais suscetível a esse padrão de edema hidrostático, de modo que o edema hidrostático pode culminar no que chamamos de encefalopatia posterior reversível (PRES) que cursa com cefaleia associada a sinais de hipertensão intracraniana (como descrito no enunciado) e perda visual em decorrência de edema de córtex occipital (área primária da visão). Um quadro mais grave é a encefalopatia hipertensiva. Trata-se de uma emergência hipertensiva em que o paciente com grave elevação pressórica, apresenta uma tríade clássica de: cefaleia, confusão mental e papiledema. No caso em questão, portanto, a neuroimagem deve ser feita imediatamente. Ponderando-se apenas o exposto no enunciado, vejamos as alternativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -5306,7 +5366,7 @@
       },
       "correta": "B",
       "explicacao": "Padrão de fluxo menstrual. Temos uma paciente de 47 anos apresentando um quadro claro de anemia, afinal os níveis de hemoglobina normais esperados para mulheres não grávidas são acima de 12g/dL. Vemos ainda se tratar de uma anemia microcítica, porque o volume corpuscular médio (VCM), uma medida de tamanho das hemácias, está reduzido, indicando a presença de hemácias menores que o habitual. Por fim, o examinador não deixa dúvidas: estamos diante de uma anemia ferropriva, afinal os níveis de ferritina estão baixos e este é o principal armazenador de ferro no organismo. Que causas devemos pensar como etiologia para a anemia ferropriva desta paciente? Lembre-se que a carência alimentar de ferro é a causa mais comum de anemia ferropriva em crianças e gestantes, populações que possuem uma demanda metabólica muito grande pelo ferro. Só que isto não é verdadeiro em adultos: a quantidade de ferro diária necessária para um adulto manter seus estoques é baixo, sendo a carência alimentar superada por outra causa: a perda crônica de sangue! Toda vez que um indivíduo sangra, ele perde hemácias e, dentro delas, o ferro presente na molécula de hemoglobina. Assim, sangramentos crônicos são a causa mais comum de deficiência de ferro em indivíduos adultos no mundo todo. Isso é importante na investigação destes pacientes, para que busquemos ativamente o sangramento e possamos tratá-lo em conjunto à reposição de ferro. Com isso em mente, veja as alternativas:",
-      "banca": "Ribeirão Preto da USP)",
+      "banca": "USP-RP",
       "instituicao": "Ribeirão Preto da USP)",
       "ano": 2025,
       "fonte": "Ribeirão Preto da USP) 2025",
@@ -5466,7 +5526,7 @@
       },
       "correta": "B",
       "explicacao": "a cardiotocografia é tranquilizadora e a nota do perfil biofísico fetal é 8, indicando boa vitalidade fetal. A paciente pode voltar para casa e seguir o pré- natal. O que o examinador quer saber. sobre avaliação da vitalidade fetal. A cardiotocografia é um dos exames mais utilizados para avaliar a vitalidade fetal. Por meio do registro gráfico simultâneo do comportamento da frequência cardíaca fetal (FCF), das contrações uterinas e dos movimentos fetais por pelo menos 20 minutos, é possível identificar, de forma indireta, a presença de hipoxemia no sistema nervoso central. Os parâmetros avaliados pela cardiotocografia são: ​A cardiotocografia de repouso é o método cardiotocográfico anteparto mais utilizado, pois é um exame não invasivo e de fácil aplicação. Nesse exame, não é feito nenhum estímulo para o feto, que é classificado em reativo e não reativo, a depender da linha de base, variabilidade, aceleração e desaceleração dos batimentos cardíacos fetais. Feto reativo é aquele com todos os parâmetros cardiotocográficos normais e pelo menos duas acelerações transitórias. Considera-se feto não reativo quando esse critério não é atingido após a avaliação máxima de 40 minutos. O perfil biofísico fetal (PBF) é um exame não invasivo que avalia a vitalidade fetal por meio das atividades biofísicas do feto e do volume do líquido amniótico em situações com risco de hipóxia fetal. Os parâmetros avaliados nesse teste dependem diretamente do estado de oxigenação do sistema nervoso central. O PBF avalia quatro parâmetros biofísicos que se alteram diante de hipóxia fetal aguda (tônus, movimentos corporais fetais, movimentos respiratórios e frequência cardíaca fetal) e um parâmetro que sofre alteração diante de hipóxia fetal crônica (volume do líquido amniótico. Os movimentos respiratórios, o tônus, os movimentos corporais fetais e o volume do líquido amniótico são avaliados pela ultrassonografia; já a frequência cardíaca fetal, pela cardiotocografia. Cada parâmetro recebe a pontuação 0 se estiver anormal ou 2 se estiver normal, podendo o feto receber nota 0, 2, 4, 6, 8 ou 10. Fique atento: não existem notas ímpares de PBF. A soma da pontuação maior ou igual a oito sugere bom prognóstico fetal e inferior a oito indica a necessidade de monitorização da vitalidade fetal ou resolução da gestação. Enquanto uma pontuação menor ou igual a 4 é sinal de comprometimento fetal e indicação para resolução imediata da gestação.",
-      "banca": "RJ - Instituto Nacional de Traumatologia e Ortoped",
+      "banca": "INTO",
       "instituicao": "RJ - Instituto Nacional de Traumatologia e Ortoped",
       "ano": 2025,
       "fonte": "RJ - Instituto Nacional de Traumatologia e Ortoped 2025",
@@ -6130,7 +6190,7 @@
       },
       "correta": "B",
       "explicacao": "Prescrever sulfato ferroso, via oral, na dose de 120 mg a 240 mg por dia. O que o examinador quer saber: sobre o tratamento de anemia na gestação. Definimos anemia na gestação quando a dosagem de hemoglobina (Hb) está abaixo de 11,0 g/dL e hematócrito (Htc) abaixo de 33% no primeiro e terceiro trimestres; e Hb inferior a 10,5 g/dL e Htc abaixo de 32% no segundo trimestre. A anemia materna deve ser uma preocupação no pré-natal, pois sua ocorrência durante a gestação aumenta o risco de pré-eclâmpsia, baixo peso ao nascer, parto pré-termo, hemorragia pós-parto, mortalidade perinatal e materna. Existem diversas causas de anemia na gestação, sendo a causa mais comum a anemia por deficiência de ferro, por carência alimentar ou perda sanguínea por hemorragia ou nas parasitoses intestinais. O diagnóstico é feito na maioria das vezes pelo hemograma. A anemia por deficiência de ferro, é hipocrômica (HCM< 26 pg) e microcítica (VCM <80 fL). A prevenção da anemia ferropriva se dá pela suplementação de ferro elementar na dose de 40 mg/dia para todas as gestantes. O tratamento depende dos níveis de hemoglobina. Para níveis de hemoglobina ≥9,0 g/dL e ≤11,0 g/dL o tratamento com ferro por via oral é a primeira escolha. A dose de ferro elemento a ser alcançada deve ser de 160 a 200 mg/dia, mas é importante o aumento gradual da dose para a prevenção de efeitos colaterais com o tratamento. Para gestantes com níveis de hemoglobina inferiores a 9,0 g/dL e idade gestacional ≥14 semanas o tratamento com ferro endovenoso é preferível. Transfusão de concentrado de hemácias deve ser reservada para casos de anemia grave por perda aguda de sangue e, eventualmente, em situações de anemia grave com possibilidade de parto em curto prazo, não devendo ser utilizada como terapêutica habitual de anemia ferropriva.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6153,7 +6213,7 @@
       },
       "correta": "A",
       "explicacao": "Pré-eclâmpsia O que o examinador quer saber: sobre o diagnóstico de pré-eclâmpsia. Os distúrbios hipertensivos da gestação ou síndromes hipertensivas da gestação englobam todas as doenças que cursam com hipertensão arterial na gestação. Essas doenças são classificadas conforme a idade gestacional de aparecimento da hipertensão. Quando a hipertensão é diagnosticada antes de 20 semanas temos o diagnóstico de hipertensão arterial crônica (HAC). Se a hipertensão surge a partir de 20 semanas e desaparece no puerpério, podemos ter o diagnóstico de hipertensão gestacional e pré- eclâmpsia. A hipertensão arterial crônica pode ser decorrente de hipertensão essencial, de hipertensão secundária, ou ainda pode ser hipertensão do jaleco branco é responsável por 30% dos casos de hipertensão na gravidez. A pré-eclâmpsia, por sua vez, pode evoluir para eclâmpsia e síndrome HELLP ou ainda pode haver pré-eclâmpsia sobreposta à hipertensão arterial crônica e é responsável por 70% dos casos de hipertensão na gravidez. Anteriormente chamávamos a hipertensão gestacional, a pré-eclâmpsia e suas diferentes formas clínicas de distúrbios hipertensivos específicos da gestação (DHEG) ou toxemia gravídica. Esses termos, embora ainda muito utilizados na prática obstétrica no Brasil, não fazem mais parte da terminologia atual dos distúrbios hipertensivos da gestação. Os critérios para definir cada um dos distúrbios hipertensivos na gestação podem variar de um protocolo para outro. Daremos ênfase para a classificação mais utilizada no mundo, que é a da ACOG, muito semelhante à classificação da ISSHP e da FIGO. Esta classificação está resumida na tabela abaixo. A pré-eclâmpsia se caracteriza por uma desordem multissistêmica progressiva, específica da gestação, que cursa com aumento dos níveis pressóricos associado à proteinúria a partir de 20 semanas de gestação, em gestante previamente normotensa. Na ausência de proteinúria, atualmente também considera-se pré-eclâmpsia quando há hipertensão arterial associada à lesão de órgãos-alvo materno ou disfunção uteroplacentária. Além disso, algumas gestantes podem não apresentar nem hipertensão arterial e nem proteinúria e serem diagnosticadas com pré-eclâmpsia pelas lesões de órgãos-alvo sem outra causa aparente. O diagnóstico de pré-eclâmpsia é feito quando há hipertensão arterial a partir de 20 semanas de gestação, ou no pós-parto ( até 12 semanas de puerpério), associada à proteinúria. Na ausência de proteinúria, considera-se pré-eclâmpsia quando há hipertensão gestacional a partir de 20 semanas e disfunção de órgão-alvo materno (hematológica, hepática, renal, pulmonar ou neurológica) ou disfunção uteroplacentária. Sendo assim, quaisquer das seguintes disfunções de órgão-alvo materno associadas a aumento dos níveis pressóricos a partir de 20 semanas já faz o diagnóstico de pré-eclâmpsia, mesmo sem proteinúria: Alterações hematológicas: trombocitopenia (plaquetas < 150.000/mm3), hemólise (DHL > 600 UI/L), coagulação intravascular disseminada. ● Insuficiência renal: creatinina sérica > 1,0 mg/dL. ● Disfunção hepática: elevação das transaminases 2 vezes o normal ou > 40 UI/L ou dor severa persistente em hipocôndrio direito ou epigástrio, sem outros diagnósticos. ● Edema pulmonar. ● Alterações neurológicas: cefaleia não responsiva à medicação e não explicada por outros diagnósticos, sintomas visuais (turvação visual ou escotomas persistentes ou cegueira), alteração do estado mental, derrame ou convulsão (eclâmpsia). Além disso, gestantes com sinais de disfunção uteroplacentária, associados ao aumento dos níveis pressóricos a partir de 20 semanas, também recebem o diagnóstico de pré-eclâmpsia, independentemente de apresentarem proteinúria ou outras lesões de órgãos-alvo. Os sinais de disfunção placentárias são: · Restrição de crescimento fetal: peso fetal < percentil 10 · Alteração do Doppler da artéria umbilical: IP > 95, diástole ausente ou reversa · Descolamento prematuro de placenta · Morte fetal",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6180,7 +6240,7 @@
       },
       "correta": "B",
       "explicacao": "Metildopa O que o examinador quer saber: sobre a profilaxia para pré-eclâmpsia. principal forma de identificar as gestantes com risco de desenvolver pré-eclâmpsia é por meio da avaliação dos fatores de risco. Considera-se gestação de alto risco para desenvolver pré- eclâmpsia quando há um único fator de risco alto ou dois fatores de risco moderados: A identificação de gestantes com alto risco para desenvolver pré-eclâmpsia e a realização de medidas para a sua prevenção ao longo do pré-natal é fundamental para se diminuir a ocorrência dessa patologia, principalmente as suas formas graves. Em 2025, o Ministério da Saúde passou a orientar a suplementação de cálcio para todas as gestantes para prevenção de pré-eclâmpsia. Anteriormente, a suplementação de cálcio era feita somente para gestantes de alto risco para desenvolver pré-eclâmpsia e com baixa ingesta de cálcio. Como no Brasil a ingesta de cálcio é muito baixa na população e a pré- eclâmpsia é a principal causa de morte materna, passou-se a orientar a suplementação cálcio para todas as gestantes, independente do risco. RISCO ALTO* RISCO MODERADO História pregressa de pré-eclâmpsia Gravidez prévia com eventos adversos (descolamento prematuro de placenta, prematuridade e baixo peso ao nascer > 37 sem) Obesidade (IMC > 30) História familiar de pré-eclâmpsia (mãe e irmã) Hipertensão arterial crônica Nuliparidade Diabetes tipo 1 e tipo 2 Idade materna ≥ 35 anos Doença renal Intervalo interpartal > 10 anos Doenças autoimunes (lúpus, SAAF) Tratamento de reprodução assistida Gestação múltipla *Adaptada da ISSHP, FIGO, ACOG e MS Sendo assim, a suplementação de cálcio deve ser feita de maneira universal a partir de 12 semanas de gestação, na dose de 1000mg de cálcio elementar por dia, até o parto. Como cada comprimido de carbonato de cálcio de 1250 mg contém 500 mg de cálcio elementar, é necessário dois comprimidos de carbonato de cálcio ao dia para atingir a dose recomendada de suplementação. A ingestão concomitante de ferro e cálcio deve ser evitada, sendo necessário o intervalo mínimo de 2 horas entre a ingestão dessas vitaminas. Além disso, o cálcio não deve ser ingerido em jejum e com alimentos ricos em fitato e ferro. Portanto, orienta-se ingerir o cálcio no período da noite, com um copo de leite ou frutas. Em gestantes com alto risco de desenvolver pré-eclâmpsia, tanto pelo rastreamento combinado no primeiro trimestre como pela avaliação dos fatores de risco maternos isolados, a prevenção primária consiste na administração de aspirina (ácido acetilsalicílico) em baixa dose (100-150 mg) à noite, diariamente a partir de 12 semanas, podendo ser iniciada em até 20 semanas, mas preferencialmente até 16 semanas, sendo mantida até as 36 semanas de gestação. O uso de baixa dose de aspirina antes de 20 semanas de gestação diminuiu o risco de pré-eclâmpsia, principalmente a pré-eclâmpsia precoce (< 34 semanas), e de restrição de crescimento fetal em gestantes de alto risco. Lembre-se de que é preciso suspender o AAS caso a paciente evolua para pré-eclâmpsia. A suplementação de cálcio nas gestantes de alto risco deve ser feita na dose de 1500mg a 2000mg /dia de calcio elementar, desde o início do pré-natal até o parto. Não existe evidência de que a suplementação de vitamina C, D, E, óleo de peixe, ácido fólico e restrição de sal possam reduzir o risco de pré-eclâmpsia. Além disso, o uso de heparina de baixo peso molecular não está indicado para a prevenção da pré-eclâmpsia, pois essa medida não reduz o risco dessa patologia. No fluxograma abaixo, está resumida a profilaxia da pré-eclâmpsia para que você memorize bem esse assunto",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6205,7 +6265,7 @@
       },
       "correta": "C",
       "explicacao": "1/2 O que o examinador quer saber: sobre a resposta ao tratamento de sífilis na gestação. A monitorização pós-tratamento deve ser feita mensalmente para gestantes com teste não treponêmico (VDRL ou RPR). Já, após o parto, o seguimento é trimestral no primeiro ano e semestral no segundo ano. É importante lembrar que a monitorização do tratamento é fundamental para classificar a resposta ao tratamento e diagnosticar possíveis reinfecções. Assim, a resposta ao tratamento pode ser classificada em: resposta imunológica adequada ou critérios de retratamento (reativação e/ou reinfecção). Considera-se resposta imunológica adequada se ocorrer a queda da titulação em duas diluições (4 vezes) dentro de 6 meses para sífilis recente e até 12 meses para sífilis tardia na gestação (exemplo: de 1:64 para 1:16) ou ainda se ocorrer diminuição da titulação do teste não treponêmico em duas diluições em até três meses e quatro diluições em até seis meses, com evolução até a negativação. Caso não haja resposta imunológica adequada, os critérios de retratamento (reativação ou reinfecção) são: Comentários: Temos uma gestante com sífilis recente e VDRL 1/32 antes do tratamento. Para considerar que a gestante foi adequadamente tratada, atualmente, aceita-se qualquer um dos três critérios: - Queda da titulação em duas diluições (4 vezes) dentro de 6 meses para sífilis recente e até 12 meses para sífilis tardia na gestação- para essa paciente seria uma queda de 1/32 para 1/8 ( 2 diluições) - Diminuição da titulação do teste não treponêmico em duas diluições em até três meses e quatro diluições em até seis meses, com evolução até a negativação- para essa paciente seria uma queda de 1/32 para 1/2 ( 4 diluições). - Teste não treponêmico negativo. Sendo assim, essa questão apresenta duas respostas : 1/ 8 e 1/2, a depender do critério utilizado. Por isso, essa questão foi anulada.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6231,7 +6291,7 @@
       },
       "correta": "D",
       "explicacao": "Sífilis latente recente: realizar penicilina benzatina 2,4 milhões UI, dose única, e tratar parceiro. O que o examinador quer saber: sobre o tratamento de sífilis na gestação. O diagnóstico da sífilis é feito por meio da correlação entre os dados clínicos, os exames laboratoriais, o histórico de infecção passada e exposição recente. Como a maioria das pessoas com sífilis é assintomática ou apresenta quadro clínico vago, os exames laboratoriais são imprescindíveis para o diagnóstico correto. Então, para o diagnóstico da sífilis, deve-se realizar um teste treponêmico e um não treponêmico. Recomenda-se sempre que possível realizar primeiro o teste treponêmico (teste rápido), que é o primeiro que positiva, e depois fazer o não treponêmico. Sendo assim, o diagnóstico de sífilis é confirmado quando ambos os testes treponêmico e não treponêmico estiverem reagentes e for afastada cicatriz sorológica (tratamento anterior para sífilis com documentação da queda da titulação em pelo menos duas diluições). Lembrar que qualquer titulação do teste não treponêmico é considerada positiva para sífilis. Na gestação, é obrigatório realizar exames para sífilis na primeira consulta do pré-natal (preferencialmente no 1º trimestre da gestação), no início do 3º trimestre (28ª semana), no momento do parto ou aborto (independentemente de exames anteriores) e a qualquer momento após exposição de risco/violência sexual. Apesar de a confirmação diagnóstica ser feita apenas com a solicitação dos dois testes, recomenda-se que, na gestação, o tratamento deve ser imediato após um único teste para sífilis positivo, seja ele treponêmico ou não treponêmico. Quanto mais semanas uma gestante com sífilis passa sem tratamento, maior é tempo de exposição e risco de infecção para o concepto. Assim, não se deve adiar o tratamento na gestação a fim de aguardar a confirmação com outro teste, pois essa demora para o início do tratamento aumenta o risco de transmissão vertical. Todavia, apesar de já haver indicação de tratamento imediato, ainda assim é necessário realizar um segundo teste diagnóstico, fazer monitoramento laboratorial (controle de cura) e também tratar os parceiros (as) sexuais (interrupção da cadeia de transmissão). O único tratamento seguro e eficaz para sífilis na gestação é a benzilpenicilina benzatina intramuscular, pois essa é a única droga com eficácia comprovada que passa a barreira placentária e previne a sífilis congênita. Qualquer outra medicação usada para tratar sífilis na gestação é considerada tratamento não adequado da mãe. . Além disso, não existe evidência de resistência à penicilina pelo Treponema Pallidum no Brasil e no mundo. Recomenda-se o tratamento imediato com Benzilpenicilina benzatina após somente um teste reagente para sífilis ( treponêmico ou não treponêmico) para todas as gestantes. Deve-se realizar um segundo teste para confirmar o diagnostico, mas não se deve aguardar esse teste para iniciar o tratamento. Pacientes sintomáticas com suspeita de sífilis primaria ou secundária, na impossibilidade de realizar qualquer teste diagnóstico, devem ser tratadas imediatamente para sífilis recente, assim como suas parcerias sexuais. A dosagem da benzilpenicilina benzatina a ser utilizada na gestante vai depender do estadiamento da doença. Na sífilis recente, a gestante deve receber uma dose única de benzilpenicilina benzatina de 2,4 milhões UI, intramuscular. Já na sífilis tardia, a gestante deve receber três doses de benzilpenicilina benzatina de 2,4 milhões UI, intramuscular, uma vez por semana, por 3 semanas, totalizando 7,2 milhões UI. Lembre-se de que a sífilis é uma infeção sexualmente transmissível (IST) e, por isso, o parceiro (a) deve ser sempre tratado concomitantemente à gestante. Em situações em que o diagnóstico da sífilis é feito no momento do parto, a puérpera e o seu parceiro devem receber tratamento, de preferência com início ainda na mesma internação. As parcerias sexuais dos últimos 90 dias das gestantes com sífilis devem ser testadas e tratadas com pelo menos uma dose de penicilina benzatina IM de 2,4 milhões UI, de preferência em conjunto com a gestante mesmo que apresentem testes imunológicos não reagentes. Caso o teste seja reagente para sífilis, o tratamento deve ser conforme o estágio clínico da infecção, como nas gestantes, e de preferência com penicilina benzatina.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6256,7 +6316,7 @@
       },
       "correta": "A",
       "explicacao": "Metilergometrina O que o examinador quer saber: sobre o tratamento de atonia uterina. Como a atonia uterina corresponde a 70% dos casos de HPP, o seu tratamento deve ser instituído juntamente com as medidas iniciais, mesmo que a causa ainda não tenha sido estabelecida. O quadro clínico de atonia uterina caracteriza-se por sangramento pós-parto associado a um útero não contraído e acima da cicatriz umbilical. Há diversos esquemas terapêuticos na literatura mundial para a atonia uterina. A seguir, colocamos o preconizado pelo Ministério da Saúde e pela Organização Mundial da Saúde, que é cobrado nas provas de Residência Médica. A massagem uterina bimanual é a primeira manobra a ser realizada enquanto se administra o uterotônico e aguarda-se seu efeito. Concomitantemente à manobra de Hamilton, aplica-se a ocitocina intravenosa, que é o uterotônico de primeira escolha no tratamento de HPP. Vale mencionar que existem diversos esquemas para a sua administração. A OMS recomenda aplicar ocitocina endovenosa na dose de 20 a 40UI, sendo 5UI em bolus lento e o restante diluído em 500ml de soro fisiológico a 0,9%. Se o sangramento não se resolver com ocitocina, devem-se utilizar outros uterotônicos, como a metilergometrina ou ergometrina e o misoprostol, que estão disponíveis no Brasil. A ordem de aplicação dessas medicações pode variar, a depender da disponibilidade nos serviços. A metilergometrina ou ergometrina deve ser administrada via intramuscular na dose de 0,2mg, tendo que ser repetida a cada duas a quatro horas. Evita-se o uso dessa medicação nos quadros hipertensivos. Por sua vez, o misoprostol deve ser aplicado via retal na dose de 800mcg (quatro comprimidos). A reposição hídrica de cristaloides e a administração de ácido tranexâmico têm de ser feitas concomitantemente aos uterotônicos para todas as puérperas com HPP. O ácido tranexâmico é administrado na dose de 1g endovenosa a cada seis horas. O uso de ácido tranexâmico deve ser feito para todos os casos de HPP, independente da causa. Se o sangramento não parar, apesar do tratamento com todos os uterotônicos disponíveis, deve-se fazer o tamponamento com balão intrauterino e usar o traje antichoque não pneumático (TAN). O balão reduz a necessidade de abordagem cirúrgica e pode ser utilizado tanto após o parto vaginal quanto após a cesárea. O TAN age redirecionando sangue para as regiões superiores do organismo e restringe o ritmo de perda sanguínea por diminuir o aporte de sangue para o sítio da lesão. Quando o sangramento se mantiver, a despeito do tratamento conservador, a adoção de intervenções cirúrgicas faz-se necessária, como a sutura compressiva de B-Lynch e as suturas vasculares (ligadura das artérias uterinas ou das artérias ilíacas internas). A histerectomia, por sua vez, deve ser a última medida frente a uma HPP, utilizada somente se todas as outras intervenções falharem.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6282,7 +6342,7 @@
       },
       "correta": "A",
       "explicacao": "A causa mais comum de sangramento uterino anormal na paciente jovem, logo após a menarca, é a coagulopatia. Estrategista, a idade da mulher é uma boa orientação para as possíveis causas do sangramento uterino anormal. • Nos primeiros anos após a menarca é bastante frequente a irregularidade menstrual devido a imaturidade do eixo H-H-O e os ciclos anovulatórios. A segunda causa mais frequente de SUA desde a menarca são as coagulopatias, principalmente a síndrome de Von Willebrand, • Nas mulheres entre 20 e 40 anos de idade o eixo já está amadurecido e as menstruações costumam ser regulares. Nesta idade as causas mais comuns de sangramento uterino anormal são as estruturais, • Próximo a menopausa a causa mais frequente de SUA são os ciclos anovulatórios devido a proximidade do esgotamento folicular dos ovários. • Após a menopausa são mais comuns as causas endometriais. A investigação diagnóstica do sangramento uterino anormal deve seguir os seguintes passos: 1- Anamnese e exame físico, 2- Solicitação do teste de gravidez, 3- Solicitação de hemograma completo e coagulograma, 4- Solicitação de ultrassonografia para avaliar causas estruturais do SUA, 5- Solicitar dosagens hormonais se quadro clínico sugere endocrinopatia (anovulação ou hiperandrogenismo). 6- Se necessário, avaliação secundária com histeroscopia e biópsia do endométrio. Toda avaliação inicial do SUA deve incluir o Beta HCG, o hemograma completo, o coagulograma e o ultrassom (transvaginal ou pélvico). Com estes exames é possível definir a causa de sangramento uterino anormal na maioria dos casos. Em geral não precisamos solicitar dosagens hormonais na avaliação inicial do SUA. Elas podem ser solicitadas para os casos em que há suspeita de SOP ou até mesmo hiperandrogenismo importante (virilização) com sinais de clitoromegalia, engrossamento da voz, aumento de massa muscular e calvície. Devemos suspeitar de hiperprolactinemia quando a paciente apresenta irregularidade menstrual ou amenorreia secundária, associada a galactorreia ou em pacientes que estejam tomando medicamentos que possam elevar a prolactina (anti-dopaminérgicos). Devemos suspeitar de insuficiência ovariana prematura nas mulheres com irregularidade menstrual e fogachos antes dos 40 anos de idade. Nestes casos devemos solicitar o FSH. Se suspeitarmos de amenorreia hipotalâmica, devido a desnutrição ou nas atletas, devemos solicitar o LH, FSH e estradiol. Como dissemos, a principal causa de sangramento uterino anormal em adolescentes são os distúrbios ovulatórios e geralmente se resolvem espontaneamente com o amadurecimento do eixo hipotálamo – hipófise – ovário em um ou dois anos após a menarca. Outras possíveis causas são as coagulopatias (principalmente a Sd. Von Willebrand), neoplasias, uso de medicamentos e prática de exercícios intensos (principalmente se associados à restrição alimentar e perda de peso). Nas adolescentes com sangramento uterino por anovulação, ocorre estímulo estrogênico contínuo de proliferação para o endométrio. O sangramento ocorre quando o endométrio prolifera além da capacidade do próprio estrogênio manter a integridade do endométrio, ou seja, ele “desaba”. A administração de estrogênio permite uma maior proliferação endometrial, que cura os locais de sangramento e promove a hemostasia. A administração de progestágeno age em oposição ao efeito proliferativo do estrógeno e estabiliza o endométrio. Sangramento anovulatório leve (menstruações com duração, fluxo ou frequência maior e hemoglobina normal, sem desejo de contracepção e sem prejuízo da qualidade de vida): A conduta para estes casos é expectante. Sangramento anovulatório moderado (hemoglobina > 10 g/dL): A conduta para estes casos é o tratamento hormonal para estabilizar a proliferação e evitar a decidualização (descamação) do endométrio. As opções terapêuticas para estes casos são: • Anticoncepcionais combinados (estrógeno 30 mcg e progestágenos) • Noretindrona 5 mg, via oral, nos primeiros 5 a 10 dias do mês • Progesterona micronizada oral, 200 mg, nos primeiros 12 dias do mês A estratégia destes dois últimos esquemas terapêuticos é simular a segunda fase do ciclo menstrual, fornecendo o progestágeno que está faltando nos ciclos anovulatórios de maneira exógena. O ácido tranexâmico pode ser uma opção para meninas com sangramento anovulatório moderado que recusam tratamento hormonal. Agora vamos analisar as alternativas:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6305,7 +6365,7 @@
       },
       "correta": "D",
       "explicacao": "As pacientes abaixo de 25 anos de idade que apresentam lesões escamosas de baixo grau (LSIL) devem repetir o exame de citologia cervicovaginal em três anos. Estrategista sabemos que o HPV é responsável por praticamente 100% dos cânceres de colo uterino e que, em boa parte dos casos, ele se apresenta na sua forma subclínica. Por isso, é muito importante, além da prevenção primária por meio das vacinas, rastrear a presença de lesões precursoras de colo uterino (prevenção secundária). Podemos realizar o rastreio através da pesquisa de DNA HPV ou pela colpocitologia oncótica. Por questões de custo, no Brasil, de acordo com as Diretrizes do Ministerio da Saúde, a recomendação é o rastreio através da colpocitologia. Devem ser rastreadas as mulheres sexualmente ativas com idade igual ou superior a 25 anos. Os dois primeiros exames devem ser feitos com intervalo anual e se negativos, o rastreamento pode ser feito a cada 3 anos. O rastreamento deve seguir até os 64 anos de idade e deve ser interrompido caso a paciente já tenha pelo menos dois exames negativos consecutivos nos últimos cinco anos. COMENTÄRIOS: 1) Por que não rastrear mulheres sexualmente ativas abaixo dos 25 anos? A prevalência de câncer de colo é muito baixa nessa faixa etária (correspondem a menos de 1% dos tumores). Além disso, são tumores bastante agressivos, que não seguem a história natural da infecção pelo HPV, não sendo detectáveis pelo rastreamento, na sua maioria. 2) Caso você atenda uma mulher com mais de 64 anos que nunca realizou citologia, como proceder? A paciente deve realizar duas citologias com intervalo de um a três anos. Se os dois exames forem negativos, ela está excluída do rastreio. SITUAÇÕES ESPECIAIS • Como o HPV é transmitido sexualmente, não há necessidade de coleta em pacientes virgens; • Se houver atrofia vaginal em pacientes na pós menopausa, proceder estrogenização antes da coleta; • As gestantes devem ser rastreadas como as demais mulheres. A coleta endocervical não parece aumentar o risco sobre a gestação; • Mulheres histerectomizadas por doença benigna, sem histórico de tratamento de lesões cervicais de alto grau, podem ser excluídas do rastreio; • Mulheres histerectomizadas por lesão precursora de câncer de colo uterino devem ser acompanhadas conforme a lesão tratada; • Pela maior prevalência de infecção pelo HPV e maior persistência do vírus, as pacientes imunossuprimidas iniciam a coleta após o início da atividade sexual, semestralmente no primeiro ano e, se normais, mantém seguimento anual enquanto se mantiver o fator de imunossupressão. Mulheres HIV positivas com CD4+ abaixo de 200 células/mm³ devem ter como prioridade a correção desses valores, mas, enquanto isso, serão rastreadas a cada seis meses. A tabela abaixo mostra a conduta indicada para cada tipo de alteração da colpocitologia, de acordo com a Diretriz do Ministério da Saúde: Agora vamos analisar as alternativas:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6331,7 +6391,7 @@
       },
       "correta": "B",
       "explicacao": "O uso de venlafaxina e desvenlafaxina permite o controle dos sintomas vasomotores, sem uso de hormônios, com eficácia semelhante. Algumas pacientes apresentam sintomas vasomotores, porém não podem fazer uso da terapia hormonal por apresentarem contraindicações absolutas. Apesar de os sintomas terem origem no hipoestrogenismo, o fato da termorregulação depender da ação de neurotransmissores faz com que determinadas drogas possam auxiliar na redução dos sintomas. Os antidepressivos inibidores seletivos da recaptação de serotonina (ISRS) e os inibidores seletivos da recaptação de serotonina e norepinefrina (IRSNs) atuam bloqueando a recaptação desses neurotransmissores, podendo diminuir os sintomas vasomotores. Outras medicações, como anti-hipertensivos e anticonvulsivantes também podem ser empregadas. A tabela abaixo demonstra a eficácia de cada uma dessas medicações: OBS 1 : Sertralina e Fluoxetina têm resultados conflitantes. OBS 2: Clonidina e Oxibutinina são eficazes, mas não são indicadas como primeira linha por efeitos colaterais e falta de segurança. OBS 3: A Pregabalina tem boa eficácia, mas é contraindicada por não tem um peril de segurança adequado. Já o estrogênio por via vaginal é a primeira opção de tratamento para atrofia urogenital. Os estudos demonstram que há uma absorção sistêmica mínima com o uso de estriol e que a absorção com uso de promestrieno é desprezível. Apesar disso, a bula de ambas as medicações considera uma contraindicação o uso em pacientes com doenças estrogênio -dependentes ou estrogênio- relacionadas, tais como após os cânceres de mama, de endométrio, trombose venosa, entre outros. A Sociedade Brasileira de Climatério contraindica o uso, apesar do nível de evidência D. Não há consenso em relação a esse tema e você pode encontrar divergências nas provas. O uso de lubrificantes e hidratantes vaginais pode ser empregado como tratamento adjuvante, mas não são a primeira linha de tratamento. O laser vaginal também vem ganhando espaço para o tratamento dessa queixa. Essas opções devem ser reservadas para pacientes que não possam usar os hormônios.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6356,7 +6416,7 @@
       },
       "correta": "A",
       "explicacao": "sinvastatina com ciprofibrato. A rabdomiólise decorre da lesão do miócito, liberando o conteúdo intacitoplasmático para o meio externo. Destaca-se a elevação dos níveis séricos de algumas enzimas, conhecidas como marcadores de necrose muscular: aldolase, lactato e CPK. O quadro é de fraqueza de predileção proximal acompanhado de elevação de tais marcadores e eventualmente, em decorrência da lesão renal pela mioglobina, de urina escurecida e lesão renal aguda. As principais causas estão expostas abaixo, havendo destaque especial para o uso das estatinas. O tratamento envolve rigorosa hidratação e suspensão do agente causador.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6381,7 +6441,7 @@
       },
       "correta": "C",
       "explicacao": "Liberação de catecolaminas e cortisol No estado de pós-operatório, o paciente apresenta alterações hormonais referentes à resposta endócrino metabólica e imunológica ao trauma (REMIT), visando a manutenção da homeostase, o menor consumo energético inicial, e o direcionamento de nutrientes e oxigênio para tecidos mais importantes na situação, sobretudo na fase aguda (em geral , as primeiras 72 horas). Vamos relembrar os principais hormônios envolvidos e entender suas concentrações na resposta inflamatória ao trauma: - hormônio antidiurético: aumentado → objetivo: reabsorver água e aumentar o volume corrente; - sistema renina-angiotensina-aldosterona: aumentado → há liberação de renina, que estimula produção de angiotensina (ação vasoconstritora → aumentar retorno venoso), a qual induz liberação de aldosterona (reabsorção de água → aumentar o volume corrente); - cortisol: aumentado → objetivo é disponibilizar aminoácidos, a partir da degradação proteica, para síntese de proteína na área lesada, para produção de células de defesa e para produção de citocinas; - catecolaminas (adrenalina e noradrenalina): aumentadas → objetivo: vasoconstrição periférica, aumentando retorno venoso; - insulina: diminuída na fase de choque (evitar seu efeito anabólico) e normal ou aumentada na fase de fluxo (aumento do metabolismo); - glucagon: aumentado → objetivo: disponibilização de glicose para produção energética. - GH: aumentado → objetivo: lipólise, redução da captação de glicose pela célula, glicogenólise hepática, aumento do sistema imunológico; - ACTH (corticotrofina): aumentado → objetivo: estimular produção de cortisol. A elevação das catecolaminas, do glucagon, ACTH e cortisol e a redução da insulina torna os pacientes em pós-operatório com controles glicêmicos mais elevados. O aumento da glicemia é secundário à gliconeogênese e à glicogenólise, assim como a redução na produção e aumento da resistência periférica à insulina. Esses eventos são regulados, principalmente, pela ação das catecolaminas e do glucagon. O aumento do hormônio corticotrófico (ACTH) secundário ao trauma produz aumento nos níveis de cortisol, que é responsável por mobilizar aminoácidos do músculo esquelético e estimular a gliconeogênese hepática, ao mesmo tempo que inibe a captação de aminoácidos para síntese proteica. Já as catecolaminas, ou seja adrenalina e noradrenalina, tem seus níveis aumentados no cenário do trauma, e são responsáveis, entre outros causas, por estimular o aumento dos níveis glicêmicos, aumentar a atividade metabólica, estimular a produção de ACTH pela hipófise, além de produzir vasoconstrição e aumento do débito cardíaco.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6407,7 +6467,7 @@
       },
       "correta": "B",
       "explicacao": "Colangiopancreatografia retrógrada endoscópica (CPRE) Paciente com diagnóstico clínico, laboratorial e tomográfico de pancreatite aguda biliar. O tratamento inicial da pancreatite aguda é clínico, com jejum, hidratação endovenosa e analgesia. Após melhora clínica, está indicada colecistectomia, preferencialmente por laparoscopia e na mesma internação. Como a paciente apresenta ultrassonografia com dilatação da via biliar, por possível coledocolitíase, está indicada a Colangiopancreatografia retrógrada endoscópica - CPRE antes da cirurgia.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6433,7 +6493,7 @@
       },
       "correta": "C",
       "explicacao": "Tentativa de estabilização hemodinâmica com cristaloides até a chegada de sangue. Caso haja estabilidade, deve realizar tomografia computadorizada de abdome total com contraste. GABARITO OFICIAL: C GABARITO EMED: D Questão contraversa que merecia anulação! Estamos diante de um paciente vítima de acidente automobilístico com trauma abdominal fechado apresentando dor abdominal intensa, equimoses, hematomas e abdome rígido à palpação. Um abdome tenso, rígido, indica contração muscular involuntária, ou seja, sinal de peritonite, o que já é o suficiente para se indicar o laparotomia imediata. Além disso, foi admitido com instabilidade hemodinâmica e FAST positivo, o que também já indicaria laparotomia. BE - 10 = acidose metabólica, que faz parte da tríade letal, junto com hipotermia e coagulopatia. Dessa forma, a melhor conduta para esse paciente seria reanimação volêmica com Ringer 1000 ml aquecido, ácido tranexâmico, possível transfusão de hemoderivados e laparotomia exploradora. Vamos analisar as alternativas:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -6458,7 +6518,7 @@
       },
       "correta": "C",
       "explicacao": "oito pontos, com indicação de intubação orotraqueal. Vamos calcular o Glasgow desse paciente: Resposta ocular: abertura ocular ausente - 1 Resposta verbal: palavras inapropriadas - 3 Resposta motora: movimento de flexão à pressão - 4 Total: 8 (indicação de via aérrea definitiva - intubação orotraqueal)",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6483,7 +6543,7 @@
       },
       "correta": "A",
       "explicacao": "Hematoma epidural Estrategista, essa é uma questão direta que cobra a identificação do tipo de hemorragia a partir da análise da TC de crânio. No contexto do TCE, podemos encontrar quatro tipos principais de complicação hemorrágica: 1- Hematoma Epidural: Ocorre na lesão arterial, em geral da artéria meníngea média, o que leva a um sangramento entre o crânio e a dura-máter. Pode ocorrer um fenômeno conhecido como “intervalo lúcido”, situação em que o paciente, logo após o trauma, apresenta nível de consciência preservado, contudo, algumas horas depois evolui com rebaixamento do nível de consciência. Estrategista, cuidado com as associações. Apesar de ser um sangramento arterial, para progredir, o sangramento deve descolar a dura-mater do crânio. Lembre-se que o espaço epidural é virtual e que a dura está fortemente aderida ao crânio. Isso explica porque pode ocorrer o intervalo lúcido e porque o aspecto da imagem é biconvexo com limites bem demarcados, como se fosse um “limão” 2- Hematoma Subdural: Ocorre na lesão de veias corticais entre a dura-mater e a aracnóide e classicamente é descrito como tendo um aspecto em crescente, côncavo. Em contraste com o hematoma epidural, aqui o sangramento ocorre entre duas camadas de meninge, abaixo do osso. Por isso, o sangramento se espalha mais facilmente, não há intervalo lúcido e o aspecto é côncavo-convexo, como se fosse uma “banana”. 3- Hemorragia Subaracnóidea: O acúmulo de sangue ocorre no espaço subaracnóideo, podendo levar a cefaleia, rigidez de nuca e, eventualmente, rebaixamento do nível de consciência. 4- Hematoma Intraparenquimatoso: O acúmulo de sangue ocorre no próprio parênquima cerebral. Pode ocorrer adjacente ao local do impacto ou mesmo contra lateralmente, na chamada lesão a contragolpe. Pode levar a cefaleia, déficit neurológico focal e em situações mais graves, ao rebaixamento do nível de consciência. Vejamos as alternativas",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6509,7 +6569,7 @@
       },
       "correta": "D",
       "explicacao": "O uso de manitol deve ser evitado em pacientes vítimas de TCE grave que mantenham hipotensão. Uma alternativa é o uso de soluções salinas hipertônicas. Estrategista, essa questão aborda os conhecimentos sobre o manejo da hipertensão intracraniana. Vamos relembrar alguns conceitos. O encéfalo é coberto por um arcabouço ósseo rígido e inextensível. Não há muito espaço para acomodar grandes aumentos de volume. De acordo com a Doutrina de Monro-Kellie, 4 componentes determinam a pressão intracraniana (PIC): ● Sangue Arterial ● Sangue Venoso ● LCR ● Parênquima Os quatro compartimentos estão suscetíveis a alterações que em última análise levarão a aumento volume, o que poderá levar a aumento da pressão intracraniana. Como exemplo, por compartimentos, temos a trombose venosa cerebral no compartimento venoso, a obstrução do fluxo liquórico no compartimento liquórico, a neoplasia cerebral no compartimento parenquimatoso e o próprio AVC isquêmico no compartimento do sangue arterial. Independentemente da causa, assim que um dos compartimentos aumenta seu volume, o primeiro mecanismo de compensação acionado é a redução do volume liquórico e de sangue venoso, o que permitirá acomodar, em uma fase inicial, o volume excedente de modo a não produzir grandes aumentos de pressão. Quando o aumento de volume ultrapassa a capacidade de acomodação, o paciente desenvolve hipertensão intracraniana, definida de forma objetiva quando ultrapassa 20 mmHg. A perfusão cerebral é resultado da pressão arterial média menos a pressão intracraniana, sendo assim, com o aumento da pressão intracraniana, reflexamente ocorre aumento da pressão arterial média na tentativa de manter a pressão de perfusão cerebral. O objetivo de pressão de perfusão cerebral, para a adequada nutrição encéfalo, deve ser superior a 60 mmHg. Posto isso, entenda que o maior problema da hipertensão intracraniana é impactar na pressão de perfusão cerebral! A pressão de perfusão cerebral é um dos principais determinados do fluxo sanguíneo cerebral, ou seja, o quando de oxigênio que de fato chega aos tecidos. O fluxo sanguíneo cerebral é a divisão da pressão de perfusão pela resistência vascular cerebral. Visualize as fórmulas abaixo: PPC= PAM – PIC FSC= PPC/RVC Agora, vamos raciocinar juntos. O parâmetro principal a ser garantido é o fluxo sanguíneo cerebral, certo? Sendo assim, vamos pensar em cada parâmetro. Se a PPC cai, tendemos a piorar o FSC, sendo assim, PAM muito baixa ou PIC muito alta é ruim para a irrigação cerebral! Já em relação à RVC, reflete o quanti dilatada está a artéria intracraniana, de modo que existem mecanismos fisiológicos de controle que consegue aumentar a resistência (fazer vasoconstricção intracraniana) ou diminuir a resistência (fazer vasodilatação intracraniana). Dessa forma, mesmo que com variações da PPC, é possível auto regular o fluxo sanguíneo cerebral ao regular a resistência! No entanto, há um limite para essa regulação e a partir de determinados pontos de PPC, o fluxo sanguíneo cerebral poderá cair a níveis inaceitáveis, levando à isquemia, ou subir de forma tão agressiva que promove edema cerebral. Em uma situação de hipertensão intracraniana, o impacto final será a diminuição da PPC, certo? O organismo irá regular a RVC para garantir o fluxo, contudo, vamos pensar apenas na PPC, ok? Se a PIC sobe, a primeira coisa que deve ser garantida é uma PAM adequada! Logo depois, pensamos em reduzir a PIC. Para isso, além de garantir neuroproteção (sedação profunda e adequada, evitar hipertermia, evitar distúrbios hidroeletrolíticos), algumas medidas podem ser utilizadas: 1- Elevação da cabeceira a 30 graus e garantir sedação adequada se o paciente estiver intubado. 2- Se estivermos diante de um paciente sem monitorização invasiva da pressão intracraniana, o próximo passo será a infusão de solução hipertônica e, alternativamente, a hiperventilação. Já no paciente com monitorização da pressão intracraniana com cateter intraventricular é muito mais fácil! Basta abrir o sistema de monitorização e drenar “um pouco” de LCR. 3- Em relação às soluções hipertônicas, as opções são o manitol: solução a 20% sendo administrado 1g/kg em bolus, podendo se repetir até 0,5 g/kg em média após 6 a 8 horas. E solução salina, variando de uma concentração de 3 a 20%. Uma solução frequentemente utilizada é a de 250 ml de salina 7,5%. Existe alguma solução melhor entre a salina e o manitol? Em linhas gerais, não. Entretanto, em pacientes hipotensos, o manitol não poderá ser utilizado! É uma pegadinha frequente em provas! Ao mesmo tempo, em pacientes com hipernatremia (Na >155 mE1/L), o manitol, caso possível, é preferível. 4- Em relação à hiperventilação, o objetivo é gerar vasoconstricção cerebral o que, de fato, reduz a pressão intracraniana à medida que diminui o volume dos compartimentos venoso e arterial, entretanto, expõe o parênquima ao risco de isquemia! Por isso, deve ser uma medida de exceção e sempre por curto período, por exemplo, em um paciente chocado e hipernatrêmico a caminho do centro cirúrgico para a abordagem de uma lesão causadora da hipertensão intracraniana. Fora desse cenário, a Pco2 deve ser mantida dentro dos valores de normalidade. 5- Nos pacientes sem resposta às medidas acima, os próximos passos incluirão, após de ter reassegurado o aprofundamento da sedação do paciente (objetivando escala RASS = -5),o uso de medidas heroicas como o coma barbitúrico, a craniectomia descompressiva e a hipotermia terapêutica. Vamos às alternativas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6532,7 +6592,7 @@
       },
       "correta": "A",
       "explicacao": "Drenagem endoscópica transgástrica Estrategista, A paciente teve um quadro de pancreatite aguda, provavelmente de origem biliar, e agora retorna 30 dias após a altacom náuseas e vômitos pós-prandiais persistentes. Esses sintomas sugerem uma complicação pós-pancreatite, sendo uma das principais hipóteses a coleção pancreática organizada (pseudocisto pancreático). O exame de imagem revelou um pseudocisto pós-pancreatite que mantém íntima relação com a parede do estômago. O tratamento depende do tamanho da lesão, da presença de sintomas e da melhor via de drenagem. A imagem demonstra um corte coronal do abdome com contraste endovenoso onde vemos uma coleção bem delimitada, homogênea, apresentando uma calcificação periférica, localizada na cauda do pâncreas (seta vermelha) apresentando íntimo contato com o estômago (seta laranja). Nesse caso, a melhor via de drenagem é endoscópica em virtude da proximidade com o pseudocisto.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6558,7 +6618,7 @@
       },
       "correta": "C",
       "explicacao": "pré-eclâmpsia grave. Chamamos de iminência de eclâmpsia os sinais clínicos que precedem a eclâmpsia, são eles: cefaleia frontal ou occipital persistente, turvação visual, escotomas, fotofobia, alteração do estado mental, hiperreflexia e epigastralgia. A conduta diante de um quadro de iminência de eclâmpsia é estabilizar hemodinamicamente a paciente e aplicar sulfato de magnésio a fim de prevenir convulsões. Além disso, deve-se controlar a hipertensão arterial grave (a partir de 160x110mmHg) para prevenir falência cardíaca, infarto agudo do miocárdio e acidente vascular cerebral isquêmico e hemorrágico. O objetivo do uso do anti-hipertensivo é manter a PA entre 140-150/90- 100mmHg. As medicações de escolha para o controle da hipertensão arterial grave na gestação são a hidralazina e a nifedipina. A resolução da gestação está indicada nos casos de iminência de eclâmpsia refratária ao tratamento, independente da idade gestacional. A via de parto preferencial é a via vaginal, sendo indicado a indução do parto. Caso a paciente apresente melhora dos sintomas após o tratamento deve-se tentar manter a gestação com controle rigoroso materno e fetal. O uso de corticoide deve ser feito antes de 34 semanas nos casos em que não há indicação de resolução da gestação.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6581,7 +6641,7 @@
       },
       "correta": "B",
       "explicacao": "Fibrose pulmonar idiopática Gabarito: alternativa B (Fibrose pulmonar idiopática). A fibrose pulmonar idiopática (FPI) é uma doença pulmonar intersticial crônica, progressiva e de etiologia desconhecida, caracterizada por um padrão histopatológico e radiológico de pneumonia intersticial usual (PIU). Afeta predominantemente adultos acima dos 60 anos e está associada a um prognóstico reservado, com sobrevida média de três a cinco anos após o diagnóstico. A fisiopatologia envolve um processo aberrante de reparo tecidual, levando à deposição excessiva de colágeno e à destruição progressiva da arquitetura pulmonar. O diagnóstico é baseado na associação entre a clínica, os achados tomográficos e, em alguns casos, a biópsia pulmonar. No quadro clínico, os pacientes apresentam dispneia progressiva, tosse seca persistente, fadiga e, em estágios avançados, hipoxemia e baqueteamento digital. Ao exame físico, são típicos os estertores crepitantes finos em bases pulmonares, descritos como “velcro”. A tomografia computadorizada de alta resolução (TCAR) é fundamental para o diagnóstico e revela o padrão característico de pneumonia intersticial usual, com opacidades reticulares subpleurais bilaterais, faveolamento (honeycombing) e ausência de achados sugestivos de outras doenças intersticiais.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6606,7 +6666,7 @@
       },
       "correta": "C",
       "explicacao": "Administrar AAS, clopidogrel, heparina e encaminhar para angioplastia primária. Estrategista, A dor torácica é o principal sintoma que motiva a investigação diagnóstica de uma possível síndrome coronariana aguda. As características de uma dor torácica tipicamente anginosa são: dor retroesternal em aperto com irradiação para membro superior esquerdo ou mandíbula, precipitada por esforços e aliviada por repouso ou nitrato. Quanto maior o número de características, mais sugestivo é o quadro. O próximo passo é a realização do eletrocardiograma em até 10 minutos visando a identificação de alterações eletrocardiográficas que podem demandar conduta imediata (presença de supradesnivelamento do segmento ST). Nos pacientes sem supradesnivelamento, a dosagem sérica dos marcadores de necrose miocárdica (preferencialmente troponina) irá determinar a presença de infarto agudo do miocárdio. No paciente da questão, temos uma paciente com dor torácica recorrente e de longa duração. O ECG revela supradesnivelamento do segmento ST em parede inferior (DII, DIII e aVF). Diante de um paciente com IAMCSST, onde observamos oclusão do vaso, a desobstrução deve ser realizada o mais rápido possível visando salvar o máximo de tecido miocárdico. A preferência será sempre pela angioplastia primária. No entanto, nas primeiras horas de infarto, os fibrinolíticos também têm boa eficácia. Atenção! Antes de utilizar os fibrinolíticos devemos ficar atentos às contraindicações. Além disso, devemos administrar AAS + um segundo antiplaquetário (inibidor da P2Y12) e heparina. A estratégia antitrombótica vai mudar de acordo com a estratégia de reperfusão: · Nos pacientes que irão fazer angioplastia: podemos usar todos antiplaquetários, mas a diretriz prioriza o uso do Ticagrelor e Prasugrel, deixando o clopidogrel para os pacientes que não podem utilizar as drogas anteriores. Nesses pacientes, preferimos o uso de heparina não fracionada na sala de hemodinâmica. Após a angioplastia, podemos suspender a anticoagulação plena. · Nos pacientes que irão fazer trombólise: podemos usar apenas o clopidogrel (associado ao AAS). Quanto à anticoagulação, é recomendado fazer enoxaparina 30mg intravenosa em bolus. A heparina não fracionada também pode ser utilizada, mas não é o tratamento preferencial. Em idosos (>75 anos), não fazemos essa dose venosa nem fazemos dose de ataque de clopidogrel. Vamos ver as alternativas:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6629,7 +6689,7 @@
       },
       "correta": "D",
       "explicacao": "O agente etiológico é um paramixovírus. GABARITO D Olá, Estrategista, temos aqui: Febre elevada Tosse seca Prostração Exantema morbiliforme de início retroauricular Conjuntivite O diagnóstico é de sarampo. Vamos relembrar? O sarampo é uma doença viral, altamente contagiosa, potencialmente grave, imunoprevenível, causada por um RNA vírus pertencente ao gênero Morbillivirus, família Paramyxoviridae e transmitida por aerossóis. O sarampo começa com pródromos que duram de 3 a 4 dias, acompanhado de algumas manifestações. Confira as mais comuns: - Febre alta que atinge o auge no aparecimento do exantema e melhora gradativamente. - Coriza hialina. - Conjuntivite não purulenta, com lacrimejamento e fotofobia. - Prostração intensa. - Tosse seca e constante. - Adenomegalia cervical posterior. - Manchas de Koplik: Patognomônico do sarampo. Pequenos pontos na mucosa oral (com cerca de 1mm), amarelados/esbranquiçados, na altura do terceiro molar, que surgem um a dois dias antes do exantema. Após o pródromo, há o surgimento do exantema, com isso, o paciente tem aspecto toxemiado, com importante queda do estado geral e piora dos sintomas iniciais. Veja as características do exantema do sarampo: - EXANTEMA MACULOPAPULAR GENERALIZADO. - INICIA RETROAURICULAR. - PROGRESSÃO CEFALOCAUDAL. - PODE CONFLUIR. O exantema começa a desaparecer no terceiro ou quarto dia após seu surgimento e pode deixar manchas acastanhadas. A principal complicação e maior causa de óbito é a pneumonia, que pode ser causada pelo próprio vírus, o que é mais comum, ou por infecção bacteriana oportunista. A otite média aguda é a principal complicação bacteriana e a panencefalite esclerosante subaguda, a mais grave. Não há tratamento específico. Recomenda-se utilizar a vitamina A, por via oral, em duas doses, para redução da duração, complicações e da morbimortalidade, principalmente a cegueira. Como profilaxia, temos vacina. A primeira dose da vacina é feita aos 12 meses dentro da tríplice viral (sarampo, caxumba e rubéola). A segunda dose, aos 15 meses na tetra viral (sarampo, caxumba, rubéola e varicela). O esquema completo é de duas doses para pacientes dos 12 meses até os 29 anos e de dose única dos 30 aos 59 anos. Vamos às alternativas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6654,7 +6714,7 @@
       },
       "correta": "B",
       "explicacao": "por máculas ou placas vermelhas na pele, com áreas de pele sã entre as lesões. GABARITO C Olá, Estrategista, temos aqui: Febre elevada Tosse seca Prostração Exantema morbiliforme de início retroauricular Conjuntivite O diagnóstico é de sarampo. Vamos relembrar? O sarampo é uma doença viral, altamente contagiosa, potencialmente grave, imunoprevenível, causada por um RNA vírus pertencente ao gênero Morbillivirus, família Paramyxoviridae e transmitida por aerossóis. O sarampo começa com pródromos que duram de 3 a 4 dias, acompanhado de algumas manifestações. Confira as mais comuns: - Febre alta que atinge o auge no aparecimento do exantema e melhora gradativamente. - Coriza hialina. - Conjuntivite não purulenta, com lacrimejamento e fotofobia. - Prostração intensa. - Tosse seca e constante. - Adenomegalia cervical posterior. - Manchas de Koplik: Patognomônico do sarampo. Pequenos pontos na mucosa oral (com cerca de 1mm), amarelados/esbranquiçados, na altura do terceiro molar, que surgem um a dois dias antes do exantema. Após o pródromo, há o surgimento do exantema, com isso, o paciente tem aspecto toxemiado, com importante queda do estado geral e piora dos sintomas iniciais. Veja as características do exantema do sarampo: - EXANTEMA MACULOPAPULAR GENERALIZADO. - INICIA RETROAURICULAR. - PROGRESSÃO CEFALOCAUDAL. - PODE CONFLUIR. O exantema começa a desaparecer no terceiro ou quarto dia após seu surgimento e pode deixar manchas acastanhadas. A principal complicação e maior causa de óbito é a pneumonia, que pode ser causada pelo próprio vírus, o que é mais comum, ou por infecção bacteriana oportunista. A otite média aguda é a principal complicação bacteriana e a panencefalite esclerosante subaguda, a mais grave. Não há tratamento específico. Recomenda-se utilizar a vitamina A, por via oral, em duas doses, para redução da duração, complicações e da morbimortalidade, principalmente a cegueira. Como profilaxia, temos vacina. A primeira dose da vacina é feita aos 12 meses dentro da tríplice viral (sarampo, caxumba e rubéola). A segunda dose, aos 15 meses na tetra viral (sarampo, caxumba, rubéola e varicela). O esquema completo é de duas doses para pacientes dos 12 meses até os 29 anos e de dose única dos 30 aos 59 anos. Vamos voltar ao que foi pedido? O exantema morbiliforme é identificado como pequenas maculás ou pápulas eritematosas, avermelhadas, lenticulares ou numulares, permeadas por pele sã, podendo confluir.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6679,7 +6739,7 @@
       },
       "correta": "C",
       "explicacao": "otite média, que é a principal complicação bacteriana. GABARITO C Olá, Estrategista, temos aqui: Febre elevada Tosse seca Prostração Exantema morbiliforme de início retroauricular Conjuntivite O diagnóstico é de sarampo. Vamos relembrar? O sarampo é uma doença viral, altamente contagiosa, potencialmente grave, imunoprevenível, causada por um RNA vírus pertencente ao gênero Morbillivirus, família Paramyxoviridae e transmitida por aerossóis. O sarampo começa com pródromos que duram de 3 a 4 dias, acompanhado de algumas manifestações. Confira as mais comuns: - Febre alta que atinge o auge no aparecimento do exantema e melhora gradativamente. - Coriza hialina. - Conjuntivite não purulenta, com lacrimejamento e fotofobia. - Prostração intensa. - Tosse seca e constante. - Adenomegalia cervical posterior. - Manchas de Koplik: Patognomônico do sarampo. Pequenos pontos na mucosa oral (com cerca de 1mm), amarelados/esbranquiçados, na altura do terceiro molar, que surgem um a dois dias antes do exantema. Após o pródromo, há o surgimento do exantema, com isso, o paciente tem aspecto toxemiado, com importante queda do estado geral e piora dos sintomas iniciais. Veja as características do exantema do sarampo: - EXANTEMA MACULOPAPULAR GENERALIZADO. - INICIA RETROAURICULAR. - PROGRESSÃO CEFALOCAUDAL. - PODE CONFLUIR. O exantema começa a desaparecer no terceiro ou quarto dia após seu surgimento e pode deixar manchas acastanhadas. A principal complicação e maior causa de óbito é a pneumonia, que pode ser causada pelo próprio vírus, o que é mais comum, ou por infecção bacteriana oportunista. A otite média aguda é a principal complicação bacteriana e a panencefalite esclerosante subaguda, a mais grave. Não há tratamento específico. Recomenda-se utilizar a vitamina A, por via oral, em duas doses, para redução da duração, complicações e da morbimortalidade, principalmente a cegueira. Como profilaxia, temos vacina. A primeira dose da vacina é feita aos 12 meses dentro da tríplice viral (sarampo, caxumba e rubéola). A segunda dose, aos 15 meses na tetra viral (sarampo, caxumba, rubéola e varicela). O esquema completo é de duas doses para pacientes dos 12 meses até os 29 anos e de dose única dos 30 aos 59 anos. Vamos às alternativas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6705,7 +6765,7 @@
       },
       "correta": "D",
       "explicacao": "A miomectomia histeroscópica deve ser o procedimento de escolha diante de um mioma com classificação FIGO 1, como o mencionado. Estrategista, esta é uma questão sobre a classificação dos miomas pela FIGO. Veja o esquema abaixo: Esta paciente tem um mioma com menos de 50% da superfície em tecido miometrial. Ou seja, trata-se de um mioma submucoso FIGO 1. A tabela abaixo mostra a via de ressecção dos miomas (miomectomia) de acordo com o seu tipo: Agora vamos analisar as alternativas:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6732,7 +6792,7 @@
       },
       "correta": "D",
       "explicacao": "Bexiga hiperativa molhada O diagnóstico da bexiga hiperativa é clínico e deve ser realizado a partir da sintomatologia da paciente. A constatação de urgência miccional é o sintoma definidor da síndrome, devendo estar presente. Os quadros clínicos apresentam pacientes com urgência, noctúria e aumento de frequência urinária. A investigação sobre os antecedentes pessoais é fundamental para avaliar se existe uma incontinência secundária a uma doença ou ao uso de medicamentos. A infecção de trato urinário e os cálculos podem simular os sintomas da incontinência urinária de urgência. Por isso, a realização de uma análise da urina com cultura e sumário urinário é fundamental na investigação desses casos. Outros exames podem ser empregados na avaliação complementar dos casos em que há suspeição de patologia associada.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6757,7 +6817,7 @@
       },
       "correta": "B",
       "explicacao": "Modificação do estilo de vida O tratamento conservador é a primeira linha de tratamento para a incontinência urinária de urgência, segundo a Sociedade Internacional de Continência. As opções de tratamento incluem medidas comportamentais e fisioterapia. O tratamento comportamental visa promover mudanças de hábito que diminuam os sintomas da paciente. Dentre as medidas estão: adequação da ingesta hídrica, mudanças alimentares, perda de peso, treinamento vesical e educação sobre o funcionamento do trato urinário. A redução de 25% na ingesta hídrica reduz significativamente os episódios de urgência, a frequência urinária e a noctúria. Outro ponto importante é a redução na ingesta de determinados alimentos, sobretudo os que contêm cafeína, pois promovem aumento de atividade do detrusor. A perda de peso tem impacto direto na diminuição da pressão abdominal, reduzindo os episódios de incontinência. O treinamento vesical é a medida comportamental mais efetiva no tratamento da bexiga hiperativa. Ele consiste em fazer a paciente adquirir controle sobre o reflexo da micção, através da micção programada. A taxa de sucesso está em torno de 80% em curto prazo.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6780,7 +6840,7 @@
       },
       "correta": "D",
       "explicacao": "Na refratariedade aos tratamentos de segunda linha O estudo urodinâmico é o exame mais cobrado nas provas de residência. É fundamental que você saiba interpretá-lo. Ele permite reproduzir sintomas e realizar medições precisas que auxiliam no diagnóstico etiológico da incontinência urinária. É importante lembrar que não deve ser realizado de rotina, tendo indicações claras. As principais indicações do exame são: • falha de tratamento conservador prévio • avaliação antes da realização de tratamento cirúrgico • sintomatologia mista. Apesar de não ser obrigatório, sobretudo nos casos de incontinência urinária de urgência, ele pode trazer informações relevantes nos casos de incontinência urinária aos esforços ou mista, podendo até modificar o tratamento planejado.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6803,7 +6863,7 @@
       },
       "correta": "B",
       "explicacao": "Síndrome do intestino irritável Estrategista, a paciente apresenta dor abdominal difusa associada à constipação, sem sinais de gravidade (FC, FR e SatO₂ normais). Além disso, tem histórico de depressão, o que é um fator de risco para síndrome do intestino irritável (SII), um distúrbio funcional caracterizado por dor abdominal crônica associada a alterações no hábito intestinal (diarreia, constipação ou ambos). A SII é frequentemente diagnosticada por exclusão, pois não há alterações estruturais no intestino, e seu curso está relacionado ao estresse e a distúrbios emocionais.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -6826,7 +6886,7 @@
       },
       "correta": "C",
       "explicacao": "Realizar angiografia para avaliação de obstrução arterial. QUESTÃO ANULADA Estamos diante de um paciente idoso, com fatores de risco para aterosesclerose, apresentando dor no MIE, com palidez e cianose no pé esquerdo e ausência de pulsos distais. Quadro clínico muito sugestivo de oclusão arterial crônica (OAC).",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",

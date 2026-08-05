@@ -20,7 +20,8 @@
       "_edicao": "1",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cardiopatias congênitas acianóticas"
+      "sub_subarea": "Cardiopatias congênitas acianóticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-006",
@@ -41,7 +42,8 @@
       "_edicao": "1",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Doenças Exantemáticas"
+      "sub_subarea": "Doenças Exantemáticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-011",
@@ -62,7 +64,8 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-018",
@@ -85,7 +88,8 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Prematuridade e baixo peso"
+      "sub_subarea": "Prematuridade e baixo peso",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-025",
@@ -109,7 +113,8 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-030",
@@ -133,7 +138,8 @@
       "_edicao": "1",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Doenças exantemáticas"
+      "sub_subarea": "Doenças exantemáticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-034",
@@ -156,7 +162,8 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-040",
@@ -179,7 +186,8 @@
       "_edicao": "1",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cardiopatias congênitas cianóticas"
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-045",
@@ -200,7 +208,8 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-051",
@@ -221,7 +230,8 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Reanimação neonatal"
+      "sub_subarea": "Reanimação neonatal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-056",
@@ -244,7 +254,8 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-061",
@@ -265,7 +276,8 @@
       "_edicao": "1",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Bronquiolite aguda"
+      "sub_subarea": "Bronquiolite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-066",
@@ -285,7 +297,8 @@
       "_simulado": "1-simulado",
       "_edicao": "1",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-073",
@@ -309,7 +322,8 @@
       "_edicao": "1",
       "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Diarreia aguda e crônica"
+      "sub_subarea": "Diarreia aguda e crônica",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-077",
@@ -330,7 +344,8 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-081",
@@ -351,7 +366,8 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Prematuridade e baixo peso"
+      "sub_subarea": "Prematuridade e baixo peso",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-085",
@@ -374,7 +390,8 @@
       "_edicao": "1",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-091",
@@ -395,7 +412,8 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-096",
@@ -416,7 +434,8 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s1-099",
@@ -437,7 +456,8 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Prematuridade e baixo peso"
+      "sub_subarea": "Prematuridade e baixo peso",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-002",
@@ -460,7 +480,8 @@
       "_edicao": "11",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-005",
@@ -481,7 +502,8 @@
       "_edicao": "11",
       "subarea": "Emergências Pediátricas",
       "_area_slug": "pediatria",
-      "sub_subarea": "Choque na criança"
+      "sub_subarea": "Choque na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-013",
@@ -502,7 +524,8 @@
       "_edicao": "11",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento materno e artificial"
+      "sub_subarea": "Aleitamento materno e artificial",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-018",
@@ -523,7 +546,8 @@
       "_edicao": "11",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Reanimação neonatal"
+      "sub_subarea": "Reanimação neonatal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-019",
@@ -546,7 +570,8 @@
       "_edicao": "11",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-028",
@@ -567,7 +592,8 @@
       "_edicao": "11",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-035",
@@ -588,7 +614,8 @@
       "_edicao": "11",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-040",
@@ -612,7 +639,8 @@
       "_edicao": "11",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cardiopatias congênitas cianóticas"
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-046",
@@ -635,7 +663,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-050",
@@ -657,7 +686,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-055",
@@ -679,7 +709,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-062",
@@ -699,7 +730,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-064",
@@ -720,7 +752,8 @@
       "_edicao": "11",
       "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Dor abdominal recorrente"
+      "sub_subarea": "Dor abdominal recorrente",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-066",
@@ -741,7 +774,8 @@
       "_edicao": "11",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento materno e artificial"
+      "sub_subarea": "Aleitamento materno e artificial",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-069",
@@ -762,7 +796,8 @@
       "_edicao": "11",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Meningites na criança"
+      "sub_subarea": "Meningites na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-081",
@@ -782,7 +817,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-083",
@@ -802,7 +838,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-091",
@@ -823,7 +860,8 @@
       "_edicao": "11",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cardiopatias congênitas cianóticas"
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-095",
@@ -843,7 +881,8 @@
       "_simulado": "11-simulado",
       "_edicao": "11",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s11-097",
@@ -864,7 +903,8 @@
       "_edicao": "11",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Bronquiolite aguda"
+      "sub_subarea": "Bronquiolite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-008",
@@ -886,7 +926,8 @@
       "_edicao": "14",
       "subarea": "Hematologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Anemias na criança (ferropriva, falciforme)"
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-012",
@@ -907,7 +948,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-016",
@@ -934,7 +976,8 @@
       "_edicao": "14",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-019",
@@ -955,7 +998,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-020",
@@ -974,7 +1018,8 @@
       "_edicao": "14",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Doenças exantemáticas"
+      "sub_subarea": "Doenças exantemáticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-024",
@@ -992,7 +1037,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-031",
@@ -1016,7 +1062,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-055",
@@ -1041,7 +1088,8 @@
       "_edicao": "14",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento materno e artificial"
+      "sub_subarea": "Aleitamento materno e artificial",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-060",
@@ -1061,7 +1109,8 @@
       "_edicao": "14",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cardiopatias congênitas acianóticas"
+      "sub_subarea": "Cardiopatias congênitas acianóticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-061",
@@ -1082,7 +1131,8 @@
       "_simulado": "14-simulado",
       "_edicao": "14",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-066",
@@ -1101,7 +1151,8 @@
       "_edicao": "14",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-071",
@@ -1128,7 +1179,8 @@
       "_edicao": "14",
       "subarea": "Reumatologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Febre reumática"
+      "sub_subarea": "Febre reumática",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-076",
@@ -1154,7 +1206,8 @@
       "_edicao": "14",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-081",
@@ -1173,7 +1226,8 @@
       "_edicao": "14",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-082",
@@ -1192,7 +1246,8 @@
       "_edicao": "14",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Incompatibilidade Rh/ABO"
+      "sub_subarea": "Incompatibilidade Rh/ABO",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s14-093",
@@ -1214,7 +1269,8 @@
       "sub_subarea": "Aleitamento materno e artificial",
       "imagens": [
         "data/simulados/imgs/14-simulado/q93_img1.jpeg"
-      ]
+      ],
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-002",
@@ -1235,7 +1291,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-008",
@@ -1258,7 +1315,8 @@
       "_edicao": "3",
       "subarea": "Hematologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Anemias na criança (ferropriva, falciforme)"
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-013",
@@ -1279,7 +1337,8 @@
       "_edicao": "3",
       "subarea": "Hematologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": ""
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-020",
@@ -1300,7 +1359,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-024",
@@ -1321,7 +1381,8 @@
       "_edicao": "3",
       "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Dor abdominal recorrente"
+      "sub_subarea": "Dor abdominal recorrente",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-032",
@@ -1345,7 +1406,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-037",
@@ -1365,7 +1427,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-043",
@@ -1390,7 +1453,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-049",
@@ -1411,7 +1475,8 @@
       "_edicao": "3",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-055",
@@ -1434,7 +1499,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-061",
@@ -1458,7 +1524,8 @@
       "_edicao": "3",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Doenças exantemáticas"
+      "sub_subarea": "Doenças exantemáticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-066",
@@ -1483,7 +1550,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-072",
@@ -1503,7 +1571,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-078",
@@ -1526,7 +1595,8 @@
       "_edicao": "3",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-083",
@@ -1548,7 +1618,8 @@
       "_simulado": "3-simulado",
       "_edicao": "3",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-087",
@@ -1569,7 +1640,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-091",
@@ -1590,7 +1662,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento materno e artificial"
+      "sub_subarea": "Aleitamento materno e artificial",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-095",
@@ -1614,7 +1687,8 @@
       "_edicao": "3",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-097",
@@ -1635,7 +1709,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s3-100",
@@ -1661,7 +1736,8 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-007",
@@ -1682,7 +1758,8 @@
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-010",
@@ -1706,7 +1783,8 @@
       "_edicao": "5",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Icterícia neonatal"
+      "sub_subarea": "Icterícia neonatal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-012",
@@ -1729,7 +1807,8 @@
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cardiopatias congênitas acianóticas"
+      "sub_subarea": "Cardiopatias congênitas acianóticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-025",
@@ -1752,7 +1831,8 @@
       "_edicao": "5",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Icterícia neonatal"
+      "sub_subarea": "Icterícia neonatal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-040",
@@ -1773,7 +1853,8 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento materno e artificial"
+      "sub_subarea": "Aleitamento materno e artificial",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-045",
@@ -1797,7 +1878,8 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-048",
@@ -1818,7 +1900,8 @@
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-051",
@@ -1842,7 +1925,8 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Exames de triagem neonatal"
+      "sub_subarea": "Exames de triagem neonatal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-053",
@@ -1863,7 +1947,8 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-056",
@@ -1886,7 +1971,8 @@
       "_edicao": "5",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Bronquiolite aguda"
+      "sub_subarea": "Bronquiolite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-062",
@@ -1907,7 +1993,8 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-066",
@@ -1928,7 +2015,8 @@
       "_edicao": "5",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Bronquiolite aguda"
+      "sub_subarea": "Bronquiolite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-069",
@@ -1951,7 +2039,8 @@
       "_edicao": "5",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cardiopatias congênitas cianóticas"
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-078",
@@ -1972,7 +2061,8 @@
       "_edicao": "5",
       "subarea": "Nefrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência renal aguda na criança"
+      "sub_subarea": "Insuficiência renal aguda na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-080",
@@ -1993,7 +2083,8 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-089",
@@ -2016,7 +2107,8 @@
       "_edicao": "5",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Prematuridade e baixo peso"
+      "sub_subarea": "Prematuridade e baixo peso",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-091",
@@ -2037,7 +2129,8 @@
       "_edicao": "5",
       "subarea": "Hematologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Púrpura e trombocitopenia"
+      "sub_subarea": "Púrpura e trombocitopenia",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-093",
@@ -2057,7 +2150,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s5-097",
@@ -2077,7 +2171,8 @@
       "_simulado": "5-simulado",
       "_edicao": "5",
       "subarea": "Maus tratos",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-007",
@@ -2097,7 +2192,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-010",
@@ -2120,7 +2216,8 @@
       "_edicao": "9",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Distúrbios respiratórios do RN (SDR, SAM)"
+      "sub_subarea": "Distúrbios respiratórios do RN (SDR, SAM)",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-020",
@@ -2141,7 +2238,8 @@
       "_edicao": "9",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-026",
@@ -2162,7 +2260,8 @@
       "_edicao": "9",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Reanimação neonatal"
+      "sub_subarea": "Reanimação neonatal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-038",
@@ -2183,7 +2282,8 @@
       "_edicao": "9",
       "subarea": "Reumatologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Febre reumática"
+      "sub_subarea": "Febre reumática",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-039",
@@ -2206,7 +2306,8 @@
       "_edicao": "9",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Doenças exantemáticas"
+      "sub_subarea": "Doenças exantemáticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-041",
@@ -2230,7 +2331,8 @@
       "_edicao": "9",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-047",
@@ -2251,7 +2353,8 @@
       "_edicao": "9",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Doenças exantemáticas"
+      "sub_subarea": "Doenças exantemáticas",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-053",
@@ -2281,7 +2384,8 @@
       "_edicao": "9",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-057",
@@ -2302,7 +2406,8 @@
       "_edicao": "9",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Reanimação neonatal"
+      "sub_subarea": "Reanimação neonatal",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-062",
@@ -2328,7 +2433,8 @@
       "_edicao": "9",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento materno e artificial"
+      "sub_subarea": "Aleitamento materno e artificial",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-068",
@@ -2350,7 +2456,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-076",
@@ -2374,7 +2481,8 @@
       "_simulado": "9-simulado",
       "_edicao": "9",
       "subarea": "",
-      "_area_slug": "pediatria"
+      "_area_slug": "pediatria",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-080",
@@ -2402,7 +2510,8 @@
       "_edicao": "9",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Bronquiolite aguda"
+      "sub_subarea": "Bronquiolite aguda",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-086",
@@ -2433,7 +2542,8 @@
       "_edicao": "9",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Crescimento e desenvolvimento"
+      "sub_subarea": "Crescimento e desenvolvimento",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "s9-100",
@@ -2461,7 +2571,8 @@
       "_edicao": "9",
       "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Insuficiência cardíaca na criança"
+      "sub_subarea": "Insuficiência cardíaca na criança",
+      "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "pv-ena-2024-0001",
@@ -3144,7 +3255,7 @@
       },
       "correta": "C",
       "explicacao": "a policitemia pode causar desconforto respiratório e cianose em casos mais graves, ocorrendo, com maior frequência, em filhos de mãe diabética. Olá, Estrategista. As mães diabéticas, principalmente as mal controladas, tendem a apresentar mais complicações fetais, como abortos, óbitos fetais ou patologia peri/neonatais. O principal distúrbio é a hipoglicemia neonatal, devido à hiperinsulinemia fetal. A hipocalcemia é o segundo distúrbio mais frequente dos bebês nascidos de mães diabéticas. Mas não é só isso! No período fetal, especialmente no primeiro trimestre, a glicose age como fator de estímulo ao crescimento e desenvolvimento dos órgãos. A hiperglicemia então pode levar ao crescimento excessivo, gerando bebês macrossômicos ou grandes para a idade gestacional. Aqueles bebês que vemos nas notícias nascendo com quatro, cinco quilos provavelmente são filhos de mães diabéticas mal controladas. RNs grandes podem sofrer tocotraumatismos por dificuldade na extração na hora do parto. O crescimento desenfreado também pode ser teratogênico, e levar a malformações, principalmente cardíacas, como a cardiomegalia e a hipertrofia septal. Já a hiperinsulinemia fetal aumenta o metabolismo e o consumo de oxigênio, elevando o número de hemácias, sendo assim, esses bebês, ao nascer, tendem a apresentar policitemia e consequentemente, hiperbilirrubinemia neonatal. Por fim, ela pode causar atraso na produção de surfactante e a síndrome da angústia respiratória do neonato. Vamos às alternativas",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3172,7 +3283,7 @@
       },
       "correta": "C",
       "explicacao": "Instalar fototerapia com irradiância de 30mW/cm²/nm. Estrategista, temos aqui: - RN de 39 semanas - Icterícia zona 4 com 36h de vida - O negativo/ RN A positivo = risco de incompatibilidade Rh e/ou ABO - BT 12,5mg/dL O examinador traz o gráfico de fototerapia e (na maior maldade, sem a legenda) solicita a conduta. A primeira coisa é identificar que linha vamos seguir, vamos relembrar a legenda do gráfico. Aqui, temos um RN de 39 semanas com fator de risco, portanto seguiremos a linha de risco intermediário. Agora, vamos checar a interseção entre as horas de vida e bilirrubina total para esse RN. Repare que estamos acima da linha de risco intermediário e, sempre que a interseção está acima da linha indicada para o RN, iniciamos ou mantemos a fototerapia. Essa é a conduta indicada para o nosso bebê.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3201,7 +3312,7 @@
       },
       "correta": "C",
       "explicacao": "Acantose nigricans; resistência insulínica; sobrepeso Olá coruja, Antes de começarmos, vamos realizar a classificação nutricional dessa criança. De acordo com o gráfico fornecido, vemos que seu IMC se encontra entre o escore Z +1 e +2, observe: Concluímos que essa criança apresenta sobrepeso. Agora, vamos resumir os principais dados do enunciado: -criança de 8 anos -erro alimentar com alta ingestão de ultraprocessados -encaminhamento ao serviço de nutrição, com resultados positivos -presença de acantose nigricans ao exame -sobrepeso. A acantose nigricans é encontrada na pele de pacientes obesos resistência insulínica. Suas principais características são manchas escuras resultantes de hiperqueratose e hiperpigmentação de aspecto áspero, verrucoso e aveludado, que se localizam em dobras e pregas da região do pescoço, axilas e virilha, podendo também afetar os pés, lábios e mãos. Esse sinal deve alertar o profissional de saúde quanto ao risco aumentado do desenvolvimento de diabetes melito tipo 2, devido ao hiperinsulinismo.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3229,7 +3340,7 @@
       },
       "correta": "A",
       "explicacao": "Manter sulfato ferroso 3mg/Kg/dia e zinco Fala, Coruja! Nesse enunciado temos um bebê prematuro que nasceu com peso de 1030g, que se encontra atualmente com 7 meses. Seu desenvolvimento neuropsicomotor é adequado para a idade corrigida e seu crescimento está adequado. A ideia é ajustar as profilaxias. Vamos lá? SUPLEMENTAÇÃO DE FERRO (SOCIEDADE BRASILEIRA DE PEDIATRIA) Sei que existe Programa Nacional de Suplementação de Ferro (PNSF, 2022) que sugere uma profilaxia diferente, mas boa parte das provas ainda se apoia na SBP em questões deste tema. Por isso, vamos focar no que a SBP traz aqui, beleza? Bora lá. Quando iniciar a suplementação de ferro? A profilaxia para anemia ferropriva deve ser universal até os 2 anos de idade, e você já deve ter percebido que podemos iniciar a profilaxia com ferro aos 30 dias, 90 dias (3 meses) e 180 dias (6 meses) de vida. O primeiro passo será definir isso! 1. Passo 1: veja a idade gestacional final da criança e peso ao nascimento Se a criança é prematura (< 37 semanas) ou nasceu com baixo peso (< 2,5 kg), o risco de ferropenia é maior. Por isso, a suplementação se iniciará aos 30 dias. 2. Passo 2: Se o bebê não é prematuro e nem baixo peso, avaliamos fatores de risco para ferropenia. Se ele for, pule para o passo 3. Os fatores de risco são razoavelmente intuitivos, né? Se o bebê não tem fatores de risco, iniciamos a suplementação de ferro com 6 meses.Se o bebê tem fatores de risco, iniciamos a suplementação de ferro com 3 meses. Uma coisa importante é que o início da suplementação pela SBP INDEPENDE DO REGIME DE ALEITAMENTO DA CRIANÇA (aleitamento materno exclusivo, misto ou fórmula infantil). A exceção seria consumo de leite de vaca in natura/diluído, que configura um fator de risco. 3. Passo 3: definir a dose do ferro. Note que a suplementação é mantida até os 2 anos de idade, e para os bebês prematuros e/ou baixo peso, a dose cai a partir do primeiro ano de vida. Essa dose é de ferro elementar, beleza? Exames na suplementação de ferro No entanto, solicitamos exames nas seguintes situações (SBP, 2021): RASTREIO laboratorial da deficiência de ferro, com ou sem anemia, aos 12 meses de vida para todas as crianças. Na SUSPEITA CLÍNICA de deficiência de ferro, especialmente se não estiver fazendo a profilaxia. Os exames que são inicialmente solicitados são: HEMOGRAMA com índices hematimétricos; PCR (avaliação de inflamação); Ferritina (avaliação de estoques de ferro). SUPLEMENTAÇÃO DE VITAMINA D (SOCIEDADE BRASILEIRA DE PEDIATRIA) A ideia da profilaxia com colecalciferol (vitamina D3) é prevenir o desenvolvimento de raquitismo.A profilaxia é universal, devendo ser iniciada ao nascimento e mantida até os 18 anos. SUPLEMENTAÇÃO DE ZINCO O zinco é oligoelemento fundamental nos processos fisiológicos que envolvem função imune e defesa antioxidante, além disso, influencia no crescimento e no desenvolvimento. A suplementação diária com zinco por seis meses melhora significativamente o crescimento, desenvolvimento cognitivo e motor em pacientes prematuros de muito baixo peso. Pelo Ministério da Saúde e pela Sociedade Brasileira de Pediatria, recomenda-se a suplementação de zinco na dose de 0,5-1 mg/kg/dia VO desde 36 semanas até 6 meses de idade corrigida. Mas saiba que existem variações na literatura. Voltando para o nosso bebê... Ele tem indicação de 3 mg/kg/dia de ferro elementar dos 30 dias até 12 meses, com reajuste para 1 mg/kg/dia dos 12 aos 24 meses. Há indicação de 400 UI/dia de vitamina D até 1 ano de idade, com reajuste para 600 UI/dia dos 12 meses até 18 anos. Há indicação de zinco 0,5-1 mg/kg/dia VO até 6 meses de idade corrigida. Vamos ver as alternativas?",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3259,7 +3370,7 @@
       },
       "correta": "C",
       "explicacao": "3-1-2 Correta a alternativa \"c\"",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3283,7 +3394,7 @@
       },
       "correta": "B",
       "explicacao": "todas as assertivas estão incorretas. Olá, Estrategista, o examinador traz uma criança de 4 anos, com desidratação que irá utilizar o plano B. Vamos relembrar. Ele consiste em administrar solução de reidratação oral (SRO) na unidade de atendimento. A quantidade administrada será guiada pela sede do paciente, devendo ser administrada até que os sinais de desidratação desapareçam. Orienta-se que o paciente tome no mínimo de 50 a 100mL/kg de SRO em um período de 4 a 6 horas. A criança deve ter sua alimentação suspensa durante a terapia de reidratação oral, EXCETO o aleitamento materno! Afinal, ele é um excelente líquido reidratante. A criança deve ser monitorada constantemente, ao final de 4 a 6 horas, há dois caminhos a seguir! Se a criança estiver hidratada, ela poderá ser liberada para casa com o Plano A de hidratação (SRO para casa). Se a desidratação persistir, está indicado iniciar hidratação por sonda. A qualquer momento, se ela evoluir para desidratação grave, iniciamos a hidratação venosa. Vamos analisar as afirmativas. I. Uso preferencial de soro de reidratação oral (SRO) com osmolaridade reduzida, ou seja, com 75 mMol/L de sódio, na Unidade de Saúde, com um volume de 25 a 50 ml/kg, em um intervalo de 2 a 4 horas. FALSO. O soro de reidratação oral (SRO), preconizado pela Organização Mundial da Saúde (OMS), é considerado um dos maiores aliados no combate e na prevenção à desidratação. Ele é distribuído gratuitamente nas Unidades de Saúde e deve ser diluído em água. A solução é padrão globalmente. Recomendação da OMS quanto à composição da SRO: • Osmolaridade total 245 mmol/L • Concentrações equimolares de glicose e sódio • Concentração de glicose 75 mmol/L • Concentração de sódio 75 mmol/L • Concentração de potássio 20 mmol/L • Concentração de citrato 10 mmol/L • Concentração de cloro 65 mmol/L No plano B, ele é dado, inicialmente, entre 50 a 100ml/kg, em um intervalo de 4 a 6 horas. II. Se essa criança desidratada, durante o tratamento com o Plano Terapêutico B, apresentar vômitos persistentes, o Pediatra deve manter o SRO, porém este deverá ser administrado por gastróclise. O uso de antieméticos na Pediatria não deve ser considerado devido aos seus efeitos colaterais. FALSO No plano B, caso haja persistência de vômitos, está indicado o uso de Ondasentrona, o único antiemético liberado. Se ainda sim, persistirem os vômitos, podemos administrar o SRO por gastróclise. III. Se a criança estiver com diarreia com sangue e comprometimento do estado geral, o uso de ciprofloxacino deverá ser a primeira opção ao invés de azitromicina. FALSO A antibioticoterapia é dispensável na maioria dos casos de diarreia, pois elas costumam ter origem viral. Mas, devemos pensar em agentes bacterianos e administrar antibióticos quando temos, de acordo com o Ministério da Saúde: Se apresentar sangue nas fezes e comprometimento do estado geral, conforme o quadro de avaliação do estado de hidratação do paciente e/ou febre alta persistente, dor abdominal, tenesmo ou comprometimento sistêmico. Os antibióticos de escolha são: - Crianças imunocompetentes de 3 meses a 10 anos ou 30 quilos. Azitromicina: 10 mg/kg/dia, via oral, no primeiro dia e 5 mg/kg/dia por mais 4 dias; Ceftriaxona: 50 mg/kg intramuscular 1 vez ao dia, por 3 a 5 dias, como alternativa. - Maiores de 30 quilos ou 10 anos. Ciprofloxacino: 1 comprimido de 500 mg de 12/12h, via oral, por 3 dias; Ceftriaxona: 50 a 100 mg/kg intramuscular 1 vez ao dia, por 3 a 5 dias, como alternativa. * Crianças menores de 3 meses ou criança com imunodeficiência: Internar e administrar Ceftriaxona: 50 a 100 mg/kg endovenosa 1 vez ao dia. Portanto, a indicação é guiada pela idade/peso e não pelas manifestações clínicas.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3307,7 +3418,7 @@
       },
       "correta": "E",
       "explicacao": "Febre maculosa brasileira Estrategista, uma questão bastante interessante sobre doenças exantemáticas febris. Vamos entender as peculiaridades desta. Nos é descrito um escolar de 8 anos com febre alta há 6 dias, com cefaléia e mialgia que iniciou há 3 com exantema iniciado em região de PULSOS e TORNOZELOS, com acometimento palmo-plantar (com posterior progressão para petéquias) e posterior progressão centrípeta. De dado epidemiológico, é mencionado que a criança esteve na casa dos avós em uma área rural do interior de São Paulo. A questão nos deu algumas dicas para pensarmos que o diagnóstico apresentado pela paciente é de febre maculosa brasileira. Vamos revisar os principais pontos sobre essa doença. A FMB é causada por bactérias denominadas riquétsias, sendo, assim, uma doença também chamada de riquetsiose. A principal espécie envolvida é a Rickettsia rickettsii, pequena bactéria intracelular Gram-negativa. Os carrapatos do gênero Amblyomma, conhecidos popularmente pelo nome “carrapato- estrela”, são os vetores e reservatórios mais comuns de R. rickettsii. Cavalos, capivaras e outros animais silvestres são picados por esse carrapato, sendo, assim, considerados amplificadores de riquétsias e transportadores de vetores. Como fatores de risco, podemos citar a exposição a carrapatos por meio do contato com animais de criação ou silvestres, ou com área de mata, cachoeira ou rios. A FMB ocorre em todas grandes regiões brasileiras, mas é mais comum no Sudeste e no Sul. Após um período de incubação que varia entre 2 e 14 dias, os sintomas iniciam de forma súbita. O quadro clínico costuma ser intenso, com febre elevada, mialgia, cefaleia, prostração, náuseas e vômitos. Entre o 2º e o 6º dia de doença, surge o exantema da FMB. Preste muita atenção em suas características, já que elas nos auxiliam a suspeitar desta doença. Inicialmente, o exantema é maculopapular e acomete punhos e tornozelos (pode atingir as regiões palmar e plantar também). O exantema expande-se da periferia ao centro (de forma centrípeta), abrangendo membros e tronco. Com a evolução da doença, as lesões cutâneas tornam-se petequiais, podendo confluir em lesões purpúricas. Pode ocorrer necrose em casos graves. O mecanismo fisiopatológico por trás das manifestações clínicas da FMB é a infecção das células endoteliais (lembre-se de que R. rickettsii é um micro-organismo intracelular). Isso resulta em vasculite e lesão endotelial disseminada. Em casos graves podemos ter hepatoesplenomegalia, lesão renal aguda, pneumonite/meningite/miocardite, entre outras manifestações. As alterações laboratoriais da FMB são inespecíficas. O hemograma pode demonstrar leucopenia ou leucocitose (com desvio à esquerda) e plaquetopenia. Elevações de enzimas hepáticas (AST e ALT) e musculares (creatinofosfoquinase e desidrogenase láctica) são frequentes. O método mais utilizado para diagnóstico da FMB é a pesquisa de anticorpos em sangue (amostras de soro) por meio de reação de imunofluorescência indireta (RIFI). É necessário coletar duas amostras de soro: a primeira no início do quadro, e a segunda entre 14 e 21 dias após a primeira coleta. O resultado será considerado positivo se houver um aumento de quatro vezes nos títulos da segunda amostra em relação à primeira, pois nesse caso é confirmada a soroconversão. O tratamento de FMB é muito simples: é indicada a prescrição de doxiciclina pelo período mínimo de 7 dias, sendo mantido por 3 dias após a resolução da febre. Como alternativa, pode ser utilizado o cloranfenicol. Quanto mais precoce for iniciado o tratamento, maior será a sua eficácia. Por isso, a antibioticoterapia deve ser iniciada no momento da suspeita clínica de FMB, e não somente após o resultado de exames. Vamos rever as principais características das doenças apresentadas nas alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3333,7 +3444,7 @@
       },
       "correta": "E",
       "explicacao": "somente parte dos alimentos desse nível da Pirâmide Alimentar deve ser utilizada com um máximo de 2 porções/ dia. Olá, Estrategista, questão bastante decoreba. A pirâmide alimentar proposta pela SBP é composta de 4 níveis: - Nível 1 (base): cereais, pães, tubérculos e raízes. - Nível 2: verduras, legumes e frutas. - Nível 3: leites, queijos, iogurtes, carnes, ovos, feijões. - Nível 4 (topo): óleos, gorduras, açúcar e doce. Agora, observe as porções indicadas para cada idade. Portanto, o nível 4, na introdução alimentar corresponde a 2 porções de óleos e gorduras e nenhuma porção de açúcar e doces.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3360,7 +3471,7 @@
       },
       "correta": "B",
       "explicacao": "Hepatite A Olá, Estrategista, temos dois tipos de vacinas: vivas atenuadas e inativadas. As vacinas vivas atenuadas são vacinas que contém o patógeno, entretanto, de uma forma enfraquecida, na qual eles perderam a capacidade de produzir a doença em imunocompetentes. São elas: BCG, Rotavírus, Pólio Oral, Tríplice Viral, Tetra Viral, Varicela Isolada, Dengue e Hérpes-Zoster. As Vacinas Inativadas não contêm o patógeno vivo, portanto, não têm capacidade de produzir a doença. São elas: Tríplice e Dupla Bacteriana, Meningocócicas, Pneumocócicas, Hepatites A e B, Haemophilus influenzae tipo B, Pólio Inativada, HPV, Influenza, Raiva e as vacinas contra o Coronavírus. Exatamente por não conterem o patógeno, elas têm como vantagem serem seguras para imunodeprimidos, imunodeficientes e gestantes. A maioria delas são aplicadas intramuscular. O quadro abaixo traz a distribuição das vacinas virais e bacterianas entre os grupos. Para lembrar sem decorar, a maioria das vivas atenuadas são virais, a exceção é a BCG. Já a maioria das inativadas são as bacterianas, as exceções são as Hepatites, HPV, Pólio Inativada, Raiva e Influenza. Dúvidas? Lembre-se do mnemônico sobre quais são as virais inativadas! \"Hoje CORri PORAÍ\": Hepatite/HPV, CORonavírus, POlio injetável, RAiva, Influenza. Vamos voltar à questão? O examinador fala da vacina da dengue, que é composta de vírus vivo atenuado e quer saber quais das abaixo diverge dessa classificação, ou seja, é inativada.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3387,7 +3498,7 @@
       },
       "correta": "D",
       "explicacao": "Vacinas que contêm mercúrio Estrategista, o transtorno do espectro autista (TEA) é um transtorno do neurodesenvolvimento que afeta 5 vezes mais o sexo masculino, atingindo cerca de 1% da população. Suas principais características são a presença de prejuízos persistentes na comunicação verbal e não verbal e na interação social. Também estão comumente presentes sintomas como estereotipias motoras, um padrão rígido de comportamento e rotina, irritabilidade e hipersensibilidade a estímulos ambientais. Entre 30% e 70% dos pacientes apresentam algum prejuízo cognitivo associado. Normalmente, os primeiros sinais e sintomas do TEA são observados por volta dos 18 meses de vida, contudo o diagnóstico, geralmente, ocorre após os 3 anos. Seu tratamento é realizado com a associação de psicoterapia, terapia ocupacional, fonoaudiologia, fisioterapia e psicofarmacoterapia, e visa especialmente o desenvolvimento das habilidades sociais e comunicativas do paciente, além da redução dos sintomas mais graves e incapacitantes. Com relação de alguns dos principais fatores de risco, observe a imagem abaixo: Vamos às alternativas!",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3415,7 +3526,7 @@
       },
       "correta": "E",
       "explicacao": "Baixa estatura materna e paterna O que o examinador quer saber: sobre o diagnostico de restrição de crescimento fetal. Investiga-se RCF quando a gestante apresenta alto risco para desenvolver essa patologia ou quando, no pré-natal, há suspeita de crescimento abaixo do esperado para a idade gestacional. Como dito anteriormente, gestantes de alto risco para RCF devem fazer ultrassonografia seriada a partir de 24-28 semanas, a fim de diagnosticar-se precocemente essa patologia. Porém, o ultrassom no terceiro trimestre para detectar RCF não deve ser solicitado de forma rotineira em gestantes que não são de alto risco. Nesses casos, a suspeita de RCF se dá pela medida da altura uterina. Sendo assim, suspeita-se de RCF quando a medida da altura uterina ou o peso fetal, na ultrassonografia, estão abaixo do esperado para a idade gestacional. A medida da altura uterina é tomada em toda consulta de pré-natal para avaliar de forma indireta o crescimento fetal e o volume de líquido amniótico. Quando a altura uterina está menor do que o esperado para a idade gestacional, isso é, abaixo do percentil 10, devemos suspeitar de RCF ou oligoâmnio e solicitar uma ultrassonografia para avaliação de peso e líquido fetais. Quando o peso fetal ou a circunferência abdominal estimados na ultrassonografia estão abaixo do percentil 10, suspeita-se de RCF ou feto PIG constitucional. Há uma grande dificuldade em diferenciar o feto que é PIG constitucional daquele que tem RCF, mas essa diferenciação é muito importante, uma vez que os fetos com RCF apresentam elevados índices de morbidade e mortalidade perinatal e infantil, além de doenças crônicas na vida adulta. A história materna e o acompanhamento ultrassonográfico seriado, com avaliação do líquido amniótico e da Dopplervelocimetria da artéria umbilical, ajudam a distinguir o feto com restrição de crescimento fetal daquele constitucionalmente pequeno para a idade gestacional, mas muitas vezes esse diagnóstico somente é possível após o nascimento. Fetos PIG geralmente apresentam peso entre o percentil 3 e 10, velocidade de crescimento normal, líquido amniótico normal, Dopplervelocimetria normal e tamanho compatível com as características maternas, como peso, altura e etnia. Por outro lado, fetos com restrição de crescimento podem apresentar alteração na velocidade de crescimento, no volume de líquido amniótico e na Dopplervelocimetria obstétrica.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2024,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024",
@@ -3439,7 +3550,7 @@
       },
       "correta": "C",
       "explicacao": "Restrição de crescimento fetal O que o examinador quer saber: sobre Full Pier FULL PIERS é um calculadora que prediz desfechos adversos em pacientes com pré- eclâmpsia, avaliando as chances de desfechos adversos em até 48 horas da admissão do paciente. A “calculadora de risco” PIERS é disponível on-line no endereço https://pre- empt.bcchr.ca/monitoring/fullpiers e em aplicativos. Os eventos adversos considerados para a criação dessa calculadora foram: eclampsia, coma, cegueira central, descolamento de retina, acidente vascular cerebral, descolamento prematuro da placenta, coagulopatia, disfunção hepática grave, hematoma hepático, edema pulmonar, infarto do miocárdio, insuficiência renal aguda e ascite. A calculadora serve para avaliar o risco de uma conduta expectante em pacientes com pré- eclâmpsia quando há prematuridade fetal ou escassez de recurso para o suporte materno e do recém-nascido no local do atendimento. Quando o risco de eventos adversos e baixo nas próximas 48 horas, é possível programar a remoção da gestante para centro com mais capacidade de assistência e até aguardar a ação da corticoterapia nos casos de prematuridade. Para o cálculo do risco é utilizado a idade gestacional, presença de dispneia ou dor no peito, saturação de O2, níveis de plaquetas, creatinina e TGO/TGP. Considera-se risco alto de eventos adversos nas próximas 48h quando o risco calculado é ≥ 30 %.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3465,7 +3576,7 @@
       },
       "correta": "E",
       "explicacao": "apenas III está correta. GABARITO E Olá, querido Estrategista, questão sobre alimentação da criança e introdução alimentar. No primeiro ano de vida, a alimentação do bebê deve ser de leite materno exclusivo até os 6 meses, seguido de introdução alimentar mais leite materno a partir dessa idade. O leite materno deve ser mantido, no mínimo, até os 2 anos. A partir do 6o mês de vida, devemos iniciar a alimentação complementar do lactente. Retardar a introdução da alimentação pode aumentar o risco de alergia alimentar. Não há regras sobre iniciar com o doce (frutas) ou salgado. Porém, o lactente tende a ter uma preferência pelo doce e é por isso que, geralmente, iniciamos por ele. As frutas devem ser oferecidas, in natura, ou seja, puras. Elas devem ser raspadas, amassadas ou picadas e oferecidas na colher. Os sucos, inclusive os naturais, devem ser evitados, pois a não ingesta de fibras e a ingesta de calorias predispõem à obesidade. Nenhuma fruta é contraindicada. Seguimos oferecendo a papa de misturas múltiplas, antigamente chamada de papa salgada. Essa mudança de nome ocorreu para lembrarmos que o sal não deve ser utilizado no preparo das refeições, apenas temperos naturais. Iniciamos oferecendo uma vez ao dia, no almoço ou jantar. No 7o mês de vida, oferecemos duas vezes ao dia. A comida não deve ser triturada no liquidificador nem passada na peneira. Ela deve ser cozida e amassada. A carne não deve ser retirada, ela deve ser picada ou desfiada. O ovo, alimento tão polêmico, pode e deve ser oferecido. Não há indicação de adiarmos sua introdução nem de excluirmos a gema. No primeiro ano de vida, não está recomendado o consumo de mel. Nessa faixa etária, os esporos do Clostridium botulinum são capazes de produzir toxinas na luz intestinal e podem causar botulismo. A consistência dos alimentos deve aumentar gradativamente. Aos 12 meses, é recomendado que a alimentação da criança seja a mesma da família. A alimentação deve respeitar a fome da criança, porém é recomendado que seja oferecida, no mínimo, em intervalos regulares, de acordo com os horários de refeição da família. Vamos analisar as afirmativas. I. Frutas in natura, amassadas, cortadas ou raspadas, devem ser oferecidas ao lactente com 6 meses de vida, sendo excluídas desse grupo as frutas, como cajá, caju, carambola e cupuaçu, o que se convencionou chamar de a regra dos 4 “c”. Incorreto. Nenhuma fruta está contraindicada, não existe essa regra dos 4 C. II. Define-se como refeição principal do lactente aquela que culturalmente designamos como almoço (entre 11:00 e meio-dia), contendo todos os grupos alimentares (cereais/ tubérculos/ leguminosas/ hortaliças/ carnes e ovos); o horário do jantar é estabelecido como a outra refeição não láctea e introduzida simultaneamente com o almoço. Incorreto. A primeira parte da afirmativa está correta, porém, o jantar é introduzido aos 7 meses, ou seja, um mês após o almoço e não simultaneamente. III. Não ofertar carnes do tipo suína, pescados e frutos do mar bem como especiarias e ervas frescas ou secas (alecrim, cominho, gengibre, manjericão, orégano e sálvia). São mitos e/ou falta de conhecimentos atuais e, portanto, podem fazer parte do dia a dia do lactente, sendo que os aspectos regionais, culturais e a época do ano serão levados em consideração na escolha desses alimentos. Correto. Apesar da frase estar gramaticalmente incorreta, ele quer dizer que não ofertar os alimentos citados são mitos e/ou falta de conhecimento. Isso está correto, pois nenhum alimento saudável é contraindicado. Correta apenas III.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3491,7 +3602,7 @@
       },
       "correta": "A",
       "explicacao": "realizar desfibrilação com 2 J/kg. GABARITO A Olá, Estrategista, na PCR pediátrica, temos 4 ritmos - 2 chocáveis: fibrilação ventricular a taquicardia ventricular sem pulso. - 2 não chocáveis: assistolia e atividade elétrica sem pulso. O ritmo apresentado é de uma taquicardia, complexo QRS largo e sem onda P. Esse é uma taquicardia ventricular sem pulso. Vamos seguir o fluxo de atendimento ao paciente com esse ritmo. 1. Enquanto o desfibrilador é preparado, deve-se iniciar a RCP imediatamente, até que ele esteja pronto para uso. 2. Desfibrilar (choque não sincronizado) o paciente com 2 J/kg. 3. Retomar a RCP por mais dois minutos antes de checar o ritmo. 4. Se permanecer chocável, aplicar a desfibrilação com 4 J/kg. 5. Reiniciar imediatamente as manobras de RCP por mais 2 minutos. ✷ Nesse momento, o acesso venoso já deve estar preparado para que uma primeira dose de adrenalina seja aplicada. Essa medicação pode ser realizada a cada 3 minutos, se necessário. 6. Avaliar o ritmo no monitor, se ainda permanecer como chocável, aplica-se outro choque de 4 J/kg. 7. RCP deve recomeçar e ser mantida por mais dois minutos. 8. Considerar o uso de um antiarrítmicos, de preferência a amiodarona. Na ausência da amiodarona, pode-se utilizar a lidocaína e já começar a pensar nas possíveis causas reversíveis de PCR. Vamos às alternativas.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3519,7 +3630,7 @@
       },
       "correta": "E",
       "explicacao": "1.000 ml GABARITO E Na desidratação grave, usamos o plano C (dica mental: Corre que está grave), que consiste em hidratação venosa nos seguintes volumes: - Menores de 1 ano 30 ml/kg de SF 0,9% ou Ringer Lactato, em 1 hora + 70 ml/kg de SF 0,9% ou Ringer Lactato, em 5 horas - Maiores de 1 ano 30 ml/kg de SF 0,9% ou Ringer Lactato, em 30 minutos + 70 ml/kg de SF 0,9% ou Ringer Lactato, em 2h e 30minutos Facilitando para você! O volume total é de 100ml/kg de SF ou RL. Esse volume deve ser dividido em 30ml/kg e 70ml/kg. Os menores de 1 ano, recebem o volume mais lentamente: 1 hora + 5 horas. Os maiores, mais rápido: meia hora + 2 horas e meia. Voltando ao enunciado. A criança de 10 meses e 10 quilos, deverá infundir 1000ml em 6 horas: 300 ml em uma hora + 700ml em cinco horas.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3543,7 +3654,7 @@
       },
       "correta": "A",
       "explicacao": "Estudos comprovaram que o AM exclusivo por 6 meses reduz, de forma significativa, alergias ao ovo, amendoim e crustáceos, quando comparados a lactentes que usaram fórmula infantil. Fala, Coruja! Você já deve saber que o aleitamento materno traz uma série de benefícios, tanto para o bebê quanto para a mãe. Só para enfatizar: idealmente, o aleitamento materno é exclusivo até os 6 meses de idade, e complementar até (ao menos) os 2 anos de idade. Os benefícios imunológicos são obtidos através da ingestão de diversos fatores imunológicos, dentre os quais se destacam: Uma dica para se lembrar da imunoglobulina é a seguinte: é imunoglobulina do tipo A, de Amamentação. O principal subtipo de IgA é chamado de IgA Secretória, representando cerca de 90% das imunoglobulinas totais presentes no leite materno, com concentrações máximas no colostro e redução progressiva ao longo dos meses de lactação. A IgA secretória exerce papel central na proteção da mucosa gastrointestinal do lactente, modulando a microbiota intestinal e conferindo imunidade passiva contra patógenos entéricos e respiratórios. Vale mencionar que também temos IgG e IgM no leite materno, mas em menor proporção. Bom, sobre os benefícios imunológicos, dê uma olhada nos seguintes destaques que foram levantados em uma revisão de literatura publicada pela SBP em 2024, que é a referência dessa questão: Já adianto que essa questão é bem zoada. Note que a alternativa incorreta (solicitada pelo examinador) está incorreta por um rodapé do artigo. Vamos dar uma olhada nas alternativas?",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3571,7 +3682,7 @@
       },
       "correta": "E",
       "explicacao": "I e III estão incorretas. GABARITO E Olá, Estrategista. A constipação crônica é do tipo funcional em 90-95% dos casos e geralmente tem como gatilho erros alimentares, com pouca ingesta de água e fibras. Ela leva ao círculo vicioso abaixo. O diagnóstico é clínico, avaliando os critérios de Roma IV. Observe: Repare no último item: \"Sintomas não explicados por outra condição médica\". Portanto, é indispensável que as causas orgânicas sejam descartadas, para isso, o paciente não deve ter sinais de alarme: 1) Retardo na eliminação de mecônio (mais de 48 horas). 2) Constipação precoce. Quanto mais cedo iniciar a constipação, mais suspeito é. 3) Sangue nas fezes na ausência de fissura anal. 4) Distensão abdominal acentuada. 5) Déficit ponderal ou ponderoestatural. 6) Atraso no desenvolvimento neuropsicomotor. 7) Qualquer alteração no exame físico que leve a alguma doença orgânica. Ao exame físico, observamos, na maioria dos casos, fecaloma palpável no abdome e fezes presentes na ampola retal. Não há necessidade de exames complementares. O tratamento é baseado no seguinte tripé: 1) Medicamentos 2) Treinamento de toalete (Colocar a criança no vaso após as refeições, mesmo sem vontade de evacuar). 3) Mudança de hábitos alimentares, privilegiando frutas, verduras e água. A terapia medicamentosa é feita em duas etapas: 1) Desimpactação. Retirar as fezes endurecidas que estão no intestino através de laxativos retais ou orais. Esse passo pode durar vários dias e as medicações podem ser orais ou retais. 2) Manutenção com medicação laxativa diária, para amolecer as fezes e quebrar o círculo vicioso. A principal medicação utilizada é o polietilenoglicol (PEG 4000). Vamos analisar as afirmativas. I. O polietilenoglicol é o medicamento de primeira escolha no tratamento da CI funcional em crianças; ele é eficaz na fase de manutenção, porém possui pouco efeito na fase aguda da desimpactação fecal. Incorreto. O polietilenoglicol é a principal medicação utilizada na constipação. Ele pode ser utilizado tanto na desimpactação quanto na manutenção. II. O uso de penico ou ‘troninho’ nas idades entre 2 e 4 anos é melhor que vaso sanitário, pois, na primeira modalidade, a criança pode apoiar os pés no chão e, dessa forma, usar de forma adequada o assoalho pélvico e a prensa abdominal. Correto. A prensa abdominal é de grande auxílio na evacuação, principalmente no treinamento. III. A suplementação com fibras, além de uma dieta rica em frutas, leguminosas, hortaliças e cereais integrais, e o uso diário de probióticos, são todos bem indicados no tratamento da CI funcional, com forte respaldo científico. Incorreto. A suplementação com fibras e a dieta correta são bem indicadas, porém, o probiótico não tem respaldo científico. Correta: Apenas II.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3599,7 +3710,7 @@
       },
       "correta": "C",
       "explicacao": "Doença de Kawasaki. Gabarito: Alternativa C",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3623,7 +3734,7 @@
       },
       "correta": "B",
       "explicacao": "Deficiência de G6PD. GABARITO B Olá, Estrategista. O teste do pezinho serve para triagem de algumas doenças graves, com poucas manifestações clínicas ao nascimento e que a intervenção precoce mude o prognóstico. Ele deve ser realizado entre o 3º e o 5º dia de vida, nunca antes das 48 horas de vida e nem depois dos 30 dias de vida. A coleta é feita por profissional capacitado, com sangue coletado do pé do RN e pode ser feito no hospital ou em Unidades Básicas de Saúde. Atualmente, as doenças triadas (se liga no mnemônico) são:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3647,7 +3758,7 @@
       },
       "correta": "B",
       "explicacao": "todas as crianças estão adequadas em relação aos marcos do desenvolvimento observados nas consultas. GABARITO: ALTERNATIVA B Essa questão apresenta três cenários e nos solicita se a evolução do desenvolvimento neuropsicomotor (DNPM) é compatível com a idade. Observe as tabelas abaixo de acordo com os Instrumentos de avaliação do Ministério da Saúde, com os marcos esperados por faixa etária: Observamos que nos cenários I e II a evolução está adequada, contudo, no cenário III, a evolução do DNPM não pode ser classificada como compatível com a idade. De acordo com a Cartilha do Desenvolvimento de 2 meses a 5 anos publicada pela Sociedade Brasileira de Pediatria em fevereiro de 2024, crianças de três anos devem apresentar os seguintes marcos cognitivos: Desenha um círculo, quando você mostra a ele como; Evita tocar objetos quentes, como um fogão, quando você o avisa. De acordo com esse mesmo documento, desenhar uma pessoa com três ou mais partes do corpo é esperado para crianças de 4 anos ou mais. O gabarito indicado pela Banca sinalizou a alternativa “B”, indicando que todas as crianças mencionadas estariam com o DNPM adequado, contudo, como vemos o cenário III não condiz com uma criança de 3 anos.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3675,7 +3786,7 @@
       },
       "correta": "C",
       "explicacao": "apenas I está correta. Quadro clássica da púrpura trombocitopênica imune (PTI), Estrategista! Temos uma criança com plaquetopenia expressiva, causando petéquias difusas pelo corpo. Não há outras alterações de exame físico, a não ser linfoadenomegalias de características benignas (pequenas, móveis, fibroelásticas). Ou seja, temos um quadro de plaquetopenia e mais nada, justamente o que esperamos na PTI! Vamos julgar o que dizem as afirmações? Afirmação I - Correta A PTI é uma condição autoimune resultante da produção de anticorpos contra as plaquetas do próprio paciente, levando à sua destruição aumentada pelos macrófagos do baço. Apesar de poder ser idiopática, em crianças é muito comum que eventos vacinais ou infecções respiratórias virais sejam precipitantes da PTI por imunidade cruzada. Afirmação II - incorreta A PTI é um diagnóstico de exclusão, feito através da avaliação da história clínica, exame físico e alguns exames básicos, como a lâmina de sangue periférico e sorologias para hepatite e HIV. O estudo de medula óssea é reservado apenas para casos em que haja suspeição de uma doença hematológica que acomete a medula, como leucemias. Afirmação III - incorreta O tratamento da PTI está reservado apenas para pacientes com sangramento ativo ameaçador à vida ou contagens plaquetárias menores de 20 mil. A terapia de primeira linha é a corticoterapia, podendo ser feita com qualquer tipo de corticoide. Imunoglobulina e transfusão de plaquetas são reservadas apenas para pacientes com sangramento ativo importante. Assim, a afirmação I é a única correta e a resposta da questão é a alternativa C.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3701,7 +3812,7 @@
       },
       "correta": "C",
       "explicacao": "Relação proteinúria/creatinina urinária > 2,0. Questão que traz a principal glomerulopatia cobrada nas provas de residência médica: a glomerulonefrite pós-estreptocócica (GNPE)! Vamos relembrar? A GNPE é a causa mais comum de síndrome nefrítica na infância, com maior prevalência em populações de baixo nível socioeconômico e nos países em desenvolvimento. Ocorre devido a uma resposta imune a cepas denominadas nefritogênicas de estreptococos beta-hemolíticos do grupo A, com deposição de imunocomplexos no glomérulo e indução de inflamação local, sendo classicamente descrita como uma complicação imunológica da infecção estreptocócica. O diagnóstico da GNPE envolve a presença de relação temporal com uma infecção estreptocócica de vias aéreas superiores ou pele (1-3 semanas), documentação da exposição ao agente etiológico e alterações clínico-laboratoriais compatíveis com síndrome nefrítica e, classicamente, consumo dos níveis da fração C3 do complemento, pois a GNPE ativa a via alternativa do complemento. A documentação da exposição ao estreptococo pode ser feita de duas maneiras: culturas de orofaringe e de pele que, devido ao tempo necessário entre a infecção e o surgimento da síndrome nefrítica, têm baixa taxa de positividade; e anticorpos específicos contra os estreptococos, que são os testes de escolha. Temos 2 principais: ASO (anti-estreptolisina O) e Anti-DNAse B. O tratamento é de suporte, voltado principalmente para reverter a hipervolemia através de diurético de alça e restrição hidrossalina. A biópsia renal não é indicada de rotina, pois o diagnóstico clínico-laboratorial é preciso. Normalmente pedimos biópsia em casos que suspeitamos que seja algo que não GNPE! Algumas dessas indicações estão descritas abaixo. Vamos às alternativas.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3727,7 +3838,7 @@
       },
       "correta": "D",
       "explicacao": "Manter isoniazida por mais 3 meses e não realizar mais vacinação. Caro aluno, recém-nascidos apresentam uma imunidade imatura e são mais suscetíveis a formas graves da tuberculose. Dessa forma, se estiverem assintomáticos, não devem ser vacinados ao nascimento e devem receber profilaxia com rifampicina até o quarto mês de vida. Nessa ocasião, devemos vacinar o lactente com BCG e suspender a profilaxia. Observe o fluxograma a seguir, que apresenta a conduta atualizada indicada pelo Ministério da Saúde: Contudo, o enunciado traz um lactente em uso de profilaxia que realizou o=uma prova tuberculínica aos 3 meses que resultou 7mm. Dessa forma, concluímos que a banca examinadora cobrou a profilaxia da tuberculose de acordo com as normas antigas do Ministério da Saúde: De acordo com as normas antigas, se for constatado o contato, o recém-nascido (RN) não deve ser vacinado e receber isoniazida ou rifampicina por três meses. Após esse período, é realizada a prova tuberculínica. Se resultar ≥ 5mm, manter a profilaxia por mais três meses (isoniazida) ou mais 1 mês (rifampicina) e o lactente não deve ser vacinado, pois já apresenta resposta imune ao bacilo. Se após três meses, o PPD for menor do que 5 mm, deve-se interromper a profilaxia e vacinar o lactente com BCG. Vamos analisar as alternativas:",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3755,7 +3866,7 @@
       },
       "correta": "B",
       "explicacao": "O primeiro surto de FR e suas recidivas ocorrem, principalmente, em lactentes e pré-escolar. Caro aluno, A Febre Reumática (FR) é uma sequela não supurativa de uma infecção de orofaringe pelo estreptococo beta-hemolítico do grupo A (Streptococcus pyogenes) em indivíduos geneticamente predispostos. Ocorre após algumas semanas da infecção e é mais comum entre 5 e 15 anos de vida. Para diagnóstico, é fundamental que você memorize os critérios de Jones para populações de moderado a alto risco, pois são os critérios utilizados em nosso meio. CRITÉRIOS MAIORES - Artrite: monoartrite, poliartralgia ou poliartrite. - Cardite: clínica ou subclínica - Coreia de Sydenham - Eritema marginado - Nódulos subcutâneos CRITÉRIOS MENORES - Monoartralgia - Febre >=38oC - VHS >=30mm na 1a hora e/ou PCR >=3mg/dL - Intervalo PR prolongado para a idade (a menos que cardite seja um critério maior) PARA DIAGNÓSTICO DE FR SÃO NECESSÁRIOS: • 2 critérios maiores associados à evidência de estreptococcia prévia • 1 critério maior e 2 menores associados à evidência de estreptococcia prévia Mas, fique atento! Não se pode considerar: • artrite como critério maior E artralgia como critério menor; • cardite como critério maior E aumento do PR como critério menor. Além disso, existem duas situações em que o diagnóstico de FR é possível, sem preencher os critérios de Jones: • Coreia como única manifestação: nesse caso recomenda-se a realização do ecocardiograma para evidenciar a cardite. E • Cardite indolente como única manifestação após infecção estreptocócica recente.",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3779,7 +3890,7 @@
       },
       "correta": "D",
       "explicacao": "Crise epiléptica a esclarecer Fala, Coruja! O cenário é o seguinte: Lactente de 13 meses; Crise convulsiva tônico-clônica generalizada na vigência de febre: curta duração, exame físico normal e rápida recuperação do neurológico; História de crise afebril prévia: fundamental para chegarmos na resposta. Será que isso é uma convulsão febril? Antes de mais nada, vamos trazer algumas definições: Além disso, a crise febril pode ser dividida em: Crise febril simples (até 88% dos casos): crise tônico-clônica generalizada, com duração inferior a 15 minutos, que não apresenta recorrência em 24 horas e não manifesta sintomatologia pós-ictal (a recuperação neurológica é completa). Crise febril complexa: apresenta uma ou mais das seguintes características: crises focais, presença de alterações neurológicas pós ictais, como a paralisia de Todd, duração maior que 15 minutos e/ou recorrência dentro de 24 horas. Crianças que apresentam crises febris complexas tendem a ser mais jovens e com maior tendência de evoluir com desenvolvimento neurológico anormal. Como vemos, a criança tem antecedente de crise afebril prévia, assim não podemos diagnosticar como crise convulsiva febril. A investigação laboratorial e por imagem frequentemente não é necessária nas crises febris simples. No entanto, a abordagem deve ser individualizada! Vamos discutir os principais exames que podem ser solicitados no contexto de uma convulsão febril a seguir. As indicações para punção liquórica em crianças com convulsão febril são: Entenda por sintomatologia compatível com infecção de SNC: rigidez de nuca ou fontanelas abauladas, vômitos em jato, toxemia/sinais de sepse. A realização do eletroencefalograma (EEG) é desnecessária na convulsão febril simples, visto que esses pacientes não apresentam uma alteração específica no EEG e esse exame não é capaz de definir a recorrência da crise. Ele pode ser considerado em crises complexas, em pacientes com alterações neurológicas ou após recorrências da crise não relacionadas à febre. Assim, para pacientes com crise complexa, a necessidade de EEG pode ser indicada de forma individualizada, caso o exame neurológico seja anormal ou em crises prolongadas que necessitam de acompanhamento neurológico. Já os exames de neuroimagem de sistema nervoso central, como tomografia computadorizada e ressonância nuclear magnética, não são indicados, sendo reservados para casos em que há suspeita de hipertensão intracraniana (devendo ser feito antes da punção), alterações neurológicas focais persistentes e suspeita de alterações anatômicas intracranianas (asfixia perinatal, história de TCE, meningite prévia, sangramentos intracranianos prévios). Em resumo: se a crise for febril simples, podemos dar alta com orientações se a criança estiver plenamente recuperada. Há risco de recorrência até os 5 anos de idade, e não há forte relação com desenvolvimento de epilepsia ou atraso do DNPM. Se a crise for febril complexa, a investigação deve ser individualizada. Como vimos, podemos considerar uma avaliação de neuroimagem ou EEG a depender da suspeita clínica. Segundo o Tratado de Pediatria (6ª edição), temos a seguinte afirmação: \"Como não existem diretrizes sobre convulsões febris complexas, a perspicácia clínica continua a ser a ferramenta mais relevante para identificar crianças candidatas a uma avaliação mais elaborada.\" É pra fazer o candidato pra prova de residência chorar, né? Entenda por \"perspicácia clínica\" o seguinte: se vira aí, fera! Faz o que achar melhor rs Por isso, você vai encontrar algumas divergências de conduta entre as bancas examinadoras quando o assunto é manejo de crise febril complexa. Algumas são mais conservadoras, outras não. O mais importante é você saber pra que serve cada um dos exames com base no que discutimos acima. Ah, e sobre o tratamento profilático para convulsões febris, ele pode ser considerado em algumas situações, DE FORMA INDIVIDUALIZADA, como: história de dois ou mais episódios em 12 horas; três ou mais crises em seis meses ou quatro ou mais crises em 1 ano; história de duas ou mais crises pregressas; crise prolongada (maior do que 15 minutos). Minha sugestão? Evite alternativas que sugiram tratamento profilático em convulsão febril. Vamos dar uma olhada nas alternativas?",
-      "banca": "PE - Secretaria Estadual de Saúde do Estado de Per",
+      "banca": "SES-PE",
       "instituicao": "PE - Secretaria Estadual de Saúde do Estado de Per",
       "ano": 2025,
       "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025",
@@ -3806,7 +3917,7 @@
       },
       "correta": "A",
       "explicacao": "A fase de refluxo (ebb) inicia-se precocemente, onde podemos observar um quadro hipodinâmico. A resposta fisiológica ao trauma é complexa e envolve várias fases, cada uma com características metabólicas e endocrinológicas distintas. David Cuthbertson, médico escocês que se aprofundou no estudo da resposta ao estresse cirúrgico, propôs em 1942 que essa resposta ao estresse era dividida em três fases: (1) fase de refluxo hipodinâmico (choque), em que o corpo humano tenta limitar a perda de sangue e manter a perfusão para os órgãos vitais. Essa fase recebe o nome de fase EBB; (2) fase de fluxo hiperdinâmico, caracterizada por aumento do fluxo sanguíneo que visa remover produtos residuais e permitir que os nutrientes cheguem ao local da lesão para reparo. Essa fase recebe o nome de fase FLOW; e (3) fase de recuperação (fase ANABÓLICA), que dura meses e tenta fazer o corpo humano retornar ao nível anterior ao trauma. Agora, vamos avaliar separadamente cada uma das alternativas relacionadas à resposta endócrino-metabólica e imunológica ao trauma.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3831,7 +3942,7 @@
       },
       "correta": "D",
       "explicacao": "O teste do reflexo vermelho (TRV) deve ser realizado até 24 horas de vida e repetido pelo pediatra durante as consultas de puericultura, pelo menos, uma vez ao ano durante os primeiros cinco anos de vida. Estrategista, o que a questão quer saber de você? A nova diretriz da Sociedade Brasileira de Oftalmologia Pediátrica, lançada em 2021, sobre o teste do reflexo vermelho. O teste do reflexo vermelho (\"teste do olhinho\") é um importante método para a detecção precoce de algumas das principais causas de cegueira infantil, como catarata congênita e glaucoma congênito. A Sociedade Brasileira de Oftalmologia Pediátrica lançou em 2021 uma nova diretriz, que diz: “Os recém-nascidos devem ser submetidos ao teste do reflexo vermelho e inspeção dos olhos e anexos pelo pediatra dentro de 72 horas de vida ou antes da alta da maternidade. O teste do reflexo vermelho deve ser repetido pelo pediatra durante as consultas de puericultura pelo menos três vezes ao ano durante os primeiros 3 anos de vida. Se factível, um exame oftalmológico completo pode ser feito entre 6 a 12 meses de vida.\" Vamos às alternativas! Lembrando que a banca pede a ERRADA!",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3854,7 +3965,7 @@
       },
       "correta": "A",
       "explicacao": "Agenesia mulleriana com obstrução do trato de saída. A amenorreia primária é definida como ausência de menstruação (menarca) aos 14 anos associada à falha no desenvolvimento de caracteres sexuais ou aos 16 anos, mesmo com desenvolvimento de caracteres sexuais (mamas e pelos). A média de idade da menarca é de 12 anos. Ela ocorre quando há o amadurecimento do eixo HHO. A definição acima é adotada pelo Tratado de Ginecologia do Williams. Já o Tratado de Ginecologia da Febrasgo (Federação Brasileira das Associações de Ginecologia e Obstetrícia) e o livro de Berek e Novak consideram a amenorreia primária como ausência de menstruação aos 13 anos, quando não há caracteres sexuais secundários, ou aos 15 anos, mesmo na presença de caracteres sexuais secundários. No caso da paciente em questão, se usarmos a definição da FEBRASGO temos uma amenorreia primária sem desenvolvimento de caracteres sexuais secundários e devemos pensar nas hipóteses que podem gerar essa situação. Vamos analisar as alternativas.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3879,7 +3990,7 @@
       },
       "correta": "B",
       "explicacao": "Inibição da secreção de GnRH pela serotonina e peptídeos opioides endógenos. Existem duas visões para o ciclo menstrual: as alterações que ocorrem no ovário (ciclo ovariano) e aquelas que ocorrem no endométrio (ciclo endometrial). Cada uma delas pode ser dividida em duas fases: 1. Ciclo ovariano: fase folicular e fase lútea; 2. Ciclo endometrial/uterino: fase proliferativa e secretora. Alguns autores consideram que o ciclo ovariano tem as fases folicular, ovulatória e lútea. Já outros consideram apenas duas fases (a ovulação sendo parte da fase lútea). O ciclo endometrial pode ser dividido também em três fases: fase menstrual, proliferativa e secretora.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3902,7 +4013,7 @@
       },
       "correta": "B",
       "explicacao": "Na taquicardia supraventricular o QRS é estreito, as ondas \"\"p\"\" estão ausentes ou anormais e em lactentes e crianças pré-escolares e escolares a frequência cardíaca geralmente é maior ou igual a 220/min. Estrategista, vamos relembrar o algoritmo de taquiarritmias da American Heart Association para que a gente possa responder às alternativas. Vamos às alternativas, buscando a incorreta!",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3927,7 +4038,7 @@
       },
       "correta": "A",
       "explicacao": "Dermatite atópica. Gabarito: Alternativa A. Estrategista, esse paciente de cinco meses e apresenta essas placas pruriginosas na face (poupando maciço central). Isso por si só nos deve fazer pensar em dermatite atópica. Outro dado superimportante é a pele seca. Lembre-se que os pacientes com dermatite atópica possuem defeito da barreira cutânea, isso faz com que percam água para o meio ambiente e tenham a pele muito seca. Vamos aprender com todas as alternativas.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3950,7 +4061,7 @@
       },
       "correta": "B",
       "explicacao": "A avaliação do desenvolvimento motor pode ser realizada com a análise dos reflexos primitivos. Olá Estrategista, Temos aqui, uma questão conceitual a respeito do desenvolvimento neuropsicomotor. O desenvolvimento neuropsicomotor (DNPM) sofre uma evolução desde a concepção. Essa evolução ocorre de forma dinâmica, sendo determinada pela interação de fatores biológicos, individuais e socioculturais. Dessa forma, a interação social e o estímulo são essenciais para o desenvolvimento saudável dessa criança. O aprendizado da fala, por exemplo, decorre do ouvir e da interação com os cuidadores. Os primeiros anos do ser humanos são fundamentais, pois é nessa fase que a arquitetura básica e a função do cérebro se estabelecem. Se esse desenvolvimento inicial sofrer algum prejuízo, haverá comprometimento da saúde da criança, de seu comportamento e aprendizado. A influência genética no DNPM é marcante, sendo modulada pelos fatores ambientais. Esse aspecto marca a importância da estimulação adequada das crianças, com o objetivo de alcançar todo o potencial pré-determinado pela carga genética. Além disso, para que o DNPM seja adequado, deve haver uma integridade de órgãos e sistemas, sobretudo o sistema nervoso, que permita a aquisição das habilidades de forma contínua e organizada. O instrumento de avaliação do Ministério da Saúde que consta na caderneta da criança permite uma avaliação sistemática do desenvolvimento neuropsicomotor de acordo com a faixa etária. Observe:",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3975,7 +4086,7 @@
       },
       "correta": "A",
       "explicacao": "O leite materno possui cálcio e vitamina D, mas esta última em quantidade inferior às recomendações nutricionais necessárias para lactentes e recém- nascidos saudáveis. Caro aluno, O raquitismo se caracteriza por anormalidades na formação da placa epifisária de crescimento com áreas não mineralizadas e retardo na maturação óssea. Sendo as manifestações clínicas principais as deformidades ósseas (craniotabes, fronte olímpica rosário raquítico, sulcos de Harrison, aumento do punho e membros inferiores arqueados), hipotonia e atraso no crescimento. Laboratorialmente encontra-se aumento importante da fosfatase alcalina, hipofosfatemia, sendo que o cálcio pode estar normal ou diminuído, dependendo do estágio da doença. A hipocalcemia encontrada em alguns pacientes pode desencadear convulsões e tetania. Veja a figura abaixo:",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -3998,7 +4109,7 @@
       },
       "correta": "B",
       "explicacao": "Cinco doses da vacina contra coqueluche, três doses da vacina contra Covid-19, três doses da vacina pneumocócica 10-valente e repetir a vacina de influenza trivalente anualmente. Olá, Estrategista, vamos rever o calendário vacinal pediátrico. Considerando doenças respiratórias, essa criança tem, pelo PNI: ◉ 3 doses de proteção contra coqueluche na pentavalente e 2 doses de DTP aos 15 meses e 4 anos, totalizando 5 doses; ◉ 3 doses de proteção contra doenças pneumocócicas, na pneumocócica 10-valente, aos 2, 4 e 12 meses. Além disso, ela também deverá ter: ◉ 2 doses da vacina contra COVID-19, aos 6 e 7 meses (considerando que não é uma criança imunocomprometida); ◉ 2 doses da vacina influenza, considerando que crianças até 9 anos, na primeira vez que aplica a vacina, deverá fazer 2 doses, com intervalo de 30 dias entre elas. Após, aplicar a vacina trivalente anualmente. A vacinação contra COVID-19 pode gerar dúvidas nessa questão. Isso porque a vacinação para pessoas > 5 anos imunocompetentes pode ser feita com dose única de Monovalente XBB. PSU-MG - 2025",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2024,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024",
@@ -4024,7 +4135,7 @@
       },
       "correta": "D",
       "explicacao": "Reconhecer sinais de alerta e orientar familiares para identificá-los: piora na diarreia (aumento da frequência e/ou do volume), vômitos repetidos, muita sede, recusa de alimentos, sangue nas fezes, diminuição da diurese. GABARITO D Olá, Estrategista, quando temos um paciente sem desidratação, ele pode ir para casa e seguir o plano A do Ministério da Saúde. Em que consiste? 1. Ingerir mais líquido que o habitual. Água de arroz, soro caseiro, sucos, chás, sopas, diarreica. NÃO utilizar refrigerantes e não adoçar o chá. sucos, OU, ao invés desses líquidos, soro de reidratação oral (SRO) após cada evacuação - Menores de 1 ano devem receber de 50-100ml de líquidos após cada evacuação; - Crianças de 1 a 10 anos devem receber 100-200ml; e - Maiores de 10 anos, a quantidade que aceitar. 2. Manter a alimentação habitual para evitar desnutrição. A criança deve manter sua alimentação habitual, não há restrição de alimentos, nem da lactose. Novos alimentos não devem ser introduzidos pelo risco de levarem à alergia alimentar. 3. Levar o paciente a um serviço de saúde se não melhorar em dois dias ou se evoluir com um dos sinais de perigo abaixo descritos: SINAIS DE PERIGO: - Piora da diarreia - Vômitos repetidos - Sede intensa - Recusa alimentar - Sangue nas fezes - Diminuição da diurese 4. Administrar zinco uma vez ao dia, durante 10 a 14 dias. - Até 6 meses: 10 mg/dia - 6 meses a 5 anos: 20mg/dia Por 10 a 14 dias. 5. Orientar o paciente e seu acompanhante quanto aos SINAIS DE DESIDRATAÇÃO, a MEDIDAS DE HIGIENE (lavagem de mãos, alimentos e tratamento da água) e quanto à PREPARAÇÃO DO SRO. Vamos às alternativas.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -4047,7 +4158,7 @@
       },
       "correta": "B",
       "explicacao": "A liberação do hormônio do crescimento está aumentada. O principal estímulo para a ativação dessa resposta são as fibras nervosas aferentes nociceptivas no local lesado. A partir da estimulação dessas fibras, o impulso viaja ao longo das vias nervosas somáticas e autonômicas, chegando ao hipotálamo. O hipotálamo, após processar os estímulos advindos das vias aferentes, responde por duas vias diferentes: ✓ uma via mais rápida, representada pela ativação do sistema nervoso autônomo simpático e estimulação da glândula adrenal, com a liberação das catecolaminas (principalmente, adrenalina e noradrenalina) e do sistema renina-angiotensina-aldosterona. O principal objetivo dessa via é a manutenção do suprimento sanguíneo para os órgãos vitais; e ✓ uma via mais lenta, pela ativação do eixo hipotálamo-hipófise, que leva à liberação de hormônios (como o hormônio do crescimento – GH) e esteroides; com isso, há uma diminuição da secreção de insulina e um aumento da resistência a sua ação. O quadro abaixo resume os principais “atores” na resposta endócrina-humoral. Agora, vamos avaliar, separadamente, cada uma das alternativas.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -4072,7 +4183,7 @@
       },
       "correta": "B",
       "explicacao": "É uma meta a ser atingida que o aluno se adapte ao sistema educacional vigente. GABARITO B A Constituição Federal de 1988, em seu Art. 208, garante aos alunos com necessidades especiais o direito a criação de programas de prevenção e atendimento especializado, e assistência às famílias responsáveis. A Lei nº 9.394/96 das Lei de Diretrizes e Bases da Educação Nacional (LDB), em seu capítulo V, trata diretamente da Educação Especial e, especificamente no que se refere ao Art. 58, traz a seguinte definição: “Entende-se por Educação Especial, para os efeitos desta lei, a modalidade de educação escolar, oferecida preferencialmente na rede regular de ensino, para educandos portadores de necessidades especiais”. Prosseguindo, em seu Art. 59, reforça que para um atendimento de qualidade deve haver a capacitação do corpo docente para que, seja qual for à modalidade e a sua necessidade, os alunos possam receber a orientação e ensino adequado. Vamos analisar as alternativas, buscando a errada.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -4095,7 +4206,7 @@
       },
       "correta": "C",
       "explicacao": "O afastamento de criança ou adolescente do convívio familiar para a proteção de vítimas de violência ou abuso sexual é de competência do Conselho Tutelar e de autoridade policial. GABARITO C Olá, Estrategista. O termo violência contra a criança ou maus tratos não implica somente em em traumas físicos e agressões. Os maus tratos vão muito além disso: envolvem a esfera física, socioemocional e sexual. Sendo assim, maus tratos envolve tudo entre a negligência e a agressão física propriamente dita, da mesma forma que o abuso sexual não é constituído somente pelo estupro em si. Dessa forma, podemos dividir os maus tratos em, basicamente, quatro tipos: -Negligência: seria um tipo de violência “social”, definida como: quando os cuidadores não provêm à criança o mínimo necessário à sua sobrevivência, mas não por falta de recursos (pois há famílias miseráveis, em que isso não é uma questão de opção). -Psicológico: qualquer comportamento dos pais ou cuidadores (ou de uma pessoa envolvida com a criança) que lese a criança do ponto de vista psicológico. Aqui, falamos não só dos xingamentos, que podem ocorrer em casa, mas até mesmo do “bullying inocente” que os pais podem fazer com os filho. A alienação parental também se enquadra nesse quesito uma vez que por meio dela, a criança ou adolescente são induzidos, mediante diferentes formas e estratégias de atuação, a destruir seus vínculos com um dos genitores. -Físico: agressões físicas, mas que não são exclusivamente aquelas graves, lesões simples também. Na violência física, alguns fatores chamam a atenção, como: - Mecanismo de trauma incompatível com a idade da criança. - Lesões antigas negligenciadas ou associadas a novas. - Alterações comportamentais na criança. O exame físico pode mostrar lesões corporais, lesões em vários estágios de evolução, lesões suspeitas como mordidas, queimaduras de cigarro, queimadura em “bota ou luva”, em locais que a criança não alcança ou fraturas incompatíveis com a idade. -Sexual: da mesma forma que no adulto, a violência sexual infantil envolve desde a expressão de desejos, obscenidades ou realização de carícias em áreas sexuais, até o ato sexual em si, praticado por uma pessoa mais velha contra uma criança ou adolescente. E como proceder? A suspeita diagnóstica, não é preciso esperar a confirmação, já indica a notificação ao Conselho Tutelar. Além disso, é importante lembrar também: trata-se de uma doença de notificação compulsória para a vigilância epidemiológica. Por fim, internar a criança é uma conduta importante e interessante do ponto de vista de proteção dela contra seus agressores. Nunca se deve dispensar uma criança com suspeita de maus tratos. Vamos analisar as alternativas, buscando a incorreta.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -4118,7 +4229,7 @@
       },
       "correta": "D",
       "explicacao": "O teste de retirada da proteína do leite de vaca e seus derivados da dieta, por quatro semanas, pode permitir o diagnóstico, sem necessidade do teste de provocação oral. GABARITO D Estrategista, temos aqui um paciente com diarreia crônica, iniciada com 8 meses de idade. A diarreia é volumosa, semilíquida ou pastosa, sem muco ou sangue, com resto alimentar eventual, demonstrando uma má absorção. Além disso, apresenta anemia ferropriva e hipoalbuminemia, nos levando mesmo a uma enteropatia perdedora de proteína. A pesquisa de leucócitos nas fezes é um exame utilizado na suspeita de diarreia inflamatória, porém sem grande acurácia. Importante saber que sua positividade pode ocorrer em diarreias inflamatórias, infecciosas ou não. Vamos falar um pouco sobre diarreia crônica? Ela ocorre quando o tempo de diarreia ultrapassa 30 dias. Ao contrário da diarreia aguda que, na maioria das vezes, tem etiologia infecciosa, é autolimitada e dispensa investigação etiológica, a diarreia crônica admite uma gama de possibilidades diagnósticas e, geralmente, merece ser investigada. Tem como causas principais: Distúrbios funcionais, como síndrome do intestino irritável. Doenças inflamatórias intestinais, como doença de crohn e retocolite ulcerativa. Colite microscópica, como a linfocítica e a colagenosa. Distúrbios disabsortivos, como a doença celíaca e alergia alimentar. Desordens infecciosas, como giardíase. Cerca de 2/3 dos casos de diarreia crônica permanecem incertos após a consulta inicial, sendo necessários exames adicionais para melhor avaliação do doente. E quais exames deverão ser solicitados inicialmente? Hemograma, TSH e T4 livre, anti-transglutaminase IgA, eletrólitos, sangue oculto nas fezes, pesquisa de giardia lamblia, pesquisa de calprotectina e lactoferrina fecal, PCR, pesquisa de leucócitos fecais. A depender da avaliação inicial acima descrita, alguns exames mais específicos podem ser adicionalmente solicitados. O tratamento irá variar conforme o diagnóstico do doente, daí ser tão importante a investigação e definição da etiologia. Dito isso, vamos avaliar as alternativas, buscando a incorreta.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -4141,7 +4252,7 @@
       },
       "correta": "D",
       "explicacao": "Consegue pronunciar cerca de 20 palavras e entender cerca de 50. Olá Estrategista Essa questão aborda o desenvolvimento de uma criança de 3 anos e 6 meses. Observe o quadro a seguir, extraído da caderneta de saúde da criança: Uma criança de 3 anos seis meses deve ser capaz de: -vestir uma camiseta -mover o polegar com a mão fechada -compreender 2 adjetivos -equilibrar em cada pé por 1 segundo Na parte da linguagem, uma criança de 3 anos é capaz de: • Compreender conceitos de números e de espaço, • Começa a entender a relação entre causa e efeito, • É capaz de revezar em brincadeiras, • Gosta de brincar com outras crianças; • Segue as instruções com 2 ou 3 etapas, • É capaz de falar o primeiro nome, idade e sexo, • É compreendida por estranhos, • Mantém uma conversa com 2 a 3 frases. • Responder a perguntas simples; e • Dizer sua idade e contar até três",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -4167,7 +4278,7 @@
       },
       "correta": "A",
       "explicacao": "Comunicação interventricular GABARITO A Estrategista, temos aqui um bebê de 2 meses e meia, com dificuldade respiratória, associada a sopro holossistólico e hepatomegalia. O diagnóstico mais provável é de insuficiência cardíaca causada por comunicação interventricular. Vamos revisar o tema? A comunicação interventricular (CIV) é uma descontinuidade do septo que divide os ventrículos direito e ventrículo esquerdo. Ela é uma cardiopatia acianogênica de hiperfluxo pulmonar. Vamos entender? No período pós-natal, a pressão é maior do lado esquerdo do corpo, certo? Portanto, há passagem do sangue do lado esquerdo do coração para o direito (shunt esquerdo–direito) por meio da CIV. Com o aumento de volume do lado direito, temos então um hiperfluxo pulmonar. Na evolução de CIVs grandes, podemos ter uma insuficiência cardíaca direita com congestão venosa sistêmica. O mais comum é descompensar para IC por volta de dois a três meses de idade, não no período neonatal. Os sinais e sintomas que podemos identificar no exame físico são: • Sinais de ICC: taquipneia, dispneia taquicardia, sudorese, hepatomegalia. • Piora dos sintomas aos esforços: nos lactentes, a piora ao mamar faz com que a criança pare de mamar antes de estar satisfeita. Como consequência, há baixo ganho ponderal e sonos curtos. Na ausculta, chama atenção um sopro do tipo holossistólico. CIVs pequenas e assintomáticas, normalmente, fecham-se sozinhas e não precisam de tratamento. O tratamento clínico, em casos de pacientes sintomáticos, consiste inicialmente no tratamento dos sintomas da IC. A cirurgia corretiva deve ser feita após a melhora dos sintomas e, geralmente, após os 3 meses de idade.",
-      "banca": "MG - Processo Seletivo Unificado - PSU MG",
+      "banca": "PSU-MG",
       "instituicao": "MG - Processo Seletivo Unificado - PSU MG",
       "ano": 2025,
       "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
@@ -6520,7 +6631,7 @@
       },
       "correta": "D",
       "explicacao": "a translucência nucal (TN), com valores normais abaixo de 2,5 mm, o osso nasal, que, quando ausente ou hipoplásico, pode indicar síndrome de Edwards e síndrome de Patau, e o Doppler do ducto venoso O que o examinador quer saber: sobre a ultrassonografia morfológica do primeiro trimestre. As anomalias cromossômicas, também chamadas de aneuploidias, são responsáveis por 50% dos abortamentos no primeiro trimestre e por 5-7 % dos óbitos fetais e neonatais. As principais aneuploidias encontradas na gestação são as trissomias dos cromossomos 21 (síndrome de Down), 18 (síndrome de Edwards) e 13 (síndrome de Patau), a monossomia do cromossomo X (síndrome de Turner), as trissomias sexuais e as triploidias. As outras anomalias cromossômicas são dificilmente encontradas na gestação, pois geralmente causam abortamentos muito precoces. Uma das funções mais importantes da ultrassonografia realizada no primeiro trimestre é o rastreamento dessas cromossomopatias. Quando fazemos esse rastreamento e avaliamos a morfologia fetal, chamamos esse exame de ultrassonografia morfológica do primeiro trimestre. Identificar os fetos com cromossomopatias, durante a gestação permite que a família consiga se preparar melhor para a chegada do bebê, possibilitando uma programação mais adequada do parto e das intervenções necessárias após o nascimento. Nos países em que a interrupção da gestação é permitida, o rastreamento precoce das cromossomopatias permite a resolução antecipada da gestação caso esse seja o desejo dos pais. O principal objetivo do rastreamento das aneuploidias na gestação é identificar os fetos com trissomia do cromossomo 21, visto que esta é a cromossomopatia mais prevalente e de maior viabilidade pós-natal, com a maioria dos casos chegando à vida adulta, o que difere das outras aneuploidias que apresentam letalidade elevada ainda no período perinatal. Primeiramente, é importante saber diferenciar um teste de rastreamento de um teste diagnóstico. Os testes diagnósticos são aqueles que dão a certeza de uma patologia. Nos casos das cromossomopatias os testes diagnósticos são aqueles que conseguem identificar o cromossomo alterado. Os principais testes diagnósticos para identificar aneuploidias na gestação são a biópsia de vilosidades coriônicas, a amniocentese e a cordocentese. Esses exames colhem material placentário ou fetal que é submetido a avaliação genética, como o cariótipo em banda G para identificar o cromossomo alterado. Aprenderemos sobre os testes diagnósticos mais adiante. Os testes de rastreamento, por sua vez, identificam as gestantes que apresentam risco aumentado de cromossomopatias fetais e que devem ser submetidas aos testes diagnósticos. Como os testes diagnósticos são invasivos, eles devem ser realizados somente em gestantes com risco aumentado para aneuploidias. Quanto melhor o teste de rastreamento, menor a quantidade de gestantes que serão submetidas aos testes diagnósticos sem necessidade. Os testes de rastreamento para cromossomopatias podem ser utilizados de maneira isolada ou combinados entre si e serem realizados no primeiro ou segundo trimestre. Os testes combinados apresentam maior sensibilidade e especificidade que os testes isolados, como veremos mais adiante. O rastreamento de cromossomopatias no primeiro trimestre é preferível em relação ao rastreamento do segundo trimestre, pois tem a vantagem de identificar mais precocemente os fetos com alterações cromossômicas. Entre 11 e 13 e 6 dias é possível calcular o risco de cromossomopatias associando a idade materna e a idade gestacional aos marcadores ultrassonográficos e bioquímicos. A princípio, todas as gestantes apresentam risco de ter um feto com anomalia cromossômica, chamamos isso de risco basal. O risco basal de cada gestante depende da idade materna e da idade gestacional. Sabe-se que quanto maior a idade materna, maior o risco de anomalias cromossômicas, como as trissomias do cromossomo 21, 13 e 18, em decorrência da maior chance de não disjunção meiótica. Já a monossomia do cromossomo X (síndrome de Turner) e a triploidia não estão relacionadas com a idade materna. Os principais marcadores ultrassonográficos de cromossomopatias no primeiro trimestre são: translucência nucal, osso nasal, ducto venoso, regurgitação da valva tricúspide e ângulo facial frontomaxilar. Já os marcadores bioquímicos de cromossomopatias utilizados no primeiro trimestre são a fração livre do B-hCG e a proteína plasmática A associada a gravidez (PAPP- A). No segundo trimestre, os marcadores de cromossomopatias são a Alfafetoproteína (AFP), o estriol não conjugado, a inibina A e a fração livre de B-hCG. O rastreamento de cromossomopatias no segundo trimestre por meio da idade materna em associação a esses marcadores bioquímicos é capaz de identificar 50 a 75% dos fetos com trissomia do cromossomo 21, com 5% de falso-positivo. Sendo assim, podemos perceber que o rastreamento de cromossomopatias no primeiro trimestre apresenta taxa de detecção superior ao rastreamento no segundo trimestre, por isso, é na ultrassonografia do primeiro trimestre que usualmente se calcula o risco de cromossomopatias.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6544,7 +6655,7 @@
       },
       "correta": "C",
       "explicacao": "A triagem neonatal possibilita que o diagnóstico seja realizado antes das manifestações clínicas. Olá Estrategista. A fibrose cística (FC), é uma doença genética de caráter autossômico recessivo, crônica, progressiva, de caráter sistêmico e potencialmente letal, consequente a um defeito na proteína CFTR (cystic fibrosis transmembrane regulator), que regula o transporte do cloro nas células epiteliais. A FC é decorrente de uma mutação no gene que codifica a proteína Cystic Fibrosis Transmembrane Condutance Regulator (CFTR). A CFTR se localiza na membrana apical das células epiteliais pulmonares, pancreáticas, intestinais, ductos biliares e glândulas sudoríparas. As mutações no gene que codifica a CFTR tornam não funcionantes os canais permeáveis do cloro. Com isso, a secreção de cloro diminui e causa a desidratação das mucosas, aumento da viscosidade das secreções e consequente diminuição do clearance das vias respiratórias. Esse mecanismo acarreta obstrução dos ductos por rolha de muco com reação inflamatória, resultando em uma doença sistêmica. Esse aumento de viscosidade ocorre na maior parte das glândulas exócrinas como pulmões, intestino, pâncreas, fígado, glândulas sudoríparas e ducto deferente. Nos pulmões, a lesão começa com obstrução difusa das pequenas vias aéreas, por secreções mucosas espessas que facilitam a instalação de infecções pulmonares de repetição. Esse mecanismo ocorre também em outros órgãos, podendo causar pancreatite, infertilidade, hepatomegalia, cirrose biliar, entre outras. O principal exame que define o diagnóstico da FC é a pesquisa de cloro no suor. Esse exame é indicado nas seguintes situações: -Bebês com resultados positivos na triagem neonatal ; - Pacientes com sintomas sugestivos de Fibrose Cística (exemplo, íleo meconial nos bebês; infertilidade nos maiores; infecções pulmonares de repetição); - Paciente com irmão portador de Fibrose Cística (se o teste genético não puder ser realizado). O teste do cloro no suor consiste na dosagem de cloreto no suor pelo método da iontoforese, através da estimulação com pilocarpina, durante 30 minutos. Considera-se o teste positivo quando concentração de cloreto for maior ou igual que 60 mmOl/l; em dois testes, realizados em momentos diferentes. Valores entre 59 e 29 mmOl/l (ou mEq/L) sugerem Fibrose Cística, nessa situação o exame deve ser repetido. Para valores menores ou iguais a 29 mmOl/l, descarta-se Fibrose Cística. A triagem neonatal para FC é realizada até o 5º dia de vida, por meio da dosagem de tripsina (ou tripsinogênio) imunorreativa denominada TIR. É um método de triagem que, quando se encontra alterado, deve ser repetido até o 30º dia de vida. Se a segunda avaliação estiver alterada, indica-se o teste do suor. Dessa forma, o TIR não confirma o diagnóstico e a triagem neonatal negativa não afasta o diagnóstico de FC.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6570,7 +6681,7 @@
       },
       "correta": "A",
       "explicacao": "São sinais de comportamento depressivo em pediatria: sonolência excessiva; insônia; despertar precoce; apatia; e dificuldade de concentração. Estrategista, a depressão infantojuvenil tem prevalência estimada, por diversos estudos, em 1 a 2% em pré-púberes e 5% em adolescentes. O que você precisa saber sobre este tema? Primeiro, existe um critério maior específico para esta população: irritabilidade (observe imagem abaixo). Portanto, nesta faixa etária, é possível observarmos, como critérios nucleares, anedonia, humor deprimido ou irritado. Segundo, quanto menor a criança, maior a possibilidade de quadros atípicos, recheados com queixas vagas (lembre-se: a criança pequena não compreende as emoções e/ou não consegue as expressar), sintomas somáticos (especialmente gastrointestinais e cefaleia), recusa escolar, birras, e, inclusive, incidência elevada de sintomas psicóticos. Vamos às alternativas!",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6596,7 +6707,7 @@
       },
       "correta": "E",
       "explicacao": "fenilcetonúria, hipotireoidismo congênito, doença falciforme e outras hemoglobinopatias, fibrose cística, hiperplasia adrenal congênita e deficiência de biotinidase Olá, Estrategista. O teste do pezinho serve para triagem de algumas doenças graves, com poucas manifestações clínicas ao nascimento e que a intervenção precoce mude o prognóstico. Ele deve ser realizado entre o 3º e o 5º dia de vida, nunca antes das 48 horas de vida e nem depois dos 30 dias de vida. A coleta é feita por profissional capacitado, com sangue coletado do pé do RN e pode ser feito no hospital ou em Unidades Básicas de Saúde. Atualmente, as doenças triadas (se liga no mnemônico) são:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6623,7 +6734,7 @@
       },
       "correta": "A",
       "explicacao": "No caso de desidratação moderada (3%‑9%), deve‑se aplicar o plano B: administrar a solução de terapia de reidratação oral (SRO), inicialmente entre 50 a 100 mL/kg, durante quatro a seis horas. Querido Estrategista, Saber identificar o estado de hidratação e manejo do paciente desidratado é questão recorrente nas provas. Vamos relembrar como fazer essa avaliação sistemática. O Ministério da Saúde caracteriza a desidratação em hidratado, desidratação e desidratação grave. Para realizar essa avaliação você deve seguir os seguintes passos: 1. Observar 2. Examinar 3. Decidir/Diagnosticar o grau de desidratação 4. Tratar de acordo com o plano adequado Observe o quadro abaixo: Para não precisar decorar a tabela, vamos facilitar. Os hidratados não tem nenhum sinal de desidratação. Os desidratados graves tem diminuição de nível de consciência (letargia, hipotonia, coma, sonolência).O que estiver no meio, é desidratado apenas. Com isso, definimos que plano vamos utilizar. Vamos resumi-los no quadro abaixo.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6651,7 +6762,7 @@
       },
       "correta": "D",
       "explicacao": "Deve satisfazer as necessidades nutricionais dos lactentes durante os primeiros meses de vida, até a introdução de uma alimentação complementar adequada. Olá Estrategista, As fórmulas infantis, também chamadas de fórmulas lácteas infantis, são a primeira opção para substituir o leite humano/ materno. São recomendadas por sociedades científicas nacionais e internacionais, como ESPGHAN, Academia Americana de Pediatria, Sociedade Brasileira de Pediatria e Ministério da Saúde. Diante da impossibilidade do aleitamento materno, é recomendado que menores de seis meses de vida sejam alimentados com as chamadas fórmulas de partida. Assim como o leite materno é dinâmico e adapta-se às necessidades dos lactentes, as fórmulas tentam corresponder e suprir essas necessidades. Dos vários tipos de fórmulas infantis disponíveis no mercado, a maioria é elaborada à base de proteína de leite de vaca, mas existem algumas à base de leite de cabra, soja e arroz. Geralmente, elas possuem proteínas intactas, na forma polimérica; entretanto, algumas são manipuladas para conter proteínas nas formas oligoméricas (parcialmente ou extensamente hidrolisadas), para indicação em casos de alergia alimentar, tratamento ou prevenção.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6677,7 +6788,7 @@
       },
       "correta": "A",
       "explicacao": "Convulsões febris são as que ocorrem no início da rápida elevação da temperatura e, geralmente, nas primeiras 24 horas após o começo da febre; costumam ser convulsões generalizadas. Estrategista, de modo geral, as crises epilépticas na infância são tipicamente associadas a alguma alteração, sendo em sua maioria provocadas. Além disso, a idade de início das crises, a semiologia e o contexto em que ocorrem podem revelar pistas essenciais na definição diagnóstica. Sobre a crise febril, em linhas gerais, podem ser definidas em crises febris simples e complexas. De maneira bem objetiva, as crises febris simples duram menos de 15 minutos, não recorrem em período de 24 horas e têm apresentação generalizada. Ocorrem, tipicamente, nas primeiras 24 horas do início da febre e tendem a ocorrer mais nas elevações abruptas de temperatura. Nas crises febris simples, não há necessidade de investigação específica! Destaca-se ainda, a faixa etária em que tais crises podem ocorrer: dos 4 meses aos 5 anos. Quando o paciente apresenta crise, ainda que no contexto de febre, fora dessa faixa etária, deve-se avaliar a possibilidade de diagnósticos diferenciais. A questão foi anulada, contudo, não vejo um motivo para tal. Vejamos as alternativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6701,7 +6812,7 @@
       },
       "correta": "B",
       "explicacao": "Nas vacinas contra a coqueluche, o componente pertussis está associado ao maior número de reações adversas, como febre, irritabilidade e sonolência, e a eventos graves, como a síndrome hipotônica hiporresponsiva e a convulsão febril. As vacinas acelulares diminuem o risco desses eventos, mantendo eficácia semelhante à de células inteiras. Olá, Estrategista, vamos analisar as alternativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6725,7 +6836,7 @@
       },
       "correta": "E",
       "explicacao": "O retinoblastoma é o tumor ocular mais comum na infância. É altamente maligno e origina‑se nas células da retina. Ele pode se propagar para o SNC através do nervo óptico e pode causar metástases hematogênicas. Olá Estrategista, Essa questão cobra conceitos a respeito do câncer infantil. A leucemia linfoide aguda é o câncer mais comum na infância, sendo responsável por 30% do total de casos. O seu quadro clínico se relaciona com o grau de infiltração medular, sendo comum o achado de anemia, leucopenia e plaquetopenia. Dores ósseas são comumente encontradas, além dessas manifestações, podemos encontrar palidez, fenômenos hemorrágicos, febre, hepatomegalia, esplenomegalia e linfonodomegalia. Os tumores do sistema nervoso central representam a segunda causa mais comum da câncer infantil e a primeira de tumor sólido. São mais comuns na primeira década de vida. Metade dos casos tem origem nas células gliais. Os tumores de localização supratentorial ocorrem principalmente nos dois primeiros anos de vida e os infratentoriais são mais comuns em crianças maiores. As manifestações clinicas depensdem da localização do tumor e pode se observar sinais de hipertensão intracraniana, distúrbios da marcha, cefaleia, convulsão entre outros. Os linfomas ocupam o terceiro lugar em prevalência, sendo responsáveis por 15% dos casos. O Tumor de Wilms , também chamado de nefroblastoma, representa 7% dos tumores nas crianças as neoplasias que ocorrem nas crianças, sendo considerado o mais maligno da infância. A maior parte ( 78% ) acomete crianças entre 1 e 5 anos. Geralmente são oligossintomáticos e frequentemente são percebidos pelos pais durante o banho da criança ou ao brincar com elas. Pode se manifestar com hipertensão arterial, hematúria, dor abdominal e constipação intestinal. O neuroblastoma é um tumor originário das células primordiais da crista neural que dão origem à medula adrenal e gânglios simpáticos paraespinhais. Acomete geralmente crianças nos dois primeiros anos de vida. Cerca de 7% das neoplasias malignas da crianças são neuroblastomas. Consiste no tumor sólido extracraniano mais comum em Pediatria. O quadro clínico se relaciona com a sua localização e o achado mais encontrado é a massa palpável. Em 75% dos casos, já se encontram metástases no momento do diagnóstico, a febre é um sintoma comum. O retinoblastoma é o tumor intraocular mais comum em crianças e pode ocorrer de forma esporádica ou hereditária. Ele se origina das células da retina. A idade mais acometida é entre 2 e 3 anos de idade. Sintomas como estrabismo, hiperemia conjuntival e diminuição da acuidade visual podem ser encontrados. Ele é classicamente diagnosticado pelo reflexo do olho branco ou sinal do olho do gato. É um tumor que pode se propagar para o espaço subaracnoídeo e cérebro por meio do nervo óptico. A sua disseminação hematogênica, pode levar a metástases nos ossos, medula óssea, fígado. Podemos observar também o comprometimento dos linfonodos regionais.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6749,7 +6860,7 @@
       },
       "correta": "A",
       "explicacao": "Considerando‑se o padrão de sensibilidade dos agentes da comunidade e a faixa etária da criança, a maior parte dos pacientes acima de sessenta dias de vida pode ser tratada via oral, em regime ambulatorial, não havendo diferença na efetividade da terapêutica via oral ou parenteral. Olá, Estrategista, vamos falar de febre? A febre é um aumento da temperatura corporal em resposta a um estímulo, como bactérias, vírus e fungos (fatores exógenos), além de outros fatores de ativação, tais como: autoanticorpos, imunocomplexos, tumores (fatores endógenos). Esses estímulos ativam a liberação de pirógenos endógenos (citocinas endógenas), que são produzidos por macrófagos, monócitos, histiócitos, neutrófilos e eosinófilos. Os pirógenos endógenos (interleucina-1, interleucina-6, fator de necrose tumoral, interferon alfa) caem na corrente sanguínea e vão até a área pré-óptica do hipotálamo anterior, onde induzem um aumento abrupto de prostaglandinas. Essas prostaglandinas atuam elevando o patamar de termorregulação e causando a febre, ou seja, elevando o ponto de ajuste hipotalâmico → set point. Após o ponto de ajuste hipotalâmico ser aumentado, o centro termorregulador reconhece a temperatura corpórea atual como baixa e inicia uma série de eventos para elevá-la ao novo ponto de ajuste. A febre sem sinais localizatórios ocorre quando temos febre, com duração de menos de 7 dias, e que após uma boa anamnese e exame físico, não encontramos causa. A conduta é guiada por protocolos. Observe: Vamos às alternativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6777,7 +6888,7 @@
       },
       "correta": "B",
       "explicacao": "O diagnóstico de sequestro esplênico inclui sinais de agudização da anemia e aumento abrupto do tamanho do baço, podendo evoluir para choque hemorrágico e óbito. A anemia falciforme é o segundo tópico mais cobrado de Hematologia nas provas de residência, atrás apenas da anemia ferropriva. Trata-se de uma anemia hemolítica hereditária em que uma mutação autossômica recessiva altera a molécula de hemoglobina, dando-a a capacidade de polimerizar-se e, assim, alterar o formato bicôncavo habitual das hemácias. Surgem, assim, as hemácias em foice, ou drepanócitos, mostrados na imagem abaixo: Os drepanócitos são menos deformáveis que as hemácias normais, sofrendo hemólise precoce e, principalmente, obstruindo a microcirculação de órgãos e tecidos, causando eventos isquêmicos recorrentes. É por isso que a anemia falciforme é uma condição marcada por anemia hemolítica crônica e uma gama variada de crises vaso-oclusivas, que vão desde crises de dor a acidentes vasculares encefálicos. Com isso em mente, vamos julgar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6804,7 +6915,7 @@
       },
       "correta": "C",
       "explicacao": "A notificação não tem o poder de ser denúncia policial. GABARITO PRELIMINAR: ALTERNATIVA C. GABARITO APÓS A FASE DE RECURSOS: ANULADA. Estrategistas, a violência doméstica é um importante problema em saúde pública em nossa sociedade e, dada a sua importância epidemiológica, esse agravo é consta como sendo de notificação compulsória diante da suspeita ou confirmação da sua ocorrência. Todo profissional de saúde que se deparar com um possível episódio de violência doméstica, deverá obrigatoriamente fazer a notificação à autoridade de saúde competente, no caso as Secretarias Municipais de Saúde (SMS). A periodicidade dessa notificação deve ser de 7 dias, ou seja, em até uma semana da ciência do episódio de violência suspeita ou confirmada. Com isso em mente, três pontos são fundamentais de serem conhecidos: 1) O notificação independe da vontade da vítima, devendo ser feita mesmo que esta não concorde. 2) Não só a violência física é caracterizada no contexto da violência doméstica, mas a violência psicológica, sexual, financeira e negligência. 3) Como os grupos que mais sofrem com essa violência são os idosos, as crianças e as mulheres, além de fazer a notificação obrigatória à autoridade de saúde, faz-se necessário também a notificação à outros órgãos relevantes, como o Conselho Tutelar (crianças), Conselho de Saúde da Pessoa Idosa (idosos) e autoridade policial (mulheres)*. *cabe destacar que essa notificação à autoridade policial no caso de violência contra a mulher deve ser feita em até 24 horas, ou seja, de forma imediata, como uma forma de coibir episódios de feminicídio. Diante do exposto, vamos às alterativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6830,7 +6941,7 @@
       },
       "correta": "B",
       "explicacao": "A terapêutica com zinco foi considerada benéfica e, de acordo com a Organização Mundial de Saúde (OMS), deve ser usado em menores de cinco anos de idade, durante o período de dez a quatorze dias, sendo iniciado a partir do momento da caracterização da diarreia. Querido Estrategista, na diarreia aguda, saber identificar o estado de hidratação e manejo do paciente desidratado é questão recorrente nas provas. Vamos relembrar como fazer essa avaliação sistemática. O Ministério da Saúde caracteriza a desidratação em hidratado, desidratação e desidratação grave. Para realizar essa avaliação você deve seguir os seguintes passos: 1. Observar 2. Examinar 3. Decidir/Diagnosticar o grau de desidratação 4. Tratar de acordo com o plano adequado Observe o quadro abaixo: Para não precisar decorar a tabela, vamos facilitar. Os hidratados não tem nenhum sinal de desidratação. Os desidratados graves tem diminuição de nível de consciência (letargia, hipotonia, coma, sonolência).O que estiver no meio, é desidratado apenas. Com isso, definimos o plano que vamos utilizar. Observe: Vamos às alternativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -6856,7 +6967,7 @@
       },
       "correta": "D",
       "explicacao": "Passagem de sonda orogástrica, seguida de raio-X de tórax e abdome. Inicialmente, devemos perceber que todos os dados fornecidos pelo caso nos direcionam ao diagnóstico de atresia de esôfago. A atresia do esôfago é uma malformação congênita caracterizada pela interrupção da luz esofágica em sua porção torácica, com ausência de um segmento do esôfago. Na maioria dos casos, essa malformação é associada à fístula traqueoesofágica (FTE), que consiste em uma comunicação anormal entre o esôfago e a traqueia. Anatomicamente, a atresia se apresenta em 5 formas, representadas na imagem abaixo: O tipo mais comum é a atresia com fístula traqueoesofágica distal (Tipo III), em que o esôfago proximal termina em fundo cego, à distância de aproximadamente um a dois corpos vertebrais da fístula traqueoesofágica distal, tipicamente localizada logo acima da carina, na porção membranosa da traqueia. As principais manifestações clínicas dessa doença incluem: • Salivação excessiva. • Regurgitação. • Impossibilidade de progredir sonda gástrica. • Tosse ou engasgo durante a primeira alimentação oral. • Distensão gástrica aguda (pode ocorrer como resultado do ar entrando no esôfago distal e estômago através da fístula traqueal). • Tosse, taquipneia, cianose e/ou apneia - o refluxo do conteúdo gástrico para o esôfago distal pode ultrapassar a FTE e entrar de forma abrupta na traqueia. • Pneumonias aspirativas e atelectasia. Após o nascimento, diante de suspeita clínica, a parada de progressão de sonda nasogástrica a 8 a 12 cm da narina de um RN é característica cardinal para o diagnóstico da atresia de esôfago. Nesse contexto, podemos realizar radiografias simples de tórax e abdome e a interpretação desse exame pode ser feita da seguinte maneira: 1. A impossibilidade de progredir a sonda, associada à presença de gás no trato gastrointestinal abaixo do diafragma é altamente sugestiva de FTE associada. 2. Por outro lado, a impossibilidade de progredir uma sonda nasogástrica em bebê sem evidência radiográfica de gás no trato gastrointestinal é praticamente diagnóstica de atresia de esôfago isolada, ou seja, sem FTE. Isto posto, vamos avaliar separadamente cada uma das alternativas.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2024,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
@@ -6882,7 +6993,7 @@
       },
       "correta": "C",
       "explicacao": "acompanhar clinicamente sem intervenções. Olá Estrategista, Vamos salientar os principais dados do enunciado: - lactente de 2 meses e 10 dias - Nasceu a termo, sem intercorrências -peso de nascimento adequado -Teste de triagem neonatal com padrão FA: considerado normal -sintomas de choro ao fim da tarde (cólica do lactente?) -hemograma com 9,8 g/dL , com VCM e HCM no limite da normalidade, com outros parâmetros dentro da normalidade -ganho ponderal satisfatório ( cerca de 28,7g/dia, descontando a perda de 10% nos primeiros dias) Como estamos diante de um lactente sem fatores de risco para anemia ferropriva, com adequado ganho ponderal (normal entre 25 a30g/dia no primeiro trimestre), sem alterações no teste do pezinho e no exame físico, devemos pensar em anemia fisiológica do lactente. A ANEMIA FISIOLÓGICA DO LACTENTE é a principal causa de anemia em bebês saudáveis de até 3 meses de idade. Ela ocorre pela queda drástica da eritropoiese após o nascimento, associada à menor meia-vida das hemácias do lactente em relação à das hemácias adultas. O resultado é a queda dos níveis de hemoglobina, atingindo o nadir médio de 11 g/dL entre 2 e 3 meses de vida, e 7 a 9 g/dL em prematuros. Por ser fisiológica e não envolver carências nutricionais, a anemia fisiológica não requer tratamento, pois apresenta resolução espontânea, sem repercussão clínica, na imensa maioria dos casos.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2024,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024",
@@ -6906,7 +7017,7 @@
       },
       "correta": "A",
       "explicacao": "eritema infeccioso e parvovírus B19. GABARITO A Estrategista, vamos levantar os pontos principais da questão: - Eritema malar - \"face esbofeteada\" - Exantema rendilhado Isso é característico de eritema infeccioso. Vamos conhecê-lo. O eritema infeccioso é uma doença exantemática viral, altamente contagiosa, também chamada de parvovirose ou quinta doença, causada pelo Parvovírus B19. O principal alvo do parvovírus B19 é a linha eritroide. A infecção lisa a célula, causando depleção dos precursores eritroides e uma diminuição transitória da eritropoiese. Geralmente, não há pródromos, sendo a primeira manifestação o exantema. Ele começa na face, com maculopápulas que confluem, dando o aspecto de \"asa de borboleta\" ou \"face esbofeteada\". Em 1 a 4 dias após seu surgimento, evolui para os membros, inicialmente em face extensora, depois flexora e tronco, de aspecto rendilhado. O exantema pode persistir por mais de dez dias e pode exacerbar ou reaparecer quando a criança faz exercício, após estresse e na exposição ao frio ou calor. O tratamento é apenas sintomático e, além disso, orientação aos responsáveis. Não há vacina disponível, nem profilaxia pós-exposição.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -6932,7 +7043,7 @@
       },
       "correta": "A",
       "explicacao": "a vacina é uma formulação tetravalente de vírus vivos atenuados. GABARITO A A vacina em questão é a Qdenga. Ela é uma vacina viva atenuada, composta de proteção conta os quatro sorotipos da dengue: 1,2,3,4. Esla está indicada dos 4 aos 60 anos, 2 doses, com intervalo de 3 meses entre elas. Pode ser aplicada independentemente da sorologia prévia do paciente, diferente da vacina anterior (Dengvaxia), que só poderia ser aplicada em soropositivos para dengue. Devido a falta de vacinas para distribuição pelo próprio fabricante, ela está sendo disponibilizada, pelo PNI, para populações de risco e algumas regiões do Brasil.Atualmente, o grupo a qual está sendo ofertada a vacina é o de indivíduos de 10 a 14 anos, de algumas cidades, dos seguintes estados: AC, AM, BA, DF, ES, GO, MA, MS, MG, PB, PR, RJ, RN, RR, SC, SP e TO. Vamos às alternativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -6958,7 +7069,7 @@
       },
       "correta": "B",
       "explicacao": "coqueluche, Bordetella pertussis e azitromicina Olá Estrategista Nesse enunciado vemos um lactente com tosse arrastadaa, que evoluiu com piora apresentado vômitos, crises de tosse, pletora facial, guincho e cianose: devemos pensar em coqueluche! A coqueluche é causada predominantemente pela bactéria Bordetella pertussis. A doença ocorre principalmente nos menores de um ano de idade. Ela acomete principalmente traqueia e brônquios, e isto explica, em parte, a sintomatologia. Ela ocorre em 3 fases: - Catarral: dura 1 a 2 semanas, apresenta sintomas leves como de quaisquer infecções de vias aéreas superiores (IVAS), com febre baixa, sendo indistinguível das outras IVAS nesta fase. No final deste período, a tosse seca vai se intensificando e passa a ocorrer em surtos, cada vez mais frequentes e intensos e passamos para próxima fase. – Fase paroxística: dura 2 a 6 semanas. Como o nome diz, iniciam-se os paroxismos de tosse seca, com duração de menos de 45 segundos, nos quais o paciente tem uma súbita crise de vários episódios seguidos de uma tosse curta, seguida de uma dificuldade de inspirar, então, o paciente costuma forçar a inspiração súbita e prolongadamente, causando um barulho característico, que é o guincho. Podemos ter também cianose e vômitos pós-tosse. - Fase de convalescença: dura também mais 2 a 6 semanas, somem os paroxismos e, portanto, os guinchos, e volta a tosse “normal”, que pode durar até 3 meses. Os exames quase sempre são solicitados e ajudam no diagnóstico, apesar de não serem específicos. A radiografia de tórax, tem como padrão mais frequente os opacidades peri- hilares, chamado de “coração borrado ou franjado” (ou ainda, “felpudo”) porque as bordas cardíacas não são nítidas, devido às opacidades pulmonares. O hemograma é um grande auxílio ao diagnóstico da coqueluche. As alterações laboratoriais típicas são a leucocitose com linfocitose, que se intensificam na fase paroxística. O diagnóstico específico pode ser feito por cultura para identificação da B. pertussis em material coletado da nasofaringe. Outro exame específico é o da reação em cadeia da polimerase em tempo real (RT-PCR). O tratamento da coqueluche deve ser feito com macrolídeos. Atualmente, indica-se como primeira opção a azitromicina.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -6982,7 +7093,7 @@
       },
       "correta": "E",
       "explicacao": "a principal proteína do leite materno é a lactoalbumina; e o principal carboidrato, a lactose. Olá Coruja O colostro é o primeiro leite produzido pelas mamas, em pequena quantidade, na primeira semana após o parto até o início da apojadura. A partir daí e durante a segunda semana de vida do bebê, temos o leite de transição. Depois da segunda semana, temos o leite maduro. A produção de leite começa em menor quantidade e vai aumentando com o passar dos dias. A principal característica do colostro é que ele é RICO EM PROTEÍNAS. Além disso, tem menos lactose, gorduras e calorias do que o leite maduro. É rico em componentes imunológicos (como IgA, lactoferrina, interleucinas e fatores de crescimento), minerais e vitaminas lipossolúveis (A, E e K, principalmente). É considerado a primeira vacina do bebê, pois confere a ele proteção contra inúmeras doenças. A principal proteína presente no leite materno é a lactoalbumina. A do leite de vaca é a caseína, proteína de difícil digestão para os humanos.O leite humano apresenta níveis elevados de ácidos graxos essenciais (linoleico e alfalinolênico) e de ácidos graxos de cadeia longa (ômega 3 e ômega 6). Eles desempenham um importante papel na formação e maturação do sistema nervoso central e visual (da retina) do lactente. Para os prematuros, isso chega a ser mais importante, já que, neles, esse processo de desenvolvimento ainda está sendo concluído. Os lipídios do leite humano constituem também um dos principais componentes energéticos para o lactente, pois sabemos que sua concentração vai aumentando com o decorrer da mamada. O leite humano também contém lipase, que auxilia na digestão dos lipídios. Ela pode estimular a produção de lipase pelo bebê e tem um efeito protetor contra alguns microrganismos, como a Giardia lamblia. O principal carboidrato presente no leite humano é a lactose (um dissacarídeo), presente em maior quantidade no leite maduro. Há, também, mas em menor quantidade, glicose e galactose (monossacarídeos). A lactose do leite materno tem funções importantes, deixa as fezes mais amolecidas e o pH intestinal mais ácido, aumentando a absorção de cálcio e gerando um ambiente menos propício para proliferação de patógenos. Exerce uma importante função no desenvolvimento da microbiota intestinal. Isso vem sendo muito estudado! O leite de vaca, por sua vez, tem menos lactose do que o humano. O ferro no leite humano tem baixa concentração, mas apresenta uma boa biodisponibilidade, sendo bem absorvido. Em crianças que são amamentadas, as fontes de vitamina D são os estoques pré-natais e a exposição à luz solar, sendo pequena a contribuição do leite humano. Algumas pesquisas mostram que sem a exposição solar pós-natal, os estoques de vitamina D se esgotariam em até oito semanas, isso reforça a necessidade da suplementação dessa vitamina em lactentes. A vitamina K é escassa no leite humano e deve ser administrada ao nascimento como medida preventiva da doença hemorrágica do recém nascido. O leite materno possui componentes probióticos e prebióticos. Entre os probióticos há bactérias não patogênicas, como diferentes tipos de Lactobacillus (como o Lactobacillus bifidus e o Lactobacillus reuteri). Entre os prebióticos, podemos destacar uma grande quantidade de oligossacarídeos específicos, que servem de “alimento” para bactérias não patogênicas, propiciando um ambiente menos favorável a bactérias patogênicas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7006,7 +7117,7 @@
       },
       "correta": "E",
       "explicacao": "agamaglobulinemia GABARITO E Olá, Estrategista. O teste do pezinho serve para triagem de algumas doenças graves, com poucas manifestações clínicas ao nascimento e que a intervenção precoce mude o prognóstico. Ele deve ser realizado entre o 3º e o 5º dia de vida, nunca antes das 48 horas de vida e nem depois dos 30 dias de vida. A coleta é feita por profissional capacitado, com sangue coletado do pé do RN e pode ser feito no hospital ou em Unidades Básicas de Saúde. Atualmente, as doenças triadas (se liga no mnemônico) são: Das alternativas, a agamaglobulinemia não é triada no teste do pezinho.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7032,7 +7143,7 @@
       },
       "correta": "A",
       "explicacao": "olhar quando chamado pelo nome e sentar‑se sem suporte Olá Estrategista, Para responder a essa questão precisamos conhecer os marcos do desenvolvimento neuropsicomotor por faixa etária, observe: Até os 9 meses o lactente deve: -brincar de esconde achou, -transferir objetos de uma mão para a outra -duplicar sílabas -sentar-se sem apoio",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7060,7 +7171,7 @@
       },
       "correta": "D",
       "explicacao": "No segundo trimestre de vida, o lactente aumenta o perímetro cefálico, em média, 1 cm/mês. GABARITO: ALTERNATIVA D Para que se obtenha uma visão completa do crescimento da criança desde o nascimento, são usados os parâmetros de peso, comprimento e perímetro cefálico. A avaliação desses três parâmetros deve ser realizada rotineiramente desde o nascimento até os 3 anos de vida. Após os 2 anos, o peso e a estatura precisam ser monitorados rotineiramente. A aferição desses parâmetros deve ser realizada de acordo com técnicas pré-estabelecidas de domínio dos pediatras. Após a aferição dessas medidas, esses valores são inseridos em curvas de crescimento, que permitem a avaliação dinâmica do crescimento. Vamos analisar as alternativas:",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7087,7 +7198,7 @@
       },
       "correta": "A",
       "explicacao": "checar pulso no pulso carotídeo e, na ausência de pulso, realizar desfibrilação com 2 j/kg GABARITO A Estrategista, quando temos uma criança inconsciente, precisamos verificar se ela está em parada cardiorrespiratória. Os pulsos a serem palpados são: - Bebês (até 1 ano): braquial. - Crianças (maiores de um ano até sinais de puberdade): carotídeo Precisamos lembrar também que a PCR pediátrica tem 4 ritmos possíveis, dois chocáveis e dois não chocáveis. Observe: A fibrilação ventricular é um ritmo chocável, portanto, a prioridade é o choque (desfibrilação). Siga comigo a sequência. 1. Enquanto o desfibrilador é preparado, deve-se iniciar a RCP imediatamente, até que ele esteja pronto para uso. 2. Desfibrilar (choque não sincronizado) o paciente com 2 J/kg. 3. Retomar a RCP por mais dois minutos antes de checar o ritmo. 4. Se permanecer chocável, aplicar a desfibrilação com 4 J/kg. 5. Reiniciar imediatamente as manobras de RCP por mais 2 minutos. ✷ Nesse momento, o acesso venoso já deve estar preparado para que uma primeira dose de adrenalina seja aplicada. Essa medicação pode ser realizada a cada 3 minutos, se necessário. 6. Avaliar o ritmo no monitor, se ainda permanecer como chocável, aplica-se outro choque de 4 J/kg. 7. RCP deve recomeçar e ser mantida por mais dois minutos. 8. Considerar o uso de um antiarrítmicos, de preferência a amiodarona. Na ausência da amiodarona, pode-se utilizar a lidocaína e já começar a pensar nas possíveis causas reversíveis de PCR. Vamos analisar as alternativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7115,7 +7226,7 @@
       },
       "correta": "B",
       "explicacao": "peso adequado/IMC com risco de sobrepeso Olá Coruja, Vamos resolver juntos essa questão de classificação nutricional de uma menina de 3 anos e 2 meses de idade. De acordo com os gráficos temos: 1) peso para a idade entre escore Z+1 e +2 Classificação: peso adequado 2) IMC entre escore Z+1 e +2 Classificação: risco de sobrepeso",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7144,7 +7255,7 @@
       },
       "correta": "B",
       "explicacao": "recolher amostras de água e de alimentos para análise laboratorial e verificar a qualidade sanitária da creche. GABARITO: ALTERNATIVA B. Estrategista, Mais uma questão do SUS SP em que a banca trouxe o aumento do número de casos de uma determinada doença e deseja saber do candidato qual deve ser a primeira medida a ser tomada pela Vigilância Epidemiológica. Desta vez, trata-se do aumento de casos de diarreia aguda em uma creche.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2025,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
@@ -7167,7 +7278,7 @@
       },
       "correta": "C",
       "explicacao": "Quarto de isolamento com precaução de gotícula para Caio e quarto compartilhado com precauções de contato para Enzo e Miguel. GABARITO: ALTERNATIVA C A bronquiolite é uma infecção respiratória viral que afeta as vias aéreas inferiores, especialmente em crianças pequenas. O vírus mais comum que causa bronquiolite é o vírus sincicial respiratório (VSR). Outros vírus, como rinovírus, adenovírus, metapneumovírus humano e os vírus parainfluenza, também podem causar a doença. O tratamento da bronquiolite geralmente é de suporte, com foco na hidratação adequada e na manutenção das vias aéreas permeáveis. Oxigenoterapia pode ser necessária em casos de hipoxemia, e em casos mais graves, a ventilação mecânica pode ser considerada. Veja como são recomendadas as precauções para os vírus citados nessa questão: ● VSR e Parainfluenza: precauções de contato e padrão. ● Influenza: precauções para gotículas e padrão.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7190,7 +7301,7 @@
       },
       "correta": "D",
       "explicacao": "Observar clinicamente. GABARITO D Olá, Estrategista. O estrabismo ocorre quando há um desalinhamento dos olhos. O alinhamento ocular é essencial para um desenvolvimento normal da visão e previne a ocorrência de diplopia. O estrabismo pode ser constante ou intermitente, e há vários tipos de estrabismo, como a esotropia, a exotropia e os desvios verticais (hipertropias) e torsionais, que podem ser classificados em comitantes ou incomitantes. No comitante, o desvio é o mesmo em todas as posições do olhar, e os olhos movem-se em todas as direções, sendo o tipo mais comum. Já no desvio incomitante, o desvio é diferente nas diferentes posições do olhar, e observa-se limitação dos movimentos oculares, que pode ser causada por restrições ou paresias/paralisias do terceiro, quarto ou sexto nervo craniano. A esotropia congênita, esotropia infantil ou do lactente é a forma mais frequente de estrabismo na infância. O estrabismo antes dos 4/5 anos não se traduz em diplopia pois existe supressão do olho não fixador. Essa supressão é um mecanismo de defesa para evitar a diplopia e a confusão de imagens, interrompendo o desenvolvimento visual binocular com perda da fusão e estereopsia. Agora, caso ocorra desvio ocular após os 6-7 anos de idade, quando a visão binocular já se desenvolveu, haverá diplopia. Ao nascimento, o alinhamento ocular é variável, de modo que 70% das crianças apresentam pequena e variável exotropia. Isso é comum e autolimitado. Porém, pacientes com estrabismo após os 2 meses devem ser encaminhados ao oftalmologista.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7213,7 +7324,7 @@
       },
       "correta": "B",
       "explicacao": "GABARITO B Olá, Estrategista, temos aqui uma criança que deu entrada com desidratação grave. Pelo Ministério da Saúde, a conduta inicial para esses casos é sempre a expansão volêmica com soro fisiológico ou ringer lactato, no plano C. Devem ser realizados os seguintes volumes: - Menores de 1 ano: 30 ml/kg de SF 0,9% ou Ringer Lactato, em 1 hora + 70 ml/kg de SF 0,9% ou Ringer Lactato, em 5 horas. - Maiores de 1 ano: 30 ml/kg de SF 0,9% ou Ringer Lactato, em 30 minutos + 70 ml/kg de SF 0,9% ou Ringer Lactato, em 2h e 30minutos. Entendo que a \"estabilização inicial\" descrita no enunciado correspondeu à administração deste soro. Agora vamos para a fase do soro de manutenção. O primeiro passo para montar um soro de manutenção é definir a necessidade hídrica diária do paciente. Para calcularmos a necessidade hídrica diária, usamos a regra de Holliday- Seggar: O resultado dessa regra é o que chamamos de peso calórico do paciente. A necessidade hídrica diária do paciente, em mL, é peso calórico X 100. Para o nosso paciente, temos um peso calórico de 14 kg. Ou seja, a oferta hídrica diária dele é de 1200 ml. Se formos deixar um volume de 1200 ml correr ao longo de 24 horas (já que é a oferta hídrica diária), a velocidade de infusão na bomba será de 50 ml/h. Beleza, já temos uma parte da resposta. Agora precisamos descobrir como será composta a solução que vai conter esses 1200 ml da oferta diária. O ideal é que seja uma solução ISOTÔNICA, isto é, com uma osmolaridade próxima da plasmática do paciente para evitar oscilações bruscas de sódio, beleza? Com a necessidade hídrica na mão, fazemos o cálculo do soro de manutenção isotônico, com a seguinte base: SORO GLICOSADO 5-10% 1.000ml + NaCl 20% 40ml + KCl 19,1% 10ml Vamos voltar ao caso então? A criança tem 14 quilos, com gasometria com pH normal, tendendo um pouco para acidose, com bicarbonato no limite inferior e saturação adequada. O paciente está hiponatrêmico, porém, como está assintomático e com sódio acima de 120mEq/L, não há indicação de reposição rápida. O paciente também está com hipocalemia, porém não grave (<2,5meq/L), portanto, não há necessidade de correção rápida como afirmam as alternativas C e D. Vamos aos cálculos então: 1. Necessidade hídrica diária = 1000 + 50x4 = 12 kg x 100 ml = 1200ml/ dia Se dividirmos por 24 horas, o volume deve ser infundido em 50ml/hora. Se não houvesse a necessidade de potássio, encerraríamos por aí: 100ml SG + 40 ml de Nacl 20% + 10ml de KCl 19,1%, correr 50ml/h. 2. Necessidade do potássio: Mas, vamos repor o potássio agora. A reposição é feita entre 40 a 60 meq/L (40 em veia periférica). O KCl 19,1% tem 2,5mEq/ml. Então, em 1000ml da solução, precisamos de 40 mEq do KCl 19,1% Agora, regra de três Se em 1 ml ------- 2,5 mEq x ml -------40 mEq x= 16ml Portanto, precisamos de 16 ml de KCl 19,1% Assim, chegamos na prescrição final padrão USP: - SG 10% 1.000 ml - NaCl 20% 40ml - KCl 19,1% 16ml Correr EV a 50ml/hora.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7246,7 +7357,7 @@
       },
       "correta": "B",
       "explicacao": "proteína extensamente hidrolisada. GABARITO B Olá, Estrategista. A alergia à proteína do leite de vaca (APLV) é a alergia alimentar mais comum nas crianças. Alergia alimentar é uma resposta do organismo à exposição a um determinado alimento, seja por ingesta, inalação ou contato. Elas podem ser mediadas por IgE, não mediadas por IgE ou mistas. As manifestações mediadas por IgE são imediatas e podem levar à anafilaxia. Alguns exemplos: urticária, angioedema, broncoespasmo. As não IgE mediadas podem levar horas a dias e geralmente são gastroenteropatias. As mistas trazem os dois mecanismos. Exemplos são a esofagite e a gastrite eosinofílicas. A clínica da APLV depende se ela é ou não mediada por IgE, porém, geralmente os sintomas são gastrointestinais, principalmente a proctocolite, a qual causa sangue nas fezes. O tratamento é de exclusão das proteínas da dieta do bebê. Se o lactente está em aleitamento materno exclusivo, a conduta é a dieta de exclusão das proteínas do leite de vaca feita pela mãe. Caso a alimentação seja por fórmula infantil, é indicado utilizar as fórmulas de proteínas extensamente hidrolisadas, em que as proteínas são hidrolisadas (quebradas) e perdem seu potencial alérgeno. Para diagnóstico definitivo, usamos o teste de provocação oral. Após 2 a 4 semanas do lactente assintomático, reintroduzimos o leite de vaca e observamos se há retorno dos sintomas.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7271,7 +7382,7 @@
       },
       "correta": "A",
       "explicacao": "Icterícia neonatal fisiológica, por redução de glicuronil transferase. GABARITO A Olá, Estrategista. Nas questões de icterícia, a primeira coisa a ser feita é definir se ela é fisiológica ou patológica. Observe. Vamos analisar o RN da questão. - 36 horas de vida. A icterícia não é precoce, ou seja, não iniciou antes de 24 horas de vida. - A perda ponderal é de 4%, consideramos normal quando temos perda de até 7 a 10% do peso de nascimento. - Mãe A e RN B. Para pensarmos em icterícia patológica por incompatibilidade ABO, a mãe deveria ser O e o RN A ou B. - Mãe Rh negativa, RN Rh positiva. Coombs direto e indireto negativos. Na incompatibilidade Rh, a mãe é negativa, o RN positivo e os coombs são positivos. - A bilirrubina total é de 7mg/dL, ou seja, abaixo do nível patológico. Perceba que o RN não tem nada que nos indique uma icterícia patológica e, portanto, deverá ser considerado como portador de icterícia fisiológica. As causas de hiperbilirrubinemia fisiológica são: • aumento da degradação das hemácias e tempo menor de meia-vida comparado aos dos adultos (70 a 90 dias nos RNs x 120 dias dos adultos); • maior número de hemácias, hemoglobina e hematócrito pela baixa saturação de oxigênio intraútero; • menor capacidade de captação, conjugação e excreção por imaturidade do sistema hepático; • aumento da circulação entero-hepática pela menor motilidade intestinal, principalmente em neonatos com dificuldade de amamentação, que eliminam pouco mecônio; • antes do nascimento, a bilirrubina era excretada pela placenta; ao nascer, essa depuração cessa; • clampeamento tardio do cordão, por uma maior passagem de sangue ao neonato. Vamos às alternativas.",
-      "banca": "SP - Universidade de São Paulo - USP - SP (Hospita",
+      "banca": "USP-SP",
       "instituicao": "SP - Universidade de São Paulo - USP - SP (Hospita",
       "ano": 2025,
       "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025",
@@ -7666,7 +7777,7 @@
       },
       "correta": "E",
       "explicacao": "A encefalopatia bilirrubínica tem, como sintomas iniciais, a hipotonia e a sucção débil, progredindo em três a quatro dias para hipertonia, opistótono, hipertermia, convulsões e choro agudo. Olá, Estrategista, temos dois tipos de icterícia: fisiológica e patológica. A fisiológica é a mais comum e acomete cerca de 60% dos neonatos de termo. Ela não exige tratamento. Já a patológica decorre principalmente de incompatibilidade sanguíneas, como ABO e Rh. Ela vai sempre exigir triagem laboratorial e tratamento. Observe. Vamos às alternativas.",
-      "banca": "SP - Sistema Único de Saúde - SUS SP",
+      "banca": "SUS-SP",
       "instituicao": "SP - Sistema Único de Saúde - SUS SP",
       "ano": 2024,
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2024",
@@ -8281,7 +8392,7 @@
       },
       "correta": "C",
       "explicacao": "Apgar familiar GABARITO: ALTERNATIVA C Referência Bibliográfica: 1. Dias, R. B; e Guimarães, F. C. Disciplinas - Universidade de São Paulo - Abordagem Familiar. Disponível em: https://edisciplinas.usp.br/pluginfile.php/5464546/mod_resource/content/0/Abordagem%20Fam Estrategistas, questão versando sobre o tema ferramentas de abordagem familiar! O que foi descrito no enunciado dessa questão é uma dessas ferramentas, conhecida como APGAR FAMILIAR. Vamos estudá-la um pouco melhor! O APGAR familiar é um clássico instrumento de abordagem que avalia diretamente o grau de satisfação de cada um dos membros da família através de um questionário estruturado em 5 perguntas. A avaliação desse grau de satisfação permite compreender e classificar a funcionalidade das relações familiares. Cada uma das perguntas do questionário acaba por avaliar um dos campos da relação familiar, sendo que a união das iniciais das palavras que os descrevem a formadora do acróstico APGAR. Veja: Adaptation (Adaptação) - 1. “Estou satisfeito com a atenção que recebo da minha família quando algo está me incomodando?” Partneship (Participação) - 2. “Estou satisfeito com a maneira que a minha família discute as questões de interesse comum e compartilha comigo a resolução dos problemas?” Growth (Crescimento) - 3. “Sinto que minha família aceita meus desejos de iniciar novas atividades ou de realizar mudanças em meu estilo de vida?” Affection (Afeição) - 4. “Estou satisfeito com a maneira com que a minha família expressa afeição e reage em relação aos meus sentimentos de raiva, tristeza e amor?” Resolve (Resolução) - 5. “Estou satisfeito com a maneira com que eu e a minha família passamos o tempo juntos?” Para cada um desses campos, e suas consequentes perguntas avaliativas, o indivíduo poderá responder: \"Quase sempre\", \"Às vezes\", e \"Raramente”. A resposta \"Quase sempre\" soma 2 pontos; a resposta \"Às vezes\" soma 1 ponto; e a resposta \"Raramente\" soma 0 pontos. O escore final se dá pela soma dos pontos de cada uma das respostas obtidas e se traduz no seguinte escore e nas seguintes condutas: 0-7 > Família altamente funcional - nenhuma intervenção será necessária. 4-6 > Família moderadamente disfuncional - a própria equipe de saúde deverá intervir na situação. 0-3 > Família severamente disfuncional - deverá ser feito encaminhamento da família para que a intervenção seja feita por um terapeuta familiar. Portanto, em face do que foi discutido, fica evidente que iremos assinalar a alternativa C como gabarito da questão.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8304,7 +8415,7 @@
       },
       "correta": "D",
       "explicacao": "Todo recém-nascido de mãe com diagnóstico de sífilis durante a gestação, independentemente do histórico de tratamento materno, deverá realizar teste não treponêmico no sangue periférico. Olá, Estrategista, sempre que temos uma questão sobre conduta na sífilis congênita, a primeira coisa que precisamos saber é se a mãe foi ou não adequadamente tratada, observe: A partir daí, temos dois caminhos a seguir: 1) A mãe não foi tratada ou foi inadequadamente tratada. Todos os RNs são considerados portadores de sífilis congênita, deverão ser triados e tratados. Observe o fluxo. 2) Mãe adequadamente tratada. Aqui, são considerados expostos à sífilis e deverão coletar VDRL e realizar exame físico detalhado. Observe o fluxo. Vamos às alternativas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8331,7 +8442,7 @@
       },
       "correta": "A",
       "explicacao": "Meningo ACWY – 1 dose entre 11-14 anos de idade Fala, Coruja! Questão direta sobre o Programa Nacional de Imunizações, bora lá? Curiosamente, a questão traz várias vacinas que são aplicadas no período da adolescência. O calendário dos adolescentes é composto por: • 2 vacinas próprias dos adolescentes: HPV e meningocócica ACWY. • 1 vacina que gosto de chamar de grudenta ou de \"chiclete\", pois ela vai estar presente em todos os calendários a partir daqui: dT. • 3 vacinas que \"olham para trás\", para o calendário anterior, pois, se já tiverem sido aplicadas, não precisam de novas doses: hepatite B, febre amarela e tríplice viral. Feita essa revisão, fica fácil responder à questão:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8359,7 +8470,7 @@
       },
       "correta": "A",
       "explicacao": "zinco. Olá, Estrategista. Após a resolução da desidratação na unidade de atendimento, é recomendado que a criança vá para casa com a prescrição do plano A, para prevenção de nova desidratação. PLANO A (Dica mental: \"Ah, vá pra casa\") Em que consiste? 1. Ingerir mais líquido que o habitual. Água de arroz, soro caseiro, sucos, chás, sopas, sucos, OU, ao invés desses líquidos, soro de reidratação oral (SRO) após cada evacuação diarreica. NÃO utilizar refrigerantes e não adoçar o chá. • Menores de 1 ano devem receber de 50-100ml de líquidos após cada evacuação; • Crianças de 1 a 10 anos devem receber 100-200ml; e • Maiores de 10 anos, a quantidade que aceitar. 2. Manter a alimentação habitual para evitar desnutrição. A criança deve manter sua alimentação habitual, não há restrição de alimentos, nem da lactose. Novos alimentos não devem ser introduzidos pelo risco de levarem à alergia alimentar. 3. Levar o paciente a um serviço de saúde se não melhorar em dois dias ou se evoluir com um dos sinais de perigo abaixo descritos. SINAIS DE PERIGO: Piora da diarreia Vômitos repetidos Sede intensa Recusa alimentar Sangue nas fezes Diminuição da diurese 4. Administrar zinco uma vez ao dia, durante 10 a 14 dias. -Até 6 meses: 10 mg/dia - 6 meses a 5 anos: 20mg/dia 5. Orientar o paciente e seu acompanhante quanto aos SINAIS DE DESIDRATAÇÃO, a MEDIDAS DE HIGIENE (lavagem de mãos, alimentos e tratamento da água) e quanto à PREPARAÇÃO DO SRO.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8382,7 +8493,7 @@
       },
       "correta": "B",
       "explicacao": "doença de Osgood-Schlatter. GABARITO: ALTERNATIVA B O que o examinador quer saber com esta pergunta? Diagnóstico diferencial de dores nos joelhos da criança. O que você precisa saber para responder esta questão? Dores nos joelhos na criança É sempre essencial lembrar que a dor no joelho da criança deve fazer pensar em uma patologia do quadril. Por isso, sempre que for avaliar uma criança com esta queixa, é mandatório o exame físico e por imagem dos quadris. Apresento aqui uma tabela comparativa das principais doenças do joelho nas crianças: TAT: Tuberosidade Anterior da Tíbia. Doença de Osgood-Schlatter É uma osteocondrite, ou seja, uma inflamação da fise de crescimento que ainda não se fundiu totalmente. Acomete principalmente meninos, na pré-adolescência, sendo uma queixa muito comum de ambulatório. Apresenta-se como uma dor na tuberosidade anterior da tíbia (TAT), relacionada a atividades de salto e chute, ou explosão do quadríceps. À radiografia, observam-se esclerose e fragmentação (que são achados característicos de todas as osteocondrites). A doença é autolimitada, resolvendo-se com a fusão da TAT. Dica: a frase chave para a resolução desta questão é: aumento do volume com tumefação da TAT. Isso é extremamente característico de Osgood-Schlatter. Discussão das alternativas",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8408,7 +8519,7 @@
       },
       "correta": "D",
       "explicacao": "Tabagismo materno na gestação. Estrategista, Vamos à definição de síndrome da morte súbita infantil. Morte súbita e inesperada em crianças menores de 1 ano de idade, que não é explicada após avaliação da cena, autópsia e histórias clínica e social completas. É necessário sempre tentar excluir outras causas de morte súbita e inesperada quando o quadro mimetizar SMSL, como exemplo: sepse, hipertermia, anafilaxia, asfixia, erros inatos do metabolismo, fibrose cística, entre outras. A fisiopatologia é um assunto complexo, caro aluno. Temos muitas hipóteses sobre o mecanismo fisiopatológico da SMSL, mas nenhuma comprovação. A explicação mais aceita sobre a fisiopatologia é um modelo de risco triplo para SMSL, sugerindo que a síndrome ocorre em bebês: I. com vulnerabilidade subjacente (padrão genético, anormalidades no tronco encefálico); II. que apresentam evento desencadeante (exemplo: tabagismo materno, infecção); e III. que estejam em um ambiente vulnerável. Os fatores de risco podem ser divididos em: -maternos: tabagismo, uso de drogas, doença mental, complicações na gravidez, infecção do trato urinário e doenças sexualmente transmissíveis, -relacionados ao bebê: prematuridade, dormir de bruços, irmão mais velho com SMS, gemelaridade, baixo peso, sexo masculino -ambientais: colchão macio, cobertas soltas, objetos dentro do berço, cama compartilhada, travesseiros, protetores de berço, superaquecimento Existem estratégias que podem reduzir efetivamente o risco de morte súbita do lactente. A cama compartilhada é um fator de risco. Por outro lado, dividir o quarto com os pais, mas no seu próprio berço, é um fator de proteção. Bebês gêmeos devem dormir cada um em seu berço para que não aumentem as chances de ocorrer a SMSL. A amamentação parece ser um fator protetor independente para a SMSL. Estudos mostraram que a amamentação por pelo menos dois meses quase reduziu pela metade o risco de morte súbita. Estudos observacionais apontam para a redução do risco de SMSL com o uso de chupeta durante o sono. O mecanismo para essa associação não é claro. Por fim, a imunização pode diminuir a incidência de SMSL. E não se esqueça da orientação mais valiosa: todas as crianças, durante todos os sonos do dia e da noite, devem ser colocadas para dormir na posição supina (de barriga para cima).",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8433,7 +8544,7 @@
       },
       "correta": "B",
       "explicacao": "Redução da ferritina Olá Estrategista, Sabemos que lactentes apresentam um risco elevado de desenvolver anemia ferropriva. Essa condição pode levar a consequências deletérias ao crescimento e desenvolvimento dessas crianças, tais como: • Prejuízo motor; • Prejuízo de desenvolvimento cognitivo; • Rendimento escolar precário; • Maior predisposição a infecções e • Dificuldades inclusive afetivas e de concentração Não só a anemia, mas também a deficiência de ferro, pode causar prejuízos cognitivos irreversíveis. A falta do ferro durante o período de formação neuronal prejudica a função cerebral em desenvolvimento na criança, causando alterações estruturais no cérebro. Os sintomas mais comuns são os típicos de uma síndrome anêmica como palidez, astenia, palpitações. Além desses sintomas secundários à redução de hemoglobina, algumas alterações particulares da deficiência de ferro ajudam-nos a suspeitar mais facilmente desse diagnóstico. É o caso da glossite atrófica (perda da rugosidade da língua) e da queilite angular (inflamação das comissuras labiais), sinais de exame físico encontrados em todas as anemias carenciais, e, portanto, também presentes na anemia megaloblástica por deficiência de vitamina B12 e ácido fólico. Algumas outras alterações já são mais específicas da anemia ferropriva. É o caso da pica ou parorexia, uma compulsão alimentar marcada pela compulsão em ingerir substâncias não tipicamente alimentares como gelo, terra e arroz cru. Apesar de não ser patognomônica da deficiência de ferro e poder ocorrer na carência de zinco ou de forma primária, a pica é um estado muito associado à ferropenia. A coiloníquia, a formação de uma depressão central no leito das unhas, considerada bastante específica de anemia ferropriva. Manifestações neurológicas como sonolência, atraso do desenvolvimento neuropsicomotor, dificuldade de concentração, tontura e desmaio também podem ser encontrados. Dessa maneira, a profilaxia é fundamental para tentar evitar esse mal, muitas vezes oculto ou negligenciado entre os problemas de saúde mais relevantes da população pediátrica. Essa ação tem impacto não só individual, mas também socioeconômico, a longo prazo, para a sociedade como um todo. A anemia ferropriva é a causa mais frequente de anemia em todo o mundo. Nessa condição, há uma redução do conteúdo de ferro do organismo, por carência nutricional (causa mais comum em crianças), perdas aumentadas por sangramento crônico (causa mais comum em adultos) ou comprometimento da absorção do mineral (como na doença celíaca). Qualquer que seja sua causa, a presença de menos ferro no organismo faz com que a produção de hemoglobina seja prejudicada, uma vez que esta molécula é composto pela união de cadeias de globina com grupos hemes (a combinação de ferro e protoporfirina). Sem seu principal componente, as hemácias não crescem adequadamente, tornando-se menores em tamanho (microcíticas) e com menor teor de hemoglobina (hipocrômicas). É por isso que a anemia ferropriva é classicamente hipo/micro, ainda que seja normo/normo em seus estágios iniciais. O diagnóstico é feito principalmente pela dosagem de ferritina, o marcador mais sensível e específico para diagnosticar a ferropenia. A molécula de ferritina é responsável pelo armazenamento do ferro e, por isso, sempre que a ferritina estiver reduzida, podemos concluir que há deficiência de ferro. Na anemia ferropriva observamos a presença de grande anisocitose, ou seja, hemácias de tamanhos diferentes entre si. Isso ocorre porque parte das hemácias são geradas quando ainda há ferro disponível e outra parte é deficiente, microcítica, o que gera uma população eritrocitária muito heterogênea. Essa anisocitose é expressa por grandes elevações do RDW (red cell distribution width), um índice que mede justamente a variação de volume entre as hemácias. A saturação da transferrina mede quantos dos sítios de ligação de ferro dessa molécula estão ocupados. Quer dizer, a saturação da transferrina é a “ocupação” da transferrina. Dessa forma, nada mais é que outra forma de medirmos o ferro circulante: se houver muito ferro sérico, estará ligado à transferrina, aumentando sua saturação. E se houver pouco ferro disponível, haverá menos ferro ligado à transferrina e, consequentemente, menor saturação dessa molécula. A capacidade total de ligação de ferro (CTLF) ou total iron binding capacity (TIBC) é uma medida de todos os sítios de ligação de ferro presentes no sangue do paciente, ocupados ou não. Dessa forma, a CTLF nada mais é que uma medida indireta da transferrina: se tivermos muita transferrina, teremos mais sítios de ligação de ferro e, assim, maior CTLF. É importante lembrar que a transferrina é uma proteína de fase aguda, ou seja, tem sua produção inibida por estados inflamatórios. Isso explica porque é possível ter redução da CTLF em pacientes portadores de anemia inflamatória da doença crônica. Observe na figura abaixo, como são as fases consecutivas da depleção de ferro no nosso organismo:",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8459,7 +8570,7 @@
       },
       "correta": "D",
       "explicacao": "Oxigenioterapia por cateter nasal, hidratação venosa e aspiração nasal, se necessário. Olá Estrategista, O lactente do enunciado tem 15 meses e apresentou um quadro viral de vias aéreas superiores, melhorou da febre, mas no quinto dia passou a apresentar piora da tosse, taquipneia e dispneia. A ausculta revelou sibilos, tiragem intercostal, sem cianose. Essa evolução clínica é típica da bronquiolite viral aguda (BVA), que caracteriza-se pelo primeiro episódio de sibilância em um lactente que apresenta sinais clínicos de infecção viral do trato respiratório inferior e ausência de outra razão que explique a sibilância. O principal agente etiológico é o vírus sincicial respiratório. A bronquiolite é classicamente uma doença que afeta lactentes e sua sintomatologia é mais exuberante quanto mais jovem for a criança. Os sintomas iniciais da bronquiolite são semelhantes a um resfriado comum, ou seja, os lactentes apresentam febre baixa nos primeiros 2 dias, associada à coriza hialina, à obstrução nasal, espirros, tosse seca e a algum grau de irritabilidade. Por volta do 3o ao 6o dia, esses pacientes evoluem com piora respiratória que se deve ao acometimento das vias aéreas inferiores. Nesse momento, encontramos sibilos na ausculta pulmonar devido principalmente à inflamação e menos à broncoconstrição, as quais impedem a passagem normal de ar, causando o turbilhonamento de ar. A duração média da BVA é de 10 a 12 dias; contudo, a tosse pode persistir por cerca de 1 mês. O diagnóstico da BVA baseia-se em dados clínicos, sendo desnecessária a realização de exames laboratoriais ou radiológicos. Crianças que estão estáveis, sem sinais de desconforto respiratório e sem hipoxemia, podem receber tratamento ambulatorial. São recomendados: • Inalações com soro fisiológico para fluidificação de secreções; • Lavagem nasal com soro fisiológico em casos de obstrução nasal; e • Antitérmicos para a febre. Lactentes com desconforto respiratório, que se manifesta com hipóxia, diminuição da aceitação alimentar, apneia e taquipneia intensa, necessitam de hospitalização. São critérios utilizados para recomendar a para internação hospitalar: -Idade menor do que 4 a 6 semanas -Baixa aceitação da alimentação -Desidratação -Letargia -História de apneia -Taquipneia moderada a grave -Desconforto respiratório moderado a grave -Saturação de oxigênio < 92% -Presença de comorbidades: cardiopatia, hipertensão pulmonar, doença neuromuscular, pneumopatia, O tratamento da BVA em crianças internadas baseia-se em três pilares: hidratação, nebulização com solução salina e oferta de oxigênio se a saturação de oxigênio for menor ou igual a 92%, preferencialmente por métodos não invasivos.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8484,7 +8595,7 @@
       },
       "correta": "A",
       "explicacao": "Vírus sincicial respiratório Olá Coruja O lactente do enunciado apresentou um quadro viral de vias aéreas superiores, melhorou da febre, mas no quinto dia passou a apresentar piora da tosse, taquipneia e dispneia. A ausculta revelou sibilos, tiragem intercostal, sem cianose. Essa evolução clínica é típica da bronquiolite viral aguda (BVA), que caracteriza-se pelo primeiro episódio de sibilância em um lactente que apresenta sinais clínicos de infecção viral do trato respiratório inferior e ausência de outra razão que explique a sibilância. O principal agente etiológico é o vírus sincicial respiratório. A bronquiolite é classicamente uma doença que afeta lactentes e sua sintomatologia é mais exuberante quanto mais jovem for a criança. Os sintomas iniciais da bronquiolite são semelhantes a um resfriado comum, ou seja, os lactentes apresentam febre baixa nos primeiros 2 dias, associada à coriza hialina, à obstrução nasal, espirros, tosse seca e a algum grau de irritabilidade. Por volta do 3o ao 6o dia, esses pacientes evoluem com piora respiratória que se deve ao acometimento das vias aéreas inferiores. Nesse momento, encontramos sibilos na ausculta pulmonar devido principalmente à inflamação e menos à broncoconstrição, as quais impedem a passagem normal de ar, causando o turbilhonamento de ar. A duração média da BVA é de 10 a 12 dias; contudo, a tosse pode persistir por cerca de 1 mês. O diagnóstico da BVA baseia-se em dados clínicos, sendo desnecessária a realização de exames laboratoriais ou radiológicos. Crianças que estão estáveis, sem sinais de desconforto respiratório e sem hipoxemia, podem receber tratamento ambulatorial. São recomendados: • Inalações com soro fisiológico para fluidificação de secreções; • Lavagem nasal com soro fisiológico em casos de obstrução nasal; e • Antitérmicos para a febre. Lactentes com desconforto respiratório, que se manifesta com hipóxia, diminuição da aceitação alimentar, apneia e taquipneia intensa, necessitam de hospitalização. São critérios utilizados para recomendar a para internação hospitalar: -Idade menor do que 4 a 6 semanas -Baixa aceitação da alimentação -Desidratação -Letargia -História de apneia -Taquipneia moderada a grave -Desconforto respiratório moderado a grave -Saturação de oxigênio < 92% -Presença de comorbidades: cardiopatia, hipertensão pulmonar, doença neuromuscular, pneumopatia, O tratamento da BVA em crianças internadas baseia-se em três pilares: hidratação, nebulização com solução salina e oferta de oxigênio se a saturação de oxigênio for menor ou igual a 92%, preferencialmente por métodos não invasivos.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2024,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
@@ -8507,7 +8618,7 @@
       },
       "correta": "B",
       "explicacao": "Doença de Kawasaki GABARITO B Olá, Estrategista, vamos falar de Doença de Kawasaki? A doença de Kawasaki (DK) é uma doença inflamatória aguda sistêmica que se manifesta como uma vasculite de artérias de médio calibre, sendo sua principal complicação o aneurisma de artérias coronárias. Para chegarmos a um diagnóstico, temos que ter os seguintes critérios: 1) Febre por 5 dias ou mais. 2) 4 dos 5 critérios abaixo: a. Conjuntivite bilateral, não exsudativa. b. Exantema (rash) polimorfo, podendo ser maculopapular, escarlatiniforme, urticariforme, micropustular ou psoriásico. c. Alteração de extremidades, como edema de mãos e hiperemia palmoplantar. d. Linfadenopatia cervical, geralmente unilateral, com linfonodo maior que 1,5cm. e. Mucosite, como lábios hiperemiados, edemaciados e rachados, faringite não exsudativa, língua em framboesa. Para não precisar decorar, vamos facilitar com um mnemônico? Doença de Kawasaki é “CREAM”. As medicações utilizadas para o tratamento da DK são: • Imunoglobulina; • Ácido acetilsalicílico (AAS) em altas doses. O tratamento precoce (até o décimo dia) tem como objetivo diminuir o risco de aneurismas de coronária. Vamos voltar ao caso? A criança tem febre por 5 dias + 1. Conjuntivite 2. Exantema 3. Adenomegalia 4. Edema de mãos e pés 5. Mucosite Ela fecha critérios para doença de Kawasaki.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -8532,7 +8643,7 @@
       },
       "correta": "B",
       "explicacao": "O crupe caracteriza um grupo de doenças que se manifestam por rouquidão, tosse ladrante e estridor inspiratório. Gabarito alternativa \"b\"",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -8555,7 +8666,7 @@
       },
       "correta": "C",
       "explicacao": "Crianças infectadas e assintomáticas ao nascerem, se não forem tratadas adequadamente, desenvolvem sequelas na infância ou na vida adulta. GABARITO C Olá, Estrategista, vamos falar de toxoplasmose congênita? A maioria das crianças com toxoplasmose congênita é assintomática ao nascer. As sintomáticas geralmente se infectaram durante o primeiro trimestre de gravidez e podem apresentar manifestações sistêmicas, como hepatoesplenomegalia, icterícia e anemia hemolítica; neurológicas, perda auditiva e déficits oftalmológicos. Geralmente os examinadores trazem a tétrade de Sabin na sua prova: coriorretinite, calcificações intracranianas difusas, hidrocefalia/ microcefalia e retardo mental. O diagnóstico de toxoplasmose congênita pode ser feito já no pré-natal pela pesquisa do DNA do Toxoplasma gondii por PCR em amostra de líquido amniótico. No período pós-natal, o diagnóstico é feito através da sorologia, associado à história clínica materna, exames físico e complementares do recém-nato (RN). É importante lembrar que os anticorpos IgM e IgA anti-toxoplasma não atravessam a barreira placentária, logo, a presença deles no neonato ou em bebês menores de 6 meses confirmam a infecção congênita. Mas atenção, a ausência deles não descarta a possibilidade de infecção, podendo se tratar de um falso-negativo. Além disso, todas as crianças com suspeita ou confirmação do diagnóstico devem ser triadas para busca de sinais clínicos com exames laboratoriais e de imagem, além de avaliação especializada. São eles: coleta de líquor, hemograma, bilirrubinas, exames de imagem cerebral, fundo de olho e triagem auditiva. O tratamento neonatal deve ser realizado em todas as crianças infectadas, independentemente da presença de sinais e sintomas clínicos, o mais precoce possível para diminuir a chance de sequelas. O esquema é tríplice com Sulfadiazina, Pirimetamina e Ácido Folínico (não confunda com ácido fólico!) e tem duração de um ano. Devemos acrescentar corticoterapia se houver presença de hiperproteinorraquia ou coriorretinite. Vamos analisar as alternativas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -8580,7 +8691,7 @@
       },
       "correta": "A",
       "explicacao": "É classificada como cardiopatia congênita que pode se manifestar com insuficiência cardíaca. GABARITO A A comunicação interventricular (CIV) é a cardiopatia congênita mais frequente. Ela é caracterizada por uma descontinuidade do septo que divide os ventrículos direito e ventrículo esquerdo. É classificada como uma cardiopatia acianogênica de hiperfluxo pulmonar. Vamos entender? No período pós-natal, a pressão é maior do lado esquerdo do corpo, certo? Portanto, há passagem do sangue do lado esquerdo do coração para o direito (shunt esquerdo–direito) por meio da CIV. Com o aumento de volume do lado direito, temos então um hiperfluxo pulmonar. A repercussão hemodinâmica da CIV depende do seu tamanho e da diferença de pressão entre os ventrículos direito e esquerdo, CIV's moderadas a grandes podem levar a insuficiência cardíaca com congestão venosa sistêmica, especialmente, por volta de dois a três meses de idade. Os sinais e sintomas que podemos identificar no exame físico são: • Sinais de ICC: taquipneia, dispneia taquicardia, sudorese, hepatomegalia. • Piora dos sintomas aos esforços: nos lactentes, a piora ao mamar faz com que a criança pare de mamar antes de estar satisfeita. Como consequência, há baixo ganho ponderal e sonos curtos. Na ausculta, geralmente, identificamos um sopro holossistólico. CIVs pequenas e assintomáticas, normalmente, fecham-se sozinhas e não precisam de tratamento. O tratamento clínico, em casos de pacientes sintomáticos, consiste inicialmente no tratamento dos sintomas da IC. A cirurgia corretiva deve ser feita após a melhora dos sintomas e, geralmente, após os 3 meses de idade.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -8605,7 +8716,7 @@
       },
       "correta": "A",
       "explicacao": "Na desidratação moderada, existem perdas de até 10% dos líquidos e sede intensa. GABARITO A Querido Estrategista, Saber identificar o estado de hidratação e manejo do paciente desidratado é questão recorrente nas provas. Vamos relembrar como fazer essa avaliação sistemática. O Ministério da Saúde caracteriza a desidratação em hidratado, desidratação e desidratação grave. Para realizar essa avaliação você deve seguir os seguintes passos: 1. Observar 2. Examinar 3. Decidir/Diagnosticar o grau de desidratação 4. Tratar de acordo com o plano adequado Observe o quadro abaixo: Para não precisar decorar a tabela, vamos facilitar. Os hidratados não têm nenhum sinal de desidratação. Os desidratados graves tem diminuição de nível de consciência (letargia, hipotonia, coma, sonolência).O que estiver no meio, é desidratado apenas. De acordo com o grau de desidratação, utilizamos os planos A, B ou C. Vamos analisar as alternativas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -8631,7 +8742,7 @@
       },
       "correta": "A",
       "explicacao": "É a mais comum das glomerulopatias da infância. Estrategista, te peço muita atenção a essa questão. Ela traz o tema mais cobrado em Nefrologia nas provas de residência: doenças glomerulares! O enunciado nos traz uma criança que apresenta hipertensão (PA acima do percentil 95), hematúria e edema. É a tríade clássica da síndrome nefrítica, uma manifestação clínico- laboratorial das doenças glomerulares. Mas qual seria a etiologia? A história te dá uma pista muito importante: infecções frequentes de garganta. Síndrome nefrítica em criança com antecedente de infecção de garganta tem como principal hipótese etiológica a glomerulonefrite pós-estreptocócica!. Vamos relembrar a condição? A glomerulonefrite difusa aguda, também conhecida por glomerulonefrite pós-estreptocócica (GNPE) é a principal causa de síndrome nefrítica na infância. É uma resposta imunológica do organismo a antígenos estreptocócicos que surge uma a três semanas após infecção de vias aéreas superiores ou de pele. Há formação de imunocomplexos, com subsequente deposição nas alças capilares e no mesângio. Há intensa inflamação no glomérulo, que gera hematúria e aumento da reabsorção de sal e água, o que leva a hipervolemia, hipertensão e edema. O diagnóstico é feito pela história clínica, correlação temporal com a infecção estreptocócica e alguns achados laboratoriais, como o consumo da fração C3 do complemento (pela ativação da via alternativa) e a presença de anticorpos contra antígenos do estreptococo, como a anti-estreptolisina O (ASO) e anti-DNAse B. É considerada uma doença de bom prognóstico renal e não há tratamento específico, sendo o suporte com restrição hidrossalina e diuréticos fundamental para o melhor manejo clínico da condição. Vamos às alternativas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
@@ -8654,7 +8765,7 @@
       },
       "correta": "C",
       "explicacao": "A dosagem do complemento sérico é obrigatória para o diagnóstico. Estrategista, te peço muita atenção a essa questão. Ela traz o tema mais cobrado em Nefrologia nas provas de residência: doenças glomerulares! O enunciado nos traz uma criança que apresenta hipertensão (PA acima do percentil 95), hematúria e edema. É a tríade clássica da síndrome nefrítica, uma manifestação clínico- laboratorial das doenças glomerulares. Mas qual seria a etiologia? A história te dá uma pista muito importante: infecções frequentes de garganta. Síndrome nefrítica em criança com antecedente de infecção de garganta tem como principal hipótese etiológica a glomerulonefrite pós-estreptocócica!. Vamos relembrar a condição? A glomerulonefrite difusa aguda, também conhecida por glomerulonefrite pós-estreptocócica (GNPE) é a principal causa de síndrome nefrítica na infância. É uma resposta imunológica do organismo a antígenos estreptocócicos que surge uma a três semanas após infecção de vias aéreas superiores ou de pele. Há formação de imunocomplexos, com subsequente deposição nas alças capilares e no mesângio. Há intensa inflamação no glomérulo, que gera hematúria e aumento da reabsorção de sal e água, o que leva a hipervolemia, hipertensão e edema. O diagnóstico é feito pela história clínica, correlação temporal com a infecção estreptocócica e alguns achados laboratoriais, como o consumo da fração C3 do complemento (pela ativação da via alternativa) e a presença de anticorpos contra antígenos do estreptococo, como a anti-estreptolisina O (ASO) e anti-DNAse B. É considerada uma doença de bom prognóstico renal e não há tratamento específico, sendo o suporte com restrição hidrossalina e diuréticos fundamental para o melhor manejo clínico da condição. Vamos às alternativas.",
-      "banca": "DF - Secretaria de Saúde do Distrito Federal - SES",
+      "banca": "SES-DF",
       "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
       "ano": 2025,
       "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
