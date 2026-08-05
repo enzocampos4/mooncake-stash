@@ -1486,8 +1486,9 @@ function showQuestion(index) {
       document.getElementById('qExplicacaoTexto').innerHTML = q.explicacao;
       const expImgBox = document.getElementById('qExpImagens');
       expImgBox.innerHTML = '';
-      if (q.imagens && q.imagens.length > 0) {
-        q.imagens.forEach(src => {
+      var imgsExp = q.imagens_explicacao || q.imagens || [];
+      if (imgsExp.length > 0) {
+        imgsExp.forEach(src => {
           const img = document.createElement('img');
           img.src = src;
           img.loading = 'lazy';
@@ -1597,8 +1598,9 @@ function confirmAnswer() {
     // Imagens da explicação
     const expImgBox = document.getElementById('qExpImagens');
     expImgBox.innerHTML = '';
-    if (q.imagens && q.imagens.length > 0) {
-      q.imagens.forEach(src => {
+    var imgsExp = q.imagens_explicacao || q.imagens || [];
+    if (imgsExp.length > 0) {
+      imgsExp.forEach(src => {
         const img = document.createElement('img');
         img.src = src;
         img.loading = 'lazy';
