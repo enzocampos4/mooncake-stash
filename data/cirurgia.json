@@ -446,7 +446,7 @@
       "_edicao": "1",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -717,7 +717,7 @@
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Derrame pleural (cirúrgico)",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1053,7 +1053,7 @@
       "_edicao": "3",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Neoplasias Torácicas",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1642,7 +1642,7 @@
       "_edicao": "5",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Derrame pleural (cirúrgico)",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1753,7 +1753,7 @@
       "_edicao": "9",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Neoplasias Torácicas",
+      "sub_subarea": "Drenagem Torácica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1995,7 +1995,7 @@
       "id": "pv-ena-2024-0046",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Pancreatite Aguda",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Uma criança de dez anos de idade apresenta quadro de abdome agudo, após período de dois dias com febre, vômitos e importante distensão do abdome. Assinale a alternativa que apresenta uma das condutas corretas nesse caso.",
       "alternativas": {
         "A": "Devido à urgência, não comunicar a família e proceder à laparotomia exploradora.",
@@ -2112,7 +2112,7 @@
       "id": "pv-ena-2025-0127",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Neoplasias Torácicas",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Após um traumatismo torácico contuso, um paciente apresenta sinais de tamponamento cardíaco, incluindo hipotensão, taquicardia, aumento da turgência jugular e pulso fino. A conduta clínico-cirúrgica mais apropriada para esse paciente é:",
       "alternativas": {
         "A": "realização de pericardiocentese emergencial;",
@@ -2145,7 +2145,7 @@
       "id": "pv-ena-2025-0161",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Uma paciente de 24 anos, saudável, é usuária de dispositivo intrauterino de cobre. Refere vida sexual ativa com uso de preservativos e última menstruação há 10 dias. Há 2 horas, iniciou-se uma dor de instalação aguda, de padrão constante, em fossa ilíaca direita, sem irradiação, associada a náuseas e vômitos. Nega sangramento vaginal, febre, dor lombar, mudança de hábito intestinal ou urinário. A ultrassonografia transvaginal evidenciou aumento do ovário direito, comprometimento do fluxo sanguíneo em região anexial do mesmo lado e líquido livre em fundo de saco. A hipótese mais provável é:",
       "alternativas": {
         "A": "gestação ectópica à direita;",
@@ -2175,7 +2175,7 @@
       "id": "pv-ena-2025-0171",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Uma mulher de 25 anos, sexualmente ativa, sem atraso menstrual, comparece ao ginecologista com uma ultrassonografia transvaginal de rotina que apresentou nódulo de aspecto misto, com áreas hiperecogênicas difusas e sombra acústica posterior no ovário direito medindo 7,0 cm. O ovário esquerdo e o útero não apresentaram alterações à ultrassonografia. Ao toque vaginal, identificou-se a presença de massa móvel, indolor, medindo em torno de 7,0 cm, palpável em região anexial direita. Considerando a principal hipótese diagnóstica do caso, é correto afirmar que:",
       "alternativas": {
         "A": "esse tipo de tumor ovariano é bilateral em 10% dos casos;",
@@ -2271,7 +2271,7 @@
       "id": "pv-pe-2024-0067",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "JMS, 52 anos, sexo masculino, submetido à gastrectomia subtotal com linfadenectomia a D2, devido a uma neoplasia gástrica. A cirurgia ocorreu de maneira eletiva e sem intercorrências. Levando em consideração os preceitos do projeto ACERTO, qual conduta é a mais adequada para o pósoperatório?",
       "alternativas": {
         "A": "Alimentação precoce via sonda nasoenteral",
@@ -2333,7 +2333,7 @@
       "id": "pv-pe-2025-0126",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "sub_subarea": "Hérnias",
       "enunciado": "Qual dos casos clínicos abaixo pode ser classificado como uma obstrução intestinal baixa mecânica mural?",
       "alternativas": {
         "A": "Homem, 67 anos, Tumor em sigmóide que impede passgem do aparelho",
@@ -2449,7 +2449,7 @@
       "id": "pv-mg-2024-0001",
       "area": "Cirurgia",
       "subarea": "Cirurgia Vascular",
-      "sub_subarea": "",
+      "sub_subarea": "Isquemia",
       "enunciado": "Paciente idoso vitima de colisão frontal de carro x objeto fixo no anel rodoviário. A ambulância do SAMU chegou ao local e realizou o atendimento pré-hospitalar. O paciente encontrava-se torporoso com Glasgow de 8, muito dispnéico e hipotenso, bem como apresentava uma amputação traumática da coxa com sangramento arterial ativo em jato da artéria femoral superficial. Considerando o atendimento pré-hospitalar ao trauma, qual a conduta emergencial a ser tomada para evitar a morte do paciente:",
       "alternativas": {
         "A": "Avaliar a letra A e realizar a entubação orotraqueal para proteção da via aérea.",
@@ -2472,7 +2472,7 @@
       "id": "pv-mg-2024-0003",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Câncer de Mama",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Mulher de 54 anos, ao ir à podóloga, toma conhecimento de lesão enegrecida na planta do pé esquerdo, com cerca de 2 centímetros de diâmetro. Paciente e podóloga têm certeza de que a lesão não existia um ano antes. Assinale a alternativa que apresenta a conduta CORRETA:",
       "alternativas": {
         "A": "Considerar a lesão como possível de ser melanoma avançado e indicar a ressecção oncológica com margens amplas e linfadenectomia inguinal eletiva.",
@@ -2615,7 +2615,7 @@
       "id": "pv-mg-2025-0127",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "D.B.D., 17 anos, sexo masculino, estudante, apresentou quadro de dor periumbilical, acompanhada de inapetência e náusea, ontem. Hoje apresenta dor abdominal localizada no quadrante inferior direito do abdome, com temperatura axilar de 37,8ºC. sem defesa abdominal, com relato de dor à palpação profunda, mas sem dor à descompressão abdominal. A hiperextensão da coxa direita provoca dor lombar à direita e em fossa ilíaca direita. Exames laboratoriais mostraram 12.050 leucócitos/mm³ com 6% de bastonetes. Assinale qual das alternativas abaixo está ERRADA:",
       "alternativas": {
         "A": "A tomografia de abdome sem contraste é o melhor exame para diagnóstico diferencial neste caso.",
@@ -2793,7 +2793,7 @@
       "id": "pv-amr-2025-0174",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Escolar, 6 anos, há 2 dias com dor abdominal difusa, há 1 dia com náuseas e vômitos e há 12h com febre e piora da dor, associadas à diarreia aguda, sem restos patológicos. Após ultrassonografia (US) abdominal, é encaminhado para apendicectomia de urgência. No transoperatório, evidencia-se secreção purulenta em cavidade abdominal. Considerando a situação clínica apresentada, é correto afirmar que:",
       "alternativas": {
         "A": "A clínica é mais sugestiva de diarreia viral com adenite mesentérica.",
@@ -3152,7 +3152,7 @@
       "id": "pv-uer-2025-0122",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "A presença de dor no quadrante inferior direito do abdômen, após a palpação do quadrante inferior esquerdo, é um sinal frequentemente presente em paciente com apendicite aguda. Trata-se do sinal de:",
       "alternativas": {
         "A": "McBurney",
@@ -3175,7 +3175,7 @@
       "id": "pv-uer-2025-0123",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "A presença de dor no quadrante inferior direito do abdômen, após a palpação do quadrante inferior esquerdo, é um sinal frequentemente presente em paciente com apendicite aguda. Trata-se do sinal de:",
       "alternativas": {
         "A": "McBurney",
@@ -3198,7 +3198,7 @@
       "id": "pv-uer-2025-0124",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Nas gestantes, a emergência abdominal não obstétrica mais comum que requer cirurgia é a",
       "alternativas": {
         "A": "colecistite aguda",
@@ -3310,7 +3310,7 @@
       "id": "pv-hcp-2024-0049",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Neoplasias Torácicas",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Menina de 7 anos, com síndrome de EhlersDanlos e portadora de aneurismas intracranianos, foi trazida à Emergência por febre e dificuldade ventilatória há 48 horas. Exame clínico mostrou redução de murmúrio vesicular em região inferior do hemitórax direito, com estertores audíveis. Radiografia de tórax evidenciou grande consolidação no lobo inferior direito e derrame pleural ipsilateral. Ultrassonografia torácica revelou volumoso derrame pleural, com líquido espesso e com septações e loculações. Qual a conduta mais indicada para o derrame pleural?",
       "alternativas": {
         "A": "Drenagem pleural tubular fechada",
@@ -3339,7 +3339,7 @@
       "id": "pv-hcp-2024-0052",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Câncer Colorretal",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Paciente feminina, de 72 anos, em bom estado geral, procurou atendimento após ter sido submetida a uma colonoscopia para investigar hematoquezia + anemia (hemoglobina de 6,2 g/dl). O exame endoscópico revelou uma lesão no cólon transverso, e o exame anatomopatológico foi compatível com o diagnóstico de adenocarcinoma. Trouxe à consulta tomografia computadorizada (TC) de abdômen com contraste intravenoso, que demonstrava 5 lesões hepáticas, todas com menos de 3,0 cm, hipovasculares em relação ao parênquima. À TC de tórax, não havia sinais radiológicos de doença metastática. A dosagem sérica do CEA foi de 2,0 ng/ml (valor de referência: < 3,5 ng/ml). Com base no quadro, qual a conduta mais adequada?",
       "alternativas": {
         "A": "Iniciar quimioterapia em caráter paliativo, pois o sangramento costuma cessar por completo após o início do tratamento.",
@@ -3543,7 +3543,7 @@
       "id": "pv-fam-2024-0059",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "L.A.S. sexo feminino, 42 anos, apresenta dor abdome superior, principalmente em hipocôndrio esquerdo, há cerca de seis meses, contínua, irradiada para o dorso, sem vômitos, que melhora com hioscina + dipirona e piora com alimentos gordurosos. Procurou serviço de pronto atendimento diversas vezes, sendo medicada e liberada. Refere perda de 18 kg nos últimos dois meses. Tabagista. Ex-etilista social (sic), histerectomia. US abdome total: microcálculos vesiculares, formação cística em cauda pancreática de 5.0x 4,0 cm. Fez punção do cisto com ecoendoscopia e o CEA era de 300 ng/ml e a glicose era 35 mg/dl. Qual sua principal hipótese diagnostica:",
       "alternativas": {
         "A": "Cistoadenoma seroso",
@@ -3827,7 +3827,7 @@
       "id": "pv-sp-2024-0073",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "sub_subarea": "Hérnias",
       "enunciado": "De acordo com o projeto Aceleração da Recuperação Total Pós‑Operatória (ACERTO), assinale a alternativa incorreta quanto ao grau de recomendação e à força de evidência.",
       "alternativas": {
         "A": "Para a maioria dos pacientes candidatos a procedimentos eletivos, recomenda‑se jejum de sólidos de seis a oito horas antes da indução anestésica.",
@@ -3914,7 +3914,7 @@
       "id": "pv-sp-2025-0129",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "A tomografia de abdome e pelve com contraste deve ser solicitada na suspeita clínica de algumas das enfermidades a seguir. Quais das enfermidades abaixo listadas, justifica‑se a solicitação de tomografia de abdome e pelve com contraste endovenoso I. apendicite aguda retrocecal II. ureterolitíase III. diverticulite aguda complicada IV. pancreatite aguda V. colecistite aguda Assinale a alternativa correta.",
       "alternativas": {
         "A": "Somente os itens I, II, III e IV estão certos.",
@@ -4032,7 +4032,7 @@
       "id": "pv-uni-2024-0098",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Homem, 75 anos de idade, será submetido a colectomia direita videolaparoscópica devido a tumor de cólon. Apresenta história de infarto do miocárdio tratado com colocação de stent. Os exames pré-operatórios demonstram PA = 110/55 mmHg, FC = 58 bpm, SatO2 = 96%. Ecocardiograma transtorácico apresentando FE 32%. Qual é hipnótico adequado para a indução da anestesia geral?",
       "alternativas": {
         "A": "Propofol.",
@@ -4329,7 +4329,7 @@
       "id": "pv-sír-2025-0134",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Câncer de Mama",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Uma paciente de 45 anos, previamente saudável, percebeu um nódulo indolor na mama direita durante o autoexame. Na consulta, a paciente refere que o nódulo tem crescido progressivamente nos últimos dois meses. O exame fisico revela um nódulo de aproximadamente 3 cm, fixo e irregular no quadrante superior externo da mama direita. Não há adenomegalias axilares palpáveis. A mamografia revela uma lesão espiculada com microcalcificações associadas. A biópsia do nódulo confirma carcinoma ductal invasivo. A próxima etapa mais indicada no manejo dessa paciente deve ser",
       "alternativas": {
         "A": "Radioterapia adjuvante antes da cirurgia",
@@ -4409,7 +4409,7 @@
       "id": "pv-sír-2025-0141",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Pancreatite Aguda",
+      "sub_subarea": "Obstrução Intestinal",
       "enunciado": "Homem vai ao pronto-socorro de um hospital terciário com queixa de dor abdominal em cólica, no epigástrio, que irradiava para o dorso acompanhada de vômitos alimentares, sem sangue, há 2 dias, após ingestão de alimentação gordurosa. Negava febre. Etilista crônico, tabagista de um maço por dia, fazendo uso de cocaína. Antecedentes de gastrectomia subtotal com reconstrução em Y de Roux por estenose péptica pilórica há 6 meses. Ao exame clínico está em regular estado geral, corado, hidratado acianótico, afebril, abdome distendido, doloroso à palpação difusamente. Exames laboratoriais: Amilase: 191 UI. GGT: 37 UI, FA: 73 UI, TGO: 13 UI, TGP: 12 UI, BT: 0.7 mg/dL. Cr: 0.93 mg/dL; PCR: inferior a 3 mg/L. Inicialmente foi realizada a passagem de uma SNG e hidratação. Foi submetido à tomografia mostrada abaixo e tratamento clínico por 48h. O diagnóstico mais provável e a melhor conduta, dentre as apresentadas abaixo, é",
       "alternativas": {
         "A": "pancreatite aguda - tratamento clínico de suporte por mais 12h",
@@ -4466,7 +4466,7 @@
       "id": "pv-sír-2025-0172",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Câncer de Mama",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Mulher, 55 anos, realizou citologia oncótica cérvico-vaginal com resultado: lesão intraepitelial escamosa de alto grau. Foi solicitada uma colposcopia cuja biópsia foi adenocarcinoma in situ de colo uterino. A conduta mais adequada, nesse momento, é",
       "alternativas": {
         "A": "conização.",
@@ -4545,7 +4545,7 @@
       "id": "pv-hia-2024-0048",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Paciente de 73 anos está internada por quadro de distensão abdominal, inapetência e parada de eliminação de gases e fezes há 5 dias. Antecedente de adenocarcinoma de ovário com carcinomatose e omental cake, além de metástases hepáticas. Tomografia revela distensão difusa de delgado com múltiplos pontos de suboclusão. Realizadas analgesia, hidratação e passagem de sonda nasogástrica. Dentre os medicamentos abaixo, o mais adequado nesse momento para o tratamento da afecção de urgência é:",
       "alternativas": {
         "A": "Bromoprida.",
@@ -4640,7 +4640,7 @@
       "id": "pv-hia-2024-0060",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Neoplasias Torácicas",
+      "sub_subarea": "Drenagem Torácica",
       "enunciado": "Paciente de 55 anos foi vítima de ferimento por arma branca em hemitórax esquerdo. Na cena, com grande quantidade de sangue, notou-se vias aéreas pérvias, FR: 15 ipm e SatO₂: 90% em ar ambiente, murmúrios vesiculares presentes bilateralmente, PA: 90 x 60 mmHg, FC: 81 bpm, bulhas hipofonéticas. No transporte, feita expansão inicial com 500 mL de ringer lactato, suporte de oxigênio e curativo em 3 pontas não soprante. Exame físico de entrada: vias aéreas pérvias, sem colar cervical. FR: 18 ipm, SatO₂: 99% com máscara 10 L/min. Murmúrio vesicular diminuído à esquerda, não timpânico, PA: 60 x 36 mmHg, FC: 121 bpm, bulhas rítmicas, hipofonéticas, descorado 3+/4+. Ultrassom FAST com achado de líquido no pericárdio, sem líquido livre abdominal. Escala de coma de Glasgow 15. Paciente em prancha rígida, três ferimentos penetrantes em região precordial, e múltiplas escoriações em tórax e abdome. Na sala de emergência evoluiu com atividade elétrica sem pulso e foi intubado. A melhor conduta imediata nesse momento deve ser",
       "alternativas": {
         "A": "esternotomia mediana.",
@@ -4700,7 +4700,7 @@
       "id": "pv-hia-2025-0092",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Paciente de 26 anos, sexo feminino, vem com queixa de mal-estar há dois dias, com piora progressiva e, há um dia, com dor abdominal em hipogastro associada a disúria e polaciúria. Nega febre, nega alterações de hábito intestinal, refere inapetência, mas nega vômitos. Sexualmente ativa, refere corrimento amarelo claro no período, faz uso de contraceptivo oral; data da última menstruação há 3 semanas. Ao exame físico, está em bom estado geral, FC 89 bpm, PAM 120 x 87 mmHg, dor à palpação de hipogastro, sem massas palpáveis ou sinal de irritação peritoneal. Urina I com 20000 leucócitos/mL (VR 0 – 10000). Realizou o exame a seguir. Assinale a alternativa que contém o diagnóstico correto para esse caso.",
       "alternativas": {
         "A": "Abscesso túbulo ovariano.",
@@ -4734,7 +4734,7 @@
       "id": "pv-hia-2025-0093",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Paciente de 26 anos, sexo feminino, vem com queixa de mal-estar há dois dias, com piora progressiva e, há um dia, com dor abdominal em hipogastro associada a disúria e polaciúria. Nega febre, nega alterações de hábito intestinal, refere inapetência, mas nega vômitos. Sexualmente ativa, refere corrimento amarelo claro no período, faz uso de contraceptivo oral; data da última menstruação há 3 semanas. Ao exame físico, está em bom estado geral, FC 89 bpm, PAM 120 x 87 mmHg, dor à palpação de hipogastro, sem massas palpáveis ou sinal de irritação peritoneal. Urina I com 20000 leucócitos/mL (VR 0 – 10000). Realizou o exame a seguir. Assinale a alternativa que contém o diagnóstico correto para esse caso.",
       "alternativas": {
         "A": "Abscesso túbulo ovariano.",
@@ -4768,7 +4768,7 @@
       "id": "pv-hia-2025-0094",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Apendicite",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Paciente de 26 anos, sexo feminino, vem com queixa de mal-estar há dois dias, com piora progressiva e, há um dia, com dor abdominal em hipogastro associada a disúria e polaciúria. Nega febre, nega alterações de hábito intestinal, refere inapetência, mas nega vômitos. Sexualmente ativa, refere corrimento amarelo claro no período, faz uso de contraceptivo oral; data da última menstruação há 3 semanas. Ao exame físico, está em bom estado geral, FC 89 bpm, PAM 120 x 87 mmHg, dor à palpação de hipogastro, sem massas palpáveis ou sinal de irritação peritoneal. Urina I com 20000 leucócitos/mL (VR 0 – 10000). Realizou o exame a seguir. Assinale a alternativa que contém o diagnóstico correto para esse caso.",
       "alternativas": {
         "A": "Abscesso túbulo ovariano.",
@@ -4825,7 +4825,7 @@
       "id": "pv-hia-2025-0127",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Paciente 40 anos, nuligesta, submetida à exérese da zona de transformação do tipo 3, comparece para resultado de estudo anatomopatológico que revelou: lesão intraepitelial escamosa de alto grau com extensão para criptas endocervicais em todos os quadrantes, presença de área de invasão estromal 1.6 mm sem invasão linfovascular, margens cirúrgicas livres de neoplasia. Qual é a conduta mais adequada neste caso?",
       "alternativas": {
         "A": "Caso a paciente seja desejosa de gestação, é possível conduta conservadora com traquelectomia e histerectomia após prole completa.",
@@ -4861,7 +4861,7 @@
       "id": "pv-df-2024-0081",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Pancreatite Aguda",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Uma paciente de 60 anos de idade procurou o pronto-socorro com dor abdominal intensa de início súbito, predominantemente no quadrante superior esquerdo. Ela relata náuseas, vômitos e ausência de evacuações. Ao exame físico, revela sensibilidade à palpação abdominal e sinais de peritonite localizada. Na admissão, os sinais vitais apresentavam PA = 90 mmHg x 60 mmHg, FC = 120 bpm, FR = 28 irpm e temperatura = 37,8 °C. Ela realizou exames complementares que demonstraram: leucograma com leucocitose significativa, amilase sérica dentro da faixa de normalidade e lactato sérico elevado. Nesse caso clínico, o diagnóstico mais provável é",
       "alternativas": {
         "A": "infarto mesentérico.",
@@ -4944,7 +4944,7 @@
       "id": "pv-df-2024-0089",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Uma paciente de 65 anos de idade, obesa, com dislipidemia, diabética e tabagista, procurou atendimento de urgência queixando-se de dor abdominal que iniciou há dois dias. Refere parada de evacuação há três dias e iniciou quadro de vômitos há 12 horas. Nega febre, calafrios ou sintomas associados. Ao exame físico, os sinais vitais na admissão são PA = 140 mmHg x 72 mmHg, FC = 115 bpm, glicemia capilar = 280 mg/dL e SatO2 = 93%. Foram constatados abaulamento na região inguinal esquerda, endurecimento local à palpação logo abaixo do ligamento inguinal direito, com dor intensa local, abdome distendido, com dor difusa, porém sem sinais de irritação peritoneal. Foi feito o diagnóstico sindrômico de abdome agudo. De acordo com esse caso clínico, assinale a alternativa que apresenta o tipo de abdome agudo, a etiologia dos sintomas e a melhor conduta para a paciente.",
       "alternativas": {
         "A": "Obstrutivo–hérnia femoral encarcerada–inguinotomia",
@@ -5117,7 +5117,7 @@
       "id": "pv-ba-2025-0058",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "sub_subarea": "Obstrução Intestinal",
       "enunciado": "Paciente, sexo masculino, 65 anos de idade, realizou quimioterapia neoadjuvante e está no 5º dia de pós-operatório de colectomia direita com anastomose ileocólica para tratamento de adenocarcinoma de cólon. O paciente já estava com dieta de água, chá e gelatina, quando passou a cursar com distensão e dor abdominal. Sem outras queixas. Ao exame físico, bom estado geral, corado, temperatura axilar de 38ºC, FC: 108bpm, PA: 134x78mmHg; abdome levemente distendido, com dor à palpação profunda difusamente, com descompressão brusca negativa; toque retal sem alterações. Diante desse caso clínico: Indique a principal suspeita diagnóstica para este paciente, neste momento.",
       "alternativas": {
         "A": "Infecção de sítio cirúrgico intra-abdominal.",
@@ -5616,7 +5616,7 @@
       "id": "pv-pe-2025-0121",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Homem, 23 anos. Admitido na emergência com suspeita de apendicite aguda. Após avaliação clínico-laboratorial, pontuou 7 no score de Alvarado e 8 no AIR (Apendicitis Inflammatory Score). Quais dos fatores abaixo são específicos do AIR?",
       "alternativas": {
         "A": "Migração da dor para a FID e anorexia",
@@ -6838,7 +6838,7 @@
       "id": "pv-sír-2025-0138",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Homem, 65 anos, foi submetido a uma colectomia total por câncer de cólon. No pós- operatório, desenvolveu vômitos frequentes e foi identificado com uma grande quantidade de secreção gástrica por sonda nasogástrica. Exames laboratoriais: O distúrbio ácido-básico presente neste paciente é:",
       "alternativas": {
         "A": "Acidose metabólica com ânion gap elevado.",
@@ -7374,7 +7374,7 @@
       "id": "pv-ena-2025-0131",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Uma paciente de 22 anos apresentou quadro de dor pélvica súbita há cerca de 2 horas. Ao exame, constata-se que está hipocorada ++/4, com PA = 90 x 40 mmHg e FC = 118 bpm. Seu abdômen está atípico com dor à palpação difusa, mais acentuada em fossa ilíaca direita, com descompressão dolorosa. O diagnóstico mais provável é:",
       "alternativas": {
         "A": "apendicite aguda;",
@@ -7427,7 +7427,7 @@
       "id": "pv-fam-2024-0060",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome Agudo",
       "enunciado": "Mulher de 22 anos, hígida, queixa-se de dor abdominal contínua, em aperto, iniciada em região mesogástrica com posterior intensificação na fossa iliaca direita, sem outros sintomas associados, há 2 dias, sem melhora com o uso de analgésicos simples. Relata que pratica musculação em academia diariamente e que a dor se iniciou logo após um treino intenso. Nega queixas ginecológicas e cessou uso de anticoncepcional oral por conta própria há 2 meses, pois deseja engravidar. Ao exame físico, encontra-se em bom estado geral, corada, FC = 72 bpm, PA = 110 x 60, Tax = 37°C. O abdome é plano, flácido, doloroso a palpação da fossa ilíaca direita e do hipogástrio, onde apresenta massa palpável, endurecida e imóvel, inclusive durante a elevação do tronco e contração da musculatura abdominal, além de descompressão brusca dolorosa. Assinale a alternativa correta:",
       "alternativas": {
         "A": "Hematoma da bainha do reto abdominal deve ser considerado dentre as principais hipóteses diagnósticas, devido ao achado de massa abdominal dolorosa e imóvel, conhecido como sinal de Forthergill.",
@@ -7496,7 +7496,7 @@
       "id": "pv-df-2025-0116",
       "area": "Cirurgia",
       "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias",
       "enunciado": "Após uma gastrectomia parcial realizada para o tratamento de câncer gástrico, a escolha da técnica de reconstrução é essencial para restaurar a continuidade do trato gastrointestinal. Assinale a alternativa que descreve corretamente a técnica de reconstrução em Y de Roux.",
       "alternativas": {
         "A": "Anastomose término-lateral entre o remanescente gástrico e o duodeno, restabelecendo a continuidade fisiológica do trânsito alimentar.",
