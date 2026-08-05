@@ -64,7 +64,7 @@
       "_edicao": "5",
       "subarea": "Princípios da Anestesiologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Anestesia local e sedação",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -84,7 +84,7 @@
       "_edicao": "14",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Incompatibilidade Rh/ABO",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -130,7 +130,7 @@
       "_edicao": "1",
       "subarea": "Medicina fetal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Cardiotocografia",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -217,7 +217,7 @@
       "_edicao": "1",
       "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Diabetes mellitus gestacional",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -239,7 +239,7 @@
       "_edicao": "1",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Indução e condução do trabalho de parto",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -261,7 +261,7 @@
       "_edicao": "1",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Indução e condução do trabalho de parto",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -307,7 +307,7 @@
       "_edicao": "1",
       "subarea": "Puerpério",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Infeccao",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -464,7 +464,7 @@
       "_edicao": "11",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Via de parto (normal vs cesárea)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -488,7 +488,7 @@
       "_edicao": "11",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Indução e condução do trabalho de parto",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -531,7 +531,7 @@
       "_edicao": "14",
       "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Diabetes mellitus gestacional",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -825,7 +825,7 @@
       "_edicao": "3",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Via de parto (normal vs cesárea)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -935,7 +935,7 @@
       "_edicao": "5",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Parto instrumental",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -957,7 +957,7 @@
       "_edicao": "5",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Indução e condução do trabalho de parto",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -981,7 +981,7 @@
       "_edicao": "5",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Indução e condução do trabalho de parto",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1003,7 +1003,7 @@
       "_edicao": "5",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Indução e condução do trabalho de parto",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1141,7 +1141,7 @@
       "_edicao": "9",
       "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Diabetes mellitus gestacional",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1461,7 +1461,7 @@
       "id": "pv-pe-2025-0146",
       "area": "Obstetrícia",
       "subarea": "Gestação de Alto Risco",
-      "sub_subarea": "Placenta",
+      "sub_subarea": "",
       "enunciado": "Gestante, tercigesta e secundípara (duas cesarianas anteriores), 33 anos, 32ª semana de gravidez, veio à consulta de emergência com queixa de sangramento súbito, sendo o primeiro episódio. Nega outros sintomas, incluindo perda de líquido amniótico. Ao exame, estado geral bom, batimentos cárdio fetais de 146 bpm, dinâmica uterina ausente, com útero de consistência normal e altura de fundo uterino de 28 cm. O exame especular mostra colo regular, com orifício cervical externo em fenda, fechado, saindo sangramento vermelho vivo em pequena quantidade. O médico assistente pensou na principal hipótese diagnóstica e solicitou os exames necessários para esclarecimento, a qual foi confirmada. Após internamento, o sangramento parou. Pensando em uma possível complicação, o médico assistente ficou inquieto. Assinale a alternativa que sugere a principal complicação que foi pensada.",
       "alternativas": {
         "A": "Placenta prévia.",
@@ -1689,7 +1689,7 @@
       "id": "pv-mg-2025-0082",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Paciente de 32 anos, 60 dias após parto por cesareana comparece em consulta de puerpério em Centro de Saúde. Queixa-se que após fissura em mamilo esquerdo, sua mama apresenta- se edemaciada, endurecida, com dor intensa e eritema. Apresentou em domicílio dois picos febris de 39 graus, com melhora após uso de dipirona. Devido à fissura, paciente foi orientada por cunhada a só manter aleitamento na mama não fissurada. Ao exame físico: identifica-se mama esquerda com área de 5cm em quadrante superolateral com endurecimento, dor, calor e vermelhidão. Não são visualizados trajetos fistulosos, secreção purulenta ou pontos de flutuação. Em relação ao caso, assinale a alternativa que apresenta o diagnóstico e a conduta CORRETOS:",
       "alternativas": {
         "A": "Abscesso Lactacional; solicitar ultrassonografia e realizar drenagem cirúrgica",
@@ -3091,7 +3091,7 @@
       "id": "pv-sp-2025-0217",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Paciente, 28 anos de idade, hígida, tercigesta com dois partos vaginais anteriores, 40 semanas e 5 dias de gravidez, comparece para avaliação de vitalidade fetal indicada para controle de pós-datismo. Ao exame físico, apresentou bom estado geral, normotensa. Abdome gravídico, AU 38 cm, BCF+. Toque vaginal apresenta colo médio, medianizado, 4 cm, líquido claro, cefálico alto e móvel. Realizado perfil biofísico fetal de 10, com ILA de 9 cm. A conduta recomendada é:",
       "alternativas": {
         "A": "Misoprostol.",
@@ -3158,7 +3158,7 @@
       "id": "pv-uni-2024-0010",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "RN masculino, nasceu de parto cesárea iterativa, com 35 semanas de idade gestacional, líquido amniótico meconial 1+/4+, Apgar 08 e 09 nos primeiro e quinto minutos. Com 48 horas de vida, apresentava FR = 70 irpm, boletim de Silverman-Andersen = 4, sem outras alterações ao exame físico. Considerando o diagnóstico mais provável, qual é o mecanismo fisiopatológico primário envolvido?",
       "alternativas": {
         "A": "Atraso na reabsorção do líquido intersticial pulmonar.",
@@ -3518,7 +3518,7 @@
       "id": "pv-sír-2024-0043",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Parturiente é admitida no centro obstétrico para realização de parto cesárea devido a sofrimento fetal agudo. A idade gestacional estimada pelo US precoce é 36 semanas e 2 dias. O recém-nascido encontra-se hipotônico, não chora e tem a respiração irregular. É levado à mesa de reanimação para receber os passos iniciais da reanimação. A avaliação a seguir mostrou FC < 100 bpm e respiração irregular. Entre as opções abaixo, a melhor conduta nesse momento é:",
       "alternativas": {
         "A": "Indicar intubação traqueal com cânula traqueal nº 3 e oxímetro de pulso.",
@@ -3572,7 +3572,7 @@
       "id": "pv-sír-2025-0167",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Parturiente chega ao hospital com bolsa rota há 1 hora e contrações frequentes. Refere que o primeiro parto foi vaginal, pesando 3.300 g, sem dificuldades. Ao exame, a altura uterina é 30 cm, BCF: 150 bpm, colo pérvio para 8 cm. Palpa-se o braço fetal insinuado. Nesse momento, a melhor indicação para essa paciente é",
       "alternativas": {
         "A": "versão interna.",
@@ -3599,7 +3599,7 @@
       "id": "pv-sír-2025-0177",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Frente à distocia de ombros detectada durante a fase expulsiva do parto, é correto afirmar que",
       "alternativas": {
         "A": "o tempo limite que antecede o aumento do risco de asfixia letal é de 10 minutos.",
@@ -4188,7 +4188,7 @@
       "id": "pv-ufr-2025-0230",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Durante o período expulsivo, o obstetra optou por utilizar o fórceps, já que escalpe fetal encontrava-se visível, sem a necessidade de afastar os grandes lábios, a cabeça já havia atingido o assoalho pélvico e a sutura sagital estava no diâmetro anteroposterior. Ao aplicar o fórceps, a rotação não excedeu 45°. Pode-se afirmar que é um fórceps:",
       "alternativas": {
         "A": "de alívio",
@@ -4734,7 +4734,7 @@
       "id": "pv-ena-2024-0031",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Com as novas práticas obstétricas e o aumento das indicações de cesariana, o uso do fórceps vem reduzindo, mas este ainda é um instrumento imprescindível em algumas situações. Sobre esse assunto, é correto afirmar que",
       "alternativas": {
         "A": "a variedade de posição occípitossacra é direta, isto é, não há necessidade de rotação.",
@@ -4932,7 +4932,7 @@
       "id": "pv-amr-2024-0045",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Qual tipo de fórceps é indicado para a correção do assinclitismo?",
       "alternativas": {
         "A": "Simpson.",
@@ -5141,7 +5141,7 @@
       "id": "pv-ufr-2025-0232",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Gemelar",
+      "sub_subarea": "",
       "enunciado": "Em US realizada na 12ª semana de gestação, identificou-se uma gestação gemelar monocoriônica e diamniótica. Nesse caso, em relação à placentação, pode-se afirmar que a divisão ocorreu no período de fertilização:",
       "alternativas": {
         "A": "durante os 3 primeiros dias",
@@ -5253,7 +5253,7 @@
       "id": "pv-uer-2025-0158",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Gemelar",
+      "sub_subarea": "",
       "enunciado": "Em relação à gestação gemelar, o achado característico da sequência TAPS é a presença de:",
       "alternativas": {
         "A": "feto acárdico e feto bomba",
@@ -5363,7 +5363,7 @@
       "id": "pv-hcp-2025-0127",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Gemelar",
+      "sub_subarea": "",
       "enunciado": "Paciente com gestação gemelar de 32 semanas consultou por prurido generalizado, mas principalmente nas palmas das mãos e solas dos pés, que piorava à noite, além de dor no quadrante superior direito do abdômen, náuseas e diminuição do apetite. Submetera-se a tratamento de bacteriúria assintomática há 15 dias. Negou ter sintomas urinários no momento. Sentia dor à palpação lombar bilateralmente. Ao exame, não havia lesões de pele. Apresentava sinais vitais estáveis (incluindo temperatura de 36o C e pressão arterial de 120/70 mmHg), batimentos cardiofetais de 140 bpm e ausência de dinâmica uterina e dilatação cervical. Exames laboratoriais iniciais revelaram hematócrito de 30%, hemoglobina de 10 g/dl, leucócitos de 8.000/mm³ sem desvio, plaquetas de 200.000/mm³, glicemia de 84 mg/dl, AST de 52 U/l, ALT de 70 U/l, bilirrubina total de 1,4 mg/dl, bilirrubina direta de 0,7 mg/dl e tempo de protrombina de 12 segundos. O EQU indicou esterase leucocitária positiva. Com relação ao diagnóstico mais provável, assinale a assertiva correta.",
       "alternativas": {
         "A": "Trata-se de uma doença grave na gestação, caracterizada pela infiltração microvesicular de gordura no fígado, levando à insuficiência hepática; seu diagnóstico baseia-se na presença de, pelo menos, 6 critérios de Swansea, na ausência de outros diagnósticos.",
@@ -5438,7 +5438,7 @@
       "id": "pv-fam-2024-0031",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "sub_subarea": "Rotina",
       "enunciado": "Você está evoluindo alojamento conjunto e ao checar o cartão de pré natal de uma puérpera, encontra sorologia de toxoplasmose com IgG positiva e IgM positiva no último trimestre, sem outras sorologias anotadas no cartão. Mãe refere pré natal sem intercorrências e refere uso de polivitamínicos durante o período. Qual a sua conduta frente a esse paciente?",
       "alternativas": {
         "A": "Solicitar sorologia (IgM e IgG do recém nascido",
@@ -5672,7 +5672,7 @@
       "id": "pv-uni-2025-0172",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "sub_subarea": "Rotina",
       "enunciado": "Mulher, 32 anos de idade, primigesta, na 12ª semana de gestação, está realizando pré-natal em Unidade Básica de Saúde. Exame físico: PA 120 x 80 mmHg, ausência de edemas. Exame obstétrico: útero aumentado para 12 semanas, batimentos cardíacos fetais = 144 bpm ao sonar. A glicemia de jejum apresenta resultado de 90 mg/dL. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Perfil glicêmico, hemoglobina glicada e avaliação da vitalidade fetal.",
@@ -5774,7 +5774,7 @@
       "id": "pv-sír-2024-0033",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea/Distocia",
+      "sub_subarea": "Cesárea",
       "enunciado": "Gestante de 39 semanas com 3 cesáreas anteriores é internada para cesárea iterativa. O feto está pélvico e tem peso estimado de 3.700 g. Nessa situação, a incisão uterina deve ser",
       "alternativas": {
         "A": "corporal longitudinal.",

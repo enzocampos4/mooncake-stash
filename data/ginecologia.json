@@ -45,7 +45,7 @@
       "_edicao": "3",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Fisiologia Cardíaca e Eletrocardiograma",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -67,7 +67,7 @@
       "_edicao": "3",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Valvopatias",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -89,7 +89,7 @@
       "_edicao": "3",
       "subarea": "Pneumologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -113,7 +113,7 @@
       "_edicao": "5",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Hipertensão Arterial Sistêmica (HAS)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -135,7 +135,7 @@
       "_edicao": "5",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Choque",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -159,14 +159,14 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "pv-pe-2024-0041",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Paciente com 35 anos de idade, gestante no curso de 28 semanas, procura o serviço de emergência de uma maternidade com dor progressiva e localizada que não cessa com analgésicos habituais há três dias. Nega febre ou perdas genitais, informa boa movimentação fetal. Ao exame, percebe-se grande massa adjacente ao útero gravídico, amolecida, no entanto, a dinâmica uterina e o sinal de Blumberg estão ausentes. Durante o internamento, não respondeu aos analgésicos mais potentes. Realizou ultrassonografia que revelou nódulo miometrial/subseroso ecoico de 400cm³, heterogêneo com áreas císticas. Distancia-se da cavidade uterina por 1,5 cm. Considerando o cenário acima, assinale a alternativa que reúne o provável diagnóstico e a conduta mais adequada.",
       "alternativas": {
         "A": "Mioma torcido/ morfina",
@@ -285,7 +285,7 @@
       "_edicao": "1",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -307,7 +307,7 @@
       "_edicao": "1",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -373,7 +373,7 @@
       "_edicao": "1",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Amenorreia",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -397,7 +397,7 @@
       "_edicao": "1",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -421,7 +421,7 @@
       "_edicao": "11",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -443,7 +443,7 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -467,7 +467,7 @@
       "_edicao": "11",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -510,7 +510,7 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -532,7 +532,7 @@
       "_edicao": "11",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -574,7 +574,7 @@
       "_edicao": "14",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -594,7 +594,7 @@
       "_edicao": "14",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -614,7 +614,7 @@
       "_edicao": "14",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -634,7 +634,7 @@
       "_edicao": "14",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -654,7 +654,7 @@
       "_edicao": "14",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Endometriose",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -676,7 +676,7 @@
       "_edicao": "3",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de ovário",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -720,7 +720,7 @@
       "_edicao": "3",
       "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Sangramento uterino anormal (SUA)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -742,7 +742,7 @@
       "_edicao": "3",
       "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Dismenorreia e síndrome pré-menstrual",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -764,7 +764,7 @@
       "_edicao": "3",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -786,7 +786,7 @@
       "_edicao": "3",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Amenorreia",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -808,7 +808,7 @@
       "_edicao": "5",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de endométrio",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -830,7 +830,7 @@
       "_edicao": "5",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -854,7 +854,7 @@
       "_edicao": "5",
       "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de mama",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -876,7 +876,7 @@
       "_edicao": "5",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de endométrio",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -922,7 +922,7 @@
       "_edicao": "5",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -944,7 +944,7 @@
       "_edicao": "9",
       "subarea": "Uroginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Incontinência urinária (IU)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -969,7 +969,7 @@
       "_edicao": "9",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -991,7 +991,7 @@
       "_edicao": "9",
       "subarea": "Ginecologia básica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Semiologia ginecológica (exame especular, toque, PN)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1035,7 +1035,7 @@
       "_edicao": "9",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1059,7 +1059,7 @@
       "_edicao": "9",
       "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Amenorreia",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1083,7 +1083,7 @@
       "_edicao": "9",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1554,7 +1554,7 @@
       "id": "pv-pe-2025-0160",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "A paciente 65 anos com queixa de sangramento vaginal. Ela pensava que a menstruação tinha voltado, pois era menopausada, e por isso demorou a procurar o médico. Quando procurou o médico, foi solicitada uma ultrassonografia pélvica a qual evidenciou as características abaixo. Assinale a alternativa que sugere a principal hipótese diagnóstica.",
       "alternativas": {
         "A": "Espessamento do endométrio por provável pólipo endometrial.",
@@ -1649,7 +1649,7 @@
       "id": "pv-amr-2024-0053",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Em 2014, um grupo de pesquisadores investigou se a endometriose era uma doença progressiva. A sua hipótese era de que haveria uma correlação positiva entre idade e grau do estadiamento da endometriose. Após analisar uma coorte com 500 casos, eles encontraram o gráfico (dotplot) abaixo, com um teste de ANOVA, p = 0.9 e uma correlação com teste de Spearman (r) = -0,023 (IC95% = -0,12 a 0,08, n = 364). Com base nesses dados, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os resultados confirmaram que a endometriose é uma doença progressiva. O estadiamento da endometriose aumenta com o avançar da idade.",
@@ -1834,7 +1834,7 @@
       "id": "pv-ufr-2024-0078",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "A endometriose é uma patologia que acomete uma em cada dez mulheres, portanto, é fundamental entender sua fisiopatologia. Pode-se afirmar, sobre as teorias propostas, que:",
       "alternativas": {
         "A": "a teoria da menstruação retrógrada, descrita por Sampson, não foi bem aceita, pois, a maior parte das mulheres não apresenta refluxo tubário durante o período menstrual",
@@ -1857,7 +1857,7 @@
       "id": "pv-ufr-2024-0082",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Infecções Ginecológicas",
+      "sub_subarea": "",
       "enunciado": "Mulher, 27 anos, queixa-se de dor abdominal em baixo ventre há 4 dias. Há 2 dias, refere início de febre e leucorreia amarelada. Exame físico: frequência cardíaca (FC) = 96bpm; temperatura axilar = 38,30C; dor à palpação de hipogástrio, sem sinais de descompressão dolorosa. Exame ginecológico: colo com saída de secreção muco purulenta; ao toque, colo doloroso à mobilização; útero em AVF, tamanho normal; regiões anexiais impalpáveis, mas dolorosas. Pode-se afirmar, já que são critérios obrigatórios para seu diagnóstico, que o que levou o ginecologista a pensar no diagnóstico de doença inflamatória pélvica foi a presença de:",
       "alternativas": {
         "A": "dor à mobilização do colo; leucorreia muco purulenta; febre",
@@ -1889,7 +1889,7 @@
       "id": "pv-ufr-2024-0087",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Mulher, 35 anos, sexualmente ativa, contracepção com condom, nuligesta, apresenta queixa de aumento da duração e do fluxo menstrual progressivas há 6 meses. Exame ginecológico: útero em anteroversoflexão (AVF), tamanho normal, móvel, indolor; colo posterior, móvel indolor; anexos impalpáveis. Ecografia transvaginal: imagem uterina corporal, hipoecogênica, de contornos bem definidos, lobulados, medindo 2cm no maior diâmetro desviando o eco endometrial posteriormente. Vídeohisteroscopia diagnóstica: abaulamento em parede uterina anterior, de aproximadamente 2cm, com componente intracavitário superior a 50%. A principal hipótese diagnóstica é:",
       "alternativas": {
         "A": "adenomiose difusa",
@@ -1941,7 +1941,7 @@
       "id": "pv-ufr-2025-0219",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Mulher, 44 anos, queixa-se, há 2 anos, de aumento de volume menstrual e dismenorreia com piora progressiva. Ultrassonografia transvaginal no 24º dia do ciclo menstrual: útero em anteversoflexão, aumentado de volume, parede corporal posterior com espessura 3 vezes maior que a parede anterior, contendo imagens anecóicas e ilhas hiperecogênicas miometriais de permeio, predominantemente, na parede posterior; endométrio de aspecto hiperecogênico, centrado, homogêneo, com 12mm de espessura; ovário direito com imagem hipoecogênica, irregular, com 20mm no maior diâmetro e halo vascular ao redor. A principal hipótese diagnóstica é:",
       "alternativas": {
         "A": "endometriose",
@@ -2081,7 +2081,7 @@
       "id": "pv-uer-2024-0051",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "A ultrassonografia de uma mulher de 62 anos com quadro de sangramento pós-menopausa evidenciou um mioma subseroso com área de degeneração cística, endométrio de 8mm de espessura, calcificações endometriais lineares e ovários com 3cm³ de volume. O achado mais significativo desse exame para o diagnóstico do sangramento é o de:",
       "alternativas": {
         "A": "calcificações endometriais lineares",
@@ -2281,7 +2281,7 @@
       "id": "pv-fam-2024-0034",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Paciente com 15 anos, menarca aos 11 anos, queixa-se de irregularidade menstrual desde o inicio, com ciclos de 35 dias e duração de 7 dias de sangramento. Refere discreta cólica durante o período menstrual, necessitando do uso de analgésicos. Submetida a ultrassonografia pélvica apresentou: útero em AVF com volume e textura normais; ovários com aspecto multicístico, volume de 8 e 9 cm3 cada, e contendo 12 folículos antrais dispersos na periferia em ambos os ovários. Qual a hipótese diagnóstica correta?",
       "alternativas": {
         "A": "Endometriose",
@@ -2456,7 +2456,7 @@
       "id": "pv-fam-2025-0152",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Paciente feminina, 65 anos, com sintomas dispéptico inespecíficos, realizou uma EDA (endoscopia digestiva alta) que mostrou uma lesão submucosa em corpo gástrico de 2 cm. Com relação ao quadro exposto acima, assinale a alternativa correta:",
       "alternativas": {
         "A": "O melhor tratamento nestes casos é a gastrectomia subtotal com esvaziamento ganglionar a DH.",
@@ -2515,7 +2515,7 @@
       "id": "pv-sp-2024-0082",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Entre os pacientes descritos a seguir, todos estão com um quadro de pneumonia no momento. Sendo asim, assinale a alternativa que apresenta o paciente que se encontra com o quadro agudo mais grave.",
       "alternativas": {
         "A": "dezenove anos de idade, com cianose em lábios e extremidades, baqueteamento digital, hemoglobina 22 mg/dl e saturação de O2 de 85% em ar ambiente",
@@ -2609,7 +2609,7 @@
       "id": "pv-sp-2025-0169",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Uma paciente estava com sangramento uterino anormal e compareceu ao hospital para ser submetida à ultrassonografia transvaginal e à histeroscopia ambulatorial. A paciente foi diagnosticada com a presença de um mioma submucoso tipo zero. Com base nessa situação hipotética, é correto afirmar que",
       "alternativas": {
         "A": "o mioma está localizado integralmente no miométrio.",
@@ -2817,7 +2817,7 @@
       "id": "pv-uni-2025-0167",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Mulher, 48 anos de idade, submeteu-se à histerectomia total abdominal por mioma uterino há 4 meses. Refere ter realizado conização por NIC 3 com margens livres há 8 anos. Segundo as Diretrizes Brasileiras para o rastreamento do câncer do colo do útero a conduta é:",
       "alternativas": {
         "A": "Descontinuar o exame citológico.",
@@ -2869,7 +2869,7 @@
       "id": "pv-sír-2024-0034",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "A adenomiose",
       "alternativas": {
         "A": "pode ter origem em metaplasia de resquícios mullerianos presentes no miométrio.",
@@ -3128,7 +3128,7 @@
       "id": "pv-hia-2025-0134",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Diante de adolescente de 17 anos, com dismenorreia e episódios de dor pélvica acíclica, sem comorbidades, sexualmente ativa e sem desejo reprodutivo em curto prazo, com ultrassonografia com preparo intestinal para pesquisa de endometriose demonstrando discreto espessamento inespecífico de ligamentos uterossacros, qual é a melhor conduta?",
       "alternativas": {
         "A": "Ressonância nuclear magnética para investigação complementar de endometriose e outras causas de dor pélvica crônica.",
@@ -3160,7 +3160,7 @@
       "id": "pv-hia-2025-0135",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Menstruações volumosas são uma das formas clínicas do sangramento uterino anormal, distúrbio com alta prevalência na população global, com impacto pessoal, social, profissional e público. Diante das possíveis causas, são reconhecidas todas a seguir, EXCETO",
       "alternativas": {
         "A": "doença de Von Wilebrand.",
@@ -3192,7 +3192,7 @@
       "id": "pv-df-2024-0035",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Uma paciente de 12 anos de idade, sem sexarca, com menarca há três meses, apresenta sangramento volumoso, com saída de coágulos e duração de 15 dias, sem repercussão hemodinâmica associada. Em relação ao sangramento uterino anormal, assinale a alternativa correta",
       "alternativas": {
         "A": "A causa mais comum de sangramento uterino anormal na paciente jovem, logo após a menarca, é a coagulopatia.",
@@ -3304,7 +3304,7 @@
       "id": "pv-df-2025-0159",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Certa paciente realizou um exame de ultrassonografia que evidenciou lesão heterogênea regular de aproximadamente 5 cm em porção anterior uterina, com menos de 50% da superfície em tecido miometrial. Acerca do achado, assinale a alternativa correta.",
       "alternativas": {
         "A": "A miomectomia histeroscópica deve ser o procedimento de escolha diante de um mioma com classificação FIGO 3, como o citado.",
@@ -3582,7 +3582,7 @@
       "id": "pv-ena-2025-0170",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Uma mulher de 63 anos, portadora de diabetes mellitus e hipertensão arterial sistêmica controlada, encontra-se em menopausa há 10 anos. Comparece ao ginecologista com queixas de sangramento vaginal há 3 meses. O exame físico não apresenta alterações aparentes ou sinais de sangramento ativo no momento. É realizada uma ultrassonografia transvaginal, que evidencia endométrio com 3 mm de espessura, com imagem ecogênica focal que ocupa a interface entre os folhetos endometriais e mede 5 mm no maior eixo. A causa mais provável do sangramento nesse caso é:",
       "alternativas": {
         "A": "adenomiose;",
@@ -3959,7 +3959,7 @@
       "id": "pv-mg-2025-0089",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Assinale a alternativa CORRETA quanto ao período de transição menopáusica.",
       "alternativas": {
         "A": "Durante a fase inicial de transição menopáusica, os níveis de progesterona são mais baixos quando comparados aos de mulheres na meia idade reprodutiva. Entretanto, os níveis de testosterona não variam significativamente",
@@ -4447,7 +4447,7 @@
       "id": "pv-uer-2025-0146",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Uma mulher de 34 anos, com desejo de gestar, apresenta um exame de imagem cujo laudo refere mioma tipo 7 pela classificação da FIGO. O tipo de mioma e uma possível indicação terapêutica nesse caso, respectivamente, são:",
       "alternativas": {
         "A": "submucoso pediculado / miomectomia histeroscópica",
@@ -4902,7 +4902,7 @@
       "id": "pv-uni-2024-0058",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Mulher, 65 anos de idade, deu entrada em sepses no PS referindo dor pélvica há 3 dias. Exame ginecológico: conteúdo vaginal purulento e fétido; colo amolecido, útero aumentado para 15 cm e doloroso à palpação. US pélvico: útero 260 ml, cavidade endometrial preenchida por conteúdo sólido-cístico com fluxo ao Doppler e interposição gasosa de permeio, sem plano de clivagem com o miométrio, eco endometrial irregular de 15 mm; ovários diminuídos de tamanho, hidrosalpinge bilateral de moderadas proporções. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Neoplasia maligna das tubas uterinas e endometrite.",
@@ -5252,7 +5252,7 @@
       "id": "pv-df-2025-0158",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Uma paciente de 36 anos de idade apresenta ciclos persistentes, com volume aumentado de início há um ano, associado a dismenorreia frequente, sem repercussão hemodinâmica no atendimento ambulatorial. Acerca do manejo inicial da paciente com sangramento uterino anormal, assinale a alternativa correta.",
       "alternativas": {
         "A": "O uso de anti-inflamatórios não esteroidais e o ácido tranexâmico auxiliam no controle do sangramento em torno de 50% dos casos.",
@@ -5385,7 +5385,7 @@
       "id": "pv-uer-2025-0151",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Ao apresentar dor pélvica e diagnóstico prévio de endometriose, uma mulher com queixa de infertilidade mostra resultado de RM evidenciando endometrioma de 7cm e espessamento de ligamentos uterossacros bilateralmente. Ela deseja realizar apenas tratamento clínico, não pretendendo se submeter à cirurgia. Considerando os problemas identificados, o tratamento clínico pode atuar no(a):",
       "alternativas": {
         "A": "controle da dor",
@@ -5470,7 +5470,7 @@
       "id": "pv-uni-2025-0101",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Mulher, 27 anos de idade, 55 kg e 1,65 m, submetida a raquianestesia e anestesia geral para tratamento cirúrgico de endometriose. Durante avaliação pré-anestésica foi identificado alto risco para náusea e vômito no pós-operatório. Com objetivo de reduzir o risco de ocorrência de complicação no pós-operatório, qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Anestesia balanceada com propofol, remifentanil e sevoflurano.",
@@ -5600,7 +5600,7 @@
       "id": "pv-amr-2025-0141",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Em relação ao sangramento uterino anormal em uma mulher na menacme, é correto afirmar que:",
       "alternativas": {
         "A": "Sempre se deve descartar um caso de gravidez.",
@@ -5623,7 +5623,7 @@
       "id": "pv-amr-2025-0142",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Paciente de 34 anos vem à consulta por sangramento uterino anormal há 2 meses. No exame físico especular, foi identificada uma lesão polipoide, friável, extruindo pelo colo uterino. A paciente tem dosagem de progesterona de 4 ng/ml (valores de normalidade após a ovulação = 5 a 20 ng/ml). A hipótese diagnóstica mais provável e a conduta adequada são, respectivamente:",
       "alternativas": {
         "A": "Câncer de colo uterino – realizar citopatológico.",
@@ -5652,7 +5652,7 @@
       "id": "pv-uer-2024-0044",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Abortamento de repetição é um dos maiores desafios da medicina reprodutiva, cuja dificuldade de identificação da causa pode levar a tratamentos ineficazes e sem comprovação científica, que não alteram o prognóstico. Entre as causas de abortamento de repetição, encontra-se:",
       "alternativas": {
         "A": "mioma subseroso",
@@ -5704,7 +5704,7 @@
       "id": "pv-fam-2024-0033",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Casal procura o ambulatório de Infertilidade, pois deseja engravidar há um ano. Ela com 28 anos e diagnóstico de Endometriose profunda. Ele com 30 anos e diagnóstico de oligospermia leve, fumante. Qual a conduta a ser adotada?",
       "alternativas": {
         "A": "Fertilização in vitro",
@@ -5787,7 +5787,7 @@
       "id": "pv-sp-2024-0022",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Quanto às causas de abortamento habitual, assinale a alternativa correta.",
       "alternativas": {
         "A": "São causas de abortamento habitual os fatores anatômicos, como os miomas, as sinéquias e as malformações uterinas, os fatores genéticos, incluindo anomalias cromossômicas; e os fatores endócrinos, como, por exemplo, a insuficiência lútea e diabetes.",
@@ -5854,7 +5854,7 @@
       "id": "pv-uni-2024-0056",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Mulher, 33 anos de idade, casada há 5 anos, com infertilidade conjugal há 3 anos. O marido é saudável e tem 36 anos de idade. A paciente tem ciclos eumenorreicos e nega dismenorreia. Refere 1 abortamento aos 17 anos de idade. Baseado na imagem anexa, qual é a provável etiologia da infertilidade?",
       "alternativas": {
         "A": "Fator uterino por sequela de aborto infectado.",
@@ -6000,7 +6000,7 @@
       "id": "pv-hia-2024-0024",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Mulher, 28 anos de idade, refere cólica menstrual moderada, que melhora com uso de analgésico em meses alternados. Teve 2 partos normais, o último há 3 anos. Nega vida sexual desde então. Refere ciclos menstruais regulares com duração de 5 dias. Realizou ultrassonografia endovaginal cujo laudo informava a presença de 1 nódulo uterino de 4 cm classificado como Sistema FIGO 6. Referente ao possível mioma, dentre as condutas abaixo, a mais adequada é:",
       "alternativas": {
         "A": "Miomectomia histeroscópica",
@@ -6037,7 +6037,7 @@
       "id": "pv-ba-2025-0070",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Uma paciente de 36 anos de idade, tentando engravidar, sem histórico de doenças ginecológicas relevantes, queixa-se de menstruação abundante e dor pélvica intermitente. Ao exame físico, o útero está aumentado e sensível. Uma ultrassonografia transvaginal revela a presença de um leiomioma intramural de classificação FIGO 3, de 5cm, localizado na parede posterior do útero, com características sugestivas de degeneração. A paciente está interessada em discutir opções de tratamento, já que deseja manter a fertilidade. De acordo com a classificação FIGO - Federação Internacional de Ginecologia e Obstetrícia - para leiomiomas uterinos, o termo FIGO 3, atribuída ao leiomioma desta paciente, significa:",
       "alternativas": {
         "A": "O leiomioma está localizado inteiramente na camada subserosa do útero.",
@@ -6065,7 +6065,7 @@
       "id": "pv-ba-2025-0071",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Uma paciente de 36 anos de idade, tentando engravidar, sem histórico de doenças ginecológicas relevantes, queixa-se de menstruação abundante e dor pélvica intermitente. Ao exame físico, o útero está aumentado e sensível. Uma ultrassonografia transvaginal revela a presença de um leiomioma intramural de classificação FIGO 3, de 5cm, localizado na parede posterior do útero, com características sugestivas de degeneração. A paciente está interessada em discutir opções de tratamento, já que deseja manter a fertilidade. Identifique o tratamento medicamentoso mais indicado para reduzir o tamanho do leiomioma antes de um procedimento cirúrgico, caso venha a ser indicado: 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 171/269",
       "alternativas": {
         "A": "Análogos de GnRH.",
@@ -6093,7 +6093,7 @@
       "id": "pv-ba-2025-0072",
       "area": "Ginecologia",
       "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma/Endometriose",
+      "sub_subarea": "Mioma",
       "enunciado": "Uma paciente de 36 anos de idade, tentando engravidar, sem histórico de doenças ginecológicas relevantes, queixa-se de menstruação abundante e dor pélvica intermitente. Ao exame físico, o útero está aumentado e sensível. Uma ultrassonografia transvaginal revela a presença de um leiomioma intramural de classificação FIGO 3, de 5cm, localizado na parede posterior do útero, com características sugestivas de degeneração. A paciente está interessada em discutir opções de tratamento, já que deseja manter a fertilidade. 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 173/269 Indique quando essa paciente poderá começar a tentar engravidar com segurança, após um procedimento cirúrgico para tratamento do leiomioma em questão:",
       "alternativas": {
         "A": "De imediato.",
@@ -6212,7 +6212,7 @@
       "_edicao": "1",
       "subarea": "Ética Médica",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Direitos do paciente",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -6237,7 +6237,7 @@
       "_edicao": "3",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {

@@ -20,7 +20,7 @@
       "_edicao": "1",
       "subarea": "Infectologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Pneumonia",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -42,7 +42,7 @@
       "_edicao": "11",
       "subarea": "Nefrologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Controle da água corporal total",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -64,7 +64,7 @@
       "_edicao": "11",
       "subarea": "Pneumologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Derrame Pleural",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -107,7 +107,7 @@
       "_edicao": "14",
       "subarea": "Gastroenterologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Esôfago",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -127,7 +127,7 @@
       "_edicao": "14",
       "subarea": "Gastroenterologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Estômago",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -147,7 +147,7 @@
       "_edicao": "14",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Choque",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -193,7 +193,7 @@
       "_edicao": "3",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Insuficiência Cardíaca",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -217,7 +217,7 @@
       "_edicao": "5",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Insuficiência Cardíaca",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -241,7 +241,7 @@
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -263,7 +263,7 @@
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -285,7 +285,7 @@
       "_edicao": "1",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Diverticulite aguda",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -307,7 +307,7 @@
       "_edicao": "1",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Coledocolitíase",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -329,7 +329,7 @@
       "_edicao": "1",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnia inguinal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -378,7 +378,7 @@
       "_edicao": "1",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Complicações respiratórias",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -400,7 +400,7 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma cranioencefálico (TCE)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -424,7 +424,7 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -468,7 +468,7 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -490,7 +490,7 @@
       "_edicao": "1",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -558,7 +558,7 @@
       "_edicao": "1",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Coledocolitíase",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -582,7 +582,7 @@
       "_edicao": "11",
       "subarea": "Cicatrização de Feridas",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Cicatrização por 1ª e 2ª intenção",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -626,7 +626,7 @@
       "_edicao": "11",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Tumores de vias biliares",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -650,7 +650,7 @@
       "_edicao": "11",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Colelitíase e colecistite",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -674,7 +674,7 @@
       "_edicao": "11",
       "subarea": "Megacólon Adquirido",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Megacólon",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -763,7 +763,7 @@
       "_edicao": "11",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -808,7 +808,7 @@
       "_edicao": "11",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção urinária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -830,7 +830,7 @@
       "_edicao": "11",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -852,7 +852,7 @@
       "_edicao": "11",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -872,7 +872,7 @@
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -895,7 +895,7 @@
       "_edicao": "14",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Derrame pleural (cirúrgico)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -919,7 +919,7 @@
       "_edicao": "14",
       "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hemorroidas",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -939,7 +939,7 @@
       "_edicao": "14",
       "subarea": "Megacólon Adquirido",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Megacólon",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -962,7 +962,7 @@
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -983,7 +983,7 @@
       "_edicao": "14",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção de sítio cirúrgico",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1009,7 +1009,7 @@
       "_edicao": "14",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1031,7 +1031,7 @@
       "_edicao": "3",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnia inguinal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1075,7 +1075,7 @@
       "_edicao": "3",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1097,7 +1097,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma raquimedular",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1119,7 +1119,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1141,7 +1141,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1163,7 +1163,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1187,7 +1187,7 @@
       "_edicao": "3",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1209,7 +1209,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1231,7 +1231,7 @@
       "_edicao": "3",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção de sítio cirúrgico",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1253,7 +1253,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma vascular",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1275,7 +1275,7 @@
       "_edicao": "3",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção de sítio cirúrgico",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1297,7 +1297,7 @@
       "_edicao": "3",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Coledocolitíase",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1342,7 +1342,7 @@
       "_edicao": "3",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1366,7 +1366,7 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma vascular",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1388,7 +1388,7 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1410,7 +1410,7 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1438,7 +1438,7 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1460,7 +1460,7 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1482,7 +1482,7 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1506,7 +1506,7 @@
       "_edicao": "5",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução intestinal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1528,7 +1528,7 @@
       "_edicao": "5",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Litíase urinária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1552,7 +1552,7 @@
       "_edicao": "5",
       "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Coledocolitíase e colangite",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1574,7 +1574,7 @@
       "_edicao": "5",
       "subarea": "Avaliação Pré-Operatória",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Risco cirúrgico (ASA, Goldman, Lee)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1598,7 +1598,7 @@
       "_edicao": "5",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1620,7 +1620,7 @@
       "_edicao": "5",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Câncer de próstata",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1729,7 +1729,7 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome agudo perfurativo",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1775,7 +1775,7 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção urinária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1799,7 +1799,7 @@
       "_edicao": "9",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma cranioencefálico (TCE)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1823,7 +1823,7 @@
       "_edicao": "9",
       "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnia inguinal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1848,7 +1848,7 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Litíase urinária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1872,7 +1872,7 @@
       "_edicao": "9",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "ATLS e abordagem primária/secundária",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1894,7 +1894,7 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Apendicite aguda",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1918,7 +1918,7 @@
       "_edicao": "9",
       "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Trauma abdominal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1942,7 +1942,7 @@
       "_edicao": "9",
       "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Infecção de sítio cirúrgico",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1966,7 +1966,7 @@
       "_edicao": "9",
       "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hiperplasia prostática benigna",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1988,7 +1988,7 @@
       "_edicao": "9",
       "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Diverticulite aguda",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2019,7 +2019,7 @@
       "id": "pv-ena-2024-0061",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Colecistite / Vias Biliares",
+      "sub_subarea": "",
       "enunciado": "Um paciente de 72 anos foi submetido a uma laparotomia exploradora por diverticulite complicada de cólon sigmoide, tendo sido realizada uma cirurgia com ressecção do sigmoide, fechamento do coto retal e confecção de colostomia terminal no cólon descendente. Esse tipo de cirurgia denomina-se",
       "alternativas": {
         "A": "cirurgia de Whipple.",
@@ -2393,7 +2393,7 @@
       "id": "pv-pe-2025-0140",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Colecistite / Vias Biliares",
+      "sub_subarea": "",
       "enunciado": "Paciente, 23 anos, sétimo dia de pós-operatório de colecistectomia videolaparoscopica procura serviço de urgência com dor abdominal intensa e vômitos, refratários à medicação oral. Ao exame físico: Consciente, orientada, eupneica, corada, anictérica, algo deshidratada, taquipneica (+/4+), FC 100bpm, PA 110x70mmHg. Abdome distendido, doloroso sobretudo em quadrantes superiores com sinais de irritação peritoneal, feridas operatórias sem alterações. Sobre o quadro em questão, é CORRETO afirmar que",
       "alternativas": {
         "A": "a causa mais provável é um abscesso cavitário por hematoma infectado, sendo necessária a reoperação.",
@@ -4009,7 +4009,7 @@
       "id": "pv-uni-2024-0090",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Colecistite / Vias Biliares",
+      "sub_subarea": "",
       "enunciado": "Mulher, 43 anos de idade, IMC 46 kg/m2 , diabética, hipertensa, no quinto pós-operatório de Bypass gástrico em Y-de-Roux, apresenta inapetência e dor abdominal no epigástrio que piora à palpação. Exame físico: rebaixamento de nível de consciência, desidratada ++, FC: 110 bpm, PA: 100x60 mm Hg, FR: 22 irpm, SpO2 94% em ar ambiente. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Deiscência do pouch gástrico.",
@@ -4382,7 +4382,7 @@
       "id": "pv-sír-2025-0140",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Colecistite / Vias Biliares",
+      "sub_subarea": "",
       "enunciado": "Mulher de 29 anos, sem antecedentes mórbidos, vai ao pronto-socorro com dor abdominal, icterícia e náuseas há 3 dias. Refere ter sido submetida, há sete dias, a uma colecistectomia VLP e desde então apresentou quadro progressivo de dor abdominal difusa, parada de eliminação de gases e fezes, distensão abdominal e icterícia, com dor em ombro direito, desde o 3º PO. Ao Exame Físico BEG, corada, hidratada, ictérica 2+/4, acianótica. Hemodinamicamente estável. Seu abdome estava distendido doloroso à palpação profunda. DB negativos. Exames laboratoriais: Hemoglobina: 14 g/dL, Plaquetas: 350.000. Leucócitos 12.800 mm³, sem desvio. U: 29.6 UI. Cr: 0.4 mg/dL. Na 142 mEQ/L, K: 4,5 mEq/L. AST: 138 UI. ALT: 511 UI. GGT: 218 UI FA: 152 UI. BT: 7,3 mg/dL, BD: 5,6 mg/dL, BI: 1.7 mg/dL. Foi submetida a uma tomografia cujas imagens seguem: O diagnóstico mais provável e a melhor conduta a ser adotada nesse caso:",
       "alternativas": {
         "A": "Úlcera péptica perfurada e laparotomia exploradora",
@@ -4604,7 +4604,7 @@
       "id": "pv-hia-2024-0056",
       "area": "Cirurgia",
       "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Pancreatite Aguda",
+      "sub_subarea": "",
       "enunciado": "Paciente masculino, 32 anos vai ao pronto-socorro com história de 7 dias de epigastralgia com parada de eliminação de flatos e fezes. Não tem antecedentes cirúrgicos ou quadros pregressos semelhantes. Não havia alterações no exame físico. Foram colhidos exames laboratoriais: Hemoglobina: 10,6 g/dL, Leucograma: 9.850 mm³, Plaquetas: 554.000/mm³, Ureia: 24 mg/dL, Creatinina: 0,7 mg/dL, Bilirubina direta: 0,13 mg/dl, TGO: 13 U/L, TGP: 11 U/L, FA: 67 U/L, GGT:22 U/L, Amilase: 110 U/L, Lipase: 24 U/L. Foi solicitada tomografia de abdome cujo resultado é mostrado na imagem: Melhor conduta diante do quadro clínico e achado tomográfico, dentre as listadas abaixo:",
       "alternativas": {
         "A": "Seguimento ambulatorial com ressonância.",
@@ -7419,7 +7419,7 @@
       "_edicao": "14",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Neoplasia intraepitelial cervical (NIC)",
+      "sub_subarea": "",
       "imagens": [
         "data/simulados/imgs/14-simulado/q97_img1.jpeg"
       ],
@@ -7447,7 +7447,7 @@
       "_edicao": "3",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7469,7 +7469,7 @@
       "_edicao": "3",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7493,7 +7493,7 @@
       "_edicao": "9",
       "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Câncer de ovário",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7517,7 +7517,7 @@
       "_edicao": "9",
       "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Doença Inflamatória Pélvica (DIP)",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
