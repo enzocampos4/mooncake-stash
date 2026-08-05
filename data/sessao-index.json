@@ -224,15 +224,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-043": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Dermatoses infecciosas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s11-048": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -512,15 +503,6 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-036": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Infecção do trato urinário (ITU)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-037": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -535,15 +517,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
     "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-039": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Pneumonia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -598,15 +571,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
     "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-046": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -809,15 +773,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-007": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-011": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -940,15 +895,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
     "subsub": "Controle da água corporal total",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-069": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -1210,15 +1156,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Aterosclerose e Doença Arterial Coronariana",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-016": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -1493,15 +1430,6 @@
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000115274)"
   },
-  "pv-ena-2024-0005": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
   "pv-ena-2024-0006": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -1543,15 +1471,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Doença Arterial Coronariana",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
-  "pv-ena-2024-0019": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -1655,29 +1574,11 @@
     "ano": 2024,
     "fonte": "ENARE 2024"
   },
-  "pv-ena-2024-0045": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
   "pv-ena-2024-0049": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
     "subsub": "Anemias",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
-  "pv-ena-2024-0053": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -1705,24 +1606,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
     "subsub": "Insuficiência Respiratória",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
-  "pv-ena-2024-0059": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
-  "pv-ena-2024-0060": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -2015,15 +1898,6 @@
     "ano": 2025,
     "fonte": "ENARE 2025"
   },
-  "pv-ena-2025-0107": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
   "pv-ena-2025-0108": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -2245,15 +2119,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Doença Arterial Coronariana",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
-  "pv-ena-2025-0152": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -2650,15 +2515,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
     "subsub": "Anemias",
-    "banca": "SES-PE",
-    "ano": 2024,
-    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
-  },
-  "pv-pe-2024-0038": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -3311,15 +3167,6 @@
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
   },
-  "pv-pe-2025-0178": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Dengue / Arboviroses",
-    "banca": "SES-PE",
-    "ano": 2025,
-    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
-  },
   "pv-pe-2025-0181": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -3707,29 +3554,11 @@
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
   },
-  "pv-mg-2024-0062": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma",
-    "banca": "PSU-MG",
-    "ano": 2024,
-    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
-  },
   "pv-mg-2024-0066": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
     "subsub": "Intoxicação / Envenenamento",
-    "banca": "PSU-MG",
-    "ano": 2024,
-    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
-  },
-  "pv-mg-2024-0068": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "HIV / AIDS",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -3748,15 +3577,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
     "subsub": "Dengue / Arboviroses",
-    "banca": "PSU-MG",
-    "ano": 2024,
-    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
-  },
-  "pv-mg-2024-0071": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Insuficiência Respiratória",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -4256,15 +4076,6 @@
     "ano": 2024,
     "fonte": "AMRIGS 2024"
   },
-  "pv-amr-2024-0030": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
-    "banca": "AMRIGS",
-    "ano": 2024,
-    "fonte": "AMRIGS 2024"
-  },
   "pv-amr-2024-0031": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -4315,15 +4126,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
     "subsub": "Politrauma",
-    "banca": "AMRIGS",
-    "ano": 2024,
-    "fonte": "AMRIGS 2024"
-  },
-  "pv-amr-2024-0054": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -4913,29 +4715,11 @@
     "ano": 2025,
     "fonte": "AMRIGS 2025"
   },
-  "pv-amr-2025-0176": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Doença Arterial Coronariana",
-    "banca": "AMRIGS",
-    "ano": 2025,
-    "fonte": "AMRIGS 2025"
-  },
   "pv-amr-2025-0177": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
     "subsub": "Politrauma",
-    "banca": "AMRIGS",
-    "ano": 2025,
-    "fonte": "AMRIGS 2025"
-  },
-  "pv-amr-2025-0178": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -5242,15 +5026,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
     "subsub": "Diabetes Mellitus",
-    "banca": "UFRJ",
-    "ano": 2024,
-    "fonte": "UFRJ 2024"
-  },
-  "pv-ufr-2024-0070": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -6155,15 +5930,6 @@
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
-  "pv-ufr-2025-0252": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Tuberculose",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
   "pv-ufr-2025-0254": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -6227,15 +5993,6 @@
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
-  "pv-ufr-2025-0266": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Tuberculose",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
   "pv-ufr-2025-0267": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -6286,15 +6043,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Geral",
     "subsub": "",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
-  "pv-ufr-2025-0277": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -6497,24 +6245,6 @@
     "ano": 2024,
     "fonte": "UERJ 2024"
   },
-  "pv-uer-2024-0028": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Meningites",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
-  "pv-uer-2024-0030": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
   "pv-uer-2024-0032": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -6542,56 +6272,11 @@
     "ano": 2024,
     "fonte": "UERJ 2024"
   },
-  "pv-uer-2024-0035": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
-  "pv-uer-2024-0036": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Tuberculose",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
-  "pv-uer-2024-0039": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
-  "pv-uer-2024-0040": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
   "pv-uer-2024-0043": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
     "subsub": "",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
-  "pv-uer-2024-0048": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -7073,15 +6758,6 @@
     "ano": 2025,
     "fonte": "UERJ 2025"
   },
-  "pv-uer-2025-0162": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
   "pv-uer-2025-0165": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -7091,47 +6767,11 @@
     "ano": 2025,
     "fonte": "UERJ 2025"
   },
-  "pv-uer-2025-0166": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Síndrome Metabólica / Obesidade",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
   "pv-uer-2025-0168": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
     "subsub": "Asma",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
-  "pv-uer-2025-0170": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
-  "pv-uer-2025-0171": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
-  "pv-uer-2025-0172": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7154,38 +6794,11 @@
     "ano": 2025,
     "fonte": "UERJ 2025"
   },
-  "pv-uer-2025-0176": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
   "pv-uer-2025-0178": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
     "subsub": "Tireoide",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
-  "pv-uer-2025-0180": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Artrite Reumatoide",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
-  "pv-uer-2025-0181": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "HIV / AIDS",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7676,15 +7289,6 @@
     "ano": 2024,
     "fonte": "HCPA 2024"
   },
-  "pv-hcp-2024-0080": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Tireoide",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
   "pv-hcp-2024-0081": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -7699,15 +7303,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
     "subsub": "Febre Reumática",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
-  "pv-hcp-2024-0083": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Antibioticoterapia",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -7730,51 +7325,6 @@
     "ano": 2024,
     "fonte": "HCPA 2024"
   },
-  "pv-hcp-2024-0088": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
-  "pv-hcp-2024-0092": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
-  "pv-hcp-2024-0093": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
-  "pv-hcp-2024-0094": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Sepse",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
-  "pv-hcp-2024-0098": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "HIV / AIDS",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
   "pv-hcp-2025-0103": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -7784,56 +7334,11 @@
     "ano": 2025,
     "fonte": "HCPA 2025"
   },
-  "pv-hcp-2025-0107": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "HIV / AIDS",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
-  "pv-hcp-2025-0111": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
   "pv-hcp-2025-0112": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
     "subsub": "Dengue / Arboviroses",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
-  "pv-hcp-2025-0114": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
-  "pv-hcp-2025-0119": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
-  "pv-hcp-2025-0121": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -7969,15 +7474,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Doença Arterial Coronariana",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
-  "pv-hcp-2025-0163": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Antibioticoterapia",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -8468,15 +7964,6 @@
     "ano": 2025,
     "fonte": "FAMERP 2025"
   },
-  "pv-fam-2025-0088": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
-  },
   "pv-fam-2025-0089": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -8621,24 +8108,6 @@
     "ano": 2025,
     "fonte": "FAMERP 2025"
   },
-  "pv-fam-2025-0129": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Doença Arterial Coronariana",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
-  },
-  "pv-fam-2025-0131": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP / Suporte Básico",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
-  },
   "pv-fam-2025-0136": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -8680,15 +8149,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Geral",
     "subsub": "",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
-  },
-  "pv-fam-2025-0147": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -8824,15 +8284,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
     "subsub": "Diabetes Mellitus",
-    "banca": "SUS-SP",
-    "ano": 2024,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
-  },
-  "pv-sp-2024-0025": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -9152,15 +8603,6 @@
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
   },
-  "pv-sp-2024-0107": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP / Suporte Básico",
-    "banca": "USP-SP",
-    "ano": 2024,
-    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
-  },
   "pv-sp-2024-0110": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -9202,15 +8644,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
     "subsub": "Pneumonias",
-    "banca": "USP-SP",
-    "ano": 2024,
-    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
-  },
-  "pv-sp-2024-0119": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -9323,42 +8756,6 @@
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
   },
-  "pv-sp-2025-0141": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0143": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0146": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Distúrbios da Coagulação",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0147": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Meningites",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
   "pv-sp-2025-0154": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -9368,38 +8765,11 @@
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
   },
-  "pv-sp-2025-0156": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
   "pv-sp-2025-0157": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
     "subsub": "Antibioticoterapia",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0159": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Antibioticoterapia",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0160": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -9629,24 +8999,6 @@
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
   },
-  "pv-sp-2025-0220": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP / Suporte Básico",
-    "banca": "USP-SP",
-    "ano": 2025,
-    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
-  },
-  "pv-sp-2025-0221": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
-    "banca": "USP-SP",
-    "ano": 2025,
-    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
-  },
   "pv-sp-2025-0222": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -9701,15 +9053,6 @@
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
   },
-  "pv-sp-2025-0233": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Doença Arterial Coronariana",
-    "banca": "USP-SP",
-    "ano": 2025,
-    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
-  },
   "pv-sp-2025-0235": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -9751,15 +9094,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Emergências / UTI",
     "subsub": "",
-    "banca": "UNIFESP",
-    "ano": 2024,
-    "fonte": "UNIFESP 2024"
-  },
-  "pv-uni-2024-0012": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -10048,15 +9382,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Insuficiência Cardíaca",
-    "banca": "UNIFESP",
-    "ano": 2024,
-    "fonte": "UNIFESP 2024"
-  },
-  "pv-uni-2024-0082": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Doença Arterial Coronariana",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -10412,15 +9737,6 @@
     "ano": 2025,
     "fonte": "UNIFESP 2025"
   },
-  "pv-uni-2025-0161": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
-    "banca": "UNIFESP",
-    "ano": 2025,
-    "fonte": "UNIFESP 2025"
-  },
   "pv-uni-2025-0162": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -10484,29 +9800,11 @@
     "ano": 2025,
     "fonte": "UNIFESP 2025"
   },
-  "pv-uni-2025-0189": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP / Suporte Básico",
-    "banca": "UNIFESP",
-    "ano": 2025,
-    "fonte": "UNIFESP 2025"
-  },
   "pv-uni-2025-0191": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Hipertensão Arterial",
-    "banca": "UNIFESP",
-    "ano": 2025,
-    "fonte": "UNIFESP 2025"
-  },
-  "pv-uni-2025-0192": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Sepse",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -10844,33 +10142,6 @@
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
   },
-  "pv-sír-2024-0054": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
-  "pv-sír-2024-0055": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
-  "pv-sír-2024-0056": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
   "pv-sír-2024-0057": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -10885,15 +10156,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
     "subsub": "Leucemias / Linfomas",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
-  "pv-sír-2024-0060": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Glomerulonefrites",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -11366,15 +10628,6 @@
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
   },
-  "pv-sír-2025-0142": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Meningites",
-    "banca": "Sírio-Libanês",
-    "ano": 2025,
-    "fonte": "Sírio-Libanês 2025"
-  },
   "pv-sír-2025-0145": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -11632,15 +10885,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Geral",
     "subsub": "",
-    "banca": "HIAE",
-    "ano": 2024,
-    "fonte": "HIAE 2024"
-  },
-  "pv-hia-2024-0041": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -11996,51 +11240,6 @@
     "ano": 2025,
     "fonte": "HIAE 2025"
   },
-  "pv-hia-2025-0109": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
-  "pv-hia-2025-0111": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Distúrbios da Coagulação",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
-  "pv-hia-2025-0112": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
-  "pv-hia-2025-0114": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
-  "pv-hia-2025-0115": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Doença Arterial Coronariana",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
   "pv-hia-2025-0117": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -12073,15 +11272,6 @@
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Insuficiência Cardíaca",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
-  "pv-hia-2025-0123": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -12815,15 +12005,6 @@
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
   },
-  "pv-df-2025-0136": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Insuficiência Respiratória",
-    "banca": "SES-DF",
-    "ano": 2025,
-    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
-  },
   "pv-df-2025-0141": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -13131,33 +12312,6 @@
     "fonte": "SUS-BA 2025"
   },
   "pv-ba-2025-0053": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
-  "pv-ba-2025-0073": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
-  "pv-ba-2025-0076": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
-  "pv-ba-2025-0079": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Geral",
@@ -20430,6 +19584,852 @@
     "fonte": "SUS-BA 2025"
   },
   "pv-ba-2025-0084": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "s11-043": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses infecciosas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-036": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Infecção do trato urinário (ITU)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-039": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Pneumonia",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-046": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-007": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-069": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s9-016": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-ena-2024-0005": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-ena-2024-0019": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-ena-2024-0045": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-ena-2024-0053": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-ena-2024-0059": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-ena-2024-0060": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes Mellitus",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-ena-2025-0107": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-ena-2025-0152": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-pe-2024-0038": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SES-PE",
+    "ano": 2024,
+    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
+  },
+  "pv-pe-2025-0178": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Dengue / Arboviroses",
+    "banca": "SES-PE",
+    "ano": 2025,
+    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
+  },
+  "pv-mg-2024-0062": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Asma",
+    "banca": "PSU-MG",
+    "ano": 2024,
+    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
+  },
+  "pv-mg-2024-0068": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "HIV / AIDS",
+    "banca": "PSU-MG",
+    "ano": 2024,
+    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
+  },
+  "pv-mg-2024-0071": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Insuficiência Respiratória",
+    "banca": "PSU-MG",
+    "ano": 2024,
+    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
+  },
+  "pv-amr-2024-0030": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "AMRIGS",
+    "ano": 2024,
+    "fonte": "AMRIGS 2024"
+  },
+  "pv-amr-2024-0054": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "",
+    "banca": "AMRIGS",
+    "ano": 2024,
+    "fonte": "AMRIGS 2024"
+  },
+  "pv-amr-2025-0176": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Doença Arterial Coronariana",
+    "banca": "AMRIGS",
+    "ano": 2025,
+    "fonte": "AMRIGS 2025"
+  },
+  "pv-amr-2025-0178": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "AMRIGS",
+    "ano": 2025,
+    "fonte": "AMRIGS 2025"
+  },
+  "pv-ufr-2024-0070": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "",
+    "banca": "UFRJ",
+    "ano": 2024,
+    "fonte": "UFRJ 2024"
+  },
+  "pv-ufr-2025-0252": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-ufr-2025-0266": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Tuberculose",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-ufr-2025-0277": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Anemias",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-uer-2024-0028": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Meningites",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-uer-2024-0030": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-uer-2024-0035": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-uer-2024-0036": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-uer-2024-0039": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Asma",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-uer-2024-0040": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-uer-2024-0048": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes Mellitus",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-uer-2025-0162": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-uer-2025-0166": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Endocrinologia",
+    "subsub": "Síndrome Metabólica / Obesidade",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-uer-2025-0170": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-uer-2025-0171": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-uer-2025-0172": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Anemias",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-uer-2025-0176": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-uer-2025-0180": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Reumatologia",
+    "subsub": "Artrite Reumatoide",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-uer-2025-0181": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "HIV / AIDS",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-hcp-2024-0080": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-hcp-2024-0083": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Antibioticoterapia",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-hcp-2024-0088": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-hcp-2024-0092": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-hcp-2024-0093": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-hcp-2024-0094": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Sepse",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-hcp-2024-0098": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "HIV / AIDS",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-hcp-2025-0107": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "HIV / AIDS",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-hcp-2025-0111": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-hcp-2025-0114": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-hcp-2025-0119": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-hcp-2025-0121": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-hcp-2025-0163": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Antibioticoterapia",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-fam-2025-0088": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-fam-2025-0129": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Doença Arterial Coronariana",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-fam-2025-0131": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "RCP / Suporte Básico",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-fam-2025-0147": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-sp-2024-0025": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial",
+    "banca": "SUS-SP",
+    "ano": 2024,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
+  },
+  "pv-sp-2024-0107": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "RCP / Suporte Básico",
+    "banca": "USP-SP",
+    "ano": 2024,
+    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
+  },
+  "pv-sp-2024-0119": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "",
+    "banca": "USP-SP",
+    "ano": 2024,
+    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
+  },
+  "pv-sp-2025-0141": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0143": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0146": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Distúrbios da Coagulação",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0147": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Meningites",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0156": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Anemias",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0159": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Antibioticoterapia",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0160": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Asma",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0220": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "RCP / Suporte Básico",
+    "banca": "USP-SP",
+    "ano": 2025,
+    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
+  },
+  "pv-sp-2025-0221": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "USP-SP",
+    "ano": 2025,
+    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
+  },
+  "pv-sp-2025-0233": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Doença Arterial Coronariana",
+    "banca": "USP-SP",
+    "ano": 2025,
+    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
+  },
+  "pv-uni-2024-0012": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Anemias",
+    "banca": "UNIFESP",
+    "ano": 2024,
+    "fonte": "UNIFESP 2024"
+  },
+  "pv-uni-2024-0082": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Doença Arterial Coronariana",
+    "banca": "UNIFESP",
+    "ano": 2024,
+    "fonte": "UNIFESP 2024"
+  },
+  "pv-uni-2025-0161": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "",
+    "banca": "UNIFESP",
+    "ano": 2025,
+    "fonte": "UNIFESP 2025"
+  },
+  "pv-uni-2025-0189": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "RCP / Suporte Básico",
+    "banca": "UNIFESP",
+    "ano": 2025,
+    "fonte": "UNIFESP 2025"
+  },
+  "pv-uni-2025-0192": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Sepse",
+    "banca": "UNIFESP",
+    "ano": 2025,
+    "fonte": "UNIFESP 2025"
+  },
+  "pv-sír-2024-0054": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-sír-2024-0055": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Anemias",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-sír-2024-0056": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-sír-2024-0060": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Glomerulonefrites",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-sír-2025-0142": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Meningites",
+    "banca": "Sírio-Libanês",
+    "ano": 2025,
+    "fonte": "Sírio-Libanês 2025"
+  },
+  "pv-hia-2024-0041": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "HIAE",
+    "ano": 2024,
+    "fonte": "HIAE 2024"
+  },
+  "pv-hia-2025-0109": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-hia-2025-0111": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Distúrbios da Coagulação",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-hia-2025-0112": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-hia-2025-0114": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Asma",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-hia-2025-0115": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Doença Arterial Coronariana",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-hia-2025-0123": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-df-2025-0136": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Insuficiência Respiratória",
+    "banca": "SES-DF",
+    "ano": 2025,
+    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
+  },
+  "pv-ba-2025-0073": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "pv-ba-2025-0076": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "pv-ba-2025-0079": {
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Geral",
