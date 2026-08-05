@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>HermesMed — Revisão de Classificação</title>
+<script src="auth.js"></script>
+<script src="tema.js"></script>
+<style>
+  :root {
+    --bg: #0f0f1a; --card: #1a1a2e; --card2: #22223a;
+    --accent: #7c5cfc; --accent2: #5ac8fa; --correct: #34c759; --wrong: #ff3b30;
+    --text: #e8e8f0; --muted: #8888a0; --radius: 14px;
+  }
+  html[data-tema="claro"] {
+    --bg: #f2f2f7; --card: #fff; --card2: #e9e9f0;
+    --accent: #5b3fd4; --accent2: #0a84ff; --correct: #248a3d; --wrong: #d70015;
+    --text: #1c1c1e; --muted: #6e6e73;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg); color: var(--text); font-size: 14px; line-height: 1.5;
+    min-height: 100vh; padding: 14px;
+  }
+  .container { max-width: 720px; margin: 0 auto; }
+  .topbar { display: flex; align-items: center; gap: 10px; padding: 8px 0 14px; }
+  .topbar .back { font-size: 1.3rem; text-decoration: none; color: var(--text); width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; border-radius: 10px; background: var(--card); }
+  .topbar .info { flex: 1; }
+  .topbar .info .title { font-weight: 700; font-size: 1rem; }
+  .topbar .info .sub { color: var(--muted); font-size: 0.78rem; }
+  .topbar .tema-btn { background: none; border: none; font-size: 1.1rem; cursor: pointer; }
+
+  .stats {
+    display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap;
+  }
+  .stat-card {
+    background: var(--card); border-radius: 12px; padding: 10px 14px; flex: 1; min-width: 80px;
+    border: 1px solid rgba(255,255,255,0.05);
+  }
+  .stat-card .num { font-size: 1.3rem; font-weight: 700; color: var(--accent2); }
+  .stat-card .label { font-size: 0.7rem; color: var(--muted); }
+
+  .progress-bar { height: 4px; background: var(--card2); border-radius: 4px; margin-bottom: 14px; overflow: hidden; }
+  .progress-fill { height: 100%; background: var(--accent); border-radius: 4px; transition: width 0.3s; }
+
+  .q-card {
+    background: var(--card); border-radius: var(--radius); padding: 16px;
+    border: 1px solid rgba(255,255,255,0.06); margin-bottom: 12px;
+  }
+  .q-meta { font-size: 0.75rem; color: var(--muted); margin-bottom: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .q-meta .tag {
+    background: var(--card2); padding: 2px 8px; border-radius: 6px; font-size: 0.7rem;
+  }
+  .q-meta .tag.banca { background: rgba(90,200,250,0.12); color: var(--accent2); }
+  .enunciado { font-size: 0.88rem; line-height: 1.6; margin-bottom: 10px; }
+  .alt { font-size: 0.82rem; padding: 6px 8px; margin: 2px 0; border-radius: 6px; background: var(--card2); }
+
+  .class-atual {
+    background: var(--card2); border-radius: 10px; padding: 10px 12px; margin: 10px 0;
+    border-left: 3px solid var(--accent);
+  }
+  .class-atual .label { font-size: 0.72rem; color: var(--muted); font-weight: 600; }
+  .class-atual .valor { font-size: 0.9rem; font-weight: 600; margin-top: 2px; }
+
+  .area-picker { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
+  .area-pick {
+    padding: 8px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);
+    background: var(--card2); color: var(--text); cursor: pointer; font-size: 0.82rem;
+    transition: 0.15s; flex: 0 1 auto;
+  }
+  .area-pick:hover { border-color: var(--accent); }
+  .area-pick.selected { border-color: var(--accent); background: rgba(124,92,252,0.15); color: var(--accent2); font-weight: 600; }
+  .area-pick.current { border-color: var(--accent2); background: rgba(90,200,250,0.1); }
+
+  .btn-row { display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap; }
+  .btn {
+    padding: 10px 20px; border-radius: 10px; border: none; font-weight: 600; font-size: 0.85rem;
+    cursor: pointer; transition: 0.15s; flex: 1; text-align: center;
+  }
+  .btn-primary { background: var(--accent); color: white; }
+  .btn-primary:disabled { opacity: 0.4; cursor: not-allowed; }
+  .btn-secondary { background: var(--card2); color: var(--muted); border: 1px solid rgba(255,255,255,0.08); }
+  .btn-success { background: var(--correct); color: white; }
+
+  .nav-row { display: flex; justify-content: space-between; align-items: center; margin-top: 10px; }
+  .nav-btn {
+    background: var(--card2); border: 1px solid rgba(255,255,255,0.08); color: var(--text);
+    border-radius: 8px; padding: 8px 16px; cursor: pointer; font-size: 0.82rem;
+  }
+  .nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+  .q-counter { font-size: 0.78rem; color: var(--muted); }
+
+  .filtro-revisao {
+    display: flex; gap: 6px; margin-bottom: 12px; flex-wrap: wrap;
+  }
+  .filtro-revisao span {
+    padding: 5px 12px; border-radius: 16px; background: var(--card2); font-size: 0.75rem;
+    cursor: pointer; border: 1px solid transparent; color: var(--muted);
+  }
+  .filtro-revisao span.active { border-color: var(--accent); color: var(--accent2); background: rgba(124,92,252,0.1); }
+  .filtro-revisao span .count { opacity: 0.6; margin-left: 3px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="topbar">
+    <a href="index.html" class="back">←</a>
+    <div class="info">
+      <div class="title">🔍 Revisão de Classificação</div>
+      <div class="sub" id="pageSub">Revise e corrija a classificação das questões</div>
+    </div>
+    <button class="tema-btn" onclick="hermesmedTema.toggle()">🌓</button>
+  </div>
+
+  <div class="stats" id="statsRow">
+    <div class="stat-card"><div class="num" id="statTotal">0</div><div class="label">Total</div></div>
+    <div class="stat-card"><div class="num" id="statRevistos">0</div><div class="label">Revisados</div></div>
+    <div class="stat-card"><div class="num" id="statPendentes">0</div><div class="label">Pendentes</div></div>
+    <div class="stat-card"><div class="num" id="statAlterados">0</div><div class="label">Alterados</div></div>
+  </div>
+
+  <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+
+  <div class="filtro-revisao" id="filtroArea"></div>
+
+  <div id="qContainer"></div>
+
+  <div class="nav-row">
+    <button class="nav-btn" id="btnPrev" onclick="navegar(-1)" disabled>← Anterior</button>
+    <span class="q-counter" id="qCounter"></span>
+    <button class="nav-btn" id="btnNext" onclick="navegar(1)">Próxima →</button>
+  </div>
+</div>
+
+<script>
+const STORAGE_KEY = 'hermesmed_revisao_classif';
+const AREAS = [
+  ['clinica-medica', '🫁', 'Clínica Médica'],
+  ['cirurgia', '🔪', 'Cirurgia'],
+  ['pediatria', '👶', 'Pediatria'],
+  ['ginecologia', '🩺', 'Ginecologia'],
+  ['obstetricia', '🤰', 'Obstetrícia'],
+  ['medicina-preventiva', '🛡️', 'Medicina Preventiva'],
+];
+const AREA_NOME = Object.fromEntries(AREAS.map(a => [a[0], a[2]]));
+
+let questoes = [];
+let currentIdx = 0;
+let filtro = '';
+let revisao = {}; // {qid: {area, subarea, subsub, revisada, alterada}}
+
+function carregarRevisao() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+  catch { return {}; }
+}
+function salvarRevisao() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(revisao));
+}
+
+async function init() {
+  // Carrega todas as questoes
+  for (const [slug] of AREAS) {
+    try {
+      const r = await fetch(`data/${slug}.json`);
+      const data = await r.json();
+      for (const q of data.questoes || []) {
+        questoes.push({ ...q, _slug_orig: slug });
+      }
+    } catch {}
+  }
+
+  revisao = carregarRevisao();
+  renderFiltros();
+  renderStats();
+  renderQuestao();
+}
+
+function renderFiltros() {
+  const el = document.getElementById('filtroArea');
+  el.innerHTML = `<span class="active" data-area="" onclick="setFiltro('')">Todas <span class="count">(${questoes.length})</span></span>` +
+    AREAS.map(([slug, icon, nome]) => {
+      const pendentes = questoes.filter(q => !revisao[q.id]?.revisada && q._slug_orig === slug).length;
+      return `<span data-area="${slug}" onclick="setFiltro('${slug}')">${icon} ${nome} <span class="count">(${pendentes})</span></span>`;
+    }).join('');
+}
+
+function setFiltro(area) {
+  filtro = area;
+  document.querySelectorAll('#filtroArea span').forEach(s => s.classList.toggle('active', s.dataset.area === area));
+  currentIdx = 0;
+  renderStats();
+  renderQuestao();
+}
+
+function getFiltradas() {
+  return filtro ? questoes.filter(q => q._slug_orig === filtro) : questoes;
+}
+
+function renderStats() {
+  const todas = getFiltradas();
+  const revisadas = todas.filter(q => revisao[q.id]?.revisada).length;
+  const alteradas = todas.filter(q => revisao[q.id]?.alterada).length;
+  document.getElementById('statTotal').textContent = todas.length;
+  document.getElementById('statRevistos').textContent = revisadas;
+  document.getElementById('statPendentes').textContent = todas.length - revisadas;
+  document.getElementById('statAlterados').textContent = alteradas;
+  document.getElementById('progressFill').style.width = (revisadas / Math.max(todas.length, 1) * 100) + '%';
+}
+
+function renderQuestao() {
+  const filtradas = getFiltradas();
+  if (filtradas.length === 0) {
+    document.getElementById('qContainer').innerHTML = '<div style="text-align:center;padding:40px;color:var(--muted);">Nenhuma questão encontrada.</div>';
+    return;
+  }
+
+  const q = filtradas[currentIdx];
+  const r = revisao[q.id] || {};
+  const altText = Object.entries(q.alternativas || {}).map(([l, t]) => `<div class="alt"><strong>${l})</strong> ${esc(t)}</div>`).join('');
+  const slugAtual = r.area ? Object.entries(AREA_NOME).find(([,v]) => v === r.area)?.[0] : q._slug_orig;
+  const areaAtualNome = AREA_NOME[slugAtual] || q.area || '?';
+
+  document.getElementById('qContainer').innerHTML = `
+    <div class="q-card">
+      <div class="q-meta">
+        <span>${esc(q.id)}</span>
+        <span class="tag banca">${esc(q.banca || q.instituicao || '')}</span>
+        <span class="tag">${q.ano || ''}</span>
+        ${r.revisada ? '<span class="tag" style="background:rgba(52,199,89,0.15);color:var(--correct);">✅ Revisada</span>' : ''}
+        ${r.alterada ? '<span class="tag" style="background:rgba(255,59,48,0.15);color:var(--wrong);">✏️ Alterada</span>' : ''}
+      </div>
+      <div class="enunciado">${esc(q.enunciado)}</div>
+      ${altText}
+      <div class="class-atual">
+        <div class="label">📍 Classificação ATUAL</div>
+        <div class="valor">${esc(areaAtualNome)} › ${esc(r.subarea || q.subarea || 'Geral')}${r.subsub || q.sub_subarea ? ' › ' + esc(r.subsub || q.sub_subarea) : ''}</div>
+      </div>
+      <div style="font-size:0.78rem;color:var(--muted);margin-bottom:6px;">🔄 Selecione a área CORRETA:</div>
+      <div class="area-picker" id="areaPicker">
+        ${AREAS.map(([slug, icon, nome]) =>
+          `<span class="area-pick ${slug === slugAtual ? 'current' : ''}" data-area="${slug}" onclick="selecionarArea('${slug}')">${icon} ${nome}</span>`
+        ).join('')}
+      </div>
+      <div class="btn-row">
+        <button class="btn btn-secondary" onclick="pular()">⏭️ Pular</button>
+        <button class="btn btn-success" id="btnConfirmar" onclick="confirmar()" ${!slugAtual ? 'disabled' : ''}>✅ Confirmar</button>
+      </div>
+    </div>
+  `;
+
+  document.getElementById('qCounter').textContent = `${currentIdx + 1} / ${filtradas.length}`;
+  document.getElementById('btnPrev').disabled = currentIdx === 0;
+  document.getElementById('btnNext').disabled = currentIdx >= filtradas.length - 1;
+}
+
+function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
+}
+
+function selecionarArea(slug) {
+  document.querySelectorAll('.area-pick').forEach(el => {
+    el.classList.toggle('selected', el.dataset.area === slug);
+    el.classList.toggle('current', el.dataset.area === slug);
+  });
+  document.getElementById('btnConfirmar').disabled = false;
+}
+
+function confirmar() {
+  const selected = document.querySelector('.area-pick.selected');
+  if (!selected) return;
+  
+  const q = getFiltradas()[currentIdx];
+  const novaArea = selected.dataset.area;
+  const estadoAtual = revisao[q.id] || {};
+  
+  const alterada = AREA_NOME[novaArea] !== q.area;
+  
+  revisao[q.id] = {
+    area: AREA_NOME[novaArea],
+    subarea: estadoAtual.subarea || q.subarea || 'Geral',
+    subsub: estadoAtual.subsub || q.sub_subarea || '',
+    revisada: true,
+    alterada: alterada || estadoAtual.alterada,
+  };
+  
+  salvarRevisao();
+  renderStats();
+  
+  // Avança automaticamente
+  const filtradas = getFiltradas();
+  if (currentIdx < filtradas.length - 1) {
+    currentIdx++;
+    renderQuestao();
+  } else {
+    renderQuestao(); // mostra a mesma com estado atualizado
+  }
+}
+
+function pular() {
+  const filtradas = getFiltradas();
+  if (currentIdx < filtradas.length - 1) {
+    currentIdx++;
+    renderQuestao();
+  }
+}
+
+function navegar(dir) {
+  const filtradas = getFiltradas();
+  const novo = currentIdx + dir;
+  if (novo >= 0 && novo < filtradas.length) {
+    currentIdx = novo;
+    renderQuestao();
+  }
+}
+
+init();
+</script>
+</body>
+</html>
