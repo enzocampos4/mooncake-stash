@@ -2,6 +2,92 @@
   "area": "Obstetrícia",
   "questoes": [
     {
+      "id": "s14-038",
+      "numero": 38,
+      "area": "Obstetrícia",
+      "enunciado": "Parturiente estava \nem trabalho de parto há 6 horas e, neste momento, acaba \nde iniciar o terceiro período do parto. Encontra-se estável \nhemodinamicamente, com sangramento habitual e sem \nqueixas. Em relação ao manejo ativo desse período de parto, \nassinale a alternativa correta.",
+      "alternativas": {
+        "A": "Realizar massagem uterina sustentada.",
+        "B": "Administrar ocitocina intramuscular na dose de 10Ui imediatamente.",
+        "C": "Clampeamento precoce do cordão umbilical.",
+        "D": "Tração vigorosa do cordão umbilical."
+      },
+      "correta": "B",
+      "explicacao": "No processo de dequitação, ocorre perda de até 500ml de sangue, normalmente bem tolerada pela paciente. Após a expulsão da placenta,\no sangramento cessa consideravelmente, permanecendo apenas a loquiação fisiológica.\nA principal medida na assistência ao terceiro período é a prevenção da hemorragia pós-parto. Para isso, preconiza-se o manejo ativo do\nterceiro período em todos os partos, imediatamente após a saída do concepto.\nO manejo ativo do terceiro período tem como principal conduta o uso universal da ocitocina, na dose de 10UI intramuscular, após o\nnascimento do feto, em todos os partos. A ocitocina é a medicação de primeira escolha na prevenção da hemorragia pós-parto, reduzindo\nem mais de 50% os quadros de HPP. Nas cesáreas, pode-se utilizar ocitocina endovenosa na mesma dose. Caso a ocitocina não esteja\ndisponível, pode-se utilizar a metilergometrina ou o misoprostol para prevenção de HPP.\n\nEstratégia\nMED\n66\nTambém faz parte do manejo ativo a tração controlada do cordão por profissional treinado, a fim de diminuir o terceiro período e o tempo\nde sangramento.\nApós a dequitação, é feita a avaliação sistemática da placenta e das membranas fetais, a fim de se verificar se a dequitação foi completa e\nnão ocorreu retenção de tecido placentário. O canal de parto também precisa ser avaliado à procura de lacerações.\nAlém disso, o contato pele a pele precoce deve ser estimulado, beneficiando a amamentação na primeira hora de vida, o que ajuda na\nliberação de ocitocina natural, na dequitação da placenta e na regressão uterina no pós-parto. O clampeamento do cordão umbilical deve\nser tardio, isto é, pelo menos após um minuto do parto.\nPor outro lado, a massagem uterina sustentada não é recomendada para prevenir HPP se a mulher recebeu a ocitocina profilática.\nPorém, é importante que a avaliação do tônus uterino abdominal no pós-parto seja realizada a cada 15 minutos nas primeiras 2 horas de\npós-parto.\nA tabela a seguir lista todas as condutas do manejo ativo do terceiro período:\nA dequitação da placenta ocorre em média de 5 a 10 min após o nascimento do feto em 80% das vezes. Considera-se dequitação\nfisiológica quando a saída da placenta ocorre em até 30 minutos. A partir disso, faz-se o diagnóstico de retenção placentária e pode-\nse iniciar as manobras para ajudar na dequitação, pois o risco de complicações hemorrágicas aumenta nesses casos. Se a paciente não\napresenta sangramento anormal e está estável, pode-se aguardar até 60 minutos.\nDiante de retenção placentária, deve ser feita a extração manual pela manobra de Credé e, em seguida, a curagem uterina. Pode-se\ntentar, antes dessa medida, a injeção de ocitocina na veia umbilical, reduzindo a necessidade de extração manual.\nIncorreta a alternativa A, pois, com o uso de ocitocina universal, a massagem não é recomendada.\nCorreta a alternativa B, pois esta é a principal conduta no período.\nIncorreta a alternativa C, pois o cordão deve ser clampeado de maneira oportuna e tardia.\nIncorreta a alternativa C, pois a tração deve ser controlada.",
+      "imagens": [
+        "data/simulados/imgs/14-simulado/q38_img1.jpeg",
+        "data/simulados/imgs/14-simulado/q38_img2.jpeg"
+      ],
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Dermatologia",
+      "_area_slug": "clinica-medica",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s14-045",
+      "numero": 45,
+      "area": "Obstetrícia",
+      "enunciado": "Mulher de 32 anos, \nestá em sua primeira gestação, atualmente com 12 semanas. \nTraz seus exames de pré-natal realizados após a primeira \nconsulta com a equipe de enfermagem. A sorologia para HTLV \nencontra-se positiva e ela está bastante preocupada. Qual é a \norientação que deve ser dada a essa gestante?",
+      "alternativas": {
+        "A": "Ela não poderá amamentar devido ao risco de transmissão para o feto.",
+        "B": "São necessários exames complementares para confirmação do diagnóstico.",
+        "C": "O HTLV não afeta a escolha da via de parto.",
+        "D": "Esse é um vírus que não causa nenhuma modificação no período gestacional e no puerpério."
+      },
+      "correta": "B",
+      "explicacao": "A sorologia para o rastreamento de HTLV na gestação tornou-se obrigatória em todo o território nacional em 2025, com o objetivo de reduzir\na transmissão vertical dessa doença. A triagem pré-natal está indicada pelo Ministério da Saúde para todas as gestantes na primeira consulta\nde pré-natal, de preferência no primeiro trimestre de gestação.\nA transmissão vertical do HTLV ocorre principalmente pela amamentação, responsável por mais de 85% dos casos de transmissão vertical\nno Brasil. A transmissão transplacentária é rara, em menos de 5% dos casos, e a transmissão durante o trabalho de parto e o parto é ainda\nmenos frequente.\nO diagnóstico de HTLV é feito por meio de exames de sangue, inicialmente por um teste de triagem (como ELISA ou CMIA) e, se reativo, é\nconfirmado por testes mais específicos (como Western Blot ou Imunoblot). Caso o teste confirmatório venha inconclusivo, deve-se realizar\num teste molecular para confirmar o diagnóstico. Lembre-se: para o diagnóstico, é preciso dois testes reagentes!\nNão existe vacina ou tratamento para curar a infecção pelo HTLV. No entanto, a identificação da gestante infectada é crucial, para diminuir a\n\nEstratégia\nMED\n76\ntransmissão vertical durante o parto e, principalmente, durante a amamentação.\nA cesariana é recomendada quando a gestante apresenta diagnóstico confirmado de HTLV. Em relação à amamentação, a infecção confirmada\npelo HTLV-1/2 constitui contraindicação absoluta ao aleitamento materno, devendo ser realizada inibição da lactação com cabergolina 0,5\nmg, dois comprimidos dose única.\nIncorreta a alternativa A, pois o diagnóstico não foi confirmado.\nCorreta a alternativa B, pois a paciente precisa de confirmação com teste molecular.\nIncorreta a alternativa C, pois, se for confirmado o diagnóstico, o MS recomenda parto cesáreo.\nIncorreta a alternativa D, pois o HTLV contraindica a amamentação e a via de parto vaginal.",
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Infectologia",
+      "_area_slug": "clinica-medica",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s5-087",
+      "numero": 87,
+      "area": "Obstetrícia",
+      "enunciado": "Mulher, 31 anos, G2P1, em trabalho de parto ativo, solicita analgesia para parto vaginal. \nSem comorbidades, plaquetas 210.000/mm³, sem uso de anticoagulantes. O anestesiologista discute as opções de analgesia neuraxial e \nos planos anatômicos corretos de punção para peridural e raquianestesia.\nQue alternativa correlaciona corretamente a técnica anestésica ao local anatômico de deposição do anestésico?",
+      "alternativas": {
+        "A": "A peridural deposita o anestésico no espaço subaracnóideo; a raquianestesia deposita o anestésico no espaço epidural.",
+        "B": "Ambas as técnicas depositam o anestésico no espaço epidural, diferindo apenas no volume administrado.",
+        "C": "A peridural deposita o anestésico no espaço epidural, fora da dura-máter; a raquianestesia deposita o anestésico no espaço subaracnóideo, em contato com o liquor.",
+        "D": "Ambas as técnicas depositam o anestésico no espaço subaracnóideo, diferindo apenas no calibre da agulha utilizada."
+      },
+      "correta": "C",
+      "explicacao": "Estrategista, essa é aquela clássica que a prova cobra sem dó: peridural (epidural) é fora da dura, no espaço epidural; raqui é dentro da dura, \nno espaço subaracnóideo, em contato direto com o líquor. Parece básico, mas cai muito misturado com pegadinha de “volume vs. local” ou \nde confundir os planos anatômicos. A partir disso, você entende por que a raqui tem início de ação mais rápido e bloqueio mais previsível, \nenquanto a peridural permite titulação progressiva.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 5º Simulado Residência Médica - ENAMED\nRESIDÊNCIA MÉDICA\n157\nFonte: Uptodate\nIncorreta a alternativa A. Troca exatamente os planos anatômicos das técnicas, erro conceitual clássico de prova.\nIncorreta a alternativa B. O local de deposição é diferente, e isso muda farmacocinética, início de ação, intensidade e perfil de bloqueio.\nCorreta a alternativa C. Correlaciona corretamente o local da anestesia com seu espaço. \nIncorreta a alternativa D. Novamente, ignora o ponto central da distinção entre as técnicas, que é o plano anatômico, não apenas o material.",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "imagens": [],
+      "_simulado": "5-simulado",
+      "_edicao": "5",
+      "subarea": "Princípios da Anestesiologia",
+      "_area_slug": "cirurgia",
+      "sub_subarea": "Anestesia local e sedação",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
+      "id": "s14-082",
+      "numero": 82,
+      "area": "Obstetrícia",
+      "enunciado": "RN, nascido termo, \ncom 38 semanas de idade gestacional, peso adequado, sem \nintercorrências. Com 18 horas de vida, apresenta icterícia \nzona 3, sem outras alterações no exame físico. A mãe é gesta \n5, não realizou pré-natal, os exames maternos coletados na \nmaternidade ainda estão em andamento, mas a tipagem \nmostrou sangue O positivo. Qual é a provável causa da icterícia \ndesse recém-nato?",
+      "alternativas": {
+        "A": "Icterícia da amamentação",
+        "B": "Icterícia do leite materno",
+        "C": "Icterícia por incompatibilidade ABO",
+        "D": "Icterícia por incompatibilidade Rh"
+      },
+      "correta": "C",
+      "explicacao": "em andamento, mas a tipagem mostrou sangue O positivo. Qual é a provável causa da icterícia desse recém-nato? A) Icterícia da amamentação B) Icterícia do leite materno C) Icterícia por incompatibilidade ABO D) Icterícia por incompatibilidade Rh COMENTÁRIOS Olá, Estrategista. Vamos ao caso. Temos aqui um neonato termo, adequado para idade gestacional, apresentando icterícia antes das 24 horas de vida. Isso é considerado uma icterícia não fisiológica. Vamos relembrar esse tema? Icterícia do tipo patológica/não fisiológica: • Icterícia precoce, antes de 24 horas de vida. • Elevação da bilirrubina sérica em nível acima do fisiológico e que exija fototerapia (12-15mg/dL) • Aumento dos níveis séricos de bilirrubina acima de 0,2mg/dL/hora. » Manifestações de doença associada, como hipotonia, letargia, instabilidade clínica ou térmica. » Icterícia persistente após 14 dias. » Aumento da bilirrubina às custas da fração direta. Certo, voltando ao caso, temos uma mãe com tipo sanguíneo O positivo, esse é um fator de risco para a incompatibilidade ABO. Venha comigo! A incompatibilidade ABO, também chamada de doença hemolítica ABO do recém-nascido, é mais leve que a incompatibilidade do grupo Rh e, desde o advento da imunoglobulina anti-D, tornou-se a forma mais comum de doença hemolítica. Ocorre em mães que apresentam tipagem sanguínea O e bebês A, B ou AB. Nele, a mãe do tipo O produz imunoglobulina anti-A e anti-B e pode hemolisar as hemácias do bebê, levando a uma hiperbilirrubinemia",
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Neonatologia",
+      "_area_slug": "pediatria",
+      "sub_subarea": "Incompatibilidade Rh/ABO",
+      "banca": "ESTRATÉGIA MED"
+    },
+    {
       "id": "s1-010",
       "numero": 10,
       "area": "Obstetrícia",
@@ -247,28 +333,6 @@
       "banca": "ESTRATÉGIA MED"
     },
     {
-      "id": "s11-023",
-      "numero": 23,
-      "area": "Obstetrícia",
-      "enunciado": "Puérpera no 42º dia de pós parto foi submetida à teste \nde tolerância oral à glicose por ter apresentado diabetes mellitus gestacional. Em relação a essa avaliação, assinale a alternativa correta.",
-      "alternativas": {
-        "A": "Não havia indicação desse teste, pois o DMG é uma doença exclusiva da gestação.",
-        "B": "O exame é considerado normal se a glicemia de jejum for menor que 100 mg/dL e a de segunda hora menor que 140 mg/dL.",
-        "C": "O exame deve ser realizado apenas 6 meses após o parto, quando todos os níveis hormonais voltam à normalidade.",
-        "D": "O exame é igual ao realizado durante a gestação. Estratégia MED Estratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026 RESIDÊNCIA MÉDICA 37"
-      },
-      "correta": "B",
-      "explicacao": "Segundo a diretriz conjunta, 3 a 65% das mulheres que são diagnosticadas com DMG evoluem com DM2 ao longo da vida, sendo que \nos principais fatores de risco para esse desfecho são os seguintes fatores:\n• GJ > 100 mg/dL.\n• Etnia não branca.\n• História familiar de DM2.\n• Ganho excessivo de peso durante ou após a gestação.\n• Obesidade.\n• Obesidade abdominal.\n• Dieta hiperlipídica.\n• Sedentarismo.\n• Uso de insulina na gestação.\nIndependentemente da existência ou não de fatores de risco para DM, toda paciente com DMG deve ser reclassificada do ponto de \nvista glicídico 6 semanas após o parto e na ausência de tratamento farmacológico. Idealmente, deve-se realizar um TOTG para essa finalidade; \ncaso não seja possível, deve-se coletar a GJ.\nOs limiares diagnósticos utilizados são os mesmos previstos para a população geral, tal como exposto nos fluxogramas a seguir:\nVIABILIDADE FINANCEIRA E \nDISPONIBILIDADE TÉCNICA TOTAL\n100% DE TAXA DE DETECÇÃO\nPuérpera\n6 semanas após o parto\nTOTG 75 g\nDosagens: jejum \ne 2ª hora\nJejum: < 100 mg/dL e\n2ª hora < 140 mg/dL\nNormal\nGlicemia de jejum\nalterada\nIntolerância \nà glicose\nDiabetes Mellitus\nJejum: 100 a 125 mg/dL e\n2ª hora < 140 mg/dL\nJejum: < 126 mg/dL e \n2ª hora: 140 a 199 mg/dL\nJejum: ≥ 126 mg/dL e/ou\n2ª hora ≥ 200 mg/dL\nIncorreta a alternativa A, pois todas as pacientes com DMG devem fazer o teste no puerpério.\nCorreta a alternativa B, conforme explicado na introdução.\nIncorreta a alternativa C, pois deve ser realizado após 42 dias.\nIncorreta a alternativa D, pois, no puerpério, é um teste com 0 e 2 horas.\n\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n38",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
-      "imagens": [],
-      "_simulado": "11-simulado",
-      "_edicao": "11",
-      "subarea": "Parto",
-      "_area_slug": "obstetricia",
-      "sub_subarea": "Via de parto (normal vs cesárea)",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
       "id": "s11-032",
       "numero": 32,
       "area": "Obstetrícia",
@@ -290,28 +354,6 @@
       "subarea": "Parto",
       "_area_slug": "obstetricia",
       "sub_subarea": "Indução e condução do trabalho de parto",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
-      "id": "s11-042",
-      "numero": 42,
-      "area": "Obstetrícia",
-      "enunciado": "Gestante de 17 semanas está em uso de espiramicina \ndevido a um resultado de sorologia para toxoplasmose com 12 semanas com IgG e IgM positivos com avidez baixa de IgG. O médico \norienta que, como pode se tratar de uma infecção ocorrida na gestação, ela deverá manter a medicação até o final da gestação e que, \na partir de 18 semanas, se ela desejar, é possível realizar a pesquisa de infecção fetal através de amniocentese. Caso ela seja negativa, a \nmedicação poderá ser suspensa. Em relação à orientação do médico, assinale a alternativa correta.",
-      "alternativas": {
-        "A": "Ela foi parcialmente adequada, pois de fato a paciente pode realizar a amniocentese a partir de 18 semanas, mas o esquema terapêutico deve ser trocado para sulfadiazina, pirimetamina e ácido folínico.",
-        "B": "Ela foi totalmente inadequada, pois nenhuma das recomendações está de acordo com o protocolo do Ministério da Saúde.",
-        "C": "Ela foi parcialmente adequada, pois a amniocentese não é recomendada em casos de infecção suspeita na gestação.",
-        "D": "Ela foi totalmente adequada, pois essa é a conduta de acordo com o Ministério da Saúde."
-      },
-      "correta": "A",
-      "explicacao": "Se a gestante apresentar IgG positiva e IgM negativa, elas são consideradas imunes e não precisam repetir a sorologia durante o pré-\nnatal, a não ser que sejam imunocomprometidas.\nPor outro lado, quando a gestante apresenta IgM positiva e IgG negativa, pode ser toxoplasmose aguda ou um caso de falso positivo. \nPor isso, deve-se introduzir espiramicina e repetir a sorologia em 2 semanas. Se a IgM mantiver positiva com IgG também positiva, trata-se de \num caso de toxoplasmose aguda com soroconversão na gestação. Se o IgG não positivar, trata-se de IgM falso positivo e deve-se suspender \na espiramicina.\nSe a gestante apresentar IgM e IgG positivas no primeiro trimestre, deve-se introduzir espiramicina e realizar o teste de avidez para IgG, \na fim de determinar se a infecção é recente (baixa avidez) ou tardia (alta avidez), uma vez que os títulos de IgM podem permanecer positivos \npor até 1 ano e o de IgG por vários anos. Sabe-se que a capacidade de ligação e avidez da imunoglobulina aumenta com a maturação da \nresposta imunológica, por isso avidez baixa sugere infecção recente (menos de 4 meses) e avidez alta sugere infecção há mais de 4 m.\nA toxoplasmose materna aguda pode levar à transmissão vertical, causando toxoplasmose congênita. Por isso, o tratamento da \ntoxoplasmose deve ser instituído se houver suspeita ou confirmação de infecção aguda na gestação. O tratamento precoce em até 3 semanas \nda infecção materna diminui os riscos de infecção fetal.\nPortanto, a principal conduta diante de um caso de suspeita de infecção aguda é a profilaxia para toxoplasmose congênita, com a \nadministração materna de espiramicina na dose de 3 g/dia via oral. Isso é aplicado para todas as gestantes que apresentam sorologia IgM + \ne IgG – ou sorologia IgM + e IgG +. A espiramicina não ultrapassa a barreira placentária, mas tem como objetivo reduzir o risco de passagem \ntransplacentária do parasita, impedindo a infecção fetal.\nNos casos confirmados ou prováveis de infecção aguda, isto é, se houver soroconversão, avidez para IgG baixa ou intermediária ou \nascensão dos valores de IgG em amostra seriada, deve-se fazer a pesquisa de infecção fetal a partir de 18 semanas.\nNos casos em que há dúvida se a infecção é recente ou antiga, como quando a primeira sorologia com IgG e IgM positiva é realizada \napós 16 semanas e o teste de avidez já não é mais fidedigno, deve-se considerar a gestante como infecção aguda e fazer a investigar infecção \nfetal.\nAtualmente, orienta-se utilizar espiramicina até 16 semanas e, a partir de 16 semanas, trocar para o esquema tríplice até realizar a \npesquisa de infecção fetal.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n72\nA pesquisa de infecção fetal é realizada por meio da amniocentese, com coleta de líquido amniótico e pesquisa do DNA do Toxoplasma \ngondii por PCR. Caso a pesquisa venha positiva, estamos diante de um feto com toxoplasmose congênita (infecção fetal). Se a pesquisa de \ninfecção fetal vier negativa, trocar por espiramicina e até o parto. Se a infecção fetal for confirmada, manter tratamento com sulfadiazina, \npirimetamina e ácido folínico até o fim da gestação.\nLembre-se de não iniciar o esquema tríplice no primeiro trimestre, pelo risco de teratogenicidade dessas medicações. \nSorologia toxoplasmose\n< 16 semanas \nlgG +\nlgM - \nImune\nSusceptível\nEspiramicina\nEspiramicina\nRepetir \nsorologia\nem 2 semanas\nTeste de\navidez para\nIgG\nlgG -\nlgM - \nlgG -\nlgM + \nlgG +\nlgM + \nlgG -\nlgM + \nlgG +\nlgM + \nBaixa\n<60 \nInfecção aguda \nEspiramicina < 16 semanas\nEsquema tríplice > 16 semanas \nInfecção \naguda \nInfecção \nantiga \nFalso-positivo \nSuspender\nespiramicina \nSuspender\nespiramicina \nAlta\n>60 \nCorreta a alternativa A, pois esses foram os erros do médico.\nIncorreta a alternativa B, pois a recomendação da amniocentese está adequada.\nIncorreta a alternativa C, pois a amniocentese pode ser indicada nesse caso.\nIncorreta a alternativa D, pois o esquema tríplice deveria ser iniciado e, caso a amniocentese fosse negativa, ele poderia ser substituído por \nespiramicina novamente.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
-      "imagens": [],
-      "_simulado": "11-simulado",
-      "_edicao": "11",
-      "subarea": "Parto",
-      "_area_slug": "obstetricia",
-      "sub_subarea": "Via de parto (normal vs cesárea)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -447,26 +489,6 @@
       "subarea": "Parto",
       "_area_slug": "obstetricia",
       "sub_subarea": "Indução e condução do trabalho de parto",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
-      "id": "s14-002",
-      "numero": 2,
-      "area": "Obstetrícia",
-      "enunciado": "Gestante de 24 semanas \nrealizou sorologia para sífilis com resultado de VDRL positivo \n1/16. Foi realizado teste rápido no dia da consulta, que \ntambém se mostrou positivo. A paciente nega tratamentos \nprévios para ISTs e não tem exames anteriores. Foi prescrito \ntratamento com penicilina benzatina para essa gestante. \nDe acordo com os critérios do Ministério da Saúde, qual \ndas condições abaixo não é obrigatória para a paciente ser \nconsiderada adequadamente tratada?",
-      "alternativas": {
-        "A": "Tratamento iniciado 30 dias antes do parto.",
-        "B": "Uso de 3 doses de 2.400.000 Ui com intervalo de uma semana entre as doses.",
-        "C": "Queda do VDRL em 2 diluições em 3 meses ou 4 diluições em 6 meses.",
-        "D": "Tratamento das parcerias sexuais."
-      },
-      "correta": "D",
-      "explicacao": "A monitorização pós-tratamento deve ser feita MENSALMENTE para gestantes com teste não treponêmico (VDRL ou RPR). Já após o parto, o\nseguimento é trimestral no primeiro ano e semestral no segundo ano.\nÉ importante lembrar que a monitorização do tratamento é fundamental para classificar a resposta ao tratamento e diagnosticar possíveis\nreinfecções. Assim, a resposta ao tratamento pode ser classificada em: resposta imunológica adequada ou critérios de retratamento\n(reativação e/ou reinfecção).\n\nEstratégia\nMED\n3\nConsidera-se resposta imunológica adequada se ocorrer a queda da titulação em duas diluições (4 vezes) dentro de 6 meses para sífilis\nrecente e até 12 meses para sífilis tardia na gestação (exemplo: de 1:64 para 1:16) ou, ainda, se ocorrer diminuição da titulação do teste não\ntreponêmico em duas diluições em até três meses e quatro diluições em até seis meses, com evolução até a negativação.\nCaso não haja resposta imunológica adequada, os critérios de retratamento (reativação ou reinfecção) são:\nMuitas vezes, é difícil diferenciar reinfecção, reativação e cicatriz sorológica.  Para isso, é preciso avaliar os sinais e sintomas clínicos, a\npossibilidade de reexposição, as características do tratamento realizado e os exames laboratoriais. Caso seja excluída cicatriz sorológica,\nsuspeita-se de reativação ou reinfecção e recomenda-se investigar neurossífilis por punção lombar, tratando novamente com penicilina\nbenzatina, conforme o estadiamento da doença.\nConsidera-se que o tratamento para sífilis foi adequado na gestação quando ele não só cura a doença na gestante, mas também previne a\nsífilis congênita no recém-nascido. Sendo assim, a gestante é considerada adequadamente tratada se presentes, concomitantemente, os\nseguintes fatores:\n\nEstratégia\nMED\n4\nA pergunta pede a medida que NÃO é obrigatória, então:\nIncorreta a alternativa A, pois o tratamento deve ser iniciado ao menos 30 dias antes do parto.\nIncorreta a alternativa B, pois a paciente tem uma sífilis latente de duração ignorada e deve receber 3 doses.\nIncorreta a alternativa C, pois essa é uma das condições para considerarmos adequadamente tratada.\nCorreta a alternativa D, pois apesar de o tratamento das parcerias ser indicado, ele não é critério para tratamento adequado.",
-      "_simulado": "14-simulado",
-      "_edicao": "14",
-      "subarea": "Parto",
-      "_area_slug": "obstetricia",
-      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -622,28 +644,6 @@
       "subarea": "Parto",
       "_area_slug": "obstetricia",
       "sub_subarea": "Indução e condução do trabalho de parto",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
-      "id": "s3-005",
-      "numero": 5,
-      "area": "Obstetrícia",
-      "enunciado": "Gestante na 14ª semana de gestação vem à UBS para \nse informar sobre as vacinas que deve receber durante a gestação. Na carteira de vacinação constam duas doses de dT, vacina contra \ninfluenza neste ano e covid-19 há 10 meses. Qual é a recomendação correta sobre a vacinação da gestante?",
-      "alternativas": {
-        "A": "Deve receber uma dose de dT imediatamente e uma dose de dTpa após 20 semanas de gestação.",
-        "B": "Deve receber vacina contra covid-19, 3 doses de hepatite B e 1 dose de dTpa após 20 semanas.",
-        "C": "Deve receber apenas 3 doses contra hepatite B e 1 dose de dTpa.",
-        "D": "Receber 1 dose de dT agora e 1 dose de dTpa após 20 semanas, 3 doses de hepatite B e 1 dose da vacina contra o vírus sincicial respiratório com 24 semanas de gestação. Estratégia MED Estratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026 RESIDÊNCIA MÉDICA 11"
-      },
-      "correta": "B",
-      "explicacao": "Uma importante orientação que deve ser oferecida para todas as gestantes durante o pré-natal é a respeito de sua cobertura vacinal. \nA relevância desse tema na prática clínica reflete-se em sua grande frequência nas provas de Residência Médica. \nUm aspecto importante que precisa estar claro para você é quais são as vacinas que são recomendadas pelo Programa Nacional de \nImunização em seu calendário vacinal da gestante e quais são as vacinas que não devem ser realizadas.\nTenha sempre em mente que, durante a gravidez, não devem ser realizadas as vacinas vivas pelo risco potencial de causarem a doença, \nenquanto as vacinas inativadas não oferecem esse risco.\nVacina\nSituação vacinal\nVacinação na gestação\ndT/dTpa\nPreviamente vacinada com duas ou três doses\nUma dose de dTpa a partir de 20 semanas para \ntodas as gestantes\nVacina incompleta, tendo recebido apenas uma \ndose.\nUma dose de dT e uma dose de dTpa, com \nintervalo de 60 dias (mínimo de 30 dias), sendo \nque a dTpa deve ser feita após 20 semanas\nGestantes não vacinadas ou com histórico vacinal \ndesconhecido\nDuas doses de dT e uma dose de dTpa, com \nintervalo de 60 dias (mínimo de 30 dias) entre as \ndoses, sendo que a dTpa deve ser feita após 20 \nsemanas.\nHepatite B\nVacinadas com esquema completo (3 doses)\nNão vacinar\nVacinadas com esquema incompleto\nCompletar o esquema vacinal\nNão vacinadas e susceptíveis\nTrês doses, no esquema 0-1-6 meses, intervalo \nmínimo 2ª dose: 1 mês após 1ª dose. 3ª dose: 4 \nmeses após 1ª dose\nInfluenza\nTodas as gestantes\nDose única anual\nCovid-19\nTodas as gestantes\nUma dose a cada 6 meses\nVSR\nTodas as gestantes\nUma dose após 28 semanas de gestação para \ntodas as gestantes\nA dTpa está recomendada em todas as gestaçõ es, pois, além de proteger a gestante e evitar que ela transmita a Bordetella pertussis \nao recém-nascido, permite a transferência de anticorpos ao feto, protegendo-o nos primeiros meses de vida até que possa ser imunizado.\nA vacina contra o vírus sincicial respiratório também deve ser dada à todas as gestantes para proteger o recém-nascido de bronquiolite. \nEssa vacina deve ser feita entre 24 e 36 semanas de gestação, mas ainda não está disponível no sistema público de saúde.\nAs vacinas contraindicadas na gestação são: tríplice viral(sarampo, caxumba e rubéola), HPV, varicela, dengue, herpes-zóster, BCG. A \nvacina de dengue também está contraindicada durante a amamentação. \nIncorreta a alternativa A, pois, como a paciente tem 2 doses de dT, ela deve receber somente 1 dose de dTpa.\nCorreta a alternativa B, conforme explicado acima.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n12\nIncorreta a alternativa C, pois a paciente deve receber 1 dose de covid-19 e a vacina contra o vírus sincicial respiratório.\nIncorreta a alternativa D, pois a gestante deve receber apenas uma dose de dTpa e a vacina contra o VSR deve ser feita a partir das 28 \nsemanas de acordo com o Ministério da Saúde.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
-      "imagens": [],
-      "_simulado": "3-simulado",
-      "_edicao": "3",
-      "subarea": "Pré-natal",
-      "_area_slug": "obstetricia",
-      "sub_subarea": "Consultas e exames de pré-natal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -829,27 +829,6 @@
       "banca": "ESTRATÉGIA MED"
     },
     {
-      "id": "s3-089",
-      "numero": 89,
-      "area": "Obstetrícia",
-      "enunciado": "Gestante com 10 semanas de gestação tem diagnóstico \nde hipertensão arterial crônica e faz uso de captopril. No momento, encontra-se assintomática, com pressão de 128 x 80. Qual é a conduta \npreconizada nesse momento?",
-      "alternativas": {
-        "A": "Manter o captopril e iniciar AAS.",
-        "B": "Substituir o captopril por losartana e iniciar AAS.",
-        "C": "Manter o captopril e fazer controle pressórico semanal.",
-        "D": "Suspender o captopril e iniciar metildopa 750 mg/dia."
-      },
-      "correta": "D",
-      "explicacao": "Deve-se introduzir anti-hipertensivo oral para todas as gestantes com PA ≥ 140 x 90 mmHg e o alvo terapêutico é manter a PAD ≤ 85 \nmmHg desde o primeiro trimestre de gestação. É importante tomar cuidado com a redução brusca da pressão arterial nessas gestantes, uma \nvez que apresentam maior hemoconcentração e reatividade vascular. Por isso, se a PAD for ≤ 80 mmHg, o anti-hipertensivo deve ser suspenso \nou a dose diminuída. \nA droga anti-hipertensiva de escolha para hipertensão arterial não grave (PA < 160/110 mmHg) é a metildopa. Deve-se iniciar com \ndose de 500 a 750 mg/dia e aumentar, caso necessário, até atingir o controle adequado da PA. A dose máxima é de 2 g/dia, dividida em até 4 \ntomadas. Lembre-se de que essa medicação pode provocar hipotensão postural e, mais raramente, aumento das enzimas hepáticas.\nCaso a PA mantenha-se alterada, mesmo com dose máxima de metildopa, faz-se necessário associar um segundo anti-hipertensivo, \nque pode ser um bloqueador do canal de cálcio (anlodipino ou nifedipina), um bloqueador beta-adrenérgico (metoprolol ou pindolol) ou a \nhidralazina via oral, conforme a experiência de cada instituição. A associação máxima recomendada é de três drogas anti-hipertensivas. \nO uso de atenolol e propranolol é contraindicado por causar restrição de crescimento fetal. Ademais, os inibidores da enzima conversora \nde angiotensina (captopril, enalapril), os antagonistas dos receptores da angiotensina II (losartana) e os inibidores diretos da renina (aliskiren) \nsão proibidos na gestação por provocarem toxicidade renal fetal no segundo trimestre Já o uso de diuréticos na gestação é controverso, por \nisso deve ser evitado. A tabela a seguir resume os anti-hipertensivos orais permitidos e proibidos na gestação.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n146\nANTI-HIPERTENSIVOS PERMITIDOS\nANTI-HIPERTENSIVOS PROIBIDOS\nAlfa-2-agonistas\n• metildopa, clonidina e prazosina\nInibidores da enzima conversora de angiotensina\n• captopril, enalapril\nBetabloqueadores adrenérgicos\n• metoprolol, pindolol\n• atenolol e propranolol são proibidos!\nAntagonistas dos receptores de angiotensina II\n• losartana\nBloqueadores do canal de cálcio\n• nifedipina, anlodipina\nInibidores diretos da renina\n• aliskiren\nEm gestantes com alto risco de desenvolver pré-eclâmpsia, tanto pelo rastreamento combinado no primeiro trimestre como pela \navaliação dos fatores de risco maternos isolados, a prevenção primária consiste na administração de aspirina (ácido acetilsalicílico) em baixa \ndose (100-150 mg) à noite, diariamente a partir de 12 semanas, podendo ser iniciada em até 20 semanas, mas preferencialmente até 16 \nsemanas, sendo mantida até 36 semanas de gestação. O uso de baixa dose de aspirina antes de 20 semanas de gestação diminuiu o risco \nde pré-eclâmpsia, principalmente de pré-eclâmpsia precoce (< 34 semanas), e de restrição de crescimento fetal em gestantes de alto risco. \nLembre-se de que é preciso suspender o AAS caso a paciente evolua para pré-eclâmpsia.\nNo caso dessa paciente, o diagnóstico de hipertensão é considerado um fator de alto risco.\nIncorreta a alternativa A, pois o captopril é contraindicado na gestação.\nIncorreta a alternativa B, pois a losartana é contraindicada na gestação.\nIncorreta a alternativa C, pois o captopril não deve ser mantido.\nCorreta a alternativa D, pois, nesse momento, é a única conduta indicada. O AAS somente deve ser introduzido com 12 semanas.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
-      "imagens": [],
-      "_simulado": "3-simulado",
-      "_edicao": "3",
-      "subarea": "Intercorrências obstétricas",
-      "_area_slug": "obstetricia",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
       "id": "s5-003",
       "numero": 3,
       "area": "Obstetrícia",
@@ -957,28 +936,6 @@
       "subarea": "Parto",
       "_area_slug": "obstetricia",
       "sub_subarea": "Parto instrumental",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
-      "id": "s5-046",
-      "numero": 46,
-      "area": "Obstetrícia",
-      "enunciado": "Puérpera em sétimo dia pós cesariana, vem ao \npronto-socorro com queixa de febre de 38,5 graus e mal-estar. A paciente apresenta dor leve à palpação de ferida operatória, que se \nencontra limpa e seca. O útero está bem contraído e a loquiação está com aspecto fusco em pequena quantidade. As mamas encontram-\nse ingurgitadas bilateralmente e, na mama esquerda, há a presença de fissuras com hiperemia e dor local, sem pontos de flutuação ou \nmassas palpáveis. Qual é a conduta mais adequada nesse momento?",
-      "alternativas": {
-        "A": "Internar a paciente para antibioticoterapia endovenosa com clindamicina e gentamicina.",
-        "B": "Prescrever cefalexina e orientar a manutenção do aleitamento materno.",
-        "C": "Prescrever o uso de anti-inflamatórios e compressas geladas nas mamas.",
-        "D": "Suspender a amamentação e prescrever clindamicina por via oral."
-      },
-      "correta": "B",
-      "explicacao": "A mastite puerperal é um processo inflamatório associado à amamentação que pode ser infeccioso ou não. Quando infeccioso, o Staphylococcus \naureus e Staphylococcus epidermidis são os principais agentes associados ao quadro. Sua incidência é bastante variável, entre 3% e 32%, e \napresenta-se como uma causa comum de febre mais tardia relacionada ao período pós-parto, que ocorre geralmente duas a três semanas \napós o parto.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 5º Simulado Residência Médica - ENAMED\nRESIDÊNCIA MÉDICA\n82\nOs examinadores gostam de avaliar se você conhece as repercussões desse quadro para a amamentação. Apenas para aguçar sua curiosidade, \né sempre importante lembrar que são poucas as situações que contraindicam a amamentação e geralmente manteremos o incentivo à \namamentação mesmo diante do diagnóstico de mastite.\nO tratamento inclui antibiótico, esvaziamento mamário e drenagem de abscesso. Os antibióticos utilizados são doxiciclina ou cefalosporina \npor 7 a 14 dias. \nIncorreta a alternativa A, pois a paciente não tem sinais de endometrite.\nCorreta a alternativa B, pois essa é a conduta adequada na mastite.\nIncorreta a alternativa C, pois é obrigatório o uso de antibióticos em uma mastite.\nIncorreta a alternativa D, pois a amamentação deve ser mantida.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
-      "imagens": [],
-      "_simulado": "5-simulado",
-      "_edicao": "5",
-      "subarea": "Puerpério",
-      "_area_slug": "obstetricia",
-      "sub_subarea": "Aleitamento materno",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1185,27 +1142,6 @@
       "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
       "sub_subarea": "Diabetes mellitus gestacional",
-      "banca": "ESTRATÉGIA MED"
-    },
-    {
-      "id": "s9-045",
-      "numero": 45,
-      "area": "Obstetrícia",
-      "enunciado": "Mulher, 32 anos de idade, vem ao pronto atendimento \ncom dor em baixo ventre de forte intensidade há algumas horas. A paciente refere que vinha sentindo um leve incômodo em baixo ventre, \nmas, há algumas horas, sente dor de forte intensidade em abdome, mais localizada em baixo ventre. Nega febre. Como antecedentes, já \nteve uma doença inflamatória pélvica tratada. Tem vida sexual ativa, sem uso de preservativo ou outros métodos contraceptivos. A data \nda última menstruação foi há aproximadamente 7 semanas. Ao exame, apresenta bom estado geral, afebril, descorada (++/++++), com \npressão arterial de 110 x 55 mmHg e pulso de 112 batimentos por minuto. Abdome doloroso, descompressão brusca presente em fossa \nilíaca direita. Exame especular sem sangramento ou corrimentos. Toque vaginal com muita dor, dificultando o exame, mas o útero está \nde tamanho, forma e consistência normais; sente muita dor à palpação de fundo de saco.\nQual é a principal hipótese diagnóstica para o caso?",
-      "alternativas": {
-        "A": "Doença inflamatória pélvica.",
-        "B": "Abortamento em curso.",
-        "C": "Gestação ectópica rota.",
-        "D": "Cisto hemorrágico. Estratégia MED Estratégia MED | Caderno de Respostas | 9° Simulado Residência Médica - ENAMED 74 RESIDÊNCIA MÉDICA"
-      },
-      "correta": "C",
-      "explicacao": "Abdome agudo é uma síndrome cuja principal manifestação é a dor abdominal e que requer uma abordagem terapêutica imediata, seja \nclínica ou cirúrgica. É uma afecção potencialmente grave em que o retardo no diagnóstico ou no tratamento pode levar a graves complicações, \ninclusive à morte.\n A gestação ectópica é um diagnóstico que deve ser aventado em TODAS as pacientes em idade reprodutiva. O beta-hCG é um exame \nmandatório nos casos de dor pélvica aguda nessas pacientes.\nA presença da tríade de atraso menstrual, sangramento vaginal e dor abdominal sempre deve levar você a pensar na hipótese de gestação \nectópica. Nos quadros de gestação ectópica rota, podem aparecer sintomas de instabilidade hemodinâmica e anemia, além de irritação \nperitoneal (dor à mobilização do colo, peritonite e defesa abdominal.\nNo caso dessa paciente, temos atraso menstrual e dor pélvica. Apesar de não termos sangramento vaginal, temos sinais de sangramento \nintracavitário pelo fato de a paciente ter descompressão brusca positiva, estar descorada e com sinais de instabilidade hemodinâmica.\nIncorreta a alternativa A, pois não há sinais infecciosos no quadro.\nIncorreta a alternativa B, pois o tamanho do útero fala contra uma gestação tópica e, além disso, no abortamento, não haveria sangramento \npara a cavidade.\nCorreta a alternativa C, pois, apesar de não haver sangramento vaginal, essa é a principal hipótese diagnóstica.\nIncorreta a alternativa D, pois, apesar de ser um importante diagnóstico diferencial, o atraso menstrual fala a favor de gestação ectópica.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
-      "imagens": [],
-      "_simulado": "9-simulado",
-      "_edicao": "9",
-      "subarea": "",
-      "_area_slug": "obstetricia",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2125,38 +2061,6 @@
       ]
     },
     {
-      "id": "pv-ufr-2025-0231",
-      "area": "Obstetrícia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Secundípara, 38 semanas, 1 parto normal há 2 anos, com diagnóstico recente de polidramnia pela US obstétrica, encontra-se em período expulsivo. Durante os puxos, ocorreu a rotura espontânea da bolsa, com prolapso do cordão umbilical. Analise as afirmações a seguir sobre o que se deve fazer diante deste quadro: I) Organizar ajuda, convocando auxílio de obstetras, enfermeiras, anestesistas, pediatras e solicitar preparo de sala cirúrgica. II) Aumentar pressão sobre cordão umbilical por meio da elevação da apresentação pelo toque vaginal, auxiliada pela posição de Trendelenburg. III) Decidir pela via de parto mais rápida. Pode-se afirmar que está(ão) correta(s) a(s) afirmativa(s):",
-      "alternativas": {
-        "A": "II",
-        "B": "I",
-        "C": "I e III",
-        "D": "II e III"
-      },
-      "correta": "C",
-      "explicacao": "I e III O que o examinador que saber: sobre prolapso de cordão umbilical. Considera-se prolapso de cordão quando o cordão umbilical está à frente da apresentação e as membranas estão rotas. Quando as membranas ainda estão íntegras, essa situação é chamada de procidência ou procúbito de cordão umbilical. Essa complicação é rara, mas apresenta mortalidade perinatal elevada, por isso sua prevenção é de extrema importância durante o parto. A prevenção baseia-se na identificação das pacientes com maior risco para a ocorrência desse evento. O risco de prolapso de cordão umbilical é maior nas apresentações não cefálicas, gestações múltiplas, prematuridade e polidrâmnio. Além disso, está relacionada a procedimentos obstétricos, como amniotomia, amnioinfusão e aplicação de fórcipes. A manifestação clínica mais comum é a presença de desacelerações variáveis repetidas ou bradicardia. Ao exame de toque, observa-se o cordão umbilical à frente da apresentação. Diante de prolapso de cordão, deve-se realizar cesárea de emergência, mantendo o toque vaginal com elevação da apresentação para evitar que a apresentação fetal promova a compressão do cordão umbilical. Enquanto se aguarda a cesárea de emergência, deve-se manter a paciente em posição genitopeitoral (quatro apoios), com subida da apresentação fetal pelo toque vaginal. Na presença de procidência ou procúbito de cordão umbilical, também está indicada a cesárea. Para que você nunca mais esqueça sobre esse tema, preparei um mapa mental com tudo que precisa saber sobre prolapso de cordão. Comentários: I) Organizar ajuda, convocando auxílio de obstetras, enfermeiras, anestesistas, pediatras e solicitar preparo de sala cirúrgica. CORRETO: O prolapso de cordão é uma situação de emergência, sendo necessário solicitar ajuda, acionar imediatamente toda a equipe e encaminhar a paciente para a sala de cirurgia. II) Aumentar pressão sobre cordão umbilical por meio da elevação da apresentação pelo toque vaginal, auxiliada pela posição de Trendelenburg. INCORRETA: deve-se tentar diminuir a pressão sobre o cordão umbilical, mantendo o toque vaginal com elevação da apresentação para evitar que a apresentação fetal promova a compressão do cordão umbilical. Enquanto se aguarda a cesárea de emergência, deve-se manter a paciente em posição genitopeitoral (quatro apoios), com subida da apresentação fetal pelo toque vaginal. III) Decidir pela via de parto mais rápida. CORRETA: diante de prolapso de cordão umbilical, o parto deve ser realizado pela via mais rápida, que na maioria dos casos é por cesariana de emergência. Se o prolapso ocorrer durante o desprendimento da cabeça fetal, a via de parto mais rápida é o parto vaginal, o que é uma situação de excessão. Portanto, está correta a alternativa C.",
-      "banca": "UFRJ",
-      "instituicao": "UFRJ",
-      "ano": 2025,
-      "fonte": "UFRJ 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-ufr-2025-0231_392_0.jpeg",
-        "pv-ufr-2025-0231_394_0.jpeg"
-      ],
-      "_id_original": "4000231368",
-      "_pdf": "6. UFRJ.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-ufr-2025-0231_392_0.jpeg"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ufr-2025-0231_394_0.jpeg"
-      ]
-    },
-    {
       "id": "pv-ufr-2025-0235",
       "area": "Obstetrícia",
       "subarea": "Geral",
@@ -2236,29 +2140,6 @@
       "imagens_explicacao": [
         "data/questoes-img/pv-ufr-2025-0242_417_0.png"
       ]
-    },
-    {
-      "id": "pv-uer-2024-0047",
-      "area": "Obstetrícia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "A colestase intra-hepática da gravidez é a doença hepática mais comum ocorrida durante a gestação e está associada a desfechos obstétricos desfavoráveis. O marcador bioquímico mais frequentemente associado às repercussões de aumento de risco fetal é:",
-      "alternativas": {
-        "A": "gama glutamiltransferase",
-        "B": "fosfatase alcalina",
-        "C": "ácidos biliares",
-        "D": "ácido úrico"
-      },
-      "correta": "C",
-      "explicacao": "ácidos biliares Claro, estrategista, vamos aprofundar nosso entendimento sobre a colestase intra-hepática da gravidez, uma condição que requer atenção especial no manejo da saúde materno-fetal. Esta doença é caracterizada principalmente pelo prurido intenso, geralmente sem rash, e pelo aumento dos ácidos biliares séricos, frequentemente no segundo ou terceiro trimestre da gravidez. O diagnóstico é essencialmente clínico, apoiado por exames laboratoriais que mostram elevação dos ácidos biliares séricos, com ou sem elevação das enzimas hepáticas. O manejo clínico envolve principalmente o alívio dos sintomas e a monitorização do bem- estar fetal. O ácido ursodesoxicólico é frequentemente utilizado para reduzir o prurido e normalizar os níveis de enzimas hepáticas. O monitoramento fetal inclui exames de ultrassonografia e cardiotocografia, especialmente à medida que a gravidez avança, devido ao risco aumentado de parto prematuro e sofrimento fetal. O prognóstico para a mãe é geralmente bom, com resolução dos sintomas e normalização das alterações laboratoriais após o parto. No entanto, o risco de recorrência em gestações subsequentes é significativo. Para o feto, os riscos incluem parto prematuro, sofrimento fetal e, em casos raros, morte fetal, especialmente se os níveis de ácidos biliares séricos forem muito elevados. Agora, vamos analisar as alternativas:",
-      "banca": "UERJ",
-      "instituicao": "UERJ",
-      "ano": 2024,
-      "fonte": "UERJ 2024",
-      "dificuldade": "Média",
-      "imagens": [],
-      "_id_original": "4000209028",
-      "_pdf": "7. UERJ.pdf"
     },
     {
       "id": "pv-uer-2024-0049",
@@ -2642,37 +2523,6 @@
       ]
     },
     {
-      "id": "pv-hcp-2024-0097",
-      "area": "Obstetrícia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo. Criança nascida com 40 semanas de idade gestacional (parto vaginal, sem intercorrências no pré-natal ou no momento do parto), com peso ao nascimento de 3.500 g, encontrava-se sob cuidados no alojamento conjunto desde o nascimento. A imagem abaixo, ainda na Sala de Parto, ilustra o exame oral do neonato. No primeiro dia de vida, apresentou dificuldade no posicionamento para mamar e na pega ao seio materno, tendo a mãe recebido orientações da equipe médica e da enfermagem em relação à amamentação, com sucesso imediato. No momento da alta, com 48 horas de vida, a criança estava mamando bem, em aleitamento materno exclusivo, com diurese e evacuações presentes. Não havia registro de queixas maternas de dor ou trauma mamilar. O peso no momento da alta era de 3.300 g. A mãe questionou sobre o freio língual. Com base na avaliação, pode-se afirmar que se trata de ..........; a conduta indicada é .......... .",
-      "alternativas": {
-        "A": "freio lingual com inserção normal – tranquilizar a mãe sobre a normalidade da situação",
-        "B": "anquiloglossia anterior – manter acompanhamento ambulatorial, pois a amamentação está adequada",
-        "C": "anquiloglossia anterior – indicar frenotomia pelo potencial prejuízo no aleitamento materno, na deglutição e na fala, a ser realizada em breve por odontologista ou médico cirurgião",
-        "D": "anquiloglossia submucosa – indicar frenotomia pelo potencial prejuízo no aleitamento materno, na deglutição e na fala, a ser realizada em breve por odontologista ou médico cirurgião"
-      },
-      "correta": "B",
-      "explicacao": "anquiloglossia anterior – manter acompanhamento ambulatorial, pois a amamentação está adequada Olá, Estrategista, questão bastante difícil, baseada em um manual de Julho de 2023 da SBP, chamado \"Anquiloglossia, como proceder\". Primeira coisa a saber é como diagnosticar anquiloglossia. A anquiloglossia é uma anomalia anatômica oral congênita caracterizada pelo freio lingual curto ou altamente aderido ao músculo genioglosso, resultando em dificuldade na mobilidade da língua em variados graus. Na prática, é quando temos a língua arqueada, como um \"V\". A alteração do frênulo da língua é dividida em: • frênulo anterior – apresentação clássica com inserção do frênulo lingual predominantemente na região do ápice da língua com alteração ou não do comprimento, e • frênulo posterior ou submucoso – com inserção na região média ou posterior com apresentação do frênulo da língua mais espesso, curto ou mesmo submucoso em alguns casos. A conduta é baseada na avaliação clínica do impacto dessa anquiloglossia na amamentação e suas consequências, por exemplo se há engasgos, baixo ganho ponderal ou dificuldade de mamar. A frenotomia é portanto, indicada em limitações importantes da língua com prejuízos à alimentação do bebê. Vamos voltar ao caso. Temos um RN com anquiloglossia (a língua faz um V) anterior que, apesar disso, está mamando bem e com peso dentro do esperado para a idade (perda de 5,7%). Não há necessidade de frenotomia no momento, apenas acompanhamento ambulatorial.",
-      "banca": "HCPA",
-      "instituicao": "HCPA",
-      "ano": 2024,
-      "fonte": "HCPA 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-hcp-2024-0097_179_0.png",
-        "pv-hcp-2024-0097_180_0.png"
-      ],
-      "_id_original": "4000208365",
-      "_pdf": "8. HCPA.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-hcp-2024-0097_179_0.png",
-        "data/questoes-img/pv-hcp-2024-0097_180_0.png"
-      ]
-    },
-    {
       "id": "pv-hcp-2024-0100",
       "area": "Obstetrícia",
       "subarea": "Geral",
@@ -2810,29 +2660,6 @@
       "imagens": [],
       "_id_original": "4000230281",
       "_pdf": "8. HCPA.pdf"
-    },
-    {
-      "id": "pv-fam-2024-0025",
-      "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "",
-      "enunciado": "Paciente com 9 meses de vida com história de mãe com tratamento adequado para sífilis na gestação, sendo que no primeiro trimestre, VDRL era 1/256, realizado VDRL posteriores com os seguintes valores de VDRL 1/128, 20/06 1/64 e com tratamentos comprovados nas datas 01/06, 09/06 e 17/06. RN nascido de parto normal. VDRL 1/32 e VDRl da mãe 1/32 ao nascimento. Paciente encaminhado para acompanhamento criança exposta à sífilis, porém paciente retorna somente com 9 meses de idade, pois mãe teve que ir para outra cidade e perdeu acompanhamento. Nesta consulta de retorno, paciente evoluindo bem, com peso, altura adequada para idade, bom desenvolvimento neuropsicomotor, sendo solicitado VDRl cujo resultado foi 1/16. Assinale a alternativa correta com relação à conduta adequada para esse momento.",
-      "alternativas": {
-        "A": "Novo VDRL em 2 meses para avaliação de queda de titulação visto que ao nascimento paciente tinha VDRL 1/32",
-        "B": "Solicitar outro VDRL neste momento em outro laboratório e teste treponêmico pois pode ter sido erro de leitura pois é dependente do profissional que realiza a leitura",
-        "C": "Internação com coleta de hemograma, rx de ossos longos e liquor para investigação de sífilis congênita",
-        "D": "Observação clínica e novo VDRL com 11 meses, para avaliação de negativação de VDRL e sorologia para sífilis após 1 ano de idade"
-      },
-      "correta": "C",
-      "explicacao": "Internação com coleta de hemograma, rx de ossos longos e liquor para investigação de sífilis congênita Estrategista, temos aqui: - Paciente de 9 meses - Mãe adequadamente tratada para sífilis - RN nasceu com VDRL 1:32, igual ao materno, portanto, foi apenas encaminhado para seguimento ambulatorial. - Aos 9 meses, retorna com VDRL 1:16. Primeiro, vamos relembrar o seguimento do RN exposto à sífilis. Todo neonato exposto à sífilis gestacional, independentemente de ter sido tratado ou não, deverá realizar o seguimento ambulatorial. Ele deve ser realizado por pediatra ou infectologista pediátrico e consiste em: • Seguimento habitual na rotina da puericultura. • Coleta de teste não treponêmico - VDRL com 1, 3, 6, 12 e 18 meses de idade. Interromper o seguimento caso a criança apresente dois exames negativos consecutivos. *Aqui, há uma controvérsia no manual do Ministério da Saúde. Em um primeiro momento, é dito que espera-se a negativação dos títulos até o 6o mês de vida. Caso isso não ocorra, notificar a criança como sífilis congênita, coletar líquor e tratar com penicilina cristalina ou procaína. Em uma segunda parte, é dito que frente a não negativação dos títulos aos 18 meses, reavalia-se a criança e procede-se ao retratamento. Dica da profe para prova: se o examinador trouxer que aos 6 meses, o título ainda está positivo, siga a conduta indicada! Cabe recurso, mas nem sempre há anulação! Por fim, não há controvérsia ao dizer que se houver elevação do título, tria-se a criança e retrata. Caso a criança tenha apresentado sífilis congênita confirmada, deverá também realizar: • Avaliação especializada oftalmológica, neurológica e audiológica, semestralmente, por 2 anos; • Em caso de neurossífilis, realizar coleta de liquor a cada 6 meses, até a normalização. Voltando ao caso então, temos aqui a controvérsia! A FAMERP considerou a idade dos 6 meses, portanto, aos 9 meses, ele persiste com VDRL positivo, portanto, precisa ser reinvestigado e tratado.",
-      "banca": "FAMERP",
-      "instituicao": "FAMERP",
-      "ano": 2024,
-      "fonte": "FAMERP 2024",
-      "dificuldade": "Média",
-      "imagens": [],
-      "_id_original": "4000210489",
-      "_pdf": "9. FAMERP.pdf"
     },
     {
       "id": "pv-fam-2024-0046",
@@ -3046,39 +2873,6 @@
       ],
       "imagens_explicacao": [
         "data/questoes-img/pv-fam-2025-0105_220_0.png"
-      ]
-    },
-    {
-      "id": "pv-fam-2025-0130",
-      "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "",
-      "enunciado": "Recém-nascido (Rn) de 38 2/7 semanas nascido de parto normal, está em aleitamento materno no Alojamento Conjunto. Durante sua visita a mãe refere que tomou umas injeções muito doloridas no pré-natal devido a uma infecção que apareceu em um exame, e refere que o marido também precisou tomar. Qual deverá ser sua conduta frente a esse recém-nascido:",
-      "alternativas": {
-        "A": "Solicitar testes não treponêmico para o Rn",
-        "B": "Solicitar testes não treponêmico para a mãe e o Rn",
-        "C": "Solicitar cartão de pré-natal para confirmação de sorologias e tratamento",
-        "D": "Solicitar cartão de pré-natal para confirmar sorologias e tratamento e já solicitar testes não treponêmicos para a mãe e o Rn"
-      },
-      "correta": "D",
-      "explicacao": "Solicitar cartão de pré-natal para confirmar sorologias e tratamento e já solicitar testes não treponêmicos para a mãe e o Rn GABARITO D Olá, Estrategista, a mãe afirma ter tomado injeções doloridas para uma infecção na gestação e que o marido também precisou tratar. Esses dados nos levam ao diagnóstico de sífilis gestacional. A primeira coisa a ser feita é identificar se a mãe foi ou não adequadamente tratada. A partir daí, temos dois fluxogramas possíveis 1. Filhos de mães inadequadamente tratadas 2. Filhos de mães adequadamente tratadas Repare que nos dois fluxos, temos que solicitar VDRL do RN. O VDRL da mãe também deverá ser coletado.",
-      "banca": "FAMERP",
-      "instituicao": "FAMERP",
-      "ano": 2025,
-      "fonte": "FAMERP 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-fam-2025-0130_274_0.png",
-        "pv-fam-2025-0130_275_0.png",
-        "pv-fam-2025-0130_275_1.png"
-      ],
-      "_id_original": "4000234343",
-      "_pdf": "9. FAMERP.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-fam-2025-0130_274_0.png",
-        "data/questoes-img/pv-fam-2025-0130_275_0.png",
-        "data/questoes-img/pv-fam-2025-0130_275_1.png"
       ]
     },
     {
@@ -3744,38 +3538,6 @@
       "_pdf": "11. UNIFESP.pdf"
     },
     {
-      "id": "pv-uni-2025-0193",
-      "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "",
-      "enunciado": "Recém-nascido com 36 semanas de idade gestacional, peso ao nascer de 2850 gramas, filho de mãe secundigesta, hígida, sem intercorrências na gestação, nasceu de parto normal com boa vitalidade. Com 48 horas de vida, está em alojamento conjunto, em aleitamento materno exclusivo, com diurese e evacuação presentes e normais. Exame físico: ictérico zona II, sem outras alterações. Qual é a conduta recomendada?",
-      "alternativas": {
-        "A": "Iniciar fototerapia e coletar bilirrubinas em 24 horas para avaliar alta hospitalar.",
-        "B": "Indicar alta hospitalar e reavaliação clínica em 48 horas.",
-        "C": "Indicar alta hospitalar sem necessidade de reavaliação precoce.",
-        "D": "Dosar bilirrubinas para avaliar indicação de fototerapia."
-      },
-      "correta": "D",
-      "explicacao": "Dosar bilirrubinas para avaliar indicação de fototerapia. GABARITO D Estrategista, a icterícia neonatal pode ser classificada em fisiológica ou patológica. Observe a tabela abaixo. Perceba que essa criança tem tudo para ser encaixada como icterícia fisiológica, mas, um dos itens a ser pesquisado é o nível de sua bilirrubina. Além disso, a prematuridade é um fator de risco para icterícia patológica. Portanto, a conduta, antes da alta é coletar as bilirrubinas para definir se há necessidade de realizar fototerapia.",
-      "banca": "UNIFESP",
-      "instituicao": "UNIFESP",
-      "ano": 2025,
-      "fonte": "UNIFESP 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-uni-2025-0193_368_0.jpeg",
-        "pv-uni-2025-0193_369_0.png"
-      ],
-      "_id_original": "4000232997",
-      "_pdf": "11. UNIFESP.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-uni-2025-0193_368_0.jpeg"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-uni-2025-0193_369_0.png"
-      ]
-    },
-    {
       "id": "pv-sír-2024-0008",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
@@ -3932,32 +3694,6 @@
         "data/questoes-img/pv-sír-2025-0167_340_0.png"
       ],
       "_id_original": "4000234683",
-      "_pdf": "15. SÍRIO.pdf"
-    },
-    {
-      "id": "pv-sír-2025-0170",
-      "area": "Obstetrícia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Para uma laceração perineal durante o parto ser classificada como 3C, deve incluir a lesão de",
-      "alternativas": {
-        "A": "corpo perineal e inserção muscular.",
-        "B": "bulbocavernoso e transverso superficial do perineo.",
-        "C": "esfincter externo do ânus e esfincter interno do ânus.",
-        "D": "mucosa anal.",
-        "E": "feixe puborretal do músculo levantador do ânus."
-      },
-      "correta": "C",
-      "explicacao": "esfincter externo do ânus e esfincter interno do ânus. O que o examinador quer saber: sobre lacerações perineais. Após a dequitação, é feita a avaliação sistemática da placenta e das membranas fetais, a fim de verificar se a dequitação foi completa e não ocorreu retenção de tecido placentário. O canal de parto também precisa ser avaliado, à procura de lacerações. Com relação às lacerações perineais, é importante saber que os principais fatores de risco são: parto vaginal operatório, episiotomia, primiparidade, parto induzido, anestesia peridural e variedades de posição posteriores. As lacerações perineais podem ser classificadas em graus, conforme a profundidade da lesão: Sutura-se obrigatoriamente as lacerações de segundo a quarto grau. Já as lacerações de primeiro grau devem ser suturadas se houver alteração da anatomia genital ou sangramento ativo. A correção de lacerações de 1 e 2 grau deve ser feita, quando necessário, com pontos contínuos simples com fio de Vicryl, suturando primeiro a mucosa vaginal, em seguida o plano muscular e por último a pele. Já nas correções de lacerações grau 3 e 4 (EAE/EAI e mucosa retal), sutura-se da seguinte maneira: - Mucosa retal: sutura contínua não cruzada ou pontos separados da submucosa; Vicryl 3/0 ou 4/0. - Esfíncter anal interno (EAI): sutura topo a topo (end-to-end), com pontos em U; Vicryl 3/0 ou PSD 3/0) . - Esfíncter anal interno (EAE): sutura topo a topo ou sobreposição de bordos (overlap); pontos separados em U; Vicryl 2/0 ou 3/0 ou PSD 3/0. 3a: end-to-end 3b parcial: end-to-end 3b total: end-to-end ou overlap - Mucosa vaginal, plano muscular, pele: proceder como para as lacerações grau 2/episiotomia.",
-      "banca": "Sírio-Libanês",
-      "instituicao": "Sírio-Libanês",
-      "ano": 2025,
-      "fonte": "Sírio-Libanês 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "data/questoes-img/pv-sír-2025-0170_346_0.png"
-      ],
-      "_id_original": "4000234680",
       "_pdf": "15. SÍRIO.pdf"
     },
     {
@@ -4149,40 +3885,6 @@
       "_pdf": "16. HIAE.pdf"
     },
     {
-      "id": "pv-hia-2024-0034",
-      "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "",
-      "enunciado": "Recém-nascido, sexo feminino, nasceu de parto normal, a termo, com peso de nascimento de 3.015 g e com boa vitalidade. Encontra-se no alojamento conjunto, com 30 horas de vida, ictérica com progressão céfalo-caudal até raiz das coxas e restante do exame físico normal. A diurese é presente, apresentou três episódios de evacuação até o momento. Tipagem sanguínea materna: O Rh Positivo; tipagem sanguínea da criança: A Rh Positivo. Nível sérico de bilirrubina indireta: 15,2 mg/dl e de bilirrubina direta: 0,59 mg/dL. Segundo as diretrizes nacionais e o nomograma norte-americano de Bhutani. reproduzido acima, a melhor conduta a ser tomada neste momento, entre as opções abaixo, é:",
-      "alternativas": {
-        "A": "solicitar Coombs direto e teste do eluato.",
-        "B": "colher hemograma, reticulócitos e G6PD.",
-        "C": "iniciar fototerapia e reavaliar BTF em 4h.",
-        "D": "reavaliar BTF em 4h para ver se há indicação de fototerapia."
-      },
-      "correta": "C",
-      "explicacao": "iniciar fototerapia e reavaliar BTF em 4h. Olá, Estrategista, temos dois jeitos de responder essa questão: por definição ou pelo gráfico. 1) Por definição. Aqui, a primeira coisa a ser feita é definir se ela é fisiológica ou patológica. Observe. No caso, temos uma icterícia patológica, pois já ultrapassou o nível fisiológico. Icterícias patológicas exigem triagem laboratorial e tratamento. Portanto, sabemos que esse bebê irá precisar de fototerapia. 2) Pelo gráfico Nele, a fototerapia deve ser iniciada sempre que ultrapassarmos para cima a linha relacionada a cada neonato. A linha que o bebê está é definida pela idade gestacional e os fatores de risco. Aqui, temos um RN de termo (não sabemos a idade gestacional certa) com fator de risco, que é a possibilidade de uma incompatibilidade ABO (mãe O/ RN A). Ele pode corresponder a linha de risco intermediário ou de alto risco. Vamos colocá-lo no gráfico então. Repare que ele ultrapassa todas as linhas! Então não tem o que discutir, ele precisa de fototerapia. Após o início da fototerapia, a bilirrubina deverá ser checada entre 3 e 12 horas após o início (a depender da literatura e da intensidade da icterícia).",
-      "banca": "HIAE",
-      "instituicao": "HIAE",
-      "ano": 2024,
-      "fonte": "HIAE 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-hia-2024-0034_70_0.png",
-        "pv-hia-2024-0034_70_1.png",
-        "pv-hia-2024-0034_71_0.png"
-      ],
-      "_id_original": "4000205874",
-      "_pdf": "16. HIAE.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-hia-2024-0034_70_0.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-hia-2024-0034_70_1.png",
-        "data/questoes-img/pv-hia-2024-0034_71_0.png"
-      ]
-    },
-    {
       "id": "pv-df-2024-0028",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
@@ -4357,180 +4059,6 @@
       "imagens_enunciado": [],
       "imagens_explicacao": [
         "data/questoes-img/pv-df-2025-0157_308_0.png"
-      ]
-    },
-    {
-      "id": "pv-ba-2024-0022",
-      "area": "Obstetricia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Gestante, 26 anos de idade, tercigesta e secundípara (partos normais), sem comorbidades, vem em consulta de rotina pré-natal com 11 semanas e com o seguinte resultado de sorologia para toxoplasmose: IGM: reagente e IGG reagente. Feito teste de avidez: baixa avidez. Em caso de PCR positivo (sugerindo infecção fetal), identifique a terapia medicamentosa indicada para o tratamento da infecção fetal nesse caso.",
-      "alternativas": {
-        "A": "Penicilina Benzatina, espiramicina e ácido folínico.",
-        "B": "Sulfametoxazol, trimetoprina e ácido folínico.",
-        "C": "Metronidazol e clindamicina e ácido folínico."
-      },
-      "correta": "D",
-      "explicacao": "Sulfadiazina, pirimetamina e ácido folínico. O que o examinador quer saber: sobre toxoplasmose na gestação. Como a maioria das gestantes é assintomática, o diagnóstico da toxoplasmose é feito pela sorologia materna, com avaliação dos anticorpos IgG e IgM para toxoplasmose, solicitada no rastreamento de rotina durante o pré-natal. 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 88/269 Gestantes susceptíveis (podem adquirir a infecção na gestação) têm resultados negativos para os anticorpos IgG e IgM específicos para toxoplasmose e o acompanhamento deve ser feito com sorologia seriada (1-2 meses) e orientações preventivas, a depender do perfil epidemiológico da região. Se a gestante apresentar IgG positiva e IgM negativa, elas são consideradas imunes e não precisam repetir a sorologia durante o pré-natal, a não ser que sejam imunocomprometidas. Por outro lado, quando a gestante apresenta IgM positiva e IgG negativa pode ser toxoplasmose aguda ou um caso de falso positivo. Por isso, deve-se introduzir espiramicina e repetir a sorologia em 2 semanas. Se IgM mantiver positiva com IgG também positiva, trata-se de um caso de toxoplasmose aguda com soroconversão na gestação. Se o IgG não positivar, trata-se de IgM falso positivo e deve-se suspender a espiramicina. Se a gestante apresentar IgM e IgG positivas no primeiro trimestre, deve-se introduzir espiramicina e realizar o teste de avidez para IgG, a fim de determinar se a infecção é recente (baixa avidez) ou tardia (alta avidez), uma vez que os títulos de IgM podem permanecer positivos por até 1 ano e o de IgG por vários anos. Sabe-se que a capacidade de ligação e avidez da imunoglobulina aumenta com a maturação da resposta imunológica, por isso avidez baixa sugere infecção recente (menos de 4 meses) e avidez alta sugere infecção há mais de 4 m A toxoplasmose materna aguda pode levar à transmissão vertical, causando toxoplasmose congênita. Por isso, o tratamento da toxoplasmose deve ser instituído se há suspeita ou confirmação de infecção aguda na gestação. O tratamento precoce em até 3 semanas da infecção materna diminui os riscos de infecção fetal. Portanto, a principal conduta frente a um caso de suspeita de infecção aguda é a profilaxia para toxoplasmose congênita, com a administração materna de espiramicina na dose de 3g/dia via oral. Isso é aplicado para todas as gestantes que apresentam sorologia IgM + e IgG – ou sorologia IgM + e IgG +. A espiramicina não ultrapassa a barreira placentária, mas tem como objetivo reduzir o risco de passagem transplacentária do parasita, impedindo a infecção fetal. Nos casos confirmados ou prováveis de infecção aguda, isto é, se houver soroconversão, avidez para IgG baixa ou intermediaria ou ascensão dos valores de IgG em amostra seriada, deve-se fazer a pesquisa de infecção fetal a partir de 18 semanas. Nos casos em que há dúvida se a infecção é recente ou antiga, como quando a primeira sorologia com IgG e IgM positiva é realizada após 16 semanas e o teste de avidez já não é mais fidedigno, deve-se considerar a gestante como infecção aguda e fazer a investigar infecção fetal. Atualmente, orienta-se utilizar espiramicina até 16 semanas e a partir de 16 semanas trocar para o esquema tríplice até realizar a pesquisa de infecção fetal. A pesquisa de infecção fetal é realizada por meio da amniocentese, com coleta de líquido amniótico e pesquisa do DNA do Toxoplasma gondii por PCR. Caso a pesquisa venha positiva, 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 89/269 estamos diante de um feto com toxoplasmose congênita (infecção fetal). Se a pesquisa de infecção fetal vier negativa, trocar por espiramicina e até o parto. Se a infecção fetal for confirmada, manter tratamento com sulfadiazina, pirimetamina e ácido folínico até o fim da gestação. Lembre-se de não iniciar o esquema tríplice no primeiro trimestre, pelo risco de teratogenicidade dessas medicações.",
-      "banca": "SUS-BA",
-      "instituicao": "SUS-BA",
-      "ano": 2024,
-      "fonte": "SUS-BA 2024",
-      "dificuldade": "Media",
-      "imagens": [
-        "pv-ba-2024-0022_89_0.png"
-      ],
-      "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209963",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ba-2024-0022_89_0.png"
-      ]
-    },
-    {
-      "id": "pv-ba-2024-0023",
-      "area": "Obstetricia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Gestante, 26 anos de idade, tercigesta e secundípara (partos normais), sem comorbidades, vem em consulta de rotina pré-natal com 11 semanas e com o seguinte resultado de sorologia para toxoplasmose: IGM: reagente e IGG reagente. Feito teste de avidez: baixa avidez. Indique o procedimento, no segundo trimestre, que poderá avaliar presença de infecção fetal, através do PCR (reação em cadeia de polimerase):",
-      "alternativas": {
-        "A": "Biópsia de vilo corial.",
-        "B": "Amniocentese.",
-        "C": "Culdocentese."
-      },
-      "correta": "B",
-      "explicacao": "Amniocentese. O que o examinador quer saber: sobre toxoplasmose na gestação. Como a maioria das gestantes é assintomática, o diagnóstico da toxoplasmose é feito pela sorologia materna, com avaliação dos anticorpos IgG e IgM para toxoplasmose, solicitada no rastreamento de rotina durante o pré-natal. Gestantes susceptíveis (podem adquirir a infecção na gestação) têm resultados negativos para os anticorpos IgG e IgM específicos para toxoplasmose e o acompanhamento deve ser feito com sorologia seriada (1-2 meses) e orientações preventivas, a depender do perfil epidemiológico da região. Se a gestante apresentar IgG positiva e IgM negativa, elas são consideradas imunes e não precisam repetir a sorologia durante o pré-natal, a não ser que sejam imunocomprometidas. Por outro lado, quando a gestante apresenta IgM positiva e IgG negativa pode ser toxoplasmose aguda ou um caso de falso positivo. Por isso, deve-se introduzir espiramicina e repetir a sorologia em 2 semanas. Se IgM mantiver positiva com IgG também positiva, trata-se de um caso de toxoplasmose aguda com soroconversão na gestação. Se o IgG não positivar, trata-se de IgM falso positivo e deve-se suspender a espiramicina. Se a gestante apresentar IgM e IgG positivas no primeiro trimestre, deve-se introduzir espiramicina e realizar o teste de avidez para IgG, a fim de determinar se a infecção é recente (baixa avidez) ou tardia (alta avidez), uma vez que os títulos de IgM podem permanecer positivos por até 1 ano e o de IgG por vários anos. Sabe-se que a capacidade de ligação e avidez da imunoglobulina aumenta com a maturação da resposta imunológica, por isso avidez baixa sugere infecção recente (menos de 4 meses) e avidez alta sugere infecção há mais de 4 m A toxoplasmose materna aguda pode levar à transmissão vertical, causando toxoplasmose congênita. Por isso, o tratamento da toxoplasmose deve ser instituído se há suspeita ou confirmação de infecção aguda na gestação. O tratamento precoce em até 3 semanas da infecção materna diminui os riscos de infecção fetal. Portanto, a principal conduta frente a um caso de suspeita de infecção aguda é a profilaxia para toxoplasmose congênita, com a administração materna de espiramicina na dose de 3g/dia via oral. Isso é aplicado para todas as gestantes que apresentam sorologia IgM + e IgG – ou sorologia IgM + e IgG +. A espiramicina não ultrapassa a barreira placentária, mas tem como objetivo reduzir o risco de passagem transplacentária do parasita, impedindo a infecção fetal. Nos casos confirmados ou prováveis de infecção aguda, isto é, se houver soroconversão, avidez para IgG baixa ou intermediaria ou ascensão dos valores de IgG em amostra seriada, 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 91/269 deve-se fazer a pesquisa de infecção fetal a partir de 18 semanas. Nos casos em que há dúvida se a infecção é recente ou antiga, como quando a primeira sorologia com IgG e IgM positiva é realizada após 16 semanas e o teste de avidez já não é mais fidedigno, deve-se considerar a gestante como infecção aguda e fazer a investigar infecção fetal. Atualmente, orienta-se utilizar espiramicina até 16 semanas e a partir de 16 semanas trocar para o esquema tríplice até realizar a pesquisa de infecção fetal. A pesquisa de infecção fetal é realizada por meio da amniocentese, com coleta de líquido amniótico e pesquisa do DNA do Toxoplasma gondii por PCR. Caso a pesquisa venha positiva, estamos diante de um feto com toxoplasmose congênita (infecção fetal). Se a pesquisa de infecção fetal vier negativa, trocar por espiramicina e até o parto. Se a infecção fetal for confirmada, manter tratamento com sulfadiazina, pirimetamina e ácido folínico até o fim da gestação. Lembre-se de não iniciar o esquema tríplice no primeiro trimestre, pelo risco de teratogenicidade dessas medicações.",
-      "banca": "SUS-BA",
-      "instituicao": "SUS-BA",
-      "ano": 2024,
-      "fonte": "SUS-BA 2024",
-      "dificuldade": "Media",
-      "imagens": [
-        "pv-ba-2024-0023_89_0.png",
-        "pv-ba-2024-0023_91_0.png"
-      ],
-      "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209964",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-ba-2024-0023_89_0.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ba-2024-0023_91_0.png"
-      ]
-    },
-    {
-      "id": "pv-ba-2024-0024",
-      "area": "Obstetricia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Gestante, 26 anos de idade, tercigesta e secundípara (partos normais), sem comorbidades, vem em consulta de rotina pré-natal com 11 semanas e com o seguinte resultado de sorologia para toxoplasmose: IGM: reagente e IGG reagente. Feito teste de avidez: baixa avidez. 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 92/269 Com relação ao resultado do teste de avidez, identifique a alternativa correta:",
-      "alternativas": {
-        "A": "A gestante tem indicação de uso de Espiramicina.",
-        "B": "A gestante tem indicação de uso de Penicilina Benzatina."
-      },
-      "correta": "A",
-      "explicacao": "A gestante tem indicação de uso de Espiramicina. O que o examinador quer saber: sobre toxoplasmose na gestação. Como a maioria das gestantes é assintomática, o diagnóstico da toxoplasmose é feito pela sorologia materna, com avaliação dos anticorpos IgG e IgM para toxoplasmose, solicitada no rastreamento de rotina durante o pré-natal. Gestantes susceptíveis (podem adquirir a infecção na gestação) têm resultados negativos para os anticorpos IgG e IgM específicos para toxoplasmose e o acompanhamento deve ser feito com sorologia seriada (1-2 meses) e orientações preventivas, a depender do perfil epidemiológico da região. Se a gestante apresentar IgG positiva e IgM negativa, elas são consideradas imunes e não precisam repetir a sorologia durante o pré-natal, a não ser que sejam imunocomprometidas. Por outro lado, quando a gestante apresenta IgM positiva e IgG negativa pode ser toxoplasmose aguda ou um caso de falso positivo. Por isso, deve-se introduzir espiramicina e repetir a sorologia em 2 semanas. Se IgM mantiver positiva com IgG também positiva, trata-se de um caso de toxoplasmose aguda com soroconversão na gestação. Se o IgG não positivar, trata-se de IgM falso positivo e deve-se suspender a espiramicina. Se a gestante apresentar IgM e IgG positivas no primeiro trimestre, deve-se introduzir espiramicina e realizar o teste de avidez para IgG, a fim de determinar se a infecção é recente (baixa avidez) ou tardia (alta avidez), uma vez que os títulos de IgM podem permanecer positivos por até 1 ano e o de IgG por vários anos. Sabe-se que a capacidade de ligação e avidez da imunoglobulina aumenta com a maturação da resposta imunológica, por isso avidez baixa sugere infecção recente (menos de 4 meses) e avidez alta sugere infecção há mais de 4 m 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 93/269 A toxoplasmose materna aguda pode levar à transmissão vertical, causando toxoplasmose congênita. Por isso, o tratamento da toxoplasmose deve ser instituído se há suspeita ou confirmação de infecção aguda na gestação. O tratamento precoce em até 3 semanas da infecção materna diminui os riscos de infecção fetal. Portanto, a principal conduta frente a um caso de suspeita de infecção aguda é a profilaxia para toxoplasmose congênita, com a administração materna de espiramicina na dose de 3g/dia via oral. Isso é aplicado para todas as gestantes que apresentam sorologia IgM + e IgG – ou sorologia IgM + e IgG +. A espiramicina não ultrapassa a barreira placentária, mas tem como objetivo reduzir o risco de passagem transplacentária do parasita, impedindo a infecção fetal. Nos casos confirmados ou prováveis de infecção aguda, isto é, se houver soroconversão, avidez para IgG baixa ou intermediaria ou ascensão dos valores de IgG em amostra seriada, deve-se fazer a pesquisa de infecção fetal a partir de 18 semanas. Nos casos em que há dúvida se a infecção é recente ou antiga, como quando a primeira sorologia com IgG e IgM positiva é realizada após 16 semanas e o teste de avidez já não é mais fidedigno, deve-se considerar a gestante como infecção aguda e fazer a investigar infecção fetal. Atualmente, orienta-se utilizar espiramicina até 16 semanas e a partir de 16 semanas trocar para o esquema tríplice até realizar a pesquisa de infecção fetal. A pesquisa de infecção fetal é realizada por meio da amniocentese, com coleta de líquido amniótico e pesquisa do DNA do Toxoplasma gondii por PCR. Caso a pesquisa venha positiva, estamos diante de um feto com toxoplasmose congênita (infecção fetal). Se a pesquisa de infecção fetal vier negativa, trocar por espiramicina e até o parto. Se a infecção fetal for confirmada, manter tratamento com sulfadiazina, pirimetamina e ácido folínico até o fim da gestação. Lembre-se de não iniciar o esquema tríplice no primeiro trimestre, pelo risco de teratogenicidade dessas medicações. 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 94/269",
-      "banca": "SUS-BA",
-      "instituicao": "SUS-BA",
-      "ano": 2024,
-      "fonte": "SUS-BA 2024",
-      "dificuldade": "Media",
-      "imagens": [
-        "pv-ba-2024-0024_91_0.png",
-        "pv-ba-2024-0024_93_0.png"
-      ],
-      "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000209965",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-ba-2024-0024_91_0.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ba-2024-0024_93_0.png"
-      ]
-    },
-    {
-      "id": "pv-ba-2025-0067",
-      "area": "Obstetricia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Uma paciente de 30 anos de idade, grávida de 36 semanas, apresenta-se ao Pronto-Socorro com queixas de cefaleia persistente e visão turva. Durante a avaliação, verifica-se PA: 160x105mmHg e a urina de 24 horas revela 4g de proteína. A ultrassonografia obstétrica realizada identifica feto com crescimento adequado e oligoidrâmnio. O médico assistente diagnostica pré-eclâmpsia com critérios de gravidade ou deterioração. Identifique a condição clínica neste caso que indica a necessidade de interrupção da gestação, após estabilização dos níveis tensionais.",
-      "alternativas": {
-        "A": "Síndrome HELLP.",
-        "B": "Presença de oligoidrâmnio.",
-        "C": "Hipertensão arterial, necessitando de medicação."
-      },
-      "correta": "A",
-      "explicacao": "Síndrome HELLP. O que o examinador quer saber: sobre a conduta obstétrica na pré-eclâmpsia grave. A conduta obstétrica nos casos de pré-eclâmpsia grave vai depender da idade gestacional e da presença de complicações. A monitorização fetal na pré-eclâmpsia grave é feita com cardiotocografia e, se a conduta for expectante, com ultrassom obstétrico com Doppler. A resolução da gestação deve ocorrer, independentemente da idade gestacional, se houver deterioração da condição materna ou 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 163/269 fetal, mesmo com o tratamento adequado ou o quadro de pré-eclâmpsia grave evoluir para uma das situações descritas na figura abaixo: Na ausência dessas complicações, a resolução do parto na pré-eclâmpsia grave vai depender da idade gestacional, como veremos a seguir. Em gestações abaixo de 23 semanas, deve-se optar pela resolução da gestação após estabilização hemodinâmica e aplicação de sulfato de magnésio, uma vez que não se deve correr risco materno por uma gestação inviável. Quando a pré-eclâmpsia grave ocorre entre 23 e 34 semanas, a conduta é manter a hospitalização e tentar prolongar a gravidez. Se a paciente estabilizar após a aplicação de sulfato de magnésio e o controle dos níveis pressóricos, observam-se os sintomas de iminência de eclâmpsia, realiza-se controle laboratorial semanal, vitalidade fetal e corticoide para maturação pulmonar a fim de manter a gestação até 34 semanas. Caso a gestante apresente algum sinal de piora do quadro, indica-se a resolução imediata da gestação. Por fim, entre 34 e 37 semanas, a conduta na pré-eclâmpsia grave é controversa na literatura. Atualmente, tem-se optado por tentar manter a gestação até próximo de 37 semanas, caso ocorra melhora dos parâmetros clínicos e laboratoriais, se for possível o monitoramento contínuo intra-hospitalar e a resolução imediata da gestação caso necessário. Após 37 semanas, a resolução da gestação deve ocorrer em todos os casos de pré-eclâmpsia. 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 164/269 A via de parto preferida é a via vaginal, mas vai depender das condições maternas e fetais, da idade gestacional, da apresentação fetal, das características do colo uterino e do tempo disponível para o parto. Quanto mais precoce e grave for o diagnóstico, maiores as chances de cesárea e menor a possibilidade de indução do parto. Durante o trabalho de parto, é importante realizar o controle pressórico a cada hora e manter o uso dos anti-hipertensivos. Se a PA estiver acima de 160/110 mmHg, medir a cada 15-30 min. Pode-se considerar cesárea ou parto instrumental no período expulsivo para mulheres com hipertensão severa não responsiva ao tratamento.",
-      "banca": "SUS-BA",
-      "instituicao": "SUS-BA",
-      "ano": 2025,
-      "fonte": "SUS-BA 2025",
-      "dificuldade": "Media",
-      "imagens": [
-        "pv-ba-2025-0067_163_0.png"
-      ],
-      "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000231212",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ba-2025-0067_163_0.png"
-      ]
-    },
-    {
-      "id": "pv-ba-2025-0068",
-      "area": "Obstetricia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Uma paciente de 30 anos de idade, grávida de 36 semanas, apresenta-se ao Pronto-Socorro com queixas de cefaleia persistente e visão turva. Durante a avaliação, verifica-se PA: 160x105mmHg e a urina de 24 horas revela 4g de proteína. A ultrassonografia obstétrica realizada identifica feto com crescimento adequado e oligoidrâmnio. O médico assistente diagnostica pré-eclâmpsia com critérios de gravidade ou deterioração. Indique, para este caso, o momento ideal para interrupção da gestação com parto:",
-      "alternativas": {
-        "A": "Após estabilização dos níveis pressóricos maternos.",
-        "B": "Com 37 semanas, após controle da pressão arterial materna, para evitar a prematuridade."
-      },
-      "correta": "A",
-      "explicacao": "Após estabilização dos níveis pressóricos maternos. O que o examinador quer saber: sobre a conduta obstétrica nos casos de pré-eclâmpsia com sinais de gravidade. A conduta obstétrica nos casos de pré-eclâmpsia grave vai depender da idade gestacional e da presença de complicações. A monitorização fetal na pré-eclâmpsia grave é feita com cardiotocografia e, se a conduta for expectante, com ultrassom obstétrico com Doppler. A resolução da gestação deve ocorrer, independentemente da idade gestacional, se houver deterioração da condição materna ou fetal, mesmo com o tratamento adequado ou o quadro de pré-eclâmpsia grave evoluir para uma das situações descritas na figura abaixo: Na ausência dessas complicações, a resolução do parto na pré-eclâmpsia grave vai depender da idade gestacional, como veremos a seguir. Em gestações abaixo de 23 semanas, deve-se optar pela resolução da gestação após estabilização hemodinâmica e aplicação de sulfato de magnésio, uma vez que não se deve correr risco materno por uma gestação inviável. 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 166/269 Quando a pré-eclâmpsia grave ocorre entre 23 e 34 semanas, a conduta é manter a hospitalização e tentar prolongar a gravidez. Se a paciente estabilizar após a aplicação de sulfato de magnésio e o controle dos níveis pressóricos, observam-se os sintomas de iminência de eclâmpsia, realiza-se controle laboratorial semanal, vitalidade fetal e corticoide para maturação pulmonar a fim de manter a gestação até 34 semanas. Caso a gestante apresente algum sinal de piora do quadro, indica-se a resolução imediata da gestação. Por fim, entre 34 e 37 semanas, a conduta na pré-eclâmpsia grave é controversa na literatura. Atualmente, tem-se optado por tentar manter a gestação até próximo de 37 semanas, caso ocorra melhora dos parâmetros clínicos e laboratoriais, se for possível o monitoramento contínuo intra-hospitalar e a resolução imediata da gestação caso necessário. Após 37 semanas, a resolução da gestação deve ocorrer em todos os casos de pré-eclâmpsia.",
-      "banca": "SUS-BA",
-      "instituicao": "SUS-BA",
-      "ano": 2025,
-      "fonte": "SUS-BA 2025",
-      "dificuldade": "Media",
-      "imagens": [
-        "pv-ba-2025-0068_165_0.png"
-      ],
-      "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000231211",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ba-2025-0068_165_0.png"
-      ]
-    },
-    {
-      "id": "pv-ba-2025-0069",
-      "area": "Obstetricia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Uma paciente de 30 anos de idade, grávida de 36 semanas, apresenta-se ao Pronto-Socorro com queixas de cefaleia persistente e visão turva. Durante a avaliação, verifica-se PA: 160x105mmHg e a urina de 24 horas revela 4g de proteína. A ultrassonografia obstétrica realizada identifica feto com crescimento adequado e oligoidrâmnio. O médico assistente diagnostica pré-eclâmpsia com critérios de gravidade ou deterioração. A intervenção farmacológica capaz de previnir a eclâmpsia, no manejo da pré-eclâmpsia com critérios de gravidade é o uso de:",
-      "alternativas": {
-        "A": "Antihipertensivos.",
-        "B": "Gluconato de Cálcio.",
-        "C": "Corticoide."
-      },
-      "correta": "D",
-      "explicacao": "Sulfato de Magnésio. O que o examinador quer saber: sobre a conduta na pré-eclâmpsia grave Diante de um quadro sugestivo de pré-eclâmpsia grave, por aumento dos níveis pressóricos (a partir de 160x110 mmHg) ou suspeita de lesão em órgãos-alvo, a gestante deve ser encaminhada imediatamente para internação. O sulfato de magnésio é a medicação de escolha na prevenção de episódios convulsivos diante de pré-eclâmpsia grave, síndrome HELLP e iminência de eclâmpsia. Do mesmo modo, durante a eclâmpsia, o sulfato de magnésio é a medicação mais efetiva para o controle das convulsões. Por isso, essa medicação é preconizada para a prevenção e tratamento das convulsões em todos os casos graves de pré-eclâmpsia, conforme protocolos do Ministério da Saúde e da ACOG. Quando a gestante apresenta níveis pressóricos ≥ 160 x 110 mmHg confirmados após 15 min de repouso, considera-se que ela tem hipertensão arterial grave ou crise hipertensiva. O controle da hipertensão arterial grave é importante para prevenir falência cardíaca, infarto agudo do miocárdio e acidente vascular cerebral isquêmico ou hemorrágico. O objetivo é manter a PA entre 140-150/90-100mmHg; para isso, utilizam-se anti-hipertensivos mais potentes do que aqueles utilizados para controle de hipertensão arterial leve. As medicações de escolha para o controle da hipertensão arterial grave na gestação são hidralazina endovenosa e nifedipina oral. No Brasil, a hidralazina é, ainda, a medicação mais utilizada nos casos de crise hipertensiva na gestação. O labetalol é uma alternativa eficaz na gestação, mas não está disponível no Brasil. 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 168/269 A conduta obstétrica nos casos de pré-eclâmpsia grave vai depender da idade gestacional e da presença de complicações. A monitorização fetal na pré-eclâmpsia grave é feita com cardiotocografia e, se a conduta for expectante, com ultrassom obstétrico com Doppler. A resolução da gestação deve ocorrer, independentemente da idade gestacional, se houver deterioração da condição materna ou fetal, mesmo com o tratamento adequado ou o quadro de pré-eclâmpsia grave evoluir para uma das situações descritas na figura abaixo: Na ausência dessas complicações, a resolução do parto na pré-eclâmpsia grave vai depender da idade gestacional, como veremos a seguir. Em gestações abaixo de 23 semanas, deve-se optar pela resolução da gestação após estabilização hemodinâmica e aplicação de sulfato de magnésio, uma vez que não se deve correr risco materno por uma gestação inviável. Quando a pré-eclâmpsia grave ocorre entre 23 e 34 semanas, a conduta é manter a hospitalização e tentar prolongar a gravidez. Se a paciente estabilizar após a aplicação de sulfato de magnésio e o controle dos níveis pressóricos, observam-se os sintomas de iminência de eclâmpsia, realiza-se controle laboratorial semanal, vitalidade fetal e corticoide para maturação pulmonar a fim de manter a gestação até 34 semanas. Caso a gestante apresente algum sinal de piora do quadro, indica-se a resolução imediata da gestação. Por fim, entre 34 e 37 semanas, a conduta na pré-eclâmpsia grave é controversa na literatura. Atualmente, tem-se optado por tentar manter a gestação até próximo de 37 semanas, caso ocorra melhora dos parâmetros clínicos e laboratoriais, se for possível o monitoramento 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 169/269 contínuo intra-hospitalar e a resolução imediata da gestação caso necessário. Após 37 semanas, a resolução da gestação deve ocorrer em todos os casos de pré-eclâmpsia. A via de parto preferida é a via vaginal, mas vai depender das condições maternas e fetais, da idade gestacional, da apresentação fetal, das características do colo uterino e do tempo disponível para o parto. Quanto mais precoce e grave for o diagnóstico, maiores as chances de cesárea e menor a possibilidade de indução do parto.",
-      "banca": "SUS-BA",
-      "instituicao": "SUS-BA",
-      "ano": 2025,
-      "fonte": "SUS-BA 2025",
-      "dificuldade": "Media",
-      "imagens": [
-        "pv-ba-2025-0069_167_0.png",
-        "pv-ba-2025-0069_168_0.png"
-      ],
-      "_pdf": "2. SUS-BA.pdf",
-      "_id_original": "4000231210",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-ba-2025-0069_167_0.png",
-        "data/questoes-img/pv-ba-2025-0069_168_0.png"
       ]
     },
     {
@@ -4817,35 +4345,6 @@
       "imagens_explicacao": []
     },
     {
-      "id": "pv-uer-2024-0040",
-      "area": "Obstetrícia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuficiência Cardíaca",
-      "enunciado": "Menino de 4 anos é levado à emergência devido a edema nos olhos, na barriga e nas pernas há três dias. Mãe informa que, há 48 horas, procurou a UBS próxima à sua casa, onde o médico suspeitou que fosse um quadro alérgico, prescrevendo desloratadina, que não impediu a piora do quadro. A mãe não sabe informar sobre diurese e nega febre ou qualquer outro sinal ou sintoma. Ao exame físico, o paciente mostra-se lúcido, eupneico, pálido ++/4+ com edema palpebral bilateral, edemas de parede abdominal, de bolsa escrotal e de membros inferiores de ++/4+, com formação de cacifo. Não há evidência de visceromegalias e de anormalidade na peristalse. O aparelho cardiovascular apresenta bulhas normofonéticas, com frequência cardíaca de 96bpm. A pressão arterial é de 85 x 50mmHg (normal para sexo, idade e altura), ausculta respiratória sem alterações e a frequência respiratória é de 24irpm. A saturação O₂ é de 96%. Nesse caso, a principal hipótese diagnóstica e os exames laboratoriais a serem solicitados, respectivamente, são:",
-      "alternativas": {
-        "A": "síndrome nefrótica / proteinúria de 24 horas, dosagem sérica de albumina e colesterol total.",
-        "B": "insuficiência cardíaca congestiva / radiografia de tórax, eletrocardiograma e ecocardiograma.",
-        "C": "glomerulonefrite difusa aguda / exame simples de urina e dosagem de complemento.",
-        "D": "angioedema hereditário / imunoglobulinas e hemograma completo."
-      },
-      "correta": "A",
-      "explicacao": "síndrome nefrótica / proteinúria de 24 horas, dosagem sérica de albumina e colesterol total. GABARITO: ALTERNATIVA A Estrategista, temos aqui nesta questão uma criança de 4 anos com síndrome edemigênica generalizada, com pressão arterial normal e sem alterações cardíacas – esse quadro é mais sugestivo de síndrome nefrótica! A síndrome nefrótica é uma manifestação típica de doença glomerular que é caracterizada pela perda de proteínas em grande quantidade na urina. A tríade clássica consiste nos seguintes elementos: - Proteinúria > 3,5g/dia em adultos ou > 50mg/kg/dia em crianças - Hipoalbuminemia < 3,5g/dL - Edema Todas essas alterações são decorrentes da perda de proteína na forma de albumina na urina em grande quantidade. Esse perda decorre de alterações glomerulares que culminam com a disfunção da membrana basal glomerular – a “peneira” do rim! Normalmente as proteínas de grande peso molecular como a albumina não ultrapassam a membrana basal e são retidas no compartimento sanguíneo, pois são essenciais para o funcionamento do organismo. Essas proteínas são perdidas sob a forma de albumina, culminando com hipoalbuminemia por perda renal dessa proteína. A albumina é responsável pela pressão oncótica, a qual é a pressão osmótica gerada pelas proteínas do plasma. Quando há hipoalbuminemia, essa pressão diminui: há menos soluto dissolvido na corrente sanguínea gerando gradiente osmótico para fazer a água ficar dentro do vaso. Assim, há extravasamento de líquido para o meio intersticial, levando ao edema. A resposta natural do organismo frente a hipoalbuminemia é aumentar a produção hepática de albumina, pois ela é essencial para o organismo. No entanto, a produção hepática de albumina é acompanhada do aumento de produção de outros produtos hepáticos, como proteínas da cascata da coagulação e lipoproteínas, culminando com hipercoagulabilidade e dislipidemia. Outros fatores que contribuem para o estado de hipercoagulabilidade desses pacientes é a perdas de proteínas anticoagulantes na urina, aumento da agregação plaquetária, imobilidade e hemoconcentração induzidos pelo edema. Analisando as alternativas, temos:",
-      "banca": "UERJ",
-      "instituicao": "UERJ",
-      "ano": 2024,
-      "fonte": "UERJ 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-uer-2024-0040_77_0.png"
-      ],
-      "_id_original": "4000209021",
-      "_pdf": "7. UERJ.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-uer-2024-0040_77_0.png"
-      ],
-      "imagens_explicacao": []
-    },
-    {
       "id": "pv-uer-2024-0043",
       "area": "Obstetrícia",
       "subarea": "Emergências / UTI",
@@ -4951,35 +4450,6 @@
       "imagens": [],
       "_id_original": "4000231973",
       "_pdf": "7. UERJ.pdf"
-    },
-    {
-      "id": "pv-uer-2025-0162",
-      "area": "Obstetrícia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuficiência Cardíaca",
-      "enunciado": "Menino de 4 anos é levado à emergência devido a edema periorbital em abdômen e membros inferiores, apresentado há uma semana. A mãe informou que, há quatro dias, procurou a equipe de saúde da família e que uma médica avaliou o quadro como alérgico, prescrevendo anti-histamínico. Ela relata que hoje observou piora importante do quadro. Não soube responder sobre diurese, mas achou a urina “diferente”. Nega febre ou qualquer outro sinal ou sintoma. Ao exame físico, o paciente mostra-se lúcido, hipocorado +/4+, com FR = 24irpm, FC = 96bpm, e PA normal para altura, sexo e idade, sem outros sinais ou sintomas. A hipótese diagnóstica para o caso e os exames laboratoriais a serem solicitados, respectivamente, são:",
-      "alternativas": {
-        "A": "edema alérgico difuso; imunoglobulinas e hemograma completo",
-        "B": "insuficiência cardíaca congestiva; radiografia de tórax e ecocardiograma",
-        "C": "síndrome nefrótica/proteinúria de 24 horas; dosagem sérica de albumina",
-        "D": "glomerulonefrite difusa aguda; exame simples de urina e dosagem de complemento"
-      },
-      "correta": "C",
-      "explicacao": "síndrome nefrótica/proteinúria de 24 horas; dosagem sérica de albumina Edema é o acúmulo de líquido no espaço intersticial, resultante de diversos mecanismos fisiopatológicos. A etiologia do edema pode ser amplamente categorizada em vários mecanismos: 1. Aumento da pressão hidrostática: Isto ocorre quando há pressão elevada dentro dos capilares, muitas vezes devido a condições como insuficiência cardíaca ou insuficiência venosa. O aumento da pressão força o fluido a sair dos capilares para o espaço intersticial. 2. Diminuição da pressão oncótica: Uma redução nas proteínas plasmáticas, particularmente na albumina, pode levar à diminuição da pressão oncótica, o que normalmente ajuda a reter líquido na vasculatura. Condições como síndrome nefrótica, cirrose hepática e desnutrição podem causar hipoalbuminemia, contribuindo para o edema. 3. Aumento da permeabilidade capilar: Processos inflamatórios ou lesões diretas podem aumentar a permeabilidade capilar, permitindo que proteínas e fluidos vazem para o espaço intersticial. Esse mecanismo é frequentemente observado em condições como sepse, trauma ou reações alérgicas. 4. Obstrução Linfática: A drenagem linfática prejudicada pode levar ao linfedema, caracterizado pelo acúmulo de líquido rico em proteínas no espaço intersticial. Isso pode resultar de anomalias congênitas, remoção cirúrgica de linfonodos ou infecções. No caso desse paciente, há descrita possível alteração urinária que esteja sendo a causa do edema.",
-      "banca": "UERJ",
-      "instituicao": "UERJ",
-      "ano": 2025,
-      "fonte": "UERJ 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-uer-2025-0162_278_0.png"
-      ],
-      "_id_original": "4000231964",
-      "_pdf": "7. UERJ.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-uer-2025-0162_278_0.png"
-      ],
-      "imagens_explicacao": []
     },
     {
       "id": "pv-uer-2025-0165",
@@ -5329,63 +4799,6 @@
       ]
     },
     {
-      "id": "pv-sp-2025-0119",
-      "area": "Obstetrícia",
-      "subarea": "Neurologia",
-      "sub_subarea": "AVC",
-      "enunciado": "Uma mulher de 27 anos de idade, doente renal crônica dialítica devido à nefrite lúpica, com perdas de duas gestações prévias e AVC isquêmico há um ano, compareceu ao hospital com edema assimétrico de membro inferior esquerdo, realizou usg Doppler, confirmando diagnóstico de tvp. A paciente apresentou os seguintes valores para os sinais vitais: PA 145 x 95; FC 89 bpm; sat. 99% em ar ambiente; FR 15 irpm; e livedo reticular notado em membros inferiores. Estava consciente e orientada, e com extremidades quentes. Ainda em ambiente de observação no pronto‑socorro, a paciente relatou que possuía condições financeiras para a compra de medicamentos e desejava tratar‑se em casa. Ainda a respeito da situação hipotética apresentada, considere‑se que após o manejo inicial, o hematologista tenha suspeitado de uma condição pró‑trombótica associada à doença de base e, devido a esse acontecimento, solicitou‑se",
-      "alternativas": {
-        "A": "anti‑ro, ani centromero, anti‑sm.",
-        "B": "anticardiolipina, antiglicoproteina 1 e anticoagulante lúpico.",
-        "C": "anticoagulante lúpico, beta 2 microglobulina e anti‑la.",
-        "D": "anticoagulante lúpico, beta 2 microglobulina e anti‑ro.",
-        "E": "anticoagulante lúpico, anticentrômero e anti‑p."
-      },
-      "correta": "B",
-      "explicacao": "anticardiolipina, antiglicoproteina 1 e anticoagulante lúpico. Conseguiu identificar o quadro de nossa paciente, Estrategista? Temos uma mulher com lúpus eritematosos sistêmico, com história de morbidade gestacional importante e múltiplos eventos trombóticos (arteriais e venosos), além de livedo reticular. Este é o quadro clássico da SAF, a famosa síndrome do anticorpo antifosfolipídeo! Esta é uma condição marcada pela presença de anticorpos antifosfolipídeos: anticoagulante lúpico, anticardiolipina e anti-beta-2-glicoproteína-1. Por mecanismos ainda não totalmente esclarecidos, estes anticorpos agem aumentando a chance de eventos trombóticos venosos e arteriais, além de eventos gestacionais importantes (abortos espontâneos, óbito fetal e parto prematuro por pré-eclâmpsia, eclâmpsia ou insuficiência placentária). Outras manifestações marcam o quadro clínico da SAF, como livedo reticular, necrose cutânea, tromboflebites, endocardite de Libman-Sacks (vegetações estéreis de trombos nas valvas cardíacas, especialmente mitral), doença arterial periférica e hipertensão pulmonar. Todo este quadro está resumido abaixo: Com isso em mente, veja as alternativas:",
-      "banca": "SUS-SP",
-      "instituicao": "SP - Sistema Único de Saúde - SUS SP",
-      "ano": 2025,
-      "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-sp-2025-0119_238_0.png",
-        "pv-sp-2025-0119_240_0.jpeg"
-      ],
-      "_id_original": "4000234134",
-      "_pdf": "14. SUS-SP.pdf",
-      "imagens_enunciado": [
-        "data/questoes-img/pv-sp-2025-0119_238_0.png"
-      ],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-sp-2025-0119_240_0.jpeg"
-      ]
-    },
-    {
-      "id": "pv-sír-2024-0081",
-      "area": "Obstetrícia",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuficiência Cardíaca",
-      "enunciado": "Homem de 59 anos de idade, com cirrose hepática por VHC e insuficiência cardíaca diastólica, em uso crônico de furosemida, espironolactona e carvedilol, procurou o pronto- socorro por mal-estar e náuseas. Exame físico: estado geral regular, PA: 100 x 50 mmHg, FC: 64 bpm, FR: 22 irpm, SpO₂: 93%, ascite volumosa, edema de parede abdominal, edema 3+/4+ em membros inferiores. Ausculta cardíaca normal. Ausculta pulmonar diminuída em bases. Exames laboratoriais: Hb: 10 g/dL, leucócitos: 3.500/mm³, plaquetas: 62.000/mm³, Cr: 2,8 mg/dL (basal 1,2 mg/dL), ureia: 87 mg/dL, Na: 131 mEq/L, K: 6,0 mEq/L. Ultrassom à beira do leito: contratilidade cardíaca normal, veia cava inferior de 2,4 cm de diâmetro, com variação até 2,1 cm. Entre as opções abaixo, a conduta mais adequada, neste momento, para este paciente é:",
-      "alternativas": {
-        "A": "albumina por dois dias e suspender espironolactona.",
-        "B": "ringer lactato 1.000 mL por dia por dois dias.",
-        "C": "furosemida intravenosa e suspender carvedilol.",
-        "D": "albumina por dois dias e suspender carvedilol.",
-        "E": "furosemida intravenosa e suspender espironolactona."
-      },
-      "correta": "E",
-      "explicacao": "furosemida intravenosa e suspender espironolactona. **QUESTÃO ANULADA** Estrategista, o gabarito preliminar liberado pela banca dava como certa a alternativa \"E\" (furosemida intravenosa e suspender espironolactona), nós entramos com recurso para mudar o gabarito para a alternativa \"A\" (albumina por dois dias e suspender espironolactona). Mas, a banca preferiu anular a questão. Vamos discuti-la em detalhes: a questão aborda o manejo de um paciente com cirrose hepática, insuficiência cardíaca diastólica, hipotensão, insuficiência renal e hipercalemia. O paciente não apresenta sinais de congestão pelo ecocardiograma, já que o diâmetro da veia cava inferior está dentro da normalidade (Ref: 1,5 a 3,0 cm). A redução do MV em bases provavelmente é secundária à ascite volumosa, que reduz a capacidade de expansão pulmonar, muitas vezes provocando atelectasia ou derrame pleural secundário à ascite (hidrotórax hepático). Esta situação sugere um estado de redução do volume circulante efetivo pela hipertensão portal grave. O quadro justificaria a piora da função renal. Porém, a disfunção renal também poderia ser provocada por uma síndrome hepatorrenal, considerando que o paciente seja cirrótico avançado. Além disso, ele tem um aumento importante do potássio sérico, talvez pelo uso da espironolactona. Com esses \"pontos-chave\" em mente, vamos analisar a questão:",
-      "banca": "Sírio-Libanês",
-      "instituicao": "Sírio-Libanês",
-      "ano": 2024,
-      "fonte": "Sírio-Libanês 2024",
-      "dificuldade": "Média",
-      "imagens": [],
-      "_id_original": "4000211860",
-      "_pdf": "15. SÍRIO.pdf"
-    },
-    {
       "id": "pv-sír-2024-0097",
       "area": "Obstetrícia",
       "subarea": "Hematologia",
@@ -5584,37 +4997,6 @@
       "imagens_explicacao": [
         "data/questoes-img/pv-hia-2025-0123_241_0.png",
         "data/questoes-img/pv-hia-2025-0123_242_0.jpeg"
-      ]
-    },
-    {
-      "id": "pv-df-2024-0017",
-      "area": "Obstetrícia",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Pneumonias",
-      "enunciado": "Um paciente de 75 anos de idade, renal crônico dialítico, hipertenso e diabético insulinodependente, foi internado por Covid-19 com dessaturação 88% em ar ambiente na entrada e FR = 25 irpm. Na unidade de internação, evoluiu com piora do padrão respiratório, necessitando de intubação orotraqueal e necessidade de ventilação mecânica invasiva. Após três meses de internação em leito de unidade de terapia intensiva (UTI), o paciente se mantinha com necessidade de ventilação mecânica contínua (acoplada à traqueostomia), com períodos de melhora e de piora clínica, em uso de meropenem, gentamicina e vancomicina para tratamento de uma pneumonia bacteriana associada à ventilação mecânica. Finalmente, após 100 dias de internação, em uma noite, o paciente subitamente apresentou uma parada cardiorrespiratória, não houve sucesso com as manobras de ressuscitação cardiopulmonar, e o paciente veio a falecer. Na UTI, havia um médico diarista que acompanhou o paciente durante todo o período internado, porém a morte ocorreu no período noturno, quando se encontrava somente o médico plantonista, que estava em seu primeiro plantão. Em relação ao preenchimento da declaração de óbito, assinale a alternativa que evidencia a conduta mais adequada.",
-      "alternativas": {
-        "A": "O médico plantonista deve aguardar que o médico diarista chegue pela manhã para que seja preenchida a declaração de óbito.",
-        "B": "O médico plantonista deve preencher a declaração de óbito e assinalar a opção “médico assistente”, entre as opções de quem preencheu a declaração, uma vez que ele era o médico assistente no momento da morte.",
-        "C": "Embora já tenham se passado meses desde o diagnóstico, a causa base deverá ser preenchida como sendo Covid-19.",
-        "D": "A causa imediata deverá ser preenchida como parada cardiorrespiratória."
-      },
-      "correta": "C",
-      "explicacao": "Embora já tenham se passado meses desde o diagnóstico, a causa base deverá ser preenchida como sendo Covid-19. GABARITO: ALTERNATIVA C Estrategistas, questão ampla e complexa abordando o tema Declaração de Óbito (DO). Vamos juntos revisar esse tema! Esse comentário será dividido em três partes a saber: 1) CONCEITOS FUNDAMENTAIS PARA A COMPREENSÃO DO TEMA DECLARAÇÃO DE ÓBITO. 2) ENTENDENDO COMO PREENCHER UMA DECLARAÇÃO DE ÓBITO. 3) RESPONSABILIDADE ÉTICO-LEGAL PELO PREENCHIMENTO DA DECLARAÇÃO DE ÓBITO. Vamos lá! --- Conceitos fundamentais para compreensão da DO: 1) Morte natural: é toda morte caracterizada por não haver um fator externo determinante. Além disso, costuma ser uma morte esperada e previsível. 2) Morte por causa externa: é toda morte causada por fatores externos não naturais, geralmente oriunda de eventos traumáticos violentos intencionais ou não. 3) Médico assistente: é o profissional médico responsável pelo acompanhamento e cuidado daquele paciente. 4) Médico substituto: é o profissional médico responsável pelo cuidado pontual do paciente, na vacância do médico assistente. --- Preenchimento da DO: Basicamente, para os concursos de Residência Médica, é extremamente relevante saber como preencher, em específico, o campo 40 da DO, intitulado “Causas da Morte”. É através dele que o médico irá apontar, de forma ordenada, todos os eventos que culminaram diretamente e indiretamente na morte do indivíduo. Em termos práticos, o campo 40 é separado em duas partes a saber: # Parte I: nela, iremos incluir em ordem cronológica todos os fatores que contribuíram diretamente para a cadeia de óbito, ou seja, os eventos que somados foram de fato relevantes para produzir a morte do indivíduo. Teremos um total de quatro linhas para preencher, a, b, c e d. O que deve ficar claro é que nem sempre iremos preencher todas elas, já que muitas vezes não teremos quatro elementos contribuindo para a cadeia de óbito do indivíduo. Portanto, devemos ter em mente o seguinte: a linha “a” deve ser sempre preenchida com a causa terminal de morte - evento final e cabal para o falecimento. As demais linhas, b, c e d, devem ser preenchidas de acordo com o número de eventos presentes na cadeia de óbito, sendo sempre a última linha, que pode ser b, c ou d, preenchida com a causa básica do óbito, que é definida como \"a doença ou lesão que iniciou a cadeia de acontecimentos patológicos que conduziram diretamente à morte, ou as circunstâncias do acidente ou violência que produziram a lesão fatal\". Com isso, entendemos que a linha “a” sempre recebe a causa terminal, e as demais linhas serão preenchidas de acordo com o número de eventos presentes na cadeia final de óbito. Por exemplo: se tivermos apenas dois eventos: linha “a” recebe a causa terminal e a linha “b” a causa básica; três eventos: linha “a” causa terminal, linha “b” causa intermediária, ou seja, aquela entre a causa básica e terminal, e linha “c” a causa básica; quatro eventos: linha “a”, causa terminal, “b” e “c”, causas intermediárias, e linha “d” causa básica. # Parte II: aqui, iremos preencher as condições comórbidas que o indivíduo possui, que contribuem para a deterioração do seu estado de saúde, mas não foram responsáveis por desencadear a cadeia final de morte, ou seja, o óbito daquela pessoa não dependeu diretamente dessa ou dessas condições. Em tempo, é importante salientar que modos de morte que não constituam-se como causas específicas (ex: parada cardiorrespiratória, falência orgânica múltipla, etc) não devem ser colocados na DO, já que não irão contribuir com a real compreensão da cadeia terminal de óbito do sujeito. A seguir, vamos ver uma imagem esquemática de como deve ser feito o preenchimento da DO no seu campo 40. --- Responsabilidade ético-legal pelo preenchimento da DO: # Óbito por causa natural ocorrido em estabelecimento de saúde: aqui, se houverem informações suficientes para a emissão da DO, os médicos assistentes ou plantonistas que acompanhavam o paciente no estabelecimento devem emitir a declaração. Caso não seja possível relacionar o óbito com o quadro clínico registrado no prontuário, o serviço de verificação ao óbito (SVO) poderá ser acionado para emissão da DO. # Óbito por causa natural, ocorrido fora do estabelecimento de saúde, com assistência médica: aqui, apesar do paciente falecer “longe dos olhos” da equipe de saúde, havia acompanhamento do quadro, o que pode ser feito pelo médico particular, pelo ambulatório de especialidades, ou ainda por alguma equipe de Estratégia da Saúde da Família. Nesse contexto, o médico que cuidava do paciente deve emitir a DO, desde que descartada morte violenta ou suspeita, e que o assistente consiga estabelecer nexo entre a morte e o estado de saúde do paciente. # Óbito por causa natural, ocorrido fora do estabelecimento de saúde, sem assistência médica, em local com serviço de verificação de óbito (SVO): esse é o típico caso para o SVO, já que não existem indícios de morte violenta, porém não existe assistente que conhecia o quadro de saúde do falecido. Portanto, será necessário o exame necroscópico pelo patologista. # Óbito por causa natural, ocorrido fora do estabelecimento de saúde, sem assistência médica, em local sem serviço de verificação de óbito (SVO): nos locais sem SVO, a DO deverá ser fornecida pelos médicos do serviço público de saúde mais próximo do local onde ocorreu o evento e, na sua ausência, por qualquer médico da localidade. # Óbitos por causa externa (violenta e/ou acidental ou suspeita): nessa situação, existe a demanda explícita de exame necroscópico por médico perito, o que é feito no Instituto Médico Legal (IML). Assim, a emissão da DO ficará a cargo desse profissional. Nas localidades que não possuem IML, qualquer médico ou profissional investido pela autoridade judicial ou policial na função de perito legista eventual (ad hoc) poderá emitir a DO. Compreendidos esses conceitos e tendo em mente a situação problema trazida pela banca, vamos avaliar cada uma das alternativas.",
-      "banca": "SES-DF",
-      "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
-      "ano": 2024,
-      "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-df-2024-0017_44_0.png",
-        "pv-df-2024-0017_45_0.png"
-      ],
-      "_id_original": "4000213094",
-      "_pdf": "17. SES-DF.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-df-2024-0017_44_0.png",
-        "data/questoes-img/pv-df-2024-0017_45_0.png"
       ]
     },
     {
@@ -6144,29 +5526,6 @@
         "data/questoes-img/pv-pe-2025-0150_303_0.png"
       ],
       "imagens_explicacao": []
-    },
-    {
-      "id": "pv-ufr-2024-0042",
-      "area": "Obstetrícia",
-      "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
-      "enunciado": "Menina, 1 mês, nascida a termo sem intercorrências, inicia quadro de tosse repetida e persistente com ruído metálico, predominantemente expiratório e episódios de cianose. Mãe não fez pré-natal, mas realizou sorologias para investigação de hepatite B e C, vírus da imunodeficiência humana (HIV) e VDRL (venereal disease research laboratory), com todos os exames negativos no momento do parto. Refere que o quadro de tosse foi precedido por 10 dias de secreção em via respiratória e que possui outra criança, de 5 anos, em casa com sintomas catarrais há 3 semanas. Analise as afirmativas a seguir, considerando-se a principal hipótese diagnóstica: I) Espera-se observar a presença de leucocitose e neutrofilia ao hemograma. II) O início de macrolídeos ou sulfametoxazol-trimetoprim nesta fase dessa doença reduz o contágio, mas não interfere no seu curso. III) O esquema de vacinação pentavalente aos 2, 4 e 6 meses + dois reforços (entre 15- 18 meses e entre 4-6 anos) garante 70% a 90% de eficácia na prevenção desta doença. Pode-se afirmar que está(ão) correta(s) a(s) afirmativa(s):",
-      "alternativas": {
-        "A": "I",
-        "B": "II e III",
-        "C": "II",
-        "D": "I e III"
-      },
-      "correta": "B",
-      "explicacao": "II e III Olá Coruja, Vamos salientar os principais dados do enunciado: -lactente de 1 mês, -crises de tosse metálica com cianose, -mãe não realizou pré-natal adequado, (não deve ter recebido a DTPa) -irmão de 5 anos com sintomas catarrais. Esses dados são sugestivos da coqueluche, que é causada predominantemente pela bactéria Bordetella pertussis.. Essa bactéria é um cocobacilo Gram negativo, aeróbia, capsulada e com fímbrias, que causa a doença através de antígenos e toxinas, que lesam localmente a árvore respiratória. A principal toxina implicada na doença é a pertussis, que também causa uma depressão no sistema imune do paciente, favorecendo uma superinfecção viral ou bacteriana. A doença ocorre principalmente nos menores de um ano de idade. Ressalta-se que nesse grupo, aproximadamente 70% são menores de três meses de idade, que são mais suscetíveis à doença e à gravidade, com maior risco de vida. Quanto menor o bebê, maior o risco, uma vez que não receberam o esquema vacinal completo e que o aleitamento materno não protege contra esta doença, exceto, se a mãe tiver sido vacinada com a DTPa durante a gestação ou no puerpério. Geralmente o lactente adquire a coqueluche de um contato próximo, que normalmente é a própria mãe, ou familiares próximos como pai e irmãos, mas pode ser, inclusive, dos profissionais de saúde. A coqueluche acomete principalmente traqueia e brônquios, e isto explica, em parte, a sintomatologia. Ela ocorre em 3 fases: - Catarral: dura 1 a 2 semanas, apresenta sintomas leves como de quaisquer infecções de vias aéreas superiores (IVAS), com febre baixa, sendo indistinguível das outras IVAS nesta fase. Observa-se também tosse, mais comumente seca, coriza e pode haver mal-estar discreto, em crianças maiores. Lembrando que esta fase é a de maior transmissão, quando a coqueluche, muitas vezes, ainda nem é suspeitada. Queria chamar a sua atenção para o fato de se chamar “fase catarral”, mas a tosse ser seca! No final deste período, a tosse seca vai se intensificando e passa a ocorrer em surtos, cada vez mais frequentes e intensos e passamos para próxima fase. – Fase paroxística: dura 2 a 6 semanas. Como o nome diz, iniciam-se os paroxismos de tosse seca, com duração de menos de 45 segundos, nos quais o paciente tem uma súbita crise de vários episódios seguidos de uma tosse curta, seguida de uma dificuldade de inspirar, então, o paciente costuma forçar a inspiração súbita e prolongadamente, causando um barulho característico, que é o guincho. O guincho é, portanto, inspiratório e ocorre pela passagem forçada e prolongada do ar pela glote estreitada. - Fase de convalescença: dura também mais 2 a 6 semanas, somem os paroxismos e, portanto, os guinchos, e volta a tosse “normal”, que pode durar até 3 meses. Um dado curioso é que se o paciente apresentar um quadro de IVAS, a tosse paroxística pode reaparecer. É a fase final, de recuperação do paciente. Os exames quase sempre são solicitados e ajudam no diagnóstico, apesar de não serem específicos. A radiografia de tórax, tem como padrão mais frequente os opacidades peri- hilares, chamado de “coração borrado ou franjado” (ou ainda, “felpudo”) porque as bordas cardíacas não são nítidas, devido às opacidades pulmonares. Mas, fique atento, pois a radiografia de tórax normal não exclui o diagnóstico de coqueluche! O hemograma (HMG) é um grande auxílio ao diagnóstico da coqueluche. As alterações laboratoriais típicas são desencadeadas pela toxina pertussis e se caracterizam por leucocitose com linfocitose, que se intensificam na fase paroxística. O diagnóstico específico pode ser feito por cultura para identificação da B. pertussis em material coletado da nasofaringe. É considerado o “padrão ouro” do diagnóstico e que deve ser feito em coletas realizadas na fase aguda, antes do início do tratamento antibiótico ou, no máximo, em até 3 dias de seu início. Porém, esse exame é de difícil realização técnica. Outro exame específico é o da reação em cadeia da polimerase em tempo real (RT-PCR), que também deve ser realizado antes da introdução antibiótica ou em até 3 dias dela, mas que pode ser realizado posteriormente durante a fase aguda da doença. O RT-PCR pode detectar antígenos da Bordetella até em pacientes que fizeram uso de antibiótico e que foram vacinados, sendo positivo até mesmo após a segunda semana da doença. O tratamento da coqueluche deve ser feito com macrolídeos. Deve ser iniciado tão logo quanto seja feita a suspeita. Anteriormente, o tratamento era realizado com eritromicina, contudo, esse medicamento causa muitos efeitos colaterais gastrointestinais e sua posologia de 6 em 6 horas não facilita a adesão ao tratamento. Além disso, a eritromicina não pode ser usada em menores de 1 mês, por causa do risco de causar estenose hipertrófica do piloro. Atualmente, indica-se como primeira opção a azitromicina, por apresentar menos efeitos colaterais e posologia mais prática (1 vez ao dia) que facilita seu uso e adesão em relação à eritromicina. O antibiótico deve ser iniciado o mais precocemente possível, pois reduz a intensidade dos sintomas, bem como a duração da doença na fase catarral e, principalmente, diminui sua transmissibilidade, porque erradica a Bordetella em aproximadamente dois dias, mas algumas referências estimam tempo de 5 a 7 dias para que isto ocorra. Lembrando que uma vez iniciado tratamento, consideramos que a transmissão pode se dar por até mais 5 dias do início do antibiótico, período em que deve ser mantido o isolamento do paciente. Vamos analisar as afirmações: I) INCORRETA, O hemograma típico é com leucocitose e linfocitose. II) CORRETA, o tratamento não leva a mudanças consistentes na evolução do quadro, mas rompe a cadeia de transmissão. III) CORRETA, porque indicou o esquema de prevenção da doença por meio da vacina",
-      "banca": "UFRJ",
-      "instituicao": "UFRJ",
-      "ano": 2024,
-      "fonte": "UFRJ 2024",
-      "dificuldade": "Média",
-      "imagens": [],
-      "_id_original": "4000208963",
-      "_pdf": "6. UFRJ.pdf"
     },
     {
       "id": "pv-ena-2024-0031",
@@ -7686,35 +7045,6 @@
       ]
     },
     {
-      "id": "pv-df-2024-0086",
-      "area": "Obstetrícia",
-      "subarea": "Geral",
-      "sub_subarea": "",
-      "enunciado": "Um paciente de 30 anos de idade foi admitido no pronto-socorro após um acidente automobilístico de alta velocidade. Ele estava usando cinto de segurança no momento do impacto. O paciente queixava-se de dor abdominal intensa e distensão. Ao exame físico, apresentou PA = 90 mmHg x 60 mmHg, FC = 120 bpm, FR = 24 irpm, temperatura = 36,5 ºC, SatO2 = 92% em a.a, o abdome rígido à palpação, com sinais de equimose e hematomas difusos, e ausculta abdominal diminuída. Exames complementares demonstraram hemograma com hematócrito diminuído e base excess -10, radiografia de tórax sem fraturas costais e FAST livre de líquido intraperitoneal. Considerando esse caso clínico, assinale a alternativa correspondente à conduta mais apropriada para esse paciente com suspeita de trauma abdominal.",
-      "alternativas": {
-        "A": "Observação clínica e repetição da ultrassonografia em seis horas.",
-        "B": "Tentativa de estabilização hemodinâmica com cristaloides até a chegada de sangue. Caso haja estabilidade, deve realizar tomografia computadorizada de abdome total sem contraste.",
-        "C": "Tentativa de estabilização hemodinâmica com cristaloides até a chegada de sangue. Caso haja estabilidade, deve realizar tomografia computadorizada de abdome total com contraste.",
-        "D": "Intervenção cirúrgica exploratória imediata."
-      },
-      "correta": "C",
-      "explicacao": "Tentativa de estabilização hemodinâmica com cristaloides até a chegada de sangue. Caso haja estabilidade, deve realizar tomografia computadorizada de abdome total com contraste. GABARITO OFICIAL: C GABARITO EMED: D Questão contraversa que merecia anulação! Estamos diante de um paciente vítima de acidente automobilístico com trauma abdominal fechado apresentando dor abdominal intensa, equimoses, hematomas e abdome rígido à palpação. Um abdome tenso, rígido, indica contração muscular involuntária, ou seja, sinal de peritonite, o que já é o suficiente para se indicar o laparotomia imediata. Além disso, foi admitido com instabilidade hemodinâmica e FAST positivo, o que também já indicaria laparotomia. BE - 10 = acidose metabólica, que faz parte da tríade letal, junto com hipotermia e coagulopatia. Dessa forma, a melhor conduta para esse paciente seria reanimação volêmica com Ringer 1000 ml aquecido, ácido tranexâmico, possível transfusão de hemoderivados e laparotomia exploradora. Vamos analisar as alternativas:",
-      "banca": "SES-DF",
-      "instituicao": "DF - Secretaria de Saúde do Distrito Federal - SES",
-      "ano": 2024,
-      "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
-      "dificuldade": "Média",
-      "imagens": [
-        "pv-df-2024-0086_171_0.png"
-      ],
-      "_id_original": "4000213163",
-      "_pdf": "17. SES-DF.pdf",
-      "imagens_enunciado": [],
-      "imagens_explicacao": [
-        "data/questoes-img/pv-df-2024-0086_171_0.png"
-      ]
-    },
-    {
       "id": "pv-df-2025-0101",
       "area": "Obstetrícia",
       "subarea": "Geral",
@@ -8050,6 +7380,29 @@
       "imagens": [],
       "_id_original": "4000205871",
       "_pdf": "16. HIAE.pdf"
+    },
+    {
+      "id": "s14-053",
+      "numero": 53,
+      "area": "Obstetrícia",
+      "enunciado": "Paciente de 22 anos \nrefere atraso menstrual de 8 semanas e vem ao pronto-\nsocorro com queixa de sangramento por via vaginal há 4 horas. \nRefere cólica leve associada e nega outros sintomas. Nega a \nrealização de ultrassonografia prévia. Realizou beta-hCG com \nresultado de 1600mUi/mL e ultrassonografia transvaginal que \nevidenciou eco endometrial de 12mm, sem saco gestacional \nintrauterino e sem massas anexiais. Diante desse quadro, o \nque é correto afirmar?",
+      "alternativas": {
+        "A": "Trata-se de um aborto completo e a orientação é realizar apenas tipagem sanguínea da paciente.",
+        "B": "O quadro é compatível com gestação ectópica, devendo ser administrado metotrexato pelos baixos níveis de beta-hCG.",
+        "C": "É necessário repetir os exames para confirmar a hipótese diagnóstica.",
+        "D": "O diagnóstico é de ameaça de abortamento, sem necessidade de exames adicionais."
+      },
+      "correta": "C",
+      "explicacao": "Para avaliar a evolução de uma gestação inicial, é importante comparar os níveis séricos maternos de B-hCG com a ultrassonografia\ntransvaginal. Quando os níveis séricos de B-hCG estão entre 1000 e 2000 mUI/ml, na maioria das vezes, é possível observar saco gestacional\nintraútero. Níveis séricos acima de 3500 mUI/ml e ausência de gestação intrauterina indica gestação ectópica ou não evolutiva.\nO diagnóstico de gravidez intrauterina pode ser feito pela ultrassonografia obstétrica inicial a partir de 4,5 a 5 semanas de gestação, com a\nvisualização do saco gestacional (SG).\nA medida do saco gestacional é realizada pela média dos três diâmetros, calculando-se o diâmetro médio do saco gestacional (DMSG). Pela\nmedida do DMSG é possível estimar a idade gestacional antes de 6 semanas, quando ainda não é possível medir adequadamente o embrião.\nA vesícula vitelínica (VV) se torna visível ao redor de 5 semanas de gestação e normalmente se degrada entre 10 e 12 semanas. Essa é a\nprimeira estrutura a aparecer dentro do saco gestacional, ajudando a confirmar uma gestação intrauterina, pois diferencia um saco gestacional\nverdadeiro de um pseudossaco gestacional que pode ocorrer na gestação ectópica.\nQuando o DMSG é ≥ 8mm, geralmente já é possível visualizar a vesícula vitelínica. Se essa estrutura não é observada, podemos estar diante\nde uma gestação não evolutiva, mas a confirmação de gestação inviável só pode ser feita com o acompanhamento ultrassonográfico seriado\nou quando não se visualiza vesícula vitelínica e embrião com DMSG ≥ 25 mm.\nO embrião pode ser visualizado a partir de 5,5 a 6 semanas, e sua medida é feita pela avaliação do comprimento cabeça-nádegas (CCN) após\n6 semanas de gestação.\nA atividade cardíaca do embrião é visualizada no ultrassom entre 5,5 e 6 semanas. Quando não se observa batimentos cardíacos em\nembrião com 7 mm ou mais, estamos diante de uma gestação inviável.\nO fluxograma abaixo resume a interpretação\n\nEstratégia\nMED\n89\nNo caso desta paciente, com esse atraso menstrual, seria esperado ao menos visualizar o saco gestacional. Porém, sem o beta-hCG acima do\nnível discriminatório, não podemos confirmar nenhum diagnóstico.\nIncorreta a alternativa A, pois, sem ultrassonografia prévia, não podemos fechar esse diagnóstico.\nIncorreta a alternativa B, pois não há nenhum achado que indique uma gestação ectópica.\nCorreta a alternativa C, pois devem ser repetidos beta-hCG e ultrassonografia em 48 horas para avaliar o quadro.\nIncorreta a alternativa D, pois, para falar em ameaça de abortamento, teríamos que ter uma ultrassonografia com gestação evolutiva.",
+      "imagens": [
+        "data/simulados/imgs/14-simulado/q53_img1.jpeg"
+      ],
+      "_simulado": "14-simulado",
+      "_edicao": "14",
+      "subarea": "Geral",
+      "_area_slug": "clinica-medica",
+      "sub_subarea": "",
+      "banca": "ESTRATÉGIA MED"
     }
   ]
 }

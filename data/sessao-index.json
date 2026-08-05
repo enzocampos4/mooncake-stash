@@ -1,36 +1,9 @@
 {
-  "s1-003": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-007": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
   "s1-009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Hipertensão Arterial Sistêmica (HAS)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-014": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -44,38 +17,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
   },
-  "s1-020": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
   "s1-022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Derrame Pleural",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-026": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Dermatoses eczematosas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-028": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hepatologia",
-    "subsub": "Cirrose",
+    "subsub": "Pneumonias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -89,15 +35,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
   },
-  "s1-036": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Distúrbios do potássio",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
   "s1-039": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -107,29 +44,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
   },
-  "s1-043": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Pneumonia",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
   "s1-048": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-050": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Hiponatremia",
+    "subsub": "Hipertensão Arterial",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -152,29 +71,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
   },
-  "s1-064": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-067": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Hanseníase",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
   "s1-087": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Arritmias Cardíacas",
+    "subsub": "Arritmias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -192,25 +93,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-020": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias hemolíticas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-026": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -219,25 +102,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-043": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Dermatoses infecciosas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-048": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Dermatoses papuloescamosas",
+    "subsub": "Hipertensão Arterial",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -251,38 +116,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-060": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Dermatoses eczematosas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-061": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Controle da água corporal total",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s11-072": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Psiquiatria",
     "subsub": "Internação psiquiátrica",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-073": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Derrame Pleural",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -296,29 +134,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-079": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s11-082": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-087": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Estômago",
+    "subsub": "Hipertensão Arterial",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -354,28 +174,10 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s14-001": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hepatologia",
-    "subsub": "Cirrose",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-003": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Doenças sistêmicas com manifestações reumatológicas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
   },
   "s14-005": {
     "area": "clinica-medica",
@@ -386,65 +188,11 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-010": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-013": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-014": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-017": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-018": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Glomerulopatias",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-021": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-022": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Distúrbios Hidroeletrolíticos",
+    "subsub": "Hipertensão Arterial",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -458,47 +206,11 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-027": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-030": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-032": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-033": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-034": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -507,52 +219,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-036": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Infecção do trato urinário (ITU)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-037": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-038": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-039": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Pneumonia",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-040": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
+    "subsub": "Arritmias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -561,7 +228,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Choque",
+    "subsub": "Hipertensão Arterial",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -575,51 +242,6 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-043": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-044": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-045": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-046": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-047": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-048": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -629,56 +251,11 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-049": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-050": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-051": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Esôfago",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-052": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Coma e Alterações da Consciência",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-053": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-057": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
+    "subsub": "Cefaleia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -692,101 +269,11 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-068": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Estômago",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-069": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-073": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Infecção do trato urinário (ITU)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-074": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Psiquiatria",
     "subsub": "Transtornos do humor",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-075": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-077": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Linfomas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-079": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-084": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-088": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-092": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Esôfago",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-096": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Hiponatremia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -800,38 +287,11 @@
     "ano": 0,
     "fonte": ""
   },
-  "s3-001": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Fisiologia Cardíaca e Eletrocardiograma",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-007": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-011": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
     "subsub": "Doença Renal Crônica",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-012": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -854,15 +314,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-026": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Câncer de Pulmão",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-030": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -881,42 +332,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-036": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Doenças autoimunes do tecido conjuntivo",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-041": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-046": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Valvopatias",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-050": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-052": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -926,83 +341,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-057": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-060": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Controle da água corporal total",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-069": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-071": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "Transtornos do humor",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-076": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Dermatoses infecciosas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-086": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s5-001": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-006": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Linfomas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-014": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -1034,47 +377,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s5-022": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Lesão renal aguda (LRA)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-024": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-030": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
     "subsub": "Câncer de pele",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-032": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Glomerulopatias",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-038": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -1088,38 +395,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s5-042": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Diagnóstico diferencial das artropatias",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-050": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
     "subsub": "Pâncreas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-058": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-075": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -1133,50 +413,14 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s5-083": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Arritmias",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-086": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Hipertensão Arterial",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-090": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s9-003": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-006": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
   "s9-008": {
     "area": "clinica-medica",
@@ -1196,47 +440,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "s9-014": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-015": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
     "subsub": "Aterosclerose e Doença Arterial Coronariana",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-016": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-019": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-025": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -1259,38 +467,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "s9-036": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Imunossuprimidos não-HIV",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-044": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
     "subsub": "Nefrolitíase",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-049": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "Transtornos do humor",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-050": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -1317,7 +498,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -1340,38 +521,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "s9-075": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Intestinos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-083": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-087": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-095": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Hipertensão Arterial",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -1380,7 +534,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Choque",
+    "subsub": "Hipertensão Arterial",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -1560,7 +714,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -1722,7 +876,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -1785,7 +939,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Tuberculose",
+    "subsub": "HIV / AIDS",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -1929,7 +1083,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Pneumonias",
+    "subsub": "Asma",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -2055,7 +1209,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -2172,7 +1326,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -2199,7 +1353,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -2415,7 +1569,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -2424,7 +1578,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Arritmias",
+    "subsub": "Hipertensão Arterial",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -2511,15 +1665,6 @@
     "fonte": "AMRIGS 2024"
   },
   "pv-amr-2024-0055": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "AMRIGS",
-    "ano": 2024,
-    "fonte": "AMRIGS 2024"
-  },
-  "pv-amr-2024-0059": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Geral",
@@ -2649,7 +1794,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -2676,7 +1821,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Miocardite / Pericardite",
+    "subsub": "Hipertensão Arterial",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -3144,7 +2289,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -3396,7 +2541,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Pneumonias",
+    "subsub": "DPOC",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -3572,15 +2717,6 @@
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
-  "pv-ufr-2025-0248": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
   "pv-ufr-2025-0257": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -3675,7 +2811,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -3792,7 +2928,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Miocardite / Pericardite",
+    "subsub": "Hipertensão Arterial",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -3837,7 +2973,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -3945,7 +3081,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Pneumonias",
+    "subsub": "Tuberculose",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3963,7 +3099,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Pneumonias",
+    "subsub": "Tuberculose",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -4107,7 +3243,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -4161,7 +3297,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -4170,7 +3306,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Pneumonias",
+    "subsub": "Asma",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -4620,7 +3756,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Tromboembolismo Pulmonar",
+    "subsub": "Tuberculose",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -4710,7 +3846,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -4854,7 +3990,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -4908,7 +4044,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Hipertensão Arterial",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -5258,8 +4394,8 @@
   "pv-sír-2024-0084": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -5286,7 +4422,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -5439,7 +4575,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Hipertensão Arterial",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -5484,7 +4620,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
+    "subsub": "Doença Arterial Coronariana",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -6605,15 +5741,6 @@
     "ano": 2024,
     "fonte": "AMRIGS 2024"
   },
-  "pv-amr-2025-0164": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "Cardiopatias Acianóticas",
-    "banca": "AMRIGS",
-    "ano": 2025,
-    "fonte": "AMRIGS 2025"
-  },
   "pv-ufr-2024-0065": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -6695,15 +5822,6 @@
     "ano": 2025,
     "fonte": "UERJ 2025"
   },
-  "pv-uer-2025-0164": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "Cardiopatias Acianóticas",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
   "pv-sp-2024-0028": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -6740,15 +5858,6 @@
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
   },
-  "pv-sp-2025-0144": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
   "pv-sp-2025-0148": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
@@ -6757,15 +5866,6 @@
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-uni-2024-0003": {
-    "area": "clinica-medica",
-    "area_nome": "Clinica Medica",
-    "sub": "Puericultura",
-    "subsub": "Crescimento e Desenvolvimento",
-    "banca": "UNIFESP",
-    "ano": 2024,
-    "fonte": "UNIFESP 2024"
   },
   "pv-sír-2025-0116": {
     "area": "clinica-medica",
@@ -7190,20 +6290,173 @@
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
   },
+  "s9-046": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Urologia",
+    "subsub": "Infecção urinária",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-063": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Urologia",
+    "subsub": "Infecção urinária",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-ba-2024-0022": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-ba-2024-0023": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-ba-2024-0024": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-ba-2025-0067": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "pv-ba-2025-0068": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "pv-ba-2025-0069": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "s1-043": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Infectologia",
+    "subsub": "Pneumonia",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s11-061": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Nefrologia",
+    "subsub": "Controle da água corporal total",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-073": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Pneumologia",
+    "subsub": "Derrame Pleural",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-033": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Dermatologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-051": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Gastroenterologia",
+    "subsub": "Esôfago",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-068": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Gastroenterologia",
+    "subsub": "Estômago",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-069": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Cardiologia",
+    "subsub": "Choque",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-026": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Pneumologia",
+    "subsub": "Câncer de Pulmão",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-041": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-090": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
   "s1-001": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Urgências Abdominais",
     "subsub": "Obstrução intestinal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-008": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Proctologia",
-    "subsub": "Fissura anal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -7222,15 +6475,6 @@
     "area_nome": "Cirurgia",
     "sub": "Urgências Abdominais",
     "subsub": "Diverticulite aguda",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-024": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Infantil",
-    "subsub": "Estenose hipertrófica de piloro",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -7262,38 +6506,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
   },
-  "s1-047": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urologia",
-    "subsub": "Hiperplasia prostática benigna",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
   "s1-053": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Complicações Pós-Operatórias",
     "subsub": "Complicações respiratórias",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-058": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Hérnias da Parede Abdominal",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-063": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Trauma",
-    "subsub": "ATLS e abordagem primária/secundária",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -7379,15 +6596,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-007": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Torácica",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s11-010": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -7415,15 +6623,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-024": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Hérnias da Parede Abdominal",
-    "subsub": "Hérnia inguinal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s11-030": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -7437,33 +6636,6 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Geral",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-038": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urologia",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-041": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urologia",
-    "subsub": "Infecção urinária",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-045": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Torácica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -7532,15 +6704,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-090": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s14-007": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -7568,15 +6731,6 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-059": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Trauma",
-    "subsub": "ATLS e abordagem primária/secundária",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-064": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -7591,15 +6745,6 @@
     "area_nome": "Cirurgia",
     "sub": "Urgências Abdominais",
     "subsub": "Apendicite aguda",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-085": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Hérnias da Parede Abdominal",
-    "subsub": "Hérnia inguinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -7627,15 +6772,6 @@
     "area_nome": "Cirurgia",
     "sub": "Hérnias da Parede Abdominal",
     "subsub": "Hérnia inguinal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-010": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Trauma",
-    "subsub": "Trauma abdominal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -7685,15 +6821,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-045": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Trauma",
-    "subsub": "Trauma abdominal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-051": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -7730,15 +6857,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-074": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Princípios da Anestesiologia",
-    "subsub": "Anestesia geral",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-079": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -7766,29 +6884,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-090": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Proctologia",
-    "subsub": "Fissura anal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-092": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Bariátrica",
     "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-094": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Trauma",
-    "subsub": "Trauma cranioencefálico (TCE)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -7829,15 +6929,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s5-035": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urgências Abdominais",
-    "subsub": "Abdome agudo perfurativo",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-039": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -7865,29 +6956,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s5-060": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urologia",
-    "subsub": "Hiperplasia prostática benigna",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-065": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Urgências Abdominais",
     "subsub": "Obstrução intestinal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-067": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urgências Abdominais",
-    "subsub": "Abdome agudo perfurativo",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -7919,15 +6992,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s5-076": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Proctologia",
-    "subsub": "Fissura anal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-082": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -7942,15 +7006,6 @@
     "area_nome": "Cirurgia",
     "sub": "Urologia",
     "subsub": "Câncer de próstata",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-087": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Princípios da Anestesiologia",
-    "subsub": "Anestesia local e sedação",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -8000,15 +7055,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "s9-023": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Avaliação Pré-Operatória",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-024": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -8045,15 +7091,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "s9-046": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urologia",
-    "subsub": "Infecção urinária",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-048": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -8068,15 +7105,6 @@
     "area_nome": "Cirurgia",
     "sub": "Trauma",
     "subsub": "ATLS e abordagem primária/secundária",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-063": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urologia",
-    "subsub": "Infecção urinária",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -8099,15 +7127,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "s9-078": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urgências Abdominais",
-    "subsub": "Apendicite aguda",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-084": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -8122,33 +7141,6 @@
     "area_nome": "Cirurgia",
     "sub": "Urologia",
     "subsub": "Hiperplasia prostática benigna",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-091": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urgências Abdominais",
-    "subsub": "Obstrução intestinal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-093": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urologia",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-097": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Urologia",
-    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -8206,15 +7198,6 @@
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
-  },
-  "pv-ena-2025-0125": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Apendicite",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
   },
   "pv-ena-2025-0127": {
     "area": "cirurgia",
@@ -8293,15 +7276,6 @@
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Bariátrica",
     "subsub": "",
-    "banca": "SES-PE",
-    "ano": 2025,
-    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
-  },
-  "pv-pe-2025-0133": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -8392,15 +7366,6 @@
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Abdominal",
     "subsub": "Apendicite",
-    "banca": "PSU-MG",
-    "ano": 2025,
-    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
-  },
-  "pv-mg-2025-0135": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -8540,15 +7505,6 @@
     "ano": 2024,
     "fonte": "UERJ 2024"
   },
-  "pv-uer-2024-0061": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
   "pv-uer-2024-0066": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -8653,15 +7609,6 @@
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Oncológica",
     "subsub": "Câncer Colorretal",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
-  "pv-hcp-2024-0075": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -8801,15 +7748,6 @@
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
   },
-  "pv-sp-2024-0036": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
-    "banca": "SUS-SP",
-    "ano": 2024,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
-  },
   "pv-sp-2024-0065": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -8881,24 +7819,6 @@
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0168": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0208": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
-    "banca": "USP-SP",
-    "ano": 2025,
-    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
   },
   "pv-uni-2024-0059": {
     "area": "cirurgia",
@@ -9125,24 +8045,6 @@
     "ano": 2024,
     "fonte": "HIAE 2024"
   },
-  "pv-hia-2024-0052": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Pancreatite Aguda",
-    "banca": "HIAE",
-    "ano": 2024,
-    "fonte": "HIAE 2024"
-  },
-  "pv-hia-2024-0053": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Pancreatite Aguda",
-    "banca": "HIAE",
-    "ano": 2024,
-    "fonte": "HIAE 2024"
-  },
   "pv-hia-2024-0056": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -9211,15 +8113,6 @@
     "area_nome": "Cirurgia",
     "sub": "Geral",
     "subsub": "",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
-  "pv-hia-2025-0133": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Câncer de Mama",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -9350,15 +8243,6 @@
     "ano": 2025,
     "fonte": "SUS-BA 2025"
   },
-  "pv-ena-2024-0021": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
   "pv-ena-2024-0065": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -9458,15 +8342,6 @@
     "ano": 2025,
     "fonte": "ENARE 2025"
   },
-  "pv-ena-2025-0139": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Emergências / UTI",
-    "subsub": "",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
   "pv-ena-2025-0167": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -9475,15 +8350,6 @@
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
-  },
-  "pv-pe-2024-0041": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SES-PE",
-    "ano": 2024,
-    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
   },
   "pv-pe-2024-0077": {
     "area": "cirurgia",
@@ -9701,15 +8567,6 @@
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
-  "pv-ufr-2025-0222": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
   "pv-uer-2024-0071": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -9809,24 +8666,6 @@
     "ano": 2024,
     "fonte": "HCPA 2024"
   },
-  "pv-hcp-2024-0072": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
-  "pv-hcp-2024-0094": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Infectologia",
-    "subsub": "Sepse",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
   "pv-hcp-2025-0144": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -9862,15 +8701,6 @@
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
-  },
-  "pv-fam-2024-0061": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Emergências / UTI",
-    "subsub": "Choque",
-    "banca": "FAMERP",
-    "ano": 2024,
-    "fonte": "FAMERP 2024"
   },
   "pv-fam-2025-0086": {
     "area": "cirurgia",
@@ -10025,33 +8855,6 @@
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
   },
-  "pv-sp-2025-0106": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Infectologia",
-    "subsub": "Antibioticoterapia",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0107": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Infectologia",
-    "subsub": "Tuberculose",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0108": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Infectologia",
-    "subsub": "Tuberculose",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
   "pv-sír-2024-0070": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -10087,15 +8890,6 @@
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
-  },
-  "pv-sír-2025-0123": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Infectologia",
-    "subsub": "Antibioticoterapia",
-    "banca": "Sírio-Libanês",
-    "ano": 2025,
-    "fonte": "Sírio-Libanês 2025"
   },
   "pv-sír-2025-0130": {
     "area": "cirurgia",
@@ -10147,15 +8941,6 @@
     "area_nome": "Cirurgia",
     "sub": "Cardiologia",
     "subsub": "Doença Arterial Coronariana",
-    "banca": "HIAE",
-    "ano": 2024,
-    "fonte": "HIAE 2024"
-  },
-  "pv-hia-2024-0029": {
-    "area": "cirurgia",
-    "area_nome": "Cirurgia",
-    "sub": "Infectologia",
-    "subsub": "Antibioticoterapia",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -10376,14 +9161,788 @@
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
   },
-  "pv-ba-2025-0065": {
+  "s14-097": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Neoplasia intraepitelial cervical (NIC)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-006": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-035": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s9-018": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de ovário",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-069": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Doença Inflamatória Pélvica (DIP)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-hcp-2024-0068": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-sír-2024-0021": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Geral",
     "subsub": "",
-    "banca": "SUS-BA",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-df-2024-0037": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Pneumologia",
+    "subsub": "DPOC",
+    "banca": "SES-DF",
+    "ano": 2024,
+    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
+  },
+  "pv-df-2024-0085": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SES-DF",
+    "ano": 2024,
+    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
+  },
+  "s1-003": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-020": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-028": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-036": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Distúrbios do potássio",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-050": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Hiponatremia",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-064": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-067": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Dermatologia",
+    "subsub": "Hanseníase",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s11-026": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-043": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses infecciosas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-048": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses papuloescamosas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-060": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses eczematosas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-087": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Gastroenterologia",
+    "subsub": "Estômago",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-001": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-003": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Reumatologia",
+    "subsub": "Doenças sistêmicas com manifestações reumatológicas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-014": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-022": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Distúrbios Hidroeletrolíticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-032": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-034": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "Asma",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-036": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Infecção do trato urinário (ITU)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-037": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-039": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Pneumonia",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-044": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Choque",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-046": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-047": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-077": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Linfomas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-088": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-092": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Gastroenterologia",
+    "subsub": "Esôfago",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-007": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-036": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-069": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-071": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Psiquiatria",
+    "subsub": "Transtornos do humor",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-076": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses infecciosas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-086": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-032": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Glomerulopatias",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-042": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Reumatologia",
+    "subsub": "Diagnóstico diferencial das artropatias",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-083": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Arritmias",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s9-003": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-006": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-016": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-025": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-049": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Psiquiatria",
+    "subsub": "Transtornos do humor",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-050": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Nefrologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-075": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-083": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-amr-2024-0059": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "AMRIGS",
+    "ano": 2024,
+    "fonte": "AMRIGS 2024"
+  },
+  "pv-ufr-2025-0248": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "UFRJ",
     "ano": 2025,
-    "fonte": "SUS-BA 2025"
+    "fonte": "UFRJ 2025"
+  },
+  "pv-amr-2025-0164": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiopatia Congênita",
+    "subsub": "Cardiopatias Acianóticas",
+    "banca": "AMRIGS",
+    "ano": 2025,
+    "fonte": "AMRIGS 2025"
+  },
+  "pv-uer-2025-0164": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiopatia Congênita",
+    "subsub": "Cardiopatias Acianóticas",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-sp-2025-0144": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Vacinação",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-uni-2024-0003": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Crescimento e Desenvolvimento",
+    "banca": "UNIFESP",
+    "ano": 2024,
+    "fonte": "UNIFESP 2024"
+  },
+  "s1-008": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Proctologia",
+    "subsub": "Fissura anal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-024": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia Infantil",
+    "subsub": "Estenose hipertrófica de piloro",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-047": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Urologia",
+    "subsub": "Hiperplasia prostática benigna",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-058": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s11-038": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Urologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-045": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia Torácica",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-090": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-085": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-045": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Trauma",
+    "subsub": "Trauma abdominal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-074": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Princípios da Anestesiologia",
+    "subsub": "Anestesia geral",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-094": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Trauma",
+    "subsub": "Trauma cranioencefálico (TCE)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-035": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-060": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Urologia",
+    "subsub": "Hiperplasia prostática benigna",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-067": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s9-023": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Avaliação Pré-Operatória",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-078": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-091": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-097": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Urologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-ena-2025-0125": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "Apendicite",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-pe-2025-0133": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "Hérnias",
+    "banca": "SES-PE",
+    "ano": 2025,
+    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
+  },
+  "pv-sp-2025-0208": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "",
+    "banca": "USP-SP",
+    "ano": 2025,
+    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
+  },
+  "pv-hia-2024-0052": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "Pancreatite Aguda",
+    "banca": "HIAE",
+    "ano": 2024,
+    "fonte": "HIAE 2024"
+  },
+  "pv-hia-2024-0053": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "Pancreatite Aguda",
+    "banca": "HIAE",
+    "ano": 2024,
+    "fonte": "HIAE 2024"
+  },
+  "pv-hia-2025-0133": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia Oncológica",
+    "subsub": "Câncer de Mama",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-ena-2024-0021": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-hcp-2024-0072": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-hcp-2024-0094": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Sepse",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-sír-2025-0123": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Antibioticoterapia",
+    "banca": "Sírio-Libanês",
+    "ano": 2025,
+    "fonte": "Sírio-Libanês 2025"
   },
   "s1-002": {
     "area": "pediatria",
@@ -10453,15 +10012,6 @@
     "area_nome": "Pediatria",
     "sub": "Cardiologia Pediátrica",
     "subsub": "Cardiopatias congênitas cianóticas",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-045": {
-    "area": "pediatria",
-    "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Crescimento e desenvolvimento",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -10664,15 +10214,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-062": {
-    "area": "pediatria",
-    "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s11-064": {
     "area": "pediatria",
     "area_nome": "Pediatria",
@@ -10799,15 +10340,6 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-031": {
-    "area": "pediatria",
-    "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-055": {
     "area": "pediatria",
     "area_nome": "Pediatria",
@@ -10867,15 +10399,6 @@
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
     "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s14-082": {
-    "area": "pediatria",
-    "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "Incompatibilidade Rh/ABO",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -11038,15 +10561,6 @@
     "area_nome": "Pediatria",
     "sub": "Puericultura",
     "subsub": "Aleitamento materno e artificial",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-095": {
-    "area": "pediatria",
-    "area_nome": "Pediatria",
-    "sub": "Cardiologia Pediátrica",
-    "subsub": "Insuficiência cardíaca na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -14525,15 +14039,6 @@
     "ano": 2024,
     "fonte": " 2024"
   },
-  "pv-sp-2024-0057": {
-    "area": "pediatria",
-    "area_nome": "Pediatria",
-    "sub": "Pneumologia",
-    "subsub": "Asma",
-    "banca": "SUS-SP",
-    "ano": 2024,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
-  },
   "pv-sp-2024-0103": {
     "area": "pediatria",
     "area_nome": "Pediatria",
@@ -16802,20 +16307,1001 @@
     "ano": 2025,
     "fonte": "SUS-BA 2025"
   },
+  "s1-015": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Ginecologia básica",
+    "subsub": "Anatomia ginecológica",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s11-008": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de ovário",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-022": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-037": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-075": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-062": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-089": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-080": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-005": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Infecções sexualmente transmissíveis (IST)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-063": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infecções em ginecologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-068": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de ovário",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "pv-ufr-2024-0052": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Ginecologia Geral",
+    "subsub": "SOP / Alterações Hormonais",
+    "banca": "UFRJ",
+    "ano": 2024,
+    "fonte": "UFRJ 2024"
+  },
+  "pv-ufr-2025-0224": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-hcp-2024-0076": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Ginecologia Geral",
+    "subsub": "Infecções Ginecológicas",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-fam-2024-0015": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Ginecologia Geral",
+    "subsub": "Infecções Ginecológicas",
+    "banca": "FAMERP",
+    "ano": 2024,
+    "fonte": "FAMERP 2024"
+  },
+  "pv-fam-2024-0040": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Ginecologia Geral",
+    "subsub": "",
+    "banca": "FAMERP",
+    "ano": 2024,
+    "fonte": "FAMERP 2024"
+  },
+  "pv-fam-2025-0106": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Ginecologia Geral",
+    "subsub": "",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-uni-2024-0052": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "UNIFESP",
+    "ano": 2024,
+    "fonte": "UNIFESP 2024"
+  },
+  "pv-rib-2025-0127": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Reprodução / Climatério",
+    "subsub": "",
+    "banca": "USP-RP",
+    "ano": 2025,
+    "fonte": "Ribeirão Preto da USP) 2025"
+  },
+  "pv-amr-2024-0057": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "",
+    "banca": "AMRIGS",
+    "ano": 2024,
+    "fonte": "AMRIGS 2024"
+  },
+  "pv-ufr-2025-0221": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-sír-2024-0005": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-hia-2025-0085": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia",
+    "subsub": "DPOC",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-hia-2025-0128": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-pe-2024-0051": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SES-PE",
+    "ano": 2024,
+    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
+  },
+  "pv-ufr-2025-0214": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-hcp-2024-0078": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-sír-2024-0022": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-sír-2025-0174": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "Sírio-Libanês",
+    "ano": 2025,
+    "fonte": "Sírio-Libanês 2025"
+  },
+  "pv-sír-2025-0178": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "Sírio-Libanês",
+    "ano": 2025,
+    "fonte": "Sírio-Libanês 2025"
+  },
+  "pv-amr-2024-0051": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Políticas Públicas",
+    "subsub": "",
+    "banca": "AMRIGS",
+    "ano": 2024,
+    "fonte": "AMRIGS 2024"
+  },
+  "s11-023": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Parto",
+    "subsub": "Via de parto (normal vs cesárea)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-002": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-005": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pré-natal",
+    "subsub": "Consultas e exames de pré-natal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-046": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puerpério",
+    "subsub": "Aleitamento materno",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "pv-ufr-2025-0231": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-hcp-2024-0097": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-fam-2024-0025": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "FAMERP",
+    "ano": 2024,
+    "fonte": "FAMERP 2024"
+  },
+  "pv-fam-2025-0130": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-uni-2025-0193": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "UNIFESP",
+    "ano": 2025,
+    "fonte": "UNIFESP 2025"
+  },
+  "pv-hia-2024-0034": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "HIAE",
+    "ano": 2024,
+    "fonte": "HIAE 2024"
+  },
+  "pv-uer-2025-0162": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "UERJ",
+    "ano": 2025,
+    "fonte": "UERJ 2025"
+  },
+  "pv-ufr-2024-0042": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Vacinação",
+    "banca": "UFRJ",
+    "ano": 2024,
+    "fonte": "UFRJ 2024"
+  },
+  "s1-060": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-100": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Controle social e participação popular",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s11-009": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s5-002": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-011": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-016": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-027": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Estratégia Saúde da Família (ESF) e NASF",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s9-004": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Lei 8.080/90 e 8.142/90",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-011": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-042": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-088": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-ena-2024-0011": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Saúde Coletiva / SUS",
+    "subsub": "Atenção Primária",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-ena-2025-0192": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "Testes Diagnósticos",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-pe-2024-0031": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "SES-PE",
+    "ano": 2024,
+    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
+  },
+  "pv-amr-2025-0198": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "AMRIGS",
+    "ano": 2025,
+    "fonte": "AMRIGS 2025"
+  },
+  "pv-ufr-2024-0013": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "UFRJ",
+    "ano": 2024,
+    "fonte": "UFRJ 2024"
+  },
+  "pv-ufr-2025-0238": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-hcp-2025-0118": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-hcp-2025-0169": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-fam-2024-0010": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Saúde Coletiva / SUS",
+    "subsub": "Atenção Primária",
+    "banca": "FAMERP",
+    "ano": 2024,
+    "fonte": "FAMERP 2024"
+  },
+  "pv-sp-2025-0236": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Saúde Coletiva / SUS",
+    "subsub": "Atenção Primária",
+    "banca": "USP-SP",
+    "ano": 2025,
+    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
+  },
+  "pv-uni-2025-0187": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Saúde Coletiva / SUS",
+    "subsub": "Atenção Primária",
+    "banca": "UNIFESP",
+    "ano": 2025,
+    "fonte": "UNIFESP 2025"
+  },
+  "pv-sír-2024-0011": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Prevenção / Rastreio",
+    "subsub": "Rastreamento de Câncer",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-sír-2024-0020": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Epidemiologia",
+    "subsub": "Testes Diagnósticos",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-sír-2025-0189": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Prevenção / Rastreio",
+    "subsub": "Rastreamento de Câncer",
+    "banca": "Sírio-Libanês",
+    "ano": 2025,
+    "fonte": "Sírio-Libanês 2025"
+  },
+  "pv-ba-2025-0074": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "pv-ena-2024-0019": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ENARE",
+    "ano": 2024,
+    "fonte": "ENARE 2024"
+  },
+  "pv-ena-2025-0155": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-ena-2025-0195": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-pe-2025-0165": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Gastroenterologia",
+    "subsub": "Hepatites",
+    "banca": "SES-PE",
+    "ano": 2025,
+    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
+  },
+  "pv-mg-2024-0070": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Dengue / Arboviroses",
+    "banca": "PSU-MG",
+    "ano": 2024,
+    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
+  },
+  "pv-mg-2025-0137": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Anemias",
+    "banca": "PSU-MG",
+    "ano": 2025,
+    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
+  },
+  "pv-uer-2024-0004": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-hcp-2025-0196": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Reumatologia",
+    "subsub": "Artrite Reumatoide",
+    "banca": "HCPA",
+    "ano": 2025,
+    "fonte": "HCPA 2025"
+  },
+  "pv-fam-2024-0024": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia",
+    "subsub": "Meningites",
+    "banca": "FAMERP",
+    "ano": 2024,
+    "fonte": "FAMERP 2024"
+  },
+  "pv-sp-2024-0021": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes Mellitus",
+    "banca": "SUS-SP",
+    "ano": 2024,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
+  },
+  "pv-sp-2025-0232": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Emergências / UTI",
+    "subsub": "Politrauma",
+    "banca": "USP-SP",
+    "ano": 2025,
+    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
+  },
+  "pv-hia-2025-0090": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia",
+    "subsub": "Anemias",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-fam-2025-0081": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-uni-2024-0053": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Cirurgia de Cabeça e Pescoço",
+    "subsub": "",
+    "banca": "UNIFESP",
+    "ano": 2024,
+    "fonte": "UNIFESP 2024"
+  },
+  "pv-ena-2025-0151": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Gastroenterologia Pediátrica",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-ena-2025-0183": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Vacinação",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-ena-2025-0194": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-pe-2024-0039": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Vacinação",
+    "banca": "SES-PE",
+    "ano": 2024,
+    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
+  },
+  "pv-fam-2025-0139": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Crescimento e Desenvolvimento",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-sp-2024-0048": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças Exantemáticas",
+    "banca": "SUS-SP",
+    "ano": 2024,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
+  },
+  "pv-hia-2024-0008": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Vacinação",
+    "banca": "HIAE",
+    "ano": 2024,
+    "fonte": "HIAE 2024"
+  },
+  "pv-hia-2025-0122": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Vacinação",
+    "banca": "HIAE",
+    "ano": 2025,
+    "fonte": "HIAE 2025"
+  },
+  "pv-df-2024-0046": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Neonatologia",
+    "subsub": "",
+    "banca": "SES-DF",
+    "ano": 2024,
+    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
+  },
+  "pv-df-2024-0047": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Vacinação",
+    "banca": "SES-DF",
+    "ano": 2024,
+    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
+  },
+  "pv-ba-2024-0013": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-ba-2024-0014": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-ba-2024-0017": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "pv-sír-2024-0028": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Ginecologia Geral",
+    "subsub": "Anticoncepção / Planejamento",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "s14-027": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Dermatologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-001": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Cardiologia",
+    "subsub": "Fisiologia Cardíaca e Eletrocardiograma",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-046": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Cardiologia",
+    "subsub": "Valvopatias",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-057": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Pneumologia",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-038": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-058": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Cardiologia",
+    "subsub": "Choque",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s3-010": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Trauma",
+    "subsub": "Trauma abdominal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "pv-hcp-2024-0075": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "",
+    "banca": "HCPA",
+    "ano": 2024,
+    "fonte": "HCPA 2024"
+  },
+  "pv-sp-2024-0036": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "",
+    "banca": "SUS-SP",
+    "ano": 2024,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
+  },
+  "pv-sp-2025-0168": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-pe-2024-0041": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SES-PE",
+    "ano": 2024,
+    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
+  },
+  "pv-ufr-2025-0222": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-hia-2024-0029": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Infectologia",
+    "subsub": "Antibioticoterapia",
+    "banca": "HIAE",
+    "ano": 2024,
+    "fonte": "HIAE 2024"
+  },
   "s1-005": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia endócrina",
     "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-015": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Ginecologia básica",
-    "subsub": "Anatomia ginecológica",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -16834,24 +17320,6 @@
     "area_nome": "Ginecologia",
     "sub": "Infecções em ginecologia",
     "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-046": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-057": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Mastologia",
-    "subsub": "Câncer de mama",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -16901,33 +17369,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-008": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de ovário",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-022": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-037": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de endométrio",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s11-057": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -16951,15 +17392,6 @@
     "area_nome": "Ginecologia",
     "sub": "Geral",
     "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-075": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de endométrio",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -17000,15 +17432,6 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-062": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de endométrio",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-070": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -17036,15 +17459,6 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-089": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
   "s14-094": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -17054,47 +17468,11 @@
     "ano": 0,
     "fonte": ""
   },
-  "s14-097": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Neoplasia intraepitelial cervical (NIC)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
-  },
-  "s3-006": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-018": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia ginecológica",
     "subsub": "Câncer de ovário",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-025": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s3-035": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -17135,15 +17513,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-080": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de endométrio",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-096": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -17152,24 +17521,6 @@
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
-  "s5-005": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "Infecções sexualmente transmissíveis (IST)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-026": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Mastologia",
-    "subsub": "Câncer de mama",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
   "s5-034": {
     "area": "ginecologia",
@@ -17216,24 +17567,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s5-063": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-068": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de ovário",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-079": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -17243,29 +17576,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s9-018": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "Câncer de ovário",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-027": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Uroginecologia",
     "subsub": "Incontinência urinária (IU)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-033": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "Doença Inflamatória Pélvica (DIP)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -17297,15 +17612,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "s9-069": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "Doença Inflamatória Pélvica (DIP)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-077": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -17329,15 +17635,6 @@
     "area_nome": "Ginecologia",
     "sub": "Oncologia ginecológica",
     "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-098": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Ginecologia endócrina",
-    "subsub": "Amenorreia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -17576,15 +17873,6 @@
     "ano": 2025,
     "fonte": "AMRIGS 2025"
   },
-  "pv-ufr-2024-0052": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP / Alterações Hormonais",
-    "banca": "UFRJ",
-    "ano": 2024,
-    "fonte": "UFRJ 2024"
-  },
   "pv-ufr-2024-0076": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -17643,15 +17931,6 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia Ginecológica",
-    "subsub": "",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
-  "pv-ufr-2025-0224": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
@@ -17720,15 +17999,6 @@
     "ano": 2025,
     "fonte": "UERJ 2025"
   },
-  "pv-hcp-2024-0076": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções Ginecológicas",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
   "pv-hcp-2025-0137": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -17752,15 +18022,6 @@
     "area_nome": "Ginecologia",
     "sub": "Ginecologia Geral",
     "subsub": "SOP / Alterações Hormonais",
-    "banca": "FAMERP",
-    "ano": 2024,
-    "fonte": "FAMERP 2024"
-  },
-  "pv-fam-2024-0015": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções Ginecológicas",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -17791,24 +18052,6 @@
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
-  },
-  "pv-fam-2024-0040": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
-    "banca": "FAMERP",
-    "ano": 2024,
-    "fonte": "FAMERP 2024"
-  },
-  "pv-fam-2025-0106": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
   },
   "pv-fam-2025-0107": {
     "area": "ginecologia",
@@ -17918,24 +18161,6 @@
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
   },
-  "pv-uni-2024-0021": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "",
-    "banca": "UNIFESP",
-    "ano": 2024,
-    "fonte": "UNIFESP 2024"
-  },
-  "pv-uni-2024-0052": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "UNIFESP",
-    "ano": 2024,
-    "fonte": "UNIFESP 2024"
-  },
   "pv-uni-2024-0071": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -17989,15 +18214,6 @@
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
-  },
-  "pv-rib-2025-0127": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "",
-    "banca": "USP-RP",
-    "ano": 2025,
-    "fonte": "Ribeirão Preto da USP) 2025"
   },
   "pv-sír-2024-0034": {
     "area": "ginecologia",
@@ -18422,24 +18638,6 @@
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
   },
-  "pv-amr-2024-0057": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Infectologia",
-    "subsub": "",
-    "banca": "AMRIGS",
-    "ano": 2024,
-    "fonte": "AMRIGS 2024"
-  },
-  "pv-amr-2025-0114": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Reumatologia",
-    "subsub": "Artrite Reumatoide",
-    "banca": "AMRIGS",
-    "ano": 2025,
-    "fonte": "AMRIGS 2025"
-  },
   "pv-amr-2025-0115": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -18517,15 +18715,6 @@
     "area_nome": "Ginecologia",
     "sub": "Cardiologia",
     "subsub": "Insuficiência Cardíaca",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
-  "pv-ufr-2025-0221": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Emergências / UTI",
-    "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -18638,15 +18827,6 @@
     "ano": 2024,
     "fonte": "HCPA 2024"
   },
-  "pv-hcp-2024-0068": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
   "pv-hcp-2025-0135": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -18710,15 +18890,6 @@
     "ano": 2025,
     "fonte": "FAMERP 2025"
   },
-  "pv-fam-2025-0089": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Nefrologia",
-    "subsub": "Doença Renal Crônica",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
-  },
   "pv-fam-2025-0126": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -18751,15 +18922,6 @@
     "area_nome": "Ginecologia",
     "sub": "Emergências / UTI",
     "subsub": "Politrauma",
-    "banca": "SUS-SP",
-    "ano": 2024,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
-  },
-  "pv-sp-2024-0083": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -18890,15 +19052,6 @@
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
   },
-  "pv-sír-2024-0005": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Infectologia",
-    "subsub": "",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
   "pv-sír-2024-0067": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -18916,15 +19069,6 @@
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
-  },
-  "pv-sír-2025-0104": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão Arterial",
-    "banca": "Sírio-Libanês",
-    "ano": 2025,
-    "fonte": "Sírio-Libanês 2025"
   },
   "pv-sír-2025-0105": {
     "area": "ginecologia",
@@ -18976,15 +19120,6 @@
     "area_nome": "Ginecologia",
     "sub": "Pneumologia",
     "subsub": "Pneumonias",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
-  "pv-hia-2025-0085": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Pneumologia",
-    "subsub": "DPOC",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -19214,15 +19349,6 @@
     "ano": 2024,
     "fonte": "HIAE 2024"
   },
-  "pv-hia-2025-0128": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
   "pv-ena-2025-0144": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -19286,15 +19412,6 @@
     "ano": 2024,
     "fonte": "ENARE 2024"
   },
-  "pv-pe-2024-0051": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SES-PE",
-    "ano": 2024,
-    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
-  },
   "pv-mg-2024-0053": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -19322,15 +19439,6 @@
     "ano": 2025,
     "fonte": "AMRIGS 2025"
   },
-  "pv-ufr-2025-0214": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
   "pv-uer-2024-0044": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -19348,15 +19456,6 @@
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
-  },
-  "pv-hcp-2024-0078": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
   },
   "pv-fam-2024-0033": {
     "area": "ginecologia",
@@ -19439,24 +19538,6 @@
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
   },
-  "pv-sír-2024-0021": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
-  "pv-sír-2024-0022": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
   "pv-sír-2024-0027": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -19467,24 +19548,6 @@
     "fonte": "Sírio-Libanês 2024"
   },
   "pv-sír-2025-0173": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "Sírio-Libanês",
-    "ano": 2025,
-    "fonte": "Sírio-Libanês 2025"
-  },
-  "pv-sír-2025-0174": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "Sírio-Libanês",
-    "ano": 2025,
-    "fonte": "Sírio-Libanês 2025"
-  },
-  "pv-sír-2025-0178": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Geral",
@@ -19528,15 +19591,6 @@
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
-  },
-  "pv-amr-2024-0051": {
-    "area": "ginecologia",
-    "area_nome": "Ginecologia",
-    "sub": "Políticas Públicas",
-    "subsub": "",
-    "banca": "AMRIGS",
-    "ano": 2024,
-    "fonte": "AMRIGS 2024"
   },
   "pv-ufr-2024-0081": {
     "area": "ginecologia",
@@ -19601,14 +19655,86 @@
     "ano": 2025,
     "fonte": "HIAE 2025"
   },
-  "pv-ba-2024-0027": {
+  "s9-045": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Geral",
     "subsub": "",
-    "banca": "SUS-BA",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s1-065": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Ética Médica",
+    "subsub": "Direitos do paciente",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s3-059": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "pv-ufr-2024-0085": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "UFRJ",
     "ano": 2024,
-    "fonte": "SUS-BA 2024"
+    "fonte": "UFRJ 2024"
+  },
+  "pv-uni-2025-0157": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Epidemiologia",
+    "subsub": "Testes Diagnósticos",
+    "banca": "UNIFESP",
+    "ano": 2025,
+    "fonte": "UNIFESP 2025"
+  },
+  "s14-038": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Dermatologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-045": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Infectologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s5-087": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Princípios da Anestesiologia",
+    "subsub": "Anestesia local e sedação",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s14-082": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Neonatologia",
+    "subsub": "Incompatibilidade Rh/ABO",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
   },
   "s1-010": {
     "area": "obstetricia",
@@ -19709,29 +19835,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
-  "s11-023": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Via de parto (normal vs cesárea)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
   "s11-032": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
     "subsub": "Indução e condução do trabalho de parto",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-042": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -19789,15 +19897,6 @@
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s14-002": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": ""
   },
   "s14-006": {
     "area": "obstetricia",
@@ -19861,15 +19960,6 @@
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
-  },
-  "s3-005": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Consultas e exames de pré-natal",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
   "s3-019": {
     "area": "obstetricia",
@@ -19943,15 +20033,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-089": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Intercorrências obstétricas",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s5-003": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -19993,15 +20074,6 @@
     "area_nome": "Obstetricia",
     "sub": "Parto",
     "subsub": "Parto instrumental",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-046": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Puerpério",
-    "subsub": "Aleitamento materno",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -20083,15 +20155,6 @@
     "area_nome": "Obstetricia",
     "sub": "Doenças associadas à gestação",
     "subsub": "Diabetes mellitus gestacional",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-045": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -20393,15 +20456,6 @@
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
-  "pv-ufr-2025-0231": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
   "pv-ufr-2025-0235": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -20428,15 +20482,6 @@
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
-  },
-  "pv-uer-2024-0047": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
   },
   "pv-uer-2024-0049": {
     "area": "obstetricia",
@@ -20555,15 +20600,6 @@
     "ano": 2024,
     "fonte": "HCPA 2024"
   },
-  "pv-hcp-2024-0097": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "HCPA",
-    "ano": 2024,
-    "fonte": "HCPA 2024"
-  },
   "pv-hcp-2024-0100": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -20608,15 +20644,6 @@
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
-  },
-  "pv-fam-2024-0025": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
-    "banca": "FAMERP",
-    "ano": 2024,
-    "fonte": "FAMERP 2024"
   },
   "pv-fam-2024-0046": {
     "area": "obstetricia",
@@ -20673,15 +20700,6 @@
     "fonte": "FAMERP 2025"
   },
   "pv-fam-2025-0105": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
-  },
-  "pv-fam-2025-0130": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
@@ -20897,15 +20915,6 @@
     "ano": 2025,
     "fonte": "UNIFESP 2025"
   },
-  "pv-uni-2025-0193": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
-    "banca": "UNIFESP",
-    "ano": 2025,
-    "fonte": "UNIFESP 2025"
-  },
   "pv-sír-2024-0008": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -20952,15 +20961,6 @@
     "fonte": "Sírio-Libanês 2025"
   },
   "pv-sír-2025-0167": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "Sírio-Libanês",
-    "ano": 2025,
-    "fonte": "Sírio-Libanês 2025"
-  },
-  "pv-sír-2025-0170": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Geral",
@@ -21032,15 +21032,6 @@
     "ano": 2024,
     "fonte": "HIAE 2024"
   },
-  "pv-hia-2024-0034": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
-    "banca": "HIAE",
-    "ano": 2024,
-    "fonte": "HIAE 2024"
-  },
   "pv-df-2024-0028": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -21094,60 +21085,6 @@
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
-  },
-  "pv-ba-2024-0022": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
-  "pv-ba-2024-0023": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
-  "pv-ba-2024-0024": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
-  "pv-ba-2025-0067": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
-  "pv-ba-2025-0068": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
-  "pv-ba-2025-0069": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
   },
   "pv-ena-2024-0037": {
     "area": "obstetricia",
@@ -21239,15 +21176,6 @@
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
-  "pv-uer-2024-0040": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
   "pv-uer-2024-0043": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -21280,15 +21208,6 @@
     "area_nome": "Obstetricia",
     "sub": "Gastroenterologia",
     "subsub": "Hepatites",
-    "banca": "UERJ",
-    "ano": 2025,
-    "fonte": "UERJ 2025"
-  },
-  "pv-uer-2025-0162": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -21410,24 +21329,6 @@
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
   },
-  "pv-sp-2025-0119": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Neurologia",
-    "subsub": "AVC",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sír-2024-0081": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
   "pv-sír-2024-0097": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -21490,15 +21391,6 @@
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
-  },
-  "pv-df-2024-0017": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonias",
-    "banca": "SES-DF",
-    "ano": 2024,
-    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
   },
   "pv-df-2025-0118": {
     "area": "obstetricia",
@@ -21670,15 +21562,6 @@
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
-  },
-  "pv-ufr-2024-0042": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
-    "banca": "UFRJ",
-    "ano": 2024,
-    "fonte": "UFRJ 2024"
   },
   "pv-ena-2024-0031": {
     "area": "obstetricia",
@@ -22157,15 +22040,6 @@
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
   },
-  "pv-df-2024-0086": {
-    "area": "obstetricia",
-    "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SES-DF",
-    "ano": 2024,
-    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
-  },
   "pv-df-2025-0101": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -22283,6 +22157,672 @@
     "ano": 2024,
     "fonte": "HIAE 2024"
   },
+  "s14-053": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s1-007": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-014": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-026": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses eczematosas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s11-020": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Hematologia",
+    "subsub": "Anemias hemolíticas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-079": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Pneumologia",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-010": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-013": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-018": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Glomerulopatias",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-021": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-040": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-043": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-049": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Choque",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-050": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-057": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-073": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Infecção do trato urinário (ITU)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-075": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-079": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Pneumologia",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-084": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s14-096": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Hiponatremia",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-012": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-050": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s3-060": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Controle da água corporal total",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-001": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Choque",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-006": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Hematologia",
+    "subsub": "Linfomas",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-022": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-024": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Hematologia",
+    "subsub": "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s5-075": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s9-014": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-019": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-036": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Infectologia",
+    "subsub": "Imunossuprimidos não-HIV",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-087": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Choque",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s1-063": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Trauma",
+    "subsub": "ATLS e abordagem primária/secundária",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s11-007": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cirurgia Torácica",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-024": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s11-041": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Urologia",
+    "subsub": "Infecção urinária",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-059": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Trauma",
+    "subsub": "ATLS e abordagem primária/secundária",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-090": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Proctologia",
+    "subsub": "Fissura anal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-076": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Proctologia",
+    "subsub": "Fissura anal",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s9-093": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Urologia",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-mg-2025-0135": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "Hérnias",
+    "banca": "PSU-MG",
+    "ano": 2025,
+    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
+  },
+  "pv-uer-2024-0061": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cirurgia Abdominal",
+    "subsub": "Hérnias",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-ena-2025-0139": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Emergências / UTI",
+    "subsub": "",
+    "banca": "ENARE",
+    "ano": 2025,
+    "fonte": "ENARE 2025"
+  },
+  "pv-fam-2024-0061": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Emergências / UTI",
+    "subsub": "Choque",
+    "banca": "FAMERP",
+    "ano": 2024,
+    "fonte": "FAMERP 2024"
+  },
+  "pv-sp-2025-0106": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Infectologia",
+    "subsub": "Antibioticoterapia",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0107": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0108": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-ba-2025-0065": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2025,
+    "fonte": "SUS-BA 2025"
+  },
+  "s1-045": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Puericultura",
+    "subsub": "Crescimento e desenvolvimento",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s11-062": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s14-031": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": ""
+  },
+  "s3-095": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "Insuficiência cardíaca na criança",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "pv-sp-2024-0057": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Pneumologia",
+    "subsub": "Asma",
+    "banca": "SUS-SP",
+    "ano": 2024,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
+  },
+  "s1-046": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s1-057": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
+  },
+  "s3-025": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "s5-026": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
+  },
+  "s9-033": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Doença Inflamatória Pélvica (DIP)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "s9-098": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Amenorreia",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-uni-2024-0021": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Reprodução / Climatério",
+    "subsub": "",
+    "banca": "UNIFESP",
+    "ano": 2024,
+    "fonte": "UNIFESP 2024"
+  },
+  "pv-amr-2025-0114": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Reumatologia",
+    "subsub": "Artrite Reumatoide",
+    "banca": "AMRIGS",
+    "ano": 2025,
+    "fonte": "AMRIGS 2025"
+  },
+  "pv-fam-2025-0089": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Nefrologia",
+    "subsub": "Doença Renal Crônica",
+    "banca": "FAMERP",
+    "ano": 2025,
+    "fonte": "FAMERP 2025"
+  },
+  "pv-sp-2024-0083": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-SP",
+    "ano": 2024,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
+  },
+  "pv-sír-2025-0104": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial",
+    "banca": "Sírio-Libanês",
+    "ano": 2025,
+    "fonte": "Sírio-Libanês 2025"
+  },
+  "pv-ba-2024-0027": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SUS-BA",
+    "ano": 2024,
+    "fonte": "SUS-BA 2024"
+  },
+  "s11-042": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Parto",
+    "subsub": "Via de parto (normal vs cesárea)",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "s3-089": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Intercorrências obstétricas",
+    "subsub": "",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "pv-uer-2024-0047": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-sír-2025-0170": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "Sírio-Libanês",
+    "ano": 2025,
+    "fonte": "Sírio-Libanês 2025"
+  },
+  "pv-uer-2024-0040": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "UERJ",
+    "ano": 2024,
+    "fonte": "UERJ 2024"
+  },
+  "pv-sp-2025-0119": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Neurologia",
+    "subsub": "AVC",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sír-2024-0081": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Cardiologia",
+    "subsub": "Insuficiência Cardíaca",
+    "banca": "Sírio-Libanês",
+    "ano": 2024,
+    "fonte": "Sírio-Libanês 2024"
+  },
+  "pv-df-2024-0017": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Pneumologia",
+    "subsub": "Pneumonias",
+    "banca": "SES-DF",
+    "ano": 2024,
+    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
+  },
+  "pv-df-2024-0086": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "SES-DF",
+    "ano": 2024,
+    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
+  },
   "s1-004": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -22364,24 +22904,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
   },
-  "s1-060": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Princípios e diretrizes do SUS",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
-  "s1-065": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Ética Médica",
-    "subsub": "Direitos do paciente",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
   "s1-070": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -22454,15 +22976,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
   },
-  "s1-100": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Controle social e participação popular",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
-  },
   "s11-004": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -22477,15 +22990,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
     "subsub": "Princípios e diretrizes do SUS",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-009": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -22823,15 +23327,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s3-059": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Medidas de associação (RR, OR, RAR)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
-  },
   "s3-064": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -22904,38 +23399,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
   },
-  "s5-002": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Medidas de associação (RR, OR, RAR)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
   "s5-009": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
     "subsub": "Curvas ROC e razão de verossimilhança",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-011": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Medidas de associação (RR, OR, RAR)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-016": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -22954,15 +23422,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
     "subsub": "Medidas de associação (RR, OR, RAR)",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
-  },
-  "s5-027": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Medicina de Família e Comunidade",
-    "subsub": "Estratégia Saúde da Família (ESF) e NASF",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -23084,29 +23543,11 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
   },
-  "s9-004": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Lei 8.080/90 e 8.142/90",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-005": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Medicina de Família e Comunidade",
     "subsub": "Estratégia Saúde da Família (ESF) e NASF",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-011": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -23152,15 +23593,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
     "subsub": "Controle social e participação popular",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
-  "s9-042": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -23228,15 +23660,6 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
-  "s9-088": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
-  },
   "s9-092": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -23296,15 +23719,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde da Família",
     "subsub": "",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
-  "pv-ena-2024-0011": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -23390,15 +23804,6 @@
     "ano": 2025,
     "fonte": "ENARE 2025"
   },
-  "pv-ena-2025-0192": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
   "pv-pe-2024-0001": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -23440,15 +23845,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
     "subsub": "Atenção Primária",
-    "banca": "SES-PE",
-    "ano": 2024,
-    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
-  },
-  "pv-pe-2024-0031": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -23984,15 +24380,6 @@
     "ano": 2025,
     "fonte": "AMRIGS 2025"
   },
-  "pv-amr-2025-0198": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
-    "banca": "AMRIGS",
-    "ano": 2025,
-    "fonte": "AMRIGS 2025"
-  },
   "pv-ufr-2024-0001": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -24057,15 +24444,6 @@
     "fonte": "UFRJ 2024"
   },
   "pv-ufr-2024-0011": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
-    "banca": "UFRJ",
-    "ano": 2024,
-    "fonte": "UFRJ 2024"
-  },
-  "pv-ufr-2024-0013": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
@@ -24182,15 +24560,6 @@
     "ano": 2024,
     "fonte": "UFRJ 2024"
   },
-  "pv-ufr-2024-0085": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "UFRJ",
-    "ano": 2024,
-    "fonte": "UFRJ 2024"
-  },
   "pv-ufr-2024-0092": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -24235,15 +24604,6 @@
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
-  },
-  "pv-ufr-2025-0238": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
   },
   "pv-ufr-2025-0250": {
     "area": "medicina-preventiva",
@@ -24758,15 +25118,6 @@
     "ano": 2025,
     "fonte": "HCPA 2025"
   },
-  "pv-hcp-2025-0118": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
   "pv-hcp-2025-0120": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -24817,15 +25168,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
     "subsub": "Atenção Primária",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
-  "pv-hcp-2025-0169": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -24937,15 +25279,6 @@
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
-  },
-  "pv-fam-2024-0010": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
-    "banca": "FAMERP",
-    "ano": 2024,
-    "fonte": "FAMERP 2024"
   },
   "pv-fam-2024-0041": {
     "area": "medicina-preventiva",
@@ -25352,15 +25685,6 @@
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
   },
-  "pv-sp-2025-0236": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
-    "banca": "USP-SP",
-    "ano": 2025,
-    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
-  },
   "pv-uni-2024-0023": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -25532,29 +25856,11 @@
     "ano": 2025,
     "fonte": "UNIFESP 2025"
   },
-  "pv-uni-2025-0157": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
-    "banca": "UNIFESP",
-    "ano": 2025,
-    "fonte": "UNIFESP 2025"
-  },
   "pv-uni-2025-0168": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
     "subsub": "",
-    "banca": "UNIFESP",
-    "ano": 2025,
-    "fonte": "UNIFESP 2025"
-  },
-  "pv-uni-2025-0187": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Primária",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -25622,15 +25928,6 @@
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
   },
-  "pv-sír-2024-0011": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento de Câncer",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
   "pv-sír-2024-0013": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -25654,15 +25951,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
     "subsub": "Financiamento / Gestão",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
-  "pv-sír-2024-0020": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -25753,15 +26041,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde Coletiva / SUS",
     "subsub": "Financiamento / Gestão",
-    "banca": "Sírio-Libanês",
-    "ano": 2025,
-    "fonte": "Sírio-Libanês 2025"
-  },
-  "pv-sír-2025-0189": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento de Câncer",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -26252,15 +26531,6 @@
     "ano": 2025,
     "fonte": "SUS-BA 2025"
   },
-  "pv-ba-2025-0074": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2025,
-    "fonte": "SUS-BA 2025"
-  },
   "pv-ena-2024-0006": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -26293,15 +26563,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Cardiologia",
     "subsub": "Doença Arterial Coronariana",
-    "banca": "ENARE",
-    "ano": 2024,
-    "fonte": "ENARE 2024"
-  },
-  "pv-ena-2024-0019": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Cardiologia",
-    "subsub": "Insuficiência Cardíaca",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -26405,15 +26666,6 @@
     "ano": 2025,
     "fonte": "ENARE 2025"
   },
-  "pv-ena-2025-0155": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
   "pv-ena-2025-0156": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -26482,15 +26734,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Neurologia",
     "subsub": "Doenças Neurodegenerativas",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
-  "pv-ena-2025-0195": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -26675,15 +26918,6 @@
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
   },
-  "pv-pe-2025-0165": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatites",
-    "banca": "SES-PE",
-    "ano": 2025,
-    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
-  },
   "pv-mg-2024-0012": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -26792,15 +27026,6 @@
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
   },
-  "pv-mg-2024-0070": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Infectologia",
-    "subsub": "Dengue / Arboviroses",
-    "banca": "PSU-MG",
-    "ano": 2024,
-    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
-  },
   "pv-mg-2025-0091": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -26887,15 +27112,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Gastroenterologia",
     "subsub": "Hepatites",
-    "banca": "PSU-MG",
-    "ano": 2025,
-    "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
-  },
-  "pv-mg-2025-0137": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -27323,15 +27539,6 @@
     "ano": 2024,
     "fonte": "UERJ 2024"
   },
-  "pv-uer-2024-0004": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Infectologia",
-    "subsub": "Tuberculose",
-    "banca": "UERJ",
-    "ano": 2024,
-    "fonte": "UERJ 2024"
-  },
   "pv-uer-2024-0005": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -27737,29 +27944,11 @@
     "ano": 2025,
     "fonte": "HCPA 2025"
   },
-  "pv-hcp-2025-0196": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Reumatologia",
-    "subsub": "Artrite Reumatoide",
-    "banca": "HCPA",
-    "ano": 2025,
-    "fonte": "HCPA 2025"
-  },
   "pv-fam-2024-0006": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Cardiologia",
     "subsub": "Hipertensão Arterial",
-    "banca": "FAMERP",
-    "ano": 2024,
-    "fonte": "FAMERP 2024"
-  },
-  "pv-fam-2024-0024": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Infectologia",
-    "subsub": "Meningites",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -27859,15 +28048,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Pneumologia",
     "subsub": "Tuberculose",
-    "banca": "SUS-SP",
-    "ano": 2024,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
-  },
-  "pv-sp-2024-0021": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -27988,15 +28168,6 @@
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0232": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Emergências / UTI",
-    "subsub": "Politrauma",
-    "banca": "USP-SP",
-    "ano": 2025,
-    "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
   },
   "pv-uni-2024-0019": {
     "area": "medicina-preventiva",
@@ -28430,15 +28601,6 @@
     "ano": 2025,
     "fonte": "HIAE 2025"
   },
-  "pv-hia-2025-0090": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
   "pv-hia-2025-0096": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -28579,15 +28741,6 @@
     "area_nome": "Medicina Preventiva",
     "sub": "Emergências / UTI",
     "subsub": "",
-    "banca": "SES-DF",
-    "ano": 2024,
-    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
-  },
-  "pv-df-2024-0037": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Pneumologia",
-    "subsub": "DPOC",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -29024,15 +29177,6 @@
     "ano": 2024,
     "fonte": "FAMERP 2024"
   },
-  "pv-fam-2025-0081": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
-  },
   "pv-fam-2025-0146": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -29059,15 +29203,6 @@
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-uni-2024-0053": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Cirurgia de Cabeça e Pescoço",
-    "subsub": "",
-    "banca": "UNIFESP",
-    "ano": 2024,
-    "fonte": "UNIFESP 2024"
   },
   "pv-uni-2024-0088": {
     "area": "medicina-preventiva",
@@ -29195,33 +29330,6 @@
     "ano": 2024,
     "fonte": "ENARE 2024"
   },
-  "pv-ena-2025-0151": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Gastroenterologia Pediátrica",
-    "subsub": "",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
-  "pv-ena-2025-0183": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
-  "pv-ena-2025-0194": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "ENARE",
-    "ano": 2025,
-    "fonte": "ENARE 2025"
-  },
   "pv-ena-2025-0200": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -29230,15 +29338,6 @@
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
-  },
-  "pv-pe-2024-0039": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
-    "banca": "SES-PE",
-    "ano": 2024,
-    "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
   },
   "pv-pe-2025-0164": {
     "area": "medicina-preventiva",
@@ -29285,29 +29384,11 @@
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
-  "pv-fam-2025-0139": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Puericultura",
-    "subsub": "Crescimento e Desenvolvimento",
-    "banca": "FAMERP",
-    "ano": 2025,
-    "fonte": "FAMERP 2025"
-  },
   "pv-sp-2024-0042": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Geral",
     "subsub": "",
-    "banca": "SUS-SP",
-    "ano": 2024,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
-  },
-  "pv-sp-2024-0048": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Infectologia Pediátrica",
-    "subsub": "Doenças Exantemáticas",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -29357,15 +29438,6 @@
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
   },
-  "pv-hia-2024-0008": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
-    "banca": "HIAE",
-    "ano": 2024,
-    "fonte": "HIAE 2024"
-  },
   "pv-hia-2024-0039": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -29375,61 +29447,7 @@
     "ano": 2024,
     "fonte": "HIAE 2024"
   },
-  "pv-hia-2025-0122": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
-    "banca": "HIAE",
-    "ano": 2025,
-    "fonte": "HIAE 2025"
-  },
-  "pv-df-2024-0046": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Neonatologia",
-    "subsub": "",
-    "banca": "SES-DF",
-    "ano": 2024,
-    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
-  },
-  "pv-df-2024-0047": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
-    "banca": "SES-DF",
-    "ano": 2024,
-    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
-  },
-  "pv-ba-2024-0013": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
-  "pv-ba-2024-0014": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
   "pv-ba-2024-0016": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
-    "banca": "SUS-BA",
-    "ano": 2024,
-    "fonte": "SUS-BA 2024"
-  },
-  "pv-ba-2024-0017": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Geral",
@@ -29564,15 +29582,6 @@
     "ano": 2025,
     "fonte": "UNIFESP 2025"
   },
-  "pv-sír-2024-0028": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Ginecologia Geral",
-    "subsub": "Anticoncepção / Planejamento",
-    "banca": "Sírio-Libanês",
-    "ano": 2024,
-    "fonte": "Sírio-Libanês 2024"
-  },
   "pv-sír-2024-0051": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
@@ -29595,15 +29604,6 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Pré-natal",
-    "subsub": "",
-    "banca": "SES-DF",
-    "ano": 2024,
-    "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
-  },
-  "pv-df-2024-0085": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
