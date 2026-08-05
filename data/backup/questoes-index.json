@@ -1,0 +1,4956 @@
+{
+  "s1-001": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 1
+  },
+  "s1-002": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 2
+  },
+  "s1-003": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 3
+  },
+  "s1-004": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 4
+  },
+  "s1-005": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 5
+  },
+  "s1-006": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 6
+  },
+  "s1-007": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 7
+  },
+  "s1-008": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 8
+  },
+  "s1-009": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 9
+  },
+  "s1-010": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 10
+  },
+  "s1-011": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 11
+  },
+  "s1-012": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 12
+  },
+  "s1-013": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 13
+  },
+  "s1-014": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 14
+  },
+  "s1-015": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 15
+  },
+  "s1-016": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 16
+  },
+  "s1-017": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 17
+  },
+  "s1-018": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 18
+  },
+  "s1-019": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 19
+  },
+  "s1-020": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 20
+  },
+  "s1-021": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 21
+  },
+  "s1-022": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 22
+  },
+  "s1-023": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 23
+  },
+  "s1-024": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 24
+  },
+  "s1-025": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 25
+  },
+  "s1-026": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 26
+  },
+  "s1-027": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 27
+  },
+  "s1-028": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 28
+  },
+  "s1-029": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 29
+  },
+  "s1-030": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 30
+  },
+  "s1-031": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 31
+  },
+  "s1-032": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 32
+  },
+  "s1-033": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 33
+  },
+  "s1-034": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 34
+  },
+  "s1-035": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 35
+  },
+  "s1-036": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 36
+  },
+  "s1-037": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 37
+  },
+  "s1-038": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 38
+  },
+  "s1-039": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 39
+  },
+  "s1-040": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 40
+  },
+  "s1-041": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 41
+  },
+  "s1-042": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 42
+  },
+  "s1-043": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 43
+  },
+  "s1-044": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 44
+  },
+  "s1-045": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 45
+  },
+  "s1-046": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 46
+  },
+  "s1-047": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 47
+  },
+  "s1-048": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 48
+  },
+  "s1-049": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 49
+  },
+  "s1-050": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 50
+  },
+  "s1-051": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 51
+  },
+  "s1-052": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 52
+  },
+  "s1-053": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 53
+  },
+  "s1-054": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 54
+  },
+  "s1-055": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 55
+  },
+  "s1-056": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 56
+  },
+  "s1-057": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 57
+  },
+  "s1-058": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 58
+  },
+  "s1-059": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 59
+  },
+  "s1-060": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 60
+  },
+  "s1-061": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 61
+  },
+  "s1-062": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 62
+  },
+  "s1-063": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 63
+  },
+  "s1-064": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 64
+  },
+  "s1-065": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 65
+  },
+  "s1-066": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 66
+  },
+  "s1-067": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 67
+  },
+  "s1-068": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 68
+  },
+  "s1-069": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 69
+  },
+  "s1-070": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 70
+  },
+  "s1-071": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 71
+  },
+  "s1-072": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 72
+  },
+  "s1-073": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 73
+  },
+  "s1-074": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 74
+  },
+  "s1-075": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 75
+  },
+  "s1-076": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 76
+  },
+  "s1-077": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 77
+  },
+  "s1-078": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 78
+  },
+  "s1-079": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 79
+  },
+  "s1-080": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 80
+  },
+  "s1-081": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 81
+  },
+  "s1-082": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 82
+  },
+  "s1-083": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 83
+  },
+  "s1-084": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 84
+  },
+  "s1-085": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 85
+  },
+  "s1-086": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 86
+  },
+  "s1-087": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 87
+  },
+  "s1-088": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 88
+  },
+  "s1-089": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 89
+  },
+  "s1-090": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 90
+  },
+  "s1-091": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 91
+  },
+  "s1-092": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 92
+  },
+  "s1-093": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 93
+  },
+  "s1-094": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 94
+  },
+  "s1-095": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 95
+  },
+  "s1-096": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 96
+  },
+  "s1-097": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 97
+  },
+  "s1-098": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 98
+  },
+  "s1-099": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 99
+  },
+  "s1-100": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 100
+  },
+  "s11-001": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 1
+  },
+  "s11-002": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 2
+  },
+  "s11-003": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 3
+  },
+  "s11-004": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 4
+  },
+  "s11-005": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 5
+  },
+  "s11-006": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 6
+  },
+  "s11-007": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 7
+  },
+  "s11-008": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 8
+  },
+  "s11-009": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 9
+  },
+  "s11-010": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 10
+  },
+  "s11-011": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 11
+  },
+  "s11-012": {
+    "area": "Reumatologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 12
+  },
+  "s11-013": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 13
+  },
+  "s11-014": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 14
+  },
+  "s11-015": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 15
+  },
+  "s11-016": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 16
+  },
+  "s11-017": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 17
+  },
+  "s11-018": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 18
+  },
+  "s11-019": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 19
+  },
+  "s11-020": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 20
+  },
+  "s11-021": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 21
+  },
+  "s11-022": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 22
+  },
+  "s11-023": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 23
+  },
+  "s11-024": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 24
+  },
+  "s11-025": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 25
+  },
+  "s11-026": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 26
+  },
+  "s11-027": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 27
+  },
+  "s11-028": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 28
+  },
+  "s11-029": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 29
+  },
+  "s11-030": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 30
+  },
+  "s11-031": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 31
+  },
+  "s11-032": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 32
+  },
+  "s11-033": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 33
+  },
+  "s11-034": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 34
+  },
+  "s11-035": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 35
+  },
+  "s11-036": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 36
+  },
+  "s11-037": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 37
+  },
+  "s11-038": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 38
+  },
+  "s11-039": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 39
+  },
+  "s11-040": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 40
+  },
+  "s11-041": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 41
+  },
+  "s11-042": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 42
+  },
+  "s11-043": {
+    "area": "Dermatologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 43
+  },
+  "s11-044": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 44
+  },
+  "s11-045": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 45
+  },
+  "s11-046": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 46
+  },
+  "s11-047": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 47
+  },
+  "s11-048": {
+    "area": "Reumatologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 48
+  },
+  "s11-049": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 49
+  },
+  "s11-050": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 50
+  },
+  "s11-051": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 51
+  },
+  "s11-052": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 52
+  },
+  "s11-053": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 53
+  },
+  "s11-054": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 54
+  },
+  "s11-055": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 55
+  },
+  "s11-056": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 56
+  },
+  "s11-057": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 57
+  },
+  "s11-058": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 58
+  },
+  "s11-059": {
+    "area": "Nefrologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 59
+  },
+  "s11-060": {
+    "area": "Dermatologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 60
+  },
+  "s11-061": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 61
+  },
+  "s11-062": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 62
+  },
+  "s11-063": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 63
+  },
+  "s11-064": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 64
+  },
+  "s11-065": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 65
+  },
+  "s11-066": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 66
+  },
+  "s11-067": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 67
+  },
+  "s11-068": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 68
+  },
+  "s11-069": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 69
+  },
+  "s11-070": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 70
+  },
+  "s11-071": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 71
+  },
+  "s11-072": {
+    "area": "Psiquiatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 72
+  },
+  "s11-073": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 73
+  },
+  "s11-074": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 74
+  },
+  "s11-075": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 75
+  },
+  "s11-076": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 76
+  },
+  "s11-077": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 77
+  },
+  "s11-078": {
+    "area": "Psiquiatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 78
+  },
+  "s11-079": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 79
+  },
+  "s11-080": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 80
+  },
+  "s11-081": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 81
+  },
+  "s11-082": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 82
+  },
+  "s11-083": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 83
+  },
+  "s11-084": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 84
+  },
+  "s11-085": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 85
+  },
+  "s11-086": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 86
+  },
+  "s11-087": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 87
+  },
+  "s11-088": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 88
+  },
+  "s11-089": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 89
+  },
+  "s11-090": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 90
+  },
+  "s11-091": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 91
+  },
+  "s11-092": {
+    "area": "Nefrologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 92
+  },
+  "s11-093": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 93
+  },
+  "s11-094": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 94
+  },
+  "s11-095": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 95
+  },
+  "s11-096": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 96
+  },
+  "s11-097": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 97
+  },
+  "s11-098": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 98
+  },
+  "s11-099": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 99
+  },
+  "s14-001": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 1
+  },
+  "s14-002": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 2
+  },
+  "s14-003": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 3
+  },
+  "s14-004": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 4
+  },
+  "s14-005": {
+    "area": "Ortopedia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 5
+  },
+  "s14-006": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 6
+  },
+  "s14-007": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 7
+  },
+  "s14-008": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 8
+  },
+  "s14-009": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 9
+  },
+  "s14-010": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 10
+  },
+  "s14-011": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 11
+  },
+  "s14-012": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 12
+  },
+  "s14-013": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 13
+  },
+  "s14-014": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 14
+  },
+  "s14-015": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 15
+  },
+  "s14-016": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 16
+  },
+  "s14-017": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 17
+  },
+  "s14-018": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 18
+  },
+  "s14-019": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 19
+  },
+  "s14-020": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 20
+  },
+  "s14-021": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 21
+  },
+  "s14-022": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 22
+  },
+  "s14-023": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 23
+  },
+  "s14-024": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 24
+  },
+  "s14-025": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 25
+  },
+  "s14-026": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 26
+  },
+  "s14-027": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 27
+  },
+  "s14-028": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 28
+  },
+  "s14-029": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 29
+  },
+  "s14-030": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 30
+  },
+  "s14-031": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 31
+  },
+  "s14-032": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 32
+  },
+  "s14-033": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 33
+  },
+  "s14-034": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 34
+  },
+  "s14-035": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 35
+  },
+  "s14-036": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 36
+  },
+  "s14-037": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 37
+  },
+  "s14-038": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 38
+  },
+  "s14-039": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 39
+  },
+  "s14-040": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 40
+  },
+  "s14-041": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 41
+  },
+  "s14-042": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 42
+  },
+  "s14-043": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 43
+  },
+  "s14-044": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 44
+  },
+  "s14-045": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 45
+  },
+  "s14-046": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 46
+  },
+  "s14-047": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 47
+  },
+  "s14-048": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 48
+  },
+  "s14-049": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 49
+  },
+  "s14-050": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 50
+  },
+  "s14-051": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 51
+  },
+  "s14-052": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 52
+  },
+  "s14-053": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 53
+  },
+  "s14-054": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 54
+  },
+  "s14-055": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 55
+  },
+  "s14-056": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 56
+  },
+  "s14-057": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 57
+  },
+  "s14-058": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 58
+  },
+  "s14-059": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 59
+  },
+  "s14-060": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 60
+  },
+  "s14-061": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 61
+  },
+  "s14-062": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 62
+  },
+  "s14-063": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 63
+  },
+  "s14-064": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 64
+  },
+  "s14-065": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 65
+  },
+  "s14-066": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 66
+  },
+  "s14-067": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 67
+  },
+  "s14-068": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 68
+  },
+  "s14-069": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 69
+  },
+  "s14-070": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 70
+  },
+  "s14-071": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 71
+  },
+  "s14-072": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 72
+  },
+  "s14-073": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 73
+  },
+  "s14-074": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 74
+  },
+  "s14-075": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 75
+  },
+  "s14-076": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 76
+  },
+  "s14-077": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 77
+  },
+  "s14-078": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 78
+  },
+  "s14-079": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 79
+  },
+  "s14-080": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 80
+  },
+  "s14-081": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 81
+  },
+  "s14-082": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 82
+  },
+  "s14-083": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 83
+  },
+  "s14-084": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 84
+  },
+  "s14-085": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 85
+  },
+  "s14-086": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 86
+  },
+  "s14-087": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 87
+  },
+  "s14-088": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 88
+  },
+  "s14-089": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 89
+  },
+  "s14-090": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 90
+  },
+  "s14-091": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 91
+  },
+  "s14-092": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 92
+  },
+  "s14-093": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 93
+  },
+  "s14-094": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 94
+  },
+  "s14-095": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 95
+  },
+  "s14-096": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 96
+  },
+  "s14-097": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 97
+  },
+  "s14-098": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 98
+  },
+  "s14-099": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 99
+  },
+  "s14-100": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 100
+  },
+  "s3-001": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 1
+  },
+  "s3-002": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 2
+  },
+  "s3-003": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 3
+  },
+  "s3-004": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 4
+  },
+  "s3-005": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 5
+  },
+  "s3-006": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 6
+  },
+  "s3-007": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 7
+  },
+  "s3-008": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 8
+  },
+  "s3-009": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 9
+  },
+  "s3-010": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 10
+  },
+  "s3-011": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 11
+  },
+  "s3-012": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 12
+  },
+  "s3-013": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 13
+  },
+  "s3-014": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 14
+  },
+  "s3-015": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 15
+  },
+  "s3-016": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 16
+  },
+  "s3-017": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 17
+  },
+  "s3-018": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 18
+  },
+  "s3-019": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 19
+  },
+  "s3-020": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 20
+  },
+  "s3-021": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 21
+  },
+  "s3-022": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 22
+  },
+  "s3-023": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 23
+  },
+  "s3-024": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 24
+  },
+  "s3-025": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 25
+  },
+  "s3-026": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 26
+  },
+  "s3-027": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 27
+  },
+  "s3-028": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 28
+  },
+  "s3-029": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 29
+  },
+  "s3-030": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 30
+  },
+  "s3-031": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 31
+  },
+  "s3-032": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 32
+  },
+  "s3-033": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 33
+  },
+  "s3-034": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 34
+  },
+  "s3-035": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 35
+  },
+  "s3-036": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 36
+  },
+  "s3-037": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 37
+  },
+  "s3-038": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 38
+  },
+  "s3-039": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 39
+  },
+  "s3-040": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 40
+  },
+  "s3-041": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 41
+  },
+  "s3-042": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 42
+  },
+  "s3-043": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 43
+  },
+  "s3-044": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 44
+  },
+  "s3-045": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 45
+  },
+  "s3-046": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 46
+  },
+  "s3-047": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 47
+  },
+  "s3-048": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 48
+  },
+  "s3-049": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 49
+  },
+  "s3-050": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 50
+  },
+  "s3-051": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 51
+  },
+  "s3-052": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 52
+  },
+  "s3-053": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 53
+  },
+  "s3-054": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 54
+  },
+  "s3-055": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 55
+  },
+  "s3-056": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 56
+  },
+  "s3-057": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 57
+  },
+  "s3-058": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 58
+  },
+  "s3-059": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 59
+  },
+  "s3-060": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 60
+  },
+  "s3-061": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 61
+  },
+  "s3-062": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 62
+  },
+  "s3-063": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 63
+  },
+  "s3-064": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 64
+  },
+  "s3-065": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 65
+  },
+  "s3-066": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 66
+  },
+  "s3-067": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 67
+  },
+  "s3-068": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 68
+  },
+  "s3-069": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 69
+  },
+  "s3-070": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 70
+  },
+  "s3-071": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 71
+  },
+  "s3-072": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 72
+  },
+  "s3-073": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 73
+  },
+  "s3-074": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 74
+  },
+  "s3-075": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 75
+  },
+  "s3-076": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 76
+  },
+  "s3-077": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 77
+  },
+  "s3-078": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 78
+  },
+  "s3-079": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 79
+  },
+  "s3-080": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 80
+  },
+  "s3-081": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 81
+  },
+  "s3-082": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 82
+  },
+  "s3-083": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 83
+  },
+  "s3-084": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 84
+  },
+  "s3-085": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 85
+  },
+  "s3-086": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 86
+  },
+  "s3-087": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 87
+  },
+  "s3-088": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 88
+  },
+  "s3-089": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 89
+  },
+  "s3-090": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 90
+  },
+  "s3-091": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 91
+  },
+  "s3-092": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 92
+  },
+  "s3-093": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 93
+  },
+  "s3-094": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 94
+  },
+  "s3-095": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 95
+  },
+  "s3-096": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 96
+  },
+  "s3-097": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 97
+  },
+  "s3-098": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 98
+  },
+  "s3-099": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 99
+  },
+  "s3-100": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 100
+  },
+  "s5-001": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 1
+  },
+  "s5-002": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 2
+  },
+  "s5-003": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 3
+  },
+  "s5-004": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 4
+  },
+  "s5-005": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 5
+  },
+  "s5-006": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 6
+  },
+  "s5-007": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 7
+  },
+  "s5-008": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 8
+  },
+  "s5-009": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 9
+  },
+  "s5-010": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 10
+  },
+  "s5-011": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 11
+  },
+  "s5-012": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 12
+  },
+  "s5-013": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 13
+  },
+  "s5-014": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 14
+  },
+  "s5-015": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 15
+  },
+  "s5-016": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 16
+  },
+  "s5-017": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 17
+  },
+  "s5-018": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 18
+  },
+  "s5-019": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 19
+  },
+  "s5-020": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 20
+  },
+  "s5-021": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 21
+  },
+  "s5-022": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 22
+  },
+  "s5-023": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 23
+  },
+  "s5-024": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 24
+  },
+  "s5-025": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 25
+  },
+  "s5-026": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 26
+  },
+  "s5-027": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 27
+  },
+  "s5-028": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 28
+  },
+  "s5-029": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 29
+  },
+  "s5-030": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 30
+  },
+  "s5-031": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 31
+  },
+  "s5-032": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 32
+  },
+  "s5-033": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 33
+  },
+  "s5-034": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 34
+  },
+  "s5-035": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 35
+  },
+  "s5-036": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 36
+  },
+  "s5-037": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 37
+  },
+  "s5-038": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 38
+  },
+  "s5-039": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 39
+  },
+  "s5-040": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 40
+  },
+  "s5-041": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 41
+  },
+  "s5-042": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 42
+  },
+  "s5-043": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 43
+  },
+  "s5-044": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 44
+  },
+  "s5-045": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 45
+  },
+  "s5-046": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 46
+  },
+  "s5-047": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 47
+  },
+  "s5-048": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 48
+  },
+  "s5-049": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 49
+  },
+  "s5-050": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 50
+  },
+  "s5-051": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 51
+  },
+  "s5-052": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 52
+  },
+  "s5-053": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 53
+  },
+  "s5-054": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 54
+  },
+  "s5-055": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 55
+  },
+  "s5-056": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 56
+  },
+  "s5-057": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 57
+  },
+  "s5-058": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 58
+  },
+  "s5-059": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 59
+  },
+  "s5-060": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 60
+  },
+  "s5-061": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 61
+  },
+  "s5-062": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 62
+  },
+  "s5-063": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 63
+  },
+  "s5-064": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 64
+  },
+  "s5-065": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 65
+  },
+  "s5-066": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 66
+  },
+  "s5-067": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 67
+  },
+  "s5-068": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 68
+  },
+  "s5-069": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 69
+  },
+  "s5-070": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 70
+  },
+  "s5-071": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 71
+  },
+  "s5-072": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 72
+  },
+  "s5-073": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 73
+  },
+  "s5-074": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 74
+  },
+  "s5-075": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 75
+  },
+  "s5-076": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 76
+  },
+  "s5-077": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 77
+  },
+  "s5-078": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 78
+  },
+  "s5-079": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 79
+  },
+  "s5-080": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 80
+  },
+  "s5-081": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 81
+  },
+  "s5-082": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 82
+  },
+  "s5-083": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 83
+  },
+  "s5-084": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 84
+  },
+  "s5-085": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 85
+  },
+  "s5-086": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 86
+  },
+  "s5-087": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 87
+  },
+  "s5-088": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 88
+  },
+  "s5-089": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 89
+  },
+  "s5-090": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 90
+  },
+  "s5-091": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 91
+  },
+  "s5-092": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 92
+  },
+  "s5-093": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 93
+  },
+  "s5-094": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 94
+  },
+  "s5-095": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 95
+  },
+  "s5-096": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 96
+  },
+  "s5-097": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 97
+  },
+  "s5-098": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 98
+  },
+  "s5-099": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 99
+  },
+  "s9-001": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 1
+  },
+  "s9-002": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 2
+  },
+  "s9-003": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 3
+  },
+  "s9-004": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 4
+  },
+  "s9-005": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 5
+  },
+  "s9-006": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 6
+  },
+  "s9-007": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 7
+  },
+  "s9-008": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 8
+  },
+  "s9-009": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 9
+  },
+  "s9-010": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 10
+  },
+  "s9-011": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 11
+  },
+  "s9-012": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 12
+  },
+  "s9-013": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 13
+  },
+  "s9-014": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 14
+  },
+  "s9-015": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 15
+  },
+  "s9-016": {
+    "area": "Pediatria -  Otorrinolaringologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 16
+  },
+  "s9-017": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 17
+  },
+  "s9-018": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 18
+  },
+  "s9-019": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 19
+  },
+  "s9-020": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 20
+  },
+  "s9-021": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 21
+  },
+  "s9-022": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 22
+  },
+  "s9-023": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 23
+  },
+  "s9-024": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 24
+  },
+  "s9-025": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 25
+  },
+  "s9-026": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 26
+  },
+  "s9-027": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 27
+  },
+  "s9-028": {
+    "area": "Pediatria -  Otorrinolaringologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 28
+  },
+  "s9-029": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 29
+  },
+  "s9-030": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 30
+  },
+  "s9-031": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 31
+  },
+  "s9-032": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 32
+  },
+  "s9-033": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 33
+  },
+  "s9-034": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 34
+  },
+  "s9-035": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 35
+  },
+  "s9-036": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 36
+  },
+  "s9-037": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 37
+  },
+  "s9-038": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 38
+  },
+  "s9-039": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 39
+  },
+  "s9-040": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 40
+  },
+  "s9-041": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 41
+  },
+  "s9-042": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 42
+  },
+  "s9-043": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 43
+  },
+  "s9-044": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 44
+  },
+  "s9-045": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 45
+  },
+  "s9-046": {
+    "area": "Cirurgia - Hepatologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 46
+  },
+  "s9-047": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 47
+  },
+  "s9-048": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 48
+  },
+  "s9-049": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 49
+  },
+  "s9-050": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 50
+  },
+  "s9-051": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 51
+  },
+  "s9-052": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 52
+  },
+  "s9-053": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 53
+  },
+  "s9-054": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 54
+  },
+  "s9-055": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 55
+  },
+  "s9-056": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 56
+  },
+  "s9-057": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 57
+  },
+  "s9-058": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 58
+  },
+  "s9-059": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 59
+  },
+  "s9-060": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 60
+  },
+  "s9-061": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 61
+  },
+  "s9-062": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 62
+  },
+  "s9-063": {
+    "area": "Cirurgia - Hepatologia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 63
+  },
+  "s9-064": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 64
+  },
+  "s9-065": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 65
+  },
+  "s9-066": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 66
+  },
+  "s9-067": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 67
+  },
+  "s9-068": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 68
+  },
+  "s9-069": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 69
+  },
+  "s9-070": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 70
+  },
+  "s9-071": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 71
+  },
+  "s9-072": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 72
+  },
+  "s9-073": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 73
+  },
+  "s9-074": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 74
+  },
+  "s9-075": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 75
+  },
+  "s9-076": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 76
+  },
+  "s9-077": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 77
+  },
+  "s9-078": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 78
+  },
+  "s9-079": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 79
+  },
+  "s9-080": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 80
+  },
+  "s9-081": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 81
+  },
+  "s9-082": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 82
+  },
+  "s9-083": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 83
+  },
+  "s9-084": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 84
+  },
+  "s9-085": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 85
+  },
+  "s9-086": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 86
+  },
+  "s9-087": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 87
+  },
+  "s9-088": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 88
+  },
+  "s9-089": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 89
+  },
+  "s9-090": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 90
+  },
+  "s9-091": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 91
+  },
+  "s9-092": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 92
+  },
+  "s9-093": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 93
+  },
+  "s9-094": {
+    "area": "Medicina Preventiva",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 94
+  },
+  "s9-095": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 95
+  },
+  "s9-096": {
+    "area": "Clínica Médica",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 96
+  },
+  "s9-097": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 97
+  },
+  "s9-098": {
+    "area": "Ginecologia e Obstetrícia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 98
+  },
+  "s9-099": {
+    "area": "Cirurgia",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 99
+  },
+  "s9-100": {
+    "area": "Pediatria",
+    "subarea": "",
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª",
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 100
+  },
+  "site-pf-001": {
+    "area": "Ginecologia",
+    "subarea": "Planejamento familiar",
+    "fonte": "BQMED (Site) — UEM - Universidade Estadual de Maringá 2018",
+    "instituicao": "UEM - Universidade Estadual de Maringá",
+    "ano": 2018,
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 1
+  },
+  "site-pf-002": {
+    "area": "Ginecologia",
+    "subarea": "Planejamento familiar",
+    "fonte": "BQMED (Site) — SUS Bahia (BA) 2024",
+    "instituicao": "SUS Bahia (BA)",
+    "ano": 2024,
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 2
+  },
+  "site-pf-003": {
+    "area": "Ginecologia",
+    "subarea": "Planejamento familiar",
+    "fonte": "BQMED (Site) — Hospital Evangélico de Cachoeira de Itapemirim (HECI) 2023",
+    "instituicao": "Hospital Evangélico de Cachoeira de Itapemirim (HECI)",
+    "ano": 2023,
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 3
+  },
+  "site-pf-004": {
+    "area": "Ginecologia",
+    "subarea": "Planejamento familiar",
+    "fonte": "BQMED (Site) — Hospital Estadual Dirceu Arcoverde (HEDA) 2026",
+    "instituicao": "Hospital Estadual Dirceu Arcoverde (HEDA)",
+    "ano": 2026,
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 4
+  },
+  "site-pf-005": {
+    "area": "Ginecologia",
+    "subarea": "Planejamento familiar",
+    "fonte": "BQMED (Site) — Santa Casa de Misericórdia de Campo Grande (SCMCG) 2021",
+    "instituicao": "Santa Casa de Misericórdia de Campo Grande (SCMCG)",
+    "ano": 2021,
+    "dificuldade": "Media",
+    "simulado": "",
+    "numero": 5
+  },
+  "site-int-001": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — Universidade Federal de Goiás (UFG) 2018",
+    "instituicao": "Universidade Federal de Goiás (UFG)",
+    "ano": 2018,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 1
+  },
+  "site-int-002": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000024767)",
+    "instituicao": "BQMED (ID 4000024767)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 2
+  },
+  "site-int-003": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000035693)",
+    "instituicao": "BQMED (ID 4000035693)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 3
+  },
+  "site-int-004": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000046166)",
+    "instituicao": "BQMED (ID 4000046166)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 4
+  },
+  "site-int-005": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000099510)",
+    "instituicao": "BQMED (ID 4000099510)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 5
+  },
+  "site-int-006": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000107179)",
+    "instituicao": "BQMED (ID 4000107179)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 6
+  },
+  "site-int-007": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000107233)",
+    "instituicao": "BQMED (ID 4000107233)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 7
+  },
+  "site-int-008": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000107977)",
+    "instituicao": "BQMED (ID 4000107977)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 8
+  },
+  "site-int-009": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000108503)",
+    "instituicao": "BQMED (ID 4000108503)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 9
+  },
+  "site-int-010": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000112202)",
+    "instituicao": "BQMED (ID 4000112202)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 10
+  },
+  "site-int-011": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — Hospital Professor Edmundo Vasconcelos (HPEV) 2019",
+    "instituicao": "Hospital Professor Edmundo Vasconcelos (HPEV)",
+    "ano": 2019,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 11
+  },
+  "site-int-012": {
+    "area": "Clínica Médica",
+    "subarea": "Pneumologia Intensiva",
+    "fonte": "BQMED (Site) — BQMED (ID 4000115274)",
+    "instituicao": "BQMED (ID 4000115274)",
+    "ano": null,
+    "dificuldade": "Média",
+    "simulado": "",
+    "numero": 12
+  }
+}
