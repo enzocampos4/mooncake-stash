@@ -2998,8 +2998,8 @@
     {
       "id": "pv-pe-2024-0093",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "subarea": "Infectologia",
+      "sub_subarea": "",
       "enunciado": "Um paciente realizou o leucograma abaixo como parte da investigação de quadro febril. Leucócitos 12.500/mm³, bastões 1%, neutrófilos 30%, eosinófilos 1%, linfócitos típicos 40%, linfócitos atípicos 20%, monócitos 8% Qual, dentre os abaixo relacionados, é o diagnóstico mais provável com base no exame?",
       "alternativas": {
         "A": "Febre tifoide",
@@ -3022,8 +3022,8 @@
     {
       "id": "pv-pe-2024-0094",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Uma paciente de 19 anos evoluiu com um quadro ansioso-depressivo, nos últimos dois anos, período durante o qual desenvolveu compulsão alimentar com ganho de 20 kg. Por conta disso, isolou-se socialmente, por vergonha da estética corporal. Qual das medicações abaixo seria mais adequada para este caso?",
       "alternativas": {
         "A": "Fluoxetina",
@@ -3047,7 +3047,7 @@
       "id": "pv-pe-2024-0100",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Metabolismo Ósseo e Mineral",
       "enunciado": "Uma paciente de 35 anos realizou tomografia de coluna para investigação de dor lombar importante, iniciada há 15 dias, com o achado de fratura vertebral. Densitometria revelou osteoporose. Qual dos exames abaixo NAO deveria fazer parte da investigação inicial deste caso?",
       "alternativas": {
         "A": "PTH",
@@ -3080,7 +3080,7 @@
       "id": "pv-pe-2025-0109",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "AR",
+      "sub_subarea": "Artropatias inflamatórias",
       "enunciado": "Um homem de 55 anos apresenta dor e rigidez nas articulações das mãos e pés, com piora matinal. No exame físico, há inchaço nas articulações metacarpofalângicas, metatarsofalângicas e joelhos, com deformidades nas mãos em \"padrão de cisne\" e \"botonê\". Relata fadiga e perda de peso recente. Exames laboratoriais mostram Fator Reumatoide (FR) positivo, Anti-CCP positivo, VHS elevado e radiografia das mãos com erosões marginais e diminuição do espaço articular. Considerando esses achados, qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Esclerodermia.",
@@ -3104,7 +3104,7 @@
       "id": "pv-pe-2025-0113",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Em relação à insuficiência renal aguda (IRA), é INCORRETO afirmar que",
       "alternativas": {
         "A": "a IRA pré-renal caracteriza-se frequentemente por um índice urinário de sódio baixo, refletindo a capacidade de retenção de sódio na tentativa de aumentar a perfusão renal.",
@@ -3127,8 +3127,8 @@
     {
       "id": "pv-pe-2025-0114",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Infecção do trato urinário (ITU)",
       "enunciado": "Um homem de 85 anos, residente em uma instituição de longa permanência, é submetido a exames de rotina devido a histórico de hipertensão e diabetes controlados. Ele está assintomático, sem queixas de dor ao urinar, febre, urgência ou frequência urinária aumentada. Durante o exame físico, ele se apresenta afebril, em bom estado geral e sem sinais de desconforto abdominal ou lombar. Traz os seguintes exames Ureia: 45 mg/dL, sumário de urina: sem leucócitos por campo, nitrito negativo, urocultura: crescimento de Escherichia coli, 10⁵ UFC/mL. Dado o quadro clínico e os achados laboratoriais, qual é a conduta mais adequada para esse paciente?",
       "alternativas": {
         "A": "Prescrever antibiótico oral para evitar infecção sintomática.",
@@ -3151,8 +3151,8 @@
     {
       "id": "pv-pe-2025-0123",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Coma e Alterações da Consciência",
       "enunciado": "Homem, 53 anos. Vítima de espancamento. Apresenta-se combativo e com sinais de trauma de face. Oferecido O2 com máscara e saturação ficou em 90%. Após 20 min, desorientou e SatO2 foi para 85%. Indicado TC de crânio após intubação com sequência rápida. Em relação e esse procedimento, qual sedativo abaixo, de acordo com o ATLS, não afeta negativamente a pressão arterial e intracraniana?",
       "alternativas": {
         "A": "Succinilcolina",
@@ -3175,8 +3175,8 @@
     {
       "id": "pv-pe-2025-0124",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Homem 78 nos. Queda frontal (bateu a face) da própria altura há 1h. GCS =15. Fraqueza (grau II de força) em membros superiores e deambula normalmente. TC espinal sem fraturas e com osteoartrose da coluna cervical. O quadro clínico descrito é compatível com",
       "alternativas": {
         "A": "Síndrome da medula central",
@@ -3206,7 +3206,7 @@
       "id": "pv-pe-2025-0131",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "sub_subarea": "Procedimentos endoscópicos",
       "enunciado": "Paciente, sexo feminino, 34 anos, história de dor abdominal recorrente em quadrantes superiores, procura serviço de urgência com novo episódio de dor abdominal e icterícia de início recente. Realizou exames laboratoriais que evidenciaram leucocitose, hiperbilirrubinemia, aumento de transaminases e canaliculares. Foi submetida a exame de imagem com resultado abaixo: Qual o provável diagnóstico da paciente?",
       "alternativas": {
         "A": "Colecistite aguda não complicada",
@@ -3242,7 +3242,7 @@
     {
       "id": "pv-pe-2025-0132",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Gastroenterologia",
       "sub_subarea": "",
       "enunciado": "Sobre a imagem abaixo da anatomia da região inguinal, é CORRETO afirmar que",
       "alternativas": {
@@ -3279,8 +3279,8 @@
     {
       "id": "pv-pe-2025-0135",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Transplante Hepático e Hepatectomia",
       "enunciado": "Mulher, 67 anos, hipertensa e diabética, fez colonoscopia que evidenciou lesão neoplásica em reto alto. A tomografia de estadiamento evidencia as alterações na imagem abaixo: Sobre o planejamento terapêutico dessa paciente é CORRETO afirmar que",
       "alternativas": {
         "A": "essa paciente não possui proposta curativa, sendo indicado apenas controle sintomático.",
@@ -3309,8 +3309,8 @@
     {
       "id": "pv-pe-2025-0136",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Transplante Hepático e Hepatectomia",
       "enunciado": "A paciente da questão (questão 35) anterior questionou seu médico se não seria possível fazer um transplante hepático. O médico esclareceu que não estão nas condições previstas pelo ministério da saúde para o transplante. Dentre as opções abaixo, também NÃO está contemplado pelo MS para o transplante:",
       "alternativas": {
         "A": "Hepatocarcinoma",

@@ -2,8 +2,8 @@
   "s1-009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Nefrologia",
+    "subsub": "Distúrbios do potássio",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -11,8 +11,8 @@
   "s1-017": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "",
+    "sub": "Reumatologia",
+    "subsub": "Doenças da cartilagem e do osso",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -20,7 +20,7 @@
   "s1-022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
+    "sub": "Infectologia",
     "subsub": "Pneumonia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -29,8 +29,8 @@
   "s1-032": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -38,8 +38,8 @@
   "s1-039": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -47,8 +47,8 @@
   "s1-048": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Neurologia",
+    "subsub": "Distúrbios do Sono",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -57,7 +57,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Anemias",
+    "subsub": "Anemias macrocíticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -65,8 +65,8 @@
   "s1-059": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "",
+    "sub": "Reumatologia",
+    "subsub": "Síndromes Dolorosas Crônicas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -75,7 +75,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Arritmias",
+    "subsub": "Arritmias Cardíacas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -83,8 +83,8 @@
   "s11-012": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "",
+    "sub": "Reumatologia",
+    "subsub": "Artropatias inflamatórias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -92,8 +92,8 @@
   "s11-015": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -102,7 +102,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -164,8 +164,8 @@
   "s11-093": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuf Cardiaca",
+    "sub": "Hematologia",
+    "subsub": "Medicina transfusional",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -174,7 +174,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "DAC",
+    "subsub": "Doenças do pericárdio",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -182,8 +182,8 @@
   "s14-005": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Ortopedia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Mielopatias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -191,8 +191,8 @@
   "s14-017": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Endocrinologia",
+    "subsub": "Adrenal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -200,8 +200,8 @@
   "s14-025": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Epilepsias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -209,8 +209,8 @@
   "s14-030": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -219,7 +219,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Arritmias",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -272,7 +272,7 @@
   "s14-074": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -281,8 +281,8 @@
   "s14-098": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -291,7 +291,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Doença Renal Crônica",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -299,8 +299,8 @@
   "s3-016": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Meningites",
+    "sub": "Neurologia",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -308,8 +308,8 @@
   "s3-023": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Gastroenterologia",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -318,7 +318,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "",
+    "subsub": "Câncer de pele",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -326,8 +326,8 @@
   "s3-034": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Tumores Hepáticos",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -335,8 +335,8 @@
   "s3-052": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Câncer de Pulmão",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -344,8 +344,8 @@
   "s5-014": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Endocrinologia",
+    "subsub": "Metabolismo Ósseo e Mineral",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -363,7 +363,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Tromboembolismo Pulmonar (TEP)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -371,8 +371,8 @@
   "s5-020": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Reumatologia",
+    "subsub": "Vasculites",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -381,7 +381,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "",
+    "subsub": "Câncer de pele",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -389,8 +389,8 @@
   "s5-041": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Hepatites Virais",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -399,7 +399,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Pâncreas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -408,7 +408,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "",
+    "subsub": "Dermatoses infecciosas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -443,8 +443,8 @@
   "s9-015": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Asma",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -453,7 +453,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Pneumonia",
+    "subsub": "Infecções bacterianas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -461,8 +461,8 @@
   "s9-029": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Hematologia",
+    "subsub": "Hemoglobinopatias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -470,8 +470,8 @@
   "s9-044": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Cefaleias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -479,8 +479,8 @@
   "s9-051": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Reumatologia",
+    "subsub": "Doenças da cartilagem e do osso",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -489,7 +489,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "",
+    "subsub": "Dermatoses infecciosas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -497,8 +497,8 @@
   "s9-061": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "Doenças Neuromusculares",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -507,7 +507,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "",
+    "subsub": "Dermatoses infecciosas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -515,8 +515,8 @@
   "s9-074": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Pneumologia Intensiva",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -525,7 +525,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Valvopatias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -533,8 +533,8 @@
   "s9-096": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -543,7 +543,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Introdução à Pneumologia",
     "banca": "UFG",
     "ano": 2018,
     "fonte": "BQMED (Site) — Universidade Federal de Goiás (UFG) 2018"
@@ -552,7 +552,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Introdução à Pneumologia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000024767)"
@@ -561,7 +561,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Introdução à Pneumologia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000035693)"
@@ -570,7 +570,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Introdução à Pneumologia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000046166)"
@@ -579,7 +579,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Introdução à Pneumologia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000099510)"
@@ -588,7 +588,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Introdução à Pneumologia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000107179)"
@@ -597,7 +597,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Pneumologia Intensiva",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000107233)"
@@ -606,7 +606,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Pneumologia Intensiva",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000107977)"
@@ -624,7 +624,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Pneumologia Intensiva",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000112202)"
@@ -633,7 +633,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Pneumologia Intensiva",
     "banca": "HPEV",
     "ano": 2019,
     "fonte": "BQMED (Site) — Hospital Professor Edmundo Vasconcelos (HPEV) 2019"
@@ -642,7 +642,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Pneumologia Intensiva",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — BQMED (ID 4000115274)"
@@ -650,8 +650,8 @@
   "pv-ena-2024-0022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -660,7 +660,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Fisiologia Cardíaca e Eletrocardiograma",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -668,8 +668,8 @@
   "pv-ena-2024-0032": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "TEP",
+    "sub": "Hematologia",
+    "subsub": "Hemostasia",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -678,7 +678,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Epilepsia",
+    "subsub": "Epilepsias",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -686,8 +686,8 @@
   "pv-ena-2024-0058": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -695,8 +695,8 @@
   "pv-ena-2024-0064": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "TEP",
+    "sub": "Hematologia",
+    "subsub": "Hemostasia",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -705,7 +705,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -713,8 +713,8 @@
   "pv-ena-2024-0072": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Gastroenterologia",
+    "subsub": "Pâncreas",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -722,8 +722,8 @@
   "pv-ena-2024-0073": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Gastroenterologia",
+    "subsub": "Neoplasias do Sistema Digestivo",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -731,8 +731,8 @@
   "pv-ena-2024-0079": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
+    "sub": "Hepatologia",
+    "subsub": "Outras Hepatopatias",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -741,7 +741,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "AR",
+    "subsub": "Artropatias inflamatórias",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -750,7 +750,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Metabolismo Ósseo e Mineral",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -759,7 +759,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Distúrbios do Movimento",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -767,8 +767,8 @@
   "pv-ena-2024-0086": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "sub": "Infectologia",
+    "subsub": "Pneumonia",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -776,8 +776,8 @@
   "pv-ena-2024-0088": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Hepatologia",
+    "subsub": "Complicações da Insuficiência Hepática",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -794,8 +794,8 @@
   "pv-ena-2024-0096": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -804,7 +804,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Hanseníase",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -812,8 +812,8 @@
   "pv-ena-2025-0112": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Outras Hepatopatias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -821,8 +821,8 @@
   "pv-ena-2025-0115": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Outras Hepatopatias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -831,7 +831,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Glomerulopatias",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -839,8 +839,8 @@
   "pv-ena-2025-0119": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Hepatites Virais",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -848,8 +848,8 @@
   "pv-ena-2025-0120": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Outras Hepatopatias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -857,8 +857,8 @@
   "pv-ena-2025-0123": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Hematologia",
+    "subsub": "Hemostasia",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -875,8 +875,8 @@
   "pv-ena-2025-0132": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Hepatologia",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -884,8 +884,8 @@
   "pv-ena-2025-0134": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Pâncreas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -893,8 +893,8 @@
   "pv-ena-2025-0157": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -902,8 +902,8 @@
   "pv-ena-2025-0175": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções do Sistema Nervoso Central",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -911,8 +911,8 @@
   "pv-ena-2025-0180": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -920,8 +920,8 @@
   "pv-ena-2025-0185": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -929,8 +929,8 @@
   "pv-ena-2025-0197": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Neurologia",
+    "subsub": "Cefaleias",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -938,8 +938,8 @@
   "pv-ena-2025-0198": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Tuberculose",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -947,8 +947,8 @@
   "pv-ena-2025-0199": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Influenza",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -966,7 +966,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Parasitoses",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -974,7 +974,7 @@
   "pv-pe-2024-0006": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
@@ -983,7 +983,7 @@
   "pv-pe-2024-0007": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
@@ -992,7 +992,7 @@
   "pv-pe-2024-0009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
@@ -1001,8 +1001,8 @@
   "pv-pe-2024-0019": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Neurologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Animais peçonhentos",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1010,8 +1010,8 @@
   "pv-pe-2024-0033": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "DII",
+    "sub": "Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1019,8 +1019,8 @@
   "pv-pe-2024-0044": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1028,8 +1028,8 @@
   "pv-pe-2024-0045": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1037,8 +1037,8 @@
   "pv-pe-2024-0046": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1046,8 +1046,8 @@
   "pv-pe-2024-0048": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1055,8 +1055,8 @@
   "pv-pe-2024-0054": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1065,7 +1065,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Neoplasias do Sistema Digestivo",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1073,8 +1073,8 @@
   "pv-pe-2024-0091": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Dengue",
+    "sub": "Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
