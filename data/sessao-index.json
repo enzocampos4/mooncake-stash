@@ -2486,8 +2486,8 @@
   "pv-ufr-2025-0168": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Hepatites Virais",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2496,7 +2496,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2504,8 +2504,8 @@
   "pv-ufr-2025-0173": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2514,7 +2514,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2522,8 +2522,8 @@
   "pv-ufr-2025-0176": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Cardiologia",
+    "subsub": "Síndromes aórticas agudas",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2532,7 +2532,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "subsub": "Hemostasia",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2541,7 +2541,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "subsub": "Introdução à Pneumologia",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2549,8 +2549,8 @@
   "pv-ufr-2025-0181": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Outras Hepatopatias",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2558,8 +2558,8 @@
   "pv-ufr-2025-0186": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Dermatologia",
+    "subsub": "Lesões elementares",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2568,7 +2568,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "DAC",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2576,8 +2576,8 @@
   "pv-ufr-2025-0188": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2585,8 +2585,8 @@
   "pv-ufr-2025-0189": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
