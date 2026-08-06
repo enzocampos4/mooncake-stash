@@ -1514,8 +1514,8 @@
   "pv-mg-2025-0100": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -1523,8 +1523,8 @@
   "pv-mg-2025-0101": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Intoxicação",
+    "sub": "Infectologia",
+    "subsub": "Infecções relacionadas à assistência à saúde (IRAS)",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -1532,8 +1532,8 @@
   "pv-mg-2025-0117": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -1541,8 +1541,8 @@
   "pv-mg-2025-0118": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Infectologia",
+    "subsub": "HIV/Aids",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -1551,7 +1551,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "subsub": "Distúrbios do potássio",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -1568,8 +1568,8 @@
   "pv-mg-2025-0133": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Hepatologia",
+    "subsub": "Introdução à Hepatologia",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -1578,7 +1578,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Arritmias Cardíacas",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -1586,8 +1586,8 @@
   "pv-amr-2024-0003": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Distúrbios do Sono",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -1595,7 +1595,7 @@
   "pv-amr-2024-0005": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
@@ -1604,7 +1604,7 @@
   "pv-amr-2024-0012": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
@@ -1613,7 +1613,7 @@
   "pv-amr-2024-0018": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,

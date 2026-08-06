@@ -4637,8 +4637,8 @@
     {
       "id": "pv-amr-2024-0024",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Gênero",
       "enunciado": "No atraso puberal secundário às síndromes de Turner e Klinefelter, temos hipogonadismo, respectivamente:",
       "alternativas": {
         "A": "Hipogonadotrófico e hipergonadotrófico.",
@@ -4668,8 +4668,8 @@
     {
       "id": "pv-amr-2024-0032",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções do Sistema Nervoso Central",
       "enunciado": "São sinais de irritação meningorradicular encontrados em pacientes, EXCETO:",
       "alternativas": {
         "A": "Rigidez de nuca.",
@@ -4702,8 +4702,8 @@
     {
       "id": "pv-amr-2024-0037",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Um paciente com hemianopsia bitemporal apresenta comprometimento no:",
       "alternativas": {
         "A": "Lobo temporal.",
@@ -4731,8 +4731,8 @@
     {
       "id": "pv-amr-2024-0038",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "São evidências clínicas de hipertensão intracraniana: I. Papiledema. II. Depressão da consciência. III. Déficits neurológicos focais. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -4798,8 +4798,8 @@
     {
       "id": "pv-amr-2024-0055",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Dermatoses infecciosas",
       "enunciado": "Mulher, 23 anos, vem à consulta porque notou, há 1 semana, uma lesão não pruriginosa na vulva. Ao exame físico, a lesão apresenta uma pápula única, rosada com uma depressão central semelhante a um umbigo, não dolorosa. O diagnóstico mais provável é:",
       "alternativas": {
         "A": "Molusco contagioso.",
@@ -4821,8 +4821,8 @@
     {
       "id": "pv-amr-2024-0061",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "Sobre os diagnósticos diferenciais na elucidação diagnóstica das massas ovarianas, é INCORRETO afirmar que:",
       "alternativas": {
         "A": "Entre as patologias malignas, encontra-se carcinoma invasivo de células claras, carcinoma invasivo endometrial, entre outros.",
@@ -4850,8 +4850,8 @@
     {
       "id": "pv-amr-2024-0063",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "Assinale a alternativa correta sobre a anatomia vascular do cólon.",
       "alternativas": {
         "A": "O cólon sigmoide é vascularizado pela artéria mesentérica superior.",
@@ -4879,8 +4879,8 @@
     {
       "id": "pv-amr-2024-0064",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Tireoide",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "Sobre o sistema TNM de classificação dos tumores malignos encontrados no intestino delgado, é correto afirmar que:",
       "alternativas": {
         "A": "Uma lesão classificada como T3 tem tamanho entre cinco e dez centímetros.",
@@ -4902,8 +4902,8 @@
     {
       "id": "pv-amr-2024-0065",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "A classificação de Spigelman é utilizada para melhor avaliação da adenomatose duodenal. Sobre esse assunto, assinale a alternativa correta.",
       "alternativas": {
         "A": "A classificação tem cinco parâmetros, sendo um deles o número de adenomas encontrados.",
@@ -4932,7 +4932,7 @@
       "id": "pv-amr-2024-0068",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Microbiologia e Antimicrobianos",
       "enunciado": "São antibióticos que exigem ajuste de dose por insuficiência hepática ou renal, EXCETO:",
       "alternativas": {
         "A": "Meropenem.",
@@ -4960,8 +4960,8 @@
     {
       "id": "pv-amr-2024-0069",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Sepse",
       "enunciado": "Considera-se um fator de risco associado à ventilação mecânica pós-operatória:",
       "alternativas": {
         "A": "Nível de albumina <2,2 mg/dl.",
