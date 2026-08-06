@@ -2270,8 +2270,8 @@
   "pv-ufr-2024-0124": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Cardiologia",
+    "subsub": "Fisiologia Cardíaca e Eletrocardiograma",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2279,8 +2279,8 @@
   "pv-ufr-2024-0125": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2288,8 +2288,8 @@
   "pv-ufr-2024-0133": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2298,7 +2298,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "TEP",
+    "subsub": "Tromboembolismo Pulmonar (TEP)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2306,8 +2306,8 @@
   "pv-ufr-2024-0137": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2315,8 +2315,8 @@
   "pv-ufr-2024-0138": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Endocrinologia",
+    "subsub": "Adrenal",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2325,7 +2325,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Cefaleia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2333,8 +2333,8 @@
   "pv-ufr-2024-0141": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Microbiologia e Antimicrobianos",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2342,8 +2342,8 @@
   "pv-ufr-2024-0143": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Nefrologia",
+    "subsub": "Distúrbios do potássio",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2351,8 +2351,8 @@
   "pv-ufr-2024-0146": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Doenças Neuromusculares",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2360,8 +2360,8 @@
   "pv-ufr-2024-0147": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "",
+    "sub": "Reumatologia",
+    "subsub": "Doenças da cartilagem e do osso",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2370,7 +2370,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Neurologia Vestibular",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
