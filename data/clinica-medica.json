@@ -20,9 +20,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cardiologia",
+      "subarea": "Nefrologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Distúrbios do potássio",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -42,9 +42,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Endocrinologia",
+      "subarea": "Reumatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças da cartilagem e do osso",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -64,7 +64,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Pneumologia",
+      "subarea": "Infectologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "Pneumonia",
       "banca": "ESTRATÉGIA MED"
@@ -86,9 +86,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Nefrologia",
+      "subarea": "Infectologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções bacterianas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -108,9 +108,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Dermatologia",
+      "subarea": "Infectologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Outras doenças infecciosas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -130,9 +130,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cardiologia",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Distúrbios do Sono",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -154,7 +154,7 @@
       "_edicao": "1",
       "subarea": "Hematologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Anemias",
+      "sub_subarea": "Anemias macrocíticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -174,9 +174,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Endocrinologia",
+      "subarea": "Reumatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Síndromes Dolorosas Crônicas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -198,7 +198,7 @@
       "_edicao": "1",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Arritmias",
+      "sub_subarea": "Arritmias Cardíacas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -218,9 +218,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Endocrinologia",
+      "subarea": "Reumatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Artropatias inflamatórias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -243,9 +243,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cardiologia",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "DAC",
+      "sub_subarea": "Acidentes Vasculares Cerebrais (AVC)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -269,7 +269,7 @@
       "_edicao": "11",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -423,9 +423,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cardiologia",
+      "subarea": "Hematologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Insuf Cardiaca",
+      "sub_subarea": "Medicina transfusional",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -449,7 +449,7 @@
       "_edicao": "11",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "DAC",
+      "sub_subarea": "Doenças do pericárdio",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -472,9 +472,10 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Ortopedia",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Mielopatias"
     },
     {
       "id": "s14-017",
@@ -495,9 +496,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cardiologia",
+      "subarea": "Endocrinologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Adrenal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -518,9 +519,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Psiquiatria",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Epilepsias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -538,9 +539,9 @@
       "explicacao": "Esta questão é importante para não esquecermos um tratamento no contexto do AVCi que também é IA, ou seja, deve ser feito! Trata-se\nda craniectomia descompressiva e, no caso em questão, o procedimento está inequivocamente indicado.\nÉ uma intervenção potencialmente salvadora no AVC isquêmico maligno da artéria cerebral média (ACM), situação em que o edema\ncerebral maciço leva à hipertensão intracraniana e herniação cerebral, com mortalidade que pode ultrapassar 70 a 80% quando tratada\napenas de forma clínica.\nA lógica do procedimento é simples: remover um grande segmento do osso craniano permite  a expansão do cérebro edemaciado,\nreduzindo a pressão intracraniana e prevenindo a herniação.\nOs principais estudos que estabeleceram essa conduta foram DECIMAL, DESTINY e HAMLET, posteriormente analisados em meta-análise\nconjunta, demonstrando que a cirurgia realizada precocemente (até 48 horas) reduz significativamente a mortalidade e aumenta a chance\nde sobrevivência com algum grau de independência funcional. Atenção para a janela de 48 horas, que o define como profilático.\nSegundo as diretrizes recentes da AHA/ASA (2026), apesar de indicado em qualquer faixa etária desde que presentes o AVCi maligno e a\nrepercussão no nível de consciência, em pacientes com mais de 60 anos, apesar de ainda haver benefício, uma vez que ocorre aumento\nna chance de sobrevivência com incapacidade funcional, a conduta deve ser discutida com os familiares.\nDo ponto de vista da imagem, lembre-se de que definem o AVC como “maligno”, a presença de um infarto ≥ 50% do território da ACM na\nTC, sendo mais importante a extensão lateral do edema ou o volume do infarto > 145 mL na RM de encéfalo.\nCorreta a alternativa A. Exatamente. Como vimos acima, a craniectomia descompressiva é o método de escolha no cenário em questão.\n\nEstratégia\nMED\n47\nIncorreta a alternativa B. O paciente está fora da janela e a presença de edema acentuado envolve risco aumentado de sangramento,\ncontraindicando a recanalização.\nIncorreta a alternativa C. Existe um tratamento IA para o quadro em questão! Esse é o ponto mais importante da questão.\nIncorreta a alternativa D. Um alvo pressórico tão estrito pioraria a hipoperfusão cerebral, não sendo, portanto, recomendado.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cardiologia",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "DAC",
+      "sub_subarea": "Acidentes Vasculares Cerebrais (AVC)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -560,7 +561,7 @@
       "_edicao": "14",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Arritmias",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -695,7 +696,7 @@
       "explicacao": "Estrategista, esta questão aborda um tema extremamente relevante na prática clínica: os limites do sigilo médico diante do risco de suicídio\nem adolescentes.\nDe forma geral, a confidencialidade é um dos pilares da relação médico-paciente e deve ser preservada sempre que possível. Entretanto, o\nsigilo profissional não é absoluto. Situações que envolvem risco significativo à vida ou à integridade do próprio paciente constituem exceções\néticas e legais à regra da confidencialidade.\nNo caso apresentado, o adolescente não apenas apresenta sintomas compatíveis com episódio depressivo maior, como também realizou uma\ntentativa de suicídio por intoxicação medicamentosa após semanas de planejamento prévio. Trata-se, portanto, de um quadro de elevado\nrisco, exigindo compartilhamento das informações com os responsáveis e avaliação imediata das medidas de proteção necessárias.\nOutro aspecto importante é que a definição entre acompanhamento domiciliar intensivo, hospitalização voluntária ou internação involuntária\ndepende da avaliação individualizada do risco suicida, não podendo ser determinada automaticamente apenas pela ocorrência da tentativa.\nVamos analisar as alternativas.\nIncorreta a alternativa A. O risco à vida justifica a quebra do sigilo. Além disso, a prioridade inicial é a avaliação do risco suicida e a proteção\ndo paciente, não o início imediato de antidepressivos.\nIncorreta a alternativa B. Informar apenas sobre a intoxicação omite o principal problema clínico: a tentativa de suicídio. Os responsáveis\nprecisam conhecer a real gravidade da situação.\nCorreta a alternativa C. A tentativa de suicídio exige comunicação aos responsáveis, avaliação formal do risco suicida e definição da necessidade\nde acompanhamento domiciliar intensivo ou internação.\n\nEstratégia\nMED\n125\nIncorreta a alternativa D. O sigilo não deve ser mantido diante do risco de morte. Além disso, a internação psiquiátrica não é automática e\ndeve ser definida após avaliação individualizada do risco.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Psiquiatria",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -715,9 +716,9 @@
       "explicacao": "Temos um paciente idoso, com múltiplos fatores de risco para doença aterosclerótica, apresentando lesão ulcerada em membro inferior\nesquerdo há 3 semanas. As úlceras arteriais e venosas possuem apresentação clínica distinta, veja a seguir:\n\nEstratégia\nMED\n161\nCom base nesse quadro, podemos avaliar que o paciente apresenta uma úlcera distal, dolorosa, pouco exsudativa, com bordas bem definidas\ne pulsos distais reduzidos, sendo bastante característico de uma úlcera arterial. Além disso, há histórico de claudicação intermitente, ao\nrelatar dor em queimação ao caminhar.\nA oclusão arterial crônica (OAC) é causada pelo acúmulo de lipídios e tecido fibroso na parede das artérias, provocando seu estreitamento\nprogressivo e redução do fluxo sanguíneo. A doença compartilha dos mesmos fatores de risco para a aterosclerose, como tabagismo, idade\navançada, hipertensão, diabetes, dislipidemia e obesidade. O quadro clínico característico é a claudicação intermitente e progressiva, com\nmelhora da dor em repouso e com pernas pendentes, redução dos pulsos periféricos, rarefação de pelos, atrofia, onicodistrofia e lesões\ntróficas. O diagnóstico é clínico, confirmado com o índice tornozelo-braquial ≤ 0,9. Exames contrastados como angiotomografia e arteriografia\nsão indicados apenas em contexto pré-operatório.\nO tratamento envolve o controle dos fatores de risco como cessação do tabagismo, controle glicêmico e pressórico, uso de estatinas e\nantiagregantes, além de exercício físico e cilostazol para controle de sintomas. Nos casos com claudicação incapacitante sem resposta ao\ntratamento ou sinais de isquemia crítica do membro (dor em repouso, úlceras > 2 semanas e gangrena), o tratamento cirúrgico com a\nrevascularização arterial está indicado.\nIncorreta a alternativa A. Este seria o tratamento recomendado para úlceras venosas. No caso de úlceras arteriais, o desbridamento só pode\nser realizado após a revascularização arterial, para delimitação da área.\nIncorreta a alternativa B. Não é indicada a anticoagulação plena para o tratamento de úlceras arteriais.\nCorreta a alternativa C. O paciente apresenta uma úlcera com mais de duas semanas de evolução, caracterizando isquemia crítica do membro,\nsendo indicada revascularização e posterior desbridamento da lesão.\nIncorreta a alternativa D. A amputação do membro está indicada na oclusão arterial aguda, onde há sinais de inviabilidade do membro\n(paralisia e rigidez do membro com Doppler inaudível).",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Endocrinologia",
+      "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Diabetes",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "imagens": [
         "data/simulados/imgs/14-simulado/q98_img1.jpeg",
         "data/simulados/imgs/14-simulado/q98_img2.jpeg"
@@ -743,7 +744,7 @@
       "_edicao": "3",
       "subarea": "Nefrologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Doença Renal Crônica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -763,9 +764,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Infectologia",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Meningites",
+      "sub_subarea": "Acidentes Vasculares Cerebrais (AVC)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -785,9 +786,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Hematologia",
+      "subarea": "Gastroenterologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Coagulação",
+      "sub_subarea": "Hemorragia Digestiva (HD)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -809,7 +810,7 @@
       "_edicao": "3",
       "subarea": "Dermatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de pele",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -829,9 +830,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Gastroenterologia",
+      "subarea": "Hepatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Hepatopatias",
+      "sub_subarea": "Tumores Hepáticos",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -853,9 +854,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cardiologia",
+      "subarea": "Pneumologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de Pulmão",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -875,9 +876,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cardiologia",
+      "subarea": "Endocrinologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "DAC",
+      "sub_subarea": "Metabolismo Ósseo e Mineral",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -926,7 +927,7 @@
       "_edicao": "5",
       "subarea": "Pneumologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Tromboembolismo Pulmonar (TEP)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -946,9 +947,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Hematologia",
+      "subarea": "Reumatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Coagulação",
+      "sub_subarea": "Vasculites",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -970,7 +971,7 @@
       "_edicao": "5",
       "subarea": "Dermatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de pele",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -990,9 +991,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Gastroenterologia",
+      "subarea": "Hepatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Hepatopatias",
+      "sub_subarea": "Hepatites Virais",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1014,7 +1015,7 @@
       "_edicao": "5",
       "subarea": "Gastroenterologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Pâncreas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1036,7 +1037,7 @@
       "_edicao": "5",
       "subarea": "Dermatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Dermatoses infecciosas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1122,9 +1123,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cardiologia",
+      "subarea": "Pneumologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Asma",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1146,7 +1147,7 @@
       "_edicao": "9",
       "subarea": "Infectologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Pneumonia",
+      "sub_subarea": "Infecções bacterianas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1166,9 +1167,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cardiologia",
+      "subarea": "Hematologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Hemoglobinopatias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1188,9 +1189,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Nefrologia",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Cefaleias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1213,9 +1214,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cardiologia",
+      "subarea": "Reumatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças da cartilagem e do osso",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1239,7 +1240,7 @@
       "_edicao": "9",
       "subarea": "Dermatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Dermatoses infecciosas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1261,9 +1262,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cardiologia",
+      "subarea": "Neurologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "DAC",
+      "sub_subarea": "Doenças Neuromusculares",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1285,7 +1286,7 @@
       "_edicao": "9",
       "subarea": "Dermatologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Dermatoses infecciosas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1307,9 +1308,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cardiologia",
+      "subarea": "Pneumologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Pneumologia Intensiva",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1333,7 +1334,7 @@
       "_edicao": "9",
       "subarea": "Cardiologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Valvopatias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1355,9 +1356,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cardiologia",
+      "subarea": "Infectologia",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Outras doenças infecciosas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1365,7 +1366,7 @@
       "numero": 1,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "A máscara laríngea:",
       "alternativas": [
         "Evita a broncoaspiração do conteúdo gástrico.",
@@ -1390,7 +1391,7 @@
       "numero": 2,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "Assinale a alternativa que apresenta um dispositivo que pode ser utilizado para canulização cega das vias aéreas:",
       "alternativas": [
         "Máscara laríngea",
@@ -1415,7 +1416,7 @@
       "numero": 3,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "Para intubação endotraqueal em serviços de urgência, podemos apenas CONCORDAR com o item:",
       "alternativas": [
         "Uma vez indicada a necessidade de intubação endotraqueal e de suporte ventilatório, a opção pela não utilização de drogas em sequência rápida para o estabelecimento da via aérea tem se mostrado segura e deve ser preferencialmente adotada no adulto.",
@@ -1440,7 +1441,7 @@
       "numero": 4,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "Em relação à aplicação da máscara laríngea no trauma, é ERRADO afirmar que:",
       "alternativas": [
         "Pode ser empregada nos casos de insucesso da intubação orotraqueal.",
@@ -1465,7 +1466,7 @@
       "numero": 5,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "Uma via aérea definitiva implica na colocação de um tubo endotraqueal com balão insuflado abaixo das cordas vocais, devidamente fixado e conectado a um sistema de ventilação assistida com mistura enriquecida com oxigênio. Em relação à adoção de uma via aérea definitiva em um paciente politraumatizado, marque a alternativa correta:",
       "alternativas": [
         "A máscara laríngea que permite a intubação (MLI) é um dispositivo usado para se obter uma via aérea definitiva, que necessita de treinamento adequado, não sendo necessário ser substituída por um tubo endotraqueal.",
@@ -1491,7 +1492,7 @@
       "numero": 6,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "A causa mais comum de obstrução das vias aéreas em paciente inconsciente no trauma é?",
       "alternativas": [
         "Sangue na cavidade oral.",
@@ -1516,7 +1517,7 @@
       "numero": 7,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Pneumologia Intensiva",
       "enunciado": "A intubação em \"sequência rápida\" é uma estratégia em serviço de emergência para prevenir aspiração em paciente sem jejum ou de tempo de jejum desconhecido. Como é feita?",
       "alternativas": [
         "Administração de um bloqueador neuromuscular, intubação e administração de um agente indutor.",
@@ -1541,7 +1542,7 @@
       "numero": 8,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Pneumologia Intensiva",
       "enunciado": "A causa mais comum de obstrução das vias aéreas em paciente inconsciente no trauma é?",
       "alternativas": [
         "Corpo estranho",
@@ -1592,7 +1593,7 @@
       "numero": 10,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Pneumologia Intensiva",
       "enunciado": "Vítima de colisão de autos, motorista sem cinto, dá entrada no Hospital de Trauma com FR 32 e Glasgow 13. Tem estridor inspiratório, cianose e grande deformidade em face. Após máscara facial com oxigênio 12 L/min, o médico tenta elevar o mento, mas as fraturas múltiplas e o sangramento impedem-no de o fazer com sucesso. Melhor conduta nesse momento:",
       "alternativas": [
         "Uso de máscara laríngea.",
@@ -1618,7 +1619,7 @@
       "numero": 11,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Pneumologia Intensiva",
       "enunciado": "A cricotireoidostomia:",
       "alternativas": [
         "Não deve ser realizada em crianças com menos de 12 anos.",
@@ -1643,7 +1644,7 @@
       "numero": 12,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Pneumologia Intensiva",
       "enunciado": "Em qual das situações a seguir não existe indicação de intubação endotraqueal no paciente traumatizado?",
       "alternativas": [
         "Hematoma cervical",
@@ -1667,8 +1668,8 @@
     {
       "id": "pv-ena-2024-0022",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Gênero",
       "enunciado": "O ovário, em funcionamento normal, sintetiza e secreta hormônios esteroides sexuais com padrão de controle preciso que, em parte, é determinado pelas gonadotrofinas hipofisárias, FSH e LH. São hormônios secretados pelos ovários, EXCETO",
       "alternativas": {
         "A": "ocitocina.",
@@ -1692,7 +1693,7 @@
       "id": "pv-ena-2024-0029",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Fisiologia Cardíaca e Eletrocardiograma",
       "enunciado": "Em relação ao sistema cardiovascular fetal, assinale a alternativa correta.",
       "alternativas": {
         "A": "Aproximadamente 10% do retorno venoso ao coração fetal é originário da veia cava inferior, sendo que cerca de um terço desse volume é de responsabilidade do ducto venoso.",
@@ -1726,8 +1727,8 @@
     {
       "id": "pv-ena-2024-0032",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "TEP",
+      "subarea": "Hematologia",
+      "sub_subarea": "Hemostasia",
       "enunciado": "Considerando as alternativas a seguir, qual apresenta uma indicação de investigação para trombofilias adquiridas?",
       "alternativas": {
         "A": "Quadro de trombose venosa profunda após trauma.",
@@ -1757,7 +1758,7 @@
       "id": "pv-ena-2024-0043",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "Epilepsia",
+      "sub_subarea": "Epilepsias",
       "enunciado": "Paciente de onze anos que apresenta crises convulsivas, que iniciaram há seis meses, sem déficits até o momento. Existe história familiar de uma síndrome epiléptica generalizada, caracterizada por movimentos súbitos e involuntários de um grupo ou de um único músculo. Qual das seguintes alternativas apresenta o diagnóstico mais provável para esse paciente?",
       "alternativas": {
         "A": "Síndrome de Dravet.",
@@ -1780,8 +1781,8 @@
     {
       "id": "pv-ena-2024-0058",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "A Intolerância à Lactose (IL) e a Alergia à Proteína do Leite de Vaca (APLV) possuem sinais e sintomas semelhantes, por isso a importância de avaliar a diferença em sua origem, sinais e sintomas. Sobre esse assunto, assinale a alternativa correta.",
       "alternativas": {
         "A": "Na sua grande maioria, os casos de IL são associados a uma condição genética de pessoas de origem asiática.",
@@ -1810,8 +1811,8 @@
     {
       "id": "pv-ena-2024-0064",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "TEP",
+      "subarea": "Hematologia",
+      "sub_subarea": "Hemostasia",
       "enunciado": "Segundo a classificação de Caprini para pacientes cirúrgicos, assinale a alternativa correta quanto à classificação de risco para TEV (Tromboembolismo Venoso) de um paciente de 54 anos que foi submetido a uma cirurgia de câncer de cólon, aberta, que durou aproximadamente 2h.",
       "alternativas": {
         "A": "Risco muito baixo.",
@@ -1845,7 +1846,7 @@
       "id": "pv-ena-2024-0066",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "enunciado": "Em um paciente com doença coronariana, qual dos seguintes agentes NÃO seria indicado para indução anestésica, por ter como efeito colateral a hipertensão?",
       "alternativas": {
         "A": "Tiopental.",
@@ -1868,8 +1869,8 @@
     {
       "id": "pv-ena-2024-0072",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Pâncreas",
       "enunciado": "Um médico está realizando uma live (transmissão ao vivo) para alunos de medicina dentro do centro cirúrgico e, sem avisar, adentra a sala de um segundo médico (cirurgião) durante a realização de uma gastroduodenopancreatectomia, solicitando que o colega descreva e demonstre os passos dessa cirurgia. Assinale a melhor conduta e a justificativa do segundo cirurgião diante dessa situação.",
       "alternativas": {
         "A": "Tendo em vista o aprendizado que os expectadores terão sobre uma cirurgia não tão comum, o cirurgião deve aceitar a proposta e demostrar a cirurgia durante a live.",
@@ -1892,8 +1893,8 @@
     {
       "id": "pv-ena-2024-0073",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Neoplasias do Sistema Digestivo",
       "enunciado": "Assinale a alternativa que apresenta alguns dos principais genes mutados que contribuem para o surgimento do câncer colorretal hereditário e um dos fatores que pode contribuir para a prevenção do câncer colorretal esporádico.",
       "alternativas": {
         "A": "BRCA 1 e BRCA 2 / Consumo diário de grandes quantidades de proteína.",
@@ -1916,8 +1917,8 @@
     {
       "id": "pv-ena-2024-0079",
       "area": "Clínica Médica",
-      "subarea": "Infectologia",
-      "sub_subarea": "",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Outras Hepatopatias",
       "enunciado": "Um paciente com obstrução e infecção das vias biliares apresenta a chamada tríade de Charcot, a qual é caracterizada por:",
       "alternativas": {
         "A": "icterícia, hipotensão e confusão mental.",
@@ -1941,7 +1942,7 @@
       "id": "pv-ena-2024-0081",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "AR",
+      "sub_subarea": "Artropatias inflamatórias",
       "enunciado": "Durante atendimento de um paciente portador de artrite reumatoide, ele demonstra bastante resistência para realizar o tratamento com medicações injetáveis. Diante desse cenário, qual atitude é a mais adequada?",
       "alternativas": {
         "A": "Ameaçar abandonar o acompanhamento, caso o paciente não aceite a medicação indicada.",
@@ -1965,7 +1966,7 @@
       "id": "pv-ena-2024-0082",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Metabolismo Ósseo e Mineral",
       "enunciado": "Assinale a alternativa correta que apresenta uma medicação osteoformadora indicada no tratamento da osteoporose de alto e muito alto risco de fraturas.",
       "alternativas": {
         "A": "Alendronato.",
@@ -1999,7 +2000,7 @@
       "id": "pv-ena-2024-0084",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "Distúrbios do Movimento",
       "enunciado": "É considerada uma manifestação clínica comum da Doença de Parkinson a",
       "alternativas": {
         "A": "estabilidade postural.",
@@ -2022,8 +2023,8 @@
     {
       "id": "pv-ena-2024-0086",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Pneumonia",
       "enunciado": "Dentre as alternativas a seguir, qual apresenta o agente infeccioso bacteriano mais comum na pneumonia adquirida na comunidade?",
       "alternativas": {
         "A": "Streptococcus pneumoniae.",
@@ -2046,8 +2047,8 @@
     {
       "id": "pv-ena-2024-0088",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Complicações da Insuficiência Hepática",
       "enunciado": "Homem, 46 anos, hipertenso e etilista, comparece à emergência médica após hematêmese e confusão mental aguda. Apresenta-se, ao exame físico, ictérico, confuso, desorientado, sarcopênico e hipotenso. Após estabilização clínica inicial, foi submetido a exames laboratoriais que evidenciaram: INR 3.2; Albumina 1.8 g/dL; Bilirrubinas totais 9.5 mg/dL e Creatinina de 4.2 mg/dL. Assinale a alternativa que NÃO contribui, dentro do caso apresentado, para a classificação de Child-Pugh do paciente.",
       "alternativas": {
         "A": "INR.",
@@ -2100,8 +2101,8 @@
     {
       "id": "pv-ena-2024-0096",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Reumatologia",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "Assinale a alternativa que apresenta corretamente as principais manifestações extra- articulares da artrite psoriática.",
       "alternativas": {
         "A": "Pneumopatia intersticial padrão não específico; esclerodactilia; microstomia, fenômeno de Raynaud.",
@@ -2125,7 +2126,7 @@
       "id": "pv-ena-2024-0099",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Hanseníase",
+      "sub_subarea": "",
       "enunciado": "Qual é a coloração utilizada na baciloscopia para investigação de hanseníase?",
       "alternativas": {
         "A": "Tinta da China.",
@@ -2154,8 +2155,8 @@
     {
       "id": "pv-ena-2025-0112",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Outras Hepatopatias",
       "enunciado": "Um jovem de 20 anos foi admitido com um quadro de hepatite, esplenomegalia com hiperesplenismo, anemia hemolítica com Coombs negativo, hipertensão portal e confusão mental. O exame neurológico mostrou síndrome rígida-acinética semelhante ao parkinsonismo, tremores e ataxia. Foram também observadas disartria, disfagia e incoordenação motora. Tais achados neurológicos se associam a disfunção dos gânglios da base. O tratamento instituído foi D-penicilamina oral (0,75 - 2 g/dia em doses divididas, tomadas 1 hora antes ou 2 horas após a refeição) associada a piridoxina oral, 50 mg por semana. Foi também prescrito zinco elementar na dose de 50 mg três vezes ao dia. Houve melhora clínica e indicação para que o tratamento fosse continuado indefinidamente, além de uma dieta específica. A doença em questão é:",
       "alternativas": {
         "A": "hemocromatose;",
@@ -2178,8 +2179,8 @@
     {
       "id": "pv-ena-2025-0115",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Outras Hepatopatias",
       "enunciado": "Uma paciente de 44 anos e com diagnóstico de hepatite C, não tratada, desenvolveu quadro de porfiria. O tratamento instituído consistiu em antivirais de ação direta contra o HCV, hidroxicloroquina e flebotomias regulares. O tipo de porfiria em questão é:",
       "alternativas": {
         "A": "porfiria aguda intermitente;",
@@ -2203,7 +2204,7 @@
       "id": "pv-ena-2025-0116",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Glomerulopatias",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Durante a tragédia das enchentes no estado do Rio Grande do Sul em 2024, ocorreram vários casos de leptospirose que acometeram principalmente voluntários que atuaram no resgate da população atingida. A insuficiência renal causada pela doença tem como lesão histopatológica:",
       "alternativas": {
         "A": "nefrite tubulointersticial;",
@@ -2226,8 +2227,8 @@
     {
       "id": "pv-ena-2025-0119",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Hepatites Virais",
       "enunciado": "Um homem de 50 anos em tratamento para hepatite C, com cirrose hepática compensada CHILD PUGH A, tem histórico de falha terapêutica com uso prévio de antivirais de ação direta. O médico assistente do serviço de atenção especializada prescreveu um novo esquema terapêutico, recomendado pelo Ministério da Saúde. O esquema prescrito foi:",
       "alternativas": {
         "A": "sofosbuvir/velpastavir/ribavirina por 24 semanas;",
@@ -2258,8 +2259,8 @@
     {
       "id": "pv-ena-2025-0120",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Outras Hepatopatias",
       "enunciado": "Mulher de 65 anos procura o gastroenterologista com queixas de astenia, prurido palmar e plantar e elevação de fosfatase alcalina (1005 UI/ml) e Gama GT (1200 UI/ml). As enzimas hepáticas TGO e TGP estão elevadas (300 e 250 UI/ml, respectivamente) e a bilirrubina total é de 6,0 mg/dl, às custas da bilirrubina direta. Apresenta plaquetopenia de 85.000/mm³, e a ultrassonografia de abdômen aponta alterações compatíveis com doença parenquimatosa crônica do fígado, sem dilatação das vias biliares intra e extra-hepáticas e vesícula biliar anecoica. A principal hipótese diagnóstica para o caso e o exame complementar a ser solicitado são, respectivamente:",
       "alternativas": {
         "A": "hepatite colestática autoimune; FAN e antimúsculo liso;",
@@ -2282,8 +2283,8 @@
     {
       "id": "pv-ena-2025-0123",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Hematologia",
+      "sub_subarea": "Hemostasia",
       "enunciado": "Um adolescente de 16 anos foi admitido no pronto-socorro após queda de motocicleta. Ele estava lúcido e com sinais vitais estáveis. Realizou-se uma tomografia computadorizada do abdômen, que mostrou uma laceração esplênica grau II. Optou-se por um tratamento conservador inicial com monitoramento em unidade de terapia intensiva. Após 24 horas de internação, o paciente apresentou uma queda súbita na pressão arterial, aumento da frequência cardíaca e sinais de irritação peritoneal. Uma nova TC de abdômen mostrou aumento significativo do hemoperitônio e sinais de ruptura esplênica adicional. Diante desse quadro, a conduta mais apropriada para esse paciente é:",
       "alternativas": {
         "A": "indicar a cirurgia de Warren;",
@@ -2346,8 +2347,8 @@
     {
       "id": "pv-ena-2025-0132",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Hepatologia",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 23 anos realizou ultrassonografia abdominal de rotina, na qual foi observado nódulo sólido de 4 cm de diâmetro no fígado. Foi realizada tomografia abdominal com contraste venoso trifásico, que mostrou lesão hipercaptante, bem circunscrita, com cicatriz central localizada em segmento VII do fígado. Dentre os diagnósticos abaixo, o mais provável é:",
       "alternativas": {
         "A": "adenoma hepático;",
@@ -2392,8 +2393,8 @@
     {
       "id": "pv-ena-2025-0134",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Pâncreas",
       "enunciado": "O escore BISAP tem sido amplamente utilizado na avaliação prognóstica da pancreatite aguda. Dentre os critérios abaixo, o único que NÃO faz parte desse escore é:",
       "alternativas": {
         "A": "presença de derrame pleural;",
@@ -2425,8 +2426,8 @@
     {
       "id": "pv-ena-2025-0157",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "A síndrome urêmica hemolítica típica (SHU) é uma doença do grupo das microangiopatias trombóticas. São distúrbios caracterizados por anemia hemolítica microangiopática não imune, trombocitopenia e insuficiência multissistêmica. A SHU está associada a infecções intestinais por bactérias produtoras da toxina Shiga, em especial a Escherichia coli enterohemorrágica invasiva (STEC - Shiga-toxin– producing strains of E coli). Carne mal- cozida, especialmente hambúrguer, leite e suco não pasteurizados, além de frutas e vegetais crus, podem estar contaminados por essas bactérias. A doença geralmente tem início abrupto com quadro de diarreia, muitas vezes com sangue e dor abdominal. Em adultos, geralmente é autolimitada a 5-10 dias. Porém, em crianças, observa-se maior associação à SHU. Com relação a essa doença em crianças, é correto afirmar que:",
       "alternativas": {
         "A": "o antibiótico de escolha é o ciprofloxacino;",
@@ -2449,8 +2450,8 @@
     {
       "id": "pv-ena-2025-0175",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções do Sistema Nervoso Central",
       "enunciado": "Uma gestante com 28 semanas tem o diagnóstico de infecção por parvovírus B19. A melhor maneira de avaliar a principal complicação fetal nesse caso é:",
       "alternativas": {
         "A": "realização do doppler da artéria cerebral média;",
@@ -2482,8 +2483,8 @@
     {
       "id": "pv-ena-2025-0180",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções bacterianas",
       "enunciado": "Uma gestante de 20 semanas, moradora de área endêmica, chegou à admissão da maternidade com sinais e sintomas sugestivos de dengue. Após o exame clínico-obstétrico e laboratorial, a equipe de plantão resolveu internar e tratar a paciente, pois identificou corretamente o seguinte sinal de alarme:",
       "alternativas": {
         "A": "vômitos esporádicos;",
@@ -2506,8 +2507,8 @@
     {
       "id": "pv-ena-2025-0185",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Milton teve o diagnóstico de monkeypox confirmado por meio de PCR positivo. Ele se enquadra no grupo de indivíduos com alto risco de desenvolver formas graves. Seu monitoramento deve acontecer:",
       "alternativas": {
         "A": "a cada 2 dias;",
@@ -2530,8 +2531,8 @@
     {
       "id": "pv-ena-2025-0197",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Neurologia",
+      "sub_subarea": "Cefaleias",
       "enunciado": "Um senhor de 82 anos comparece à consulta queixando-se de uma cefaleia de início recente. HAS controlada com IECA. Exame físico sem particularidades, exceto por espessamento da artéria temporal à palpação. Nesse contexto:",
       "alternativas": {
         "A": "PCR elevada aumenta a chance de arterite de células gigantes;",
@@ -2554,8 +2555,8 @@
     {
       "id": "pv-ena-2025-0198",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Tuberculose",
+      "subarea": "Infectologia",
+      "sub_subarea": "Tuberculose (TB)",
       "enunciado": "Segundo o Manual de Recomendações e Controle da Tuberculose no Brasil 2a ed., atualizado em 29/05/2024, a transmissão e adoecimento por TB são influenciados por fatores demográficos, sociais e econômicos. Dentre os fatores que contribuem para a manutenção e propagação da doença, destacam-se: urbanização crescente e desordenada, desigualdade na distribuição de renda, moradias precárias e superlotação, insegurança alimentar e baixa escolaridade, bem como dificuldade de acesso aos serviços e bens públicos. Dessa maneira, no Brasil, assim como em outros países que têm condições de vida semelhantes, alguns grupos populacionais apresentam maior vulnerabilidade para a TB. Pelo exposto acima, em comparação com a população em geral, o risco de adoecimento por tuberculose é maior no seguinte grupo:",
       "alternativas": {
         "A": "indígenas;",
@@ -2578,8 +2579,8 @@
     {
       "id": "pv-ena-2025-0199",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Influenza",
       "enunciado": "De acordo com parâmetros do Ministério da Saúde, a definição utilizada na vigilância da influenza e da covid-19 para determinar casos de síndrome respiratória aguda grave (SRAG) é:",
       "alternativas": {
         "A": "indivíduo com febre, mesmo que referida, acompanhada de tosse ou dor de garganta e com início dos sintomas nos últimos sete dias;",
@@ -2633,7 +2634,7 @@
       "id": "pv-pe-2024-0003",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Parasitoses",
       "enunciado": "Um pesquisador realizou um estudo com 300 pacientes avaliados para Doença de Chagas aguda (DCA). O diagnóstico final foi feito de acordo com os achados do Exame Parasitológico Direto (padrão-ouro). 120 pacientes tinham DCA, e 50 deles também tinham hepatomegalia. 180 não tinham DCA, e 60 desses pacientes tinham febre prolongada. Analisando esse estudo, qual a frequência da DCA?",
       "alternativas": {
         "A": "16%",
@@ -2662,7 +2663,7 @@
     {
       "id": "pv-pe-2024-0006",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "A autora Djamila Ribeiro, no livro O pequeno manual antirracista, escreve que: “Meu irmão mais velho tocou trompete por muitos anos, fazendo inclusive parte da Sinfônica de Cubatão, na Baixada Santista. Toda vez que dizia ser músico, perguntavam se ele tocava pandeiro ou outro instrumento relacionado ao samba. Não teria problema se ele tocasse, a questão é pensar que homens negros só podem ocupar esse lugar”. A situação apresentada pela autora é melhor conceituada devido",
       "alternativas": {
@@ -2686,7 +2687,7 @@
     {
       "id": "pv-pe-2024-0007",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Para as aferições dos fenômenos clínicos epidemiológicos, são produzidos os tipos de dados. Sobre isso, analise os itens abaixo: I. São exemplos de dados nominais dicotômicos: o tipo sanguíneo ABO e sexo. II. Os graus de força muscular de O até 5 são exemplos clínicos de dados ordinais. III. Existem 2 tipos de dados intervalares: os dados contínuos e os dados discretos. IV. Como exemplos de dados contínuos, temos o peso e a pressão arterial. Assinale a alternativa CORRETA.",
       "alternativas": {
@@ -2716,7 +2717,7 @@
     {
       "id": "pv-pe-2024-0009",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Dentre as mudanças ocorridas no decorrer da história da saúde pública no Brasil, temos um marco histórico ocorrido em 2001, em que foi sancionada a Lei 10.216, também conhecida como",
       "alternativas": {
@@ -2740,8 +2741,8 @@
     {
       "id": "pv-pe-2024-0019",
       "area": "Clínica Médica",
-      "subarea": "Neurologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Animais peçonhentos",
       "enunciado": "Paciente do sexo masculino, 25 anos de idade, residente na Ilha-do-Marajó no Estado do Pará, foi picado por uma cobra na face lateral da perna esquerda, quando caminhava em área de campo aberto. Inicialmente não apresentou nenhuma sintomatologia; relatava apenas parestesia no local da picada, sem edema, eritema ou dor. Procurou atendimento médico após 12 horas do acidente no Hospital do Município e apresentava ptose bipalpebral e mandibular, oftalmoplegia, mialgias, oligúria e urina escura. De acordo com o caso clínico apresentado, este é caracterizado como um acidente:",
       "alternativas": {
         "A": "botrópico.",
@@ -2764,8 +2765,8 @@
     {
       "id": "pv-pe-2024-0033",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "DII",
+      "subarea": "Reumatologia",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "“Os imunobiológicos são frequentemente chamados de “terapia alvo” e referem-se a um grupo diversificado de medicamentos que atuam diretamente no sistema imunológico, principalmente nas células T, células B, interação ligantereceptor, citocinas, quimiocinas, entre outros. Esses medicamentos demonstraram reduzir a atividade da doença, melhorar a capacidade funcional e a qualidade de vida relacionada à saúde dos pacientes e seus familiares”. Imunobiológicos e biossimilares em Pediatria. Departamento Científico de Reumatologia da SBP. Agost. 2023. Entre as várias categorias de Imunobiológicos, temos a Imunoglobulina Humana Intravenosa (IGIV), com ação de imunomodulação. Assinale a alternativa que contém 2 indicações pediátricas clássicas para o uso desse Imunobiológico.",
       "alternativas": {
         "A": "Doenças autoinflamatórias; doença de Behçet",
@@ -2788,8 +2789,8 @@
     {
       "id": "pv-pe-2024-0044",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Infectologia",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 40 anos, G5P5, chega à UPA sem queixas, apenas para avaliar resultado de exame citológico do colo de útero. O resultado foi “células escamosas atípicas de significado indeterminado, quando não se pode excluir lesão intraepitelial de alto grau”. De acordo com o cenário acima, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Como a paciente tem menos de 45 anos, a melhor conduta é expectante e reavaliar com seis meses por citologia oncótica.",
@@ -2818,8 +2819,8 @@
     {
       "id": "pv-pe-2024-0045",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Tireoide",
       "enunciado": "Considere a imagem abaixo sobre a representação hormonal do ciclo menstrual: Em relação ao comportamento hormonal do ciclo menstrual, assinale a alternativa que identifica a correspondência adequada.",
       "alternativas": {
         "A": "Curva 1 — FSH",
@@ -2850,8 +2851,8 @@
     {
       "id": "pv-pe-2024-0046",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções sexualmente transmissíveis",
       "enunciado": "Mulher de 20 ano, G2P1A1, procura a UPA com queixas de ardência em região genital há 10 dias. Durante o exame ginecológico, foram identificadas lesões vulvares com características pleomórficas, ora vesículas, ora úlceras, com hiperemia intensa. Não foram observadas secreções patológicas. Nega episódios anteriores. No cenário acima, qual o provável diagnóstico?",
       "alternativas": {
         "A": "Herpes genital",
@@ -2880,8 +2881,8 @@
     {
       "id": "pv-pe-2024-0048",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Gênero",
       "enunciado": "A diferenciação da genitália externa feminina é um processo passivo, determinado pela ausência da estimulação androgênica. Levando em consideração os acontecimentos no processo embriológico do trato genital inferior, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Até a 12º semana, a genitália externa é comum aos dois sexos e só a partir desse período é que se desenvolverá em masculina ou feminina, de acordo com a presença ou ausência de andrógenos.",
@@ -2910,8 +2911,8 @@
     {
       "id": "pv-pe-2024-0054",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Gênero",
       "enunciado": "Paciente 19 anos, primigesta e na 32º semana. Classificação sanguínea materna AB Rh negativo, classificação sanguínea paterna A Rh positivo e coombs indireto positivo. Assinale a alternativa que NÃO justifica essa possibilidade clínico-epidemiológica.",
       "alternativas": {
         "A": "Histórico de uso de hemoderivados",
@@ -2941,7 +2942,7 @@
       "id": "pv-pe-2024-0063",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias do Sistema Digestivo",
       "enunciado": "JFS, 67 anos, sexo masculino, tabagista e alcoolista, história de perda de peso não intencional e disfagia para sólidos com início há um mês. Realizou endoscopia que evidenciou lesão vegetante ulcerada há 25cm da ADS, intransponível ao aparelho. Qual dos sinais e sintomas abaixo NÃO está relacionado com irressecabilidade desse tumor?",
       "alternativas": {
         "A": "Contato com o pericárdio",
@@ -2973,8 +2974,8 @@
     {
       "id": "pv-pe-2024-0091",
       "area": "Clínica Médica",
-      "subarea": "Infectologia",
-      "sub_subarea": "Dengue",
+      "subarea": "Reumatologia",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "Uma paciente de 60 anos apresentou quadro agudo de Chikungunya há quatro meses. A febre e o rash cederam, mas ela persiste com surtos recorrentes de artrite que atinge, principalmente, mãos e pés e que estão a incapacitando para o trabalho. Já fez uso de dois ciclos de prednisona na dose de 30 mg/dia, mas os sintomas recorrem logo após o desmame do corticoide. Segundo o protocolo do Ministério da Saúde, qual a conduta de escolha nesse momento?",
       "alternativas": {
         "A": "Metotrexate na dose de 20mg/semana por seis meses",
