@@ -5330,7 +5330,7 @@
       "id": "pv-amr-2024-0099",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "Lúpus",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "Qual das seguintes situações clínicas apresenta um quadro mais provável de doença reumatológica em um paciente com artralgia?",
       "alternativas": {
         "A": "Paciente de 25 anos de idade, cefaleia recorrente, com resultado de Fator Antinuclear (FAN) 1:160, padrão citoplasmático fibrilar linear em exame de rotina.",
@@ -5388,7 +5388,7 @@
       "id": "pv-amr-2025-0102",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Dengue",
+      "sub_subarea": "Arboviroses",
       "enunciado": "Sobre a dengue, analise as assertivas a seguir: I. Existem técnicas laboratoriais para identificação do vírus (até o 5º dia de início da doença) e pesquisa de anticorpos (a partir do 6o dia de início da doença). II. O tratamento inclui medidas de suporte, hidratação, repouso e antibioticoterapia. III. O controle do vetor Aedes aegypti é o principal método para a prevenção. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5411,7 +5411,7 @@
       "id": "pv-amr-2025-0103",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Tireoide",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Em relação ao colesterol, analise as assertivas a seguir: I. Níveis elevados de HDL-C costumam estar relacionados a menor risco cardiovascular. II. Altos níveis de HDL-C decorrentes de algumas doenças genéticas podem não proteger de doença cardiovascular, provavelmente em razão das alterações metabólicas e lipídicas concomitantes. III. Causas secundárias de HDL-C elevado incluem cirrose biliar primária, hipertireoidismo e alcoolismo sem cirrose. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5433,8 +5433,8 @@
     {
       "id": "pv-amr-2025-0104",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções bacterianas",
       "enunciado": "Em relação à leptospirose, analise as assertivas a seguir: I. A penetração do Leptospira ocorre apenas a partir de lesões de pele imersa por longos períodos em água contaminada. II. O período de incubação pode variar de 1 a 30 dias e normalmente ocorre entre 7 e 14 dias após a exposição a situações de risco. III. A antibioticoterapia está indicada em qualquer período da doença, mas sua eficácia costuma ser maior na 1a semana do início dos sintomas. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5456,8 +5456,8 @@
     {
       "id": "pv-amr-2025-0105",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Doença Renal Crônica",
       "enunciado": "Em relação à nefropatia diabética, analise as assertivas a seguir: I. No estágio de nefropatia incipiente, ainda não há alteração na membrana basal glomerular nem no mesângio. II. A nefropatia clínica é caracterizada pela proteinúria persistente superior a 500 mg/24h, excreção urinária de albumina superior a 200 mg/L e declínio da taxa de filtração glomerular. III. No estágio de doença renal crônica, estabelecida a proteinúria, os pacientes passam a perder gradativamente a função renal, e mais de 10% evoluem para a doença renal crônica. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5485,8 +5485,8 @@
     {
       "id": "pv-amr-2025-0109",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Neurologia",
+      "sub_subarea": "Doenças Imunológicas do Sistema Nervoso Central",
       "enunciado": "A presença de bandas oligoclonais no líquor sugere fortemente o diagnóstico de:",
       "alternativas": {
         "A": "Alzheimer.",
@@ -5532,7 +5532,7 @@
       "id": "pv-amr-2025-0112",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "DII",
+      "sub_subarea": "Intestinos",
       "enunciado": "Em relação à retocolite ulcerativa, analise as assertivas a seguir: I. Os surtos agudos de retocolite ulcerativa podem ser controlados com derivados do ácido 5- aminossalicílico. II. Os que não responderem ao tratamento com derivados do ácido 5-aminossalicílico devem receber corticosteroides para indução da remissão da retocolite ulcerativa. III. Pacientes com retocolite ulcerativa grave sem resposta ao uso de corticosteroide são candidatos ao uso de ciclosporina. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5560,8 +5560,8 @@
     {
       "id": "pv-amr-2025-0113",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Sepse",
       "enunciado": "A Síndrome da Resposta Inflamatória Sistêmica (SIRS) é uma resposta complexa do organismo a uma série de insultos. Em relação aos critérios diagnósticos e características fisiopatológicas de SIRS, assinale a alternativa correta.",
       "alternativas": {
         "A": "A presença de pelo menos um critério da SIRS é suficiente para diagnóstico de sepse, independentemente da causa subjacente.",
@@ -5584,7 +5584,7 @@
       "id": "pv-amr-2025-0116",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "sub_subarea": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
       "enunciado": "Em relação à doença pulmonar obstrutiva crônica, analise as assertivas a seguir: I. O diagnóstico funcional de obstrução ao fluxo aéreo se baseia na relação entre volume expiratório forçado no primeiro segundo e capacidade vital forçada (VEF1 e CVF, respectivamente), considerando-se anormal um valor inferior a 80%. II. A dosagem do nível sérico de alfa-1-antitripsina deve ser considerada para casos de enfisema pulmonar panlobular com predomínio basal de início precoce (antes da 4ª década), especialmente em não fumantes. III. A teofilina é eficaz na redução de dispneia em estudos clínicos randomizados, mas o risco de toxicidade e a necessidade de monitorização do nível sérico limitam sua utilidade clínica. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5606,8 +5606,8 @@
     {
       "id": "pv-amr-2025-0119",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Distúrbios do Movimento",
       "enunciado": "Homem, 21 anos, com quadro de alucinações auditivas e delírios persecutórios é levado à emergência. Como estava desconfiado e com comportamento desafiador, optou-se por administrar 1 ampola de haloperidol IM para buscar acalmá-lo. Em 30 minutos, necessitou mais uma dose. Duas horas após ter recebido a medicação, passou a ter sensação de desconforto, angústia e desassossego, mexendo o tronco, mantendo pés e braços agitados, e ficando mais ansioso e irritado. Referia não conseguir ficar parado, pedindo por socorro. Considerando o caso apresentado, qual é a possível hipótese diagnóstica e a conduta a ser tomada, respectivamente?",
       "alternativas": {
         "A": "Crise de pânico – administração de benzodiazepínico.",
