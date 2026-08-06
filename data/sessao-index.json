@@ -2378,8 +2378,8 @@
   "pv-ufr-2024-0150": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Hepatologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2387,7 +2387,7 @@
   "pv-ufr-2025-0153": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
@@ -2396,8 +2396,8 @@
   "pv-ufr-2025-0154": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Sepse",
+    "sub": "Nefrologia",
+    "subsub": "Controle da água corporal total",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2405,8 +2405,8 @@
   "pv-ufr-2025-0155": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Tireoide",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2423,8 +2423,8 @@
   "pv-ufr-2025-0157": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Intoxicação",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2433,7 +2433,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Pneumonia",
+    "subsub": "Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2441,8 +2441,8 @@
   "pv-ufr-2025-0161": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2450,8 +2450,8 @@
   "pv-ufr-2025-0162": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Tireoide",
+    "sub": "Gastroenterologia",
+    "subsub": "Neoplasias do Sistema Digestivo",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2459,8 +2459,8 @@
   "pv-ufr-2025-0164": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Doenças Neuromusculares",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2469,7 +2469,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "subsub": "Procedimentos endoscópicos",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2478,7 +2478,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Dengue",
+    "subsub": "Arboviroses",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"

@@ -7240,8 +7240,8 @@
     {
       "id": "pv-ufr-2025-0168",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Hepatites Virais",
       "enunciado": "O perfil laboratorial mais frequentemente observado em pacientes com hepatite alcoólica é aminotransferases:",
       "alternativas": {
         "A": "> 1000 U/L, com predomínio de aspartato aminotransferase (AST)",
@@ -7264,7 +7264,7 @@
       "id": "pv-ufr-2025-0172",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "",
       "enunciado": "Homem, 60 anos, está em hemodiálise por HAS e DM tipo 2 mal controlados. Faltou a três sessões da terapia hemodialítica, retornando sete dias após com anasarca e dispneia. Durante a sessão, apresentou piora súbita da dispneia com turgência jugular a 90o, hipofonese de bulhas e PAS inaudível. Eletrocardiograma (ECG): infra desnível de segmento PR e supra desnível difuso do segmento ST. A principal hipótese diagnóstica e a forma mais adequada de prevenção da sua ocorrência é:",
       "alternativas": {
         "A": "tamponamento cardíaco / não usar heparina na diálise",
@@ -7286,8 +7286,8 @@
     {
       "id": "pv-ufr-2025-0173",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
       "enunciado": "Mulher, 30 anos, apresenta, há cinco anos, quadro de tosse produtiva e múltiplas internações por infecções respiratórias. No momento, está afebril e sem exacerbação do quadro. Exame físico: crepitações e sibilos em bases. Radiografia do tórax: aspecto de “trilho de trem”. Considerando a principal hipótese diagnóstica, pode-se afirmar que em uma TC do tórax, desta paciente, se observaria provavelmente:",
       "alternativas": {
         "A": "árvore em brotamento",
@@ -7320,7 +7320,7 @@
       "id": "pv-ufr-2025-0175",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Hipertensão Arterial Sistêmica (HAS)",
       "enunciado": "Homem, 69 anos, com hipertensão arterial pulmonar (HAP), realizou cateterismo de coração direito para diagnóstico e tratamento, com o seguinte resultado: pressão arterial pulmonar média > 15mmHg; resistência vascular pulmonar > 3,0uW; pressão de oclusão arterial pulmonar > 15mmHg. Pode-se afirmar que se trata de HAP tipo:",
       "alternativas": {
         "A": "II",
@@ -7350,8 +7350,8 @@
     {
       "id": "pv-ufr-2025-0176",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Síndromes aórticas agudas",
       "enunciado": "É CONTRAINDICAÇÃO ABSOLUTA à fibrinólise nas síndromes coronarianas com supra desnível do segmento ST:",
       "alternativas": {
         "A": "AVE hemorrágico prévio",
@@ -7383,7 +7383,7 @@
       "id": "pv-ufr-2025-0179",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "sub_subarea": "Hemostasia",
       "enunciado": "Pode-se afirmar, sobre a trombocitopenia induzida por heparina, que é mais frequente:",
       "alternativas": {
         "A": "em homens do que nas mulheres",
@@ -7412,7 +7412,7 @@
       "id": "pv-ufr-2025-0180",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "Observe a figura a seguir, sobre a fisiologia respiratória. Pode-se afirmar quanto as figuras A e C que:",
       "alternativas": {
         "A": "C - corresponde ao efeito shunt que é observado no enfisema",
@@ -7443,8 +7443,8 @@
     {
       "id": "pv-ufr-2025-0181",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Outras Hepatopatias",
       "enunciado": "Homem, 27 anos, apresenta quadro de alteração da marcha, disartria, dismetria, tremor de extremidades, icterícia, hepatomegalia e elevação dos níveis séricos das transaminases hepáticas. Exame oftalmológico: A principal hipótese diagnóstica é doença de:",
       "alternativas": {
         "A": "Huntington",
@@ -7474,8 +7474,8 @@
     {
       "id": "pv-ufr-2025-0186",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Lesões elementares",
       "enunciado": "Pode-se se afirmar que observando-se perda parcial da pele em uma úlcera de pressão rasa, de leito avermelhado, ela é classificada como estágio:",
       "alternativas": {
         "A": "II",
@@ -7504,7 +7504,7 @@
       "id": "pv-ufr-2025-0187",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "enunciado": "Pode se afirmar que aneurismas são diagnosticados, em relação ao diâmetro normal de uma artéria, quando há aumento de:",
       "alternativas": {
         "A": "30%",
@@ -7532,8 +7532,8 @@
     {
       "id": "pv-ufr-2025-0188",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "A patologia relacionada ao pseudomixoma peritoneal é:",
       "alternativas": {
         "A": "tumor neuroendócrino do apêndice",
@@ -7555,8 +7555,8 @@
     {
       "id": "pv-ufr-2025-0189",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "enunciado": "É um fator de proteção quanto ao desenvolvimento de aneurismas de aorta abdominal:",
       "alternativas": {
         "A": "diabetes Mellitus",
