@@ -5630,7 +5630,7 @@
       "id": "pv-amr-2025-0124",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Intestinos",
       "enunciado": "Em pacientes adultos, obstruções intestinais em colón causadas por doença neoplásica são mais comuns no:",
       "alternativas": {
         "A": "Ângulo hepático.",
@@ -5652,8 +5652,8 @@
     {
       "id": "pv-amr-2025-0127",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Introdução à Hepatologia",
       "enunciado": "Pólipos de vesícula biliar são achados comuns em ecografias. Assinale a alternativa que apresenta uma indicação para tratamento cirúrgico nesse caso.",
       "alternativas": {
         "A": "História familiar de neoplasia de via biliar.",
@@ -5681,8 +5681,8 @@
     {
       "id": "pv-amr-2025-0129",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Esôfago",
       "enunciado": "Sobre o tratamento da DRGE, assinale a alternativa correta.",
       "alternativas": {
         "A": "Endoscopia Digestiva Alta (EDA), manometria, monitoramento do pH, esofagograma e cintilografia são exames essenciais para avaliação pré-operatória.",
@@ -5712,8 +5712,8 @@
     {
       "id": "pv-amr-2025-0132",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Tireoide",
       "enunciado": "Mulher, 18 anos, apresenta nódulo isolado em lobo direito da tireoide diagnosticado há 30 dias. Provas de função da tireoide normais. Ecografia demonstra lesão sólida com 2,5 cm de diâmetro. Assinale a alternativa que apresenta a melhor conduta para avaliação diagnóstica desse nódulo.",
       "alternativas": {
         "A": "Cintilografia de tireoide.",
@@ -5735,8 +5735,8 @@
     {
       "id": "pv-amr-2025-0133",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Pâncreas",
       "enunciado": "Mulher, 78 anos, assintomática, realiza ecografia abdominal de rotina que detecta lesão de 12 mm de diâmetro localizada na cabeça do pâncreas. Exames laboratoriais normais. Tomografia computadorizada de abdome com contraste revela nódulo hipervascularizado na cabeça do pâncreas, sugestivo de um tumor neuroendócrino não funcionante. Considerando o caso em questão, analise as assertivas a seguir: I. Esse tipo de tumor se apresenta mais frequentemente associado a síndromes genéticas do que de maneira esporádica. II. A dosagem da cromogranina A é de auxílio diagnóstico nesses casos. III. Indicação de ressecção cirúrgica está sempre indicada por tratar-se de um tumor invariavelmente maligno, com alto risco de desenvolver metástases. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I.",
@@ -5758,7 +5758,7 @@
     {
       "id": "pv-amr-2025-0147",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Gastroenterologia",
       "sub_subarea": "",
       "enunciado": "Na Figura 1 abaixo, a seta indica o(s):",
       "alternativas": {
@@ -5792,8 +5792,8 @@
     {
       "id": "pv-amr-2025-0156",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Hipoglicemia em indivíduos não diabéticos",
       "enunciado": "Mulher, 22 anos, com diagnóstico de esquizofrenia paranoide teve alta de unidade psiquiátrica com a resolução dos sintomas psicóticos utilizando adequadamente um antipsicótico. Com o tempo, começou a apresentar perda da libido, oligomenorreia, aumento das mamas e galactorreia. Exames laboratoriais indicaram aumento de prolactina, sendo as demais causas excluídas. Entre os antipsicóticos abaixo, qual seria o causador mais provável do evento adverso relatado?",
       "alternativas": {
         "A": "Risperidona.",
@@ -5827,7 +5827,7 @@
     {
       "id": "pv-amr-2025-0158",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "A Figura 4 abaixo representa as decíduas, os córions e o embrião. Assinale a alternativa que correspondente corretamente à estrutura indicada na imagem.",
       "alternativas": {
@@ -5860,7 +5860,7 @@
       "id": "pv-amr-2025-0159",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Dengue",
+      "sub_subarea": "",
       "enunciado": "Gestante de 24 anos, com 8 semanas de gravidez, vem à consulta para saber como se prevenir contra a dengue. Considerando o questionamento da gestante, assinale a alternativa correta de acordo com o Manual de Prevenção da Dengue na Gestação (Ministério da Saúde, 2024).",
       "alternativas": {
         "A": "O uso de repelentes à base de Icaridina pode ser feito durante toda a gestação.",
@@ -5890,7 +5890,7 @@
     {
       "id": "pv-amr-2025-0160",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "A idade gestacional do embrião e do feto pode ser verificada através da ultrassonografia. Sendo assim, assinale a alternativa que indica o gráfico que melhor representa o erro na avaliação da idade gestacional.",
       "alternativas": {
@@ -5928,8 +5928,8 @@
     {
       "id": "pv-amr-2025-0172",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Parasitoses",
       "enunciado": "Em decorrência das enchentes que assolaram o Rio Grande do Sul neste ano, o risco para acidentes ofídicos aumentou na população pediátrica. O tipo de acidente mais prevalente, nesse caso, é o:",
       "alternativas": {
         "A": "Laquético.",
@@ -5957,7 +5957,7 @@
     {
       "id": "pv-amr-2025-0177",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "Sobre a escala de coma de Glasgow, na avaliação clínica e acompanhamento do nível de consciência do paciente, analise as assertivas a seguir: I. É utilizada tanto no coma traumático quanto no não traumático. II. Avalia quatro parâmetros: abertura ocular (com notas de 1 a 5), resposta verbal (com notas de 1 a 5), resposta motora (com notas de 0 a 4) e padrão respiratório (com notas de 0 a 1). III. O melhor escore é 15 e o pior é 3 (que indica que o paciente está morto). Quais estão corretas?",
       "alternativas": {
