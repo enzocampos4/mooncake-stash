@@ -2054,7 +2054,7 @@
   "pv-amr-2025-0191": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
@@ -2063,7 +2063,7 @@
   "pv-amr-2025-0192": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
@@ -2072,8 +2072,8 @@
   "pv-amr-2025-0199": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -2081,8 +2081,8 @@
   "pv-amr-2025-0200": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Intoxicação",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -2090,7 +2090,7 @@
   "pv-ufr-2024-0002": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -2099,7 +2099,7 @@
   "pv-ufr-2024-0006": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -2108,8 +2108,8 @@
   "pv-ufr-2024-0022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2117,8 +2117,8 @@
   "pv-ufr-2024-0023": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2126,8 +2126,8 @@
   "pv-ufr-2024-0035": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2135,8 +2135,8 @@
   "pv-ufr-2024-0053": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Distúrbios do Sono",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2153,8 +2153,8 @@
   "pv-ufr-2024-0075": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
