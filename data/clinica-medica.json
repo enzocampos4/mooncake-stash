@@ -4309,8 +4309,8 @@
     {
       "id": "pv-mg-2025-0100",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Parasitoses",
       "enunciado": "Analise o texto: \"Jeca Tatu era um pobre caboclo que morava no mato, numa casinha de sapê. Vivia na maior pobreza, em companhia da mulher, muito magra e feia e de vários filhinhos pálidos e tristes ... Ele não é assim, ele está assim. Examinando-lhe o sangue, assombra a pobreza em hemoglobina.\" (Urupês — Monteiro Lobato, 1914). Este personagem serviu como referência para a denominação de uma doença que, após mais de um século, ainda atinge milhões de pessoas em todo o mundo e é considerada pela Organização Mundial da Saúde como uma doença tropical negligenciada. Assinale a alternativa que apresenta CORRETAMENTE esta doença:",
       "alternativas": {
         "A": "Amebíase.",
@@ -4338,8 +4338,8 @@
     {
       "id": "pv-mg-2025-0101",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Intoxicação",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções relacionadas à assistência à saúde (IRAS)",
       "enunciado": "FDS, 25 anos, sexo masculino, solteiro, agricultor, com relato de familiares de ter ingerido composto organofosforado após desentendimento familiar. O paciente foi encontrado desacordado e encaminhado à unidade de emergência no município de Belo Horizonte. Apresentava rebaixamento do nível de consciência (Escala de Coma de Glasgow: 2/15), sialorreia intensa, sudorese, miose, ptose palpebral, bradicardia com hipotensão arterial. Apesar de todas as medidas tomadas, ele evoluiu para óbito cerca de uma hora após dar entrada no pronto-socorro. Assinale a alternativa que apresenta a atitude CORRETA do médico da unidade de emergência — que constatou o óbito — em relação à Declaração de Óbito (DO) para esse paciente:",
       "alternativas": {
         "A": "Preencher a DO, colocando o suicídio como provável doença ou estado mórbido que causou diretamente a morte, sendo importante esta citação para fins epidemiológicos.",
@@ -4367,8 +4367,8 @@
     {
       "id": "pv-mg-2025-0117",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Cirrose",
       "enunciado": "Homem de 55 anos vai ao consultório com os resultados de exames. Interrompeu o etilismo há três meses; fazia o uso de 760g de álcool por semana. Nega internações ou doenças prévias conhecidas. Nega aumento de volume abdominal, sangramento digestivo ou episódios de confusão mental. ULTRASSONOGRAFIA DO ABDOME: fígado de dimensões reduzidas, superfície irregular e nodular, e parênquima com aumento difuso da ecogenicidade. A veia porta apresenta diâmetro aumentado. Esplenomegalia leve. Ausência de líquido livre na cavidade abdominal. EXAMES DE LABORATÓRIO: hemoglobina 13g/dL; leucócitos totais 4.100/mm3; plaquetas 152.000/mm3. ELASTOGRAFIA HEPÁTICA: medida da rigidez hepática pela elastografia transitória de 26kPa. Assinale a alternativa CORRETA sobre o caso:",
       "alternativas": {
         "A": "A medida da rigidez hepática deve ser repetida a cada dois anos, desde que o paciente não apresente descompensações no intervalo.",
@@ -4390,8 +4390,8 @@
     {
       "id": "pv-mg-2025-0118",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Infectologia",
+      "sub_subarea": "HIV/Aids",
       "enunciado": "Assinale a alternativa que apresenta um contexto em que a terapia antirretroviral NÃO deve ser iniciada em até sete dias do primodiagnóstico da infecção pelo HIV.",
       "alternativas": {
         "A": "Paciente apresentando tuberculose pulmonar em início de tratamento específico",
@@ -4420,7 +4420,7 @@
       "id": "pv-mg-2025-0124",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "sub_subarea": "Distúrbios do potássio",
       "enunciado": "A hipocalemia é um distúrbio hidroeletrolítico comum e potencialmente fatal quando grave. Um número significativo de pacientes candidatos à cirurgia apresenta essa condição clínica e o diagnóstico e a conduta apropriada são fundamentais para a boa evolução clínica do paciente. Em relação aos pacientes com hipocalemia é CORRETO afirmar:",
       "alternativas": {
         "A": "A correção intravenosa da hipocalemia deve ser feita geralmente com uma taxa de 40–60 mmol/hora.",
@@ -4481,8 +4481,8 @@
     {
       "id": "pv-mg-2025-0133",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Introdução à Hepatologia",
       "enunciado": "Paciente de 65 anos, sexo masculino, comparece ao consultório trazendo o resultado de exame de ultrassonografia do abdome que foi realizada para controle de cálculo renal, cujo resultado evidenciou nódulo hipoecogênico localizado no lobo esquerdo do fígado, de 3,2cm de diâmetro. O laudo do ultrassonografista sugere hemangioma. Durante a consulta, o paciente não manifestou nenhuma queixa e relatou que ingere bebidas alcoólicas quase diariamente há vários anos. Em relação a essa situação, qual deve ser a conduta MAIS ADEQUADA neste momento?",
       "alternativas": {
         "A": "Informar o paciente que o hemangioma é lesão benigna e não será necessário realização de acompanhamento.",
@@ -4517,7 +4517,7 @@
       "id": "pv-mg-2025-0142",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Arritmias Cardíacas",
       "enunciado": "As causas de parada cardiorrespiratória (PCR) em bebês e crianças diferem da PCR em adultos de acordo com um número crescente de evidências científicas que vêm sendo analisadas e publicadas. Baseado nisso, a American Heart Association em 2020 lançou novas diretrizes para o Suporte Básico e Avançado de Vida em Pediatria. Considerando estas diretrizes, assinale a alternativa ERRADA:",
       "alternativas": {
         "A": "Crianças com miocardite aguda acompanhada de arritmias, bloqueio cardíaco, alterações do segmento ST ou baixo débito cardíaco têm alto risco de PCR, sendo necessária a transferência rápida para uma unidade de terapia intensiva.",
@@ -4539,8 +4539,8 @@
     {
       "id": "pv-amr-2024-0003",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Distúrbios do Sono",
       "enunciado": "Assinale a alternativa correta em relação a ataques de pânico.",
       "alternativas": {
         "A": "São extremamente comuns na população em geral, podendo não necessitar de tratamento.",
@@ -4568,7 +4568,7 @@
     {
       "id": "pv-amr-2024-0005",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Endocrinologia",
       "sub_subarea": "",
       "enunciado": "Qual dos resultados abaixo apresenta a maior precisão?",
       "alternativas": {
@@ -4591,7 +4591,7 @@
     {
       "id": "pv-amr-2024-0012",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "Analise as seguintes assertivas em relação ao sofrimento psíquico: I. Estudos avaliando a saúde mental da população LGBTQIA+, negros e mulheres demonstram que esses indivíduos têm risco elevado para desenvolver sofrimento psíquico e transtornos mentais. II. Sofrimento psíquico em questões relacionadas à raça, gênero, indígenas e refugiados deve ser avaliado em serviços especializados. III. É fundamental manter-se alerta em situações de sofrimento mental, queixas somáticas inespecíficas e atrasos para consultas ou dificuldade de acesso diante do impacto dos papéis de gênero e da violência doméstica na saúde mental dos pacientes. Quais estão corretas?",
       "alternativas": {
@@ -4614,7 +4614,7 @@
     {
       "id": "pv-amr-2024-0018",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Endocrinologia",
       "sub_subarea": "",
       "enunciado": "São atribuições comuns a todos os membros das equipes de saúde que atuam na Atenção Básica:",
       "alternativas": {
