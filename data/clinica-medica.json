@@ -5986,7 +5986,7 @@
     {
       "id": "pv-amr-2025-0191",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Analise as situações abaixo: I. Assumir que um valor-p pequeno implica em relevância clínica significativa. II. Acreditar que o valor-p pode medir a magnitude do efeito observado. III. Pensar que o valor-p de um estudo determina a probabilidade da hipótese nula ser verdadeira. Quais são erros comuns na interpretação do valor-p?",
       "alternativas": {
@@ -6009,7 +6009,7 @@
     {
       "id": "pv-amr-2025-0192",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Em um forest plot, um estudo individual apresenta um quadrado pequeno com um intervalo de confiança amplo. Isso sugere que o estudo:",
       "alternativas": {
@@ -6038,8 +6038,8 @@
     {
       "id": "pv-amr-2025-0199",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Infectologia",
+      "sub_subarea": "",
       "enunciado": "No atendimento a vítimas de catástrofes, violências ou acidentes, algumas abordagens podem ser adotadas para auxiliar na prevenção do desenvolvimento de transtornos mentais após eventos traumáticos, principalmente o Transtorno de Estresse Pós-Traumático (TEPT). São abordagens recomendadas as mencionadas a seguir, EXCETO:",
       "alternativas": {
         "A": "Evitar a retraumatização, não induzindo o paciente a descrever o evento traumático, nem o forçando a retornar à cena violenta. Deve-se priorizar a anamnese objetiva quanto aos dados da situação traumática, por meio de entrevistas com familiares ou terceiros envolvidos (testemunhas, policiais, bombeiros, socorristas, etc.), e não diretamente com o paciente.",
@@ -6070,8 +6070,8 @@
     {
       "id": "pv-amr-2025-0200",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Intoxicação",
+      "subarea": "Infectologia",
+      "sub_subarea": "",
       "enunciado": "O uso de lítio é a terapia mais eficaz nos transtornos do humor. Tem eficácia reconhecida contra depressão e mania, além de ter ação antissuicida em longo prazo em pacientes com transtorno bipolar. No entanto, a medicação apresenta janela terapêutica estreita, exigindo maior atenção e monitoramento das interações medicamentosas para prevenir quadros de intoxicação. Qual das medicações abaixo NÃO causa elevação dos níveis séricos de lítio?",
       "alternativas": {
         "A": "Propranolol.",
@@ -6099,7 +6099,7 @@
     {
       "id": "pv-ufr-2024-0002",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Pode-se afirmar que os sistemas de saúde, principalmente baseados no mercado, têm como uma de suas características:",
       "alternativas": {
@@ -6122,7 +6122,7 @@
     {
       "id": "pv-ufr-2024-0006",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Pode-se afirmar, sobre o tema saúde sexual e reprodutiva, que:",
       "alternativas": {
@@ -6145,8 +6145,8 @@
     {
       "id": "pv-ufr-2024-0022",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Parasitoses",
       "enunciado": "Pode-se afirmar, em relação à polineuropatia saturnina nos adultos, que ela é causada pela exposição ao:",
       "alternativas": {
         "A": "chumbo e acomete tanto as extremidades superiores como inferiores",
@@ -6174,8 +6174,8 @@
     {
       "id": "pv-ufr-2024-0023",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Pode-se afirmar que a perda auditiva induzida pelo ruído apresenta como característica a perda do tipo:",
       "alternativas": {
         "A": "sensório-neural com comprometimento da orelha interna",
@@ -6203,8 +6203,8 @@
     {
       "id": "pv-ufr-2024-0035",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "",
       "enunciado": "Menina, 60 dias de vida, nascida a termo, apresentou icterícia aos 5 dias de vida, com resolução após 5 dias. Mãe relata que houve retorno da icterícia aos 15 dias de vida, com piora progressiva e percebeu que as fezes estão esbranquiçadas. Exame físico: bom estado geral; eutrófica; ictérica (3+/4+) até zona 3 de Kramer; hepatomegalia, com fígado palpável a 4cm do rebordo costal direito, de consistência endurecida; esplenomegalia, com baço palpável a 2cm do rebordo costal esquerdo. A principal hipótese diagnóstica é:",
       "alternativas": {
         "A": "hepatite viral aguda",
@@ -6226,8 +6226,8 @@
     {
       "id": "pv-ufr-2024-0053",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Distúrbios do Sono",
       "enunciado": "Menino, 14 anos, habitualmente, durante os dias da semana, deita-se às 23:30 horas e acorda às 06:00 horas. Nos fins de semana, dorme de 01:00 hora às 13:00 horas. Pode-se afirmar que a melhor recomendação, quanto ao seu tempo de sono é:",
       "alternativas": {
         "A": "não alterar tempo de sono em nada, pois ele compensa nos finais de semana",
@@ -6278,8 +6278,8 @@
     {
       "id": "pv-ufr-2024-0075",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções sexualmente transmissíveis",
       "enunciado": "Mulher, 29 anos, queixa-se de leucorreia de aspecto esbranquiçado, que surgiu após relação sexual há 5 dias, acrescida a seguir, de discreto prurido vulvar. Exame ginecológico: conteúdo vaginal aumentado, mais espesso e aderido às paredes vaginais; fita de pH vaginal = 3,0; Whiff test negativo; ao toque, colo posterior, móvel, indolor. Pode-se afirmar que, na citologia à fresco, é esperado se observar a presença de:",
       "alternativas": {
         "A": "cocos e bacilos",
