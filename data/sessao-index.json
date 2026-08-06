@@ -2162,7 +2162,7 @@
   "pv-ufr-2024-0088": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Gastroenterologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -2171,7 +2171,7 @@
   "pv-ufr-2024-0089": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Gastroenterologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -2181,7 +2181,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Esôfago",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2189,7 +2189,7 @@
   "pv-ufr-2024-0096": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Nefrologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -2198,7 +2198,7 @@
   "pv-ufr-2024-0098": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -2207,8 +2207,8 @@
   "pv-ufr-2024-0100": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Cardiologia",
+    "subsub": "Síndromes aórticas agudas",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2216,8 +2216,8 @@
   "pv-ufr-2024-0101": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2225,8 +2225,8 @@
   "pv-ufr-2024-0106": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Hematologia",
+    "subsub": "Hemostasia",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2234,8 +2234,8 @@
   "pv-ufr-2024-0108": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Lúpus",
+    "sub": "Nefrologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2253,7 +2253,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -2261,8 +2261,8 @@
   "pv-ufr-2024-0122": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Pneumologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
