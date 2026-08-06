@@ -1082,8 +1082,8 @@
   "pv-pe-2024-0093": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1091,8 +1091,8 @@
   "pv-pe-2024-0094": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1101,7 +1101,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Metabolismo Ósseo e Mineral",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -1110,7 +1110,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "AR",
+    "subsub": "Artropatias inflamatórias",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -1119,7 +1119,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -1127,8 +1127,8 @@
   "pv-pe-2025-0114": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Nefrologia",
+    "subsub": "Infecção do trato urinário (ITU)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -1136,8 +1136,8 @@
   "pv-pe-2025-0123": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -1145,8 +1145,8 @@
   "pv-pe-2025-0124": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -1155,7 +1155,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "subsub": "Procedimentos endoscópicos",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -1163,7 +1163,7 @@
   "pv-pe-2025-0132": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Gastroenterologia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
@@ -1172,8 +1172,8 @@
   "pv-pe-2025-0135": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Hepatologia",
+    "subsub": "Transplante Hepático e Hepatectomia",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -1181,8 +1181,8 @@
   "pv-pe-2025-0136": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Transplante Hepático e Hepatectomia",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"

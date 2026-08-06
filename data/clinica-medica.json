@@ -3333,8 +3333,8 @@
     {
       "id": "pv-pe-2025-0138",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Choque",
+      "subarea": "Neurologia",
+      "sub_subarea": "Coma e Alterações da Consciência",
       "enunciado": "Menor de 17 anos, sexo masculino, vítima de atropelamento, trazido pelo por familiares na seguinte condição clínica: Não responsivo, abre olhos ao estímulo doloroso, emite sons incompreensíveis, extensão dos membros ao estímulo doloroso, FC 130bpm, PA 90x50mmHg, MV abolido em HTE, múltiplas escoriações pelo corpo. Sobre o caso em questão é CORRETO afirmar que",
       "alternativas": {
         "A": "o paciente em questão tem indicação de via área definitiva.",
@@ -3357,8 +3357,8 @@
     {
       "id": "pv-pe-2025-0144",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Procedimentos endoscópicos",
       "enunciado": "Assinale a alternativa que representa um critério que faz parte do cálculo do índice de redutibilidade para avaliar o prognóstico da gastrosquise.",
       "alternativas": {
         "A": "Diâmetro longitudinal do estômago",
@@ -3387,8 +3387,8 @@
     {
       "id": "pv-pe-2025-0148",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Tireoide",
       "enunciado": "Dos parâmetros ultrassonográficos abaixo, assinale o que mais influencia na determinação do peso fetal estimado.",
       "alternativas": {
         "A": "Circunferência da coxa fetal.",
@@ -3417,8 +3417,8 @@
     {
       "id": "pv-pe-2025-0152",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Disfunção sexual masculina",
       "enunciado": "Em paciente que apresenta amenorreia e teste da progesterona positivo, analise as assertivas abaixo: 1. Sugere que a paciente se encontra em ovulação. 2. Sugere que a paciente apresenta nível adequado de estrogênio. 3. Sugere que a paciente apresenta hipoestrogenismo. 4. Sugere que a paciente se encontra em anovulação. Está(ão) CORRETA(S) apenas",
       "alternativas": {
         "A": "1, 2 e 3",
@@ -3450,8 +3450,8 @@
     {
       "id": "pv-pe-2025-0153",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Dermatoses infecciosas",
       "enunciado": "Qual das alternativas abaixo NÃO é considerada medida profilática para evitar as leucorreias vaginais?",
       "alternativas": {
         "A": "Usar roupas íntimas de tecidos à base de algodão.",
@@ -3481,7 +3481,7 @@
       "id": "pv-pe-2025-0154",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Avalie os fatores de risco para câncer de endométrio, colocando V para os Verdadeiros e F para os Falsos. ( ) Diabetes ( ) Obesidade ( ) Longos períodos de amenorreia ( ) Síndrome de Lynch ( ) Baixa paridade Assinale a alternativa que indica a sequência CORRETA.",
       "alternativas": {
         "A": "FFFFF",
@@ -3536,7 +3536,7 @@
     {
       "id": "pv-pe-2025-0183",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "No Brasil, os escorpiões de importância em saúde pública são as seguintes espécies do gênero Tityus, EXCETO:",
       "alternativas": {
@@ -3560,7 +3560,7 @@
     {
       "id": "pv-pe-2025-0186",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "De acordo com o Método Clínico Centrado na Pessoa (MCCP), quando o médico questiona o que o paciente pensa sobre a doença que o acomete, corresponde ao seguinte passo do MCCP:",
       "alternativas": {
@@ -3619,7 +3619,7 @@
     {
       "id": "pv-pe-2025-0194",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Um médico realizou uma pesquisa com o objetivo de conhecer as preferências alimentares dos pacientes por ele atendidos no ambulatório privado, na qual todos os pacientes preencheram o questionário. Assinale a alternativa que corresponde a esse tipo de amostragem.",
       "alternativas": {
@@ -3644,7 +3644,7 @@
       "id": "pv-pe-2025-0195",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Meningites",
+      "sub_subarea": "",
       "enunciado": "Sobre a Criptococose, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "A forma cutânea aparece em 10% a 15% dos casos.",
