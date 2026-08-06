@@ -4984,7 +4984,7 @@
       "id": "pv-amr-2024-0070",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "sub_subarea": "",
       "enunciado": "Em relação à resposta hormonal ao estresse cirúrgico, é INCORRETO afirmar que:",
       "alternativas": {
         "A": "A drenagem de cortisol está aumentada.",
@@ -5012,8 +5012,8 @@
     {
       "id": "pv-amr-2024-0072",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Hemorragia Digestiva (HD)",
       "enunciado": "Em relação à doença ulcerosa péptica, assinale a alternativa correta com base na classificação de Forrest.",
       "alternativas": {
         "A": "IIb: aqueles que têm coágulo aderente à ulceração e possuem risco intermediário de novo sangramento.",
@@ -5035,7 +5035,7 @@
     {
       "id": "pv-amr-2024-0075",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "NÃO são fatores de risco de infecção em mordedura por animal:",
       "alternativas": {
@@ -5058,8 +5058,8 @@
     {
       "id": "pv-amr-2024-0076",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Esôfago",
       "enunciado": "Em relação ao divertículo de Zenker, assinale a alternativa correta.",
       "alternativas": {
         "A": "É encontrado no esôfago distal.",
@@ -5087,8 +5087,8 @@
     {
       "id": "pv-amr-2024-0078",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Neoplasias do Sistema Digestivo",
       "enunciado": "NÃO é um fator de risco para câncer gástrico:",
       "alternativas": {
         "A": "Cirurgia gástrica prévia.",
@@ -5117,7 +5117,7 @@
       "id": "pv-amr-2024-0079",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "sub_subarea": "Pâncreas",
       "enunciado": "Em relação aos critérios de Ranson para pancreatite aguda biliar, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "Após 48 horas de internação do paciente, os critérios são diferentes dos avaliados na chegada do quadro clínico/laboratorial.",
@@ -5146,7 +5146,7 @@
       "id": "pv-amr-2024-0081",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "Demências",
       "enunciado": "Homem, 66 anos, apresenta quadro demencial com flutuações cognitivas, quedas, fraqueza de membros, alucinações visuais vívidas, inversão do ciclo sono-vigília com sono agitado e presença de distúrbio comportamental do sono REM. A descrição apresentada refere-se a qual tipo de demência?",
       "alternativas": {
         "A": "Alzheimer.",
@@ -5176,8 +5176,8 @@
     {
       "id": "pv-amr-2024-0083",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções relacionadas à assistência à saúde (IRAS)",
       "enunciado": "O quelante recomendado para ser utilizado quando houver envenenamento crônico por mercúrio em adultos é:",
       "alternativas": {
         "A": "Deferoxamina.",
@@ -5200,7 +5200,7 @@
       "id": "pv-amr-2024-0086",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "sub_subarea": "Asma",
       "enunciado": "Nos casos de asma brônquica em que o corticoide inalatório não está sendo suficiente para controle dos sintomas, deve-se fazer uso de:",
       "alternativas": {
         "A": "Corticoide oral.",
@@ -5230,8 +5230,8 @@
     {
       "id": "pv-amr-2024-0090",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Arboviroses",
       "enunciado": "São sinais de alarme relacionados aos pacientes com dengue grupo C, EXCETO:",
       "alternativas": {
         "A": "Derrame pericárdico, ascite e derrame pleural.",
@@ -5262,7 +5262,7 @@
       "id": "pv-amr-2024-0091",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Fisiologia Cardíaca e Eletrocardiograma",
       "enunciado": "As anormalidades no pulso venoso jugular são úteis para a detecção de insuficiência cardíaca e alterações na pressão arterial pulmonar. Sobre esse assunto, analise a imagem a seguir, que apresenta ondas de pulsos venosos normais. Relacione a Coluna 1 à Coluna 2, associando as alterações nas ondas do pulso venoso às suas respectivas correspondências clínicas. Coluna 1 1. Onda A aumentada. 2. Onda V gigante. 3. Descenso Y proeminente. 4. Descenso Y ausente. Coluna 2 ( ) Tamponamento cardíaco. ( ) Estenose tricúspide. ( ) Insuficiência tricúspide. ( ) Pericardite constritiva. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
       "alternativas": {
         "A": "3 – 2 – 1 – 4.",
@@ -5294,7 +5294,7 @@
       "id": "pv-amr-2024-0096",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Controle da água corporal total",
       "enunciado": "Analise a figura abaixo, na qual a imagem da esquerda representa o ambiente intracelular e a da direita representa o ambiente extracelular. Considerando que os itens “A” e “C” tenham maiores concentrações intracelulares e que o item “B” tenha maior concentração extracelular, as letras A, B e C correspondem, respectivamente, aos eletrólitos:",
       "alternativas": {
         "A": "Cloro, potássio e sódio.",
