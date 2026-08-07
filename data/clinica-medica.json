@@ -14128,8 +14128,8 @@
     {
       "id": "pv-df-2024-0080",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "RCP",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Arritmias Cardíacas",
       "enunciado": "Durante a assistência a um paciente em parada cardiorrespiratória no ambiente hospitalar, foi realizada a checagem de ritmo, com o traçado apresentado. O ritmo representado no traçado é",
       "alternativas": {
         "A": "chocável e passível de pulso.",
@@ -14157,8 +14157,8 @@
     {
       "id": "pv-df-2024-0091",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "A principal artéria do apêndice cecal é a artéria apendicular, que é um ramo direto da artéria",
       "alternativas": {
         "A": "ileocólica.",
@@ -14180,8 +14180,8 @@
     {
       "id": "pv-df-2024-0100",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Estômago",
       "enunciado": "Um paciente de 68 anos de idade, portador de HAS e diabetes mellitus (DM) insulinodependente de difícil controle, procurou uma unidade de pronto atendimento com queixa de dor de forte intensidade no hipocôndrio direito há 48 horas. Associa-se ao quadro náusea e um episódio de vômito, além de febre (38 ºC). Fez uso de analgésicos, com pouca melhora dos sintomas. Como medidas iniciais, realizou exames laboratoriais e tomografia computadorizada de abdome. Acerca desse caso clínico, com base nas imagens apresentadas, a principal hipótese diagnóstica é",
       "alternativas": {
         "A": "colecistite aguda.",
@@ -14244,7 +14244,7 @@
       "id": "pv-df-2025-0129",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Hipertensão Arterial Sistêmica (HAS)",
       "enunciado": "Em relação ao manejo da hipertensão arterial resistente, assinale a alternativa correta.",
       "alternativas": {
         "A": "A causa secundária mais comum de hipertensão resistente é a apneia obstrutiva do sono.",
@@ -14274,8 +14274,8 @@
     {
       "id": "pv-df-2025-0130",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "COVID 19",
       "enunciado": "No contexto de tratamento da Covid-19 em pacientes hospitalizados, assinale a alternativa correta.",
       "alternativas": {
         "A": "O uso de corticosteroides está indicado apenas para pacientes em ventilação mecânica.",
@@ -14303,7 +14303,7 @@
     {
       "id": "pv-df-2025-0161",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
+      "subarea": "Gastroenterologia",
       "sub_subarea": "",
       "enunciado": "Assinale a alternativa que indica os principais músculos afetados nas lacerações de terceiro e quarto graus.",
       "alternativas": {
@@ -14371,7 +14371,7 @@
     {
       "id": "pv-ba-2024-0025",
       "area": "Clinica Medica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Endocrinologia",
       "sub_subarea": "",
       "enunciado": "Adolescente, 15 anos de idade, vai em ginecologista referindo irregularidade menstrual. Menarca: 14 anos de idade. Nunca teve relações sexuais. Refere fluxo menstrual normal e nega dismenorreia. Trouxe anotações com os ciclos dos últimos meses e seus intervalos entre as menstruações: Considerando que essa é a primeira consulta ginecológica da paciente, o médico deve, também, orientar a paciente quanto à fisiologia do ciclo reprodutivo feminino. Informar para a adolescente que a segunda fase do ciclo, o período pós-ovulação, leva a uma elevação dos níveis hormonais de",
       "alternativas": {
@@ -14402,8 +14402,8 @@
     {
       "id": "pv-ba-2024-0043",
       "area": "Clinica Medica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "subarea": "Infectologia",
+      "sub_subarea": "",
       "enunciado": "Homem, 38 anos de idade, procura a UPA com queixas de icterícia, febre, mal-estar e náuseas, há cerca de três dias. Refere ter retornado de uma viagem à praia há cerca de 30 dias. Ao exame físico, apresenta-se lúcido e orientado, com icterícia 2+/4. Ausculta cardiorrespiratória sem alterações. Abdome com hepatomegalia e esplenomegalia discretas. Exame neurológico sem alterações. Os exames laboratoriais evidenciaram: Hb: 12g/dL, leucócitos: 9mil/mm³, plaquetas: 200mil/mm³, AST: 900U/L (VR 40), ALT: 980U/L (VR 40), Fosfatase alcalina: 400U/L (VR 150), GamaGT: 300U/L (VR 60), BT: 5,0mg/dL, RNI: 1,7. Indique a conduta terapêutica inicial mais apropriada para esse paciente:",
       "alternativas": {
         "B": "Iniciar terapia antiviral específica.",
@@ -14423,8 +14423,8 @@
     {
       "id": "pv-ba-2024-0045",
       "area": "Clinica Medica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Infectologia",
+      "sub_subarea": "",
       "enunciado": "Homem, 38 anos de idade, procura a UPA com queixas de icterícia, febre, mal-estar e náuseas, há cerca de três dias. Refere ter retornado de uma viagem à praia há cerca de 30 dias. Ao exame físico, apresenta-se lúcido e orientado, com icterícia 2+/4. Ausculta cardiorrespiratória sem alterações. Abdome com hepatomegalia e esplenomegalia discretas. Exame neurológico sem alterações. Os exames laboratoriais evidenciaram: Hb: 12g/dL, leucócitos: 9mil/mm³, plaquetas: 200mil/mm³, AST: 900U/L (VR 40), ALT: 980U/L (VR 40), Fosfatase alcalina: 400U/L (VR 150), GamaGT: 300U/L (VR 60), BT: 5,0mg/dL, RNI: 1,7. Diante do quadro clínico, quanto à gravidade do paciente, pode-se afirmar:",
       "alternativas": {
         "A": "A gravidade do caso é definida, principalmente, pela elevação de transaminases.",
@@ -14445,8 +14445,8 @@
     {
       "id": "pv-ba-2025-0049",
       "area": "Clinica Medica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Cirrose",
       "enunciado": "Homem, 62 anos de idade, portador de hepatite C crônica, comparece ao Pronto-Socorro com hematêmese volumosa e melena há três dias. O paciente apresenta-se ictérico, com PA: 90x60mmHg, FR: 115bpm e confusão mental. Ao exame, há ascite moderada. A avaliação laboratorial revela hemoglobina de 5,8g/dL, plaquetas de 70.000/mm3, RNI: 2,5. Considerando o caso descrito, a conduta imediata mais adequada envolve:",
       "alternativas": {
         "A": "Iniciar terlipressina e ceftriaxone intravenosos.",
