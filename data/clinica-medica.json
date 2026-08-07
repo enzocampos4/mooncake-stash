@@ -15460,7 +15460,7 @@
     {
       "id": "pv-hcp-2025-0158",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Dermatologia",
       "sub_subarea": "",
       "enunciado": "Assinale a assertiva correta sobre rupturas agudas do tendão calcâneo (tendão de Aquiles).",
       "alternativas": {
@@ -15490,7 +15490,7 @@
       "id": "pv-hcp-2025-0160",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Intestinos",
       "enunciado": "Paciente feminina, de 34 anos, teve diagnóstico confirmado de fissura anal de localização anterior, com evolução de 8 semanas. Com base no quadro, assinale a assertiva correta.",
       "alternativas": {
         "A": "O caso corresponde a uma fissura anal aguda.",
@@ -15512,7 +15512,7 @@
     {
       "id": "pv-fam-2024-0066",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Dermatologia",
       "sub_subarea": "",
       "enunciado": "Médico do Trabalho de uma Metalúrgica ao examinar um funcionário da área de produção encontrou uma lesão caracterizada por perfuração do Septo Nasal na investigação diagnóstica encontrará como agente causador provável:",
       "alternativas": {
@@ -15567,8 +15567,8 @@
     {
       "id": "pv-sp-2024-0064",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "Assinale a alternativa que apresenta o procedimento necessário, além da anamnese, ao exame proctológico para que seja realizado o diagnóstico de doença hemorroidária.",
       "alternativas": {
         "A": "inspeção estática e dinâmica da região anal, toque retal, anuscopia e retossigmoidoscopia flexível",
@@ -15600,7 +15600,7 @@
     {
       "id": "pv-sp-2024-0080",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Dermatologia",
       "sub_subarea": "",
       "enunciado": "Henrique era o único médico de plantão no pronto‑socorro de um hospital sem cirurgião plástico e acabou de receber um paciente vítima de queimadura com piche nas duas mãos. Com base nessa situação hipotética, assinale a alternativa que apresenta o procedimento a ser realizado após a analgesia e a irrigação do ferimento abundantemente com água corrente de baixo fluxo por, pelo menos, vinte a trinta minutos.",
       "alternativas": {
@@ -15624,8 +15624,8 @@
     {
       "id": "pv-sp-2025-0125",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "Julgue os itens a seguir, acerca das doenças que são possíveis de ser diagnosticadas durante a realização do toque retal. I. Hiperplasia prostática II. Fecaloma III. Retocele IV. Tumor localizado na transição retosigmoide V. Doença hemorroidária interna grau I",
       "alternativas": {
         "A": "Somente os itens I, II e IV estão certos.",
@@ -15648,8 +15648,8 @@
     {
       "id": "pv-sp-2025-0135",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções relacionadas à assistência à saúde (IRAS)",
       "enunciado": "Em relação às lesões térmicas, assinale a alternativa correta.",
       "alternativas": {
         "A": "O débito urinário deve ser de 0,5 ml/kg/h, independentemente da natureza da queimadura e idade do paciente.",
@@ -15672,8 +15672,8 @@
     {
       "id": "pv-sp-2025-0206",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Mulher, 60 anos de idade, faz uso de terapia hormonal com estrogênio e progesterona, além do uso de alendronato, colecalciferol e carbonato de cálcio. Qual dos seguintes procedimentos poderá ter seu resultado comprometido nesta paciente?",
       "alternativas": {
         "A": "Litotripsia.",
@@ -15701,8 +15701,8 @@
     {
       "id": "pv-uni-2024-0042",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Traumatismo Craniencefálico",
       "enunciado": "Ao realizar toque vaginal em parturiente no período expulsivo, obstetra notou a presença de bossa e de cavalgamento dos ossos do crânio. Estes achados são mais frequentemente encontrados em qual situação?",
       "alternativas": {
         "A": "Desproporção cefalopélvica.",
@@ -15733,8 +15733,8 @@
     {
       "id": "pv-uni-2024-0096",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Câncer de pele",
       "enunciado": "Mulher, 63 anos de idade, apresenta lesão de 7mm na região centro-lateral da fronte, com diagnóstico de carcinoma basocelular. Indicada ressecção com margem de segurança por incisão fusiforme e fechamento primário. Seguindo os princípios das “linhas de Langer”, qual é a melhor orientação da incisão?",
       "alternativas": {
         "A": "Horizontal.",
@@ -15756,8 +15756,8 @@
     {
       "id": "pv-uni-2024-0097",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções relacionadas à assistência à saúde (IRAS)",
       "enunciado": "Homem, 35 anos de idade, é admitido no PS, vítima de queimadura térmica de segundo grau, extensa, no antebraço e terço distal do membro superior direito. A lesão é caracterizada por bolhas, vermelhidão intensa e dor local. Qual é a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Cobertura da lesão com curativo estéril.",

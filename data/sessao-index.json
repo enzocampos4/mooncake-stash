@@ -5078,8 +5078,8 @@
   "pv-ufr-2024-0128": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Cardiologia",
+    "subsub": "Fisiologia Cardíaca e Eletrocardiograma",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -5087,8 +5087,8 @@
   "pv-ufr-2025-0170": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Adrenal",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5096,8 +5096,8 @@
   "pv-ufr-2025-0183": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Sepse",
+    "sub": "Gastroenterologia",
+    "subsub": "Procedimentos endoscópicos",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5105,8 +5105,8 @@
   "pv-ufr-2025-0184": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5114,8 +5114,8 @@
   "pv-ufr-2025-0193": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Hematologia",
+    "subsub": "Fundamentos de oncohematologia",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5124,7 +5124,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "DII",
+    "subsub": "Intestinos",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5132,8 +5132,8 @@
   "pv-uer-2024-0062": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Derrame Pleural",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -5141,8 +5141,8 @@
   "pv-uer-2024-0063": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -5151,7 +5151,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Neoplasias do Sistema Digestivo",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -5159,8 +5159,8 @@
   "pv-uer-2024-0080": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Procedimentos endoscópicos",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -5168,8 +5168,8 @@
   "pv-uer-2025-0187": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Procedimentos endoscópicos",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -5178,7 +5178,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Arritmias",
+    "subsub": "Valvopatias",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
