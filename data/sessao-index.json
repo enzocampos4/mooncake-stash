@@ -5294,8 +5294,8 @@
   "pv-uni-2025-0103": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Nefrologia",
+    "subsub": "Controle da água corporal total",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -5303,8 +5303,8 @@
   "pv-uni-2025-0112": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Derrame Pleural",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -5312,8 +5312,8 @@
   "pv-sír-2024-0065": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Obesidade",
+    "sub": "Gastroenterologia",
+    "subsub": "Estômago",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -5321,8 +5321,8 @@
   "pv-sír-2025-0127": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -5348,8 +5348,8 @@
   "pv-hia-2025-0099": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -5357,8 +5357,8 @@
   "pv-hia-2025-0101": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Doenças Neuromusculares",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -5366,8 +5366,8 @@
   "pv-df-2024-0022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -5375,8 +5375,8 @@
   "pv-ba-2024-0034": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -5384,8 +5384,8 @@
   "pv-pe-2025-0170": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses vesicobolhosas",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -5393,7 +5393,7 @@
   "pv-mg-2024-0055": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "PSU-MG",
     "ano": 2024,
