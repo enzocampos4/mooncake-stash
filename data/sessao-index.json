@@ -2919,7 +2919,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2928,7 +2928,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2936,7 +2936,7 @@
   "pv--2025-0115": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "",
     "ano": 2025,
@@ -2945,8 +2945,8 @@
   "pv-uer-2025-0116": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Lúpus",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2955,7 +2955,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Tireoide",
+    "subsub": "Tireotoxicose",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2964,7 +2964,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "AR",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2973,7 +2973,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "subsub": "Distúrbios do equilíbrio acidobásico (DHE)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2981,8 +2981,8 @@
   "pv-uer-2025-0134": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "HDA",
+    "sub": "Hepatologia",
+    "subsub": "Complicações da Insuficiência Hepática",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2990,8 +2990,8 @@
   "pv-uer-2025-0147": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -2999,8 +2999,8 @@
   "pv-uer-2025-0149": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Dermatologia",
+    "subsub": "Câncer de pele",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -3008,8 +3008,8 @@
   "pv-uer-2025-0178": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "DII",
+    "sub": "Neurologia",
+    "subsub": "Distúrbios do Movimento",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"

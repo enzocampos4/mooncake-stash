@@ -8855,8 +8855,8 @@
     {
       "id": "pv-uer-2025-0186",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Em relação aos conhecimentos atuais sobre as lombalgias, é correto afirmar que:",
       "alternativas": {
         "A": "é essencial a realização de estudo de imagem",
@@ -8878,8 +8878,8 @@
     {
       "id": "pv-uer-2025-0194",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Para que a estratégia de diagnóstico clínico conhecida como demora permitida seja segura e eficiente, é necessário observar as seguintes condições:",
       "alternativas": {
         "A": "não ser utilizada em pacientes com exame de imagem demonstrando hérnia de disco ou esporão de calcâneo, mesmo que assintomáticos, devido à indicação cirúrgica desses achados",
@@ -8924,8 +8924,8 @@
     {
       "id": "pv-hcp-2024-0001",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Gênero",
       "enunciado": "A Resolução CFM no 2.333/2023 estabelece normas éticas sobre a prescrição de terapias hormonais com esteroides androgênicos e anabolizantes de acordo com as evidências científicas disponíveis sobre os riscos e malefícios à saúde, contraindicando seu uso para fins estéticos, de ganho de massa muscular ou de performance. Em relação ao uso de testosterona, a Resolução",
       "alternativas": {
         "A": "pode ser questionada visto que a terapia hormonal cruzada para homens trans utiliza doses desse esteroide semelhantes às empregadas para fins estéticos ou de performance.",
@@ -8947,8 +8947,8 @@
     {
       "id": "pv-hcp-2024-0003",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Tuberculose",
+      "subarea": "Infectologia",
+      "sub_subarea": "Tuberculose (TB)",
       "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo sobre investigação de pacientes sintomáticos respiratórios. Pacientes com tosse persistente por .......... ou mais devem realizar .......... .",
       "alternativas": {
         "A": "2 semanas – coleta de 1 amostra de escarro para realização de teste rápido molecular para tuberculose",
@@ -8970,8 +8970,8 @@
     {
       "id": "pv-hcp-2024-0009",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "DII",
+      "subarea": "Infectologia",
+      "sub_subarea": "Parasitoses",
       "enunciado": "Paciente masculino, de 42 anos, veio à Emergência queixando-se de dor abdominal em cólica, de severa intensidade, associada a constipação intestinal, sem alívio com analgésicos. Referiu fadiga, irritabilidade, dores articulares de início insidioso e piora gradual nas últimas 3 semanas. Informou trabalhar de forma autônoma, em uma empresa própria nos fundos da sua residência, com reciclagem de baterias automotivas e outros produtos para reciclagem. Os exames laboratoriais demonstraram anemia, além de ácido úrico e creatinina acima do limite da normalidade. Qual a hipótese diagnóstica mais provável?",
       "alternativas": {
         "A": "Intoxicação por cromo",
@@ -8999,8 +8999,8 @@
     {
       "id": "pv-hcp-2024-0010",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções sexualmente transmissíveis",
       "enunciado": "As doenças infecciosas e parasitárias relacionadas ao trabalho apresentam algumas características que as distinguem dos demais grupos: 1) os agentes etiológicos não são de natureza ocupacional; e 2) a ocorrência da doença depende das condições ou circunstâncias em que o trabalho é executado e da exposição ocupacional que favorece o contato, o contágio ou a transmissão. Assinale a alternativa que relaciona a doença infecciosa ou parasitária à exposição ocupacional.",
       "alternativas": {
         "A": "Leptospirose – trabalhadores de manutenção da rede de esgoto",
@@ -9022,8 +9022,8 @@
     {
       "id": "pv-hcp-2024-0024",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Neurologia",
+      "sub_subarea": "Cefaleias",
       "enunciado": "Assinale a assertiva correta sobre cefaleia.",
       "alternativas": {
         "A": "A resposta a antagonistas do receptor da serotonina ou a cetorolaco pode ser considerada um fator tranquilizador em relação a causas graves de cefaleia.",
@@ -9045,8 +9045,8 @@
     {
       "id": "pv-hcp-2024-0025",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Nefrolitíase",
       "enunciado": "Paciente masculino, de 30 anos, apresentou dor lombar à direita, sugestiva de cólica renal. À ultrassonografia, constatou-se hidronefrose à direita, sem definição do fator obstrutivo. Com base no resultado, qual o próximo exame a ser solicitado?",
       "alternativas": {
         "A": "Tomografia computadorizada de abdômen sem contraste",
@@ -9074,8 +9074,8 @@
     {
       "id": "pv-hcp-2024-0027",
       "area": "Clínica Médica",
-      "subarea": "Infectologia",
-      "sub_subarea": "",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Paciente feminina, de 45 anos, foi trazida à Emergência por febre alta, calafrios, dor lombar e sintomas urinários. O exame comum de urina revelou piúria e bacteriúria. Foi diagnosticada com pielonefrite aguda, tendo sido iniciada terapia antibiótica intravenosa. Após 24 horas na Sala de Emergência, a paciente evoluiu com sonolência, hipotensão e oligúria. O resultado da gasometria arterial mostrou nível de lactato de 2 mmol/l (valor de referência: 0,5-1,6 mmol/l). Com base no quadro, assinale a assertiva correta.",
       "alternativas": {
         "A": "O nível de lactato é irrelevante para o caso.",
@@ -9097,8 +9097,8 @@
     {
       "id": "pv-hcp-2024-0037",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Adrenal",
       "enunciado": "Assinale a alternativa que completa, correta e respectivamente, o parágrafo abaixo. O quadro de hiperaldosteronismo primário pode cursar com .........., sendo caracterizado por nível de renina plasmática .......... .",
       "alternativas": {
         "A": "hipopotassemia e alcalose metabólica – elevado",
