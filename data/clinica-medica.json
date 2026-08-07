@@ -13802,7 +13802,7 @@
       "id": "pv-df-2024-0049",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Neoplasias",
+      "sub_subarea": "Leucemias",
       "enunciado": "Assinale a alternativa que indica os cânceres pediátricos mais frequentes no Brasil.",
       "alternativas": {
         "A": "Leucemias, retinoblastoma, tumores do sistema nervoso central",
@@ -13824,8 +13824,8 @@
     {
       "id": "pv-df-2024-0059",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Diabetes",
       "enunciado": "A respeito do tratamento de um adolescente que apresenta cetoacidose diabética com desidratação grave, assinale a alternativa correta.",
       "alternativas": {
         "A": "O soro de manutenção deve receber glicose apenas quando o paciente estiver normoglicêmico.",
@@ -13855,8 +13855,8 @@
     {
       "id": "pv-df-2024-0063",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Tireoide",
       "enunciado": "No que concerne à avaliação das disfunções e lesões tireoidianas, assinale a alternativa que apresenta uma recomendação para a avaliação da tireoide.",
       "alternativas": {
         "A": "Não há indicação de pesquisa de marcadores moleculares na avaliação do nódulo tireoidiano.",
@@ -13878,8 +13878,8 @@
     {
       "id": "pv-df-2024-0064",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Reumatologia",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "A respeito do lúpus eritematoso sistêmico, é correto afirmar que faz(em) parte das possíveis complicações dessa doença a (o)",
       "alternativas": {
         "A": "lesão cutânea que melhora com a exposição solar.",
@@ -13902,7 +13902,7 @@
       "id": "pv-df-2024-0065",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "Lúpus",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "Os critérios diagnósticos do lúpus eritematoso sistêmico inclui a pesquisa de autoanticorpos. Um dos autoanticorpos cuja positividade faz parte dos critérios diagnósticos do lúpus é",
       "alternativas": {
         "A": "anti-Sm.",
@@ -13934,8 +13934,8 @@
     {
       "id": "pv-df-2024-0068",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Hepatites Virais",
       "enunciado": "Durante exames admissionais, um paciente realizou sorologias para hepatites virais com os resultados a seguir. Acerca da orientação nesse caso, assinale a alternativa correta.",
       "alternativas": {
         "A": "Dose de reforço da vacina contra a hepatite A",
@@ -13964,7 +13964,7 @@
       "id": "pv-df-2024-0070",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "A fibrose cística, que já foi considerada uma doença da infância, é agora também uma doença do adulto. O aumento da longevidade resultou em mais problemas médicos relacionados com a idade e com a própria doença. O crescente número de adultos com fibrose cística resultou em aumento da necessidade de cuidados médicos. DALCIN, Paulo de Tarso Roth; ABREU e SILVA, Fernando Antônio de. Fibrose cística no adulto: aspectos diagnósticos e terapêuticos. Jornal Brasileiro de pneumologia 34 (2008). O método indicado para o diagnóstico da fibrose cística e o tratamento são, respectivamente,",
       "alternativas": {
         "A": "teste do cloro no suor e azitromicina.",
@@ -13986,8 +13986,8 @@
     {
       "id": "pv-df-2024-0071",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Intoxicação",
+      "subarea": "Infectologia",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Um paciente foi levado pela esposa ao pronto-socorro com quadro de intoxicação por benzodiazepínico. Qual é a indicação medicamentosa para esse caso?",
       "alternativas": {
         "A": "Adrenalina",
@@ -14016,7 +14016,7 @@
       "id": "pv-df-2024-0074",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Dengue",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Uma paciente de 57 anos de idade, com miocardiopatia chagásica, insuficiência cardíaca de fração de ejeção reduzida em seguimento com cardiologia, procurou o prontosocorro queixando-se de febre, mialgia e dor retro-orbitária há três dias. Foi realizada sorologia para dengue com NS1 positivo. Ao exame físico, mostrou-se sem alterações de sinais vitais, com prova do laço negativa. Com base nesse caso clínico, é correto afirmar que se trata de um caso de dengue do grupo",
       "alternativas": {
         "A": "A.",
@@ -14045,7 +14045,7 @@
       "id": "pv-df-2024-0076",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Arritmias Cardíacas",
       "enunciado": "Uma paciente de 43 anos de idade, com história de cardiopatia estrutural, procurou o pronto- socorro queixando-se de desconforto torácico inespecífico e três pré-síncopes nas últimas 12 horas. Na admissão, foi realizado eletrocardiograma (ECG) com o traçado apresentado. Considerando esse caso e com base nesse traçado, é correto afirmar que se trata de",
       "alternativas": {
         "A": "ritmo sinusal normal.",
@@ -14073,8 +14073,8 @@
     {
       "id": "pv-df-2024-0077",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Complicações da Insuficiência Hepática",
       "enunciado": "Um paciente de 52 anos de idade, etilista diário há 23 anos, procurou o pronto-socorro com queixa de aumento importante do volume abdominal e discreto edema em membros inferiores. Ao exame físico, observou-se sinal do piparote positivo, sendo realizada paracentese e exames laboratoriais, com os seguintes resultados: plaquetopenia = 100 mil/mm³; albumina sérica = 2,0 g/dL; INR = 2,1; líquido ascítico com proteína = 0,6 g/dL; celularidade com 300 cél/mm³; e 54% de polimorfonucleares. Qual é a prescrição indicada para o referido caso clínico?",
       "alternativas": {
         "A": "Ciprofloxacino e espironolactona",
@@ -14096,8 +14096,8 @@
     {
       "id": "pv-df-2024-0079",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "RCP",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Choque",
       "enunciado": "Durante a assistência a um paciente em parada cardiorrespiratória no ambiente hospitalar, foi realizada a checagem de ritmo, com o traçado apresentado. No decorrer do manejo da parada cardiorrespiratória nesse ritmo, são indicados o uso de",
       "alternativas": {
         "A": "adrenalina e noradrenalina.",

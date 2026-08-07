@@ -4547,8 +4547,8 @@
   "pv-hia-2024-0074": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Hematologia",
+    "subsub": "Hemostasia",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -4557,7 +4557,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "subsub": "Asma",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -4565,8 +4565,8 @@
   "pv-hia-2025-0089": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -4574,8 +4574,8 @@
   "pv-hia-2025-0098": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Tromboembolismo Pulmonar (TEP)",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -4583,8 +4583,8 @@
   "pv-hia-2025-0124": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Reumatologia",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -4592,7 +4592,7 @@
   "pv-df-2024-0001": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
@@ -4601,7 +4601,7 @@
   "pv-df-2024-0009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
@@ -4610,8 +4610,8 @@
   "pv-df-2024-0013": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -4619,7 +4619,7 @@
   "pv-df-2024-0033": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
@@ -4628,8 +4628,8 @@
   "pv-df-2024-0043": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Tuberculose",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -4637,7 +4637,7 @@
   "pv-df-2024-0048": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
