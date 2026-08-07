@@ -2594,8 +2594,8 @@
   "pv-ufr-2025-0190": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2604,7 +2604,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Intestinos",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2612,8 +2612,8 @@
   "pv-ufr-2025-0197": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Estômago",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2630,8 +2630,8 @@
   "pv-ufr-2025-0202": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Gastroenterologia",
+    "subsub": "Neoplasias do Sistema Digestivo",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2639,8 +2639,8 @@
   "pv-ufr-2025-0205": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonia",
+    "sub": "Infectologia",
+    "subsub": "Infecções relacionadas à assistência à saúde (IRAS)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2648,8 +2648,8 @@
   "pv-ufr-2025-0210": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Hepatologia",
+    "subsub": "Introdução à Hepatologia",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2657,8 +2657,8 @@
   "pv-ufr-2025-0212": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2666,8 +2666,8 @@
   "pv-ufr-2025-0213": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2675,8 +2675,8 @@
   "pv-ufr-2025-0220": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2684,8 +2684,8 @@
   "pv-ufr-2025-0225": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2693,8 +2693,8 @@
   "pv-ufr-2025-0240": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
