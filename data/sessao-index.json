@@ -3566,8 +3566,8 @@
   "pv-fam-2025-0123": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3575,7 +3575,7 @@
   "pv-fam-2025-0127": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2025,
@@ -3584,8 +3584,8 @@
   "pv-fam-2025-0145": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Sepse",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3593,8 +3593,8 @@
   "pv-fam-2025-0157": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Traumatismo Craniencefálico",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3603,7 +3603,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Outras doenças infecciosas",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -3611,8 +3611,8 @@
   "pv-sp-2024-0004": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Introdução à Pneumologia",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -3620,7 +3620,7 @@
   "pv-sp-2024-0049": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
@@ -3630,7 +3630,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Meningites",
+    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -3638,7 +3638,7 @@
   "pv-sp-2024-0061": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
@@ -3647,8 +3647,8 @@
   "pv-sp-2024-0067": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Dermatologia",
+    "subsub": "Lesões elementares",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -3656,8 +3656,8 @@
   "pv-sp-2024-0070": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Neurologia",
-    "subsub": "AVC",
+    "sub": "Gastroenterologia",
+    "subsub": "Neoplasias do Sistema Digestivo",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -3666,7 +3666,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Pancreatite",
+    "subsub": "Pâncreas",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
