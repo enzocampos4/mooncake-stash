@@ -8518,7 +8518,7 @@
       "id": "pv-uer-2025-0104",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "",
       "enunciado": "Mulher de 60 anos, com diagnóstico de adenocarcinoma de pulmão, em tratamento com quimioterapia (QT), procurou a emergência com dispneia progressiva há alguns dias, associada à dor do tipo pleurítica, que piora ao deitar. Ao exame físico, tinha hipofonese de bulhas, turgência jugular a 90° e pressão arterial (PA) = 100x60mmHg, na inspiração, e 120x80mmHg, na expiração. O diagnóstico mais provável e a melhor conduta nesse momento, respectivamente, são:",
       "alternativas": {
         "A": "tamponamento cardíaco / pericardiocentese",
@@ -8541,7 +8541,7 @@
       "id": "pv-uer-2025-0108",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "",
       "enunciado": "Mulher de 60 anos, com história pregressa de HAS, é internada com dispneia súbita, dor precordial de forte intensidade, associada à cianose e taquicardia. Apresenta extremidades frias e perfusão tecidual alterada. A PA é de 90x60mmHg, sem variação respiratória, e a FC de 128bpm, regular. Ao exame físico, a paciente está desconfortável, não consegue deitar a zero grau e apresenta turgência jugular a 45°. É passado um cateter de Swan-Ganz que mostra diminuição do débito cardíaco, pressão capilar pulmonar normal e aumento da resistência vascular periférica. O tipo de choque mais provável é por:",
       "alternativas": {
         "A": "infarto agudo do miocárdio",
@@ -8569,7 +8569,7 @@
     {
       "id": "pv--2025-0115",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "Uma mulher de 72 anos, hipertensa e diabética, procura o ambulatório de neurologia com queixa de fraqueza em braço esquerdo há cerca de um ano. Relata dificuldade cada vez maior de realizar atividades finas, como abotoar a blusa e escrever. À anamnese dirigida, refere episódios de engasgo e tosse ao se alimentar há dois meses. Ao exame, apresenta atrofia de musculatura tenar e miofasciculação em membro superior esquerdo, além de hiperreflexia patelar e clônus em membro inferior direito. O diagnóstico mais provável, nesse caso, é:",
       "alternativas": {
@@ -8592,8 +8592,8 @@
     {
       "id": "pv-uer-2025-0116",
       "area": "Clínica Médica",
-      "subarea": "Reumatologia",
-      "sub_subarea": "Lúpus",
+      "subarea": "Infectologia",
+      "sub_subarea": "",
       "enunciado": "Um homem de 28 anos busca a emergência queixando-se de febre e dor articular. Refere início do quadro há três dias, com febre de 39ºC, astenia e artralgia, inicialmente localizada em joelho direito, progredindo para punho e joelho esquerdos. Relata episódio de corrimento uretral autolimitado há duas semanas. Ao exame, apresenta dor, edema e eritema em joelho esquerdo, além de lesões pustulares em tronco e membros. Foi realizada artrocentese diagnóstica que evidenciou 30.000 leucócitos, com 95% de polimorfonucleares. Considerando o diagnóstico mais provável, a terapia inicial mais adequada é:",
       "alternativas": {
         "A": "prednisona",
@@ -8622,7 +8622,7 @@
       "id": "pv-uer-2025-0117",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Tireoide",
+      "sub_subarea": "Tireotoxicose",
       "enunciado": "Uma mulher de 48 anos, com obesidade, é encaminhada ao ambulatório de clínica médica com queixa de cansaço. Refere início do quadro há cerca de um mês, com fadiga, irritabilidade, intolerância ao calor e tremor de extremidades, além de episódios recorrentes de palpitação e dor retroesternal. Um eletrocardiograma revela apenas taquicardia sinusal. Exames laboratoriais evidenciam TSH suprimido e T4 livre elevado. O exame físico da tireoide é normal. Foi realizada cintilografia de tireoide, que evidenciou hipocaptação do radionuclídeo em toda a glândula. A causa mais provável do quadro descrito é:",
       "alternativas": {
         "A": "tireotoxicose factícia",
@@ -8654,7 +8654,7 @@
       "id": "pv-uer-2025-0119",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "AR",
+      "sub_subarea": "",
       "enunciado": "Um homem de 19 anos é encaminhado ao ambulatório de clínica médica devido a quadro de dor lombar. Refere início dos sintomas há seis meses. A dor é pior pela manhã e melhora ao longo do dia, com rigidez matinal de duas horas. Relata ainda episódios recorrentes de dor e vermelhidão em olho direito, que melhoram espontaneamente. Nega diarreia, corrimento genital ou artralgia de pequenas articulações. Exames laboratoriais evidenciam elevação de provas inflamatórias e leve anemia. Considerando o diagnóstico mais provável, um exame que deve ser solicitado e o tratamento inicial mais adequado, respectivamente, são:",
       "alternativas": {
         "A": "HLA B27 / corticosteroide",
@@ -8677,7 +8677,7 @@
       "id": "pv-uer-2025-0121",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "sub_subarea": "Distúrbios do equilíbrio acidobásico (DHE)",
       "enunciado": "O distúrbio hidroeletrolítico cuja rápida correção leva à mielinólise pontina é a:",
       "alternativas": {
         "A": "hipocalemia",
@@ -8699,8 +8699,8 @@
     {
       "id": "pv-uer-2025-0134",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "HDA",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Complicações da Insuficiência Hepática",
       "enunciado": "A hematêmese por varizes de esôfago, quando apresentada por um paciente com trombose de veias supra-hepáticas, é decorrente de alteração parenquimatosa hepática e compromete o espaço:",
       "alternativas": {
         "A": "ducto biliar terciário",
@@ -8722,8 +8722,8 @@
     {
       "id": "pv-uer-2025-0147",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Gênero",
       "enunciado": "Uma mulher de 58 anos apresenta quadro progressivo de engrossamento da voz, alopecia e hipertrofia de clitóris. Realiza exame ultrassonográfico que evidencia massa sólida de 5cm em ovário direito. De acordo com a sintomatologia, a provável linhagem dessa massa ovariana é:",
       "alternativas": {
         "A": "epitelial",
@@ -8745,8 +8745,8 @@
     {
       "id": "pv-uer-2025-0149",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Câncer de pele",
       "enunciado": "Uma mulher de 37 anos, obesa, tabagista, hipertensa e diabética, apresenta prurido vulvar e lesões pleomórficas em vulva. A biópsia revelou lesão intraepitelial escamosa de alto grau (HSIL) vulvar. O fator de risco para esta condição, identificado nesse caso é:",
       "alternativas": {
         "A": "diabetes",
@@ -8768,8 +8768,8 @@
     {
       "id": "pv-uer-2025-0178",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "DII",
+      "subarea": "Neurologia",
+      "sub_subarea": "Distúrbios do Movimento",
       "enunciado": "Adolescente de 13 anos, sexo masculino, no quinto ano escolar, apresenta dificuldade de interação social e movimentos repetitivos. É muitas vezes inflexível e preza sempre pelas suas rotinas, ficando muito irritado quando precisa alterá-las. Os pais relatam que o paciente andou com dois anos, falou com três e fez tratamento fonoaudiológico até os nove anos. Há quatro meses, passou a apresentar emagrecimento de 3kg, anemia, e fezes ora normais, ora diarreicas com sangue. Nesse caso, o diagnóstico e sua complicação, respectivamente, são:",
       "alternativas": {
         "A": "distúrbio de hiperatividade déficit de atenção / doença celíaca",

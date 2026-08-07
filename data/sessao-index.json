@@ -2810,8 +2810,8 @@
   "pv-uer-2024-0034": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2819,8 +2819,8 @@
   "pv-uer-2024-0053": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2828,8 +2828,8 @@
   "pv-uer-2024-0067": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "sub": "Endocrinologia",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2837,8 +2837,8 @@
   "pv-uer-2024-0076": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2847,7 +2847,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Obesidade",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2856,7 +2856,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "AR",
+    "subsub": "Artropatias inflamatórias",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2864,8 +2864,8 @@
   "pv-uer-2024-0083": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2873,8 +2873,8 @@
   "pv-uer-2024-0085": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2882,8 +2882,8 @@
   "pv-uer-2024-0090": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Endocrinologia",
+    "subsub": "Metabolismo Ósseo e Mineral",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2892,7 +2892,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "AVC",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2901,7 +2901,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Arritmias",
+    "subsub": "Fisiologia Cardíaca e Eletrocardiograma",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2910,7 +2910,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Doenças Neuromusculares",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
