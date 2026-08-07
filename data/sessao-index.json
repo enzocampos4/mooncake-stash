@@ -4430,8 +4430,8 @@
   "pv-sír-2025-0106": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Metabolismo Ósseo e Mineral",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -4439,8 +4439,8 @@
   "pv-sír-2025-0109": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Nefrologia",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -4448,8 +4448,8 @@
   "pv-sír-2025-0113": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Neurologia",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -4457,8 +4457,8 @@
   "pv-sír-2025-0129": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Traumatismo Craniencefálico",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -4466,8 +4466,8 @@
   "pv-sír-2025-0139": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -4475,8 +4475,8 @@
   "pv-sír-2025-0175": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -4484,8 +4484,8 @@
   "pv-hia-2024-0010": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "Cefaleias",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -4503,7 +4503,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "subsub": "Hemostasia",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -4512,7 +4512,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Choque",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -4521,7 +4521,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Choque",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -4529,8 +4529,8 @@
   "pv-hia-2024-0069": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
