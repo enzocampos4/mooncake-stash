@@ -3458,7 +3458,7 @@
   "pv-fam-2024-0069": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
@@ -3467,7 +3467,7 @@
   "pv-fam-2024-0070": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
@@ -3476,7 +3476,7 @@
   "pv-fam-2024-0071": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
@@ -3485,7 +3485,7 @@
   "pv-fam-2024-0072": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
@@ -3494,8 +3494,8 @@
   "pv-fam-2025-0082": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "sub": "Endocrinologia",
+    "subsub": "",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3504,7 +3504,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "AR",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3513,7 +3513,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "subsub": "Distúrbios do equilíbrio acidobásico (DHE)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3521,8 +3521,8 @@
   "pv-fam-2025-0092": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
+    "sub": "Nefrologia",
+    "subsub": "Glomerulopatias",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3530,8 +3530,8 @@
   "pv-fam-2025-0093": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Tuberculose",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3540,7 +3540,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Neurologia Vestibular",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3548,8 +3548,8 @@
   "pv-fam-2025-0121": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -3557,8 +3557,8 @@
   "pv-fam-2025-0122": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"

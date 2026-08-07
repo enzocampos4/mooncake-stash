@@ -10445,8 +10445,8 @@
     {
       "id": "pv-fam-2025-0123",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Parasitoses",
       "enunciado": "O médico do trabalho, durante avaliação admissional de funcionários que laborem na área de processamento de alimentos, deverá solicitar como exames complementares obrigatórios, no mínimo:",
       "alternativas": {
         "A": "Paresitológico, colesterol e triglicérides",
@@ -10468,7 +10468,7 @@
     {
       "id": "pv-fam-2025-0127",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Jovem, usuário de álcool, há meses atendido no serviço de saúde pela equipe de saúde da família, sem sucesso na manutenção da abstinência alcóolica. Hoje, foi encontrado morto, pelo vizinho, na sala de sua casa, após 3 dias em estado de embriaguez. Diante disso, em relação ao preenchimento da Declaração de Óbito (DO), o médico de família e comunidade:",
       "alternativas": {
@@ -10497,8 +10497,8 @@
     {
       "id": "pv-fam-2025-0145",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Sepse",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Paciente masculino, 32 anos, apresentou queda \"a cavaleiro\" em um acidente na construção civil. Levado à sala de Emergência, queixa-se de dor intensa na bacia. Hemodinamicamente estável, feito uma radiografia de bacia na sala do Trauma, que constata abertura da sínfise púbica. Na fratura do anel pélvico associada a lesão do sistema urinário, qual estrutura é lesionada com maior frequência no sexo masculino, quando comparada com o feminino?",
       "alternativas": {
         "A": "Rim",
@@ -10526,8 +10526,8 @@
     {
       "id": "pv-fam-2025-0157",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Traumatismo Craniencefálico",
       "enunciado": "Vítima de ferimento penetrante por projetil de arma de fogo em região cervical acima do ângulo da mandíbula mantendo estabilidade hemodinâmica, com hematoma local. Caso seja confirmada lesão vascular nessa região pela angiotomografia, a melhor opção de tratamento é:",
       "alternativas": {
         "A": "Endovascular",
@@ -10556,7 +10556,7 @@
       "id": "pv-sp-2024-0001",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Assinale a alternativa que apresenta a condição que deve ser notificada de forma semanal.",
       "alternativas": {
         "A": "acidente por animal peçonhento",
@@ -10587,8 +10587,8 @@
     {
       "id": "pv-sp-2024-0004",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "Antônio, de 97 anos de idade, foi atendido em visita domiciliar de rotina por seu médico de família. Ele possui um câncer de bexiga em estágio IV, avançado. Seu médico já conduziu as diretivas antecipadas de vontade de Antônio e foi acordado que era de sua vontade ter seu óbito domiciliar. Nas últimas três semanas, os familiares notaram que a respiração de Antônio estava mais ruidosa e curta. No entanto, sempre que colocavam o oxímetro em seu dedo, sua saturação estava em 97%. O exame físico conduzido pelo médico não evidenciou alterações na ausculta pulmonar e contou uma FR de 28 ipm. Com base nessa situação hipotética, assinale a alternativa que apresenta a opção medicamentosa com maior evidência para dar conforto a Antônio",
       "alternativas": {
         "A": "morfina",
@@ -10611,7 +10611,7 @@
     {
       "id": "pv-sp-2024-0049",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "Assinale a alternativa que apresenta a sequência correta de atendimento da parada cardiopulmonar em pediatria, recomendada pelas diretrizes de RCP AHA desde 2010 e reforçada em 2020.",
       "alternativas": {
@@ -10644,7 +10644,7 @@
       "id": "pv-sp-2024-0058",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Meningites",
+      "sub_subarea": "",
       "enunciado": "Um paciente de doze anos de idade apresentou, há 48 horas, febre, cefaleia, vômitos e fadiga. Seu exame clínico apontou que se encontrava febril, sonolento, consciente, com temperatura de 39 °C, ausculta cardíaca e respiratória sem alterações, abdome inocente e sinais de Kernig e Brudzinski positivos. Entre os exames laboratoriais, foi coletado líquido cefalorraquidiano com 1.120 leucócitos, sendo 86% neutrófilos(predomínio de polimorfonucleares), proteinorraquia de 150 e glicorraquia de 20, aguardando a cultura. Com base nessa situação hipotética, assinale a alternativa que apresenta o diagnóstico correto do paciente.",
       "alternativas": {
         "A": "meningoencefalite viral",
@@ -10673,7 +10673,7 @@
     {
       "id": "pv-sp-2024-0061",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "Fernanda é uma médica recém‑formada. Ela estava trabalhando em uma unidade de resgate avançado com todos os materiais disponíveis e foi chamada para atender um paciente adulto encontrado caído na via pública, o qual tinha indicação de intubação orotraqueal. Após a utilização da medicação pré‑intubação, Fernanda não conseguiu a via aérea definitiva após três tentativas e o paciente começou a desaturar. Com base nessa situação hipotética, assinale a alternativa que apresenta a conduta a ser adotada nesse momento.",
       "alternativas": {
@@ -10703,8 +10703,8 @@
     {
       "id": "pv-sp-2024-0067",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Lesões elementares",
       "enunciado": "Uma paciente de dezesseis anos de idade chegou ao pronto‑socorro com ferimento cortocontuso superficial na face, de 3 cm, que ocorreu há trinta minutos, e foi atendida pelo médico. Assinale a alternativa que apresenta a conduta que o médico deverá adotar no momento",
       "alternativas": {
         "A": "realizar a sutura com pontos simples e separados, utilizando fio absorvível, como o Monocryl® 4‑0",
@@ -10727,8 +10727,8 @@
     {
       "id": "pv-sp-2024-0070",
       "area": "Clínica Médica",
-      "subarea": "Neurologia",
-      "sub_subarea": "AVC",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Neoplasias do Sistema Digestivo",
       "enunciado": "Uma paciente de oitenta anos de idade, com antecedente de AVC prévio e com dificuldade de deambulação, foi levada ao pronto‑socorro por familiares, devido à dor abdominal, distensão e parada da eliminação de fezes. No exame: desidratada +/4+; anêmica +/4+; e com tumoração palpável de, aproximadamente, 10 cm no hipogastro, com sinal de Gersuny positivo. Não foi permitida a realização do toque retal. Com base nessa situação hipotética, assinale a alternativa que apresenta, correta e respectivamente, o diagnóstico mais provável e o exame indicado no momento.",
       "alternativas": {
         "A": "massa abdominal a esclarecer e TC de abdome e pelve",
@@ -10758,7 +10758,7 @@
       "id": "pv-sp-2024-0071",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "Pancreatite",
+      "sub_subarea": "Pâncreas",
       "enunciado": "Em relação à pancreatite aguda (PA), assinale a alternativa incorreta.",
       "alternativas": {
         "A": "A elevação persistente da amilase é indício de complicação, como o abscesso e o pseudocisto.",
