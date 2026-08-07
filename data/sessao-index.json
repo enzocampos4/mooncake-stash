@@ -4754,8 +4754,8 @@
   "pv-df-2024-0080": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP",
+    "sub": "Cardiologia",
+    "subsub": "Arritmias Cardíacas",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -4763,8 +4763,8 @@
   "pv-df-2024-0091": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -4772,8 +4772,8 @@
   "pv-df-2024-0100": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Gastroenterologia",
+    "subsub": "Estômago",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -4791,7 +4791,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -4799,8 +4799,8 @@
   "pv-df-2025-0130": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "COVID 19",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -4808,7 +4808,7 @@
   "pv-df-2025-0161": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
+    "sub": "Gastroenterologia",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -4826,7 +4826,7 @@
   "pv-ba-2024-0025": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "SUS-BA",
     "ano": 2024,
@@ -4835,8 +4835,8 @@
   "pv-ba-2024-0043": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -4844,8 +4844,8 @@
   "pv-ba-2024-0045": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -4853,8 +4853,8 @@
   "pv-ba-2025-0049": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"

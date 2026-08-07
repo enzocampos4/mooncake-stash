@@ -14467,8 +14467,8 @@
     {
       "id": "pv-ba-2025-0050",
       "area": "Clinica Medica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Complicações da Insuficiência Hepática",
       "enunciado": "Homem, 62 anos de idade, portador de hepatite C crônica, comparece ao Pronto-Socorro com hematêmese volumosa e melena há três dias. O paciente apresenta-se ictérico, com PA: 90x60mmHg, FR: 115bpm e confusão mental. Ao exame, há ascite moderada. A avaliação laboratorial revela hemoglobina de 5,8g/dL, plaquetas de 70.000/mm3, RNI: 2,5. Caso o paciente evolua com um quadro refratário, é correto afirmar que:",
       "alternativas": {
         "A": "Deve-se iniciar betabloqueador intravenoso em bomba de infusão contínua.",
@@ -14488,8 +14488,8 @@
     {
       "id": "pv-ba-2025-0051",
       "area": "Clinica Medica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Complicações da Insuficiência Hepática",
       "enunciado": "Homem, 62 anos de idade, portador de hepatite C crônica, comparece ao Pronto-Socorro com hematêmese volumosa e melena há três dias. O paciente apresenta-se ictérico, com PA: 90x60mmHg, FR: 115bpm e confusão mental. Ao exame, há ascite moderada. A avaliação laboratorial revela hemoglobina de 5,8g/dL, plaquetas de 70.000/mm3, RNI: 2,5. O fator de mau prognóstico mais importante neste caso é:",
       "alternativas": {
         "B": "Passado de etilismo.",
@@ -14509,8 +14509,8 @@
     {
       "id": "pv-ena-2024-0077",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Cirrose",
       "enunciado": "O médico de um paciente cirrótico está verificando a possibilidade de uma cirurgia hepática para esse paciente, porém, para isso, quer primeiro verificar qual seu escore Child-Pugh, já que este possui correlação com a sobrevida do paciente. Nesse sentido, o paciente apresenta os seguintes exames: bilirrubina de 2,5 mg/dL; albumina de 2,6 g/dL; tempo de protrombina de 2 segundos; nenhuma ascite ou encefalopatia. Diante desses resultados, qual é a classificação de Child-Pugh desse paciente e sua chance de sobrevida?",
       "alternativas": {
         "A": "Child-Pugh A / Sobrevida alta.",
@@ -14571,7 +14571,7 @@
     {
       "id": "pv-pe-2024-0068",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Hepatologia",
       "sub_subarea": "",
       "enunciado": "A cirurgia minimamente invasiva vem ganhando cada vez mais espaço dentre os procedimentos realizados no Brasil e no mundo. Dentre as vantagens dessa modalidade, podemos citar",
       "alternativas": {
@@ -14604,8 +14604,8 @@
     {
       "id": "pv-pe-2024-0069",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Hemorragia Digestiva (HD)",
       "enunciado": "MJS, 52 anos, sexo feminino, procura a UPA com história de dor em epigástrio há 4 dias, de caráter constante e intensidade moderada, associada a vômitos há 1 dia. Refere 4 episódios, inicialmente com restos alimentares, mas relato de raios de sangue no último episódio. Exame físico e sinais vitais sem alterações. Realizou exames de sangue que evidenciaram um Hb 13 g/dL, Ht 39% e função renal normal. Sobre o caso em questão, qual a conduta mais adequada?",
       "alternativas": {
         "A": "Encaminhar para serviço que tenha endoscopia com urgência.",
@@ -14634,8 +14634,8 @@
     {
       "id": "pv-pe-2025-0139",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Coma e Alterações da Consciência",
       "enunciado": "Menor de 17 anos, sexo masculino, vítima de atropelamento, trazido pelo por familiares na seguinte condição clínica: Não responsivo, abre olhos ao estímulo doloroso, emite sons incompreensíveis, extensão dos membros ao estímulo doloroso, FC 130bpm, PA 90x50mmHg, MV abolido em HTE, múltiplas escoriações pelo corpo. Para a correta estabilização do paciente da questão (questão 38) anterior foram necessárias uma série de medidas, uma delas foi a drenagem de tórax. Sobre esse procedimento, em relação ao contexto do paciente, é CORRETO afirmar que",
       "alternativas": {
         "A": "a drenagem pode ser realizada no segundo espaço intercostal com dreno tipo pigtail e válvula unidireccional.",
@@ -14658,8 +14658,8 @@
     {
       "id": "pv-mg-2024-0007",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Controle da água corporal total",
       "enunciado": "Após os diferentes tipos de procedimentos cirúrgicos os pacientes recebem hidratação venosa no pós-operatório, uma vez que ficarão em jejum no pós-operatório por determinado período. Em relação à hidratação venosa no pós-operatório é CORRETO afirmar:",
       "alternativas": {
         "A": "A hidratação oral deve ser priorizada e quando necessária, a hidratação venosa deve ser feita a uma taxa aproximada de 30mL/kg em 24 horas.",
@@ -14688,7 +14688,7 @@
       "id": "pv-mg-2024-0008",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "sub_subarea": "Distúrbios do equilíbrio acidobásico (DHE)",
       "enunciado": "Paciente de 68 anos, sexo masculino, está no terceiro dia de pós-operatório de esofagectomia. Ele inicia quadro de dificuldade respiratória com queda da saturação de oxigênio. Foram solicitados exames laboratoriais que mostraram: pH: 7,25; PaCO2: 42mmHg; Na: 135mmol/L; K: 3,8mmol/L; Cloreto: 95mmol/L; e bicarbonato: 13mmol/L. Qual o diagnóstico do distúrbio ácido-base apresentado por este paciente?",
       "alternativas": {
         "A": "Acidose metabólica com anion gap aumentado.",
@@ -14710,7 +14710,7 @@
     {
       "id": "pv-amr-2024-0067",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
+      "subarea": "Gastroenterologia",
       "sub_subarea": "",
       "enunciado": "O retroperitônio é dividido em três zonas. Assinale a alternativa correta sobre a divisão do retroperitônio observada na cirurgia laparotômica.",
       "alternativas": {
@@ -14743,7 +14743,7 @@
       "id": "pv-amr-2024-0077",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Estômago",
       "enunciado": "Conforme a localização de uma úlcera gástrica, podemos classificá-la e correlacioná-la com a produção de cloro. Sobre a classificação da doença ulcerosa péptica, assinale a alternativa correta.",
       "alternativas": {
         "A": "Tipo I: úlcera de qualquer localização associada ao uso de AINE.",
@@ -14775,7 +14775,7 @@
       "id": "pv-amr-2025-0121",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Controle da água corporal total",
       "enunciado": "Paciente em NPO em pós-operatório necessita receber volume adequado de líquidos e quantidade adequada de eletrólitos. Quais são os valores corretos das necessidades básicas (mEq/quilo/dia) de sódio e de potássio, respectivamente?",
       "alternativas": {
         "A": "1,3 e 3,4.",
