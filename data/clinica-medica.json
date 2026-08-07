@@ -9781,7 +9781,7 @@
       "id": "pv-fam-2024-0005",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
       "enunciado": "Paciente feminina, 62 anos, portadora de Doença pulmonar obstrutiva crônica de diagnóstico recente, apresentando boa resposta ao tratamento convencional otimizado, sem exacerbações e sem história de internação relacionada a doença. Apresentando capacidade laboral preservada (trabalha como faxineira) PPS: 90%. Esta paciente tem indicação de Abordagem Paliativa de Cuidados?",
       "alternativas": {
         "A": "Sim, pois trata-se de doença incurável porem não neste momento, apenas quando começar a ter perda de funcionalidade (PPS<50%). perda ponderal ou procuras frequentes ao pronto atendimento",
@@ -9832,8 +9832,8 @@
     {
       "id": "pv-fam-2024-0014",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Introdução à Hepatologia",
       "enunciado": "Mulher de 60 anos procura assistência médica por conta de um laudo de ultrassonografia com esteatose hepática; DM2, IMC 30 Kg/m2 e hipertensão em uso de losartana e insulina NPH. Nega etilismo. A avaliação laboratorial mostra glicemia de jejum 120 mg/dL, hemoglobina glicada 6,8%, AST 52 UI/L (VR 40), ALT 56 UI/L (VR 41), FA 100 UI/L (VR 105), GGT 150 UI/L (VR 30), INR 1,1, albumina 4,7 g/dl, sorologia para vírus B e C não reagentes, anti-músculo liso não reagente, gamaglobulinas normais, anti-mitocôndria não reagente. Ultrassom abdome com aumento da ecogenicidade hepática. Elastografia hepática de 8 kPa. Qual a principal conduta inicial que deverá ser realizada?",
       "alternativas": {
         "A": "Iniciar metformina e semaglutida.",
@@ -9862,7 +9862,7 @@
       "id": "pv-fam-2024-0016",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "sub_subarea": "Leucemias",
       "enunciado": "Um paciente de 39 anos, assintomático, com exame físico normal, apresenta, em um exame admissional, o seguinte hemograma: Hb 14g/dl; Leucócitos totais 70.000/mm³ (Segmentados 75%, Bastonetes 5%, Metamielócitos 3%, Mielócitos 2%, Prómielócitos 2%, Eosinófilos 3%, Basófilos 2%, Monócitos 3% e Linfócitos 5%), Plaquetas 350.000/mm³. Além disso, apresenta um VHS de 10mm e Proteína C reativa de 0,2mg/dl. Tal hemograma foi repetido e confirmado. Diante de tal fato, pode-se afirmar que:",
       "alternativas": {
         "A": "A pesquisa da mutação bcr-abl (ou das protéinas p210/190) está indicada. Caso positiva, há indicação de tratamento.",
@@ -9919,8 +9919,8 @@
     {
       "id": "pv-fam-2024-0039",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Gênero",
       "enunciado": "Mulher de 19 anos de idade, amenorreia primária, com caracteres sexuais secundários presentes, 1,75 metros de altura, fenótipo feminino, com genitália externa feminina, com mamas (M5) e sem pilificação (P=0). Não tem os 2/3 superiores da vagina, não tem útero. Qual é a hipótese mais provável para esta paciente?",
       "alternativas": {
         "A": "Síndrome de Morris",
@@ -9942,8 +9942,8 @@
     {
       "id": "pv-fam-2024-0048",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Gênero",
       "enunciado": "Mulher de 28 anos de idade, referindo atraso menstrual de duas semanas, vem ao pronto atendimento obstétrico com queixa de dores tipo cólicas no baixo ventre e discreta perda sanguínea de coloração escura, por via vaginal. Realizado ultrassom endovaginal onde não foi evidenciado saco gestacional tópico ou ectópico. A conduta adequada nesse caso é:",
       "alternativas": {
         "A": "Repetir ultrassom endovaginal em duas semanas.",
@@ -9971,8 +9971,8 @@
     {
       "id": "pv-fam-2024-0049",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Estômago",
       "enunciado": "Paciente de 85 anos, branco, casado, natural e procedente de São Paulo capital. Tem história de problemas cardíacos, dores articulares e aterosclerose. Faz uso de Amiodarona e Acido Acetil Salicílico. Não usa anti-inflamatórios por recomendação médica e gastrite. Procura atendimento médico, devido episódios de dor epigástrica e mesogástrica há meses. Geralmente, dor pós alimentar, fazendo com que o paciente tenha \"medo de comer\". Associado, relata perda de peso. No momento encontra-se sem dor abdominal. Ao exame físico, a aplpação abdominal é indolor. Analisando o quadro clínico acima, assinale a alternativa correta:",
       "alternativas": {
         "A": "A Síndrome de Mittelschmerz é comum no quadro clínico descrito e deve ser considerada;",
@@ -10033,7 +10033,7 @@
       "id": "pv-fam-2024-0062",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "Pancreatite",
+      "sub_subarea": "Pâncreas",
       "enunciado": "Paciente do sexo feminino, 52 anos, hipertensa e diabética, relata dor em andar superior do abdome, mais importante em hipocôndrio direito, associada a vômitos, com início há 1 dia, após alimentação copiosa em festa familiar. Ao exame físico, apresenta-se em REG, desidratada (1+/4+), anictérica, Tax = 37,8°C, FC = 100 bpm, PA = 170 X 100 mmHg, com abdome globoso, doloroso a palpação do epigástrio e hipocôndrio direito, com defesa involuntária a palpação do rebordo costal direito, sinal de Murphy negativo. Assinale a alternativa que indique a melhor hipótese diagnóstica para o caso descrito, assim como o exame complementar de imagem mais adequado:",
       "alternativas": {
         "A": "Pancreatite aguda, tomografia computadorizada.",

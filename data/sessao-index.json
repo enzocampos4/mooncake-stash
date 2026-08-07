@@ -3242,8 +3242,8 @@
   "pv-hcp-2025-0148": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Derrame Pleural",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3251,8 +3251,8 @@
   "pv-hcp-2025-0150": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Arritmias",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3269,8 +3269,8 @@
   "pv-hcp-2025-0154": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Tumores Hepáticos",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3278,8 +3278,8 @@
   "pv-hcp-2025-0155": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Dermatologia",
+    "subsub": "Câncer de pele",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3287,8 +3287,8 @@
   "pv-hcp-2025-0175": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3297,7 +3297,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3306,7 +3306,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Tireoide",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3314,8 +3314,8 @@
   "pv-hcp-2025-0200": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "Infecções relacionadas à assistência à saúde (IRAS)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3323,8 +3323,8 @@
   "pv-hcp-2025-0201": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3333,7 +3333,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Anemias",
+    "subsub": "Introdução ao Estudo das Anemias",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -3342,7 +3342,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
