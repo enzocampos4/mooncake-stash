@@ -4322,7 +4322,7 @@
   "pv-sír-2024-0012": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Nefrologia",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -4331,8 +4331,8 @@
   "pv-sír-2024-0023": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Dermatologia",
+    "subsub": "Anatomia e fisiologia da pele",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4341,7 +4341,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "subsub": "Medicina transfusional",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4349,8 +4349,8 @@
   "pv-sír-2024-0066": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Nefrologia",
+    "subsub": "Infecção do trato urinário (ITU)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4359,7 +4359,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4368,7 +4368,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "subsub": "Hemostasia",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4376,8 +4376,8 @@
   "pv-sír-2024-0078": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4385,8 +4385,8 @@
   "pv-sír-2024-0084": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções relacionadas à assistência à saúde (IRAS)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4394,8 +4394,8 @@
   "pv-sír-2024-0086": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4403,8 +4403,8 @@
   "pv-sír-2024-0087": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "sub": "Endocrinologia",
+    "subsub": "Hipoglicemia em indivíduos não diabéticos",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4412,8 +4412,8 @@
   "pv-sír-2024-0090": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Endocrinologia",
+    "subsub": "Metabolismo Ósseo e Mineral",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -4421,8 +4421,8 @@
   "pv-sír-2025-0103": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Doenças Neuromusculares",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
