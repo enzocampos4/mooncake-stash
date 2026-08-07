@@ -12116,8 +12116,8 @@
     {
       "id": "pv-uni-2024-0094",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Icterícia não Obstrutiva",
       "enunciado": "Mulher, 38 anos de idade, apresenta dor abdominal há 3 dias, com intensidade progressiva, no hipocôndrio direito, irradiada para região interescapular, acompanhada de náuseas e vômitos. Refere episódio de febre não mensurada e escurecimento de urina. Exame físico: REG, FC = 95 bpm, PA = 130/80 mm Hg, T = 39 ºC, sudoreica, ictéricia = 1+/4+, dor à palpação do hipocôndrio direito e ausência de sinais de irritação peritoneal. Exame laboratorial: glicemia = 100 mg/dL, creatinina = 0,6, bilirrubina total = 2,8 (2,2 de direta) e leucocitose = 18.300 /mm3. Ultrassonografia abdominal: vesícula biliar normodistendida, paredes finas, cálculos móveis no seu interior, colédoco com 0,8 mm de diâmetro, colédoco distal de difícil avaliação. Pelos critérios de Tokyo 2018 esta paciente apresenta:",
       "alternativas": {
         "A": "Colangite aguda grau I.",
@@ -12145,8 +12145,8 @@
     {
       "id": "pv-uni-2025-0102",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Hemorragia Digestiva (HD)",
       "enunciado": "75 anos de idade, apresenta dor abdominal em cólica de forte intensidade e com 36 horas de evolução, de localização difusa, acompanhado de náuseas e vômitos. Nas últimas 24 horas, nega eliminação de gases e fezes. Exame físico: REG, descorada, FC 90 bpm, PA 150 x 95 mm Hg, temperatura 37,5 °C; abdômen globoso, distendido, ruídos hidroaéreos aumentados, hipertimpanismo difuso e doloroso à palpação, mas sem sinais de irritação peritoneal. A sequência do Rx de abdome em três posições evidenciou estômago e alças intestinal difusamente dilatadas, níveis hidroaéreos e pneumocolangiograma presente. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Hérnia interna",
@@ -12177,7 +12177,7 @@
       "id": "pv-uni-2025-0105",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "Pancreatite",
+      "sub_subarea": "Pâncreas",
       "enunciado": "Mulher, 47 anos de idade, antecedente de colelitíase, dá entrada no PS com queixa de dor epigástrica há 8 horas. Exame físico: estável hemodinamicamente, com abdômen distendido, doloroso difusamente no andar superior e DB negativa. Exames laboratoriais: leucograma 14.120 células/mm3 (80% de neutrófilos), PCR 32 mcg/dL e amilase 1.340 mcg/dL. Qual é a conduta nutricional mais adequada?",
       "alternativas": {
         "A": "Dieta oral após melhora da dor e da amilase.",
@@ -12199,8 +12199,8 @@
     {
       "id": "pv-uni-2025-0113",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Câncer de Pulmão",
       "enunciado": "Homem, 70 anos de idade, apresenta adenocarcinoma em lobo superior do pulmão esquerdo. Durante estadiamento da neoplasia observou-se comprometimento dos linfonodos das cadeias 4 ipsilateral e 7. Não foram identificadas metástases no PET-CT. Qual a conduta mais adequada?",
       "alternativas": {
         "A": "Tratamento não cirúrgico.",
@@ -12239,8 +12239,8 @@
     {
       "id": "pv-uni-2025-0117",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Infectologia",
+      "sub_subarea": "Sepse",
       "enunciado": "Mulher, 62 anos de idade, em estado crítico após sepse grave, necessita de acesso vascular central para administração de medicamentos e monitorização hemodinâmica. Após a punção venosa, a ultrassonografia revela a presença de bolhas de ar entre a agulha de punção e a veia jugular interna. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Aspirar as bolhas de ar com seringa e prosseguir com a inserção do cateter no mesmo sítio.",
@@ -12262,8 +12262,8 @@
     {
       "id": "pv-uni-2025-0120",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Reumatologia",
+      "sub_subarea": "Doenças da cartilagem e do osso",
       "enunciado": "Homem, 35 anos de idade, vem ao ambulatório de joelho após 3 semanas de acidente de carro no qual sofreu trauma direto no seu joelho esquerdo contra o painel do carro. Refere que na ocasião percebeu grande hematoma, inchaço e dor no joelho. Foi ao pronto socorro e realizou radiografias sem fraturas, sendo recomendado anti-inflamatórios e crioterapia. Exame físico: aumento da translação posterior do joelho esquerdo e deslizamento posterior da tíbia. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Lesão do ligamento cruzado posterior.",
@@ -12285,8 +12285,8 @@
     {
       "id": "pv-uni-2025-0127",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções bacterianas",
       "enunciado": "Homem, 66 anos de idade, portador de doença renal crônica, evoluiu com febre durante sessão de hemodiálise. Foi coletada hemocultura que mostrou crescimento de Staphylococcus aureus resistente à oxacilina. Qual é a opção terapêutica mais adequada para o caso de bacteremia?",
       "alternativas": {
         "A": "Vancomicina",
@@ -12315,7 +12315,7 @@
       "id": "pv-uni-2025-0128",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Homem, 27 anos de idade, previamente hígido, foi vítima de acidente automobilístico com sangramentos. Apresenta, à avaliação, PA = 94/52 mmHg, oligúria, creatinina = 1,9 mg/dL (VR 0,7 a 1,3 mg;dL), ureia = 96 mg/dL (VR 20 a 50 mg/dL), K = 6,1 mEq/L (VR 3,5 a 5,1 mEq/L), densidade urinária = 1036 (VR 1005 a 1030), fração de excreção de ureia = 27% e urina I com presença de cilindros hialinos abundantes. Qual é o tratamento mais adequado neste momento?",
       "alternativas": {
         "A": "Diálise de urgência.",
@@ -12337,8 +12337,8 @@
     {
       "id": "pv-uni-2025-0131",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Diabetes",
       "enunciado": "Mulher, 66 anos de idade, é atendida em consulta de rotina por diabetes tipo 2 e hipertensão arterial. Exame físico: PA = 140/96 mmHg. Exames laboratoriais: taxa de filtração glomerular estimada = 28 mL/min/1,73 m², proteinúria = 1,9 g/24h. Qual é a conduta mais apropriada?",
       "alternativas": {
         "A": "Prescrever inibidores da enzima conversão da angiotensina ou bloqueadores dos receptores da angiotensina II.",
@@ -12366,8 +12366,8 @@
     {
       "id": "pv-uni-2025-0140",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Dermatoses vesicobolhosas",
       "enunciado": "Homem, 28 anos de idade, apresenta lesões de pele há 4 dias, após 10 dias do início do uso de carbamazepina. Exame físico: lesões em alvo atípico na pele, vesículas e bolhas sobre base eritematosa difusa, com áreas de descolamento da pele (total cerca de 10% de pele descolada), erosões na mucosa oral e na glande e eritema conjuntival. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Pênfigo vulgar",
@@ -12389,8 +12389,8 @@
     {
       "id": "pv-uni-2025-0142",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Dermatoses vesicobolhosas",
       "enunciado": "Homem, 28 anos de idade, apresenta lesões de pele há 4 dias, após 10 dias do início do uso de carbamazepina. Exame físico: lesões em alvo atípico na pele, vesículas e bolhas sobre base eritematosa difusa, com áreas de descolamento da pele (total cerca de 10% de pele descolada), erosões na mucosa oral e na glande e eritema conjuntival. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Pênfigo vulgar.",
@@ -12412,8 +12412,8 @@
     {
       "id": "pv-uni-2025-0146",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Um estudo clínico está investigando a eficácia de um novo medicamento para reduzir o risco de determinada doença em pacientes de alto risco. O estudo envolveu 1000 pacientes, divididos igualmente em dois grupos: um grupo recebeu o novo medicamento e o outro grupo recebeu um placebo. Após um ano de acompanhamento, 100 pacientes no grupo do novo medicamento e 250 pacientes no grupo do placebo foram acometidos pela doença. Podemos concluir que a eficácia do novo medicamento foi de:",
       "alternativas": {
         "A": "30%.",
