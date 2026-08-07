@@ -15122,8 +15122,8 @@
     {
       "id": "pv-ufr-2024-0128",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Fisiologia Cardíaca e Eletrocardiograma",
       "enunciado": "Pode-se afirmar que a condição associada ao desdobramento paradoxal da segunda bulha cardíaca é:",
       "alternativas": {
         "A": "estenose mitral",
@@ -15145,8 +15145,8 @@
     {
       "id": "pv-ufr-2025-0170",
       "area": "Clínica Médica",
-      "subarea": "Reumatologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Adrenal",
       "enunciado": "Mulher, 52 anos, está em investigação da etiologia da insuficiência adrenal. Exames laboratoriais: níveis séricos de hormônio adrenocorticotrófico (ACTH) baixo; renina e aldosterona normais. Pode-se afirmar que na continuação da investigação, o mais apropriado é:",
       "alternativas": {
         "A": "dosar anticorpos adrenais",
@@ -15179,8 +15179,8 @@
     {
       "id": "pv-ufr-2025-0183",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Sepse",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Procedimentos endoscópicos",
       "enunciado": "O protocolo ERAS (Enhanced Recovery After Surgery) consiste em utilizar medidas para acelerar e melhorar a recuperação no pós-operatório. Pode-se afirmar que uma das medidas incluídas nesse protocolo é:",
       "alternativas": {
         "A": "uso de opioide com objetivo de melhorar o controle álgico no pós-operatório",
@@ -15208,8 +15208,8 @@
     {
       "id": "pv-ufr-2025-0184",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Coma e Alterações da Consciência",
       "enunciado": "Pode-se afirmar que são fatores de risco para delirium pós-operatório:",
       "alternativas": {
         "A": "imobilização; privação de sono e controle de infecção",
@@ -15237,8 +15237,8 @@
     {
       "id": "pv-ufr-2025-0193",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Hematologia",
+      "sub_subarea": "Fundamentos de oncohematologia",
       "enunciado": "Homem, 28 anos, foi submetido a orquiectomia por tumoração sólida testicular direita que media 3,0cm. Durante o exame per-operatório de congelação, o patologista diagnosticou “neoplasia germinativa não-seminomatosa do testículo”. Pode-se afirmar que esse diagnóstico corresponde a um caso de:",
       "alternativas": {
         "A": "sarcoma",
@@ -15270,7 +15270,7 @@
       "id": "pv-ufr-2025-0206",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "DII",
+      "sub_subarea": "Intestinos",
       "enunciado": "Mulher, 47 anos, com doença de Crohn otimamente tradada, persiste com área de 15cm de estenose em íleo distal. Indicado procedimento cirúrgico. Confirmou-se que havia apenas este segmento estenosado. A conduta mais adequada é:",
       "alternativas": {
         "A": "ressecção do segmento afetado com anastomose primária",
@@ -15292,8 +15292,8 @@
     {
       "id": "pv-uer-2024-0062",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Derrame Pleural",
       "enunciado": "Paciente é levado à emergência com trauma toracoabdominal à esquerda, apresentando uma lesão aberta no gradil costal de 5cm. O atendimento inicial está sendo realizado pelo médico socorrista na sala de trauma. Nesse caso, uma medida imediata a ser tomada enquanto aguarda a equipe cirúrgica é:",
       "alternativas": {
         "A": "curativo fechado",
@@ -15325,8 +15325,8 @@
     {
       "id": "pv-uer-2024-0063",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "Considere o caso a seguir para responder a questão. Paciente vítima de atropelamento é levado à unidade de emergência. Após várias cirurgias abdominais, a situação clínica desse paciente se torna extremamente grave. A melhor maneira de se evitar atrofia da mucosa intestinal, diminuição da altura das vilosidades, redução do tamanho do tecido linfoide e produção de imunoglobulina A é:",
       "alternativas": {
         "A": "oferta entérica de glutamina",
@@ -15355,7 +15355,7 @@
       "id": "pv-uer-2024-0069",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasias do Sistema Digestivo",
       "enunciado": "A doença metastática é a neoplasia que mais frequentemente acomete o omento. O tumor maligno primário mais comum a ter envolvimento omental é o:",
       "alternativas": {
         "A": "gastrointestinal",
@@ -15385,8 +15385,8 @@
     {
       "id": "pv-uer-2024-0080",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Procedimentos endoscópicos",
       "enunciado": "A plataforma robótica, comparada à laparoscópica tradicional, já tem seu uso consolidado para procedimentos em determinadas especialidades médicas como a urologia. O benefício que essas plataformas minimamente invasivas oferecem ao paciente cirúrgico consiste na diminuição do(a):",
       "alternativas": {
         "A": "campo visual",
@@ -15408,8 +15408,8 @@
     {
       "id": "pv-uer-2025-0187",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Procedimentos endoscópicos",
       "enunciado": "Paciente procura emergência por causa de dor importante no ânus. É diagnosticado com crise de hemorroida com trombo. As condutas adequadas que devem ser feitas na emergência são:",
       "alternativas": {
         "A": "internação, analgesia, heparina venosa e trombolectomia eletiva",
@@ -15432,7 +15432,7 @@
       "id": "pv-hcp-2024-0057",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Arritmias",
+      "sub_subarea": "Valvopatias",
       "enunciado": "Paciente masculino, de 65 anos, portador de prótese mitral metálica, com história de fibrilação atrial crônica, em uso crônico de varfarina para prevenção de eventos tromboembólicos, foi admitido no hospital para submeter-se a uma cirurgia de artroplastia total do quadril devido a osteoartrose grave e dor incapacitante. O INR encontrava-se no alvo terapêutico. Havendo baixo risco de sangramento, quando o uso da varfarina e da heparina deve ser reiniciado após a cirurgia?",
       "alternativas": {
         "A": "A varfarina não deve ser reiniciada.",
