@@ -4106,8 +4106,8 @@
   "pv-uni-2024-0094": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Hepatologia",
+    "subsub": "Icterícia não Obstrutiva",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -4115,8 +4115,8 @@
   "pv-uni-2025-0102": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4125,7 +4125,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Pancreatite",
+    "subsub": "Pâncreas",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4133,8 +4133,8 @@
   "pv-uni-2025-0113": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Pneumologia",
+    "subsub": "Câncer de Pulmão",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4142,8 +4142,8 @@
   "pv-uni-2025-0117": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "Sepse",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4151,8 +4151,8 @@
   "pv-uni-2025-0120": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Reumatologia",
+    "subsub": "Doenças da cartilagem e do osso",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4160,8 +4160,8 @@
   "pv-uni-2025-0127": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "DRC",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4170,7 +4170,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "DRC",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4178,8 +4178,8 @@
   "pv-uni-2025-0131": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4187,8 +4187,8 @@
   "pv-uni-2025-0140": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses vesicobolhosas",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4196,8 +4196,8 @@
   "pv-uni-2025-0142": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses vesicobolhosas",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -4205,8 +4205,8 @@
   "pv-uni-2025-0146": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
