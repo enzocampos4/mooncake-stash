@@ -3135,7 +3135,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3143,8 +3143,8 @@
   "pv-hcp-2024-0044": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3152,8 +3152,8 @@
   "pv-hcp-2024-0045": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3161,8 +3161,8 @@
   "pv-hcp-2024-0046": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3171,7 +3171,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3179,8 +3179,8 @@
   "pv-hcp-2024-0053": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Sepse",
+    "sub": "Gastroenterologia",
+    "subsub": "Esôfago",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3188,8 +3188,8 @@
   "pv-hcp-2024-0060": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Hematologia",
+    "subsub": "Hemostasia",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3206,8 +3206,8 @@
   "pv-hcp-2024-0082": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3215,8 +3215,8 @@
   "pv-hcp-2025-0122": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -3224,8 +3224,8 @@
   "pv-hcp-2025-0130": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Infectologia",
+    "subsub": "Arboviroses",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
