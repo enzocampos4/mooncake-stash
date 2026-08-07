@@ -9129,7 +9129,7 @@
       "id": "pv-hcp-2024-0041",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções sexualmente transmissíveis",
       "enunciado": "Assinale a assertiva correta sobre câncer de canal anal.",
       "alternativas": {
         "A": "Está diretamente associado à infecção pelo herpes-vírus tipo 2.",
@@ -9157,8 +9157,8 @@
     {
       "id": "pv-hcp-2024-0044",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Assinale a alternativa que contempla a correta associação entre o teste específico para exame de joelhos e a estrutura avaliada.",
       "alternativas": {
         "A": "Teste da gaveta – ligamentos colaterais",
@@ -9186,8 +9186,8 @@
     {
       "id": "pv-hcp-2024-0045",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Paciente feminina, de 67 anos, veio à Emergência queixando-se de dor ocular intensa à direita que se irradiava a todo hemicrânio direito, de início súbito há aproximadamente 8 horas, acompanhada de náuseas e vômitos. Negou trauma ocular. Tinha histórico de hipertensão arterial e diabetes melito tipo 2. Ao exame, o olho direito apresentava acuidade visual corrigida de 20/200, injeção conjuntival importante, córnea com aparência esbranquiçadoazulada, olho duro à palpação e pupila semidilatada não reativa à luz. Com base nos achados, qual a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Administrar manitol a 20% 1,5 g/kg intravenoso durante 1 hora e iniciar tratamento com acetazolamida 250 mg oral, colírio timolol a 0,5% seguido de colírio pilocarpina a 2%.",
@@ -9218,8 +9218,8 @@
     {
       "id": "pv-hcp-2024-0046",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Classifica-se clinicamente o traumatismo craniano conforme sua gravidade, utilizando-se a Escala de Coma de Glasgow (ECG). O traumatismo é considerado grave quando o escore for inferior ou igual a",
       "alternativas": {
         "A": "3",
@@ -9248,7 +9248,7 @@
       "id": "pv-hcp-2024-0050",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hemorragia Digestiva (HD)",
       "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo. Paciente masculino, de 58 anos, com obesidade (IMC de 32,4 kg/m²), procurou a Emergência por dor no hipocôndrio direito irradiada para o dorso (intensidade 8/10), associada a colúria e acolia, quadro iniciado há 6 horas. Informou ter tomado paracetamol (750 mg) e escopolamina (10 mg), por via oral, sem melhora. Negou febre, prurido ou emagrecimento. À admissão, encontrava-se com temperatura axilar de 36,8ºC, pressão arterial de 156/92 mmHg e saturação de oxigênio de 97% à oximetria de pulso em ar ambiente. Ao exame físico, apresentava mucosas ictéricas e dor somente à palpação profunda do quadrante superior direito do abdômen, sem interrupção da inspiração durante essa manobra. O quadro clínico é sugestivo de .........., tendo sido solicitada avaliação diagnóstica com exames de imagem, como colangiorressonância magnética, ultrassonografia abdominal ou tomografia computadorizada de abdômen (conforme disponibilidade local) e indicado tratamento inicial, ainda na Emergência, com .......... .",
       "alternativas": {
         "A": "cólica biliar – analgesia intravenosa",
@@ -9281,8 +9281,8 @@
     {
       "id": "pv-hcp-2024-0053",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Sepse",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Esôfago",
       "enunciado": "Há 3 objetivos fundamentais no tratamento de pacientes com doença do refluxo gastroesofágico e esôfago de Barrett: alívio permanente dos sintomas, cicatrização duradoura da esofagite concomitante e regressão da metaplasia intestinal/displasia do epitélio cilíndrico. Qual dos tratamentos abaixo consegue obter os melhores resultados terapêuticos em relação aos 3 aspectos citados?",
       "alternativas": {
         "A": "Tratamento medicamentoso com bloqueadores da bomba de prótons",
@@ -9304,8 +9304,8 @@
     {
       "id": "pv-hcp-2024-0060",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Hematologia",
+      "sub_subarea": "Hemostasia",
       "enunciado": "Paciente com episódio prévio de trombose venosa profunda de membro inferior evoluiu com síndrome pós-trombótica. Que sinal ou sintoma, dentre os abaixo, não é esperado?",
       "alternativas": {
         "A": "Sinal de Homans",
@@ -9362,8 +9362,8 @@
     {
       "id": "pv-hcp-2024-0082",
       "area": "Clínica Médica",
-      "subarea": "Reumatologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções bacterianas",
       "enunciado": "Qual dos antibióticos abaixo não é indicado para profilaxia primária da febre reumática?",
       "alternativas": {
         "A": "Sulfametoxazol + trimetoprim",
@@ -9391,8 +9391,8 @@
     {
       "id": "pv-hcp-2025-0122",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Assinale a assertiva incorreta sobre cigarros eletrônicos e adolescência.",
       "alternativas": {
         "A": "A detecção de seu uso por pais e profissionais de saúde é difícil, uma vez que o cheiro liberado pelo aquecimento do líquido se dissipa rapidamente (logo após o uso), não deixando odor no ar exalado e nas roupas.",
@@ -9420,8 +9420,8 @@
     {
       "id": "pv-hcp-2025-0130",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "subarea": "Infectologia",
+      "sub_subarea": "Arboviroses",
       "enunciado": "Gestante de 28 anos, G1P0, com 32 semanas de gestação, apresentou febre (38o C), calafrios, mialgia, astenia e dor retro-orbitária, quadro iniciado há 3 dias. No quarto dia, foram registradas hipotensão (pressão arterial de 80/50 mmHg), dor abdominal intensa, letargia e ascite. O hemograma indicou hemoglobina de 14,5 g/dl, hematócrito de 50%, leucócitos de 2.300/mm³, plaquetas de 70.000/mm³, AST de 35 U/l e creatinina de 0,9 mg/dl. Os batimentos cardiofetais estavam presentes (148 bpm). Qual a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Solicitar ressonância magnética abdominal e painel viral.",

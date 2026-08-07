@@ -3035,8 +3035,8 @@
   "pv-uer-2025-0186": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -3044,8 +3044,8 @@
   "pv-uer-2025-0194": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -3062,8 +3062,8 @@
   "pv-hcp-2024-0001": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3071,8 +3071,8 @@
   "pv-hcp-2024-0003": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Tuberculose",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3080,8 +3080,8 @@
   "pv-hcp-2024-0009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "DII",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3089,8 +3089,8 @@
   "pv-hcp-2024-0010": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Infectologia",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3098,8 +3098,8 @@
   "pv-hcp-2024-0024": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Neurologia",
+    "subsub": "Cefaleias",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3107,8 +3107,8 @@
   "pv-hcp-2024-0025": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Nefrologia",
+    "subsub": "Nefrolitíase",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3116,8 +3116,8 @@
   "pv-hcp-2024-0027": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -3125,8 +3125,8 @@
   "pv-hcp-2024-0037": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "sub": "Endocrinologia",
+    "subsub": "Adrenal",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
