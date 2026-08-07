@@ -10117,7 +10117,7 @@
     {
       "id": "pv-fam-2024-0069",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Qual é a alternativa correta com relação à CIPA (Comissão Interna de Acidente de Trabalho)",
       "alternativas": {
@@ -10140,7 +10140,7 @@
     {
       "id": "pv-fam-2024-0070",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Um trabalhador sofre em Acidente durante a jornada de trabalho, fica afastado por 78 dias retornando ao trabalho no 79º dia, pergunta:",
       "alternativas": {
@@ -10163,7 +10163,7 @@
     {
       "id": "pv-fam-2024-0071",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Quando um Metalúrgico é acometido por um Acidente de Trabalho causado por uma fagulha de solda que penetrou no seu olho esquerdo podemos afirmar.",
       "alternativas": {
@@ -10192,7 +10192,7 @@
     {
       "id": "pv-fam-2024-0072",
       "area": "Clínica Médica",
-      "subarea": "Geral",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Na Perda Auditiva Induzida pelo Ruído (PAIR) O ORGÃO Lesionado pelo nível de pressão sonora elevada (Ruído) inicialmente é o:",
       "alternativas": {
@@ -10224,8 +10224,8 @@
     {
       "id": "pv-fam-2025-0082",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "",
       "enunciado": "Paciente de 58 anos, gênero masculino, etilista importante é admitido em unidade de emergência após apresentar episódio de crise convulsiva. Ao exame físico, apresenta- se confuso no tempo e espaço. Exames complementares colhidos evidenciaram Mg⁺² = 0,9mg/dl. Em decorrência deste achado laboratorial qual outro distúrbio hidroeletrolítico você esperaria encontrar neste paciente?",
       "alternativas": {
         "A": "Hiponatremia",
@@ -10256,7 +10256,7 @@
       "id": "pv-fam-2025-0085",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "AR",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "Paciente de 50 anos, gênero masculino, com histórico de hipertensão e doença renal crônica é admitido por quadro de dor intensa e edema em joelho direito com início há 2 dias. Realizada artrocentese com líquido sinovial revelando cristais birrefringentes positivos sob microscopia de luz polarizada. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Gota",
@@ -10285,7 +10285,7 @@
       "id": "pv-fam-2025-0091",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "sub_subarea": "Distúrbios do equilíbrio acidobásico (DHE)",
       "enunciado": "Um homem de 60 anos com histórico de insuficiência renal crônica e diabetes mellitus tipo 2 é admitido no pronto-socorro com letargia e fraqueza. Ele tem um histórico recente de diarreia persistente. Seus exames laboratoriais mostram os seguintes resultados: - PH: 7,25 (referência: 7,35-7,45); - pCO₂: 30 mmHg (referência: 35-45 mmHg); - HCO₃⁻: 15 MEq/L. (referência: 22-26 MEq/L); - Na⁺: 140 mEq/L; - K⁺: 4,5 mEq/L; - Cl⁻: 115 mEq/L; - Lactato: 0,8 mmol/L; - Creatinina: 2,2 mg/dL; Com base nesses resultados, qual é o diagnóstico mais provável do distúrbio ácido-base?",
       "alternativas": {
         "A": "Acidose metabólica hiperclorêmica",
@@ -10313,8 +10313,8 @@
     {
       "id": "pv-fam-2025-0092",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Anemias",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Glomerulopatias",
       "enunciado": "Uma mulher de 28 anos apresenta-se ao consultório devido alteração no exame de urina. Trazia exames com proteinúria 1g/24 horas e anemia - hemoglobina 10,5 g/dL. Em investigação apresentou FAN positivo 1:360. Realizada biópsia renal, demonstrava nefrite lúpica classe 4. Com base nos achados acima, em relação ao diagnóstico da paciente:",
       "alternativas": {
         "A": "Lupus eritematoso sistêmico, pois possui FAN positivo com titulação elevada e proteinúria com biópsia compatível, computando 6 pontos pelos critérios EULAR",
@@ -10342,8 +10342,8 @@
     {
       "id": "pv-fam-2025-0093",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Tuberculose",
+      "subarea": "Infectologia",
+      "sub_subarea": "Parasitoses",
       "enunciado": "Um homem de 45 anos, trabalhador rural, apresenta-se ao consultório com queixas de tosse crônica, perda de peso, febre baixa e lesões ulceradas na cavidade oral. Ao exame físico, foram observados linfonodos cervicais aumentados, dolorosos e com secreção purulenta. A radiografia de tórax revela infiltrados pulmonares bilaterais. A biópsia das lesões orais mostra presença de leveduras multinucleadas em forma de roda de leme. Com base nesses achados, qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Tuberculose",
@@ -10377,7 +10377,7 @@
       "id": "pv-fam-2025-0097",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "Neurologia Vestibular",
       "enunciado": "Uma paciente de 73 anos, hipertensa e diabética, queixa-se de tontura e vertigem. Os sintomas são flutuantes, com vertigem rotacional, durando de alguns minutos até uma hora ou mais, às vezes acompanhados de náuseas ou vômitos. A paciente também refere zumbido, sensação de plenitude auricular e diminuição da audição. Sobre a condição clínica da paciente, assinale a alternativa correta:",
       "alternativas": {
         "A": "Há diminuição da produção da endolinfa no sistema vestibular, com hidropsia endolinfática associada.",
@@ -10399,8 +10399,8 @@
     {
       "id": "pv-fam-2025-0121",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Neurologia",
+      "sub_subarea": "",
       "enunciado": "Um funcionário de uma siderúrgica procura atendimento médico com queixa de que familiares notaram que o mesmo apresenta discreta perda auditiva progressiva nos últimos meses. Atualmente observa-se que a Perda Auditiva Induzida pelo Ruído (P.A.I.R) tem apresentado um aumento significante nas notificações realizadas pelas empresas quando apresentam seu relatório anual. A citada patologia ocupacional é considerada:",
       "alternativas": {
         "A": "Acidente do trabalho",
@@ -10422,8 +10422,8 @@
     {
       "id": "pv-fam-2025-0122",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Neurologia",
+      "sub_subarea": "",
       "enunciado": "Ao realizar Exame Admissional em trabalhador da área Metalúrgica que apresente nível de Pressão Sonora Elevado (Ruído Industrial), tem a mensuração média de 115 decibéis. Qual o EPI (Equipamento de Proteção Individual), adequado a ser utilizado em uma jornada de 40 h semanais deverá ser obrigatoriamente:",
       "alternativas": {
         "A": "Protetor auricular tipo concha",
