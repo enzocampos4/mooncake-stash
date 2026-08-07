@@ -3890,7 +3890,7 @@
   "pv-sp-2025-0177": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
@@ -3899,8 +3899,8 @@
   "pv-sp-2025-0178": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -3908,7 +3908,7 @@
   "pv-sp-2025-0179": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
@@ -3917,7 +3917,7 @@
   "pv-sp-2025-0180": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
@@ -3926,7 +3926,7 @@
   "pv-sp-2025-0190": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
@@ -3935,8 +3935,8 @@
   "pv-sp-2025-0193": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -3944,8 +3944,8 @@
   "pv-sp-2025-0197": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "Infecções relacionadas à assistência à saúde (IRAS)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -3954,7 +3954,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -3962,8 +3962,8 @@
   "pv-uni-2024-0020": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Distúrbios do Movimento",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -3971,8 +3971,8 @@
   "pv-uni-2024-0022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Sepse",
+    "sub": "Cardiologia",
+    "subsub": "Fisiologia Cardíaca e Eletrocardiograma",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -3980,8 +3980,8 @@
   "pv-uni-2024-0024": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Infecções relacionadas à assistência à saúde (IRAS)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -3989,7 +3989,7 @@
   "pv-uni-2024-0034": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,

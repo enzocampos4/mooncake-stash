@@ -11818,7 +11818,7 @@
       "id": "pv-uni-2024-0039",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças Neuromusculares",
       "enunciado": "Homem, 50 anos de idade, apresenta fraqueza e espasmo muscular progressivo nos membros inferiores. Exame neurológico com hiperreflexia e eletroneuromiografia sugere acometimento de segundo neurônio motor. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Síndrome de Guillain-Barré.",
@@ -11863,8 +11863,8 @@
     {
       "id": "pv-uni-2024-0060",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Neurologia",
+      "sub_subarea": "Doenças Imunológicas do Sistema Nervoso Central",
       "enunciado": "Mulher, 34 anos de idade, queixa-se de dor à movimentação do olho esquerdo e escotoma na visão central do mesmo olho, há 5 dias. Portadora de hipertensão arterial sistêmica, nega vacinação ou infecção recentes. Exame: acuidade visual de 20/80 no olho esquerdo, discromatopsia e defeito pupilar aferente relativo, sem edema de papila. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Corticoterapia oral com prednisona; tomografia de crânio.",
@@ -11886,8 +11886,8 @@
     {
       "id": "pv-uni-2024-0063",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Diabetes",
       "enunciado": "Homem, 64 anos de idade, é avaliado por diabetes mellitus tipo 2. Antecedentes pessoais: HAS, insuficiência cardíaca. Qual medicação é contraindicada neste caso?",
       "alternativas": {
         "A": "Insulina NPH.",
@@ -11909,8 +11909,8 @@
     {
       "id": "pv-uni-2024-0064",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Diabetes",
       "enunciado": "Mulher, 62 anos de idade, está em tratamento para diabetes mellitus tipo 2 com metformina e um inibidor de SGLT2. Os efeitos colaterais que podem ocorrer com uso destas medicações são, respectivamente:",
       "alternativas": {
         "A": "redução dos níveis de vitamina B12 e cetoacidose euglicêmica.",
@@ -11961,8 +11961,8 @@
     {
       "id": "pv-uni-2024-0069",
       "area": "Clínica Médica",
-      "subarea": "Reumatologia",
-      "sub_subarea": "Lúpus",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Mulher, 30 anos de idade, refere vontade de parar de fumar. Fuma 20 cigarros por dia, sendo o primeiro 5 minutos após acordar, acha difícil não fumar em lugares proibidos e fuma mesmo quando está doente. O cigarro que traz mais satisfação é o primeiro da manhã e fuma mais frequentemente neste período. Nega etilismo e uso de outras drogas. Relata que já apresentou convulsão febril na infância. Para cessação do tabagismo, além da terapia cognitivo comportamental, qual é o tratamento mais indicado?",
       "alternativas": {
         "A": "Iniciar bupropiona 150 mg/dia e adesivo de nicotina 21 mg/dia.",
@@ -11984,8 +11984,8 @@
     {
       "id": "pv-uni-2024-0073",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções fúngicas",
       "enunciado": "Em 2022, a levedura Candida auris foi incluída pela Organização Mundial de Saúde como um dos patógenos fúngicos prioritários, demandando ações preventivas por parte de gestores de saúde de diferentes países. As características deste agente que justificam seu impacto na saúde humana é o seu alto potencial de:",
       "alternativas": {
         "A": "causar infecções do sistema nervoso central, levando a casos graves de meningoencefalites.",
@@ -12018,8 +12018,8 @@
     {
       "id": "pv-uni-2024-0077",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Dermatologia",
+      "sub_subarea": "Dermatoses vesicobolhosas",
       "enunciado": "Mulher, 30 anos de idade, fototipo III, auxiliar de escritório, apresenta lesões no dorso da mão direita há 5 dias, com ardor. Exame dermatológico: vesículas no antebraço direito com 1 mm de diâmetro em base eritematoedematosa que se estendem até o terço médio do braço e vesículas dispersas no V. do decote. As lesões confluíam formando algumas bolhas na região distal do antebraço e intensificaram-se no dorso da mão direita próximo ao primeiro e segundo quirodáctilos. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Lúpus bolhoso.",
@@ -12041,8 +12041,8 @@
     {
       "id": "pv-uni-2024-0079",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Icterícia não Obstrutiva",
       "enunciado": "Mulher, 50 anos de idade, apresenta prurido em todo o corpo, fadiga, dor abdominal no quadrante superior direito, anorexia e alteração no padrão do sono. Exame físico: hepatoesplenomegalia, icterícia +/4, escoriações na pele por prurido, sem outras alterações. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Colangite biliar primária.",
@@ -12064,8 +12064,8 @@
     {
       "id": "pv-uni-2024-0083",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Mulher, 22 anos de idade, vítima de acidente motociclístico, apresenta avulsão traumática da raiz de C6 a direita. Qual é a localização do déficit sensitivo e motor?",
       "alternativas": {
         "A": "Face medial do antebraço e extensores do punho.",
