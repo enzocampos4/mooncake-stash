@@ -5186,7 +5186,7 @@
   "pv-hcp-2025-0158": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Dermatologia",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
@@ -5196,7 +5196,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Intestinos",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -5204,7 +5204,7 @@
   "pv-fam-2024-0066": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Dermatologia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
@@ -5222,8 +5222,8 @@
   "pv-sp-2024-0064": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -5231,7 +5231,7 @@
   "pv-sp-2024-0080": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Dermatologia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
@@ -5240,8 +5240,8 @@
   "pv-sp-2025-0125": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -5249,8 +5249,8 @@
   "pv-sp-2025-0135": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções relacionadas à assistência à saúde (IRAS)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -5258,8 +5258,8 @@
   "pv-sp-2025-0206": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -5267,8 +5267,8 @@
   "pv-uni-2024-0042": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Traumatismo Craniencefálico",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -5276,8 +5276,8 @@
   "pv-uni-2024-0096": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Dermatologia",
+    "subsub": "Câncer de pele",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -5285,8 +5285,8 @@
   "pv-uni-2024-0097": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "Infecções relacionadas à assistência à saúde (IRAS)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
