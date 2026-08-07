@@ -2702,8 +2702,8 @@
   "pv-ufr-2025-0247": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2711,8 +2711,8 @@
   "pv-ufr-2025-0257": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Neoplasias",
+    "sub": "Reumatologia",
+    "subsub": "Doenças da cartilagem e do osso",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2721,7 +2721,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Disfunção sexual masculina",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2729,8 +2729,8 @@
   "pv-ufr-2025-0279": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Infectologia",
+    "subsub": "Vacinas",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2738,8 +2738,8 @@
   "pv-ufr-2025-0284": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Introdução à Pneumologia",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2747,8 +2747,8 @@
   "pv-ufr-2025-0286": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Doenças Imunológicas do Sistema Nervoso Central",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2756,8 +2756,8 @@
   "pv-ufr-2025-0292": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "Sepse",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -2774,8 +2774,8 @@
   "pv-uer-2024-0015": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Cardiologia",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2784,7 +2784,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "AVC",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2792,8 +2792,8 @@
   "pv-uer-2024-0020": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Pneumologia",
+    "subsub": "Câncer de Pulmão",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -2801,8 +2801,8 @@
   "pv-uer-2024-0021": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Infecções do Sistema Nervoso Central",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
