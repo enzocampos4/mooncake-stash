@@ -18824,7 +18824,7 @@
       "id": "pv-uer-2025-0162",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Glomerulopatias",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Menino de 4 anos é levado à emergência devido a edema periorbital em abdômen e membros inferiores, apresentado há uma semana. A mãe informou que, há quatro dias, procurou a equipe de saúde da família e que uma médica avaliou o quadro como alérgico, prescrevendo anti-histamínico. Ela relata que hoje observou piora importante do quadro. Não soube responder sobre diurese, mas achou a urina “diferente”. Nega febre ou qualquer outro sinal ou sintoma. Ao exame físico, o paciente mostra-se lúcido, hipocorado +/4+, com FR = 24irpm, FC = 96bpm, e PA normal para altura, sexo e idade, sem outros sinais ou sintomas. A hipótese diagnóstica para o caso e os exames laboratoriais a serem solicitados, respectivamente, são:",
       "alternativas": {
         "A": "edema alérgico difuso; imunoglobulinas e hemograma completo",
@@ -18853,7 +18853,7 @@
       "id": "pv-ena-2025-0114",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Hipertensão Arterial Sistêmica (HAS)",
       "enunciado": "Um paciente de 45 anos, tabagista, apresentava diabetes mellitus e dislipidemia, porém não era hipertenso. Foi atendido no pronto-socorro com quadro de edema agudo do pulmão hipertensivo. Apresentou melhora clínica e foi liberado com prescrição de losartana e hidroclorotiazida. A hipertensão ficou refratária ao tratamento e o paciente desenvolveu insuficiência renal aguda, que foi associada ao uso da losartana. No exame físico, foi detectado um sopro em linha mamilar esquerda na altura da cicatriz umbilical. O doppler de carótidas mostrou obstrução de 50% à direita e 40% à esquerda. A doença em questão é:",
       "alternativas": {
         "A": "doença de Kawasaki;",
@@ -18877,7 +18877,7 @@
       "id": "pv-ena-2025-0117",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "Cefaleia",
+      "sub_subarea": "Doenças Imunológicas do Sistema Nervoso Central",
       "enunciado": "Um paciente de 45 anos, sem doenças prévias, desenvolveu enfermidade de instalação súbita e progressiva com quadro de náuseas, vômitos, diarreia e dor abdominal. Logo após, queixou- se de cefaleia, vertigem e tontura. Foi internado na emergência, onde foi iniciada hidratação venosa e administração de sintomáticos. Entretanto, 3 horas depois começou a apresentar visão turva, ptose palpebral, diplopia, disfagia, disartria, boca seca e fraqueza muscular simétrica, acometendo com maior intensidade os membros superiores, sem perda da sensibilidade. Notaram-se hipotensão sem taquicardia e retenção urinária. Cerca de 6 horas após a internação, evoluiu para paralisia flácida motora descendente, associada a comprometimento autonômico disseminado. Durante todo esse período, o paciente se manteve consciente. A fraqueza muscular descendente afetou os músculos do tronco e dos membros, levando a dispneia, insuficiência respiratória e tetraplegia flácida. Foi necessária a transferência do paciente para o CTI, com instalação de tubo orotraqueal e ventilação mecânica, além de rotinas terapêuticas para pacientes graves. O diagnóstico mais provável é:",
       "alternativas": {
         "A": "meningite por Haemophilus influenzae;",
@@ -18900,8 +18900,8 @@
     {
       "id": "pv-ena-2025-0124",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "RCP",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Pedro Paulo, um homem de 41 anos, foi admitido no pronto-socorro após sofrer queimaduras extensas em um incêndio no seu local de trabalho. Ele apresentava queimaduras de segundo grau que cobriam aproximadamente 45% de sua superfície corporal total (SCT). O paciente pesava 70 kg e estava consciente e lúcido, mas sentia dor intensa e desconforto. Os sinais vitais eram: frequência cardíaca: 120 bpm; pressão arterial de 100/60 mmHg; frequência respiratória de 24 ipm e saturação de oxigênio de 94% em ar ambiente. Seu médico decidiu iniciar a reanimação hídrica imediatamente. A melhor abordagem inicial para a reanimação hídrica de Pedro Paulo é:",
       "alternativas": {
         "A": "administrar 2 ml/kg/%SCT de solução de Ringer Lactato nas primeiras 24 horas, dividindo o volume total igualmente ao longo do período;",
@@ -18934,7 +18934,7 @@
       "id": "pv-ena-2025-0163",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Tireoide",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Uma paciente de 23 anos tem queixa de irregularidade menstrual de longa data. Relata que, desde a primeira menstruação, tem intervalo de 50 a 60 dias entre os ciclos e períodos de amenorreia. No último ano, estava em final de faculdade e ganhou muito peso em função de estresse e sedentarismo. Ao exame, apresenta bom estado geral, IMC 31 kg/m², presença de acne em face e dorso e escurecimento de região de dobras. Frente a esse cenário, a principal hipótese é:",
       "alternativas": {
         "A": "síndrome dos ovários policísticos;",
@@ -18974,8 +18974,8 @@
     {
       "id": "pv-pe-2024-0081",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Tromboembolismo Pulmonar (TEP)",
       "enunciado": "Uma paciente de 65 anos no pós-operatório imediato de artroplastia de quadril foi medicada com morfina endovenosa por dor intensa e refratária à dipirona. Duas horas depois, a enfermeira comunica ao médico que o oxímetro estava alertando e mostrando saturação de O; de 85% em ar ambiente. Gasimetria arterial mostrou PO2 62 mmHg e PCO2 65 mmHg, com pH e lactato normais. ECG mostrava alterações difusas de repolarização e o ddímero estava elevado. Qual a provável causa da dessaturação neste caso?",
       "alternativas": {
         "A": "Edema pulmonar pós-extubação",
@@ -19005,7 +19005,7 @@
       "id": "pv-pe-2025-0110",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Hipertensão Arterial Sistêmica (HAS)",
       "enunciado": "Um homem de 55 anos, tabagista de longa data e com histórico familiar de doença cardiovascular, procura atendimento para avaliação de hipertensão. Ele refere ter notado elevações pressóricas em medições domiciliares nos últimos meses, com valores médios de 150/95 mmHg. Não apresenta sintomas como dor torácica, dispneia ou tontura. Exames laboratoriais: LDL-C: 145 mg/dL, HDL-C: 35 mg/dL, triglicerídeos: 180 mg/dL, Glicemia de jejum: 110 mg/dL, Creatinina sérica: 1,1 mg/dL, sumário de urina: sem proteinúria e eletrocardiograma (ECG): hipertrofia ventricular esquerda. Qual seria a conduta inicial mais adequada para esse paciente considerando seu risco cardiovascular?",
       "alternativas": {
         "A": "Indicar diurético tiazídico como monoterapia inicial.",
@@ -19034,8 +19034,8 @@
     {
       "id": "pv-ufr-2024-0149",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Tireoide",
       "enunciado": "Mulher, 49 anos, com diagnóstico recente de adenoma de paratireoide, é admitida no setor de emergência com quadro de letargia. Eletrocardiograma (ECG): bradicardia sinusial. Exames laboratoriais: cálcio sérico (Ca⁺⁺) = 13mg/dL; sódio sérico (Na⁺) = 142mEq/L; potássio sérico (K⁺) = 4,5mEq/L. Pode-se afirmar que, inicialmente, o tratamento mais adequado é:",
       "alternativas": {
         "A": "bifosfonado intravenoso",
@@ -19063,8 +19063,8 @@
     {
       "id": "pv-ufr-2025-0158",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Neurologia",
+      "sub_subarea": "Doenças Neuromusculares",
       "enunciado": "Mulher, 81 anos, com relato de três quedas nos últimos seis meses, tem doença de Alzheimer, hipertensão arterial sistêmica (HAS), osteoporose e déficit visual por catarata. Faz uso de: diurético; inibidor da enzima conversora de angiotensina; agente antipsicótico, bisfosfonato e vitamina D. Exame físico: perda de massa muscular e baixo desempenho físico; pressão arterial sistêmica (PAS) = 100x60mmHg; frequência cardíaca (FC) = 70bpm. Exames laboratoriais: nível de vitamina D próximo ao limite inferior da normalidade. Sobre o risco de quedas, pode-se afirmar que o medicamento que deve ser retirado é:",
       "alternativas": {
         "A": "antipsicótico",
@@ -19086,8 +19086,8 @@
     {
       "id": "pv-ufr-2025-0249",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Hemorragia Digestiva (HD)",
       "enunciado": "Sobre a superdosagem inapropriada de ibuprofeno, pode-se afirmar que:",
       "alternativas": {
         "A": "as manifestações típicas são vômitos, dor abdominal, hemorragia digestiva e acidose metabólica",
@@ -19116,7 +19116,7 @@
       "id": "pv-uer-2025-0102",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Dengue",
+      "sub_subarea": "Arboviroses",
       "enunciado": "Homem de 30 anos, cacaueiro, do interior do Amazonas, com histórico de viagem recente aos Estados Unidos, inicia quadro súbito de febre alta de até 39ºC, associado com mialgia, cefaleia, artralgia, dor retroorbitária e fotofobia há três dias. Há relato de epistaxe e algumas petéquias. Ele nega coriza, odinofagia e sintomas respiratórios. Ao exame físico, apresenta rash cutâneo em tronco e membros inferiores. O exame laboratorial revela leucócitos = 4.000/mm³ , com 40% de linfócitos, plaquetas = 98.000/mm³, velocidade de hemossedimentação (VHS) = 45mm/hora, creatinina = 1,0mg/dL, bilirrubina total = 1,8mg/dL e transaminases elevadas de forma discreta. Os testes de biologia molecular (PCR) para dengue, zika e chikungunya foram negativos. O diagnóstico mais provável é de febre por infecção:",
       "alternativas": {
         "A": "pelo Leptospira interrogans",
@@ -19139,7 +19139,7 @@
       "id": "pv-uer-2025-0107",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Insuficiência Cardíaca",
       "enunciado": "Homem de 50 anos apresenta hipertensão arterial sistêmica (HAS) de difícil controle há alguns anos, em tratamento irregular. É atendido na emergência com quadro súbito de dispneia progressiva de forte intensidade, estertores em “maré montante” das bases aos ápices e escarro róseo. Nega história pregressa de doença coronariana e tabagismo. A PA era de 220x140mmHg e a frequência cardíaca (FC) de 130bpm, com ritmo regular. O diagnóstico e a melhor conduta terapêutica, além de iniciar O2, respectivamente, são:",
       "alternativas": {
         "A": "edema agudo de pulmão / indicar nitratos e digitálicos",

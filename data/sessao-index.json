@@ -6158,8 +6158,8 @@
   "pv-hcp-2024-0051": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -6168,7 +6168,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -6177,7 +6177,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Dengue",
+    "subsub": "Síndromes febris",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6186,7 +6186,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Lúpus",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -6194,8 +6194,8 @@
   "pv-sír-2024-0059": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Neoplasias",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -6204,7 +6204,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "HIV",
+    "subsub": "Infecções do Sistema Nervoso Central",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -6213,7 +6213,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -6222,7 +6222,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -6230,8 +6230,8 @@
   "pv-df-2025-0145": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Nefrologia",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -6240,7 +6240,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Pneumonia",
+    "subsub": "Derrame Pleural",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -6249,7 +6249,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "HDA",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -6257,8 +6257,8 @@
   "pv-ba-2025-0081": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
