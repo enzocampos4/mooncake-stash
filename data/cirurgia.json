@@ -283,9 +283,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Diverticulite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -305,9 +305,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome agudo perfurativo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -327,9 +327,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Hérnia inguinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -351,7 +351,7 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -376,9 +376,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Complicações respiratórias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -398,9 +398,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma cranioencefálico (TCE)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -422,9 +422,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma abdominal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -444,9 +444,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cirurgia Torácica",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma torácico",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -466,9 +466,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma vascular",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -488,9 +488,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma torácico",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -513,10 +513,10 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Queimaduras e Trauma Elétrico",
       "_area_slug": "cirurgia",
       "banca": "ESTRATÉGIA MED",
-      "sub_subarea": ""
+      "sub_subarea": "Reposição volêmica (Parkland)"
     },
     {
       "id": "s1-092",
@@ -535,9 +535,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Colelitíase e colecistite",
       "banca": "ESTRATÉGIA MED"
     },
     {
