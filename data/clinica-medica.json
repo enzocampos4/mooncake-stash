@@ -16423,8 +16423,8 @@
     {
       "id": "pv-amr-2025-0162",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Adrenal",
       "enunciado": "Ao nascimento, RN apresenta falo de 2,3 cm com fusão de saliências labioescrotais e gônadas impalpáveis. Qual é o diagnóstico de Anormalidade de Diferenciação Sexual (ADS) mais comum em RNs com genitália atípica?",
       "alternativas": {
         "A": "ADS XX ovotesticular.",
@@ -16465,8 +16465,8 @@
     {
       "id": "pv-ufr-2024-0112",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Hemorragia Digestiva (HD)",
       "enunciado": "A colite isquêmica é uma condição que acomete mais frequentemente o cólon esquerdo, incluindo o ângulo esplênico do cólon. Pode-se afirmar que as duas áreas bem definidas, onde a circulação colateral do cólon é classicamente inconsistente e vulnerável a isquemia, são:",
       "alternativas": {
         "A": "Griffiths point (flexura esplênica) e arcada de Riolan (junção retosigmoide)",
@@ -16488,8 +16488,8 @@
     {
       "id": "pv-ufr-2025-0271",
       "area": "Clínica Médica",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "RN, 38 semanas de gestação, apresenta vômitos “biliosos” cerca de 12 horas após iniciar alimentação com leite materno. Exame físico: bom estado geral; afebril; discretamente desidratado; ictérico; abdome distendido, com peristalse aumentada e indolor à palpação. Radiografia simples de abdome a seguir. A principal hipótese diagnóstica é:",
       "alternativas": {
         "A": "atresia duodenal",
@@ -16519,8 +16519,8 @@
     {
       "id": "pv-uer-2025-0127",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Complicações da Insuficiência Hepática",
       "enunciado": "O acrônimo MELD, do inglês The Model for End-Stage Liver Disease, é calculado a partir dos parâmetros:",
       "alternativas": {
         "A": "pró-BNP, bilirrubina e albumina",
@@ -16543,7 +16543,7 @@
       "id": "pv-sp-2024-0013",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções bacterianas",
       "enunciado": "Arthur, de 42 anos de idade, empresário, tinha um voo importante no período da noite e buscou seu médico de família para apoio, pois passou a noite com quadro de diarreia. Ele relatou que, desde as duas horas da madrugada, apresentava cólica abdominal, e diarreia aquosa, sem produtos patológicos. Já evacuou quatro vezes desde o início dos sintomas. Ele negou febre e qualquer outro sinal de alarme. Ele estava buscando um medicamento de ação rápida, para conseguir embarcar com mais segurança. Com base nessa situação hipotética, assinale a alternativa que apresenta a opção medicamentosa que mais bem atende à experiência de doença (expectativa) de Arthur e tem maior eficácia e segurança.",
       "alternativas": {
         "A": "ciprofloxacino",
@@ -16566,8 +16566,8 @@
     {
       "id": "pv-uni-2024-0075",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções bacterianas",
       "enunciado": "Homem, 65 anos de idade, agricultor, apresenta lesões nodulares, dolorosas, na sua mão direita, que surgiram duas semanas após ter se arranhado com um graveto enquanto trabalhava. Exame físico: presença de nódulos firmes e dolorosos à palpação no dorso da mão direita, com eritema ao redor e linfadenopatia axilar direita. Cultura do aspirado: bacilos gram- positivos, filamentosos, álcool ácidoresistentes. Qual é o agente etiológico mais provável?",
       "alternativas": {
         "A": "Erysipelothrix rhusiopathiae.",
@@ -16590,7 +16590,7 @@
       "id": "pv-uni-2025-0184",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "sub_subarea": "Intestinos",
       "enunciado": "Menino, 45 dias de vida, há 15 dias apresenta eliminação de fezes com raios de sangue em todas as evacuações. Evacua de 6 a 8 vezes ao dia desde o nascimento e não houve mudança na frequência ou consistência das fezes. Recebe fórmula láctea de partida desde a segunda semana de vida. Não apresenta outros sintomas e não tem alterações ao exame físico. Considerando o diagnóstico mais provável, qual é o mecanismo fisiopatológico envolvido?",
       "alternativas": {
         "A": "Reação mediada por IgE",
@@ -16621,7 +16621,7 @@
       "id": "pv-sír-2024-0085",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Nefrolitíase",
       "enunciado": "Mulher, 55 anos, apresenta cálculos renais recorrentes, três episódios de cólica nefrética no último ano. O terceiro episódio ocorreu após condutas iniciais de aumento de ingesta de água e redução da ingestão de sal. Vem para consulta ambulatorial com os seguintes exames laboratoriais: Ca: 8,9 mg/dL, PTH: 40, cálcio urinário: 300 mg/d (55-220 mg/d), oxalato urinário 32 mg/d (7-44 mg/d), citrato urinário 200 mg/d (> 320 mg/d). Entre as opções abaixo, a conduta mais adequada, neste momento, para esta paciente é:",
       "alternativas": {
         "A": "losartana 50 mg/d e citrato de potássio.",
@@ -16644,7 +16644,7 @@
     {
       "id": "pv-hia-2025-0132",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "Mulher de 28 anos, com atraso menstrual de 7 semanas, refere sangramento vaginal associado a dor em baixo ventre. Assinale a alternativa que indica a associação correta entre achados adicionais e hipótese diagnóstica.",
       "alternativas": {
@@ -16676,8 +16676,8 @@
     {
       "id": "pv-df-2025-0107",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Pancreatite",
+      "subarea": "Hepatologia",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 52 anos de idade compareceu ao pronto-socorro com relato de que, há dois dias, iniciou quadro de dor em barra, em abdome superior, que irradia para as costas, com náuseas e vômitos associados, não aceitando dieta oral. À admissão, realizou exames laboratoriais que demonstraram Hb = 14 mg/dL, leuco = 19.500 cel/mm³, FAL = 150 U/L, GGT = 200 U/L, TGO = 300 U/L, TGP = 260 U/L, LDH = 500 U/L, BBT = 2,1 mg/dL, amilase = 890 U/L, lipase = 900 U/L e Ur = 130 mg/dL de Cr = 2,2 mg/dL. Fez ultrassonografia de abdome com diagnóstico de colelitíase com vesícula biliar não espessada e sem sinais aparentes de dilatação de vias biliares. Considere que, 30 dias após a alta hospitalar, a paciente descrita tenha retornado ao pronto- socorro com relato de náuseas e vômitos pós-prandiais, que não melhoram após a medicação, sem outros sintomas associados. Realizou exame de imagem, que mostrou o resultado apresentado. Nesse caso, qual é a melhor conduta para resolução da referida complicação?",
       "alternativas": {
         "A": "Drenagem endoscópica transgástrica",
@@ -16707,8 +16707,8 @@
     {
       "id": "pv-ena-2025-0162",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções sexualmente transmissíveis",
       "enunciado": "Uma paciente de 18 anos chega à emergência do hospital referindo ter sido vítima de violência sexual há 2 horas em uma festa. Relata que, no ato, houve penetração. Ela desconhece o agressor, o qual não usou preservativo. A abordagem inicial deve incluir:",
       "alternativas": {
         "A": "atendimento inicial exclusivo por médico;",
@@ -16750,7 +16750,7 @@
       "id": "pv-pe-2024-0053",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Parasitoses",
       "enunciado": "Paciente 20 anos, primigesta e na 8º semana de gravidez. No momento, assintomática e vem trazendo os exames de rotina com sorologia para toxoplasmose, IgM positivo e IgG negativo. Assinale a alternativa que indica a conduta mais adequada recomendada pelo Ministério da Saúde do Brasil.",
       "alternativas": {
         "A": "Iniciar espiramicina e repetir sorologia com 2 a 3 semanas.",

@@ -5402,7 +5402,7 @@
   "pv-mg-2025-0138": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
@@ -5411,8 +5411,8 @@
   "pv-mg-2025-0141": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Lúpus",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -5420,8 +5420,8 @@
   "pv-ufr-2024-0065": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Hematologia",
+    "subsub": "Anemias hemolíticas",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -5429,8 +5429,8 @@
   "pv-ufr-2025-0246": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5438,8 +5438,8 @@
   "pv-sp-2024-0051": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Lúpus",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -5447,8 +5447,8 @@
   "pv-sp-2024-0059": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -5456,7 +5456,7 @@
   "pv-sp-2025-0148": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
@@ -5466,7 +5466,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "DII",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -5474,7 +5474,7 @@
   "pv-pe-2025-0142": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
@@ -5483,7 +5483,7 @@
   "pv-amr-2024-0044": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
@@ -5501,8 +5501,8 @@
   "pv-amr-2025-0148": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses infecciosas",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
