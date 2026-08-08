@@ -6267,7 +6267,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Glomerulopatias",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -6276,7 +6276,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6285,7 +6285,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Cefaleia",
+    "subsub": "Doenças Imunológicas do Sistema Nervoso Central",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6293,8 +6293,8 @@
   "pv-ena-2025-0124": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6303,7 +6303,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Tireoide",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6311,8 +6311,8 @@
   "pv-pe-2024-0081": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Tromboembolismo Pulmonar (TEP)",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -6321,7 +6321,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -6329,8 +6329,8 @@
   "pv-ufr-2024-0149": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -6338,8 +6338,8 @@
   "pv-ufr-2025-0158": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Neurologia",
+    "subsub": "Doenças Neuromusculares",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -6347,8 +6347,8 @@
   "pv-ufr-2025-0249": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Gastroenterologia",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -6357,7 +6357,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Dengue",
+    "subsub": "Arboviroses",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -6366,7 +6366,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Insuficiência Cardíaca",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"

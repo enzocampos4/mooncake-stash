@@ -19162,7 +19162,7 @@
       "id": "pv-hcp-2025-0167",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Arritmias Cardíacas",
       "enunciado": "Paciente feminina, de 82 anos, com hipertensão arterial e diabetes melito, veio à consulta queixando-se de cansaço e palpitações, quadro iniciado há 1 semana. Tinha história de infarto do miocárdio há 5 anos. Negou desmaios, mas referiu quedas eventuais. Exames recentes não mostraram isquemia ou insuficiência cardíaca. Ao exame físico, apresentava pulsos irregulares e cheios, pressão arterial de 130/80 mmHg, pulmões limpos e ausência de sopros cardíacos. Eletrocardiograma evidenciou fibrilação atrial, frequência cardíaca de 102 bpm, QRS estreito, QTc de 0,43 ms, zona inativa anterior e ausência de sinais de isquemia aguda. Assinale a assertiva correta sobre o tratamento mais adequado.",
       "alternativas": {
         "A": "Adenosina intravenosa em bolus é o medicamento de escolha para reversão farmacológica a ritmo sinusal.",
@@ -19195,8 +19195,8 @@
     {
       "id": "pv-fam-2024-0009",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuf Cardiaca",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Glomerulopatias",
       "enunciado": "Homem de 21 anos comparece em consulta ambulatorial com queixa de edema de membros inferiores há 30 dias, associado a aumento dos níveis pressóricos e cefaleia. Está em uso de Losartana e Anlodipina, referindo também trepopneia. Assinale a alternativa CORRETA sobre esse caso dentre as abaixo:",
       "alternativas": {
         "A": "A dosagem de anticorpo anti-fosfolipase A2 deve ser realizada para afastar a hipótese de glomerulopatia membranosa.",
@@ -19224,8 +19224,8 @@
     {
       "id": "pv-fam-2024-0012",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Tuberculose",
+      "subarea": "Infectologia",
+      "sub_subarea": "Tuberculose (TB)",
       "enunciado": "RADB, masculino, 35 anos, usuário de drogas ilícitas por via inalatória e vivendo em situação de rua há quatro anos, foi atendido em Unidade de Pronto Atendimento por apresentação de quadro de febre, tosse com expectoração de aspecto purulento em grande quantidade em evolução há duas semanas e consumpção acentuada. O paciente referiu diagnóstico de infecção pelo HIV há cinco anos com realizações do tratamento de forma irregular até dois anos antes em Minas Gerais. Após avaliação clínica e radiológica, a possibilidade de tuberculose pulmonar foi levantada e a equipe assistente iniciou a condução do caso. Assinale a alternativa que descreve conduta CORRETA para o caso.",
       "alternativas": {
         "A": "O diagnóstico de tuberculose foi confirmado com a obtenção de baciloscopia positiva (+++) e do teste rápido molecular para Mycobacterium tuberculosis (TRM-TB) com detecção de resistência à Rifampicina; o paciente foi encaminhado a Unidade Hospitalar para internação, confirmação dos achado e início do tratamento específico após resultados de novos exames e estadiamento da doença pelo HIV.",
@@ -19257,7 +19257,7 @@
     {
       "id": "pv-fam-2025-0084",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Endocrinologia",
       "sub_subarea": "",
       "enunciado": "Paciente de 75 anos, gênero feminino, foi admitida em unidade de emergência após episódio de crise convulsiva sucedida por quadro de confusão mental. Em exames colhidos na admissão foi encontrado Ca⁺²=12.8mg/dl. Dentre as possibilidades diagnósticas para o quadro do paciente, em qual haveria benefício a utilização de glicocorticoides?",
       "alternativas": {
@@ -19287,7 +19287,7 @@
       "id": "pv-sp-2024-0091",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Um homem de setenta anos de idade, obeso, portador de hipertensão arterial sistêmica, em uso de losartana 50 mg de 12/12h, hidrocloratiazida 25 mg/dia e diabetes, em uso de metformina 850 mg/dia, dirigiu‑se ao pronto‑socorro com história de dor intensa em hipogástrio há um dia, com diurese reduzida há quatro dias. Nos exames admissionais, apresentou: CR 4,5; ureia 85; K 4,5; Na 135; e pH 7,30, com HCO3 22. Com base nessa situação hipotética, assinale a alternativa correta.",
       "alternativas": {
         "A": "O paciente apresenta importante elevação de creatinina, além de acidose metabólica, com indicação de internação para realização de hemodiálise.",
@@ -19310,8 +19310,8 @@
     {
       "id": "pv-sp-2025-0167",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções sexualmente transmissíveis",
       "enunciado": "Assinale a alternativa que apresenta fatores de risco para o desenvolvimento de câncer do colo do útero.",
       "alternativas": {
         "A": "nuliparidade, iniciação sexual precoce e diabetes",
@@ -19343,8 +19343,8 @@
     {
       "id": "pv-uni-2025-0119",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Neurologia",
+      "sub_subarea": "Distúrbios do Movimento",
       "enunciado": "Mulher, 44 anos de idade, apresenta quadro súbito de vertigem rotatória intensa há 3 horas, associada a náuseas, vômitos, sudorese profusa e mal-estar, que pioram à movimentação cefálica. Nega sintomas auditivos associados. Antecedentes: diabetes tipo 1 em uso de insulina, dislipidemia em uso de atorvastatina, hipertensão arterial em uso de anlodipino. Refere cefaleia por abuso de analgésico, em seguimento. Exame físico: PA100x60 mmHg, FC 98 bpm, Sat O₂ 98% em ar ambiente, dextro 113 mg/dL, REG, descorada (1+/4+), desidratada (2+/4+), eupneica. Nistagmo: espontâneo horizontal para a direita, semi-espontâneo presente ao olhar para a direita (horizontal para a direita) e ao olhar para a esquerda (horizontal para a direita), sendo mais intenso com o olhar para a direita e ausente com o olhar para cima e para baixo. HIT (head impulse test): presença de sacada corretiva ao virar a cabeça para a esquerda. Otoscopia: membranas timpânicas íntegras e translúcidas, meato acústico externo livre. Paciente não tolerou testes de Romberg, Fukuda e manobras posicionais por quadro de vômitos e mal-estar. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Migrânea vestibular.",
@@ -19366,8 +19366,8 @@
     {
       "id": "pv-uni-2025-0137",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Sepse",
       "enunciado": "Mulher, 30 anos de idade, previamente hígida, é admitida no PS com dor torácica, expectoração amarelada e febre há cinco dias, apresentando hoje dispneia. Na triagem, foi constatado: PA = 85/40 mmHg, FC = 130 bpm, FR = 28 irpm e SpO₂ = 85%. A paciente foi levada à sala de emergência. Exames: gasometria arterial pH = 7,23, PaCO₂ = 30 mmHg, PaO₂ = 55 mmHg, bicarbonato = 16 mEq/L e lactato = 35 mg/L. De acordo com a Campanha de Sobrevivência à Sepse, qual é a alternativa correta?",
       "alternativas": {
         "A": "Como há insuficiência respiratória, a expansão volêmica deve ser realizada com volumes menores que 30 mL/kg, a fim de se evitar congestão volêmica e piora da dispneia.",
@@ -19395,8 +19395,8 @@
     {
       "id": "pv-sp-2024-0093",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Choque",
       "enunciado": "Um paciente de 58 anos de idade foi levado à emergência pelo SAMU. Ele foi encontrado na rua confuso e desorientado. No transporte, a equipe percebeu que não havia mais pulsos centrais palpáveis e o paciente estava inconsciente, então foram realizadas manobras de reanimação cardiopulmonar, conforme o protocolo ACLS. No intra‑hospitalar, foram mais dois ciclos de reanimação, com tempo total de quinze minutos, sempre em AESP no monitor. Após o retorno à respiração e à circulação espontânea (paciente já intubado), o paciente foi examinado com mais calma e constatou‑se que havia uma fístula arteriovenosa em membro superior esquerdo. Ausculta pulmonar com estertores, PA de 75x45 mmHg, FC de 132 bpm, estase jugular e má perfusão periférica, com livedo reticular. Abdômen semigloboso e flácido. Bulhas rítmicas, hipofonéticas, em dois tempos e sem sopros. Foi iniciada noradrealina e foram solicitados exames na urgência. Eletrocardiograma sem alterações isquêmicas agudas e com baixa voltagem difusa. Gasometria arterial: pH 7,25; BIC 18; e potássio 6,1. Foi realizado POCUS, que apontou derrame pericárdico, colabamento diastólico do ventrículo direito e colabamento de átrio direito. Derrame pleural pequeno em bases, linhas B em bases de ambos os pulmões e com padrão A nos ápices e no terço médio bilaterais. Cava túrgida, com pouquíssima variabilidade com o ciclo respiratório. Com base nessa situação hipotética, assinale a alternativa que apresenta a conduta que evitará que o paciente tenha uma nova parada cardíaca nos próximos momentos",
       "alternativas": {
         "A": "furosemida em altas doses",
@@ -19420,7 +19420,7 @@
       "id": "pv-sp-2025-0103",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15. Sobre o caso acima, assinale a alternativa adequada.",
       "alternativas": {
         "A": "A melhora dos níveis de ureia e creatinina com uso de albumina confirmaria a hipótese diagnóstica de síndrome hepatorrenal.",
@@ -19444,7 +19444,7 @@
       "id": "pv-sp-2025-0104",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "sub_subarea": "Distúrbios do equilíbrio acidobásico (DHE)",
       "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15. A respeito dos dados gasométricos apresentados em um contexto de injúria renal aguda, assinale a alternativa correta.",
       "alternativas": {
         "A": "O paciente possui indicação bem estabelecida de reposição endovenosa de bicarbonato devido ao valor de pH apresentado.",
@@ -19468,7 +19468,7 @@
       "id": "pv-sír-2025-0105",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "sub_subarea": "Doença Renal Crônica",
       "enunciado": "Atencão: Considere o caso clinico abaixo para responder a questão. Mulher, 63 anos de idade, comparece ao ambulatório para consulta de rotina. No momento, está assintomática e relata estar urinando normalmente. Não teve nenhuma intercorrência no período. Tem história de hipertensão arterial sistêmica, diabetes mellitus tipo 2, e doença renal crônica estágio IIIb, estando em uso de enalapril 20 mg duas vezes por dia, aniodipino 10 mg/dia, hidroclorotiazida 25 mg/dia e espironolactona 25 mg/dia. Ao exame, apresenta FC: 66 bpm e PA: 138 x 86 mmHg. Tem crepitos discretos em bases de ambos os hemotóraces e discreto edema perimaleolar. Sem sinais de edema ou outras alterações ao exame dos demais aparelhos e sistemas. Os exames laboratoriais realizados há dois dias seguem abaixo. Foi solicitado um eletrocardiograma que pode ser visto na imagem a seguir: Além de orientar restrição de fósforo, potássio e sódio na dieta, outra conduta a ser adotada para o manejo crônico das comorbidades apresentadas pelo paciente é iniciar",
       "alternativas": {
         "A": "dapaglifozina e sevelamer",
