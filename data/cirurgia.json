@@ -557,9 +557,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Coledocolitíase e colangite",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -581,7 +581,7 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Cirurgia Vascular",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -603,7 +603,7 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -625,7 +625,7 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -649,9 +649,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Obstrução intestinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -673,9 +673,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Obstrução intestinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -695,9 +695,10 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
       "_area_slug": "cirurgia",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "s11-049",
@@ -718,7 +719,7 @@
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Derrame pleural (cirúrgico)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -738,7 +739,7 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
       "_area_slug": "cirurgia",
       "banca": "ESTRATÉGIA MED",
       "sub_subarea": ""
@@ -763,9 +764,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Queimaduras e Trauma Elétrico",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Reposição volêmica (Parkland)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -785,10 +786,10 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Proctologia",
       "_area_slug": "cirurgia",
       "banca": "ESTRATÉGIA MED",
-      "sub_subarea": ""
+      "sub_subarea": "Doença diverticular dos cólons (cirúrgica)"
     },
     {
       "id": "s11-070",
@@ -809,7 +810,7 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Proctologia",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
