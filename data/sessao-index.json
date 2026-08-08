@@ -6050,8 +6050,8 @@
   "pv-ena-2024-0053": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonia",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -6060,7 +6060,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Glomerulopatias",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -6068,8 +6068,8 @@
   "pv-ena-2025-0102": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Tuberculose",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6077,8 +6077,8 @@
   "pv-ena-2025-0105": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Lúpus",
+    "sub": "Neurologia",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6086,8 +6086,8 @@
   "pv-ena-2025-0121": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Dermatologia",
+    "subsub": "Câncer de pele",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6095,8 +6095,8 @@
   "pv-pe-2025-0162": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Glomerulopatias",
+    "sub": "Pneumologia",
+    "subsub": "Derrame Pleural",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -6105,7 +6105,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Obesidade",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -6113,8 +6113,8 @@
   "pv-amr-2025-0176": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Síndromes febris",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -6122,8 +6122,8 @@
   "pv-uer-2024-0030": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Neoplasias",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -6132,7 +6132,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Obesidade",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -6141,7 +6141,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Neoplasias",
+    "subsub": "Leucemias",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -6149,8 +6149,8 @@
   "pv-hcp-2024-0029": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Infectologia",
+    "subsub": "HIV/Aids",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
