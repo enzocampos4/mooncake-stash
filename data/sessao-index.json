@@ -5834,7 +5834,7 @@
   "pv-hcp-2024-0019": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
@@ -5843,7 +5843,7 @@
   "pv-sp-2025-0203": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "USP-SP",
     "ano": 2025,
@@ -5852,7 +5852,7 @@
   "pv-df-2025-0169": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
+    "sub": "Cardiologia",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -5861,8 +5861,8 @@
   "pv-ena-2025-0128": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Estômago",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -5870,8 +5870,8 @@
   "pv-ena-2025-0138": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuf Cardiaca",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -5879,8 +5879,8 @@
   "pv-pe-2025-0108": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "DRC",
+    "sub": "Endocrinologia",
+    "subsub": "Metabolismo Ósseo e Mineral",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -5888,8 +5888,8 @@
   "pv-pe-2025-0112": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Tromboembolismo Pulmonar (TEP)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -5898,7 +5898,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -5915,8 +5915,8 @@
   "pv-hcp-2024-0032": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -5925,7 +5925,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -5934,7 +5934,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Fisiologia Cardíaca e Eletrocardiograma",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"

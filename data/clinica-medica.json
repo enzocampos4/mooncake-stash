@@ -17795,7 +17795,7 @@
       "id": "pv-hcp-2025-0166",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Síndromes aórticas agudas",
       "enunciado": "Paciente masculino, de 70 anos, com hipertensão de longa data, apresentou quadro súbito de dor torácica retroesternal, de forte intensidade, tendo sido trazido à Emergência. À admissão, apresentava saturação de oxigênio de 96%. Foram realizados eletrocardiografia de repouso e raio X de tórax (imagens abaixo). O resultado da dosagem de troponina estava normal, e a dosagem de D-dímeros indicou 1.900 ng/ml (valor de referência: 500 ng/ml). Qual o provável diagnóstico e qual a investigação complementar?",
       "alternativas": {
         "A": "Síndrome aórtica aguda – angiotomografia de tórax e abdômen",
@@ -17831,7 +17831,7 @@
       "id": "pv-fam-2025-0086",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "Pneumonia",
+      "sub_subarea": "Derrame Pleural",
       "enunciado": "Paciente de 45 anos, gênero feminino, é admitida por quadro de tosse produtiva, febre e dispneia há 3 dias. Realizou Rx de tórax cuja imagem é compatível com pneumonia de lobo inferior direito associado a velamento do seio costofrênico ipsilateral. Ao POCUS (Point-of- Care-Ultrasound) foi possível confirmar a hipótese de derrame pleural tendo sido realizada toracocentese e prescritos ceftriaxona associado a azitromicina. Os achados bioquímicos do líquido pleural evidenciam proteínas totais=4,5g/dl (sérica=6,8), DHL=1250UI/I, pH=6,9, celularidade=1800 células/mm³ (88% neutrófilos), ADA=120UI/I e cultura em andamento. Qual deve ser a conduta mais adequada neste momento?",
       "alternativas": {
         "A": "Indicar drenagem torácica",
@@ -17862,8 +17862,8 @@
     {
       "id": "pv-fam-2025-0149",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções bacterianas",
       "enunciado": "Mulher de 52 anos, obesa, diabética, comparece ao pronto-atendimento queixando-se de febre alta e aparecimento de grande ferida dolorosa em região da vulva há 3 dias. Ao exame físico, observa-se a lesão abaixo: Sobre o diagnóstico e o tratamento desta condição, assinale a alternativa correta:",
       "alternativas": {
         "A": "A fasceite necrotizante do perineo, também chamada de gangrena de Fournier corresponde a uma infecção monomicrobiana das partes moles do perineo causada por cepas multi-resistentes de Staphylococcus aureus.",
@@ -17891,8 +17891,8 @@
     {
       "id": "pv-sp-2025-0165",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Tireoide",
       "enunciado": "Uma paciente de 49 anos de idade relatou irritabilidade, sudorese noturna e secura vaginal. Aos 44 anos, ela foi submetida à histerectomia subtotal devido a mioma uterino. A paciente é acometida por diabetes tipo II controlado e faz uso de 500 mg de metformina por dia. O ginecologista chegou ao diagnóstico de síndrome do climatério e propôs realizar uma terapia hormonal. Com base nessa situação hipotética, é correto afirmar que",
       "alternativas": {
         "A": "a terapia hormonal está contraindicada em razão do diabetes.",
@@ -17922,7 +17922,7 @@
       "id": "pv-uni-2024-0087",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "Cefaleia",
+      "sub_subarea": "",
       "enunciado": "Homem, 28 anos de idade, apresenta edema cervicofacial matinal, tontura e cefaleia de início recente há 10 dias. Exame físico: corado, hidratado eupneico, PA = 120/70 mmHg, telangiectasias na parede torácica anterior, murmúrio vesicular presente e simétrico bilateral, sem ruídos adventícios. Fundo de olho: edema de papila. Exame neurológico normal. Qual é o diagnóstico sindrômico, possível causa e tratamento?",
       "alternativas": {
         "A": "Síndrome de hipertensão intracraniana – câncer de pulmão – radioterapia.",
@@ -17952,8 +17952,8 @@
     {
       "id": "pv-sp-2025-0105",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Cirrose",
       "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15. Quanto ao líquido ascítico, assinale a alternativa correta.",
       "alternativas": {
         "A": "O paciente possui diagnóstico confirmado de peritonite bacteriana espontânea, e o antibiótico iniciado provavelmente foi uma cefalosporina de terceira geração.",
@@ -17977,7 +17977,7 @@
       "id": "pv-sír-2025-0137",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "Pancreatite",
+      "sub_subarea": "Pâncreas",
       "enunciado": "Mulher, 45 anos, com antecedente de hipertensão arterial, relata dor súbita e intensa em abdome superior, irradiando para dorso, associada a náuseas e vômitos. Ao exame fisico, apresenta abdome discretamente distendido, doloroso à palpação em epigástrio, sem sinais de irritação peritoneal. O diagnóstico mais provável é:",
       "alternativas": {
         "A": "Infarto do miocárdio.",
@@ -18002,8 +18002,8 @@
     {
       "id": "pv-df-2024-0083",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Transplante Hepático e Hepatectomia",
       "enunciado": "Um paciente de 45 anos de idade, portador de cirrose hepática por causa da hepatite C crônica, foi submetido a avaliação multidisciplinar, indicado como candidato a transplante hepático e inserido na lista de espera por um órgão compatível. Na admissão, os sinais vitais apresentavam PA = 120 mmHg x 80 mmHg, FC = 75 bpm, FR = 19 irpm e temperatura = 36,8 °C. Ele realizou exames laboratoriais, os quais revelaram os seguintes resultados: bilirrubina total = 2,5 mg/dL, albumina = 3,0 g/dL, INR = 2,2 e creatinina = 1,0 mg/dL. Tendo em vista o caso clínico apresentado, assinale a alternativa que corresponde à principal indicação para transplante hepático em pacientes com cirrose hepática.",
       "alternativas": {
         "A": "Diagnóstico de carcinoma hepatocelular",
@@ -18031,8 +18031,8 @@
     {
       "id": "pv-df-2025-0114",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Um paciente de 22 anos de idade foi admitido no prontosocorro após ser vítima de ferimento por arma de fogo na região toracoabdominal esquerda. Na admissão, os sinais vitais eram PA = 85 mmHg X 60 mmHg, FC = 125 bpm, FR = 28 irpm, temperatura = 36,2 °C e SatO2 = 92% em ar ambiente. Ao exame físico, observou-se orifício de entrada na região lombar esquerda, hematoma palpável e em expansão na região lombar, abdome rígido, com sinais de peritonite, hematúria macroscópica e rebaixamento progressivo do nível de consciência. Realizou tomografia computadorizada com contraste, que evidenciou laceração extensa no parênquima do rim esquerdo, estendendo-se ao córtex, à medula e ao sistema coletor, com extravasamento de contraste, hematoma perirrenal volumoso e sinais de comprometimento vascular segmentar. O rim contralateral apresentava-se normal. A respeito da lesão renal traumática, assinale a alternativa correta.",
       "alternativas": {
         "A": "A hematúria é um indicador de pouca importância no trauma do sistema urinário, já que o primeiro volume urinado ou a amostra de urina cateterizada pode estar diluída e atrapalhar a interpretação do quadro.",
@@ -18063,8 +18063,8 @@
     {
       "id": "pv-df-2025-0125",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Infectologia",
+      "sub_subarea": "Sepse",
       "enunciado": "Um paciente de 52 anos de idade, etilista crônico e cirrótico, foi levado ao serviço de emergência com queixa de dor abdominal difusa, febre e confusão mental. Ao exame físico, apresentou PA = 90 mmHg X 60 mmHg, FC = 120 bpm, FR 24 = irpm, SatO2 = 94% e abdome tenso, com sinal de Murphy negativo. O resultado do hemograma mostrou leucócitos = 18.000/mm³ com desvio à esquerda. Nesse caso, qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Peritonite bacteriana espontânea (PBE)",
@@ -18087,8 +18087,8 @@
     {
       "id": "pv-hcp-2024-0068",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Infectologia",
+      "sub_subarea": "Infecções relacionadas à assistência à saúde (IRAS)",
       "enunciado": "Paciente de 19 anos veio à Emergência por dor abdominal e sangramento. Relatou um abortamento espontâneo há 2 dias. À admissão, a temperatura era de 38,2 ºC, a pressão arterial de 90/60 mmHg e a frequência cardíaca de 110 bpm; o exame especular mostrou sangramento vaginal em pequena quantidade e odor fétido; o toque vaginal revelou colo uterino aberto, abdômen doloroso à palpação e útero de aproximadamente 12 semanas. O hemograma indicou 15.000 leucócitos/mm³ e 10% de bastões. À ultrassonografia, foram visualizados útero antevertido, com restos ovulares de aproximadamente 30 mm, além de ausência de feto ou partes ósseas. Com base no quadro, assinale a assertiva correta.",
       "alternativas": {
         "A": "O diagnóstico e a conduta dependem do resultado de uma ultrassonografia transvaginal.",
@@ -18110,8 +18110,8 @@
     {
       "id": "pv-ba-2024-0010",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "RCP",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Choque",
       "enunciado": "Criança, 3 anos de idade, que se encontra na triagem do setor de Emergências por apresentar febre, dispneia e queda do estado geral há 48 horas, apresenta parada cardiorrespiratória diante da enfermeira e da técnica de enfermagem. Sobre a administração de adrenalina na reanimação cardiorrespiratória em crianças dessa idade, de acordo com as Diretrizes atuais da American Heart Association, é correto afirmar que deve ser utilizada:",
       "alternativas": {
         "B": "Em qualquer ritmo cardíaco que responda a choque.",
