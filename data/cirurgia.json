@@ -832,9 +832,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Abdome agudo perfurativo",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -854,9 +854,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma abdominal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -874,9 +874,9 @@
       "explicacao": "O paciente apresenta uma história clínica clássica de um abdome agudo perfurativo, com dor abdominal de início súbito, de forte\nintensidade, com indicação da hora exata que iniciou a dor, associada a sintomas como náuseas, vômitos e taquicardia. O exame físico\nreforça o diagnóstico com uma dor intensa, difusa, com contração muscular involuntária e dor à descompressão brusca sinalizando\nirritação peritoneal.\nO abdome agudo perfurativo pode ser confirmado com um exame de imagem que evidencie a presença de pneumoperitônio (ar livre na\ncavidade abdominal).\nCorreta a alternativa A. Presença de ar livre na cavidade peritoneal é o achado de pneumoperitônio, esperado em um quadro de abdome\nagudo perfurativo.\nIncorreta a alternativa B. Dilatação de alças de delgado com redução abrupta do calibre em um segmento é esperada em um abdome\nagudo obstrutivo alto, provavelmente por bridas.\nIncorreta a alternativa C. Apêndice cecal aumentado com densificação de gordura adjacente é uma descrição de imagem compatível com\napendicite aguda. É possível que uma apendicite aguda complicada evolua com uma dor abdominal intensa, sinais de irritação peritoneal\ne taquicardia, entretanto, geralmente, há dias de evolução, não minutos ou horas.\nIncorreta a alternativa D. Falha de enchimento da artéria mesentérica superior é o achado esperado em um abdome agudo isquêmico,\nque tem como principal característica a dor abdominal desproporcional ao exame físico. Na questão, o paciente tem um exame físico\nbastante florido e sintomático.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Isquemia mesentérica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -897,9 +897,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cirurgia Torácica",
+      "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Complicações respiratórias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -923,7 +923,7 @@
       "_edicao": "14",
       "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Fístulas e abscessos anais",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -941,9 +941,9 @@
       "explicacao": "Paciente idosa, chagásica, com constipação crônica, apresentando ausência de evacuação há 15 dias. Todo o quadro já é bastante sugestivo de\num fecaloma, com confirmação do diagnóstico pela presença de tumoração crepitante em abdome inferior (sinal de Gersuny) e impactação\nfecal no toque retal. O tratamento inicialmente é realizado com a quebra manual do fecaloma e prescrição de enema glicerinado. Nos casos\nem que o fecaloma é alto ou que está complicado, a cirurgia pode ser indicada.\nIncorreta a alternativa A. A realização de um fleet enema isolado não resolve o fecaloma, pois as fezes endurecidas impedem a entrada da\nmedicação e não proporcionam a desimpactação fecal.\nIncorreta a alternativa B. Da mesma forma que a alternativa anterior, a impactação fecal por fezes endurecidas funciona como um fator\nmecânico obstrutivo, o que impede a saída de fezes até que ocorra a quebra manual do conteúdo fecal.\nCorreta a alternativa C. O tratamento mais importante é a desimpactação das fezes endurecidas com a quebra manual. Após essa quebra,\npodemos realizar o enema glicerinado para promover a limpeza do restante do cólon.\nIncorreta a alternativa D. Esta é a conduta indicada para os casos de volvo de sigmoide não complicado.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Obstrução intestinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -964,9 +964,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Apendicite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -985,9 +985,9 @@
       "imagens": [],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Nutrição enteral",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1011,9 +1011,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome Agudo",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1033,9 +1033,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Avaliação Pré-Operatória",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnias",
+      "sub_subarea": "Jejum e medicação pré-op",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1055,9 +1055,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cirurgia Torácica",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Trauma torácico",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1077,9 +1077,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome Agudo",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {

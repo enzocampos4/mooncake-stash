@@ -7877,8 +7877,8 @@
   "s1-098": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Coledocolitíase e colangite",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -7886,7 +7886,7 @@
   "s11-001": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia Vascular",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -7895,7 +7895,7 @@
   "s11-010": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Complicações Pós-Operatórias",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -7904,7 +7904,7 @@
   "s11-014": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Vesícula e Vias Biliares",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -7913,8 +7913,8 @@
   "s11-021": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -7922,8 +7922,8 @@
   "s11-030": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -7931,7 +7931,7 @@
   "s11-034": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia de Cabeça e Pescoço",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -7941,7 +7941,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "subsub": "Derrame pleural (cirúrgico)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -7949,7 +7949,7 @@
   "s11-052": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia de Cabeça e Pescoço",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -7958,8 +7958,8 @@
   "s11-056": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Queimaduras e Trauma Elétrico",
+    "subsub": "Reposição volêmica (Parkland)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -7967,8 +7967,8 @@
   "s11-068": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Proctologia",
+    "subsub": "Doença diverticular dos cólons (cirúrgica)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -7976,7 +7976,7 @@
   "s11-070": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Proctologia",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
