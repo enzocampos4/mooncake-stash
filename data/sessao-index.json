@@ -6806,8 +6806,8 @@
   "pv-ena-2025-0118": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "Glomerulopatias",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6816,7 +6816,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "subsub": "Asma",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -6833,8 +6833,8 @@
   "pv-pe-2024-0018": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Neurologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Animais peçonhentos",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -6842,8 +6842,8 @@
   "pv-pe-2024-0022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -6852,7 +6852,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "",
+    "subsub": "Metabolismo Ósseo e Mineral",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -6860,7 +6860,7 @@
   "pv-pe-2024-0084": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Infectologia",
     "subsub": "Sepse",
     "banca": "SES-PE",
     "ano": 2024,
@@ -6870,7 +6870,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Glomerulopatias",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -6878,8 +6878,8 @@
   "pv-pe-2024-0099": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Hepatologia",
+    "subsub": "Tumores Hepáticos",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -6888,7 +6888,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Insuficiência Cardíaca",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -6897,7 +6897,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Cefaleia",
+    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -6906,7 +6906,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
