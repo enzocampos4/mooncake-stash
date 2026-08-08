@@ -6375,7 +6375,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Arritmias Cardíacas",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -6383,8 +6383,8 @@
   "pv-fam-2024-0009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuf Cardiaca",
+    "sub": "Nefrologia",
+    "subsub": "Glomerulopatias",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -6392,8 +6392,8 @@
   "pv-fam-2024-0012": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Tuberculose",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -6401,7 +6401,7 @@
   "pv-fam-2025-0084": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2025,
@@ -6411,7 +6411,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "DRC",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -6419,8 +6419,8 @@
   "pv-sp-2025-0167": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Infectologia",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6428,8 +6428,8 @@
   "pv-uni-2025-0119": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Neurologia",
+    "subsub": "Distúrbios do Movimento",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -6437,8 +6437,8 @@
   "pv-uni-2025-0137": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Sepse",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -6446,8 +6446,8 @@
   "pv-sp-2024-0093": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "DRC",
+    "sub": "Cardiologia",
+    "subsub": "Choque",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -6456,7 +6456,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6465,7 +6465,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Dist Eletrolíticos",
+    "subsub": "Distúrbios do equilíbrio acidobásico (DHE)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6474,7 +6474,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "DRC",
+    "subsub": "Doença Renal Crônica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
