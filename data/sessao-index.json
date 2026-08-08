@@ -5618,7 +5618,7 @@
   "pv-pe-2024-0055": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
@@ -5627,7 +5627,7 @@
   "pv-pe-2024-0059": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
@@ -5636,8 +5636,8 @@
   "pv-pe-2024-0083": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Hepatologia",
+    "subsub": "Outras Hepatopatias",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -5645,8 +5645,8 @@
   "pv-pe-2025-0157": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Endocrinologia",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -5654,7 +5654,7 @@
   "pv-amr-2024-0050": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
@@ -5663,7 +5663,7 @@
   "pv-ufr-2024-0073": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Endocrinologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -5672,7 +5672,7 @@
   "pv-ufr-2024-0074": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -5681,8 +5681,8 @@
   "pv-ufr-2025-0211": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "sub": "Neurologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5690,8 +5690,8 @@
   "pv-ufr-2025-0234": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5699,8 +5699,8 @@
   "pv-ufr-2025-0236": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5708,7 +5708,7 @@
   "pv-ufr-2025-0239": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
@@ -5717,7 +5717,7 @@
   "pv-fam-2024-0036": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Infectologia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
