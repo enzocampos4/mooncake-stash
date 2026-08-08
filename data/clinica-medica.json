@@ -21448,8 +21448,8 @@
     {
       "id": "pv-uer-2024-0088",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Anemias",
+      "subarea": "Reumatologia",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "Mulher de 40 anos, em investigação de anemia e quadro de artrite, apresenta o fator antinuclear positivo 1:320, com padrão nucleolar. Esse achado é mais compatível com paciente que apresenta:",
       "alternativas": {
         "A": "pancitopenia, fotossensibilidade, glomerulonefrite e úlceras orais",
@@ -21478,7 +21478,7 @@
       "id": "pv-uer-2025-0113",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "sub_subarea": "Hemostasia",
       "enunciado": "Uma mulher de 32 anos, sem comorbidades conhecidas, procura a ginecologia por aumento de volume menstrual. Relata que sua menstruação ocorre de forma regular, mas com fluxo e duração aumentados, desde a menarca, aos 15 anos. À anamnese dirigida, refere episódios ocasionais de epistaxe e surgimento de hematomas não provocados pelo corpo desde a adolescência. Exames laboratoriais evidenciam anemia e plaquetopenia leves, tempo de atividade da protrombina (TAP) normal e tempo de tromboplastina parcial ativada (PTT) alargado. O diagnóstico mais provável, nesse caso, é:",
       "alternativas": {
         "A": "hemofilia A",
@@ -21500,8 +21500,8 @@
     {
       "id": "pv-uer-2025-0118",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Parasitoses",
       "enunciado": "Um homem de 40 anos, sem comorbidades conhecidas, é internado em enfermaria de clínica médica para investigação de febre e perda de peso. Refere, há quatro meses, episódios recorrentes de febre vespertina, além de astenia e perda ponderal de 10kg. Ao exame, apresenta-se hipocorado e com baço palpável a 15cm do rebordo costal esquerdo. Exames laboratoriais evidenciam pancitopenia e hipoalbuminemia. É realizado aspirado de MO, que revela células ovoides com núcleo grande no interior dos macrófagos. O diagnóstico mais provável, nesse caso, é:",
       "alternativas": {
         "A": "amiloidose",
@@ -21534,8 +21534,8 @@
     {
       "id": "pv-uer-2025-0133",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Pneumonia",
+      "subarea": "Infectologia",
+      "sub_subarea": "Vacinas",
       "enunciado": "Os pacientes submetidos à esplenectomia devem ser vacinados contra patógenos encapsulados, com o objetivo de evitar sepse pós-esplenectomia. O patógeno mais comum é:",
       "alternativas": {
         "A": "Varicella",
@@ -21558,7 +21558,7 @@
       "id": "pv-uer-2025-0190",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Insuf Cardiaca",
+      "sub_subarea": "Insuficiência Cardíaca",
       "enunciado": "Motorista de ônibus com asma na infância, diabético, com diagnóstico de insuficiência cardíaca, retorna ao médico de família, após consulta com cardiologista. Refere piora na falta de ar, após uso das medicações prescritas pelo cardiologista, que lhe disse estarem de acordo com os últimos avanços da medicina. Ao exame físico, paciente está sibilando e apresenta melhora após três pufes de salbutamol com intervalo de 20min entre eles. Traz ecocardiograma com miocardiopatia dilatada e FE de 36%. Na prescrição, há as seguintes medicações: dapaglifozina, carvedilol, sucubitril/valsartana, espironolactona, nitrato e hidralazina. Paciente relata que só está tomando os remédios que pega na CF, que consistem em enalapril, furosemida, carvedilol e hidralazina, além das medicações que já tomava: sinvastatina, metformina e glibenclamida. Em relação à ocupação do paciente e aos problemas observados, as condutas adequadas, respectivamente, são:",
       "alternativas": {
         "A": "a mudança de ocupação do paciente não é necessária devido às medicações prescritas, que reduzem a mortalidade / a equipe da clínica deve facilitar o uso das medicações, independentemente dos problemas causados por polifarmácia, aderência, custo, eventos adversos (como broncoespasmo) e opinião do paciente",
@@ -21586,8 +21586,8 @@
     {
       "id": "pv-uer-2025-0196",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "Mulher de 60 anos, com hipertensão controlada e obesidade, chega para consulta. Ela é ex- tabagista (20 maços-ano) há 25 anos e não apresenta outras queixas. Entre as diretrizes atuais de rastreamento com base em evidências científicas, a recomendação adequada para o caso é:",
       "alternativas": {
         "A": "realizar rastreamento para câncer de pulmão, com tomografia computadorizada de baixa dose, por conta do histórico de tabagismo e pela idade",
@@ -21617,8 +21617,8 @@
     {
       "id": "pv-uer-2025-0198",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Tireoide",
       "enunciado": "O médico de família e comunidade está habilitado para lidar com a ambiguidade e a incerteza, em geral tendo de tomar decisões e realizar manejos e tratamentos sem ter a certeza diagnóstica. Em geral, as pessoas que se apresentam para atendimento na atenção primária têm diversas queixas e mais de três problemas de saúde. Em relação às demandas de saúde nesse cenário, os problemas mais frequentes são:",
       "alternativas": {
         "A": "ausência de doença, depressão e hipotireoidismo",
@@ -21640,8 +21640,8 @@
     {
       "id": "pv-hcp-2024-0012",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Neurologia",
+      "sub_subarea": "Demências",
       "enunciado": "Paciente feminina, de 76 anos, foi trazida à UBS por uma vizinha (embora ela more com 3 filhos adultos). Durante a consulta e na revisão do prontuário, constatou-se que a paciente encontrava-se em estágio avançado de demência, com importante prejuízo do autocuidado (mau estado de higiene) e com provável sarcopenia. Não havia registro de acompanhamento ou retirada de medicamentos para diabetes melito e hipertensão arterial sistêmica conforme prescrições prévias. Após conversa com os agentes comunitários de saúde, restou confirmada a suspeita de negligência. Assinale a assertiva correta sobre as medidas de vigilância em saúde em situações como essa.",
       "alternativas": {
         "A": "O Ministério Público e o Serviço Social devem ser acionados para as devidas averiguações, não sendo necessária notificação, por não haver suspeita de violência física ou sexual.",
@@ -21664,7 +21664,7 @@
       "id": "pv-hcp-2024-0038",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "enunciado": "Paciente de 65 anos foi trazida à Emergência por dor retroesternal em aperto, quadro iniciado há 4 horas. Com história de hipertensão arterial e diabetes melito tipo 2, vinha fazendo uso de AAS, atorvastatina e losartana. Ao exame físico realizado por ocasião da admissão, apresentava pressão arterial de 176/90 mmHg e frequência cardíaca de 92 bpm, Killip classe I. O eletrocardiograma está reproduzido abaixo. A Emergência não dispõe de condições para realização de cateterismo cardíaco, e o hospital com plantão de hemodinâmica pode ser acessado em, no mínimo, 2 horas. Que estratégia, dentre as abaixo, tem melhor expectativa de benefício para a paciente?",
       "alternativas": {
         "A": "Administrar um trombolítico intravenoso, iniciar a anticoagulação com heparina e transferir a paciente para hospital com condições de realizar angioplastia adjuvante imediatamente.",
@@ -21696,7 +21696,7 @@
       "id": "pv-hcp-2024-0058",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Arritmias",
+      "sub_subarea": "Valvopatias",
       "enunciado": "Paciente masculino, de 65 anos, portador de prótese mitral metálica, com história de fibrilação atrial crônica, em uso crônico de varfarina para prevenção de eventos tromboembólicos, foi admitido no hospital para submeter-se a uma cirurgia de artroplastia total do quadril devido a osteoartrose grave e dor incapacitante. O INR encontrava-se no alvo terapêutico. Que abordagem, dentre as abaixo, é a mais adequada em relação à anticoagulação no perioperatório desse paciente?",
       "alternativas": {
         "A": "Suspender o uso da varfarina 1 semana antes da cirurgia e iniciar enoxaparina 40 mg SC, 1vez/dia, até 24 horas antes do procedimento, independentemente do INR.",
@@ -21718,8 +21718,8 @@
     {
       "id": "pv-hcp-2025-0103",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Hipertensão Arterial Sistêmica (HAS)",
       "enunciado": "Paciente feminina, de 55 anos, veio à UBS para revisão do controle da pressão arterial e da dislipidemia. Com história de hipertensão desde os 45 anos, vinha em uso de enalapril (20 mg, 2 vezes/dia), hidroclorotiazida (25 mg/dia) e atorvastatina (40 mg/dia). Negou outras comorbidades. O exame físico indicou peso de 86 kg, altura de 156 cm e pressão arterial 128/78 mmHg; demais aspectos sem particularidades. Trouxe resultados de exames recentes, semelhantes aos anteriores: glicemia de 98 mg/dl, HbA1c de 5,6%, creatinina de 1,5 mg/dl (TFG de 42 ml/min/1,73 m²), albuminúria em amostra de 56 mg/l, colesterol total de 156 mg/dl, HDL de 38 mg/dl e triglicerídios de 152 mg/dl. Com base nos dados clínicos e laboratoriais, qual a conduta mais adequada?",
       "alternativas": {
         "A": "Recomendar apenas modificação de estilo de vida.",
@@ -21748,7 +21748,7 @@
       "id": "pv-hcp-2025-0149",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Paciente feminina, de 58 anos, com história de hipertensão arterial sistêmica de longa data e insuficiência renal crônica em hemodiálise, veio à consulta por edema do membro inferior esquerdo com evolução de 6 dias. A avaliação complementar com eco-Doppler colorido venoso confirmou a suspeita de trombose venosa profunda proximal. Assinale a assertiva correta sobre a opção terapêutica adequada para a paciente.",
       "alternativas": {
         "A": "Implante de filtro de veia cava inferior deve ser priorizado pelo risco aumentado de sangramento associado a anticoagulação sistêmica.",

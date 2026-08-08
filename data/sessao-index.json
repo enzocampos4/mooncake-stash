@@ -7023,7 +7023,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Hanseníase",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -7031,8 +7031,8 @@
   "pv-amr-2025-0120": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -7041,7 +7041,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "HIV",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -7049,8 +7049,8 @@
   "pv-ufr-2024-0110": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP",
+    "sub": "Nefrologia",
+    "subsub": "Controle da água corporal total",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -7059,7 +7059,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "subsub": "Hemostasia",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -7068,7 +7068,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Lúpus",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -7076,8 +7076,8 @@
   "pv-ufr-2025-0163": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -7085,8 +7085,8 @@
   "pv-ufr-2025-0171": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Neurologia",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -7094,8 +7094,8 @@
   "pv-uer-2024-0001": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Neurologia",
-    "subsub": "AVC",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -7104,7 +7104,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -7112,8 +7112,8 @@
   "pv-uer-2024-0013": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -7121,8 +7121,8 @@
   "pv-uer-2024-0017": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "HIV",
+    "sub": "Neurologia",
+    "subsub": "Demências",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
