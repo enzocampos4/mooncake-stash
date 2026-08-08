@@ -6591,7 +6591,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "TEP",
+    "subsub": "Tromboembolismo Pulmonar (TEP)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -6599,7 +6599,7 @@
   "pv-uni-2025-0132": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Cardiologia",
     "subsub": "Choque",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -6609,7 +6609,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuf Cardiaca",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6618,7 +6618,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "AVC",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6627,7 +6627,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "subsub": "Hemostasia",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -6636,7 +6636,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "TEP",
+    "subsub": "Tromboembolismo Pulmonar (TEP)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -6644,8 +6644,8 @@
   "pv-hia-2025-0079": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -6662,7 +6662,7 @@
   "pv-df-2025-0119": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -6672,7 +6672,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "DAC",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -6681,7 +6681,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Pancreatite",
+    "subsub": "Pâncreas",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -6689,8 +6689,8 @@
   "pv-df-2025-0126": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Pneumologia",
+    "subsub": "Tromboembolismo Pulmonar (TEP)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"

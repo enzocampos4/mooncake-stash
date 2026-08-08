@@ -20173,7 +20173,7 @@
       "id": "pv-df-2025-0165",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "enunciado": "Um paciente de 55 anos de idade, com história de hipertensão não controlada e obesidade, deu entrada no pronto-socorro com quadro de dor torácica em aperto, sudorese e dificuldade respiratória. Ao exame físico, apresentou FC = 110 bpm, FR = 22 irpm e SatO2 = 92%. Qual é a conduta inicial mais indicada para o caso?",
       "alternativas": {
         "A": "Iniciar medicação anti-hipertensiva.",
@@ -20196,7 +20196,7 @@
       "id": "pv-df-2025-0172",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "enunciado": "Um paciente de 60 anos de idade, com histórico de hipertensão e dislipidemia, compareceu à consulta com quadro de dor torácica intensa, sudorese e náusea. Ao exame físico, apresentou FC = 110 bpm, FR = 24 irpm e SatO2 = 92%. Qual o diagnóstico mais provável nesse caso?",
       "alternativas": {
         "A": "Refluxo gastroesofágico",
@@ -20224,8 +20224,8 @@
     {
       "id": "pv-df-2025-0178",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Pneumonia",
+      "subarea": "Infectologia",
+      "sub_subarea": "Tuberculose (TB)",
       "enunciado": "Um paciente de 45 anos de idade, hipertenso, em uso de medicação regular, apresenta quadro de tosse seca persistente há três semanas, com febre intermitente e emagrecimento progressivo. O exame físico mostrou, FC = 95 bpm, FR = 20 irpm, SatO2 = 94%, exame de fundo de olho sem alterações e linfonodomegalia cervical. Com base nesse caso clínico, qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Tuberculose pulmonar",
@@ -20248,7 +20248,7 @@
       "id": "pv-df-2025-0131",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Aterosclerose e Doença Arterial Coronariana",
       "enunciado": "Um paciente de 65 anos de idade, hipertenso e diabético, deu entrada no pronto-socorro com dor torácica de forte intensidade, iniciada há duas horas. Ao exame físico, encontra-se com FC = 105 bpm, FR = 20 irpm, SatO2 = 96% e PA = 160 mmHg X 100 mmHg. O eletrocardiograma mostrou supradesnivelamento de ST em DII, DIII e aVF. Qual é a conduta inicial mais indicada para esse paciente?",
       "alternativas": {
         "A": "Realizar ecocardiograma transtorácico imediatamente.",
@@ -20271,7 +20271,7 @@
       "id": "pv-amr-2025-0114",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Em relação à malária, analise as assertivas a seguir: I. O diagnóstico confirmatório da malária baseia-se no encontro de parasitos no sangue. O método mais utilizado é a microscopia de gota espessa de sangue, colhida por punção digital e corada pelo método de Walker. II. A sorologia para pesquisa de anticorpos antiplasmodium não deve ser realizada no caso de suspeita de malária. Seu resultado é relacionado à exposição prévia e é restrito apenas a estudos científicos. Sua solicitação no contexto clínico leva à demora no diagnóstico e maior risco de complicações. III. Pessoas com deficiência suspeita ou confirmada de glicose-6-fosfato-desidrogenase (G6PD), atividade abaixo de 30%, não deverão fazer uso de primaquina. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -20294,7 +20294,7 @@
       "id": "pv-sír-2025-0104",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "sub_subarea": "Doença Renal Crônica",
       "enunciado": "Atencão: Considere o caso clinico abaixo para responder a questão. Mulher, 63 anos de idade, comparece ao ambulatório para consulta de rotina. No momento, está assintomática e relata estar urinando normalmente. Não teve nenhuma intercorrência no período. Tem história de hipertensão arterial sistêmica, diabetes mellitus tipo 2, e doença renal crônica estágio IIIb, estando em uso de enalapril 20 mg duas vezes por dia, aniodipino 10 mg/dia, hidroclorotiazida 25 mg/dia e espironolactona 25 mg/dia. Ao exame, apresenta FC: 66 bpm e PA: 138 x 86 mmHg. Tem crepitos discretos em bases de ambos os hemotóraces e discreto edema perimaleolar. Sem sinais de edema ou outras alterações ao exame dos demais aparelhos e sistemas. Os exames laboratoriais realizados há dois dias seguem abaixo. Foi solicitado um eletrocardiograma que pode ser visto na imagem a seguir: A conduta que deve ser adotada neste momento com relação à hipercalemia, além de orientar dieta hipocalêmica.",
       "alternativas": {
         "A": "Manter todas as medicações e iniciar uso de furosemida e bicarbonato de sódio oral ambulatorialmente.",
@@ -20322,8 +20322,8 @@
     {
       "id": "pv-uer-2024-0040",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Nefrologia",
+      "sub_subarea": "",
       "enunciado": "Menino de 4 anos é levado à emergência devido a edema nos olhos, na barriga e nas pernas há três dias. Mãe informa que, há 48 horas, procurou a UBS próxima à sua casa, onde o médico suspeitou que fosse um quadro alérgico, prescrevendo desloratadina, que não impediu a piora do quadro. A mãe não sabe informar sobre diurese e nega febre ou qualquer outro sinal ou sintoma. Ao exame físico, o paciente mostra-se lúcido, eupneico, pálido ++/4+ com edema palpebral bilateral, edemas de parede abdominal, de bolsa escrotal e de membros inferiores de ++/4+, com formação de cacifo. Não há evidência de visceromegalias e de anormalidade na peristalse. O aparelho cardiovascular apresenta bulhas normofonéticas, com frequência cardíaca de 96bpm. A pressão arterial é de 85 x 50mmHg (normal para sexo, idade e altura), ausculta respiratória sem alterações e a frequência respiratória é de 24irpm. A saturação O₂ é de 96%. Nesse caso, a principal hipótese diagnóstica e os exames laboratoriais a serem solicitados, respectivamente, são:",
       "alternativas": {
         "A": "síndrome nefrótica / proteinúria de 24 horas, dosagem sérica de albumina e colesterol total.",
@@ -20351,8 +20351,8 @@
     {
       "id": "pv-sír-2024-0081",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuf Cardiaca",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Homem de 59 anos de idade, com cirrose hepática por VHC e insuficiência cardíaca diastólica, em uso crônico de furosemida, espironolactona e carvedilol, procurou o pronto- socorro por mal-estar e náuseas. Exame físico: estado geral regular, PA: 100 x 50 mmHg, FC: 64 bpm, FR: 22 irpm, SpO₂: 93%, ascite volumosa, edema de parede abdominal, edema 3+/4+ em membros inferiores. Ausculta cardíaca normal. Ausculta pulmonar diminuída em bases. Exames laboratoriais: Hb: 10 g/dL, leucócitos: 3.500/mm³, plaquetas: 62.000/mm³, Cr: 2,8 mg/dL (basal 1,2 mg/dL), ureia: 87 mg/dL, Na: 131 mEq/L, K: 6,0 mEq/L. Ultrassom à beira do leito: contratilidade cardíaca normal, veia cava inferior de 2,4 cm de diâmetro, com variação até 2,1 cm. Entre as opções abaixo, a conduta mais adequada, neste momento, para este paciente é:",
       "alternativas": {
         "A": "albumina por dois dias e suspender espironolactona.",
@@ -20376,7 +20376,7 @@
       "id": "pv-ena-2024-0049",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Anemias",
+      "sub_subarea": "Anemias hemolíticas",
       "enunciado": "A respeito de doenças hematológicas em crianças, assinale a alternativa correta.",
       "alternativas": {
         "A": "A anemia falciforme é uma doença genética e adquirida que afeta os glóbulos vermelhos do sangue.",
@@ -20406,7 +20406,7 @@
       "id": "pv-ena-2024-0085",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "sub_subarea": "Doença Renal Crônica",
       "enunciado": "Mulher de 68 anos, acompanhada da filha, foi encaminhada para nefrologia pela unidade básica de saúde (UBS) devido à alteração no exame de creatinina. Trouxe exames laboratoriais que evidenciavam: Hb 8,7g/L; Creatinina 2,8 mg/dL; Ureia 92 mg/dL; Gasometria arterial: pH 7,3, Bicarbonato 18 mmol/L, Na 140 mmol/L, K 5.2 mmol/L. Um exame realizado há 4 anos já evidenciava creatinina sérica basal de 2,3 mg/dL. O peso da paciente é de 56 Kg. Conforme o caso apresentado, assinale a alternativa correta.",
       "alternativas": {
         "A": "Está contraindicada vacina contra hepatite B para essa paciente.",
@@ -20429,8 +20429,8 @@
     {
       "id": "pv--2024-0090",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "RCP",
+      "subarea": "Neurologia",
+      "sub_subarea": "Coma e Alterações da Consciência",
       "enunciado": "Diante de um atendimento a um paciente em parada cardiorrespiratória, o líder precisa conduzir a equipe que está realizando a Reanimação Cardiopulmonar (RCP). Qual é a maneira de comunicação mais apropriada entre o líder e a equipe nessa situação?",
       "alternativas": {
         "A": "Apenas o líder da equipe possui a competência necessária para verbalizar informações, devendo o restante da equipe permanecer em silêncio durante todo o atendimento.",
@@ -20453,8 +20453,8 @@
     {
       "id": "pv-ena-2025-0106",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Anemias",
+      "subarea": "Nefrologia",
+      "sub_subarea": "",
       "enunciado": "Uma mulher de 20 anos se queixa de edema generalizado iniciado há 3 semanas, que evoluiu com piora progressiva. Relata hiporexia e astenia nesse período. Desconhece ser portadora de doenças atuais ou prévias e não faz uso de quaisquer medicamentos ou drogas. Ao exame físico, PA: 160 x 90 mmHg, FC: 97 bpm, FR: 22 ipm, SpO2 98% (em ar ambiente). As mucosas estão hipocoradas, ictéricas e hidratadas. Há edema na face, pálpebras, parede abdominal e membros inferiores. Há também ascite e síndrome de derrame pleural. Exames de laboratório: sangue: Hb: 7,0 g/dL; Hct: 24%; VCM: 98 fL; HCM: 31 pg; CHCM: 32 g/dL; RDW: 18, 3%; leucócitos: 3.400/mm³; neutrófilos segmentados: 1.500/mm³; linfócitos: 700/mm³; Plq.: 201.000/mm³; PCR: 28m g/dL; FAN reagente: 1:320 padrão nuclear homogêneo; anti-DNA reagente; anti-SSA reagente; anti-SSB reagente; anti-Sm reagente; ANCA não reagente; C3: 43 mg/dL (90-170 mg/dL); C4: 10 mg/dL (VR: 12-36 mg/dL); exame de urina: densidade 1.020; pH 6,0; nitrito negativo; proteínas ++++; hemoglobina ++; 4 piócitos/campo, 145 hemácias/campo; presença de cilindros hemáticos. Para investigação da anemia apresentada pela paciente, são solicitados os seguintes exames: LDL: 1150 UI/L (VR: 120-246 UI/L); BT: 4,2 mg/dL; BD: 0,4 mg/dL; reticulócitos: 18%, Coombs direto positivo; ferro sérico: 52 mcg/dL (VR: 65-175 mcg/dL); ferritina 650 ng/mL (VR: 10-291 ng/mL); capacidade total de ligação do ferro: 200 mcg/dL (250-425 mcg/dL). A conduta imediata mais adequada para o tratamento da anemia é:",
       "alternativas": {
         "A": "administração de eritropoetina;",
