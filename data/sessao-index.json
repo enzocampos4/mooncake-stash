@@ -5510,8 +5510,8 @@
   "pv-amr-2025-0162": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Adrenal",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -5519,8 +5519,8 @@
   "pv-ufr-2024-0112": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Gastroenterologia",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -5528,8 +5528,8 @@
   "pv-ufr-2025-0271": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -5537,8 +5537,8 @@
   "pv-uer-2025-0127": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Hepatologia",
+    "subsub": "Complicações da Insuficiência Hepática",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -5547,7 +5547,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Infecções bacterianas",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -5555,8 +5555,8 @@
   "pv-uni-2024-0075": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -5565,7 +5565,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "",
+    "subsub": "Intestinos",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -5574,7 +5574,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Nefrolitíase",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -5582,7 +5582,7 @@
   "pv-hia-2025-0132": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
@@ -5591,8 +5591,8 @@
   "pv-df-2025-0107": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Pancreatite",
+    "sub": "Hepatologia",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -5600,8 +5600,8 @@
   "pv-ena-2025-0162": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -5610,7 +5610,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Parasitoses",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
