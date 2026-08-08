@@ -22102,8 +22102,8 @@
     {
       "id": "pv-uni-2024-0070",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Você está na UBS atendendo um paciente que tem história de diabetes mellitus e hipertensão arterial. Nos exames atuais, ele apresenta creatinina = 1,8 mg/dl. Qual é a maneira recomendada para a avaliação da função renal deste paciente?",
       "alternativas": {
         "A": "Estimar a taxa de filtração glomerular através da equação CKD-EPI.",
@@ -22133,8 +22133,8 @@
     {
       "id": "pv-uni-2024-0086",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Choque",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Homem, 45 anos de idade, vítima de queda de telhado (6 metros) há 1 hora, dá entrada na sala de emergência de um hospital especializado em trauma. Apresentava índice de choque de 1,2 na entrada, mantido em 0,7 após infusão de 500 ml de cristalóide e 1 concentrado de hemácias. Exame físico: abdome pouco distendido, doloroso no hipocôndrio esquerdo, com líquido livre no espaço hepatorrenal. Tomografia de abdome com contraste intravenoso: pequena quantidade de líquido livre em pelve e hipocôndrios, associada à laceração esplênica de 2 cm no polo inferior, sem sinais de extravasamento ativo de contraste, fístula artériovenosa ou pseudoaneurisma. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Arteriografia com embolização.",
@@ -22156,8 +22156,8 @@
     {
       "id": "pv-uni-2025-0130",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Sepse",
       "enunciado": "A sepse é uma disfunção orgânica com risco de morte, causada por uma resposta à infecção. O diagnóstico precoce e o atendimento sistematizado ao paciente séptico têm grande impacto no prognóstico. Qual é a conduta que comprovadamente aumenta a chance de sobrevida do paciente?",
       "alternativas": {
         "A": "Uso de corticosteroide e expansão de volume na presença de choque séptico",
@@ -22185,8 +22185,8 @@
     {
       "id": "pv-uni-2025-0155",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Doença Renal Crônica",
       "enunciado": "Mulher, 65 anos de idade, faz acompanhamento ambulatorial devido a hipertensão arterial sistêmica há 20 anos, diabetes mellitus tipo 2 há 15 anos, sem outros antecedentes patológicos. Faz uso de anlodipino 10 mg 1x/dia, losartana 50 mg 2x/dia, hidroclorotiazida 25mg 1x/dia, metformina 500 mg 3x/dia, ácido acetil salicílico 100 mg 1x/dia. Queixa-se de edema de membros inferiores iniciado há 3 meses. Exame físico: PA = 118/78 mmHg, edema de membros inferiores +/4, frio, mole, indolor, pulsos cheios e simétricos, panturrilhas livres, sem outras alterações. Exames: hemoglobina glicada = 7,8%, relação albumina/creatinina em amostra isolada de urina = 210 mg/g (VR < 30 mg/g). Considerando efeitos adversos de medicamentos, a renoproteção e a prevenção de eventos cardiovasculares, quais são as condutas mais adequadas?",
       "alternativas": {
         "A": "Substituir bloqueador do canal de cálcio; iniciar inibidor do cotransportador sódio-glicose 2 (iSGLT2); suspender uso de ácido acetilsalicílico.",
@@ -22246,7 +22246,7 @@
       "id": "pv-sír-2024-0001",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "HIV",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Sobre a vigilância epidemiológica, um dos eixos principais e estratégicos para eliminação ou redução das doenças de importância em Saúde Pública, é correto afirmar:",
       "alternativas": {
         "A": "Após quase 2 anos com baixo número de casos de dengue notificados, a partir de 2022 e nos primeiros meses de 2023, os serviços de saúde voltaram a enfrentar um aumento dos casos de dengue nas Américas.",
@@ -22269,8 +22269,8 @@
     {
       "id": "pv-sír-2024-0016",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Infectologia",
+      "sub_subarea": "",
       "enunciado": "Mulher, 52 anos, faz acompanhamento de saúde em serviço privado complementar. Faz uso de medicações para Hipertensão Arterial e Dislipidemia. Recentemente perdeu o emprego e está com dificuldade de pagar as medicações, além do plano de saúde, e gostaria de receber seus medicamentos pelo Sistema Único de Saúde (SUS). O principio que respalda e garante o direito dessa pessoa adquirir suas medicações pelo SUS é:",
       "alternativas": {
         "A": "Resolutividade.",
@@ -22294,7 +22294,7 @@
       "id": "pv-sír-2024-0068",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "Pancreatite",
+      "sub_subarea": "Hemorragia Digestiva (HD)",
       "enunciado": "Paciente masculino, 65 anos, com quadro de síndrome consumptiva há meses, refere perda de peso de 6 kg nos últimos 30 dias e piora da anorexia há 15 dias. Admitido no pronto- socorro por melena (Hb: 4,7g/dL), recebendo 4 concentrados de hemácias. No exame clínico apresentava-se descorado em REG, PA: 110 x 70 mmHg. FC: 90 bpm, abdome tenso, doloroso à palpação, com descompressão brusca positiva, toque retal sem sinais de sangramento. Laboratorial: Hb: 8,1 g/dL, leucograma: 15.660/mm³, PCR: 72, Cr: 1,03 mg/dL e lipase: 24 U/L. Foi submetido a uma tomografia, cujas imagens estão mostradas abaixo: Dentre os diagnósticos abaixo, o mais provável é:",
       "alternativas": {
         "A": "Neuroendócrino pancreático.",
@@ -22322,7 +22322,7 @@
       "id": "pv-sír-2024-0082",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "sub_subarea": "Doença Renal Crônica",
       "enunciado": "Homem, 62 anos, com hipertensão, diabetes e doença renal (clearance de creatinina: 18 mL/min), está em uso de hidroclorotiazida, atorvastatina e gliclazida. Retorna para consulta de seguimento em bom estado geral, corado, PA: 110 x 60 mmHg e restante do exame físico normal. Trouxe os seguintes exames laboratoriais: pH: 7,35, bicarbonato: 20 mEq/L, LDL: 68 mg/dL, HDL: 54 mg/dL, Hb: 11,5 g/dL, leucócitos: 4.200/mm³, plaquetas: 140.000/mm³, albuminúria: 400 mg/dL, hemoglobina glicada: 7,2%. Entre as opções abaixo, a conduta mais adequada neste momento para este paciente é:",
       "alternativas": {
         "A": "bicarbonato de sódio e empagliflozina.",
@@ -22345,7 +22345,7 @@
     {
       "id": "pv-sír-2024-0083",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
+      "subarea": "Nefrologia",
       "sub_subarea": "",
       "enunciado": "Mulher, 42 anos, com diagnóstico de lúpus há três anos e hepatite B há oito anos, em uso de hidroxicloroquina e entecavir, procura o pronto-socorro com urina espumosa. Exame físico: bom estado geral, PA: 130 x 80 mmHg, FC: 82 bpm, ausculta cardíaca e pulmonar normais, edema de membros inferiores 2+/4+. Exames laboratoriais: DNA, HBV negativo, creatinina de 1,3 mg/dL (creatinina de base 1,0 mg/dL), relação proteína/creatina: 4,1 g/dL, C3: 61 mg/dL, C4: 5 mg/dL, urina 1 sem hematúria. Neste momento, a melhor conduta farmacológica para esta paciente, entre as opções abaixo, é:",
       "alternativas": {
@@ -22371,8 +22371,8 @@
     {
       "id": "pv-sír-2024-0091",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Cirrose",
       "enunciado": "Homem, 58 anos de idade, com cirrose hepática por vírus C Child B7, procura prontosocorro por dor abdominal difusa e febre há 3 dias, associadas a alteração do ciclo sonovigília. Faz uso regular de espironolactona 200 mg/dia, furosemida 80 mg/dia e atenolol 25 mg/dia. Ao exame clínico, apresenta PA: 112 x 64 mmHg, FC: 64 bpm, FR: 22 irpm e saturação periférica de 96% em ar ambiente. Flapping presente. Ausculta cardiopulmonar sem alterações. Abdome doloroso à palpação difusa, macicez móvel presente, sem sinais de peritonite. Edema 1+/4+ em membros inferiores. Os exames laboratoriais evidenciam Hb: 11.6 g/dL, leucócitos: 14.500/mm³, plaquetas 98.000/mm³, Cr: 1,4 mg/dL, Ur: 52 mg/dL, BT: 3 mg/dL, BD: 2,1 mg/dL, INR: 1,2. Entre as opções abaixo, o melhor tratamento para este paciente é:",
       "alternativas": {
         "A": "ceftriaxona, albumina e manter atenolol.",
@@ -22395,8 +22395,8 @@
     {
       "id": "pv-sír-2024-0093",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "Intoxicação",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Hepatites Virais",
       "enunciado": "Homem, 45 anos de idade, é levado ao pronto-socorro por hiporexia, náuseas e desconforto abdominal em hipocôndrio direito há 1 semana, evoluindo com \"\"amarelidão\"\" e febre há 3 dias. Etilista importante desde os 20 anos com última intoxicação alcoólica há 15 dias. Nega comorbidades e uso de outras substâncias. Nega relações sexuais desprotegidas no último ano. Ao exame físico, os sinais vitais estão normais, apresenta icterícia em escleras e frênulo lingual. O abdome está globoso, RHA presentes, flácido, doloroso à palpação de hipocôndrio direito com fígado palpável 3 cm abaixo do rebordo costal direito, sem sinais de peritonite. O restante do exame físico está normal. Realizou teste rápido para hepatites virais, todos não reagentes. Uma vez que o quadro do paciente foi classificado como grave, entre as opções de tratamento abaixo, a melhor é:",
       "alternativas": {
         "A": "Pentoxifilina.",

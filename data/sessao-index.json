@@ -7238,8 +7238,8 @@
   "pv-hcp-2025-0172": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Hepatologia",
+    "subsub": "Introdução à Hepatologia",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -7248,7 +7248,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Anemias",
+    "subsub": "Introdução ao Estudo das Anemias",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -7256,8 +7256,8 @@
   "pv-hcp-2025-0181": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Reumatologia",
+    "subsub": "Artropatias inflamatórias",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -7265,8 +7265,8 @@
   "pv-hcp-2025-0191": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -7275,7 +7275,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "DAC",
+    "subsub": "Choque",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -7283,8 +7283,8 @@
   "pv-fam-2025-0117": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -7293,7 +7293,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Asma/DPOC",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -7301,8 +7301,8 @@
   "pv-sp-2024-0009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -7310,8 +7310,8 @@
   "pv-sp-2024-0110": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -7319,8 +7319,8 @@
   "pv-sp-2025-0188": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -7328,8 +7328,8 @@
   "pv-sp-2025-0194": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -7338,7 +7338,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Tireoide",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
