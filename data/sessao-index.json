@@ -6914,8 +6914,8 @@
   "pv-mg-2024-0022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -6924,7 +6924,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "DAC",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -6932,8 +6932,8 @@
   "pv-mg-2024-0036": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Infectologia",
+    "subsub": "Arboviroses",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -6942,7 +6942,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "subsub": "Obesidade e síndrome metabólica",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -6951,7 +6951,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Dengue",
+    "subsub": "Outras doenças infecciosas",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -6959,8 +6959,8 @@
   "pv-mg-2025-0103": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "sub": "Infectologia",
+    "subsub": "Arboviroses",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -6969,7 +6969,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Cefaleia",
+    "subsub": "Cefaleias",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -6977,8 +6977,8 @@
   "pv-mg-2025-0112": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Hepatologia",
+    "subsub": "Cirrose",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -6987,7 +6987,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Tuberculose",
+    "subsub": "Derrame Pleural",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -6995,8 +6995,8 @@
   "pv-mg-2025-0136": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "Hepatopatias",
+    "sub": "Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"

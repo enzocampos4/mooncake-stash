@@ -21134,7 +21134,7 @@
       "id": "pv-amr-2024-0017",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Hanseníase",
+      "sub_subarea": "",
       "enunciado": "Assinale a alternativa que apresenta casos que se enquadram em situação de notificação compulsória imediata no Brasil.",
       "alternativas": {
         "A": "Tuberculose e leishmaniose visceral.",
@@ -21162,8 +21162,8 @@
     {
       "id": "pv-amr-2025-0120",
       "area": "Clínica Médica",
-      "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "subarea": "Neurologia",
+      "sub_subarea": "Coma e Alterações da Consciência",
       "enunciado": "Mulher, 78 anos, estava em tratamento para hipertensão arterial, diabetes tipo 2, dislipidemia e incontinência urinária. Realizou cirurgia de revascularização miocárdica. No terceiro dia de pós-operatório, a paciente achava que estava em sua casa, referindo aguardar seu marido chegar do trabalho, não demonstrando ter ciência de que ele já era falecido. Em alguns momentos, parecia mais calma e lúcida, mas alternava esse comportamento com outros de desorganização e discurso incoerente. Durante o dia, tendia a ficar mais sonolenta. Na avaliação, a paciente não colaborava com o exame físico. Mostrava-se perplexa, assustando- se com sons do ambiente, via cachorros caminhando no quarto. Distraía-se com facilidade, não focando sua atenção nas perguntas feitas pelo médico. Durante a noite, ficou agitada, desorganizada, agressiva com a equipe, com tentativas de arrancar os cateteres. Paciente foi diagnosticada com delirium. Em relação ao quadro diagnóstico apresentado, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "O processo de identificação e tratamento de possíveis causas clínicas associadas deve ser rápido.",
@@ -21186,7 +21186,7 @@
       "id": "pv-amr-2025-0188",
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "HIV",
+      "sub_subarea": "",
       "enunciado": "Assinale a alternativa que apresenta doenças ou agravos que se enquadram como situação de notificação compulsória imediata (até 24 horas) no Brasil.",
       "alternativas": {
         "A": "Tuberculose e intoxicação exógena.",
@@ -21214,8 +21214,8 @@
     {
       "id": "pv-ufr-2024-0110",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
-      "sub_subarea": "RCP",
+      "subarea": "Nefrologia",
+      "sub_subarea": "Controle da água corporal total",
       "enunciado": "Analise as afirmativas a seguir sobre os componentes da estratégia perioperatória de reanimação hemostática ou de controle de danos no choque hemorrágico traumático: I - Minimiza-se o uso de cristaloides venosos e se adota hipotensão permissiva até o controle definitivo do sangramento. II - Inicialmente, é apropriado o uso venoso de solução salina hipertônica. III - Guia-se a transfusão de componentes sanguíneos pelos resultados dos exames laboratoriais. Pode-se afirmar que está(ão) correta(s) a(s) afirmativa(s):",
       "alternativas": {
         "A": "II",
@@ -21247,7 +21247,7 @@
       "id": "pv-ufr-2024-0118",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "sub_subarea": "Hemostasia",
       "enunciado": "Mulher, 48 anos, sem comorbidades, é admitida no setor de emergência com edema de membro inferior esquerdo desde a raiz da coxa, de início súbito há 2 dias. Ecodoppler venoso de membros inferiores e veias ilíacas: trombose de veia ilíaca externa de aspecto recente. A conduta mais adequada para esta paciente é:",
       "alternativas": {
         "A": "anticoagulação plena após trombectomia venosa",
@@ -21276,7 +21276,7 @@
       "id": "pv-ufr-2024-0131",
       "area": "Clínica Médica",
       "subarea": "Reumatologia",
-      "sub_subarea": "Lúpus",
+      "sub_subarea": "Doenças autoimunes do tecido conjuntivo",
       "enunciado": "Mulher, 37 anos, afrodescendente, sem comorbidades, apresenta agudamente lesões cutâneas tipo eritema nodoso nos membros inferiores e dores articulares. Radiografia do tórax: adenopatia hilar bilateral. Evolui com lesões cutâneas na face sugestivas de lúpus pérnio. Pode-se afirmar que esse quadro agudo é mais sugestivo de:",
       "alternativas": {
         "A": "síndrome de Löfgren associada a sarcoidose",
@@ -21298,8 +21298,8 @@
     {
       "id": "pv-ufr-2025-0163",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hepatopatias",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Cirrose",
       "enunciado": "Mulher, 48 anos, com cirrose por vírus C da hepatite, é admitida com desorientação, tremor, sonolência e ascite volumosa. Realizado paracentese com retirada de 8 litros. Após 2 dias, apresentou quadro de oligúria associada a elevação dos níveis séricos de ureia e creatinina. A conduta inicial mais adequada é:",
       "alternativas": {
         "A": "iniciar terapia dialítica de substituição renal",
@@ -21321,8 +21321,8 @@
     {
       "id": "pv-ufr-2025-0171",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Neurologia",
+      "sub_subarea": "Acidentes Vasculares Cerebrais (AVC)",
       "enunciado": "Mulher, 55 anos, com HAS e diabetes Mellitus (DM) mal controlados, apresentou quadro súbito de hemiparesia direita. A principal hipótese diagnóstica e a descrição da TC do crânio mais provável é:",
       "alternativas": {
         "A": "AVE isquêmico / hipodensidade corticossubcortical na região nucleocapsular esquerda",
@@ -21350,8 +21350,8 @@
     {
       "id": "pv-uer-2024-0001",
       "area": "Clínica Médica",
-      "subarea": "Neurologia",
-      "sub_subarea": "AVC",
+      "subarea": "Cardiologia",
+      "sub_subarea": "Hipertensão Arterial Sistêmica (HAS)",
       "enunciado": "O uso excessivo de medicamentos constitui risco à saúde de pessoas mais idosas com comorbidades crescentes, sendo provavelmente mais ameaçador do que as doenças para as quais os fármacos são prescritos. Sobre a abordagem da polifarmácia, é correto afirmar que:",
       "alternativas": {
         "A": "os fármacos para problemas cardiovasculares fazem parte da lista de drogas que podem aumentar o risco de reações adversas aos medicamentos em idosos.",
@@ -21374,7 +21374,7 @@
       "id": "pv-uer-2024-0005",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Homem de 55 anos, casado, ex-tabagista, procura o serviço de saúde pela primeira vez para fazer um check-up. Comenta estar muito ansioso desde que soube que seu vizinho sofreu um infarto agudo do miocárdio. Refere história familiar de diabetes, hipertensão arterial e gota. Nega sintomas de prostatismo ou de outra enfermidade. O exame físico é normal, com exceção do IMC = 33. Quanto à prevenção de doenças, as medidas recomendadas como condutas necessárias para rastreamento nesse caso, embasadas no impacto de morbimortalidade, são:",
       "alternativas": {
         "A": "colesterol total e frações, glicemia de jejum e teste ergométrico.",
@@ -21396,8 +21396,8 @@
     {
       "id": "pv-uer-2024-0013",
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "subarea": "Infectologia",
+      "sub_subarea": "Tuberculose (TB)",
       "enunciado": "Paciente de 79 anos, tabagista de 80 maços-ano, com tosse produtiva há três meses, sudorese à noite, sibilos e emagrecimento, refere cansaço e falta e ar. Nega episódios anteriores dos sintomas nos últimos três anos. Diante desse quadro, o diagnóstico mais provável é de:",
       "alternativas": {
         "A": "pneumonia bacteriana",
@@ -21425,8 +21425,8 @@
     {
       "id": "pv-uer-2024-0017",
       "area": "Clínica Médica",
-      "subarea": "Infectologia",
-      "sub_subarea": "HIV",
+      "subarea": "Neurologia",
+      "sub_subarea": "Demências",
       "enunciado": "Mulher de 78 anos comparece à consulta na UBS com sua filha de 45 anos, que está muito apreensiva, pois sua mãe está “muito esquecida”, não reconhece algumas pessoas e repete as mesmas coisas várias vezes. A médica da equipe aplicou o miniexame do estado mental (MEEM) e o resultado foi abaixo do esperado para o nível de escolaridade da paciente. A partir desse resultado, os exames complementares fundamentais na investigação são:",
       "alternativas": {
         "A": "sorologia para hepatite B e C, anti-HIV e vitamina B6",
