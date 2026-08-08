@@ -20477,8 +20477,8 @@
     {
       "id": "pv-ena-2025-0118",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "Glomerulopatias",
+      "subarea": "Infectologia",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Um paciente de 22 anos apresentou quadro clínico com início abrupto de febre, cefaleia, mialgia, anorexia, náuseas e vômitos. Foi avaliado na UPA e liberado com prescrição de sintomáticos. Vinte e quatro horas depois, apresentou diarreia, artralgia, dor ocular, fotofobia e hemorragia conjuntival, além de tosse. Foi internado, recebendo hidratação venosa e sintomáticos venosos. Foram solicitados exames complementares, com os seguintes resultados: leucocitose, neutrofilia e desvio à esquerda, plaquetopenia, aumento de ureia e creatinina, CPK elevada, baixa densidade urinária, proteinúria, hematúria microscópica e leucocitúria. Foi então iniciada antibioticoterapia com sulfametoxazol + trimetoprima. Logo a seguir, o paciente apresentou exantema, eritema macular, papular purpúrico, distribuídos no tronco ou na região pré-tibial. USG exibiu hepatomegalia, esplenomegalia e linfadenopatia. Na ocasião, reclamou de intensa mialgia, principalmente em região lombar e nas panturrilhas. Apesar do uso de antibiótico, não apresentou melhora, com evolução para tríade insuficiência renal, icterícia rubínica e hemorragia pulmonar discreta (síndrome de Weil). Foi intubado e no CTI iniciou penicilina G cristalina em dose plena e cuidados intensivos. Após 10 dias, apresentou melhora clínica, sendo transferido para enfermaria até concluir seu tratamento. A doença descrita acima é:",
       "alternativas": {
         "A": "febre maculosa;",
@@ -20502,7 +20502,7 @@
       "id": "pv-ena-2025-0181",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "sub_subarea": "Asma",
       "enunciado": "Alice, 30 anos, chega à unidade básica de saúde com tosse seca, chiado no peito e dispneia aos grandes esforços, com piora à noite. Não tem história de febre, não apresenta perda de peso e a mucosa nasal está sem alterações. Piora com a fumaça de cigarro do marido. Ao exame pulmonar, apresenta tosse, murmúrio vesicular e sibilos difusos, especialmente na expiração forçada. Não apresenta outras alterações. Pesa 60 kg, tem 1,60 m de altura, seu IMC é 21,5 kg/m², a FC está em 77 bpm e a FR, em 15 irpm. O exame cardiovascular indica ritmo regular em 2 tempos, sem sopro e sem alteração de ictus. O abdômen está normotenso, depressível, sem organomegalias ou ruídos hidroaéreos presentes. O diagnóstico provável é:",
       "alternativas": {
         "A": "asma;",
@@ -20567,8 +20567,8 @@
     {
       "id": "pv-pe-2024-0018",
       "area": "Clínica Médica",
-      "subarea": "Neurologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Animais peçonhentos",
       "enunciado": "Paciente do sexo masculino, 25 anos de idade, residente na Ilha-do-Marajó no Estado do Pará, foi picado por uma cobra na face lateral da perna esquerda, quando caminhava em área de campo aberto. Inicialmente não apresentou nenhuma sintomatologia; relatava apenas parestesia no local da picada, sem edema, eritema ou dor. Procurou atendimento médico após 12 horas do acidente no Hospital do Município e apresentava ptose bipalpebral e mandibular, oftalmoplegia, mialgias, oligúria e urina escura. De acordo com o caso clínico apresentado, é CORRETO afirmar que:",
       "alternativas": {
         "A": "a serpente do acidente em questão tem como principal representante no Brasil a cobra coral verdadeira (Micrurus lemniscatus).",
@@ -20591,8 +20591,8 @@
     {
       "id": "pv-pe-2024-0022",
       "area": "Clínica Médica",
-      "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "subarea": "Infectologia",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "O diagnóstico diferencial das infecções congênitas é difícil quando não temos quadros clínicos característicos, dependendo de exames laboratoriais de difícil interpretação. No entanto, em algumas situações, achados clínicos mais específicos podem sugerir a etiologia. Assinale a alternativa que poderia sugerir o citomegalovírus como agente etilógico.",
       "alternativas": {
         "A": "Restrição de crescimento intraútero, ascite/hidropisia, hepatoesplenomegalia, icterícia, petéquia, hepatite, trombocitopenia, anemia, microcefalia, convulsões, coriorretinite e perda de audição sensorial.",
@@ -20625,7 +20625,7 @@
       "id": "pv-pe-2024-0082",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "",
+      "sub_subarea": "Metabolismo Ósseo e Mineral",
       "enunciado": "Um paciente de 40 anos foi internado com poliúria e desidratação, quando se detectou hipercalcemia (cálcio sérico 13,5 mg/dl). O paciente negava qualquer comorbidade ou sintomatologia prévia. A investigação laboratorial mostrou PTH no limite inferior da normalidade, hemograma normal, 25 hidroxi vitamina D acima de 150 ng/ml com níveis normais de 1,25 di-hidroxi vitamina D. Qual a causa mais provável da hipercalcemia neste caso?",
       "alternativas": {
         "A": "Linfoma",
@@ -20654,7 +20654,7 @@
     {
       "id": "pv-pe-2024-0084",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Infectologia",
       "sub_subarea": "Sepse",
       "enunciado": "Um paciente de 80 anos foi trazido para a emergência com fratura de colo de fêmur após queda do próprio leito. Relata como comorbidades diabetes, hipertensão e doença coronariana. Foi submetido à artroplastia do quadril, mas evoluiu com lesão renal aguda que requereu terapia dialítica, vindo a falecer por infecção de corrente sanguínea por Staphylococcus aureus, provavelmente por contaminação do cateter de duplo lúmen. Você é o plantonista do turno e foi solicitado a preencher o atestado de óbito. Que diagnóstico você colocaria na linha superior do atestado de óbito?",
       "alternativas": {
@@ -20685,7 +20685,7 @@
       "id": "pv-pe-2024-0098",
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
-      "sub_subarea": "Glomerulopatias",
+      "sub_subarea": "Lesão renal aguda (LRA)",
       "enunciado": "Um adolescente de 14 anos foi admitido ao hospital, com queixas de edema generalizado e cefaleia há uma semana. Ele referia um episódio de impetigo cerca de um mês atrás, que foi tratado com cefalexina. A admissão, a PA era 200 x 140 mmHg. Qual dos achados laboratoriais abaixo seria mais provavelmente encontrado neste caso?",
       "alternativas": {
         "A": "Proteinúria de 10 g/24 horas",
@@ -20708,8 +20708,8 @@
     {
       "id": "pv-pe-2024-0099",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Tumores Hepáticos",
       "enunciado": "Uma paciente de 65 anos, sabidamente portadora de esteatose hepática há muitos anos, mas sempre com enzimas hepáticas e elastografia dentro da normalidade, procurou o médico com queixas de desconforto abdominal. Usava metformina para tratamento de Diabetes e reposição hormonal para tratamento de síndrome climatérica. USG mostrou uma lesão nodular em lobo direito do fígado, e a tomografia contrastada relatou uma lesão de 7,2 cm de diâmetro no lobo direito, com realce na fase arterial e clareamento na fase portal com formação de pseudocápsula. Não havia esplenomegalia nem sinais de hipertensão portal. Sabendo que o valor da alfafetoproteína era 28 ng/ml (VN até 8,0 ng/ml), assinale a alternativa CORRETA com relação ao diagnóstico da lesão.",
       "alternativas": {
         "A": "Trata-se de carcinoma hepatocelular, pois apresenta níveis elevados de alfa fetoproteína.",
@@ -20739,7 +20739,7 @@
       "id": "pv-pe-2025-0111",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Insuficiência Cardíaca",
       "enunciado": "Uma mulher de 55 anos, obesa e com histórico de diabetes tipo 2 e hipertensão apresenta cansaço progressivo, dispneia aos esforços e edema nos membros inferiores. Ela está em uso de losartana e furosemida, mas os sintomas permanecem estáveis, e sua pressão arterial está dentro do limite normal. Exames complementares: Ecocardiograma: fração de ejeção de 38%, aumento do volume do ventrículo esquerdo. BNP: 620 pg/mL (referência: <100 pg/mL em indivíduos saudáveis). Hemoglobina glicada (HbA1c): 7,7% Qual é a intervenção terapêutica mais indicada?",
       "alternativas": {
         "A": "Iniciar inibidor de SGLT-2 para melhora do controle glicêmico e benefício na insuficiência cardíaca.",
@@ -20763,7 +20763,7 @@
       "id": "pv-pe-2025-0117",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "Cefaleia",
+      "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
       "enunciado": "Um homem de 28 anos, previamente saudável e sem comorbidades, apresenta febre súbita (39°C), cefaleia intensa e difusa, fotofobia e náuseas há três dias. Relata que os sintomas começaram após uma viagem de trabalho com exposição a mudanças climáticas e locais fechados com ar-condicionado. Nega infecções respiratórias, sintomas urinários ou contato com doentes. Nega histórico de enxaqueca, trauma craniano ou doenças neurológicas na família. No exame físico, o paciente está alerta e orientado, com sinais vitais normais, exceto por leve taquicardia (FC 102 bpm). Apresenta rigidez de nuca, mas sem sinais neurológicos focais, alteração de consciência, rash ou manifestações cutâneas. Reflexos e demais exames neurológicos estão normais. Não apresenta histórico de imunossupressão ou uso de drogas ilícitas. Exames complementares: Hemograma: leucócitos de 8.000/mm³, com predomínio de linfócitos (linfocitose). Punção lombar (Líquor): aspecto límpido, proteínas de 45 mg/dL (referência: <45 mg/dL), glicose de 65 mg/dL (normoglicorraquia), predomínio de linfócitos (350 células/mm³), ausência de organismos ao Gram. Ressonância magnética de crânio (RM): sem alterações significativas ou sinais de lesões estruturais. Dado o quadro clínico e os exames complementares, qual é o manejo mais apropriado para esse paciente?",
       "alternativas": {
         "A": "Iniciar corticoterapia para controle de inflamação meníngea.",
@@ -20795,7 +20795,7 @@
       "id": "pv-pe-2025-0120",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "Asma/DPOC",
+      "sub_subarea": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
       "enunciado": "Um homem de 68 anos, com histórico de DPOC classificada como GOLD 3 e carga tabágica de 40 maços-ano, busca atendimento médico devido ao aumento de sua dispneia nos últimos três dias. Ele relata tosse produtiva com expectoração amarelada e febre baixa (37,8°C), além de fadiga. O paciente informa uso regular de broncodilatadores de longa duração, porém os sintomas não melhoraram com a utilização de broncodilatadores de curta duração. Exames complementares: Gases Arteriais: pH 7,35; PaCO2 48 mmHg (normal, referência: 35– 45 mmHg); PaO2 58 mmHg (referência: 75–100 mmHg). Hemograma: 12.000/mm³ (referência:4.000–10.000/mm³), radiografia de tórax: hiperinsuflação pulmonar, sem consolidações ou sinais de pneumonia. Dado o quadro clínico e os achados laboratoriais, qual é o manejo inicial mais apropriado para esse paciente?",
       "alternativas": {
         "A": "Manter apenas oxigenoterapia e liberar o paciente para o domicílio.",

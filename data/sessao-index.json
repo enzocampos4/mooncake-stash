@@ -6699,7 +6699,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -6708,7 +6708,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -6716,8 +6716,8 @@
   "pv-df-2025-0178": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonia",
+    "sub": "Infectologia",
+    "subsub": "Tuberculose (TB)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -6726,7 +6726,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -6735,7 +6735,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Outras doenças infecciosas",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -6744,7 +6744,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "DRC",
+    "subsub": "Doença Renal Crônica",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -6752,8 +6752,8 @@
   "pv-uer-2024-0040": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Nefrologia",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -6761,8 +6761,8 @@
   "pv-sír-2024-0081": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Insuf Cardiaca",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -6771,7 +6771,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Anemias",
+    "subsub": "Anemias hemolíticas",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -6780,7 +6780,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "DRC",
+    "subsub": "Doença Renal Crônica",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -6788,8 +6788,8 @@
   "pv--2024-0090": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "RCP",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "",
     "ano": 2024,
     "fonte": " 2024"
@@ -6797,8 +6797,8 @@
   "pv-ena-2025-0106": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
+    "sub": "Nefrologia",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
