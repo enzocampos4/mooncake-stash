@@ -19846,7 +19846,7 @@
       "id": "pv-uni-2024-0045",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "TEP",
+      "sub_subarea": "Tromboembolismo Pulmonar (TEP)",
       "enunciado": "Puérpera no 2° dia pós-parto vaginal, apresenta dificuldade de deambular por intensa tontura associada a palpitação e falta de ar. No prontuário, há relato de retenção placentária, com necessidade de extração manual da placenta. Exame físico geral: REG, descorada 3+/4+, hidratada, taquipneica, pulso de 120 bpm, PA 95x70 mmHg. Abdome: útero contraído 2cm abaixo da cicatriz umbilical, indolor. OGE: presença de edema importante dos grandes lábios, sutura perineal de bom aspecto. Loquiação fisiológica. Extremidades: edema 2+/4+ membros inferiores. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Tromboembolismo pulmonar.",
@@ -19868,7 +19868,7 @@
     {
       "id": "pv-uni-2025-0132",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Cardiologia",
       "sub_subarea": "Choque",
       "enunciado": "Mulher, 70 anos de idade, com histórico de insuficiência cardíaca, foi admitida na UTI com choque cardiogênico após um infarto agudo do miocárdio. Exame físico: PA = 95/60 mmHg, FC = 110 bpm, FR = 25 irpm, SpO₂ = 90% com máscara de oxigênio; extremidades frias, pele úmida e distensão jugular. Qual é a escolha mais adequada de agente inotrópico para esta paciente?",
       "alternativas": {
@@ -19892,7 +19892,7 @@
       "id": "pv-sp-2025-0113",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Insuf Cardiaca",
+      "sub_subarea": "Hipertensão Arterial Sistêmica (HAS)",
       "enunciado": "Uma mulher de 63 anos de idade, obesa, hipertensa, diabética e dislipidêmica, em uso irregular de anlodipino, metformina e sinvastatina, compareceu ao pronto‑socorro com relato de tosse, febre aferida de 38,2 ºC, coriza, mialgia e espirros há três dias, porém, nos últimos dois dias também percebeu edema de membros inferiores e dispneia importante que a fizeram procurar o pronto‑socorro. Ela relatou que realizou um teste recente na farmácia, influenza A positivo. Na admissão, apresentou: temperatura de 37,7 ºC; glasgow 15; PA 180 x 110; FC 118 irpm; e FR 26 irpm. A paciente segurava‑se à grade do leito devido à ortopneia, havia presença de estase jugular, pulso com ritmo irregular e ausculta com estertores de base até terço ápice bilateralmente. O eletrocardiograma da paciente apresentou: ausência de onda P; RR irregular; QRS estreito; e FC 118 bpm. Após a execução das ações iniciais, a paciente evoluiu em melhora clínica e realizou‑se um ecocardiograma que apresentou os seguintes achados mais relevantes: coração em ritmo irregular; fração de ejeção 56%; aumento moderado de átrio esquerdo; e aumento moderado na pressão de artéria pulmonar, com e/e’ > 9. Com base nessa situação hipotética, e nas informações apresentadas acima, assinale a alternativa correta.",
       "alternativas": {
         "A": "Achados ecocardiográficos ajudam a corroborar a hipótese de insuficiência cardíaca.",
@@ -19916,7 +19916,7 @@
       "id": "pv-sp-2025-0117",
       "area": "Clínica Médica",
       "subarea": "Neurologia",
-      "sub_subarea": "AVC",
+      "sub_subarea": "Acidentes Vasculares Cerebrais (AVC)",
       "enunciado": "Uma mulher de 54 anos de idade, diabética, hipertensa e dislipidêmica, em uso irregular de medicações, compareceu ao pronto‑socorro com cefaleia intensa, vômitos, náusea, turvação visual e escotomas. O acompanhante relatou que o quadro evoluiu paulatinamente durante os últimos dias, com piora importante no dia atual. Na admissão, foram notados os seguintes sinais vitais: FC 117 bpm; PA 210 x 145 mmHg; FR 21 irpm; e dextro 120. Ainda com base na situação hipotética apresentada, e na imagem da ressonância magnética de crânio acima, assinale a alternativa correta.",
       "alternativas": {
         "A": "A principal hipótese diagnóstica é um AVCI com lesão sequelar em região occipital.",
@@ -19946,7 +19946,7 @@
       "id": "pv-sp-2025-0118",
       "area": "Clínica Médica",
       "subarea": "Hematologia",
-      "sub_subarea": "Coagulação",
+      "sub_subarea": "Hemostasia",
       "enunciado": "Uma mulher de 27 anos de idade, doente renal crônica dialítica devido à nefrite lúpica, com perdas de duas gestações prévias e AVC isquêmico há um ano, compareceu ao hospital com edema assimétrico de membro inferior esquerdo, realizou usg Doppler, confirmando diagnóstico de tvp. A paciente apresentou os seguintes valores para os sinais vitais: PA 145 x 95; FC 89 bpm; sat. 99% em ar ambiente; FR 15 irpm; e livedo reticular notado em membros inferiores. Estava consciente e orientada, e com extremidades quentes. Ainda em ambiente de observação no pronto‑socorro, a paciente relatou que possuía condições financeiras para a compra de medicamentos e desejava tratar‑se em casa. Considerando a situação hipotética apresentada, assinale a alternativa correta.",
       "alternativas": {
         "A": "A paciente pode ter alta com apixabana via oral, devido ao fato de este ser o anticoagulante oral direto com menor metabolização renal.",
@@ -19976,7 +19976,7 @@
       "id": "pv-sír-2024-0097",
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "TEP",
+      "sub_subarea": "Tromboembolismo Pulmonar (TEP)",
       "enunciado": "Homem, 67 anos de idade, é levado ao pronto-socorro por dispneia súbita há 4 horas, evoluindo com evidente desconforto respiratório. Está em acompanhamento por adenocarcinoma de reto em programação de quimioterapia. Tem antecedente de HAS e DM tipo 2. Ao exame físico, apresenta: PA: 83 x 60 mmHg, FC: 130 bpm, FR: 32 irpm e saturação periférica de oxigênio 90% em ar ambiente. O exame cardiopulmonar está normal. A ultrassonografia point-of-care cardíaca evidencia sobrecarga de ventrículo direito e relação VD/VE 1.2. Entre as opções abaixo, a melhor conduta para este paciente é:",
       "alternativas": {
         "A": "trombólise com alteplase.",
@@ -20003,8 +20003,8 @@
     {
       "id": "pv-hia-2025-0079",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Cirrose",
       "enunciado": "Um homem de 58 anos procura o ambulatório clínico com queixa de aumento progressivo do volume abdominal nas últimas quatro semanas. Ele relata distensão abdominal sem dor ou desconforto respiratório. Tem antecedente de consumo de 0,5 L de destilado diariamente nos últimos 35 anos. Procurou Unidade de Pronto Atendimento há duas semanas com a mesma queixa, tendo recebido prescrição de furosemida 40 mg/dia após realização de ultrassonografia, com pouca melhora. Ao exame físico, apresenta FC 82 bpm, FR 16 irpm, PA 112 x 70 mmHg, T 36,5 oC. Ictérico ++/4; abdome globoso, com sinal do Piparote positivo, macicez móvel e circulação colateral abdominal. Exames laboratoriais mostram bilirrubina total de 3,8 mg/dL (VR: 0,1-1,2 mg/dL), albumina de 2,5 g/dL (VR: 3,5-5,0 g/dL) e TP-INR de 1,8 (VR: 0,8-1,2). A ultrassonografia abdominal realizada na UPA mostra fígado reduzido de tamanho, com bordas irregulares e sinais de hipertensão portal, além de ascite descrita como moderada. Qual é o próximo passo mais adequado na condução do caso?",
       "alternativas": {
         "A": "Aumentar a dose de furosemida para 80 mg/dia.",
@@ -20066,7 +20066,7 @@
     {
       "id": "pv-df-2025-0119",
       "area": "Clínica Médica",
-      "subarea": "Emergências / UTI",
+      "subarea": "Neurologia",
       "sub_subarea": "",
       "enunciado": "Uma paciente de 50 anos de idade, com histórico de hipertensão arterial e obesidade, deu entrada no pronto-socorro queixando-se de cefaleia severa, náuseas e vômitos há 24 horas. Ao exame físico, apresentou PA = 200 mmHg X 120 mmHg, FC = 92 bpm, FR = 18 irpm e SatO2 = 97%. O fundo de olho revelou hemorragias em chama de vela e edema de papila. O resultado do exame laboratorial mostrou creatinina = 2,8 mg/dL. Quanto a esse caso clínico, é correto afirmar que a hipótese diagnóstica mais provável e o tratamento de escolha são, respectivamente,",
       "alternativas": {
@@ -20090,7 +20090,7 @@
       "id": "pv-df-2025-0120",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "sub_subarea": "",
       "enunciado": "Um paciente de 65 anos de idade com histórico de diabetes mellitus tipo 2 e tabagismo foi levado ao pronto-socorro com queixa de dor torácica intensa, súbita, em região retroesternal, acompanhada de sudorese profusa e dispneia. Ao exame físico, apresenta PA = 90 mmHg X 60 mmHg, FC = 120 bpm, FR = 24 irpm e SatO2 = 91%. Realizou eletrocardiograma (ECG), que revelou supradesnível do segmento ST em derivações DII, DIII e aVF. A troponina está elevada. Nesse caso clínico, é correto afirmar que a hipótese diagnóstica mais provável e o tratamento de escolha são, respectivamente,",
       "alternativas": {
         "A": "infarto agudo de parede inferior; administrar nitratos sublinguais como primeira linha.",
@@ -20113,7 +20113,7 @@
       "id": "pv-df-2025-0123",
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
-      "sub_subarea": "Pancreatite",
+      "sub_subarea": "Pâncreas",
       "enunciado": "Um paciente de 45 anos de idade, hipertenso e diabético, deu entrada no pronto-socorro com dor epigástrica intensa há duas horas, irradiando para o dorso, associada a náuseas e vômitos. Ao exame físico, apresentou PA = 100 mmHg X 70 mmHg, FC = 112 bpm, FR = 22 irpm e SatO2= 95%. O abdome estava distendido, com dor à palpação no epigástrio, sem sinais de defesa. O exame laboratorial revelou amilase sérica = 520 U/L (VR = 30-110 U/L). Nesse caso, o diagnóstico mais provável e a conduta inicial são, respectivamente,",
       "alternativas": {
         "A": "úlcera gástrica perfurada; realizar radiografia de tórax.",
@@ -20141,8 +20141,8 @@
     {
       "id": "pv-df-2025-0126",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "DAC",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Tromboembolismo Pulmonar (TEP)",
       "enunciado": "Uma paciente de 30 anos de idade, com história de lúpus eritematoso sistêmico (LES), compareceu à consulta queixando febre, dor torácica pleurítica e dispneia há dois dias. Ao exame físico, apresentou PA = 110 mmHg X 70 mmHg, FC = 105 bpm, FR = 24 irpm, SatO2 = 93% em ar ambiente, ausculta pulmonar com atrito pleural à esquerda, gasometria arterial = pH 7,44, PaCO2 = 33 mmHg, PaO2= 68 mmHg e D-dímero elevado. Nesse caso, o próximo passo diagnóstico mais indicado é",
       "alternativas": {
         "A": "solicitar tomografia computadorizada de tórax com contraste.",
