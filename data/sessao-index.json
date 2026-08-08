@@ -7130,8 +7130,8 @@
   "pv-uer-2024-0088": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hematologia",
-    "subsub": "Anemias",
+    "sub": "Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -7140,7 +7140,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Coagulação",
+    "subsub": "Hemostasia",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7148,8 +7148,8 @@
   "pv-uer-2025-0118": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7157,8 +7157,8 @@
   "pv-uer-2025-0133": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Pneumologia",
-    "subsub": "Pneumonia",
+    "sub": "Infectologia",
+    "subsub": "Vacinas",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7167,7 +7167,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Insuf Cardiaca",
+    "subsub": "Insuficiência Cardíaca",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7175,8 +7175,8 @@
   "pv-uer-2025-0196": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Pneumologia",
+    "subsub": "Introdução à Pneumologia",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7184,8 +7184,8 @@
   "pv-uer-2025-0198": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -7193,8 +7193,8 @@
   "pv-hcp-2024-0012": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "DAC",
+    "sub": "Neurologia",
+    "subsub": "Demências",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -7203,7 +7203,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Hipertensão",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -7212,7 +7212,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Arritmias",
+    "subsub": "Valvopatias",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -7220,8 +7220,8 @@
   "pv-hcp-2025-0103": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Diabetes",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -7230,7 +7230,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "DRC",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
