@@ -17439,7 +17439,7 @@
     {
       "id": "pv-hcp-2024-0019",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Em uma população hipotética, o risco de câncer de bexiga entre tabagistas é 30/1.000 habitantes e entre pessoas que não fumam é 10/1.000 habitantes. Estima-se que 20% da população seja tabagista. Qual o risco de câncer de bexiga atribuível ao tabagismo nessa população?",
       "alternativas": {
@@ -17468,7 +17468,7 @@
     {
       "id": "pv-sp-2025-0203",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
+      "subarea": "Infectologia",
       "sub_subarea": "",
       "enunciado": "Mulher, 24 anos de idade, com queixa de prurido e dor vaginais e secreção abundante com aspecto grumoso branco- amarelado. Ao exame clínico, observa-se o conteúdo vaginal aumentado com aspecto em grumos aderente às paredes vaginais. O exame do material apresenta: pH de 4; bacterioscopia (Gram) com aumento excessivo de Lactobacillus sp.; raros leucócitos; restos celulares (lise das células epiteliais). Não são identificados hifas ou esporos. Qual é o tratamento vaginal mais adequado?",
       "alternativas": {
@@ -17491,7 +17491,7 @@
     {
       "id": "pv-df-2025-0169",
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
+      "subarea": "Cardiologia",
       "sub_subarea": "",
       "enunciado": "Assinale a alternativa que corresponde à doença crônica não transmissível (DCNT) de maior frequência no Brasil.",
       "alternativas": {
@@ -17514,8 +17514,8 @@
     {
       "id": "pv-ena-2025-0128",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Estômago",
       "enunciado": "Um paciente de 58 anos foi submetido a uma gastrectomia subtotal devido a um adenocarcinoma gástrico. Após a cirurgia, ele desenvolveu episódios frequentes de sudorese, palpitações, tonturas e diarreia após as refeições. Essa complicação pós-operatória está relacionada:",
       "alternativas": {
         "A": "ao desenvolvimento de diabetes mellitus tipo 2;",
@@ -17548,8 +17548,8 @@
     {
       "id": "pv-ena-2025-0138",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "Insuf Cardiaca",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "Um paciente de 81 anos, com diagnóstico de doença pulmonar obstrutiva crônica e insuficiência cardíaca congestiva, é internado para tratamento de pneumonia. Após alguns dias de tratamento com antibióticos e repouso no leito, ele começa a apresentar distensão abdominal significativa, dor leve e náuseas, mas sem vômitos. Não apresenta sinais clínicos de peritonite aos exames físico e laboratorial. Radiografias do abdômen mostram dilatação importante dos cólons, principalmente no ceco e cólon ascendente, porém sem evidência de obstrução mecânica. Diante desse quadro clínico, o diagnóstico mais provável e a melhor abordagem inicial para o manejo desse paciente são, respectivamente:",
       "alternativas": {
         "A": "síndrome de Ogilvie e tratamento com neostigmina;",
@@ -17581,8 +17581,8 @@
     {
       "id": "pv-pe-2025-0108",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "DRC",
+      "subarea": "Endocrinologia",
+      "sub_subarea": "Metabolismo Ósseo e Mineral",
       "enunciado": "Um homem de 45 anos chega ao hospital com náuseas, constipação e fraqueza muscular. Ele relata uso diário de altas doses de vitamina D e cálcio há vários meses. Exames laboratoriais mostram cálcio sérico de 12,5 mg/dL (referência: 8,5–10,5 mg/dL), PTH baixo de 10 pg/mL (referência: 15–65 pg/mL), 25-hidroxivitamina D elevada de 150 ng/mL (referência: 20–50 ng/mL) e creatinina normal. Qual é a conduta inicial mais apropriada para o manejo desse paciente?",
       "alternativas": {
         "A": "Prescrever bifosfonatos para reduzir o cálcio sérico.",
@@ -17615,8 +17615,8 @@
     {
       "id": "pv-pe-2025-0112",
       "area": "Clínica Médica",
-      "subarea": "Cardiologia",
-      "sub_subarea": "",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Tromboembolismo Pulmonar (TEP)",
       "enunciado": "Um homem de 48 anos, que recentemente voltou de um voo de 10 horas, apresenta dor torácica pleurítica e dispneia súbita. Ele não usou meia de compressão e permaneceu sentado por períodos prolongados. No exame físico, apresenta leve taquipneia e saturação de 93% em ar ambiente. Exames complementares mostram Dímero-D de 1500 ng/mL (referência: <500 ng/mL), Ultrassonografia Doppler de membros inferiores com trombose venosa na veia poplítea direita, e angiotomografia de tórax com defeito de enchimento em ramo segmentar da artéria pulmonar direita. Diante desse quadro, qual é a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Administrar profilaxia com antiagregante plaquetário e monitorar.",
@@ -17648,7 +17648,7 @@
       "id": "pv-mg-2024-0002",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Mulher de 32 anos, IMC 42Kg/m², apresentado como co-morbidades hipertensão arterial sistêmica, dislipidemia, esteatose hepática acentuada e diabetes mellitus tipo 2 de difícil controle. Está em uso de insulina há dois anos. Ela foi encaminhada para tratamento cirúrgico da obesidade e foi liberada pela equipe multidisciplinar. Em relação ao tratamento cirúrgico dessa paciente, assinale a alternativa ERRADA:",
       "alternativas": {
         "A": "A dosagem pré-operatória do peptídeo C é preditor da melhora do diabetes no pósoperatório.",
@@ -17713,8 +17713,8 @@
     {
       "id": "pv-hcp-2024-0032",
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "Dist Eletrolíticos",
+      "subarea": "Hepatologia",
+      "sub_subarea": "Cirrose",
       "enunciado": "Paciente de 62 anos, com cirrose por hepatite C e álcool, foi trazido à Emergência por confusão mental e aumento de volume abdominal. Ao exame físico, apresentava ascite, flapping e desorientação. Os exames complementares iniciais revelaram hemoglobina de 9,3 g/dl, leucócitos de 2.430/mm³, plaquetas de 56.000/mm³, creatinina de 2,3 mg/dl, sódio de 132 mEq/l, tempo de protrombina de 18,1 segundos e atividade de 52%, bilirrubina total de 2,8 mg/dl e direta de 1,9 mg/dl. Em relação ao caso clínico, assinale a assertiva correta.",
       "alternativas": {
         "A": "Está indicada paracentese diagnóstica para pesquisa de peritonite bacteriana espontânea, que constitui infecção do líquido de ascite devido à translocação bacteriana e pode ser um desencadeante de encefalopatia hepática.",
@@ -17737,7 +17737,7 @@
       "id": "pv-hcp-2024-0071",
       "area": "Clínica Médica",
       "subarea": "Endocrinologia",
-      "sub_subarea": "Diabetes",
+      "sub_subarea": "Obesidade e síndrome metabólica",
       "enunciado": "Paciente de 62 anos veio à consulta por apresentar episódios intermitentes de sangramento vaginal após a menopausa. A investigação diagnóstica identificou adenocarcinoma não endometrioide do endométrio. Com base na patogênese da neoplasia e no grupo histológico específico, é possível afirmar que",
       "alternativas": {
         "A": "há associação entre esse tipo de adenocarcinoma e obesidade e diabetes melito.",
@@ -17766,7 +17766,7 @@
       "id": "pv-hcp-2025-0165",
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
-      "sub_subarea": "Hipertensão",
+      "sub_subarea": "Fisiologia Cardíaca e Eletrocardiograma",
       "enunciado": "Paciente de 67 anos, com hipertensão arterial, diabetes melito e história de tabagismo, foi trazido à Emergência de um hospital terciário por dor torácica opressiva iniciada há aproximadamente 2 horas, que se irradiava para o braço esquerdo, associada a sudorese e náuseas. Informou que a dor surgira enquanto realizava uma caminhada leve. À admissão, apresentava pressão arterial de 140/90 mmHg, frequência cardíaca de 137 bpm e saturação de oxigênio de 96%. O exame físico não revelou anormalidades significativas. Exames laboratoriais iniciais indicaram níveis ligeiramente elevados de troponina T ultrassensível. O eletrocardiograma em repouso, feito no momento da chegada, está reproduzido abaixo. Considerando o caso clínico, assinale a alternativa que contempla o diagnóstico e o manejo adequado.",
       "alternativas": {
         "A": "Infarto agudo do miocárdico com supradesnivelamento do segmento ST de parede anterior – O paciente deve ser submetido ou à trombólise com alteplase ou à estratégia de estratificação invasiva imediata (< 2 horas).",
