@@ -7985,8 +7985,8 @@
   "s11-077": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -7994,8 +7994,8 @@
   "s11-085": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma abdominal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -8003,8 +8003,8 @@
   "s14-007": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Isquemia mesentérica",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -8012,8 +8012,8 @@
   "s14-009": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Torácica",
-    "subsub": "",
+    "sub": "Complicações Pós-Operatórias",
+    "subsub": "Complicações respiratórias",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -8022,7 +8022,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Proctologia",
-    "subsub": "",
+    "subsub": "Fístulas e abscessos anais",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -8030,8 +8030,8 @@
   "s14-064": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -8039,8 +8039,8 @@
   "s14-072": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -8048,8 +8048,8 @@
   "s14-091": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+    "subsub": "Nutrição enteral",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -8057,8 +8057,8 @@
   "s14-095": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Complicações Pós-Operatórias",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -8066,8 +8066,8 @@
   "s3-004": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Avaliação Pré-Operatória",
+    "subsub": "Jejum e medicação pré-op",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -8075,8 +8075,8 @@
   "s3-015": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "sub": "Trauma",
+    "subsub": "Trauma torácico",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -8084,8 +8084,8 @@
   "s3-021": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"

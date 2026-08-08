@@ -1099,9 +1099,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma cranioencefálico (TCE)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1121,7 +1121,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1143,7 +1143,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1165,7 +1165,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1189,9 +1189,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome Agudo",
+      "sub_subarea": "Hérnia incisional",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1211,7 +1211,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1233,9 +1233,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Complicações Pós-Operatórias",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Infecção de sítio cirúrgico",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1255,9 +1255,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Queimaduras e Trauma Elétrico",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Queimaduras químicas e elétricas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1277,9 +1277,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Apendicite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1299,9 +1299,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Coledocolitíase e colangite",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1321,7 +1321,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Cirurgia Bariátrica e Metabólica",
       "_area_slug": "cirurgia",
       "banca": "ESTRATÉGIA MED",
       "sub_subarea": ""
@@ -1345,9 +1345,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma abdominal",
       "banca": "ESTRATÉGIA MED"
     },
     {
