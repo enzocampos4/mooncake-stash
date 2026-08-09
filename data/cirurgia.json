@@ -6582,8 +6582,8 @@
     {
       "id": "pv-uni-2024-0099",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Princípios da Anestesiologia",
+      "sub_subarea": "Anestesia geral",
       "enunciado": "Mulher, 27 anos de idade, submeteu-se à colecistectomia por via laparoscópica, sob ventilação mecânica. Durante a manutenção da anestesia observa-se, na capnografia, queda progressiva do CO2 expirado sem deformação da curva. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Insuflação excessiva do pneumoperitônio.",
@@ -6605,8 +6605,8 @@
     {
       "id": "pv-uni-2025-0111",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Diverticulite aguda",
       "enunciado": "Homem, 70 anos de idade, com doença diverticular do cólon, apresenta-se estável hemodinamicamente, com dor abdominal intensa, febre e leucocitose. A tomografia computadorizada mostra um abscesso pericólico de 5 cm associado a diverticulite aguda. Qual é a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Antibióticos intravenosos e observação.",
@@ -6636,8 +6636,8 @@
     {
       "id": "pv-uni-2025-0116",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Urologia",
+      "sub_subarea": "Hiperplasia prostática benigna",
       "enunciado": "Homem, 74 anos de idade, apresenta dor abdominal supra-púbica de forte intensidade, com última micção há 16 horas e perda urinária em gotas, em pouco volume. Exame físico: REG, afebril, globo vesical palpável. Exames laboratoriais: C 1,3 mg/dL, U 60 mg/dL, hemograma sem alteração. Realizado sondagem vesical de alívio, com saída de 1.300 mL de urina concentrada, e alivio do desconforto. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Treinar cateterismo intermitente.",
@@ -6659,7 +6659,7 @@
     {
       "id": "pv-sp-2024-0050",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "A sequência de atendimento da parada cardiopulmonar em pediatria, recomendada pelas diretrizes de RCP AHA desde 2010 e reforçada em 2020, segue alguns passos: abertura da via aérea (A); boa respiração (B); e compressão torácica (C). Sendo assim, assinale a alternativa que apresenta a sequência correta.",
       "alternativas": {
@@ -6689,7 +6689,7 @@
     {
       "id": "pv-sír-2024-0070",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
       "sub_subarea": "",
       "enunciado": "Paciente de 56 anos, obeso mórbido, tabagista e etilista social, é investigado por queixa de dispepsia refratária associada a perda de peso de 100 para 95 kg não intencional. Refere náuseas, mas nega vômitos. Endoscopia revela lesão ulcerada de bordos elevados infiltrativa. Diante do diagnóstico mais provável, o procedimento mais adequado para esse paciente deve ser:",
       "alternativas": {
@@ -6716,8 +6716,8 @@
     {
       "id": "pv-sír-2024-0073",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "Paciente de 51 anos, sem comorbidades, é atendido no ambulatório por diagnóstico de adenocarcinoma de sigmoide sem invasão de estruturas adjacentes ou linfonodomegalia. Em estadiamento, identifica-se a alteração mostrada na imagem. O primeiro passo oncológico, dentre os abaixo, deve ser:",
       "alternativas": {
         "A": "Colectomia esquerda.",
@@ -6742,8 +6742,8 @@
     {
       "id": "pv-sír-2024-0092",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Homem, 58 anos de idade, com cirrose hepática por vírus C Child B7, procura prontosocorro por dor abdominal difusa e febre há 3 dias, associadas a alteração do ciclo sonovigília. Faz uso regular de espironolactona 200 mg/dia, furosemida 80 mg/dia e atenolol 25 mg/dia. Ao exame clínico, apresenta PA: 112 x 64 mmHg, FC: 64 bpm, FR: 22 irpm e saturação periférica de 96% em ar ambiente. Flapping presente. Ausculta cardiopulmonar sem alterações. Abdome doloroso à palpação difusa, macicez móvel presente, sem sinais de peritonite. Edema 1+/4+ em membros inferiores. Os exames laboratoriais evidenciam Hb: 11.6 g/dL, leucócitos: 14.500/mm³, plaquetas 98.000/mm³, Cr: 1,4 mg/dL, Ur: 52 mg/dL, BT: 3 mg/dL, BD: 2,1 mg/dL, INR: 1,2. Entre as opções abaixo, a melhor conduta para este paciente é:",
       "alternativas": {
         "A": "Paracentese diagnóstica com cultura e celularidade.",
@@ -6767,7 +6767,7 @@
       "id": "pv-sír-2024-0099",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Derrame pleural (cirúrgico)",
       "enunciado": "Homem, 24 anos de idade, procura pronto-socorro por febre aferida de 38 ºC, tosse com secreção purulenta e dispneia há 2 semanas. Buscou atendimento médico no início do quadro, sendo iniciada antibioticoterapia via oral para tratamento em domicílio. Evoluiu com melhora da tosse, porém persiste com febre diária e dispneia progressiva há 1 semana. Tem antecedente de asma com bom controle de sintomas com uso de formoterol-budesonida a cada 12 horas. Nega exacerbações no último ano. Ao exame físico, encontra-se com PA: 126 x 82 mmHg, FC: 118 bpm, FR: 26 irpm, saturação periférica de oxigênio 95% em ar ambiente e temperatura axilar 37,8 ºC. A ausculta pulmonar está abolida em até terço médio do hemitórax direito com sibilos discretos em hemitórax esquerdo. O restante do exame físico está normal. Entre as opções abaixo, a melhor conduta para este paciente é:",
       "alternativas": {
         "A": "Tomografia de tórax sem contraste.",
@@ -6792,8 +6792,8 @@
     {
       "id": "pv-sír-2025-0130",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma cranioencefálico (TCE)",
       "enunciado": "Um motociclista de 40 anos foi vitima de um atropelamento por um caminhão. Na avaliação inicial, ele está inconsciente, com respiração irregular, pupilas anisocóricas e Glasgow Come Scale de 6 pontos. A tomografia de crânio revela lesão com desvio da linha média. Dentre as alternativas, a conduta prioritária deve ser:",
       "alternativas": {
         "A": "Indução de coma com barbitúricos.",
@@ -6816,8 +6816,8 @@
     {
       "id": "pv-sír-2025-0132",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma abdominal",
       "enunciado": "Um homem de 50 anos foi atropelado por um carro e levado ao pronto-socorro com dor intensa no quadril direito. Ao exame fisico, nota-se rotação externa e encurtamento da perna direita. Radiografias mostram uma fratura da pelve com deslocamento do anel pélvico. Dentre as opções, a prioridade do tratamento para esse paciente é:",
       "alternativas": {
         "A": "Colocação de uma cinta pélvica.",
@@ -6843,8 +6843,8 @@
     {
       "id": "pv-sír-2025-0138",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Complicações Pós-Operatórias",
+      "sub_subarea": "",
       "enunciado": "Homem, 65 anos, foi submetido a uma colectomia total por câncer de cólon. No pós- operatório, desenvolveu vômitos frequentes e foi identificado com uma grande quantidade de secreção gástrica por sonda nasogástrica. Exames laboratoriais: O distúrbio ácido-básico presente neste paciente é:",
       "alternativas": {
         "A": "Acidose metabólica com ânion gap elevado.",
@@ -6869,7 +6869,7 @@
     {
       "id": "pv-hia-2024-0018",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "sub_subarea": "",
       "enunciado": "Mulher, 76 anos de idade, refere bola na vagina, aumento da frequência urinária (10 vezes/dia), 2 episódios de perda urinária diária e noctúria (levanta-se para urinar durante a madrugada 3 vezes) há 1 ano. É hipertensa controlada com anlodipina. Refere 5 partos vaginais e histerectomia aos 50 anos de idade. Nega atividade sexual. Ao exame físico observou-se o seguinte estadiamento POP-q: IIa IIIc Ip. A conduta mais adequada nesse caso, dentre as abaixo, é:",
       "alternativas": {

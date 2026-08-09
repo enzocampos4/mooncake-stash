@@ -9821,7 +9821,7 @@
   "pv-uer-2025-0138": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia Bariátrica e Metabólica",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
@@ -9830,8 +9830,8 @@
   "pv-hcp-2024-0054": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -9839,8 +9839,8 @@
   "pv-hcp-2025-0144": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Complicações Pós-Operatórias",
+    "subsub": "Infecção de sítio cirúrgico",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -9848,8 +9848,8 @@
   "pv-hcp-2025-0145": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Queimaduras e Trauma Elétrico",
+    "subsub": "Classificação das queimaduras",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -9857,8 +9857,8 @@
   "pv-fam-2025-0147": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Colelitíase e colecistite",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -9866,8 +9866,8 @@
   "pv-fam-2025-0150": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -9875,8 +9875,8 @@
   "pv-fam-2025-0155": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Colelitíase e colecistite",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -9884,8 +9884,8 @@
   "pv-fam-2025-0156": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Coledocolitíase e colangite",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -9893,8 +9893,8 @@
   "pv-sp-2025-0128": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -9902,8 +9902,8 @@
   "pv-sp-2025-0133": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Urologia",
+    "subsub": "Hiperplasia prostática benigna",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -9911,8 +9911,8 @@
   "pv-hc)-2025-0175": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Colelitíase e colecistite",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HC) 2025"
@@ -9920,8 +9920,8 @@
   "pv-sp-2025-0237": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
