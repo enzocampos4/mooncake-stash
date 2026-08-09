@@ -3258,7 +3258,7 @@
       "id": "pv-uer-2025-0141",
       "area": "Cirurgia",
       "subarea": "Proctologia",
-      "sub_subarea": "",
+      "sub_subarea": "Hemorroidas",
       "enunciado": "Homem de 31 anos, com diagnóstico clínico de doença hemorroidária, está em tratamento com medidas tópicas há seis meses, sem melhoras significativas. Refere sangramento intermitente e protusão da hemorroida. No exame proctológico, apresenta mamilo hemorroidário interno aumentado de volume, com protusão abaixo da linha pectínea e redução espontânea. O tratamento mais adequado, nesse caso, é:",
       "alternativas": {
         "A": "infiltração local com lidocaína 2%",
@@ -3286,8 +3286,8 @@
     {
       "id": "pv-hcp-2024-0043",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "A investigação complementar com imagem é prática frequente na avaliação dos quadros de dor abdominal em Serviços de Emergência não obstétricos. Para qual das situações clínicas abaixo a ultrassonografia é o exame inicial mais indicado?",
       "alternativas": {
         "A": "Obstrução intestinal",
@@ -3316,7 +3316,7 @@
       "id": "pv-hcp-2024-0049",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Derrame pleural (cirúrgico)",
       "enunciado": "Menina de 7 anos, com síndrome de EhlersDanlos e portadora de aneurismas intracranianos, foi trazida à Emergência por febre e dificuldade ventilatória há 48 horas. Exame clínico mostrou redução de murmúrio vesicular em região inferior do hemitórax direito, com estertores audíveis. Radiografia de tórax evidenciou grande consolidação no lobo inferior direito e derrame pleural ipsilateral. Ultrassonografia torácica revelou volumoso derrame pleural, com líquido espesso e com septações e loculações. Qual a conduta mais indicada para o derrame pleural?",
       "alternativas": {
         "A": "Drenagem pleural tubular fechada",
@@ -3344,8 +3344,8 @@
     {
       "id": "pv-hcp-2024-0052",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "Paciente feminina, de 72 anos, em bom estado geral, procurou atendimento após ter sido submetida a uma colonoscopia para investigar hematoquezia + anemia (hemoglobina de 6,2 g/dl). O exame endoscópico revelou uma lesão no cólon transverso, e o exame anatomopatológico foi compatível com o diagnóstico de adenocarcinoma. Trouxe à consulta tomografia computadorizada (TC) de abdômen com contraste intravenoso, que demonstrava 5 lesões hepáticas, todas com menos de 3,0 cm, hipovasculares em relação ao parênquima. À TC de tórax, não havia sinais radiológicos de doença metastática. A dosagem sérica do CEA foi de 2,0 ng/ml (valor de referência: < 3,5 ng/ml). Com base no quadro, qual a conduta mais adequada?",
       "alternativas": {
         "A": "Iniciar quimioterapia em caráter paliativo, pois o sangramento costuma cessar por completo após o início do tratamento.",
@@ -3367,8 +3367,8 @@
     {
       "id": "pv-hcp-2025-0156",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia inguinal",
       "enunciado": "Paciente masculino, de 50 anos, consultou por desconforto e aumento de volume na região inguinal direita, que piorava durante o exercício. O exame físico confirmou a presença de uma hérnia inguinal redutível. O paciente realizava atividade física regularmente e não apresentava comorbidades relevantes. Considerando o quadro clínico, qual a opção terapêutica mais adequada no momento?",
       "alternativas": {
         "A": "Conduta expectante",
@@ -3390,8 +3390,8 @@
     {
       "id": "pv-fam-2024-0050",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma abdominal",
       "enunciado": "Um jovem de 17 anos, procura atendimento médico na emergência de um hospital terciário, com queixa de dor em ombro direito após queda de motocicleta em rodovia. Após uma avaliação inicial, como encontrava se hemodinamicamente normal, foi solicitado uma tomografia de abdome devido a presença de dor a palpação em hipocôndrio direito. A tomografia evidenciou uma lesão esplênica Grau IV, com presença de \"blush\" em terço superior do baço. Com relação ao tratamento não operatório do trauma esplênico, podemos afirmar que:",
       "alternativas": {
         "A": "A queda de dois pontos na hematimetria indica laparotomia exploradora;",
@@ -3422,8 +3422,8 @@
     {
       "id": "pv-fam-2024-0052",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma torácico",
       "enunciado": "Um homem de 35 anos, apresentou uma queda de um andaime, de aproximadamente 4,0 metros. Encaminhado a um Hospital Terciário, Nível I. de Trauma com colar cervical e prancha rígida. Encontra se hemodinamicamente normal. Via aérea pérvia e Glasgow de 15. Apresenta dor a palpação de arcos costais a direita, com ausculta presente e diminuída bilateralmente. Sua saturação de O2 é de 93%. O médico assistente, baseado no mecanismo de trauma, resolve realizar estudo tomográfico do corpo todo. Todas as tomografias são normais, exceto a tomografia de tórax que evidenciou uma linha de pneumotórax que dista 4,0 cm da parede torácica interna, a direita. Baseado neste exame e no exame físico deste paciente, a melhor conduta seria:",
       "alternativas": {
         "A": "Drenagem torácica a direita;",
@@ -3451,8 +3451,8 @@
     {
       "id": "pv-fam-2024-0053",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
+      "sub_subarea": "Fases da resposta metabólica",
       "enunciado": "Durante a visita a um paciente que está no primeiro pós-operatório de uma gastrectomia parcial, nota se que o paciente encontra se sonolento e pouco comunicativo. Está com sonda vesical e nasogástrica com drenagem considerável. O médico assistente, informa aos familiares que provavelmente o paciente encontra se no período pós-operatório e que trata se de uma resposta do organismo ao trauma cirúrgico. Provavelmente, este paciente encontra se em:",
       "alternativas": {
         "A": "Fase anabólica e a sonolência é causada pela ação duradoura dos anestésicos endovenosos;",
@@ -3482,8 +3482,8 @@
     {
       "id": "pv-fam-2024-0055",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Cicatrização de Feridas",
+      "sub_subarea": "",
       "enunciado": "Durante o fechamento da parede abdominal de um paciente submetido a herniorrafia inguinal, o cirurgião resolve aproximar o tecido celular subcutâneo para evitar a formação de seromas. O fio escolhido pelo cirurgião foi o poliglactina (Vicryl). Dentre as características deste fio, podemos afirmar que:",
       "alternativas": {
         "A": "Trata se de um fio inabsorvível, de origem sintética e torcido;",
@@ -3516,8 +3516,8 @@
     {
       "id": "pv-fam-2024-0056",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma abdominal",
       "enunciado": "Um jovem de 25 anos, vítima de acidente de moto com carro, é levado ao Hospital de Trauma mais próximo. Na avaliação inicial, encontra se instável hemodinamicamente. Sua Pressão Arterial é de 88/60 mmHg; Frequência Cardíaca de 138 bpm; e, Saturação de O2 de 91% com máscara de oxigênio a 2 litros/minuto. Não há sangramento externo evidente. A ausculta respiratória é normal. Não há abafamento de bulhas cardíacas. O quadril é estável. Foi realizado um ultrassom abdominal FAST, evidenciando líquido livre em espaço hepato-renal e espleno-renal. Neste momento, a melhor conduta seria:",
       "alternativas": {
         "A": "Laparotomia exploradora;",
@@ -3548,8 +3548,8 @@
     {
       "id": "pv-fam-2024-0059",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "L.A.S. sexo feminino, 42 anos, apresenta dor abdome superior, principalmente em hipocôndrio esquerdo, há cerca de seis meses, contínua, irradiada para o dorso, sem vômitos, que melhora com hioscina + dipirona e piora com alimentos gordurosos. Procurou serviço de pronto atendimento diversas vezes, sendo medicada e liberada. Refere perda de 18 kg nos últimos dois meses. Tabagista. Ex-etilista social (sic), histerectomia. US abdome total: microcálculos vesiculares, formação cística em cauda pancreática de 5.0x 4,0 cm. Fez punção do cisto com ecoendoscopia e o CEA era de 300 ng/ml e a glicose era 35 mg/dl. Qual sua principal hipótese diagnostica:",
       "alternativas": {
         "A": "Cistoadenoma seroso",
@@ -3571,8 +3571,8 @@
     {
       "id": "pv-fam-2024-0063",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Homem de 89 anos, portador de Alzheimer, é trazido por familiares ao pronto-atendimento da cirurgia do Hospital de Base devido a agitação psicomotora e constipação intestinal há 3 dias, além da diminuição da eliminação de flatos e vômitos semelhantes a fezes líquidas há 1 dia. Ao exame físico, apresenta-se em REG, agitado, pouco colaborativo, desidratado (2+/4+), com abdome distendido, hipertimpânico à percussão, difusamente doloroso a palpação, sem sinais de peritonite. Notase, ainda, aumento do volume da região inguinal a direita, com presença de \"massa\" endurecida no local, sem sinais flogísticos. Realizou RX de abdome agudo, que mostra distensão difusa de alças de delgado, com presença de níveis hidroaéreos. Indicado, então, inguinotomia exploradora, sendo observado saco herniário pronunciando-se abaixo do ligamento inguinal e medial à topografia da veia femoral direita, contendo moderada quantidade de líquido citrino em seu interior, além de segmento de alça de delgado hiperemiada, mas sem pontos de necrose ou perfuração. Assinale a alternativa que contém o correto diagnóstico etiológico para o quadro obstrutivo apresentado acima:",
       "alternativas": {
         "A": "Hérnia femoral encarcerada.",

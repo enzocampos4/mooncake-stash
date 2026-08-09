@@ -8741,8 +8741,8 @@
   "pv-ufr-2025-0201": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Queimaduras e Trauma Elétrico",
+    "subsub": "Classificação das queimaduras",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -8750,7 +8750,7 @@
   "pv-uer-2024-0052": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
@@ -8759,7 +8759,7 @@
   "pv-uer-2024-0059": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
@@ -8768,8 +8768,8 @@
   "pv-uer-2024-0060": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -8777,7 +8777,7 @@
   "pv-uer-2024-0066": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
@@ -8786,8 +8786,8 @@
   "pv-uer-2024-0072": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia umbilical",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -8795,8 +8795,8 @@
   "pv-uer-2024-0075": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -8804,8 +8804,8 @@
   "pv-uer-2024-0098": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Complicações Pós-Operatórias",
+    "subsub": "Tromboembolismo venoso (TEV)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -8813,8 +8813,8 @@
   "pv-uer-2025-0122": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -8822,8 +8822,8 @@
   "pv-uer-2025-0123": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -8831,8 +8831,8 @@
   "pv-uer-2025-0124": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -8840,7 +8840,7 @@
   "pv-uer-2025-0126": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
