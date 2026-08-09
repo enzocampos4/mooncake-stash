@@ -7272,8 +7272,8 @@
     {
       "id": "pv-df-2025-0110",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Um paciente de 28 anos de idade, previamente hígido, procurou a unidade de pronto atendimento com queixa de dor abdominal há três dias, localizada inicialmente na região periumbilical, que posteriormente se intensificou e migrou para a fossa ilíaca direita. Associado ao quadro, relata febre (38,5 °C), náuseas e um episódio de vômito. Refere diminuição do apetite e constipação nos últimos dois dias. Nega sintomas urinários ou outros desconfortos abdominais prévios. Informou que a mãe tem história de câncer colorretal aos 56 anos de idade. Ao exame físico, os sinais vitais na admissão são PA = 120 mmHg X 70 mmHg, FC = 104 bpm, FR = 20 irpm, temperatura 38,2 ºC e SatO2 = 97%. Abdome levemente distendido, com dor à descompressão brusca em fossa ilíaca direita e defesa muscular localizada. Exames laboratoriais evidenciaram leucocitose = 15.200/mm³ sem desvio, PCR = 15 mg/dL, função renal e eletrólitos normais. Realizou tomografia computadorizada de abdome com contraste que evidenciou apêndice dilatado e cístico com 4,0 cm de diâmetro, calcificações e espessamento irregular na parede. O paciente do caso foi submetido à apendicectomia laparoscópica de urgência. Durante o procedimento, identificou-se apêndice cecal distendido, com presença de mucina e espessamento irregular da parede. Observou-se infiltração na base apendicular e aderências locais. Foi realizada apendicectomia e coleta de material para biópsia. O exame histopatológico evidenciou adenocarcinoma mucinoso do apêndice pouco diferenciado, com invasão focal da serosa e margens livres de comprometimento. Qual é a conduta pós- operatória mais adequada?",
       "alternativas": {
         "A": "Acompanhamento clínico com exames de imagem periódicos, sem nenhuma outra intervenção.",
@@ -7304,8 +7304,8 @@
     {
       "id": "pv-ena-2025-0131",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Abdome agudo perfurativo",
       "enunciado": "Uma paciente de 22 anos apresentou quadro de dor pélvica súbita há cerca de 2 horas. Ao exame, constata-se que está hipocorada ++/4, com PA = 90 x 40 mmHg e FC = 118 bpm. Seu abdômen está atípico com dor à palpação difusa, mais acentuada em fossa ilíaca direita, com descompressão dolorosa. O diagnóstico mais provável é:",
       "alternativas": {
         "A": "apendicite aguda;",
@@ -7334,8 +7334,8 @@
     {
       "id": "pv-mg-2025-0129",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Colelitíase e colecistite",
       "enunciado": "Mulher, 37 anos, sem comorbidades, realizou ultrassonografia abdominal para avaliação de dor pélvica bem localizada e mal caracterizada. O exame revelou cisto ovariano de médio tamanho, sem sinais de complicação/gravidade e colecistolitíase (cálculo único de 3cm), sem dilatação de vias biliares intra e extra-hepática. Sem outras queixas e achados relevantes ao exame físico. Em relação ao caso clínico acima, assinale a alternativa CORRETA:",
       "alternativas": {
         "A": "Considerando que a sintomatologia deve se referir ao cisto ovariano, paciente só deve ser orientada em relação a este achado ecográfico.",
@@ -7357,8 +7357,8 @@
     {
       "id": "pv-fam-2024-0060",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Mulher de 22 anos, hígida, queixa-se de dor abdominal contínua, em aperto, iniciada em região mesogástrica com posterior intensificação na fossa iliaca direita, sem outros sintomas associados, há 2 dias, sem melhora com o uso de analgésicos simples. Relata que pratica musculação em academia diariamente e que a dor se iniciou logo após um treino intenso. Nega queixas ginecológicas e cessou uso de anticoncepcional oral por conta própria há 2 meses, pois deseja engravidar. Ao exame físico, encontra-se em bom estado geral, corada, FC = 72 bpm, PA = 110 x 60, Tax = 37°C. O abdome é plano, flácido, doloroso a palpação da fossa ilíaca direita e do hipogástrio, onde apresenta massa palpável, endurecida e imóvel, inclusive durante a elevação do tronco e contração da musculatura abdominal, além de descompressão brusca dolorosa. Assinale a alternativa correta:",
       "alternativas": {
         "A": "Hematoma da bainha do reto abdominal deve ser considerado dentre as principais hipóteses diagnósticas, devido ao achado de massa abdominal dolorosa e imóvel, conhecido como sinal de Forthergill.",
@@ -7380,8 +7380,8 @@
     {
       "id": "pv-df-2025-0116",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Após uma gastrectomia parcial realizada para o tratamento de câncer gástrico, a escolha da técnica de reconstrução é essencial para restaurar a continuidade do trato gastrointestinal. Assinale a alternativa que descreve corretamente a técnica de reconstrução em Y de Roux.",
       "alternativas": {
         "A": "Anastomose término-lateral entre o remanescente gástrico e o duodeno, restabelecendo a continuidade fisiológica do trânsito alimentar.",
@@ -7411,7 +7411,7 @@
     {
       "id": "pv-sír-2024-0021",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Mulher, 32 anos de idade, refere sangramento menstrual abundante com duração de 9 dias e cólicas menstruais que necessitam de analgésicos fortes há 1 ano. É 3G 3 partos cesáreos. Realizou laqueadura tubária no último parto. No exame ginecológico, observase útero aumentado 3 vezes de tamanho, móvel e anexos não palpáveis. A conduta adequada é",
       "alternativas": {
@@ -7438,8 +7438,8 @@
     {
       "id": "pv-df-2024-0037",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Proctologia",
+      "sub_subarea": "Hemorroidas",
       "enunciado": "O prolapso é uma doença muito prevalente e, em geral, relaciona-se com a incontinência urinária. Vários são os fatores de risco para o desenvolvimento do prolapso. A esse respeito, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os fatores de risco que se relacionam com o prolapso incluem a idade, o aumento da pressão abdominal em doenças como obesidade e DPOC, além do número de partos.",
@@ -7472,8 +7472,8 @@
     {
       "id": "pv-df-2024-0085",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Colecistite aguda",
       "enunciado": "Um paciente de 58 anos de idade deu entrada no pronto-socorro com queixa de dor abdominal intensa, localizada no quadrante superior direito, com irradiação para o dorso. O paciente relatou o início súbito da dor há aproximadamente 12 horas, associada a náuseas e vômitos frequentes. O histórico médico do paciente revela recente colelitíase diagnosticada. Na admissão, os sinais vitais apresentam PA = 130 mmHg x 80 mmHg, FC = 110 bpm, FR = 18 irpm, temperatura = 38,5 °C. Ao exame físico, observaram-se abdome com sensibilidade à palpação profunda no quadrante superior direito, sinal de Murphy positivo. Realizou exames laboratoriais com resultado de amilase sérica e lipase elevadas. Os exames de imagem demostraram, na ultrassonografia abdominal, evidência de colelitíase e dilatação da via biliar comum. Na tomografia computadorizada abdominal, houve a confirmação de pancreatite aguda biliar. Com base nesse caso clínico, assinale a alternativa que indica o próximo passo no manejo desse paciente com pancreatite aguda biliar confirmada.",
       "alternativas": {
         "A": "Administração de antibióticos de amplo espectro",
@@ -7505,8 +7505,8 @@
     {
       "id": "pv-ena-2024-0063",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Qual das seguintes alternativas apresenta a maior causa de obstrução do intestino delgado?",
       "alternativas": {
         "A": "Hérnias.",
@@ -7535,8 +7535,8 @@
     {
       "id": "pv-ena-2025-0129",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Doença diverticular dos cólons (cirúrgica)",
       "enunciado": "Uma paciente jovem, sem histórico familiar de câncer colorretal, apresenta sintomas como alterações no hábito intestinal, pequeno sangramento retal, dor abdominal, perda de peso inexplicada e palpação abdominal dolorosa no quadrante inferior direito. A hipótese diagnóstica mais provável é:",
       "alternativas": {
         "A": "síndrome do intestino irritável;",
@@ -7568,8 +7568,8 @@
     {
       "id": "pv-pe-2024-0074",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Abdome agudo perfurativo",
       "enunciado": "Homem, 61 anos. Admitido na emergência após dor abdominal de início súbito e de forte intensidade há 3 h. Fumante. Ao exame: taquicárdico, estável, abdome em tábua. Rx tórax abaixo. Achado cirúrgico: úlcera gástrica ( 1,5em) perfurada pré-pilórica. Realizada biópsia das bordas da úlcera e ráfia primária com omentoplastia. Sobre esse caso, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Por se tratar de uma úlcera gástrica (maior risco de câncer), deveria ter sido realizada uma antrectomia a BII.",
@@ -7598,8 +7598,8 @@
     {
       "id": "pv-pe-2024-0078",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia inguinal",
       "enunciado": "A hernioplastia inguinal laparoscópica, devemos identificar 5 triângulos anatômicos que vão guiar a aposição segura da tela sem riscos de sangramento ou dor. Quais dos trígonos abaixo estão acima do ligamento inguinal?",
       "alternativas": {
         "A": "“Doom”e dor",
