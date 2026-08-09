@@ -8953,7 +8953,7 @@
     {
       "id": "pv-ufr-2024-0060",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "sub_subarea": "",
       "enunciado": "Mulher, 35 semanas de gestação, é admitida em período expulsivo. Refere somente 3 consultas pré-natais, mas não sabe informar sobre medicações utilizadas na gestação, assim como doenças associadas. A via de parto é vaginal. Pediatra e obstetra visualizam exposição das alças intestinais do bebê, à direita do cordão umbilical. A principal hipótese diagnóstica e a melhor conduta terapêutica inicial é:",
       "alternativas": {
@@ -8986,8 +8986,8 @@
     {
       "id": "pv-hcp-2024-0059",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Avaliação Pré-Operatória",
+      "sub_subarea": "Jejum e medicação pré-op",
       "enunciado": "Lactente de 8 meses será submetido a uma cirurgia eletiva de hérnia umbilical. A criança encontrava-se saudável, sem nenhum problema médico conhecido. À admissão hospitalar, os pais informaram que a última mamada ocorrera há aproximadamente 3 horas. Qual a recomendação mais apropriada para o jejum pré-operatório do paciente?",
       "alternativas": {
         "A": "Jejum de 2 horas para líquidos claros e de 4 horas para alimentos sólidos",
@@ -9015,7 +9015,7 @@
     {
       "id": "pv-fam-2025-0083",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente de 24 anos, gênero feminino, agendou consulta em ambulatório de clínica médica para investigar quadro de astenia progressiva nos últimos 4 meses associado a oligomenorreia e episódios de dores abdominais difusas. Dentre as possibilidades diagnósticas foi pensado em doença celíaca. Considerando esta hipótese diagnóstica foi colhido exame do anticorpo anti-transglutaminase IgA com resultado positivo. Realizada endoscopia digestiva com biopsias cujo resultado patológico veio compatível com MARSH 1. Diante deste quadro qual deveria ser a conduta considerando a hipótese diagnóstica mencionada?",
       "alternativas": {
@@ -9046,8 +9046,8 @@
     {
       "id": "pv-sp-2025-0240",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Lactente, do sexo masculino, 1 mês de idade, nascido a termo, é trazido ao pronto-socorro pelos pais com história de vômitos biliosos em grande quantidade há 12 horas, associados à distensão abdominal e parada de eliminação de gases e fezes. Ao exame físico, encontra-se febril, apresentando grau moderado de irritabilidade e prostração, além de estar levemente desidratado. Apresenta também o abdome distendido. O exame físico da região inguinal que apresenta hiperemia local e dor à palpação está apresentado a seguir: Com base nas informações fornecidas, a principal hipótese diagnóstica e a conduta neste momento é:",
       "alternativas": {
         "A": "Torção testicular. Redução manual.",
@@ -9078,7 +9078,7 @@
     {
       "id": "pv-uni-2024-0054",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Mulher, 42 anos de idade, assintomática e sem antecedentes familiares ou pessoais, sem alterações no exame mamário realizou mamografia de rastreamento, complemento mamográfico e estudo ultrassonográfico. Os principais achados estão apresentados na figura anexa. Qual é a conduta mais adequada?",
       "alternativas": {
@@ -9112,8 +9112,8 @@
     {
       "id": "pv-uni-2024-0078",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Doença diverticular dos cólons (cirúrgica)",
       "enunciado": "Homem, 24 anos de idade, apresenta dor abdominal diária e diarreia de 2 a 3 evacuações pastosas ao dia iniciadas há 1 ano, com perda de 7 kg no período. Exame físico: emagrecido, descorado ++/4+; presença de orifício em região anal com saída de secreção amarelada. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Retocolite ulcerativa.",
@@ -9135,8 +9135,8 @@
     {
       "id": "pv-uni-2025-0185",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Proctologia",
+      "sub_subarea": "Doença diverticular dos cólons (cirúrgica)",
       "enunciado": "Menino, 7 anos de idade, apresenta queixa de refluxo, queimação retroesternal e dor epigástrica há 1 ano, que não melhoram com uso de inibidor da bomba de prótons. Tem antecedente de alergia à proteína do leite de vaca quando era lactente. Considerando o diagnóstico mais provável, qual é o exame recomendado para a confirmação diagnóstica?",
       "alternativas": {
         "A": "Cintilografia gastroesofágica com pesquisa de aspiração pulmonar.",
@@ -9164,8 +9164,8 @@
     {
       "id": "pv-sír-2024-0062",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Cirurgia Infantil",
+      "sub_subarea": "",
       "enunciado": "Criança de 1 ano, chorosa e com irritabilidade, é levada ao pronto-socorro. Mãe refere que tem dor no abdômen, não aceita alimentos e vomita há 1 dia. Teve febre baixa. Antecedentes: meningoencefalocele e bexiga neurogênica. Ao exame físico, estava desidratada, em regular estado geral, taquicárdica, eupneica, normotensa, abdômen flácido, RHA reduzidos, doloroso à palpação, massa palpável móvel em mesogástrio. Foi internada para observação e apresentou diarreia em framboesa. Exames: Hb: 11.7 d/dL. Leucócitos: 4.260/mm³ sem desvio, Lactato arterial: 7,0. Foi solicitado o exame cuja imagem é mostrada a seguir. O diagnóstico mais provável, dentre os abaixo, é:",
       "alternativas": {
         "A": "Enterocolite necrotizante.",
@@ -9191,8 +9191,8 @@
     {
       "id": "pv-sír-2025-0133",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Cirurgia Torácica",
+      "sub_subarea": "Tumores pulmonares",
       "enunciado": "Um paciente masculino de 55 anos, tabagista há 30 anos, apresenta perda de peso não intencional de 10 kg nos últimos 6 meses, tosse persistente e hemoptise ocasional. Na avaliação clinica, observa-se linfadenopatia cervical. O raio-x de tórax revela uma massa pulmonar no lobo superior direito. A tomografia computadorizada confirma a presença de uma massa de 4 cm com linfonodos mediastinais aumentados. A biópsia guiada por broncoscopia revela carcinoma de pequenas células do pulmão. A conduta inicial mais apropriada para este paciente, dentre as opções abaixo, é:",
       "alternativas": {
         "A": "Observação com seguimento periódico devido à baixa agressividade do tumor.",
@@ -9217,8 +9217,8 @@
     {
       "id": "pv-sír-2025-0135",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "Homem de 62 anos apresenta dor abdominal difusa e perda de apetite há 3 meses. Ele refere episódios de diarreia intercalados com constipação. No exame físico, o abdome está distendido, com dor à palpação profunda no quadrante inferior esquerdo. Uma colonoscopia revela uma lesão estenosante no sigmoide, com biópsia demonstrando adenocarcinoma moderadamente diferenciado. A tomografia de abdome mostra a lesão confinada ao sigmoide, sem evidências de metástases à distância. Nesse caso, a conduta mais apropriada, dentre as elencadas abaixo, é:",
       "alternativas": {
         "A": "Colectomia esquerda ampliada para transverso",
@@ -9241,7 +9241,7 @@
     {
       "id": "pv-hia-2024-0025",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "sub_subarea": "",
       "enunciado": "Homem trans homossexual, 34 anos de idade, sexualmente ativo, dá entrada no pronto- socorro referindo sangramento genital vultuoso há 3 dias com piora hoje. Refere que a última menstruação foi há cerca de 8 meses, dois meses depois de ter iniciado a terapia androgênica com testosterona intramuscular. No momento, não está realizando a terapia androgênica por ter perdido o acompanhamento médico. Nesse caso, a conduta mais adequada, dentre as abaixo, é:",
       "alternativas": {
@@ -9270,8 +9270,8 @@
     {
       "id": "pv-hia-2025-0097",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "",
       "enunciado": "Mulher, 70 anos, DM tipo 2 e HAS, ambas com controle adequado. Hematoquezia há 3 meses. Refere emagrecimento não intencional de 10 kg, em 6 meses. Exames laboratoriais: Hb 10,9 g/dL, plaquetas 220 mil/uL, Cr 0,95mg/dL, INR 1,0, R 0,95, PCR 15,2 mg/dL, ferritina 40 ng/mL, saturação de transferrina 12%, albumina 3,5 g/dL. Exames de estadiamento negativo para metástases. Realizados os exames diagnósticos a seguir. Qual é o diagnóstico e como deve ser feita a condução dessa paciente no pré-operatório?",
       "alternativas": {
         "A": "Neoplasia de cólon. Realizar suplementação de ferro por via endovenosa.",

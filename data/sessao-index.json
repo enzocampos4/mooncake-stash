@@ -10577,8 +10577,8 @@
   "pv-hia-2025-0133": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Cirurgia de Cabeça e Pescoço",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -10586,8 +10586,8 @@
   "pv-ena-2024-0080": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -10595,7 +10595,7 @@
   "pv-ena-2025-0122": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia de Cabeça e Pescoço",
     "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
@@ -10604,8 +10604,8 @@
   "pv-pe-2024-0071": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -10613,8 +10613,8 @@
   "pv-pe-2024-0076": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -10622,8 +10622,8 @@
   "pv-pe-2025-0125": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -10631,7 +10631,7 @@
   "pv-pe-2025-0129": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Hérnias da Parede Abdominal",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
@@ -10640,8 +10640,8 @@
   "pv-mg-2025-0087": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10649,8 +10649,8 @@
   "pv-mg-2025-0143": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10658,7 +10658,7 @@
   "pv-amr-2024-0036": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia de Cabeça e Pescoço",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
@@ -10667,8 +10667,8 @@
   "pv-amr-2024-0085": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -10676,7 +10676,7 @@
   "pv-amr-2025-0143": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia de Cabeça e Pescoço",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
