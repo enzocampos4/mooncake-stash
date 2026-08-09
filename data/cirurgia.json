@@ -6898,8 +6898,8 @@
     {
       "id": "pv-hia-2024-0023",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Mulher, 30 anos de idade, em consulta ginecológica de rotina, teve diagnóstico de nódulo de mama direita de 2,5 cm de diâmetro, axilas negativas. Realizou core-biposy com resultado de carcinoma invasivo não especial triplo negativo. A conduta imediata mais adequada é:",
       "alternativas": {
         "A": "adenomastectomia bilateral.",
@@ -6932,8 +6932,8 @@
     {
       "id": "pv-hia-2024-0047",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Abdome agudo perfurativo",
       "enunciado": "Paciente do sexo masculino, 73 anos, foi internado para investigação de anemia e perda ponderal, além de dor e distensão abdominal. Ao exame físico apresenta descompressão brusca negativa, massa palpável em flanco direito, toque retal sem alterações. PA: 120 x 80 mmHg P: 90 bpm. Realizou tomografia de abdome com o achado mostrado na figura abaixo. Dentre os tratamentos abaixo, o melhor nesse caso é:",
       "alternativas": {
         "A": "colectomia direita.",
@@ -6961,8 +6961,8 @@
     {
       "id": "pv-hia-2024-0055",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Colelitíase e colecistite",
       "enunciado": "Paciente com 62 anos vai ao pronto-socorro com dor em hipocôndrio direito, com irradiação para o dorso, associada a náuseas e vômitos, há 1 dia. Sem febre, hipertensão arterial controlada. Ao exame clínico a paciente estava em regular estado geral, anictérica, pulso de 110 bpm, PA: 150 x 90 mmHg, FR: 20 ipm. Exame cardiorrespiratório sem alterações e abdome globoso, distendido, tenso à palpação, sinal de Murphy positivo. Laboratório: Creatinina: 1,2 mg/dL, Hemoglobina: 11,3 g/dL, Leucócitos: 12.670/mm³, Plaquetas: 118.000, FA: 72 U/L, GGT:45 U/L, Amilase: 20 U/L, Lipase: 20 U/L, APACHE II = 7. Realizado um exame ultrassonográfico mostrado na imagem. A conduta preconizada nesse caso é:",
       "alternativas": {
         "A": "Colecistectomia aberta.",
@@ -6993,8 +6993,8 @@
     {
       "id": "pv-hia-2024-0057",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Paciente masculino de 54 anos vai ao pronto-socorro por dor abdominal intensa e distensão abdominal. Conta que um colega de trabalho inseriu uma mangueira de ar comprimido no seu ânus \"por cima da calça\". Ao exame físico estava ansioso. FC: 110 bpm, eupneico, PA: 120 x 70 mmHg. Abdome distendido, timpânico e doloroso (nota 8 de 10). Toque retal sem alterações. Exames laboratoriais: Hemoglobina: 14,8 g/dL. Leucograma: 6.590/mm³, Plaquetas: 230.000/mm³, PCR: 12 mg/L. INR: 1,08. Foi solicitada tomografia de abdome abaixo mostrada. Neste caso, a conduta adequada, dentre as abaixo é:",
       "alternativas": {
         "A": "Laparotomia.",
@@ -7027,7 +7027,7 @@
       "id": "pv-hia-2024-0058",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Pneumotórax (cirúrgico)",
       "enunciado": "Paciente feminino, 55 anos, dá entrada no pronto-socorro com dor torácica de forte intensidade há 1 hora. Antecedentes pessoais de hipertensão arterial sistêmica, e tabagismo. Ao exame físico: PA: 200 x 100 mmHg, pulso: 110 bpm, SatO₂: 99% em ar ambiente. Pulsos em MMSS e MMII todos presentes. Radiografia e tomografia de tórax abaixo: Dentre os tratamentos abaixo, o melhor para este caso é:",
       "alternativas": {
         "A": "Internação hospitalar para drenagem de tórax de emergência.",
@@ -7062,7 +7062,7 @@
     {
       "id": "pv-df-2024-0061",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Um paciente de 70 anos de idade com aumento dos valores séricos de triglicerídeos e colesterol LDL foi levado ao pronto-socorro com queixa de dor torácica tipo A e diagnosticado com infarto agudo do miocárdio extenso, apresentando choque cardiogênico e disfunção renal aguda. A correlação entre as doenças cardíaca e renal desse paciente é classificada como tipo",
       "alternativas": {
@@ -7094,8 +7094,8 @@
     {
       "id": "pv-df-2024-0078",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Um paciente de 52 anos de idade, etilista diário há 23 anos, procurou o pronto-socorro com queixa de aumento importante do volume abdominal e discreto edema em membros inferiores. Ao exame físico, observou-se sinal do piparote positivo, sendo realizada paracentese e exames laboratoriais, com os seguintes resultados: plaquetopenia = 100 mil/mm³; albumina sérica = 2,0 g/dL; INR = 2,1; líquido ascítico com proteína = 0,6 g/dL; celularidade com 300 cél/mm³; e 54% de polimorfonucleares. Tendo em vista esses resultados associados à história clínica, é correto afirmar que se trata de um caso de",
       "alternativas": {
         "A": "ascite por cirrose hepática.",
@@ -7123,8 +7123,8 @@
     {
       "id": "pv-df-2024-0084",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia femoral e outras",
       "enunciado": "Uma paciente de 65 anos de idade apresenta uma massa indolor na região abdominal inferior direita há cerca de seis meses. Ela relatou desconforto ocasional na área da massa, mas sem outros sintomas associados. Seu histórico médico inclui hipertensão arterial controlada e osteoartrite. Na admissão, os sinais vitais apresentavam PA = 140 mmHg x 90 mmHg, FC = 80 bpm, FR = 16 irpm e temperatura = 37 °C. Ao exame físico, observou-se a presença de uma massa palpável, não dolorosa, na região abdominal inferior direita, não redutível à palpação. Considerando a apresentação clínica dessa paciente, o diagnóstico mais provável é hérnia",
       "alternativas": {
         "A": "inguinal direta.",
@@ -7152,8 +7152,8 @@
     {
       "id": "pv-df-2024-0090",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Colelitíase e colecistite",
       "enunciado": "Uma paciente de 45 anos de idade apresentou dor abdominal recorrente no quadrante superior direito e foi diagnosticada com colelitíase após a realização de ultrassonografia abdominal, que identificou múltiplos cálculos na vesícula biliar. Durante a avaliação pré- operatória, os sinais vitais mostraram-se estáveis, com PA = 130 mmHg x 85 mmHg, FC = 75 bpm, FR = 18 irpm, temperatura = 37° C e SatO2 = 98% em a.a. Ao exame físico, não se verificaram alterações significativas além de dor à palpação no quadrante superior direito. Acerca desse caso clínico, quanto à abordagem mais apropriada para essa paciente, assinale a alternativa correta.",
       "alternativas": {
         "A": "Adotar uma abordagem conservadora, monitorando a paciente para possíveis complicações.",
@@ -7176,8 +7176,8 @@
     {
       "id": "pv-df-2024-0092",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia inguinal",
       "enunciado": "No que se refere à anatomia da região inguinal, deve-se atentar para não lesar os nervos localizados nessa topografia durante um procedimento cirúrgico de herniorrafia convencional. Dois deles passam interiormente ao canal inguinal. Esses nervos são",
       "alternativas": {
         "A": "ílio-hipogástrico e ilioinguinal.",
@@ -7210,8 +7210,8 @@
     {
       "id": "pv-df-2025-0104",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Tumores de vias biliares",
       "enunciado": "Uma paciente de 52 anos de idade, com relato de cólicas abdominais esporádicas associadas à alimentação, realizou ultrassonografia de abdome que evidenciou imagem sugestiva de pólipo único de vesícula biliar de 0,5 cm, sem colelitíase associada. A paciente foi submetida à colecistectomia videolaparoscópica e, ao exame anatomopatológico, foi evidenciado adenocarcinoma de vesícula biliar com invasão de lâmina própria. Nesse caso, em relação ao achado mencionado e à próxima conduta, assinale a alternativa correta.",
       "alternativas": {
         "A": "A paciente deve ser considerada tratada, sem necessidade de procedimento cirúrgico adicional.",
@@ -7243,8 +7243,8 @@
     {
       "id": "pv-df-2025-0109",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Um paciente de 28 anos de idade, previamente hígido, procurou a unidade de pronto atendimento com queixa de dor abdominal há três dias, localizada inicialmente na região periumbilical, que posteriormente se intensificou e migrou para a fossa ilíaca direita. Associado ao quadro, relata febre (38,5 °C), náuseas e um episódio de vômito. Refere diminuição do apetite e constipação nos últimos dois dias. Nega sintomas urinários ou outros desconfortos abdominais prévios. Informou que a mãe tem história de câncer colorretal aos 56 anos de idade. Ao exame físico, os sinais vitais na admissão são PA = 120 mmHg X 70 mmHg, FC = 104 bpm, FR = 20 irpm, temperatura 38,2 ºC e SatO2 = 97%. Abdome levemente distendido, com dor à descompressão brusca em fossa ilíaca direita e defesa muscular localizada. Exames laboratoriais evidenciaram leucocitose = 15.200/mm³ sem desvio, PCR = 15 mg/dL, função renal e eletrólitos normais. Realizou tomografia computadorizada de abdome com contraste que evidenciou apêndice dilatado e cístico com 4,0 cm de diâmetro, calcificações e espessamento irregular na parede. Assinale a alternativa que melhor representa a pontuação e a interpretação do escore de Alvarado para esse paciente.",
       "alternativas": {
         "A": "Quatro pontos. Baixa probabilidade de apendicite aguda. Investigar diagnósticos diferenciais.",

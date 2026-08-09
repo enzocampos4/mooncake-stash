@@ -9929,8 +9929,8 @@
   "pv-uni-2024-0099": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Princípios da Anestesiologia",
+    "subsub": "Anestesia geral",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -9938,8 +9938,8 @@
   "pv-uni-2025-0111": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Diverticulite aguda",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -9947,8 +9947,8 @@
   "pv-uni-2025-0116": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Urologia",
+    "subsub": "Hiperplasia prostática benigna",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -9956,7 +9956,7 @@
   "pv-sp-2024-0050": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
@@ -9965,7 +9965,7 @@
   "pv-sír-2024-0070": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
+    "sub": "Cirurgia de Cabeça e Pescoço",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -9974,8 +9974,8 @@
   "pv-sír-2024-0073": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -9983,8 +9983,8 @@
   "pv-sír-2024-0092": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -9993,7 +9993,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "subsub": "Derrame pleural (cirúrgico)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -10001,8 +10001,8 @@
   "pv-sír-2025-0130": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma cranioencefálico (TCE)",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10010,8 +10010,8 @@
   "pv-sír-2025-0132": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma abdominal",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10019,8 +10019,8 @@
   "pv-sír-2025-0138": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Complicações Pós-Operatórias",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10028,7 +10028,7 @@
   "pv-hia-2024-0018": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Urologia",
     "subsub": "",
     "banca": "HIAE",
     "ano": 2024,
