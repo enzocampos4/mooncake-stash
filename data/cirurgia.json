@@ -5621,8 +5621,8 @@
     {
       "id": "pv-pe-2025-0121",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Homem, 23 anos. Admitido na emergência com suspeita de apendicite aguda. Após avaliação clínico-laboratorial, pontuou 7 no score de Alvarado e 8 no AIR (Apendicitis Inflammatory Score). Quais dos fatores abaixo são específicos do AIR?",
       "alternativas": {
         "A": "Migração da dor para a FID e anorexia",
@@ -5653,7 +5653,7 @@
     {
       "id": "pv-pe-2025-0159",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente 29 anos realizou uma conização cujo resultado da peça cirúrgica evidenciou carcinoma escamoso de colo uterino com 9 mm de profundidade e 7 mm de extensão. Qual seria o estadiamento correspondente e o tratamento adequado?",
       "alternativas": {
@@ -5690,8 +5690,8 @@
     {
       "id": "pv-mg-2024-0020",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Homem de 35 anos apresenta febre, tosse produtiva com escarro purulento, dor torácica ventilatório-dependente no hemitórax direito e dispneia há 72h. Desconhece comorbidades e nega uso de quaisquer drogas. Ao exame físico, PA 130/78mmHg, FC 104bpm, FR 18ipm, SpO2 95% (ar ambiente), Tax 38,8°C. Apresenta-se alerta e orientado. A ausculta respiratória revela crepitações grossas e sons respiratórios reduzidos na base do hemitórax direito; a percussão revela submacicez e o frêmito toracovocal está abolido. Exames de laboratório: PCR 123mg/L; leucócitos 14.560/mm³; neutrófilos segmentados 9.760/mm³; neutrófilos bastonetes 1.200/mm³; plaquetas 234.000/mm³; creatinina 1,1mg/dL; bilirrubinas totais 0,8mg/dL. Teste de Covid-19 não reagente. Radiografia do tórax: consolidação no lobo inferior direito, derrame pleural leve a moderado à D com sinal do menisco evidente e sem alterações pleurais evidentes. No decúbito lateral direito, houve mudança do aspecto do derrame pleural, que assumiu posição gravidadedependente e mediu 1cm entre as pleuras parietal e visceral. O paciente foi internado. Assinale a alternativa que apresenta a conduta inicial MAIS ADEQUADA nesse caso:",
       "alternativas": {
         "A": "Prescrever amoxicilina-clavulanato e seguir pela resposta clinica, laboratorial e radiológica.",
@@ -5719,8 +5719,8 @@
     {
       "id": "pv-mg-2024-0021",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Coledocolitíase e colangite",
       "enunciado": "Homem de 77 anos queixa-se de dor no hipocôndrio direito e prurido generalizado. Realizou ultrassonografia abdominal que revelou dilatação do colédoco (11mm), dilatação das vias biliares intrahepáticas e dilatação do ducto pancreático principal, sem causas obstrutivas identificadas ao método. Não possui comorbidades, não faz uso de medicamentos e foi submetido a colecistectomia por pólipo de vesícula biliar há três anos. Assinale a alternativa que NÃO apresenta um sinal de alarme para causas obstrutivas das vias biliares nesse paciente:",
       "alternativas": {
         "A": "Dilatação das vias biliares intra-hepáticas.",
@@ -5742,7 +5742,7 @@
     {
       "id": "pv-mg-2025-0126",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente de 67 anos, sexo masculino, foi submetido à colectomia parcial há cinco dias. Iniciou distensão abdominal importante, taquicardia, taquipneia, hipotensão arterial e sonolência. Gasometria arterial e ionograma apresentou pH 7,18; PaCO₂ 36 mmHg; PaO₂ 70 mmHg; HCO₃⁻ 13 mEq/L; BE - 12 mEq/L; Na 135 mEq/L; K 2,8 mEq/L; CI 97 mEq/L. Qual o distúrbio ácido-base apresentado pelo paciente?",
       "alternativas": {
@@ -5771,8 +5771,8 @@
     {
       "id": "pv-mg-2025-0128",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Colelitíase e colecistite",
       "enunciado": "Sobre a dissecção cirúrgica durante a colecistectomia videolaparoscópica nas colecistites agudas, é CORRETO afirmar:",
       "alternativas": {
         "A": "A causa mais comum de lesão de ducto biliar é a presença de variações congênitas da anatomia da região do pedículo biliar.",
@@ -5794,8 +5794,8 @@
     {
       "id": "pv-amr-2025-0126",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Paciente com fibrilação atrial, com quadro de dor abdominal e história de colecistectomia prévia. A dor iniciou em epigástrio e irradiou para a região umbilical e fossa ilíaca direita. Apresenta temperatura axilar 37,5°C, acompanhada de náuseas e vômitos. Ao exame físico, apresentou dor à palpação abdominal e presença de sinal de Blumberg. Qual é a hipótese diagnóstica mais provável no caso?",
       "alternativas": {
         "A": "Síndrome intestinal inflamatória.",
@@ -5817,8 +5817,8 @@
     {
       "id": "pv-amr-2025-0139",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Sobre as obstruções intestinais, assinale a alternativa correta.",
       "alternativas": {
         "A": "Na obstrução intestinal por doença de Crohn agudizada, o tratamento cirúrgico está indicado.",
@@ -5840,8 +5840,8 @@
     {
       "id": "pv-ufr-2024-0095",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "Homem, 45 anos, refere dor em região de fossa ilíaca direita. Após avaliação, teve o diagnóstico de apendicite aguda e foi submetido a apendicectomia videolaparoscópica. Exame histopatológico da peça cirúrgica: adenocarcinoma de apêndice com lesão de 1cm em região média do apêndice. Pode-se afirmar que a melhor conduta terapêutica a seguir é:",
       "alternativas": {
         "A": "observação e novos exames de imagem em 6 meses",
@@ -5863,7 +5863,7 @@
     {
       "id": "pv-ufr-2024-0102",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Vesícula e Vias Biliares",
       "sub_subarea": "",
       "enunciado": "Pode-se afirmar que o paciente que possui uma contraindicação absoluta para realização de colecistectomia eletiva, em regime ambulatorial, é:",
       "alternativas": {
@@ -5886,8 +5886,8 @@
     {
       "id": "pv-ufr-2024-0103",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Coledocolitíase e colangite",
       "enunciado": "Mulher, 45 anos, refere história de dor abdominal em quadrante superior direito associada a pico febril (temperatura axilar = 38ºC). Exame físico: lúcida; orientada; hemodinamicamente estável; ictérica (2+/4+); dor abdominal em hipocôndrio direito, sem sinais de irritação peritoneal. Ultrassonografia (US) do abdome: vesícula biliar com parede de 2mm contendo múltiplos cálculos em seu interior; colédoco medindo 10mm. A principal hipótese diagnóstica e o melhor método diagnóstico a ser solicitado para confirmála são:",
       "alternativas": {
         "A": "colecistite aguda / colangiopancreatografia endoscópica retrógrada",
@@ -5909,8 +5909,8 @@
     {
       "id": "pv-ufr-2024-0126",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Avaliação Pré-Operatória",
+      "sub_subarea": "Risco cirúrgico (ASA, Goldman, Lee)",
       "enunciado": "Homem, 68 anos, que já apresentou um episódio de cólica biliar não complicada, tem indicação de colecistectomia eletiva por cálculos na vesícula. No momento, assintomático. Tem HAS controlada com losartana. Refere apendicectomia aos 25 anos, sem intercorrências. Na consulta para avaliação do risco cirúrgico, exame físico normal. Radiografia do tórax e ECG em repouso normais; hemograma, glicemia e bioquímica normais. Coagulograma: tempo de atividade da protrombina (TAP) = 11 segundos; índice internacional normalizado (INR) = 0,96; tempo de tromboplastina parcial ativada (PTTa) = 46 segundos (paciente) /31 segundos (controle); relação paciente/controle = 1,48. Pode-se afirmar que, neste momento, a melhor conduta é:",
       "alternativas": {
         "A": "liberá-lo para realizar o procedimento cirúrgico com a orientação de prescrição intraoperatória de plasma fresco congelado",

@@ -9497,8 +9497,8 @@
   "pv-ena-2024-0067": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -9506,8 +9506,8 @@
   "pv-ena-2024-0074": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+    "subsub": "Nutrição enteral",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -9515,8 +9515,8 @@
   "pv-ena-2024-0075": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -9524,8 +9524,8 @@
   "pv-ena-2024-0076": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -9533,8 +9533,8 @@
   "pv-ena-2025-0130": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -9542,8 +9542,8 @@
   "pv-ena-2025-0133": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Proctologia",
+    "subsub": "Hemorroidas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -9551,8 +9551,8 @@
   "pv-ena-2025-0135": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Diverticulite aguda",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -9560,8 +9560,8 @@
   "pv-ena-2025-0136": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Coledocolitíase e colangite",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -9569,8 +9569,8 @@
   "pv-ena-2025-0167": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -9578,8 +9578,8 @@
   "pv-pe-2024-0077": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -9587,7 +9587,7 @@
   "pv-pe-2024-0080": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Vesícula e Vias Biliares",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
@@ -9596,8 +9596,8 @@
   "pv-pe-2025-0107": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
