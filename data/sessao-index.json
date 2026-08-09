@@ -8633,8 +8633,8 @@
   "pv-mg-2025-0123": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -8642,8 +8642,8 @@
   "pv-mg-2025-0127": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -8651,7 +8651,7 @@
   "pv-amr-2024-0043": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
@@ -8660,7 +8660,7 @@
   "pv-amr-2024-0052": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
@@ -8669,8 +8669,8 @@
   "pv-amr-2024-0062": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -8678,8 +8678,8 @@
   "pv-amr-2024-0074": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -8687,8 +8687,8 @@
   "pv-amr-2025-0136": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -8696,7 +8696,7 @@
   "pv-amr-2025-0138": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia Bariátrica e Metabólica",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
@@ -8705,8 +8705,8 @@
   "pv-amr-2025-0174": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -8714,8 +8714,8 @@
   "pv-ufr-2024-0104": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -8723,8 +8723,8 @@
   "pv-ufr-2024-0105": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Coledocolitíase e colangite",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -8732,8 +8732,8 @@
   "pv-ufr-2024-0119": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Cirurgia Infantil",
+    "subsub": "Hérnias na criança (inguinal, umbilical)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"

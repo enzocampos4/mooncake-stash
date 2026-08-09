@@ -2919,8 +2919,8 @@
     {
       "id": "pv-ufr-2025-0201",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Queimaduras e Trauma Elétrico",
+      "sub_subarea": "Classificação das queimaduras",
       "enunciado": "O tratamento imediato melhor indicado para um paciente que sofreu queimadura por álcalis é:",
       "alternativas": {
         "A": "aplicar agentes neutralizantes como ácidos fracos",
@@ -2942,7 +2942,7 @@
     {
       "id": "pv-uer-2024-0052",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Mulher de 65 anos comparece à consulta queixando-se de “bola na vagina” e que, sendo sexualmente ativa, essa condição vem atrapalhando a sua qualidade de vida. Nega sangramento ou perdas urinárias. No exame ginecológico, a quantificação de prolapsos de órgãos pélvicos (POP-Q) foi representada da seguinte forma: Considerando o resultado do exame, o tratamento adequado para a correção do prolapso apical nessa paciente é a:",
       "alternativas": {
@@ -2975,7 +2975,7 @@
     {
       "id": "pv-uer-2024-0059",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Mulher de 30 anos, sem comorbidades, com duas gestações anteriores e laqueadura tubária há um ano, comparece à UBS com queixa de dismenorreia intensa há dez anos, sendo tratada regularmente com analgésicos. O exame ginecológico é normal, mas a ressonância nuclear magnética de pelve demonstra espessamento de ligamento uterossacro direito, sugestivo de endometriose. O tratamento de escolha para essa paciente é:",
       "alternativas": {
@@ -3007,8 +3007,8 @@
     {
       "id": "pv-uer-2024-0060",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Paciente de 72 anos apresentou queixa de prurido vulvar e lesão unifocal hipocrômica de aproximadamente 2cm em grande lábio esquerdo. Após realização de biópsia, foi constatada neoplasia intraepitelial vulvar (NIV) diferenciada. Nesse caso, deve ser indicado(a):",
       "alternativas": {
         "A": "corticoide sistêmico",
@@ -3036,7 +3036,7 @@
     {
       "id": "pv-uer-2024-0066",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Homem de 68 anos, em pós-operatório imediato de tireoidectomia total por doença de Graves, apresenta dispneia e sangramento pela ferida operatória. Nesse caso, deve-se realizar:",
       "alternativas": {
@@ -3065,8 +3065,8 @@
     {
       "id": "pv-uer-2024-0072",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia umbilical",
       "enunciado": "Homem de 57 anos chega ao pronto-socorro com dor abdominal mesogástrica tipo cólica, que se tornou constante nas últimas seis horas. Ao exame físico, mostra-se febril e taquicárdico. O exame do abdômen mostra distensão e presença de hérnia umbilical encarcerada. O tratamento nesse caso deve ser:",
       "alternativas": {
         "A": "descompressão por cateter nasogástrico",
@@ -3094,8 +3094,8 @@
     {
       "id": "pv-uer-2024-0075",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "A causa mais frequente de obstrução intestinal é:",
       "alternativas": {
         "A": "neoplasia maligna colorretal",
@@ -3126,8 +3126,8 @@
     {
       "id": "pv-uer-2024-0098",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Complicações Pós-Operatórias",
+      "sub_subarea": "Tromboembolismo venoso (TEV)",
       "enunciado": "Mulher de 60 anos, internada, em pós-operatório de gastrectomia total por adenocarcinoma gástrico, apresenta quadro de dispneia súbita, após sete dias de realização da cirurgia. Ao exame, encontra-se taquicárdica, taquipneica, hipoxêmica e hipotensa, apesar da hidratação venosa. A tomografia computadorizada (TC) de tórax evidencia falha de enchimento de artéria pulmonar esquerda, em sua porção proximal, e aumento do diâmetro do ventrículo direito. No momento, além de estabilização hemodinâmica e suporte ventilatório, a conduta mais apropriada é:",
       "alternativas": {
         "A": "trombólise endovenosa",
@@ -3157,8 +3157,8 @@
     {
       "id": "pv-uer-2025-0122",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "A presença de dor no quadrante inferior direito do abdômen, após a palpação do quadrante inferior esquerdo, é um sinal frequentemente presente em paciente com apendicite aguda. Trata-se do sinal de:",
       "alternativas": {
         "A": "McBurney",
@@ -3180,8 +3180,8 @@
     {
       "id": "pv-uer-2025-0123",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "A presença de dor no quadrante inferior direito do abdômen, após a palpação do quadrante inferior esquerdo, é um sinal frequentemente presente em paciente com apendicite aguda. Trata-se do sinal de:",
       "alternativas": {
         "A": "McBurney",
@@ -3203,8 +3203,8 @@
     {
       "id": "pv-uer-2025-0124",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Nas gestantes, a emergência abdominal não obstétrica mais comum que requer cirurgia é a",
       "alternativas": {
         "A": "colecistite aguda",
@@ -3226,7 +3226,7 @@
     {
       "id": "pv-uer-2025-0126",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente de 75 anos, desorientado, é levado por familiares ao atendimento de emergência. Após avaliação clínica, foi constatada a tríade de Beck, que consiste em:",
       "alternativas": {
