@@ -10469,8 +10469,8 @@
   "pv-df-2025-0174": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -10479,7 +10479,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "subsub": "Derrame pleural (cirúrgico)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -10487,7 +10487,7 @@
   "pv-pe-2025-0134": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
@@ -10496,7 +10496,7 @@
   "pv-hcp-2025-0159": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
@@ -10505,8 +10505,8 @@
   "pv-sír-2025-0122": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma torácico",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10514,8 +10514,8 @@
   "pv-mg-2025-0135": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10523,7 +10523,7 @@
   "pv-amr-2025-0137": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
@@ -10532,8 +10532,8 @@
   "pv-ena-2025-0125": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -10541,8 +10541,8 @@
   "pv-pe-2025-0133": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -10550,8 +10550,8 @@
   "pv-sp-2025-0208": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -10559,8 +10559,8 @@
   "pv-hia-2024-0052": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -10568,8 +10568,8 @@
   "pv-hia-2024-0053": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"

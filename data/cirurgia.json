@@ -8627,8 +8627,8 @@
     {
       "id": "pv-hia-2025-0133",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 52 anos, sem histórico familiar de câncer de mama, apresentou-se com massa palpável na mama esquerda há aproximadamente 2 meses. Os exames de imagem revelaram lesão espiculada de 1,7 cm na mama esquerda (Bi-Rads 5). A avaliação clínica e ultrassonográfica da axila não mostrou evidências de comprometimento linfonodal. A biópsia por agulha grossa diagnosticou carcinoma invasivo do tipo não especial (SOE), grau histológico 3. A imuno-histoquímica da neoplasia mostrou receptores de estrogênio e progesterona negativos, Ki-67 de 70% e HER2 positivo (3+). Assinale a alternativa que apresenta a melhor abordagem terapêutica para esta paciente.",
       "alternativas": {
         "A": "Mastectomia com pesquisa de linfonodo sentinela e reconstrução imediata com prótese de silicone, seguida de quimioterapia adjuvante e terapia alvo anti-HER2 (trastuzumabe).",
@@ -8660,8 +8660,8 @@
     {
       "id": "pv-ena-2024-0080",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Um paciente encontra-se internado devido a uma infecção de partes moles associada à lesão vegetante, friável e ulcerativa em perna, com crescimento há 2 meses, sem melhora. É solicitada uma avaliação médica para biópsia. A enfermeira do setor do paciente liga para o médico, que se encontra em outro setor do hospital atendendo a um segundo paciente, e questiona se ela pode ir realizando a biópsia enquanto ele não chega. Quanto a essa situação, assinale a alternativa correta.",
       "alternativas": {
         "A": "O médico deve permitir que a enfermeira realize a biópsia, tendo em vista que será de fácil execução e que poderá agilizar o diagnóstico, já que provavelmente é compatível com um câncer de pele.",
@@ -8684,7 +8684,7 @@
     {
       "id": "pv-ena-2025-0122",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
       "sub_subarea": "",
       "enunciado": "Um homem de 47 anos de idade, fumante há 30 anos e com histórico de consumo de bebidas alcoólicas destiladas, apresenta uma úlcera dolorosa na língua há 3 meses. Relata que a lesão não cicatriza e está aumentando de tamanho. Além disso, nota dificuldade para engolir e dor referida no ouvido. Ao exame físico, observa-se uma úlcera irregular na borda lateral da língua, com margens endurecidas e base infiltrada. Não há linfonodos cervicais palpáveis. O diagnóstico provável e o tratamento inicial mais adequado para esse paciente são, respectivamente:",
       "alternativas": {
@@ -8708,8 +8708,8 @@
     {
       "id": "pv-pe-2024-0071",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Mulher 57 anos. Dor epigástrica leve e dispepsia há 3 meses. Realizou USG que mostrou lesão mal definida em cauda pancreática. Após avaliação cirúrgica, fez uma RM do abdome superior sugestiva de tumor neuroendócrino pancreático (PNET) de 3,8 cm (Imagem abaixo). EDA normal. Sem sintomas de disglicemia ou diarreia. Em relação à conduta e diagnóstico (estadiamento), assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Por se tratar de um tumor não funcionante, podemos acompanhar com RM semestral.",
@@ -8740,8 +8740,8 @@
     {
       "id": "pv-pe-2024-0076",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Mulher, 47 anos. Dor epigástrica, anorexia e perda de peso (6Kg) há 3 meses. Traz endoscopia digestiva alta mostrando lesão ulcerada em corpo gástrico. Após análise da biópsia, o câncer gástrico foi classificado como difuso de Lauren. Qual das características abaixo NÃO está relacionada a esse tipo de lesão?",
       "alternativas": {
         "A": "Atrofia de mucosa gástrica",
@@ -8770,8 +8770,8 @@
     {
       "id": "pv-pe-2025-0125",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "Mulher 69 anos. Diarréia e hematoquesia há 4 meses. Colonoscopia evidenciou lesão estenosante em sigmóide (75% da luz colônica) há 25 cm da margem anal. A TC pré- operatoria evidenciou lesão em cólon esquerdo de 6 cm com linfonodos adjacentes proeminentes. Lesão de aspecto mtastático de 2,5 cm em segmento hepático 7. Lesão sólida periférica em base pulmonar D. de 2 cm sugestiva de metástases. CEA – 58 ng/ml. Submetida a retosigmoidectomia sem intercorrências. Histopatlógico – Tumor invade o mesosigmóide, 4 de 25 linfonodos positivos. Qual dos dados abaixo NÃO faz parte dos critérios de Fong (risco de recorrência)?",
       "alternativas": {
         "A": "CEA",
@@ -8800,7 +8800,7 @@
     {
       "id": "pv-pe-2025-0129",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Hérnias da Parede Abdominal",
       "sub_subarea": "",
       "enunciado": "Homem, 51 anos. Pirose, regurgitação e discreta disfagia há 6 meses.Obeso, IMC – 32 Kg/m². EDA – Esofagite moderada (aspecto de Barret) e hérnia hiatal. Em relação a essa situação clínica, podemos afirmar que",
       "alternativas": {
@@ -8830,8 +8830,8 @@
     {
       "id": "pv-mg-2025-0087",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Você atende na UBS paciente de 42 anos que apresenta os seguintes exames: Citologia cervical: Lesão intraepitelial de alto grau (HSIL). Biópsia de colo: Neoplasia intraepitelial grau III (NIC III). Foi submetida à conização há 45 dias e a peça cirúrgica apresenta o seguinte laudo: Neoplasia intraepitelial grau III (NIC III). Ausência de sinais de invasão com margens cirúrgicas livres A MELHOR CONDUTA para acompanhamento pós-conização é realizar:",
       "alternativas": {
         "A": "Citologia 12 meses após o procedimento. Se a citologia for negativa passar para citologia trienal.",
@@ -8853,8 +8853,8 @@
     {
       "id": "pv-mg-2025-0143",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Você está de plantão em um Pronto Atendimento e avalia uma criança de 4 anos de idade com quadro, há dois dias, de febre alta, inapetência, vômitos e dor abdominal aguda, em cólica, com piora ao deambular. Há relato de piora progressiva. Os pais estão ansiosos e pensam que pode ser apendicite. Considerando as causas de dor abdominal aguda na infância, assinale a alternativa ERRADA:",
       "alternativas": {
         "A": "Apendicite aguda é a causa mais comum de dor abdominal de indicação cirúrgica em lactentes, sendo o diagnóstico difícil face à apresentação atípica e à dificuldade de se obter a história clínica e realizar o exame físico.",
@@ -8876,7 +8876,7 @@
     {
       "id": "pv-amr-2024-0036",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
       "sub_subarea": "",
       "enunciado": "Neonato com 39 semanas de idade gestacional apresenta desde o nascimento mancha de coloração vinhosa intensa, homogênea, acometendo parte da hemiface esquerda, incluindo região periorbitária. Restante do corpo sem alterações. Com base na possibilidade de associação com síndrome de Sturge-Weber, qual exame complementar é o mais indicado para elucidação diagnóstica?",
       "alternativas": {
@@ -8899,8 +8899,8 @@
     {
       "id": "pv-amr-2024-0085",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "Recomenda-se que as pessoas com risco médio para câncer colorretal iniciem o rastreamento regular aos ____ anos. As pessoas em bom estado geral de saúde e expectativa de vida de mais de 10 anos devem manter o rastreamento do câncer colorretal regularmente até os ____ anos de idade. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima",
       "alternativas": {
         "A": "40 – 75",
@@ -8922,7 +8922,7 @@
     {
       "id": "pv-amr-2025-0143",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
       "sub_subarea": "",
       "enunciado": "Uma paciente de 60 anos, pós-menopáusica, traz uma mamografia convencional de rotina que revela um novo agrupamento de microcalcificações pleomórficas numa pequena área da mama direita. Nega cirurgias prévias. A conduta mais adequada no caso consiste em:",
       "alternativas": {
