@@ -1369,9 +1369,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma abdominal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1391,9 +1391,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma abdominal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1413,9 +1413,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma raquimedular",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1441,9 +1441,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome Agudo",
+      "sub_subarea": "Obstrução intestinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1463,9 +1463,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Apendicite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1485,9 +1485,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Cicatrização de Feridas",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome Agudo",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1509,9 +1509,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome Agudo",
+      "sub_subarea": "Obstrução intestinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1531,9 +1531,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Litíase urinária",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1555,9 +1555,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Colelitíase e colecistite",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1577,9 +1577,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Avaliação Pré-Operatória",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Risco cirúrgico (ASA, Goldman, Lee)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1601,9 +1601,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma vascular",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1623,9 +1623,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Litíase urinária",
       "banca": "ESTRATÉGIA MED"
     },
     {
