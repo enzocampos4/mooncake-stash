@@ -8850,7 +8850,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Proctologia",
-    "subsub": "",
+    "subsub": "Hemorroidas",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -8858,8 +8858,8 @@
   "pv-hcp-2024-0043": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -8868,7 +8868,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "subsub": "Derrame pleural (cirúrgico)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -8876,8 +8876,8 @@
   "pv-hcp-2024-0052": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -8885,8 +8885,8 @@
   "pv-hcp-2025-0156": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -8894,8 +8894,8 @@
   "pv-fam-2024-0050": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Trauma",
+    "subsub": "Trauma abdominal",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -8903,8 +8903,8 @@
   "pv-fam-2024-0052": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma torácico",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -8912,8 +8912,8 @@
   "pv-fam-2024-0053": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
+    "subsub": "Fases da resposta metabólica",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -8921,8 +8921,8 @@
   "pv-fam-2024-0055": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Cicatrização de Feridas",
+    "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -8930,8 +8930,8 @@
   "pv-fam-2024-0056": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Trauma",
+    "subsub": "Trauma abdominal",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -8939,8 +8939,8 @@
   "pv-fam-2024-0059": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -8948,8 +8948,8 @@
   "pv-fam-2024-0063": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"

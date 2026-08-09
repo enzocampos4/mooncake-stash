@@ -3600,8 +3600,8 @@
     {
       "id": "pv-fam-2025-0148",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Isquemia mesentérica",
       "enunciado": "Homem de 32 anos, usuário de cocaina e tabagista, dá entrada no pronto-atendimento devido à dor abdominal súbita, de forte intensidade, associado a vômitos com raias de sangue e palidez cutânea, de início há aproximadamente 4 horas. Refere fezes pastosas e escurecidas hà 2 dias, após alimentação de origem duvidosa. Ao exame físico apresenta-se em REG, pálido (3+/4+), FC = 138bpm, PA = 70X40 mmHg. oximetria de pulso = 90%. Ausculta pulmonar com presença de sibilos esparsos e roncos em base direita. O abdome é escavado e com sinais de peritonite difusa. Toque retal positivo para melena. Realizou RX de toráx, cuja imagem encontra-se abaixo. Assinale a alternativa que indique a melhor conduta:",
       "alternativas": {
         "A": "Ressuscitação volêmica e laparotomia exploradora",
@@ -3632,7 +3632,7 @@
     {
       "id": "pv-fam-2025-0151",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Urgências Abdominais",
       "sub_subarea": "",
       "enunciado": "Paciente com 85 anos apresentando episódios de sensação de entalar ao ingerir alimentos e dor torácica. Em algumas situações tem que \"tomar um gole de água para descer\" a comida. Em decorrência destes engasgos sua familia o levou para consulta com médico em sua cidade. Lá realizou EDA (Endoscopia digestiva alta) cujo laudo foi apenas antrite leve. Também realizou um exame radiológico contrastado com esófago em aspecto de \"saca rolhas\". Assinale, dentre ás alternativas abaixo, o diagnóstico provável para este caso:",
       "alternativas": {
@@ -3661,8 +3661,8 @@
     {
       "id": "pv-fam-2025-0158",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma torácico",
       "enunciado": "Vítima de ferimento por arma branca em transição toracoabdominal direita, instável hemodinamicamente, com drenagem de 2L de sangue em dreno de tórax direito, com FAST positivo em espaço hepatorrenal e pelve. A próxima melhor conduta é:",
       "alternativas": {
         "A": "Laparotomia exploradora",
@@ -3690,8 +3690,8 @@
     {
       "id": "pv-fam-2025-0159",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma abdominal",
       "enunciado": "Paciente com lesão esplênica traumática grau IV pela AAST (The American Association for the Surgery of Trauma) sem alteração vascular na tomografia de abdômen, mantendo estabilidade hemodinâmica, sem sinais de peritonite, tem como melhor próxima conduta:",
       "alternativas": {
         "A": "Videolaparoscopia",
@@ -3713,8 +3713,8 @@
     {
       "id": "pv-fam-2025-0160",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma abdominal",
       "enunciado": "Um jovem, vítima de ferimento por arma branca em face anterior do abdômen chega à emergência com evisceração. Hemodinamicamente normal, é avaliado pelo cirurgião de trauma que indica cirurgia. Durante a laparotomia exploradora, assim que abre a cavidade peritoneal, se depara com sangramento intenso em região de jejuno e retroperitonial na zona Il a direita. Há instabilização hemodinâmica e o anestesista indica reanimação volêmica com Ringer Lactato e ativa o Protocolo de Transfusão Maciça existente na Instituição. Após controle cirúrgico do sangramento ativo, o exame tromboelastrometria (ROTEM) indica a existência de retardo na formação da curva do coágulo. Neste caso, a melhor conduta seria:",
       "alternativas": {
         "A": "Cirurgia de Controle de Danos; Peritoniostomia; Ácido Tranexâmico;",
@@ -3742,7 +3742,7 @@
     {
       "id": "pv-sp-2024-0032",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "No Brasil, as normas para a realização da ligadura tubária foram estabelecidas pela Lei n.o 9.263/1996, que regulamenta o planejamento familiar. De acordo com essa Lei e suas atualizações (Lei n.o 14.443/2022), a esterilização voluntária em homens e mulheres é permitida e regulamentada. A respeito das condições para a realização da ligadura tubária, considerando‑se o exposto na Lei n.o 14.443/2022, assinale a alternativa correta.",
       "alternativas": {
@@ -3766,8 +3766,8 @@
     {
       "id": "pv-sp-2024-0065",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Colelitíase e colecistite",
       "enunciado": "Assinale a alternativa que apresenta a definição correta de íleo biliar.",
       "alternativas": {
         "A": "É o extravasamento de bile para o peritôneo, decorrente da ruptura da vesícula biliar secundária a um cálculo obstruindo o infundíbulo da vesícula.",
@@ -3800,8 +3800,8 @@
     {
       "id": "pv-sp-2024-0066",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Proctologia",
+      "sub_subarea": "Hemorroidas",
       "enunciado": "Um homem de 62 anos de idade, sem comorbidades, foi ao consultório. Levou consigo ultrassonografia, com o laudo compatível com colelitíase, com cálculo de 2 cm. Tinha queixa de alteração do hábito intestinal, empachamento, dor em todo o abdome e sangramento nas fezes intermitente. Exame abdominal sem alterações. Exame proctológico apresentou hemorroida grau 1. Com base nessa situação hipotética, assinale a alternativa que apresenta a melhor conduta a ser adotada no momento.",
       "alternativas": {
         "A": "indicar colecistectomia e, posteriormente, hemorroidectomia",
@@ -3832,8 +3832,8 @@
     {
       "id": "pv-sp-2024-0073",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Avaliação Pré-Operatória",
+      "sub_subarea": "Jejum e medicação pré-op",
       "enunciado": "De acordo com o projeto Aceleração da Recuperação Total Pós‑Operatória (ACERTO), assinale a alternativa incorreta quanto ao grau de recomendação e à força de evidência.",
       "alternativas": {
         "A": "Para a maioria dos pacientes candidatos a procedimentos eletivos, recomenda‑se jejum de sólidos de seis a oito horas antes da indução anestésica.",
@@ -3862,8 +3862,8 @@
     {
       "id": "pv-sp-2024-0074",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Diverticulite aguda",
       "enunciado": "Assinale a alternativa que apresenta a enfermidade que não está indicada para a realização da cirurgia de Hartmann",
       "alternativas": {
         "A": "tumor de sigmoide obstrutivo",
@@ -3895,8 +3895,8 @@
     {
       "id": "pv-sp-2025-0124",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Em relação às causas de abdome agudo obstrutivo (AAO) em alça fechada, julgue os itens a seguir. I. Volvo de sigmoide II. Hérnia interna III. Ileobiliar IV. Tumor de cólon esquerdo estenosante com válvula ileocecal incompetente V. Hérnia inguinal encarcerada",
       "alternativas": {
         "A": "Somente os itens I, II e V estão certos.",
@@ -3919,8 +3919,8 @@
     {
       "id": "pv-sp-2025-0129",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Diverticulite aguda",
       "enunciado": "A tomografia de abdome e pelve com contraste deve ser solicitada na suspeita clínica de algumas das enfermidades a seguir. Quais das enfermidades abaixo listadas, justifica‑se a solicitação de tomografia de abdome e pelve com contraste endovenoso I. apendicite aguda retrocecal II. ureterolitíase III. diverticulite aguda complicada IV. pancreatite aguda V. colecistite aguda Assinale a alternativa correta.",
       "alternativas": {
         "A": "Somente os itens I, II, III e IV estão certos.",
