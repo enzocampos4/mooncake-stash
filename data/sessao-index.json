@@ -10145,8 +10145,8 @@
   "pv-df-2025-0110": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -10154,8 +10154,8 @@
   "pv-ena-2025-0131": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -10163,8 +10163,8 @@
   "pv-mg-2025-0129": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Colelitíase e colecistite",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10172,8 +10172,8 @@
   "pv-fam-2024-0060": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -10181,8 +10181,8 @@
   "pv-df-2025-0116": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -10190,7 +10190,7 @@
   "pv-sír-2024-0021": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -10199,8 +10199,8 @@
   "pv-df-2024-0037": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Proctologia",
+    "subsub": "Hemorroidas",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -10208,8 +10208,8 @@
   "pv-df-2024-0085": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Colecistite aguda",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -10217,8 +10217,8 @@
   "pv-ena-2024-0063": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -10226,8 +10226,8 @@
   "pv-ena-2025-0129": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Doença diverticular dos cólons (cirúrgica)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -10235,8 +10235,8 @@
   "pv-pe-2024-0074": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -10244,8 +10244,8 @@
   "pv-pe-2024-0078": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"

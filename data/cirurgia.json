@@ -7634,8 +7634,8 @@
     {
       "id": "pv-mg-2025-0121",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Paciente de 70 anos, do sexo feminino, comparece à consulta trazendo exame de tomografia computadorizada de abdome, feita no Pronto Atendimento devido a quadro de lombalgia, evidenciando nódulo hipervascular no colo do pâncreas de 1,9cm de diâmetro. Nega outros sintomas e diz estar sentindo-se muito bem, porém está muito apreensiva devido ao resultado do exame pela possibilidade de ser um câncer de pâncreas. Dentre as opções abaixo, em relação à conduta frente esta situação, assinale a alternativa CORRETA:",
       "alternativas": {
         "A": "Indicar a enucleação do nódulo.",
@@ -7657,7 +7657,7 @@
     {
       "id": "pv-amr-2024-0066",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Hérnias da Parede Abdominal",
       "sub_subarea": "",
       "enunciado": "São fatores perioperatórios que influenciam a rejeição de tela inabsorvível durante a reconstrução de uma parede abdominal em cirurgias de hérnias complexas, EXCETO:",
       "alternativas": {
@@ -7688,8 +7688,8 @@
     {
       "id": "pv-amr-2024-0071",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "subarea": "Proctologia",
+      "sub_subarea": "Doença diverticular dos cólons (cirúrgica)",
       "enunciado": "Sobre a hemorragia digestiva baixa, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "É um diagnóstico menos frequente do que a hemorragia digestiva alta.",
@@ -7711,8 +7711,8 @@
     {
       "id": "pv-amr-2025-0123",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Vascular",
-      "sub_subarea": "TVP",
+      "subarea": "Complicações Pós-Operatórias",
+      "sub_subarea": "Tromboembolismo venoso (TEV)",
       "enunciado": "Paciente adulto, em pós-operatório de grande cirurgia, apresenta edema generalizado em membro inferior direito e dor na panturrilha, mais acentuada à flexão do pé direito. Considerando o caso apresentado, a hipótese diagnóstica mais provável é:",
       "alternativas": {
         "A": "Traumatismo por mobilização excessiva.",
@@ -7734,7 +7734,7 @@
     {
       "id": "pv-amr-2025-0128",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "sub_subarea": "",
       "enunciado": "Sobre as hérnias de hiato, é INCORRETO afirmar que:",
       "alternativas": {
@@ -7769,8 +7769,8 @@
     {
       "id": "pv-amr-2025-0130",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Homem, 72 anos, apresenta quadro de dor epigástrica há cerca de 90 dias. Na última semana, apresentou quadro de hemorragia digestiva baixa. EDA mostra lesão submucosa, com área de ulceração central, com cerca de 4 cm na região do corpo do estômago. Biópsia endoscópica não revela tumor. Tomografia computadorizada de abdome sugere diagnóstico de tumor do estroma gastrointestinal (GIST) de 8 cm no maior diâmetro. Considerando o caso apresentado, analise as assertivas a seguir: I. Biópsia percutânea guiada por tomografia computadorizada é o melhor método para definir o diagnóstico dessa lesão. II. O exame imunoistoquímico é fundamental para o diagnóstico desses tumores. III. A profundidade da invasão na parede gástrica e a presença de linfonodos comprometidos são os principais fatores prognósticos para definir a sobrevida. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I.",
@@ -7806,8 +7806,8 @@
     {
       "id": "pv-ufr-2025-0177",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Vascular",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Diverticulite aguda",
       "enunciado": "Homem, 65 anos, anorético com parada de eliminação de flatos, constipação e dor intensa em fossa ilíaca esquerda. Exame físico: mucosas coradas; taquicardia; sinais de descompressão dolorosa abdominal. A principal hipótese diagnóstica e o exame complementar mais adequado para elucidar o caso é:",
       "alternativas": {
         "A": "pielonefrite aguda / urinocultura com antibiograma",
@@ -7829,7 +7829,7 @@
     {
       "id": "pv-ufr-2025-0182",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Observe a figura sobre as síndromes de herniação cerebral a seguir. Pode-se afirmar que a correlação correta entre a letra assinalada na figura e a herniação correspondente é:",
       "alternativas": {
@@ -7858,7 +7858,7 @@
     {
       "id": "pv-ufr-2025-0194",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Hérnias da Parede Abdominal",
       "sub_subarea": "",
       "enunciado": "A respeito da hérnia de Spiegel, pode-se afirmar que:",
       "alternativas": {
@@ -7887,7 +7887,7 @@
     {
       "id": "pv-ufr-2025-0196",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Mulher, 45 anos, com queixa de dor abdominal, realizou ultrassonografia (US) do abdome que evidenciou um nódulo em segmento IV do fígado. TC com estudo trifásico: lesão de 6cm com captação periférica globuliforme em fase arterial e evolução centrípeta. A conduta mais adequada é:",
       "alternativas": {
@@ -7910,7 +7910,7 @@
     {
       "id": "pv-uer-2024-0054",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "As infecções sexualmente transmissíveis podem manifestar-se por meio de úlceras vulvares. De acordo com o fluxograma do Ministério da Saúde para o manejo de infecções que causam úlcera genital, a biópsia está indicada nos casos de lesões com:",
       "alternativas": {
@@ -7933,7 +7933,7 @@
     {
       "id": "pv-uer-2024-0070",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "A hemorragia digestiva alta em pacientes hospitalizados é mais frequentemente causada por:",
       "alternativas": {
