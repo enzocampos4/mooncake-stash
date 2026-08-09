@@ -3943,7 +3943,7 @@
     {
       "id": "pv-sp-2025-0138",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Acerca da artéria aorta, assinale a alternativa correta.",
       "alternativas": {
@@ -3967,8 +3967,8 @@
     {
       "id": "pv-sp-2025-0139",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia inguinal",
       "enunciado": "Um paciente de 34 anos de idade queixou‑se de dor inguinal na região esquerda, que piorava após a pratica esportiva. Ele negou comorbidades. Apresentava hábito intestinal diário. Ao exame físico, foi evidenciada a presença de hérnia inguinal à esquerda pequena e redutível. Com base nessa situação hipotética, assinale a alternativa incorreta.",
       "alternativas": {
         "A": "O tratamento cirúrgico está indicado.",
@@ -3991,8 +3991,8 @@
     {
       "id": "pv-uni-2024-0059",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "",
+      "subarea": "Princípios da Anestesiologia",
+      "sub_subarea": "Anestesia geral",
       "enunciado": "Mulher, 55 anos de idade, é admitida na UTI para pós-operatório de exérese de glioblastoma multiforme em região frontal direita. O procedimento não teve intercorrências, mas havia muito edema cerebral. O neurocirurgião solicita a manutenção da sedação até a manhã do dia seguinte, quando será realizada uma tomografia computadorizada de crânio. Qual é a melhor conduta para sedação e analgesia no momento?",
       "alternativas": {
         "A": "Tiopental e fentanil.",
@@ -4014,7 +4014,7 @@
     {
       "id": "pv-uni-2024-0090",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Cirurgia Bariátrica e Metabólica",
       "sub_subarea": "",
       "enunciado": "Mulher, 43 anos de idade, IMC 46 kg/m2 , diabética, hipertensa, no quinto pós-operatório de Bypass gástrico em Y-de-Roux, apresenta inapetência e dor abdominal no epigástrio que piora à palpação. Exame físico: rebaixamento de nível de consciência, desidratada ++, FC: 110 bpm, PA: 100x60 mm Hg, FR: 22 irpm, SpO2 94% em ar ambiente. Qual é o diagnóstico mais provável?",
       "alternativas": {
@@ -4037,8 +4037,8 @@
     {
       "id": "pv-uni-2024-0098",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Princípios da Anestesiologia",
+      "sub_subarea": "Anestesia geral",
       "enunciado": "Homem, 75 anos de idade, será submetido a colectomia direita videolaparoscópica devido a tumor de cólon. Apresenta história de infarto do miocárdio tratado com colocação de stent. Os exames pré-operatórios demonstram PA = 110/55 mmHg, FC = 58 bpm, SatO2 = 96%. Ecocardiograma transtorácico apresentando FE 32%. Qual é hipnótico adequado para a indução da anestesia geral?",
       "alternativas": {
         "A": "Propofol.",
@@ -4060,7 +4060,7 @@
     {
       "id": "pv-uni-2025-0108",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Cirurgia Plástica",
       "sub_subarea": "",
       "enunciado": "Homem, 18 anos de idade, vítima de acidente por queda de moto, apresenta lesão na face posterior do antebraço direito. Exame físico: lesão de aproximadamente 25 x 7 cm, com sangramento e sujidade local, exposição da musculatura e gordura e sem exposição de vasos, nervos, tendões ou osso. Radiografia: ausência de fraturas. Submeteu-se a lavagem com desbridamento pela equipe da Cirurgia Geral. Após 10 dias, foi solicitada uma interconsulta para a equipe de Cirurgia Plástica. Qual é a conduta mais adequada para a cobertura?",
       "alternativas": {
@@ -4092,7 +4092,7 @@
     {
       "id": "pv-uni-2025-0141",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Homem, 63 anos de idade, com histórico de hipertensão arterial crônica e uso ocasional de álcool, é trazido ao PS após sua esposa encontrá-lo caído no chão do banheiro. Ele está confuso, queixando-se de dor de cabeça intensa e apresenta fraqueza no lado direito do corpo. Exame Físico: PA = 190/110 mmHg, FC = 88 bpm; hemiparesia direita e afasia parcial. Não há sinais de trauma externo. Tomografia computadorizada de crânio realizada à admissão: hematoma intracerebral de aproximadamente 40 mL localizado no lobo temporal esquerdo, sem sinais de herniação ou edema cerebral significativo. Qual é a conduta mais adequada, considerando que está dentro de 3 horas do início dos sintomas?",
       "alternativas": {
@@ -4115,7 +4115,7 @@
     {
       "id": "pv-uni-2025-0165",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Mulher, 54 anos de idade, refere sangramento genital progressivo há 2 anos. Biopsia endometrial: adenocarcinoma endometrial do tipo seroso. Estudo imuno-histoquímico: expressão anormal para p53. Ressonância Magnética da Pelve: doença restrita ao útero, ausência de linfonodomegalias pélvicas e para-aórticas. Tomografia de abdome superior e tórax: sem alterações. Qual é a conduta mais adequada?",
       "alternativas": {
@@ -4144,8 +4144,8 @@
     {
       "id": "pv-sír-2024-0061",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia inguinal",
       "enunciado": "Paciente de 62 anos é internado por hérnia inguinoescrotal direita encarcerada com hiperemia e dor intensa. Refere vômitos e nega febre. Abdome distendido, sem peritonismo. P: 95 bpm, PA: 110 x 80 mmHg. Nega cirurgias prévias. Tabagista. A conduta, dentre as abaixo, deve ser:",
       "alternativas": {
         "A": "Laparotomia de urgência.",
@@ -4170,8 +4170,8 @@
     {
       "id": "pv-sír-2024-0063",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma torácico",
       "enunciado": "Paciente de 19 anos, vítima de ferimento por arma branca em 7º espaço intercostal esquerdo na linha axilar anterior. Sem outras lesões. Refere dor limitada à topografia do ferimento. Acordado, eupneico, corado, P: 90 bpm, PA: 110 x 70 mmHg. Radiografia abaixo. A conduta mais apropriada, dentre as opções abaixo, deve ser",
       "alternativas": {
         "A": "Laparotomia e drenagem de tórax com pigtail.",
@@ -4198,7 +4198,7 @@
     {
       "id": "pv-sír-2024-0075",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente de 39 anos está internada na UTI em 1 pós-operatório de hernioplastia incisional gigante. Obesa mórbida, passa a apresentar aumento da resistência das vias aéreas, hipotensão refratária, redução da diurese. A hipótese é de síndrome compartimental. No contexto, a melhor orientação para medição da pressão intraabdominal é:",
       "alternativas": {
@@ -4228,7 +4228,7 @@
     {
       "id": "pv-sír-2024-0076",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Cirurgia Bariátrica e Metabólica",
       "sub_subarea": "",
       "enunciado": "Paciente de 29 anos, obesa mórbida com IMC: 42 kg/m² associada a refluxo esofágico Los Angeles C, diabetes não insulino-dependente e com padrão compulsivo por doces. Está em planejamento de cirurgia bariátrica. Dentre as técnicas abaixo, a mais adequada para o caso é:",
       "alternativas": {
