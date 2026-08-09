@@ -10793,8 +10793,8 @@
   "pv-df-2024-0098": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -10802,8 +10802,8 @@
   "pv-uni-2024-0053": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -10811,8 +10811,8 @@
   "pv-ufr-2024-0077": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Cirurgia Plástica",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -10820,8 +10820,8 @@
   "pv-sír-2025-0184": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10829,7 +10829,7 @@
   "pv-hcp-2025-0142": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
+    "sub": "Cirurgia Plástica",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
@@ -10838,7 +10838,7 @@
   "pv-hcp-2024-0075": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
@@ -10847,7 +10847,7 @@
   "pv-sp-2024-0036": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
@@ -10856,7 +10856,7 @@
   "pv-sp-2025-0168": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
@@ -10865,7 +10865,7 @@
   "pv-pe-2025-0158": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
@@ -10874,7 +10874,7 @@
   "pv-mg-2025-0084": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
@@ -10883,8 +10883,8 @@
   "pv-uer-2025-0201": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -10892,7 +10892,7 @@
   "pv-sp-2024-0038": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
