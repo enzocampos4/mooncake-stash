@@ -10361,8 +10361,8 @@
   "pv--2025-0128": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia incisional",
     "banca": "",
     "ano": 2025,
     "fonte": " 2025"
@@ -10370,8 +10370,8 @@
   "pv-uer-2025-0139": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia incisional",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -10379,7 +10379,7 @@
   "pv-uer-2025-0150": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
@@ -10388,8 +10388,8 @@
   "pv-hcp-2024-0047": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma raquimedular",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -10397,7 +10397,7 @@
   "pv-hcp-2025-0153": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
@@ -10406,8 +10406,8 @@
   "pv-hcp-2025-0157": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -10415,7 +10415,7 @@
   "pv-sp-2024-0087": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
@@ -10424,8 +10424,8 @@
   "pv--2024-0093": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia femoral e outras",
     "banca": "",
     "ano": 2024,
     "fonte": " 2024"
@@ -10433,8 +10433,8 @@
   "pv-sp-2025-0132": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -10442,7 +10442,7 @@
   "pv-uni-2024-0038": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,
@@ -10451,7 +10451,7 @@
   "pv-uni-2025-0118": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -10460,8 +10460,8 @@
   "pv-df-2025-0108": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia femoral e outras",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"

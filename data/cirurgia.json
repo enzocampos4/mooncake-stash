@@ -8279,8 +8279,8 @@
     {
       "id": "pv-df-2025-0174",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Qual o principal fator de risco modificável para o desenvolvimento de câncer de pulmão?",
       "alternativas": {
         "A": "Exposição a radiações ionizantes",
@@ -8309,7 +8309,7 @@
       "id": "pv-ena-2024-0091",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Derrame pleural (cirúrgico)",
       "enunciado": "Paciente do sexo masculino, 73 anos, apresentou desconforto respiratório progressivo na última semana e foi avaliado no pronto-socorro. Ao exame físico, apresentava, na ausculta pulmonar, murmúrio vesicular abolido em 2/3 inferiores, tendo sido confirmado derrame pleural moderado por radiografia de tórax. Após ser avaliado pela cirurgia torácica, optou-se por toracocentese de alívio e diagnóstica. Os exames séricos do paciente eram: Proteína total 3,8/dl, DHL 154 U/L. A rotina laboratorial de líquido pleural: Proteína total 1,7 g/dl, DHL 60 U/L. Observação: Desidrogenase láctica (DHL) – valores séricos normais de referência 120 a 246 U/L. Após análise dos resultados dos exames séricos e da rotina do líquido pleural do paciente, são aplicados os critérios de Light. Assinale a alternativa correta em relação a esse caso.",
       "alternativas": {
         "A": "Os resultados da análise indicam características de transudato, e insuficiência cardíaca poderia ser uma das hipóteses diagnósticas.",
@@ -8338,7 +8338,7 @@
     {
       "id": "pv-pe-2025-0134",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "sub_subarea": "",
       "enunciado": "Paciente, sexo masculino, 64 anos, evoluindo com hemorragia digestiva alta. Foi submetido a endoscopia com biópsia, imagens abaixo. A biópsia evidenciou mucosa gástrica normal. Realizou tomografias que não evidenciaram outras alterações em tórax ou abdome. Menos de 48h após a endoscopia evoluiu com nova hemorragia digestiva alta com hematêmese, tentado nova endoscopia, mas não foi possível controlar o sangramento por via endoscópica. Qual melhor opção terapêutica para o caso? Qual o provável diagnóstico?",
       "alternativas": {
@@ -8376,7 +8376,7 @@
     {
       "id": "pv-hcp-2025-0159",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "sub_subarea": "",
       "enunciado": "Paciente masculino, de 65 anos, com história de doença pulmonar obstrutiva crônica, tabagismo e diabetes melito (amputação do antepé direito há 2 anos), foi internado com quadro de perfuração gástrica por úlcera de estresse, sendo operado de urgência. Evoluiu com abscesso peritoneal, necessitando de laparotomia para lavagem da cavidade. Continuava apresentando picos febris e leucograma com desvio à esquerda. Nova tomografia computadorizada evidenciou presença de coleção peritoneal subdiafragmática direita e derrame pleural volumoso à direita com áreas loculadas. Que conjunto de condutas, dentre as abaixo, seria adequado neste momento?",
       "alternativas": {
@@ -8405,8 +8405,8 @@
     {
       "id": "pv-sír-2025-0122",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma torácico",
       "enunciado": "Paciente vitima de trauma moto x anteparo fixo, na cena apresentava FC: 120 bpm, PA: 140 × 90 mmHg e Glasgow 4, sendo intubado em sequência rápida e levado com colar e prancha rígida ao pronto-socorro. No atendimento inicial, após medidas de reanimação, feita radiografia com o seguinte achado. Sobre este caso clinico, é correto afirmar:",
       "alternativas": {
         "A": "Traumatismo esplênico e está indicada laparotomia para tratamento da lesão.",
@@ -8432,8 +8432,8 @@
     {
       "id": "pv-mg-2025-0135",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia inguinal",
       "enunciado": "P.V.R.G., 72 anos, sexo masculino, é portador de volumosa hérnia inguinal à direita com episódios eventuais de dor em cólica. Relata que consegue reduzir o conteúdo herniário com manobras manuais, com alívio dos sintomas de cólicas. É tabagista. Outras comorbidades: diabetes, obesidade, hipertrofia prostática. Procurou um cirurgião e recebeu algumas orientações. Assinale a assertiva que apresenta uma orientação ERRADA:",
       "alternativas": {
         "A": "Deverá ser utilizada tela para reduzir os riscos de recidiva.",
@@ -8455,7 +8455,7 @@
     {
       "id": "pv-amr-2025-0137",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "sub_subarea": "",
       "enunciado": "Sobre a hemorragia digestiva alta por úlcera péptica, assinale a alternativa que apresenta risco elevado de ressangramento.",
       "alternativas": {
@@ -8478,8 +8478,8 @@
     {
       "id": "pv-ena-2025-0125",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Um paciente de 48 anos apresenta-se no pronto-socorro com dor abdominal intensa e intermitente há 18 horas, com náuseas e vômitos. Ele relata não ter evacuado ou eliminado gases nas últimas 48 horas. Sua história patológica pregressa inclui uma apendicectomia realizada há 20 anos e uma cirurgia para correção de hérnia inguinoescrotal há 5 anos. O exame físico mostrou o paciente lúcido e apirético; sinais vitais: PA 125/80 mmHg, FC 90 bpm, FR 20 ipm, T 36,8 °C. O abdômen está distendido. Peristalse de luta apresenta ruídos metálicos e hipercinéticos. Sente dor à palpação difusa, porém sem sinais de defesa e com ausência de hérnias palpáveis. Os exames laboratoriais registram hemograma com leucócitos de 8.000/mm3 e eletrólitos dentro dos limites normais. Os exames de imagem revelam rotina de abdômen agudo, mostrando distensão de alças intestinais com níveis hidroaéreos, e sem evidências de tumorações. Diante desse quadro clínico, a etapa inicial mais apropriada para o manejo do caso é:",
       "alternativas": {
         "A": "colonoscopia urgente;",
@@ -8508,8 +8508,8 @@
     {
       "id": "pv-pe-2025-0133",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia inguinal",
       "enunciado": "Paciente, sexo masculino, 25 anos, ativo fisicamente, sem queixas, realiza exame de ultrassonografia por recomendação de um amigo que evidência hérnia inguinal direita indireta medindo 1.2cm. Diante do resultado procura especialista para maiores esclarecimentos. Qual afirmativa abaixo é VERDADEIRA?",
       "alternativas": {
         "A": "A chance dele evoluir com necessidade de cirurgia de urgência por encarceramento é de 10% ao ano.",
@@ -8540,8 +8540,8 @@
     {
       "id": "pv-sp-2025-0208",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Abdome agudo perfurativo",
       "enunciado": "Mulher, 22 anos de idade, previamente hígida, comparece no pronto atendimento com dor abdominal em baixo ventre de início súbito há 1 hora, de forte intensidade. Vida sexual ativa, usa dispositivo intraútero de cobre há 2 anos. Não se lembra da data da última menstruação, refere ciclos irregulares desde a adolescência. Obstipada há 2 dias, no momento apresenta náusea intensa. Ao exame físico, apresentou regular estado geral, descorada, PA de 80x40 mmHg, FC de 120 bpm. Abdome rígido com defesa global e descompressão brusca positiva em hipogástrio. Toque vaginal intensamente doloroso. Exame de imagem apresentado a seguir: A conduta correta a ser adotada diante dos achados é:",
       "alternativas": {
         "A": "Laparotomia .",
@@ -8569,8 +8569,8 @@
     {
       "id": "pv-hia-2024-0052",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Paciente masculino, 71 anos, vaí ao pronto-socorro queixando-se dor abdominal, em cólica, difusa, associada a parada de eliminação de flatos e fezes há 5 dias. Apresentou vários episódios de vômitos. Refere \"\"hémia abdominal” há cerca de 10 anos. Hipertenso e diabético. Exame clínico geral sem alterações. Abdome globoso, distendido, doloroso à palpação de epigástrio associado a abaulamento local, endurado, de cerca de 5x5 cm, sem hiperemia. Conteúdo hemiário irredutível. Toque retal com fecaloma. Exames laboratoriais. Creatinina: 2,46 mg/dL, ureia: 99 mg/dL, hemoglobina: 14,9 g/dL, leucócitos: 8.950/mrr³, amilase: 48 U/L, INR: 1,12, lactato venoso: 15.1. Foi realizada tomografia, cujas imagens estão abaixo: Na tomografia verificam-se",
       "alternativas": {
         "A": "uma hérnia de Richter.",
@@ -8598,8 +8598,8 @@
     {
       "id": "pv-hia-2024-0053",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Paciente masculino, 71 anos, vai ao pronto-socorro queixando-se dor abdominal, em cólica, difusa, associada a parada de eliminação de flatos e fezes há 5 dias. Apresentou vários episódios de vômitos. Refere \"hérnia abdominal” há cerca de 10 anos. Hipertenso e diabético. Exame clínico geral sem alterações. Abdome globoso, distendido, doloroso à palpação de epigástrio associado a abaulamento local, endurado, de cerca de 5x5 cm, sem hiperemia. Conteúdo herniário irredutível. Toque retal com fecaloma. Exames laboratoriais. Creatinina: 2,46 mg/dL, ureia: 99 mg/dL, hemoglobina: 14,9 g/dL, leucócitos: 8.950/mrr³, amilase: 48 U/L, INR: 1,12, lactato venoso: 15.1. De acordo com os achados,",
       "alternativas": {
         "A": "trata-se de obstrução intestinal mecânica podendo ser complicada.",
