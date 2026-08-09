@@ -8310,7 +8310,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "subsub": "Derrame pleural (cirúrgico)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -8318,7 +8318,7 @@
   "s5-096": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia Vascular",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -8327,7 +8327,7 @@
   "s5-099": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -8336,7 +8336,7 @@
   "s9-001": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -8345,8 +8345,8 @@
   "s9-017": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -8354,8 +8354,8 @@
   "s9-024": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "sub": "Trauma",
+    "subsub": "Trauma torácico",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -8363,7 +8363,7 @@
   "s9-030": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -8372,8 +8372,8 @@
   "s9-034": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma cranioencefálico (TCE)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -8381,8 +8381,8 @@
   "s9-043": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -8390,8 +8390,8 @@
   "s9-048": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Urologia",
+    "subsub": "Litíase urinária",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -8399,7 +8399,7 @@
   "s9-054": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Urologia",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -8408,8 +8408,8 @@
   "s9-065": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"

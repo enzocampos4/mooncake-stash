@@ -1922,9 +1922,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma raquimedular",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1946,9 +1946,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Apendicite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1970,9 +1970,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Hiperplasia prostática benigna",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1992,16 +1992,16 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Diverticulite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "pv-ena-2024-0046",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Cirurgia Infantil",
+      "sub_subarea": "",
       "enunciado": "Uma criança de dez anos de idade apresenta quadro de abdome agudo, após período de dois dias com febre, vômitos e importante distensão do abdome. Assinale a alternativa que apresenta uma das condutas corretas nesse caso.",
       "alternativas": {
         "A": "Devido à urgência, não comunicar a família e proceder à laparotomia exploradora.",
@@ -2024,7 +2024,7 @@
     {
       "id": "pv-ena-2024-0061",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Ostomias Intestinais",
       "sub_subarea": "",
       "enunciado": "Um paciente de 72 anos foi submetido a uma laparotomia exploradora por diverticulite complicada de cólon sigmoide, tendo sido realizada uma cirurgia com ressecção do sigmoide, fechamento do coto retal e confecção de colostomia terminal no cólon descendente. Esse tipo de cirurgia denomina-se",
       "alternativas": {
@@ -2054,8 +2054,8 @@
     {
       "id": "pv-ena-2024-0062",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Um paciente de 65 anos apresenta dor, distensão abdominal e vômitos repetidos há 2 dias. Não evacua e não elimina flatos há 3 dias. Os exames de imagem mostram distensão de intestino delgado e fezes em reto. Assinale a alternativa que apresenta a melhor conduta inicial para tratamento desse paciente.",
       "alternativas": {
         "A": "Coletar exames laboratoriais para detectar se há distúrbios hidroeletrolíticos e efetuar passagem de sonda nasogástrica para drenagem e hidratação.",
@@ -2084,7 +2084,7 @@
     {
       "id": "pv-ena-2024-0094",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente do sexo feminino, 56 anos, em pós-operatório de tireoidectomia radical, deu entrada no pronto atendimento com queixa de formigamento em membros superiores e tremores, associados a sudorese. No exame físico, são encontrados sinais de Trousseau e Chvostek positivos. Considerando o antecedente da paciente, qual eletrólito pode estar em níveis alterados e que poderia explicar a clínica e os achados no exame físico?",
       "alternativas": {
@@ -2117,8 +2117,8 @@
     {
       "id": "pv-ena-2025-0127",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma torácico",
       "enunciado": "Após um traumatismo torácico contuso, um paciente apresenta sinais de tamponamento cardíaco, incluindo hipotensão, taquicardia, aumento da turgência jugular e pulso fino. A conduta clínico-cirúrgica mais apropriada para esse paciente é:",
       "alternativas": {
         "A": "realização de pericardiocentese emergencial;",
@@ -2150,8 +2150,8 @@
     {
       "id": "pv-ena-2025-0161",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 24 anos, saudável, é usuária de dispositivo intrauterino de cobre. Refere vida sexual ativa com uso de preservativos e última menstruação há 10 dias. Há 2 horas, iniciou-se uma dor de instalação aguda, de padrão constante, em fossa ilíaca direita, sem irradiação, associada a náuseas e vômitos. Nega sangramento vaginal, febre, dor lombar, mudança de hábito intestinal ou urinário. A ultrassonografia transvaginal evidenciou aumento do ovário direito, comprometimento do fluxo sanguíneo em região anexial do mesmo lado e líquido livre em fundo de saco. A hipótese mais provável é:",
       "alternativas": {
         "A": "gestação ectópica à direita;",
@@ -2180,8 +2180,8 @@
     {
       "id": "pv-ena-2025-0171",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Uma mulher de 25 anos, sexualmente ativa, sem atraso menstrual, comparece ao ginecologista com uma ultrassonografia transvaginal de rotina que apresentou nódulo de aspecto misto, com áreas hiperecogênicas difusas e sombra acústica posterior no ovário direito medindo 7,0 cm. O ovário esquerdo e o útero não apresentaram alterações à ultrassonografia. Ao toque vaginal, identificou-se a presença de massa móvel, indolor, medindo em torno de 7,0 cm, palpável em região anexial direita. Considerando a principal hipótese diagnóstica do caso, é correto afirmar que:",
       "alternativas": {
         "A": "esse tipo de tumor ovariano é bilateral em 10% dos casos;",
@@ -2213,8 +2213,8 @@
     {
       "id": "pv-pe-2024-0064",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma torácico",
       "enunciado": "VMJS, 19 anos, sexo masculino, chega ao serviço de pronto atendimento trazido por amigos, vítima de perfuração por arma branca no 6º espaço intercostal direito, com o seguinte exame físico: sonolento, pouco responsivo, taquidispneico, hipocorado (++/4+), FC 120bpm, FR 35 ipm, PA: 80x60mmHg .RCR, 2T, BNF, SSFAo (++/6+) MV abolidos em HTD, mantidos em HTE, s/RA. ABD plano, tenso, doloroso à palpação difusa, sem sinais de irritação peritonial. Abre os olhos ao estímuloso doloroso, emite sons incompreensíveis e realiza flexão ao estímuloso doloroso. Após as medidas iniciais e estabilização do paciente, qual a melhor conduta para o caso em questão?",
       "alternativas": {
         "A": "Tomografia computadorizada",
