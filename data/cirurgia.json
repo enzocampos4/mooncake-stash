@@ -2591,8 +2591,8 @@
     {
       "id": "pv-mg-2025-0123",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "P.C.F., 58 anos, sexo feminino, engenheira, relata empachamento pós-prandial desde há cerca de um mês, que foi se intensificando a ponto de conseguir ingerir somente uma quantidade muito pequena de alimentos. Apresentou emagrecimento de cerca de 5kg com a moléstia atual. Ao exame físico, foi palpada massa no epigástrio e quadrante superior esquerdo. Realizou tomografia de abdome, onde foi vista tumoração sólida retroperitoneal de formato ovoide, com cerca de 18cm de diâmetro, heterogênea, com aspecto sugestivo de conter gordura macroscópica em seu interior, comprimindo e desviando o estômago cranialmente e anteriormente, e deslocando o cólon transverso caudalmente e o rim, anteriormente. Não há evidências radiológicas de invasão local ou metástase à distância. Em relação a este caso, assinale a alternativa ERRADA:",
       "alternativas": {
         "A": "A laparotomia mediana é uma boa via de acesso cirúrgico para a resolução desse caso.",
@@ -2620,8 +2620,8 @@
     {
       "id": "pv-mg-2025-0127",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "D.B.D., 17 anos, sexo masculino, estudante, apresentou quadro de dor periumbilical, acompanhada de inapetência e náusea, ontem. Hoje apresenta dor abdominal localizada no quadrante inferior direito do abdome, com temperatura axilar de 37,8ºC. sem defesa abdominal, com relato de dor à palpação profunda, mas sem dor à descompressão abdominal. A hiperextensão da coxa direita provoca dor lombar à direita e em fossa ilíaca direita. Exames laboratoriais mostraram 12.050 leucócitos/mm³ com 6% de bastonetes. Assinale qual das alternativas abaixo está ERRADA:",
       "alternativas": {
         "A": "A tomografia de abdome sem contraste é o melhor exame para diagnóstico diferencial neste caso.",
@@ -2643,7 +2643,7 @@
     {
       "id": "pv-amr-2024-0043",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Em relação ao acretismo placentário diagnosticado na cesariana de emergência, analise as assertivas a seguir: I. A histerotomia deve ser realizada fora da área placentária. II. A dequitação manual cuidadosa está indicada. III. A histerectomia será realizada com a placenta in situ. Quais estão corretas?",
       "alternativas": {
@@ -2666,7 +2666,7 @@
     {
       "id": "pv-amr-2024-0052",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente de 45 anos foi submetida à histerectomia total por miomatose. No pós-operatório imediato, o médico residente prescreveu para a analgesia quetamina, cetorolaco, ibuprofeno e 1 mg de morfina intravenosa até de 3/3 horas em caso de dor forte. Após algumas horas, a paciente começou a ter alucinações na sala de recuperação. Para corrigir essa prescrição, o médico deve: I. Suspender ou reduzir a dose de quetamina, provável causa das alucinações. II. Escolher apenas uma das drogas anti-inflamatórias, pois há sobreposição de cetorolaco e ibuprofeno. III. Acrescentar gabapentina para reduzir a necessidade de opioides. Quais estão corretas?",
       "alternativas": {
@@ -2698,8 +2698,8 @@
     {
       "id": "pv-amr-2024-0062",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "O cirurgião deve ser muito criterioso na indicação de procedimento cirúrgico para a doença de Crohn. São motivos de indicação de cirurgia, EXCETO:",
       "alternativas": {
         "A": "Fístula.",
@@ -2721,8 +2721,8 @@
     {
       "id": "pv-amr-2024-0074",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Sobre o diagnóstico de abdome agudo, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "É classificado em cinco subtipos: inflamatório, hemorrágico, isquêmico, obstrutivo e perfurativo.",
@@ -2744,8 +2744,8 @@
     {
       "id": "pv-amr-2025-0136",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "",
       "enunciado": "Sobre as hérnias hiatais paraesofágicas, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os sintomas mais frequentes são saciedade precoce, disfagia, odinofagia e dor torácica.",
@@ -2775,7 +2775,7 @@
     {
       "id": "pv-amr-2025-0138",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Cirurgia Bariátrica e Metabólica",
       "sub_subarea": "",
       "enunciado": "Sobre os hormônios dos eixos enteroencefálico e enteroinsular e a cirurgia bariátrica, assinale a alternativa correta.",
       "alternativas": {
@@ -2798,8 +2798,8 @@
     {
       "id": "pv-amr-2025-0174",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Escolar, 6 anos, há 2 dias com dor abdominal difusa, há 1 dia com náuseas e vômitos e há 12h com febre e piora da dor, associadas à diarreia aguda, sem restos patológicos. Após ultrassonografia (US) abdominal, é encaminhado para apendicectomia de urgência. No transoperatório, evidencia-se secreção purulenta em cavidade abdominal. Considerando a situação clínica apresentada, é correto afirmar que:",
       "alternativas": {
         "A": "A clínica é mais sugestiva de diarreia viral com adenite mesentérica.",
@@ -2827,8 +2827,8 @@
     {
       "id": "pv-ufr-2024-0104",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Hérnias da Parede Abdominal",
+      "sub_subarea": "Hérnia inguinal",
       "enunciado": "Homem, 35 anos, apresenta hérnia inguinal sintomática. Durante procedimento cirúrgico, identificou-se hérnia inguinal indireta com anel inguinal interno dilatado, além de destruição da fáscia transversalis do triângulo de Hesselbach. De acordo com a classificação de Nyhus, pode-se afirmar que esta paciente apresenta hérnia tipo:",
       "alternativas": {
         "A": "III A",
@@ -2856,8 +2856,8 @@
     {
       "id": "pv-ufr-2024-0105",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Coledocolitíase e colangite",
       "enunciado": "Mulher, 75 anos, com colelitíase, foi submetida a colecistectomia videolaparoscópica. No intraoperatório, observou-se dilatação de vias biliares, consequentemente se realizou uma colangiografia que evidenciou colédoco de 3cm contendo cálculo de cerca de 2cm em seu interior. A seguir, a conduta mais adequada é realizar colecistectomia e:",
       "alternativas": {
         "A": "drenagem de via biliar utilizando dreno de Kehr",
@@ -2890,8 +2890,8 @@
     {
       "id": "pv-ufr-2024-0119",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Cirurgia Infantil",
+      "sub_subarea": "Hérnias na criança (inguinal, umbilical)",
       "enunciado": "Pode-se afirmar, sobre a hérnia inguinal na infância, que:",
       "alternativas": {
         "A": "o tratamento é expectante até os dois anos de idade, principalmente no sexo feminino",
