@@ -4573,8 +4573,8 @@
     {
       "id": "pv-hia-2024-0050",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma abdominal",
       "enunciado": "Paciente de 35 anos, vítima de acidente com veículo automotor. No serviço de emergência está instável, com pressão arterial sistólica de 60 mmHg; FC: 140 bpm. FAST negativo. Realizada uma radiografia de pelve mostrada a seguir. Colocada uma cinta pélvica, sem melhora hemodinâmica. Iniciado protocolo de transfusão maciça. Próximo passo a ser dado, dentre as opções abaixo, deverá ser:",
       "alternativas": {
         "A": "Tamponamento pré-peritoneal.",
@@ -4609,8 +4609,8 @@
     {
       "id": "pv-hia-2024-0056",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Paciente masculino, 32 anos vai ao pronto-socorro com história de 7 dias de epigastralgia com parada de eliminação de flatos e fezes. Não tem antecedentes cirúrgicos ou quadros pregressos semelhantes. Não havia alterações no exame físico. Foram colhidos exames laboratoriais: Hemoglobina: 10,6 g/dL, Leucograma: 9.850 mm³, Plaquetas: 554.000/mm³, Ureia: 24 mg/dL, Creatinina: 0,7 mg/dL, Bilirubina direta: 0,13 mg/dl, TGO: 13 U/L, TGP: 11 U/L, FA: 67 U/L, GGT:22 U/L, Amilase: 110 U/L, Lipase: 24 U/L. Foi solicitada tomografia de abdome cujo resultado é mostrado na imagem: Melhor conduta diante do quadro clínico e achado tomográfico, dentre as listadas abaixo:",
       "alternativas": {
         "A": "Seguimento ambulatorial com ressonância.",
@@ -4645,8 +4645,8 @@
     {
       "id": "pv-hia-2024-0060",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma torácico",
       "enunciado": "Paciente de 55 anos foi vítima de ferimento por arma branca em hemitórax esquerdo. Na cena, com grande quantidade de sangue, notou-se vias aéreas pérvias, FR: 15 ipm e SatO₂: 90% em ar ambiente, murmúrios vesiculares presentes bilateralmente, PA: 90 x 60 mmHg, FC: 81 bpm, bulhas hipofonéticas. No transporte, feita expansão inicial com 500 mL de ringer lactato, suporte de oxigênio e curativo em 3 pontas não soprante. Exame físico de entrada: vias aéreas pérvias, sem colar cervical. FR: 18 ipm, SatO₂: 99% com máscara 10 L/min. Murmúrio vesicular diminuído à esquerda, não timpânico, PA: 60 x 36 mmHg, FC: 121 bpm, bulhas rítmicas, hipofonéticas, descorado 3+/4+. Ultrassom FAST com achado de líquido no pericárdio, sem líquido livre abdominal. Escala de coma de Glasgow 15. Paciente em prancha rígida, três ferimentos penetrantes em região precordial, e múltiplas escoriações em tórax e abdome. Na sala de emergência evoluiu com atividade elétrica sem pulso e foi intubado. A melhor conduta imediata nesse momento deve ser",
       "alternativas": {
         "A": "esternotomia mediana.",
@@ -4676,7 +4676,7 @@
     {
       "id": "pv-hia-2025-0081",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente de 56 anos, hipertenso e diabético, é admitido no hospital com queixa de dor torácica retroesternal, em aperto, com irradiação para o braço esquerdo e o pescoço, iniciada há uma hora. Sinais vitais: pressão arterial: 160 x 90 mmHg; frequência cardíaca: 90 bpm; saturação O₂: 96%; temperatura: 36,5 oC. Ausculta cardíaca e respiratória sem alterações. O eletrocardiograma realizado na admissão revelou supradesnivelamento do segmento ST em V2-V4, e a troponina está elevada. O paciente recebeu tratamento medicamentoso inicial recomendado. O cateterismo revelou lesão única de 99% no terço médio da artéria descendente anterior (DA). A conduta correta a ser realizada nesse momento consiste em",
       "alternativas": {
@@ -4705,8 +4705,8 @@
     {
       "id": "pv-hia-2025-0092",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Paciente de 26 anos, sexo feminino, vem com queixa de mal-estar há dois dias, com piora progressiva e, há um dia, com dor abdominal em hipogastro associada a disúria e polaciúria. Nega febre, nega alterações de hábito intestinal, refere inapetência, mas nega vômitos. Sexualmente ativa, refere corrimento amarelo claro no período, faz uso de contraceptivo oral; data da última menstruação há 3 semanas. Ao exame físico, está em bom estado geral, FC 89 bpm, PAM 120 x 87 mmHg, dor à palpação de hipogastro, sem massas palpáveis ou sinal de irritação peritoneal. Urina I com 20000 leucócitos/mL (VR 0 – 10000). Realizou o exame a seguir. Assinale a alternativa que contém o diagnóstico correto para esse caso.",
       "alternativas": {
         "A": "Abscesso túbulo ovariano.",
@@ -4739,8 +4739,8 @@
     {
       "id": "pv-hia-2025-0093",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Paciente de 26 anos, sexo feminino, vem com queixa de mal-estar há dois dias, com piora progressiva e, há um dia, com dor abdominal em hipogastro associada a disúria e polaciúria. Nega febre, nega alterações de hábito intestinal, refere inapetência, mas nega vômitos. Sexualmente ativa, refere corrimento amarelo claro no período, faz uso de contraceptivo oral; data da última menstruação há 3 semanas. Ao exame físico, está em bom estado geral, FC 89 bpm, PAM 120 x 87 mmHg, dor à palpação de hipogastro, sem massas palpáveis ou sinal de irritação peritoneal. Urina I com 20000 leucócitos/mL (VR 0 – 10000). Realizou o exame a seguir. Assinale a alternativa que contém o diagnóstico correto para esse caso.",
       "alternativas": {
         "A": "Abscesso túbulo ovariano.",
@@ -4773,8 +4773,8 @@
     {
       "id": "pv-hia-2025-0094",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Paciente de 26 anos, sexo feminino, vem com queixa de mal-estar há dois dias, com piora progressiva e, há um dia, com dor abdominal em hipogastro associada a disúria e polaciúria. Nega febre, nega alterações de hábito intestinal, refere inapetência, mas nega vômitos. Sexualmente ativa, refere corrimento amarelo claro no período, faz uso de contraceptivo oral; data da última menstruação há 3 semanas. Ao exame físico, está em bom estado geral, FC 89 bpm, PAM 120 x 87 mmHg, dor à palpação de hipogastro, sem massas palpáveis ou sinal de irritação peritoneal. Urina I com 20000 leucócitos/mL (VR 0 – 10000). Realizou o exame a seguir. Assinale a alternativa que contém o diagnóstico correto para esse caso.",
       "alternativas": {
         "A": "Abscesso túbulo ovariano.",
@@ -4807,8 +4807,8 @@
     {
       "id": "pv-hia-2025-0104",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Paciente, 45 anos, apresenta quadro de hematêmese e melena. Endoscopia digestiva alta realizada na urgência identifica tumor de, aproximadamente, 3 cm, recoberto por mucosa normal, com umbilicação central, em fundo gástrico, com sinais de sangramento recente. Não foi realizada biópsia. Em face do exposto, assinale a alternativa correta.",
       "alternativas": {
         "A": "O paciente deve ser submetido à gastrectomia com linfadenectomia a D2, na urgência, considerando a alta probabilidade de câncer gástrico.",
@@ -4830,8 +4830,8 @@
     {
       "id": "pv-hia-2025-0127",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Paciente 40 anos, nuligesta, submetida à exérese da zona de transformação do tipo 3, comparece para resultado de estudo anatomopatológico que revelou: lesão intraepitelial escamosa de alto grau com extensão para criptas endocervicais em todos os quadrantes, presença de área de invasão estromal 1.6 mm sem invasão linfovascular, margens cirúrgicas livres de neoplasia. Qual é a conduta mais adequada neste caso?",
       "alternativas": {
         "A": "Caso a paciente seja desejosa de gestação, é possível conduta conservadora com traquelectomia e histerectomia após prole completa.",
@@ -4866,8 +4866,8 @@
     {
       "id": "pv-df-2024-0081",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 60 anos de idade procurou o pronto-socorro com dor abdominal intensa de início súbito, predominantemente no quadrante superior esquerdo. Ela relata náuseas, vômitos e ausência de evacuações. Ao exame físico, revela sensibilidade à palpação abdominal e sinais de peritonite localizada. Na admissão, os sinais vitais apresentavam PA = 90 mmHg x 60 mmHg, FC = 120 bpm, FR = 28 irpm e temperatura = 37,8 °C. Ela realizou exames complementares que demonstraram: leucograma com leucocitose significativa, amilase sérica dentro da faixa de normalidade e lactato sérico elevado. Nesse caso clínico, o diagnóstico mais provável é",
       "alternativas": {
         "A": "infarto mesentérico.",
@@ -4889,7 +4889,7 @@
     {
       "id": "pv-df-2024-0087",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Vesícula e Vias Biliares",
       "sub_subarea": "",
       "enunciado": "Um paciente de 58 anos de idade, com antecedentes de hipertensão arterial sistêmica bem controlada com enalapril, foi admitido para cirurgia eletiva de colecistectomia laparoscópica por causa de episódios recorrentes de cólica biliar. Ao exame físico, apresentou PA = 130 mmHg x 80 mmHg, FC = 78bpm, FR = 16 irpm, temperatura = 36,8 °C e SatO2 = 98% em a.a. Realizou exames laboratoriais com resultados dentro da faixa de normalidade, glicose = 110 mg/dL, ureia e creatinina normais, coagulograma normal, eletrocardiograma com ritmo sinusal, sem alterações agudas. Quanto à história cirúrgica, o paciente não possui histórico de cirurgias prévias. Ele relatou não ter alergias conhecidas a medicamentos. Considerando o caso apresentado, qual a abordagem mais apropriada para o preparo pré-operatório desse paciente?",
       "alternativas": {
@@ -4918,8 +4918,8 @@
     {
       "id": "pv-df-2024-0088",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Avaliação Pré-Operatória",
+      "sub_subarea": "Risco cirúrgico (ASA, Goldman, Lee)",
       "enunciado": "Uma paciente de 55 anos de idade, com histórico de hipertensão arterial controlada com medicamentos, internou-se para uma colecistectomia eletiva em razão de episódios recorrentes de cólica biliar. Durante a avaliação pré-operatória, a paciente relatou ter tomado sua medicação anti-hipertensiva na manhã do dia da cirurgia, porém não conseguiu realizar a consulta com cardiologista para avaliação de risco cirúrgico. Ao exame físico, apresentou PA = 176 mmHg x 90 mmHg, FC = 80 bpm, FR = 18 irpm e SatO2 = 98% a.a. Com relação a esse caso clínico, assinale a alternativa que indica a conduta mais apropriada acerca do preparo pré-operatório e da medicação anti-hipertensiva.",
       "alternativas": {
         "A": "Prosseguir com a cirurgia conforme agendado, uma vez que a pressão arterial está dentro da faixa aceitável.",
