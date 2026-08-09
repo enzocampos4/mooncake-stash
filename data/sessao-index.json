@@ -10685,7 +10685,7 @@
   "pv-ufr-2024-0060": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -10694,8 +10694,8 @@
   "pv-hcp-2024-0059": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Avaliação Pré-Operatória",
+    "subsub": "Jejum e medicação pré-op",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -10703,7 +10703,7 @@
   "pv-fam-2025-0083": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2025,
@@ -10712,8 +10712,8 @@
   "pv-sp-2025-0240": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -10721,7 +10721,7 @@
   "pv-uni-2024-0054": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,
@@ -10730,8 +10730,8 @@
   "pv-uni-2024-0078": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Doença diverticular dos cólons (cirúrgica)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -10739,8 +10739,8 @@
   "pv-uni-2025-0185": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Proctologia",
+    "subsub": "Doença diverticular dos cólons (cirúrgica)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -10748,8 +10748,8 @@
   "pv-sír-2024-0062": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Cirurgia Infantil",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -10757,8 +10757,8 @@
   "pv-sír-2025-0133": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Cirurgia Torácica",
+    "subsub": "Tumores pulmonares",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10766,8 +10766,8 @@
   "pv-sír-2025-0135": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -10775,7 +10775,7 @@
   "pv-hia-2024-0025": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Urologia",
     "subsub": "",
     "banca": "HIAE",
     "ano": 2024,
@@ -10784,8 +10784,8 @@
   "pv-hia-2025-0097": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"

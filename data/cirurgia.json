@@ -9299,8 +9299,8 @@
     {
       "id": "pv-df-2024-0098",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Um paciente de 7 anos de idade foi levado à unidade de pronto atendimento com queixa de dor abdominal intermitente há 48 horas, localizada no quadrante inferior direito. Não apresentou febre, porém estava mantendo a temperatura de cerca de 37,5 ºC nas últimas 24 horas. Durante a anamnese, a genitora informou que, há 10 dias, o enfermo havia apresentado quadro de gastroenterite aguda por 72 horas (doença autolimitada). Ao exame físico, o sinal de Blumberg era negativo, mas observava-se expressão de dor abdominal à palpação profunda de todo o quadrante inferior à direita. Foram realizados exames laboratoriais e ultrassonografia de abdome, a qual descartou a possibilidade de apendicite aguda e mostrava a presença de linfonodos aumentados de volume nessa topografia. Nesse caso clínico, a principal hipótese diagnóstica é",
       "alternativas": {
         "A": "divertículo de Meckel.",
@@ -9333,8 +9333,8 @@
     {
       "id": "pv-uni-2024-0053",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Adolescente, 16 anos de idade, é levada ao serviço de saúde pela mãe, para avaliar resultado de preventivo de câncer de colo de útero mostrando lesão de baixo grau no citopatológico cérvicovaginal. Segundo as diretrizes nacionais de rastreamento, a conduta mais adequada é:",
       "alternativas": {
         "A": "repetir a citologia em 6 meses.",
@@ -9362,8 +9362,8 @@
     {
       "id": "pv-ufr-2024-0077",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Cirurgia Plástica",
+      "sub_subarea": "",
       "enunciado": "Mulher, 49 anos, apresenta na mamografia área de microcalcificações pleomórficas medindo cerca de 1,5cm em quadrante superior externo (QSE) de mama direita. Exame físico das mamas sem alterações. Realizada mamotomia da lesão com diagnóstico histopatológico de hiperplasia ductal atípica. Mamografia de controle: microcalcificações residuais no local da biópsia. Pode-se afirmar que a melhor conduta a seguir é realizar uma:",
       "alternativas": {
         "A": "setorectomia com uso de tamoxifeno por 5 anos",
@@ -9394,8 +9394,8 @@
     {
       "id": "pv-sír-2025-0184",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Mulher de 32 anos, sem doenças prévias, realizou seu terceiro exame de Papanicolau e, desta vez, foi identificada uma lesão intraepitelial escamosa de baixo grau (LIE-BG). A médica explicou que não havia sinais infecciosos e de atrofia, portanto, sem necessidade de tratamento imediato. A paciente ficou preocupada e consultou um outro médico. Com base nos conceitos de rastreamento e investigação diagnóstica, as condutas esperadas deste segundo médico, segundo as diretrizes brasileiras do Instituto Nacional do Câncer (INCA), devem ser:",
       "alternativas": {
         "A": "Manter o programa de rastreamento, realizando o próximo Papanicolau em 6 meses.",
@@ -9420,7 +9420,7 @@
     {
       "id": "pv-hcp-2025-0142",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
+      "subarea": "Cirurgia Plástica",
       "sub_subarea": "",
       "enunciado": "Paciente de 46 anos, ainda na menacme, veio à consulta na UBS queixando-se de mastalgia na mama direita. Ao exame físico, não foram palpadas linfadenopatias suspeitas nas regiões axilares ou fossas supraclaviculares. Palpou-se nódulo elástico de 6 cm, no quadrante superolateral da mama direita, doloroso, não fixo a planos profundos ou pele. A mamografia identificou nódulo com bordas regulares no quadrante superolateral da mama direita, classificado como BI-RADS zero. À ultrassonografia mamária complementar, foi evidenciada uma lesão cística de 5,5 cm, bem delimitada e com conteúdo anecoico na mesma localização, classificada como BI-RADS 2. A conduta mais adequada é",
       "alternativas": {
@@ -9455,7 +9455,7 @@
     {
       "id": "pv-hcp-2024-0075",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Casal em investigação de fertilidade trouxe à consulta resultados de espermograma e de exames hormonais normais. A paciente tinha história de internação por doença inflamatória pélvica. Que opção, dentre as abaixo, é o exame padrão ouro para avaliar a anatomia pélvica feminina?",
       "alternativas": {
@@ -9484,7 +9484,7 @@
     {
       "id": "pv-sp-2024-0036",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Uma paciente de 32 anos de idade queixou‑se de dismenorreia severa progressiva e dispareunia. A suspeita de endometriose é considerada. Com base nessa situação hipotética, assinale a alternativa que apresenta o exame considerado padrão‑ouro para o diagnóstico dessa condição.",
       "alternativas": {
@@ -9514,7 +9514,7 @@
     {
       "id": "pv-sp-2025-0168",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Uma paciente de 33 anos de idade, após a realização de videolaparoscopia, foi diagnosticada com endometriose pélvica profunda. Com base nessa situação hipotética, é correto afirmar que",
       "alternativas": {
@@ -9546,7 +9546,7 @@
     {
       "id": "pv-pe-2025-0158",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente 25 anos, secundigesta e primípara, assintomática, traz exames de rotina. Citologia oncótica: Avaliação da amostra - satisfatória Epitélios representativos na amostra - escamoso, glandular e metaplásico Representatividade da zona de transformação – sim Microbiologia – bacilos supracitoplasmáticos (sugestivos de Gardnerella / Mobiluncus Conclusão: Células atípicas de significado indeterminado – ASC-H A colposcopia revelava colo grande e sem mácula. Orifício cervical externo em fenda transversa. Conteúdo vaginal mucoide, bolhoso, esbranquiçado e em pequena quantidade. Os achados colposcópicos anormais apresentavam epitélio aceto branco denso, com vasos atípicos e sangrantes ao toque, superfície irregular e áreas de ulceração. Assinale a alternativa que representa a conduta que possa ser realizada nessa paciente.",
       "alternativas": {
@@ -9579,7 +9579,7 @@
     {
       "id": "pv-mg-2025-0084",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Paciente de 45 anos, com história de ciclos menstruais regulares, apresenta sangramento uterino anormal (SUA) intermitente nos últimos seis meses. Foi realizada biópsia de endométrio que revelou hiperplasia endometrial simples sem atipias. Após exclusão de malignidade, qual seria A MELHOR ESTRATÉGIA de manejo a longo prazo no seguimento ambulatorial, levando-se em conta fatores de risco para recorrência?",
       "alternativas": {
@@ -9608,8 +9608,8 @@
     {
       "id": "pv-uer-2025-0201",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Mulher de 50 anos relata episódios de calor e sudorese noturna, especialmente em tórax e face e, às vezes, tem o sono interrompido por esses episódios. Refere histerectomia total com preservação dos ovários, há dois anos. Relata ganho de peso durante a pandemia. Nega tabagismo, uso de corticoides, ingestão de bebidas alcóolicas e história de transfusão de sangue. A mãe é obesa e diabética, sua tia paterna faleceu de câncer de mama e sua avó teve fratura do fêmur aos 70 anos. Ela pergunta ao médico se pode estar na menopausa e diz que quer fazer todos os exames, inclusive dosagens hormonais e densitometria. Além disso, quer começar a terapia hormonal o mais cedo possível, porque “quer ter uma velhice saudável”. Sobre a abordagem do climatério/menopausa, nesse caso, é correto afirmar que o(a):",
       "alternativas": {
         "A": "exame de densitometria óssea deve ser realizado nas mulheres com mais de 65 anos",
@@ -9631,7 +9631,7 @@
     {
       "id": "pv-sp-2024-0038",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Uma mulher de cinquenta anos de idade, nuligesta, pós‑menopausa e com antecedente de carcinoma lobular invasivo da mama, em uso de tamoxifeno, apresenta ultrassonografia com eco endometrial de 8 mm. Com base nessa situação hipotética, assinale a alternativa que apresenta o próximo passo na avaliação da paciente.",
       "alternativas": {
