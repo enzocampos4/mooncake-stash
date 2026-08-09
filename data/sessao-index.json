@@ -10253,8 +10253,8 @@
   "pv-mg-2025-0121": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -10262,7 +10262,7 @@
   "pv-amr-2024-0066": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Hérnias da Parede Abdominal",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
@@ -10271,8 +10271,8 @@
   "pv-amr-2024-0071": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "sub": "Proctologia",
+    "subsub": "Doença diverticular dos cólons (cirúrgica)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -10280,8 +10280,8 @@
   "pv-amr-2025-0123": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Vascular",
-    "subsub": "TVP",
+    "sub": "Complicações Pós-Operatórias",
+    "subsub": "Tromboembolismo venoso (TEV)",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -10289,7 +10289,7 @@
   "pv-amr-2025-0128": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Urgências Abdominais",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
@@ -10298,8 +10298,8 @@
   "pv-amr-2025-0130": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -10307,8 +10307,8 @@
   "pv-ufr-2025-0177": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Vascular",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Diverticulite aguda",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -10316,7 +10316,7 @@
   "pv-ufr-2025-0182": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
@@ -10325,7 +10325,7 @@
   "pv-ufr-2025-0194": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Hérnias da Parede Abdominal",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
@@ -10334,7 +10334,7 @@
   "pv-ufr-2025-0196": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
@@ -10343,7 +10343,7 @@
   "pv-uer-2024-0054": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
@@ -10352,7 +10352,7 @@
   "pv-uer-2024-0070": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
