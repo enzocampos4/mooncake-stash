@@ -10901,7 +10901,7 @@
   "pv-sp-2024-0040": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
@@ -10910,8 +10910,8 @@
   "pv-sp-2025-0205": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -10919,8 +10919,8 @@
   "pv-uni-2025-0160": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -10928,7 +10928,7 @@
   "pv-hia-2024-0030": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "HIAE",
     "ano": 2024,
@@ -10937,7 +10937,7 @@
   "pv-hcp-2024-0073": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
@@ -10946,8 +10946,8 @@
   "pv-hcp-2024-0065": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -10955,8 +10955,8 @@
   "pv-df-2025-0111": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -10964,8 +10964,8 @@
   "pv-uer-2024-0061": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -10973,8 +10973,8 @@
   "pv-ena-2024-0014": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -10982,7 +10982,7 @@
   "pv-ena-2024-0071": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia de Cabeça e Pescoço",
     "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
@@ -10991,8 +10991,8 @@
   "pv-pe-2024-0062": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -11000,8 +11000,8 @@
   "pv-pe-2024-0070": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia incisional",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
