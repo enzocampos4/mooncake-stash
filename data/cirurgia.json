@@ -4257,8 +4257,8 @@
     {
       "id": "pv-sír-2024-0080",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma abdominal",
       "enunciado": "Paciente de 22 anos é atendido no pronto-socorro, vítima de único ferimento por arma branca em flanco esquerdo de 3 cm de extensão. Estável hemodinamicamente, permanece em observação inicial. Após intensificação da dor, realiza-se a tomografia de abdome. Melhor conduta para esse caso, dentre as abaixo:",
       "alternativas": {
         "A": "Repetir tomografia com contraste via oral prolongada.",
@@ -4284,7 +4284,7 @@
     {
       "id": "pv-sír-2025-0126",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "sub_subarea": "",
       "enunciado": "Homem de 55 anos, com múltiplas laparotomias anteriores, foi submetido a uma colecistectomia laparoscópica devido à colelitíase sintomática. Sua endoscopia digestiva alta pré-operatória era normal. O pneumoperitônio foi realizado com agulha de Verres e não há relato de colecistectomia difícil. No primeiro dia pós-operatório, ele desenvolve taquipneia e dor abdominal intensa, distensão abdominal e ausência de evacuações. A ausculta revela redução dos sons intestinais. É submetido a uma tomografia que mostra líquido livre na cavidade abdominal e gás fora de alça. O diagnóstico mais provável, dentre os abaixo, é:",
       "alternativas": {
@@ -4308,8 +4308,8 @@
     {
       "id": "pv-sír-2025-0131",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma abdominal",
       "enunciado": "Um paciente de 24 anos sofreu um trauma abdominal contuso em uma briga. Na admissão, apresenta dor abdominal difusa, distensão e sinais de peritonite. PA: 85 × 55 mmHg. FC: 110 bpm. FR: 22 ipm. No hemograma há uma queda significativa do hematócrito em relação ao exame prévio. O diagnóstico mais provável, dentre os elencados abaixo, é:",
       "alternativas": {
         "A": "Hematoma retroperitoneal.",
@@ -4334,8 +4334,8 @@
     {
       "id": "pv-sír-2025-0134",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 45 anos, previamente saudável, percebeu um nódulo indolor na mama direita durante o autoexame. Na consulta, a paciente refere que o nódulo tem crescido progressivamente nos últimos dois meses. O exame fisico revela um nódulo de aproximadamente 3 cm, fixo e irregular no quadrante superior externo da mama direita. Não há adenomegalias axilares palpáveis. A mamografia revela uma lesão espiculada com microcalcificações associadas. A biópsia do nódulo confirma carcinoma ductal invasivo. A próxima etapa mais indicada no manejo dessa paciente deve ser",
       "alternativas": {
         "A": "Radioterapia adjuvante antes da cirurgia",
@@ -4358,8 +4358,8 @@
     {
       "id": "pv-sír-2025-0136",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Homem, 45 anos, tabagista, com história de dor abdominal difusa há 12 horas, que evoluiu para dor localizada em fossa ilíaca direita. Ao exame físico, apresenta dor à palpação nessa região, defesa muscular e sinal de Blumberg positivo. Não há antecedentes cirúrgicos relevantes. O diagnóstico mais provável é",
       "alternativas": {
         "A": "Pancreatite aguda.",
@@ -4387,8 +4387,8 @@
     {
       "id": "pv-sír-2025-0140",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Coledocolitíase e colangite",
       "enunciado": "Mulher de 29 anos, sem antecedentes mórbidos, vai ao pronto-socorro com dor abdominal, icterícia e náuseas há 3 dias. Refere ter sido submetida, há sete dias, a uma colecistectomia VLP e desde então apresentou quadro progressivo de dor abdominal difusa, parada de eliminação de gases e fezes, distensão abdominal e icterícia, com dor em ombro direito, desde o 3º PO. Ao Exame Físico BEG, corada, hidratada, ictérica 2+/4, acianótica. Hemodinamicamente estável. Seu abdome estava distendido doloroso à palpação profunda. DB negativos. Exames laboratoriais: Hemoglobina: 14 g/dL, Plaquetas: 350.000. Leucócitos 12.800 mm³, sem desvio. U: 29.6 UI. Cr: 0.4 mg/dL. Na 142 mEQ/L, K: 4,5 mEq/L. AST: 138 UI. ALT: 511 UI. GGT: 218 UI FA: 152 UI. BT: 7,3 mg/dL, BD: 5,6 mg/dL, BI: 1.7 mg/dL. Foi submetida a uma tomografia cujas imagens seguem: O diagnóstico mais provável e a melhor conduta a ser adotada nesse caso:",
       "alternativas": {
         "A": "Úlcera péptica perfurada e laparotomia exploradora",
@@ -4443,7 +4443,7 @@
       "id": "pv-sír-2025-0148",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Derrame pleural (cirúrgico)",
       "enunciado": "Pré-escolar, 3 anos, previamente hígida, apresenta febre alta e tosse há 5 dias. Evoluiu com dificuldade respiratória progressiva. Ao exame físico, há estertores crepitantes no pulmão direito e redução do murmúrio vesicular na base direita. Radiografia de tórax revelou derrame pleural moderado no hemitórax direito. A ultrassonografia (US) de tórax confirmou presença de loculações no derrame pleural. A criança está hemodinamicamente estável. O próximo passo no manejo da paciente deverá ser:",
       "alternativas": {
         "A": "Efetuar toracocentese guiada por US com análise microbiológica da amostra.",
@@ -4471,8 +4471,8 @@
     {
       "id": "pv-sír-2025-0172",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Mulher, 55 anos, realizou citologia oncótica cérvico-vaginal com resultado: lesão intraepitelial escamosa de alto grau. Foi solicitada uma colposcopia cuja biópsia foi adenocarcinoma in situ de colo uterino. A conduta mais adequada, nesse momento, é",
       "alternativas": {
         "A": "conização.",
@@ -4495,7 +4495,7 @@
     {
       "id": "pv-hia-2024-0026",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Mulher, 26 anos de idade, traz laudo de ultrassonografia endovaginal solicitada para avaliar posicionamento de DIU hormonal inserido há 6 meses. Observa-se, no exame, anexo direito com imagem multicística, medindo 4 cm no maior diâmetro, com septo espesso e 2 vegetações, medindo a maior 9 mm, sem fluxo ao doppler colorido. A conduta mais adequada nesse caso, dentre as abaixo, é:",
       "alternativas": {
@@ -4527,8 +4527,8 @@
     {
       "id": "pv-hia-2024-0046",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Paciente de 25 anos, usuário de crack é submetido a laparotomia por pneumoperitônio e sepse grave, necessitando de noradrenalina para manter estabilidade hemodinâmica. No intraoperatório, nota-se úlcera péptica pré-pilórica de 4 cm com fibrose e estenose intensa impossibilitando a visão da luz duodenal. Estômago dilatado e paredes espessadas difusamente. A melhor abordagem cirúrgica para este caso, dentre as abaixo, é:",
       "alternativas": {
         "A": "Gastrectomia total.",
@@ -4550,8 +4550,8 @@
     {
       "id": "pv-hia-2024-0048",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Paciente de 73 anos está internada por quadro de distensão abdominal, inapetência e parada de eliminação de gases e fezes há 5 dias. Antecedente de adenocarcinoma de ovário com carcinomatose e omental cake, além de metástases hepáticas. Tomografia revela distensão difusa de delgado com múltiplos pontos de suboclusão. Realizadas analgesia, hidratação e passagem de sonda nasogástrica. Dentre os medicamentos abaixo, o mais adequado nesse momento para o tratamento da afecção de urgência é:",
       "alternativas": {
         "A": "Bromoprida.",

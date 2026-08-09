@@ -9065,7 +9065,7 @@
   "pv-sp-2025-0138": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
@@ -9074,8 +9074,8 @@
   "pv-sp-2025-0139": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -9083,8 +9083,8 @@
   "pv-uni-2024-0059": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "sub": "Princípios da Anestesiologia",
+    "subsub": "Anestesia geral",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -9092,7 +9092,7 @@
   "pv-uni-2024-0090": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Cirurgia Bariátrica e Metabólica",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,
@@ -9101,8 +9101,8 @@
   "pv-uni-2024-0098": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Princípios da Anestesiologia",
+    "subsub": "Anestesia geral",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -9110,7 +9110,7 @@
   "pv-uni-2025-0108": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia Plástica",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -9119,7 +9119,7 @@
   "pv-uni-2025-0141": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -9128,7 +9128,7 @@
   "pv-uni-2025-0165": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -9137,8 +9137,8 @@
   "pv-sír-2024-0061": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -9146,8 +9146,8 @@
   "pv-sír-2024-0063": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma torácico",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -9155,7 +9155,7 @@
   "pv-sír-2024-0075": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -9164,7 +9164,7 @@
   "pv-sír-2024-0076": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia Bariátrica e Metabólica",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
