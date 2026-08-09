@@ -5941,8 +5941,8 @@
     {
       "id": "pv-ufr-2025-0185",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Avaliação Pré-Operatória",
+      "sub_subarea": "Profilaxia antibiótica e de TEV",
       "enunciado": "A respeito da profilaxia antimicrobiana de infecções no sítio cirúrgico, pode-se afirmar que:",
       "alternativas": {
         "A": "clindamicina pode ser utilizada em pacientes com alergia aos fármacos betalactâmicos",
@@ -5964,8 +5964,8 @@
     {
       "id": "pv-ufr-2025-0198",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "São características frequentemente observadas nas ultrassonografias do abdome nos casos de apendicite aguda não complicada:",
       "alternativas": {
         "A": "espessamento de parede; aumento do diâmetro do apêndice; líquido livre",
@@ -5987,7 +5987,7 @@
     {
       "id": "pv-ufr-2025-0199",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Cirurgia Bariátrica e Metabólica",
       "sub_subarea": "",
       "enunciado": "Mulher, 44 anos, foi submetida a gastrectomia vertical por obesidade mórbida há 1 ano. Em consulta de retorno, refere importante dor retroesternal, especialmente a noite. A principal hipótese diagnóstica e conduta mais adequada é:",
       "alternativas": {
@@ -6010,8 +6010,8 @@
     {
       "id": "pv-ufr-2025-0216",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Mulher, 56 anos, é submetida a mastectomia com esvaziamento axilar por câncer de mama. Após o procedimento, apresenta perda da sensibilidade da face medial do braço ipsilateral. Pode-se afirmar que o nervo lesado durante o ato cirúrgico foi o:",
       "alternativas": {
         "A": "torácico dorsal",
@@ -6033,8 +6033,8 @@
     {
       "id": "pv-ufr-2025-0217",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "Para fins de estadiamento, pode-se afirmar que é critério a ser avaliado em laudo histopatológico de peça de histerectomia por carcinoma de endométrio, segundo a Federação Internacional de Ginecologia e Obstetrícia (FIGO):",
       "alternativas": {
         "A": "ocorrência de invasão tumoral de mais de 50% da espessura miometrial",
@@ -6062,8 +6062,8 @@
     {
       "id": "pv-uer-2024-0071",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Avaliação Pré-Operatória",
+      "sub_subarea": "Profilaxia antibiótica e de TEV",
       "enunciado": "Em pacientes alérgicos a betalactâmicos, o antimicrobiano mais adequado para uso profilático na herniorrafia inguinal eletiva é:",
       "alternativas": {
         "A": "ceftriaxona",
@@ -6091,8 +6091,8 @@
     {
       "id": "pv-uer-2024-0073",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Abdome agudo perfurativo",
       "enunciado": "Mulher de 28 anos apresenta diagnóstico de pancreatite aguda grave de etiologia biliar, em tratamento há três semanas. No exame clínico, a paciente se encontrava estável hemodinamicamente e ventilando espontaneamente com suplementação de O₂ a 2L/min, por meio de máscara facial. Estava febril (temperatura axilar de 38,10ºC), anictérica e queixava-se de desconforto abdominal em região epigástrica. Foi realizada tomografia computadorizada de abdômen e pelve que identificou imagem sugestiva de coleção peripancreática com presença de gás em seu interior e realce periférico com a administração de contraste venoso. A melhor conduta terapêutica nesse caso é a realização de:",
       "alternativas": {
         "A": "drenagem percutânea guia por TC",
@@ -6114,8 +6114,8 @@
     {
       "id": "pv-uer-2024-0074",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Proctologia",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "enunciado": "Homem de 68 anos foi diagnosticado com adenocarcinoma gástrico moderadamente diferenciado, localizado no antro. Foi submetido a tratamento cirúrgico eletivo, com a realização de gastrectomia subtotal, linfadenectomia D2 e reconstrução em Y de Roux. O laudo histopatológico mostrou tumoração ulcerada com invasão até a camada subserosa com margem superior de 10cm e inferior de 4cm. Foram identificados na peça 24 linfonodos, com quatro apresentando metástases. Segundo a oitava edição do estadiamento TNM, publicado pelo American Joint Committee on Cancer (AJCC), o estadiamento desse caso é definido como:",
       "alternativas": {
         "A": "pT3N1M0",
@@ -6144,7 +6144,7 @@
       "id": "pv-uer-2025-0109",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Derrame pleural (cirúrgico)",
       "enunciado": "Mulher de 40 anos, com história pregressa de infarto do miocárdio, evolui com disfunção moderada de ventrículo esquerdo (VE). Faz tratamento com carvedilol e losartana, e uso irregular de diurético. Há 15 dias houve piora da dispneia, tosse, queda do estado geral e mal- estar. O exame físico é compatível com derrame pleural a direita. Na toracocentese, os achados do líquido pleural mostram proteína = 4g/dL, LDH = 350UI/L, glicose = 50mg/dL e citologia = 1.000 células/mm³, sendo 50% de células mononucleares. No sangue, verifica-se hemoglobina = 9g/dL, leucócitos = 8.000/mm³, VHS = 60mm/h, proteína = 7g/dL e LDH = 350UI/L. A melhor conduta, nesse caso, será:",
       "alternativas": {
         "A": "iniciar diurético, associado com nitrato-hidralazina, e objetivar balanço hídrico negativo",
@@ -6174,7 +6174,7 @@
     {
       "id": "pv-uer-2025-0132",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Cirurgia de Cabeça e Pescoço",
       "sub_subarea": "",
       "enunciado": "Mulher de 33 anos chega à consulta com queixa de massa no pescoço. Nega sintomas compressivos locais ou qualquer outra queixa de ganho ponderal, fraqueza ou queda de cabelo. Apresenta screening hormonal inicial normal e ultrassonografia demonstrando massa de 4cm. Foi realizada punção por agulha fina cujo resultado revelou células com inclusões citoplasmáticas em vidro fosco (olho da orfã-Annie) e grooving intranuclear. O diagnóstico e o tratamento proposto, respectivamente, são:",
       "alternativas": {
@@ -6197,7 +6197,7 @@
     {
       "id": "pv-uer-2025-0135",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "sub_subarea": "",
       "enunciado": "Mulher de 35 anos, com obesidade grau III, realizou tomografia computadorizada (TC) de coluna torácica por escoliose, que evidenciou incidentaloma de 7cm em adrenal direita. Tem história prévia de disgerminoma ovariano operado aos 25 anos. Em relação à investigação diagnóstica, NÃO está indicada a realização de:",
       "alternativas": {
@@ -6230,8 +6230,8 @@
     {
       "id": "pv-uer-2025-0136",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Obstrução Intestinal",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Mulher de 95 anos, com doença de Alzheimer em fase avançada, apresenta quadro de obstrução intestinal por síndrome de Ogilvie. Nesse caso, ao realizar TC diagnóstica, os segmentos de intestino grosso que se encontram mais distendidos, comumente, são:",
       "alternativas": {
         "A": "sigmoide e cólon D",

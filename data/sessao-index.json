@@ -9605,8 +9605,8 @@
   "pv-pe-2025-0121": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -9614,7 +9614,7 @@
   "pv-pe-2025-0159": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
@@ -9623,8 +9623,8 @@
   "pv-mg-2024-0020": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -9632,8 +9632,8 @@
   "pv-mg-2024-0021": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Coledocolitíase e colangite",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -9641,7 +9641,7 @@
   "pv-mg-2025-0126": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
@@ -9650,8 +9650,8 @@
   "pv-mg-2025-0128": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Colelitíase e colecistite",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -9659,8 +9659,8 @@
   "pv-amr-2025-0126": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -9668,8 +9668,8 @@
   "pv-amr-2025-0139": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -9677,8 +9677,8 @@
   "pv-ufr-2024-0095": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -9686,7 +9686,7 @@
   "pv-ufr-2024-0102": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Vesícula e Vias Biliares",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
@@ -9695,8 +9695,8 @@
   "pv-ufr-2024-0103": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Vesícula e Vias Biliares",
+    "subsub": "Coledocolitíase e colangite",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -9704,8 +9704,8 @@
   "pv-ufr-2024-0126": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Avaliação Pré-Operatória",
+    "subsub": "Risco cirúrgico (ASA, Goldman, Lee)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
