@@ -6262,7 +6262,7 @@
     {
       "id": "pv-uer-2025-0138",
       "area": "Cirurgia",
-      "subarea": "Geral",
+      "subarea": "Cirurgia Bariátrica e Metabólica",
       "sub_subarea": "",
       "enunciado": "Entre os diferentes tipos de procedimentos cirúrgicos utilizados no tratamento da obesidade, aquele com mecanismo de ação no eixo endócrino-enteroencefálico é:",
       "alternativas": {
@@ -6285,8 +6285,8 @@
     {
       "id": "pv-hcp-2024-0054",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Apendicite aguda",
       "enunciado": "Paciente masculino, de 60 anos, com história de tabagismo crônico e hipertensão arterial sistêmica, foi trazido à Emergência por dor abdominal intensa e febre há 2 dias. Ao exame físico, apresentavase hemodinamicamente estável, com abdômen distendido e doloroso à palpação e com sinais de irritação peritoneal, mais evidente na fossa ilíaca direita. Os exames laboratoriais revelaram leucocitose com desvio à esquerda e elevação dos marcadores inflamatórios. A tomografia computadorizada de abdômen evidenciou apendicite aguda com abscesso periapendicular. Neste momento, a abordagem terapêutica mais apropriada é realizar",
       "alternativas": {
         "A": "apendicectomia aberta para adequada drenagem do abscesso.",
@@ -6314,8 +6314,8 @@
     {
       "id": "pv-hcp-2025-0144",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Complicações Pós-Operatórias",
+      "sub_subarea": "Infecção de sítio cirúrgico",
       "enunciado": "Paciente feminina, de 45 anos, com diabetes melito tipo 2, submetida a colecistectomia laparoscópica há 10 dias, retornou ao Ambulatório referindo dor constante no local da incisão, vermelhidão e calor ao redor da ferida operatória. Ao exame, apresentava febre de 38,5o C, secreção purulenta no sítio cirúrgico, endurecimento e sinais inflamatórios ao redor da incisão. Hemograma evidenciou leucocitose com desvio à esquerda. Qual a conduta mais adequada?",
       "alternativas": {
         "A": "Orientar a higienização adequada da ferida operatória e observar por mais 48 horas antes de se adotar qualquer outra conduta.",
@@ -6349,8 +6349,8 @@
     {
       "id": "pv-hcp-2025-0145",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Queimaduras e Trauma Elétrico",
+      "sub_subarea": "Classificação das queimaduras",
       "enunciado": "Paciente masculino, de 45 anos, foi trazido à Emergência após ter sido exposto ao fogo direto no local de trabalho por aproximadamente 25 segundos. À admissão, apresentava queimaduras visíveis em cerca de 30% da superfície corporal, predominantemente em braços, tórax e face, frequência cardíaca de 126 bpm, pressão arterial de 95/55 mmHg, frequência respiratória de 28 mpm e saturação de oxigênio de 89%. As vias aéreas estavam comprometidas, com sinais de inalação de fumaça. Foi imediatamente entubado para proteção das vias aéreas. Qual das intervenções abaixo é a prioritária para o manejo inicial?",
       "alternativas": {
         "A": "Administração imediata de antibióticos intravenosos para prevenir infecção.",
@@ -6372,8 +6372,8 @@
     {
       "id": "pv-fam-2025-0147",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Colelitíase e colecistite",
       "enunciado": "Mulher de 24 anos, obesa (IMC=30 kg/m²), diabética tipo 1, 16º dia de puerpério (filho em aleitamento materno exclusivo), dá entrada no pronto-atendimento da cirurgia geral referindo dor em hipocôndrio direito há 2 dias, associada a vômitos. Ultrassonografia do abdome mostra cálculo de 20mm impactado no infundibulo da vesícula biliar, associado a espessamento/delaminação da parede do órgão e líquido livre perivesicular, com ducto colédoco medindo 5mm em seu maior diâmetro. Considerando-se o diagnôstico e a sua graduação de severidade, indique a alternativa que apresente a melhor conduta terapêutica:",
       "alternativas": {
         "A": "Jejum, antibioticoterapia endovenosa com ceftriaxona e metronidazol por 5 a 7 dias e colangiorresssonância.",
@@ -6395,8 +6395,8 @@
     {
       "id": "pv-fam-2025-0150",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Abdome agudo perfurativo",
       "enunciado": "Mulher de 19 anos, tabagista, refere dor abdominal em baixo ventre, hà 2 dias, associada a nauseas e intolerância alimentar. Relata que hoje a dor está mais intensa e que se localizou no lado direito do abdome. Mantém náuseas e vômitos, não conseguindo se alimentar. Refere ainda atraso menstrual de aproximadamente 60 dias, mas que tem ciclos menstruais irregulares desde a menarca. Tem vida sexual ativa, com parceiro fixo e faz uso irregular de anticoncepcional oral e preservativo. Relata ainda ser constipada (ritmo intestinal a cada 2 dias, com fezes endurecidas). Ao exame físico, apresenta-se em REG, descorada (3+/4+), FC = 142bpm, PA = 60 X 40 mmHg. O abdome é plano, doloroso a palpação difusa, mais importante na fossa ilíaca direita, com descompressão brusca positiva. Assinale a alternativa que indique o exame complementar á propedêutica capaz de definir o tratamento mais eficaz e rápido para o tipo de abdome agudo apresentado pela paciente:",
       "alternativas": {
         "A": "RX de abdome agudo",
@@ -6418,8 +6418,8 @@
     {
       "id": "pv-fam-2025-0155",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Colelitíase e colecistite",
       "enunciado": "Uma mulher de 52 anos foi hospitalizada com quadro de pancreatite aguda e colelitiase com ducto biliar normal ao ultrassom. Ela não tem história clinica significativa, sem vicio e apresenta testes de função hepática, painel bioquimico e níveis séricos de lipídios normais. Se recuperou dos sintomas após quatro dias de tratamento clinico com hidratação e analgesia. Qual é o tratamento mais adequado para esta paciente?",
       "alternativas": {
         "A": "Tratamento conservador",
@@ -6447,8 +6447,8 @@
     {
       "id": "pv-fam-2025-0156",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Coledocolitíase e colangite",
       "enunciado": "Paciente do sexo feminino, 60 anos, com pancreatite aguda biliar Balthazar D, com início dos sintomas há 7 dias e com coledocolitíase anictérica. Qual a conduta correta:",
       "alternativas": {
         "A": "Colecistectomia",
@@ -6470,8 +6470,8 @@
     {
       "id": "pv-sp-2025-0128",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Abdome agudo perfurativo",
       "enunciado": "Em relação ao abdome agudo (AA), é correto afirmar que",
       "alternativas": {
         "A": "apendicite aguda é um exemplo de AA infeccioso.",
@@ -6494,8 +6494,8 @@
     {
       "id": "pv-sp-2025-0133",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Urologia",
+      "sub_subarea": "Hiperplasia prostática benigna",
       "enunciado": "Um paciente de 70 anos de idade, em acompanhamento por hiperplasia prostática benigna, em uso de doxazosina, chegou ao pronto‑socorro com bexigoma. Com base nessa situação hipotética, assinale a alternativa que apresenta a sequência de atendimento adequada.",
       "alternativas": {
         "A": "realizar punção suprapúbica de alívio",
@@ -6518,8 +6518,8 @@
     {
       "id": "pv-hc)-2025-0175",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Colelitíase e colecistite",
       "enunciado": "Mulher, 42 anos de idade, foi admitida no Serviço de Emergência com icterícia há 1 semana, acompanhada de queda do estado geral e dor abdominal há 2 dias. Relata a urina mais escurecida. Ao exame físico, encontra-se em regular estado geral, temperatura de 38,1 °C, ictérica, FC de 110 bpm, PA de 100x60 mmHg; abdome flácido, doloroso à palpação profunda do hipocôndrio direito, sem massas palpáveis; sem outras alterações. Exames laboratoriais: Hb: 13,9 g/dL Ht: 40% Leucograma: 15.326/mm³ Creatinina: 1,5 mg/dL Ureia: 60 mg/dL PCR: 180 mg/L TGO/AST: 269 U/L TGP/ALT: 211 U/L FA: 301 U/L GGT: 441 U/L Bilirrubina total: 9,7 mg/dL Bilirrubina direta: 8,5 mg/dL Amilase: 130 U/L Foi realizada ultrassonografia de abdome com os seguintes achados: vesícula biliar com múltiplos cálculos de até 0,5 cm, paredes finas e sem delaminação, via biliar extra-hepática com 1,1 cm, sem identificação de fatores obstrutivos evidentes ao método. Considerando a principal hipótese diagnóstica, qual é a melhor conduta?",
       "alternativas": {
         "A": "Colangioressonância.",
@@ -6541,8 +6541,8 @@
     {
       "id": "pv-sp-2025-0237",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Paciente de um ano de idade, com antecedente de malformação anorretal com correção parcial, intestino curto e ileostomia, iniciou quadro de dor e distensão abdominal, com vômitos biliares há 1 dia, sendo diagnosticado com abdome agudo obstrutivo. Optou-se por tratamento conservador, mantendo paciente em jejum e reavaliação pela manhã. Faz uso de bicarbonato de sódio 3 mEq/kg/dia, mas não está aceitando as medicações via oral. Realizados os exames complementares a seguir: pH: 7,33 HCO₃⁻: 17 mEq/L Glicose: 96 mg/dL Sódio: 135 mEq/L Potássio: 3.8 mEq/L Cloro: 112 mEq/L Creatinina: 0,5 mg/dL Ureia: 47 mg/dL Peso 10 kg (Bicarbonato de Sódio 8,4% = 1mEq/mL; NaCl 20% = 3,4mEq/mL). Assinale a alternativa que apresenta a melhor prescrição de soro de manutenção isotônico para o paciente.",
       "alternativas": {
         "A": "B)",

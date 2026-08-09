@@ -9713,8 +9713,8 @@
   "pv-ufr-2025-0185": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Avaliação Pré-Operatória",
+    "subsub": "Profilaxia antibiótica e de TEV",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -9722,8 +9722,8 @@
   "pv-ufr-2025-0198": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Urgências Abdominais",
+    "subsub": "Apendicite aguda",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -9731,7 +9731,7 @@
   "pv-ufr-2025-0199": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Cirurgia Bariátrica e Metabólica",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
@@ -9740,8 +9740,8 @@
   "pv-ufr-2025-0216": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -9749,8 +9749,8 @@
   "pv-ufr-2025-0217": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -9758,8 +9758,8 @@
   "pv-uer-2024-0071": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Avaliação Pré-Operatória",
+    "subsub": "Profilaxia antibiótica e de TEV",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -9767,8 +9767,8 @@
   "pv-uer-2024-0073": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Abdome agudo perfurativo",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -9776,8 +9776,8 @@
   "pv-uer-2024-0074": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -9786,7 +9786,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Cirurgia Torácica",
-    "subsub": "Drenagem Torácica",
+    "subsub": "Derrame pleural (cirúrgico)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -9794,7 +9794,7 @@
   "pv-uer-2025-0132": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia de Cabeça e Pescoço",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
@@ -9803,7 +9803,7 @@
   "pv-uer-2025-0135": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
@@ -9812,8 +9812,8 @@
   "pv-uer-2025-0136": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
