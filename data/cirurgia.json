@@ -2243,8 +2243,8 @@
     {
       "id": "pv-pe-2024-0065",
       "area": "Cirurgia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma torácico",
       "enunciado": "VMJS, 19 anos, sexo masculino, chega ao serviço de pronto atendimento trazido por amigos, vítima de perfuração por arma branca no 6º espaço intercostal direito, com o seguinte exame físico: sonolento, pouco responsivo, taquidispneico, hipocorado (++/4+), FC 120bpm, FR 35 ipm, PA: 80x60mmHg .RCR, 2T, BNF, SSFAo (++/6+) MV abolidos em HTD, mantidos em HTE, s/RA. ABD plano, tenso, doloroso à palpação difusa, sem sinais de irritação peritonial. Abre os olhos ao estímuloso doloroso, emite sons incompreensíveis e realiza flexão ao estímuloso doloroso. Qual das condutas abaixo NÃO é necessária de imediato?",
       "alternativas": {
         "A": "Radiografia de tórax",
@@ -2276,8 +2276,8 @@
     {
       "id": "pv-pe-2024-0067",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+      "sub_subarea": "Nutrição enteral",
       "enunciado": "JMS, 52 anos, sexo masculino, submetido à gastrectomia subtotal com linfadenectomia a D2, devido a uma neoplasia gástrica. A cirurgia ocorreu de maneira eletiva e sem intercorrências. Levando em consideração os preceitos do projeto ACERTO, qual conduta é a mais adequada para o pósoperatório?",
       "alternativas": {
         "A": "Alimentação precoce via sonda nasoenteral",
@@ -2307,7 +2307,7 @@
       "id": "pv-pe-2025-0104",
       "area": "Cirurgia",
       "subarea": "Cirurgia Torácica",
-      "sub_subarea": "Drenagem Torácica",
+      "sub_subarea": "Derrame pleural (cirúrgico)",
       "enunciado": "Uma mulher de 50 anos, tabagista e sem comorbidades conhecidas, é hospitalizada com febre alta, dispneia progressiva e dor torácica. A radiografia de tórax mostra derrame pleural moderado à direita, e a toracocentese é realizada. Resultados do líquido pleural mostram proteína de 4,2 g/dL, DHL de 800 U/L, glicose de 30 mg/dL, pH de 7,0 e predomínio de neutrófilos na citologia. Com base nos achados clínicos e laboratoriais, qual é a conduta mais apropriada?",
       "alternativas": {
         "A": "Iniciar antibióticos e observar a evolução.",
@@ -2338,8 +2338,8 @@
     {
       "id": "pv-pe-2025-0126",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Hérnias",
+      "subarea": "Urgências Abdominais",
+      "sub_subarea": "Obstrução intestinal",
       "enunciado": "Qual dos casos clínicos abaixo pode ser classificado como uma obstrução intestinal baixa mecânica mural?",
       "alternativas": {
         "A": "Homem, 67 anos, Tumor em sigmóide que impede passgem do aparelho",
@@ -2368,8 +2368,8 @@
     {
       "id": "pv-pe-2025-0128",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Cirurgia Bariátrica e Metabólica",
+      "sub_subarea": "",
       "enunciado": "Homem 66 anos. Submetido à gastrectomia subtotal há 4 meses por neoplasia gástrica avançada (linfonodos positivos) após quimioterapia neoadjuvante perioperatória. Há uma semana começa a apresentar dumping. Em relação a essa condição, podemos afirmar que",
       "alternativas": {
         "A": "é mais comum após reconstrução a Bilroth I.",
@@ -2398,8 +2398,8 @@
     {
       "id": "pv-pe-2025-0140",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Vesícula e Vias Biliares",
+      "sub_subarea": "Coledocolitíase e colangite",
       "enunciado": "Paciente, 23 anos, sétimo dia de pós-operatório de colecistectomia videolaparoscopica procura serviço de urgência com dor abdominal intensa e vômitos, refratários à medicação oral. Ao exame físico: Consciente, orientada, eupneica, corada, anictérica, algo deshidratada, taquipneica (+/4+), FC 100bpm, PA 110x70mmHg. Abdome distendido, doloroso sobretudo em quadrantes superiores com sinais de irritação peritoneal, feridas operatórias sem alterações. Sobre o quadro em questão, é CORRETO afirmar que",
       "alternativas": {
         "A": "a causa mais provável é um abscesso cavitário por hematoma infectado, sendo necessária a reoperação.",
@@ -2422,8 +2422,8 @@
     {
       "id": "pv-pe-2025-0193",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "Abdome Agudo",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Paciente tinha febre tifoide e apresentou perfuração intestinal, falecendo em consequência de peritonite. Assinale a alternativa que corresponde à forma CORRETA de preenchimento da DO para o caso.",
       "alternativas": {
         "A": "Parte I: a. Febre Tifoide / b. Perfuração intestinal / c. Peritonite Parte II: em branco",
@@ -2454,8 +2454,8 @@
     {
       "id": "pv-mg-2024-0001",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Vascular",
-      "sub_subarea": "Isquemia",
+      "subarea": "Trauma",
+      "sub_subarea": "Trauma vascular",
       "enunciado": "Paciente idoso vitima de colisão frontal de carro x objeto fixo no anel rodoviário. A ambulância do SAMU chegou ao local e realizou o atendimento pré-hospitalar. O paciente encontrava-se torporoso com Glasgow de 8, muito dispnéico e hipotenso, bem como apresentava uma amputação traumática da coxa com sangramento arterial ativo em jato da artéria femoral superficial. Considerando o atendimento pré-hospitalar ao trauma, qual a conduta emergencial a ser tomada para evitar a morte do paciente:",
       "alternativas": {
         "A": "Avaliar a letra A e realizar a entubação orotraqueal para proteção da via aérea.",
@@ -2477,8 +2477,8 @@
     {
       "id": "pv-mg-2024-0003",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Oncológica",
-      "sub_subarea": "Neoplasias",
+      "subarea": "Temas Gerais em Cirurgia",
+      "sub_subarea": "",
       "enunciado": "Mulher de 54 anos, ao ir à podóloga, toma conhecimento de lesão enegrecida na planta do pé esquerdo, com cerca de 2 centímetros de diâmetro. Paciente e podóloga têm certeza de que a lesão não existia um ano antes. Assinale a alternativa que apresenta a conduta CORRETA:",
       "alternativas": {
         "A": "Considerar a lesão como possível de ser melanoma avançado e indicar a ressecção oncológica com margens amplas e linfadenectomia inguinal eletiva.",
@@ -2508,8 +2508,8 @@
     {
       "id": "pv-mg-2024-0011",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Avaliação Pré-Operatória",
+      "sub_subarea": "Jejum e medicação pré-op",
       "enunciado": "Paciente do sexo feminino, 27 anos, solteira, sem comorbidades, relata ser tabagista de meio maço/dia há cinco anos. Ela será submetida a colecistectomia videolaparoscópica sob anestesia geral. Em relação à avaliação e ao preparo pré-operatório desta paciente é CORRETO afirmar:",
       "alternativas": {
         "A": "Como é uma paciente ASA II, é obrigatório solicitar eletrocardiograma, hemograma, coagulograma e dosagem de creatinina.",
@@ -2537,8 +2537,8 @@
     {
       "id": "pv-mg-2025-0106",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Complicações Pós-Operatórias",
+      "sub_subarea": "Complicações respiratórias",
       "enunciado": "Mulher de 52 anos encontrava-se internada para a realização de colecistectomia videolaparoscópica. No 2º dia do pós-operatório, apresentou dispneia de início súbito e pré- sincope. Ao exame físico, PA 70/50 mmHg, FC 134 bpm, FR 32 ipm e SpO₂ 86% (ar ambiente). A pele estava pálida e sudorética, e o tempo de enchimento capilar periférico era maior que 3 segundos. Após a ressuscitação volêmica com 1.000mL de solução cristaloide e administração de oxigênio pelo cateter nasal a 3 L/min, os dados vitais eram PA 104/64 mmHg, FC 118 bpm, FR 20 ipm e SpO₂ 94% (ar ambiente). A angio-TC do tórax revelou falhas de enchimento nas artérias dos lobos inferiores de ambos os pulmões. A dosagem de troponina sérica resultou em 0,34 ng/ml. O ecocardiograma revelou dilatação e hipocontratilidade do ventrículo direito. Assinale a alternativa que apresenta o tratamento imediato MAIS ADEQUADO:",
       "alternativas": {
         "A": "Alteplase IV",
@@ -2568,8 +2568,8 @@
     {
       "id": "pv-mg-2025-0107",
       "area": "Cirurgia",
-      "subarea": "Cirurgia Abdominal",
-      "sub_subarea": "",
+      "subarea": "Complicações Pós-Operatórias",
+      "sub_subarea": "Complicações respiratórias",
       "enunciado": "Mulher de 52 anos encontrava-se internada para a realização de colecistectomia videolaparoscópica. No 2º dia do pós-operatório, apresentou dispneia de início súbito e pré- sincope. Ao exame físico, PA 70/50 mmHg, FC 134 bpm, FR 32 ipm e SpO₂ 86% (ar ambiente). A pele estava pálida e sudorética, e o tempo de enchimento capilar periférico era maior que 3 segundos. Após a ressuscitação volêmica com 1.000mL de solução cristaloide e administração de oxigênio pelo cateter nasal a 3 L/min, os dados vitais eram PA 104/64 mmHg, FC 118 bpm, FR 20 ipm e SpO₂ 94% (ar ambiente). A angio-TC do tórax revelou falhas de enchimento nas artérias dos lobos inferiores de ambos os pulmões. A dosagem de troponina sérica resultou em 0,34 ng/ml. O ecocardiograma revelou dilatação e hipocontratilidade do ventrículo direito. Cerca de oito meses depois, a paciente apresenta cinco episódios ao dia de evacuação com fezes líquidas, sem sangue, muco, pus ou restos alimentares. O sintoma iniciou logo após a alta hospitalar da internação para a cirurgia eletiva. As evacuações ocorrem predominantemente no período diurno, principalmente após as refeições. Nega emagrecimento. Desconhece comorbidades e nega uso de medicamentos. O estudo por endoscopia digestiva alta e colonoscopia não revelam anormalidades. EXAMES DE LABORATÓRIO: hemoglobina 15,2g/dL; leucócitos 6.300/mm³; proteína C reativa 3mg/L; antitransglutaminase tecidual IgA não reagente; IgA total 280mg/dL; anti-HIV não reagente; exame parasitológico de fezes: negativo. Assinale a alternativa que indica o tratamento MAIS ADEQUADO nesse caso:",
       "alternativas": {
         "A": "Amitriptilina",
