@@ -827,9 +827,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças exantemáticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -849,9 +849,10 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "s9-049",
@@ -870,7 +871,7 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -894,7 +895,7 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -916,7 +917,7 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -941,7 +942,7 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -949,8 +950,8 @@
     {
       "id": "pv-amr-2024-0059",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Puericultura",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "enunciado": "Deve-se investigar a amenorreia primária nos seguintes casos: I. Em meninas com mais de 15 anos de idade, com caráteres sexuais secundários presentes. II. Na ausência de menarca após 5 anos do início da telarca. III. Em meninas com 13 anos de idade sem caracteres secundários. Quais estão corretos?",
       "alternativas": {
         "A": "Apenas I.",
@@ -972,8 +973,8 @@
     {
       "id": "pv-ufr-2025-0248",
       "area": "Pediatria",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Puericultura",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "enunciado": "Menino, 13 anos e 6 meses, ao exame da genitália, apresenta: pelos escuros e encaracolados na raiz do pênis e púbis; bolsa escrotal enrugada e pigmentada; pênis aumentado de tamanho (comprimento e largura) com glande individualizada; testículos de 10mL palpáveis bilateralmente. Pode-se afirmar que o estágio de maturação sexual deste adolescente é:",
       "alternativas": {
         "A": "P2G2",
@@ -1001,8 +1002,8 @@
     {
       "id": "pv-amr-2025-0164",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Cardiologia Pediátrica",
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
       "enunciado": "A enfermagem comunica ao médico que o teste do coraçãozinho de um RN com 37 semanas de idade gestacional fora feito com 26 horas de vida. O resultado foi 89% no membro superior direito e 92% no membro inferior esquerdo. Qual é a melhor conduta nesse caso?",
       "alternativas": {
         "A": "Solicitar ecocardiograma imediatamente para descartar cardiopatia congênita cianótica.",
@@ -1034,8 +1035,8 @@
     {
       "id": "pv-uer-2025-0164",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Cardiologia Pediátrica",
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
       "enunciado": "Em relação ao teste da oximetria de pulso para triagem de cardiopatias congênitas críticas no RN (teste do coraçãozinho), é correto afirmar que:",
       "alternativas": {
         "A": "deve ser realizado em todos os RNs com idade gestacional igual ou maior que 35 semanas, preferencialmente entre 24 e 48 horas de vida",
@@ -1065,8 +1066,8 @@
     {
       "id": "pv-sp-2025-0144",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "",
       "enunciado": "A respeito da vacina aprovada recentemente para a prevenção da dengue, é correto afirmar que",
       "alternativas": {
         "A": "a vacina é uma formulação tetravalente de vírus vivos atenuados.",
@@ -1095,8 +1096,8 @@
     {
       "id": "pv-uni-2024-0003",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Endocrinologia pediátrica",
+      "sub_subarea": "",
       "enunciado": "Menino, 13 anos de idade, nascido com peso e comprimento adequados, sem doença crônica ou uso de medicação, foi encaminhado ao ambulatório por déficit de crescimento. Na avaliação apresenta estatura entre -1,0 e -2,0 DP e estatura alvo entre - 1,0 e 0,0 DP. A idade óssea é de 11 anos e o desenvolvimento puberal avaliado pelos critérios de Tanner, P1 G1. Seu crescimento foi de 4,5 cm no último ano. Qual é o diagnóstico e a conduta mais adequada?",
       "alternativas": {
         "A": "Atraso constitucional, hormônio do crescimento.",
