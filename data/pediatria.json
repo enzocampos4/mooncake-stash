@@ -3090,7 +3090,7 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3110,7 +3110,7 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Puericultura",
+      "subarea": "Outros",
       "_area_slug": "pediatria",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -3158,7 +3158,7 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Aleitamento materno e artificial",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3180,7 +3180,7 @@
       "_edicao": "5",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Bronquiolite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3202,9 +3202,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Tetralogia de Fallot",
+      "sub_subarea": "Cardiopatias congênitas acianóticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3224,9 +3224,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Nefrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Síndrome nefrítica na criança",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3246,9 +3246,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Puericultura",
+      "subarea": "Reumatologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Febre reumática",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3272,7 +3272,7 @@
       "_edicao": "5",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Sepse neonatal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3292,9 +3292,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Reumatologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Vasculites (Kawasaki, HSP)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3314,9 +3314,10 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "",
+      "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Pneumonia na criança"
     },
     {
       "id": "s5-097",
@@ -3335,10 +3336,10 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Maus tratos à crianças e adolescentes",
       "_area_slug": "pediatria",
       "banca": "ESTRATÉGIA MED",
-      "sub_subarea": ""
+      "sub_subarea": "Violência física, sexual e psicológica"
     },
     {
       "id": "s9-007",
