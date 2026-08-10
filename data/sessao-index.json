@@ -13620,7 +13620,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "subsub": "Aleitamento materno e artificial",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13629,7 +13629,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Reanimação neonatal",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13637,8 +13637,8 @@
   "pv-hcp-2025-0106": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Sepse neonatal e pediátrica",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13647,7 +13647,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13656,7 +13656,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "subsub": "Aleitamento materno e artificial",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13665,7 +13665,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13673,8 +13673,8 @@
   "pv-hcp-2025-0113": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13682,8 +13682,8 @@
   "pv-hcp-2025-0115": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Bronquiolite aguda",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13691,8 +13691,8 @@
   "pv-hcp-2025-0116": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "Icterícia",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Anemias na criança (ferropriva, falciforme)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13701,7 +13701,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13709,8 +13709,8 @@
   "pv-hcp-2025-0134": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -13718,8 +13718,8 @@
   "pv-fam-2024-0018": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -18740,7 +18740,7 @@
   "s11-067": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
+    "sub": "",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -18767,7 +18767,7 @@
   "s14-029": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
+    "sub": "",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -20576,7 +20576,7 @@
   "s9-045": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
+    "sub": "",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -23636,7 +23636,7 @@
   "s11-062": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -23645,7 +23645,7 @@
   "s14-031": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
