@@ -1699,7 +1699,7 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Distúrbios respiratórios do RN (SDR, SAM)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1721,9 +1721,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Puericultura",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Desnutrição e má progressão ponderal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1743,9 +1743,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Emergências Pediátricas",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Crise asmática grave",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1767,7 +1767,7 @@
       "_edicao": "11",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "Alimentação complementar",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1789,7 +1789,7 @@
       "_edicao": "11",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Incompatibilidade Rh/ABO",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1813,7 +1813,7 @@
       "_edicao": "11",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Exantemáticas",
+      "sub_subarea": "Meningites na criança",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1833,9 +1833,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Emergências Pediátricas",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Choque na criança",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1855,7 +1855,7 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Pneumologia Pediátrica",
+      "subarea": "Neonatologia",
       "_area_slug": "pediatria",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1880,9 +1880,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Cardiopatias congênitas acianóticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1905,9 +1905,10 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Doenças exantemáticas"
     },
     {
       "id": "s11-050",
@@ -1928,9 +1929,10 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Outros",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "s11-055",
@@ -1951,9 +1953,10 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Parasitoses na criança"
     },
     {
       "id": "s11-064",
