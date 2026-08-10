@@ -12216,7 +12216,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "subsub": "Doenças exantemáticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12224,8 +12224,8 @@
   "s14-024": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Asma na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12233,8 +12233,8 @@
   "s14-055": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Sepse neonatal e pediátrica",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12242,8 +12242,8 @@
   "s14-060": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Anemias na criança (ferropriva, falciforme)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12251,8 +12251,8 @@
   "s14-061": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Parasitoses na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12260,8 +12260,8 @@
   "s14-066": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Puericultura",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12269,8 +12269,8 @@
   "s14-071": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Febre reumática",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12278,8 +12278,8 @@
   "s14-076": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Pneumonia na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12287,7 +12287,7 @@
   "s14-081": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Pneumologia Pediátrica",
+    "sub": "Gastrologia Pediátrica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -12296,8 +12296,8 @@
   "s14-093": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12305,8 +12305,8 @@
   "s3-002": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Sepse neonatal e pediátrica",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -12314,8 +12314,8 @@
   "s3-008": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Anemias na criança (ferropriva, falciforme)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
