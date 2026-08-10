@@ -12864,7 +12864,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Icterícia neonatal",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -12872,8 +12872,8 @@
   "pv-ena-2025-0146": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Dor abdominal recorrente",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -12882,7 +12882,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "subsub": "Aleitamento materno e artificial",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -12890,8 +12890,8 @@
   "pv-ena-2025-0149": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Maus tratos à crianças e adolescentes",
+    "subsub": "Sinais de alerta e notificação compulsória",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -12899,8 +12899,8 @@
   "pv-ena-2025-0159": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "Cardiopatias congênitas acianóticas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -12908,8 +12908,8 @@
   "pv-ena-2025-0165": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Desnutrição e má progressão ponderal",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -12917,8 +12917,8 @@
   "pv-ena-2025-0168": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -12927,7 +12927,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "Prematuridade",
+    "subsub": "Distúrbios respiratórios do RN (SDR, SAM)",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -12936,7 +12936,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "Icterícia",
+    "subsub": "Icterícia neonatal",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -12945,7 +12945,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -12954,7 +12954,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "Crupe",
+    "subsub": "Bronquiolite aguda",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -12962,8 +12962,8 @@
   "pv-pe-2024-0035": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
