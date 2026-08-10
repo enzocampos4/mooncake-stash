@@ -12000,7 +12000,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Distúrbios respiratórios do RN (SDR, SAM)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -12008,8 +12008,8 @@
   "s11-002": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Desnutrição e má progressão ponderal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12017,8 +12017,8 @@
   "s11-005": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Crise asmática grave",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12027,7 +12027,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "subsub": "Alimentação complementar",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12036,7 +12036,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Incompatibilidade Rh/ABO",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12045,7 +12045,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "subsub": "Meningites na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12053,8 +12053,8 @@
   "s11-028": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Choque na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12062,7 +12062,7 @@
   "s11-035": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Pneumologia Pediátrica",
+    "sub": "Neonatologia",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -12071,8 +12071,8 @@
   "s11-040": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "Cardiopatias congênitas acianóticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12080,8 +12080,8 @@
   "s11-046": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12089,7 +12089,7 @@
   "s11-050": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -12098,8 +12098,8 @@
   "s11-055": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Parasitoses na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"

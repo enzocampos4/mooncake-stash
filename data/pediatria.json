@@ -1975,9 +1975,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Gastroenterologia Pediátrica",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Diarreia",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1997,9 +1997,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Puericultura",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2021,7 +2021,7 @@
       "_edicao": "11",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Meningites na criança",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2041,9 +2041,10 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Pneumonia na criança"
     },
     {
       "id": "s11-083",
@@ -2062,9 +2063,10 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "s11-091",
@@ -2083,9 +2085,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2105,9 +2107,10 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Outros",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "s11-097",
@@ -2128,7 +2131,7 @@
       "_edicao": "11",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Asma",
+      "sub_subarea": "Bronquiolite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2149,9 +2152,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Parasitoses na criança",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2172,9 +2175,10 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "",
+      "subarea": "Emergências Pediátricas",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Choque na criança"
     },
     {
       "id": "s14-016",
@@ -2199,9 +2203,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Puericultura",
+      "subarea": "Endocrinologia pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2222,9 +2226,10 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Doenças exantemáticas"
     },
     {
       "id": "s14-020",
