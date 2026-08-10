@@ -11459,7 +11459,7 @@
   "s14-014": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11468,7 +11468,7 @@
   "s14-022": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11477,7 +11477,7 @@
   "s14-032": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11486,7 +11486,7 @@
   "s14-034": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11495,7 +11495,7 @@
   "s14-036": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11504,7 +11504,7 @@
   "s14-037": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11513,8 +11513,8 @@
   "s14-039": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -11522,8 +11522,8 @@
   "s14-044": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Intoxicações exógenas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -11531,7 +11531,7 @@
   "s14-046": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Cardiologia Pediátrica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11540,7 +11540,7 @@
   "s14-047": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11549,8 +11549,8 @@
   "s14-077": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Leucemias e linfomas pediátricos",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -11558,7 +11558,7 @@
   "s14-088": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
