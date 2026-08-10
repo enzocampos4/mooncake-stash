@@ -10612,9 +10612,9 @@
       "explicacao": "O trauma escrotal contuso pode causar ruptura testicular da túnica albugínea, contusão, hematoma, torção testicular e lesão epididimal. A\nruptura testicular pode ser sugerida por equimose escrotal, edema ou dificuldade em identificar os contornos do testículo no exame físico.\nO exame indicado para avaliação é a ultrassonografia testicular, que pode evidenciar a perda de continuidade da túnica albugínea, ruptura\ntesticular, heterogeneidade do parênquima testicular, hematocele ou hematoma testicular.\nAs lacerações superficiais do escroto devem ser submetidas a tratamento local da ferida e fechamento com suturas absorvíveis. O traumatismo\nescrotal penetrante que atravessa a fáscia de Dartos tem indicação de exploração cirúrgica (desbridamento, limpeza e fechamento da túnica\nalbugínea). A orquiectomia está reservada para lesões testiculares complexas, sem parênquima viável.\nCorreta a alternativa A. O exame inicial para avaliação do trauma testicular é o ultrassom testicular.\nIncorreta a alternativa B. A tomografia tem baixa acurácia para a avaliação de partes moles, o que é essencial para avaliação da região\ntesticular.\nIncorreta a alternativa C. A exploração cirúrgica imediata geralmente está reservada para o trauma escrotal penetrante com violação da fáscia\nde Dartos.\nIncorreta a alternativa D. É importante a avaliação com exame de imagem para definir o tratamento adequado.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma abdominal",
       "imagens": [
         "data/simulados/imgs/14-simulado/q59_img1.jpeg",
         "data/simulados/imgs/14-simulado/q59_img2.jpeg",
@@ -10641,7 +10641,7 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -10663,7 +10663,7 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -10689,7 +10689,7 @@
       "_edicao": "1",
       "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Fístulas e abscessos anais",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10711,9 +10711,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Hiperplasia prostática benigna",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10733,9 +10733,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Vesícula e Vias Biliares",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Tumores de vias biliares",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10757,7 +10757,7 @@
       "_edicao": "11",
       "subarea": "Cirurgia Torácica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Tumores pulmonares",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10777,9 +10777,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Hiperplasia prostática benigna",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10799,9 +10799,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer colorretal (cirurgia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10821,7 +10821,7 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cirurgia Torácica",
+      "subarea": "Temas Gerais em Cirurgia",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -10843,7 +10843,7 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Temas Gerais em Cirurgia",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -10867,7 +10867,7 @@
       "_edicao": "3",
       "subarea": "Proctologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Fissura anal",
       "banca": "ESTRATÉGIA MED"
     },
     {

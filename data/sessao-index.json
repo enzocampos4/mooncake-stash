@@ -11117,8 +11117,8 @@
   "s3-045": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Urologia",
+    "subsub": "Hiperplasia prostática benigna",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -11126,7 +11126,7 @@
   "s3-074": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Cirurgia Infantil",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11135,8 +11135,8 @@
   "s3-094": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "Trauma cranioencefálico (TCE)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -11144,8 +11144,8 @@
   "s5-035": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Abdome Agudo",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -11153,7 +11153,7 @@
   "s5-067": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Cirurgia Infantil",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11162,8 +11162,8 @@
   "s9-023": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -11171,7 +11171,7 @@
   "s9-078": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Cirurgia Infantil",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11180,8 +11180,8 @@
   "s9-091": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Obstrução Intestinal",
+    "sub": "Urgências Abdominais",
+    "subsub": "Obstrução intestinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -11189,8 +11189,8 @@
   "s3-010": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Trauma",
+    "subsub": "ATLS e abordagem primária/secundária",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -11198,8 +11198,8 @@
   "s5-087": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Princípios da Anestesiologia",
+    "subsub": "Anestesia regional",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -11207,7 +11207,7 @@
   "s1-063": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Urologia",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11216,8 +11216,8 @@
   "s11-024": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
