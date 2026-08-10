@@ -1133,9 +1133,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Refluxo gastroesofágico",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1157,15 +1157,16 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Outros",
       "_area_slug": "cirurgia",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "pv-ena-2024-0021",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Mulher de 55 anos já não menstruava havia dois anos, entretanto, há cerca de um mês, vem apresentando sangramentos esporádicos de moderada intensidade, associados a cólicas. Como comorbidades, apresenta diabetes e hipertensão. Nega terapia hormonal. Ao exame ginecológico, não apresenta alterações, exceto discreta atrofia da mucosa vaginal. No ultrassom transvaginal observava-se endométrio de 9 mm. Diante desse caso, assinale a alternativa que apresenta a melhor conduta.",
       "alternativas": {
         "A": "Prescrever lubrificante à base de água, visto que o sangramento é devido à atrofia.",
@@ -1194,8 +1195,8 @@
     {
       "id": "pv-hcp-2024-0072",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Paciente de 55 anos, G2P2, consultou por vir apresentando, nos últimos 2 anos, vários episódios de calorões intensos, piora da qualidade do sono e maior irritabilidade. Referiu que, há 6 meses, iniciara com ressecamento vaginal e dispareunia. Submetera-se a histerectomia com salpingooforectomia bilateral há 2 anos, por miomatose. Em seu histórico, constavam diabetes melito (uso de antidiabético oral) e hipertensão arterial (uso de enalapril e hidroclorotiazida). Negou neoplasia, tabagismo ou ingestão de álcool. Ao exame físico, a pressão arterial era de 120/84 mmHg, o IMC, de 28 kg/m², e as mamas, normais; ao exame especular, constatou-se atrofia vaginal, sem outras particularidades. Trouxe mamografia e citologia de cúpula vaginal, realizadas há 8 meses, com resultados normais, além de exames bioquímicos com TSH normal, glicemia de 88 mg/dl e perfil lipídico com colesterol de 198 mg/dl, HDL de 40 mg/dl e triglicerídios de 190 mg/dl. Com base no quadro, deve-se prescrever",
       "alternativas": {
         "A": "progesterona por via vaginal e fluoxetina.",
@@ -1217,8 +1218,8 @@
     {
       "id": "pv-hcp-2024-0094",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Emergências Pediátricas",
+      "sub_subarea": "Choque na criança",
       "enunciado": "Menino de 9 meses, com 8 kg, esteve internado por 24 horas na UPA por vômitos, distensão abdominal e fezes sanguinolentas. Ultrassonografia e radiografia de abdômen confirmaram invaginação intestinal. Foi transferido para um hospital terciário para realização de laparotomia, encontrando-se, à chegada, pálido, prostrado, hipoativo, febril (38º C), com frequência cardíaca de 160 bpm, olhos encovados, pulsos finos e enchimento capilar > 3 segundos. O abdômen estava muito distendido, com a sonda nasogástrica drenando secreção borrácea. Além de coletar amostras para culturas e iniciar o uso de antibióticos de amplo espectro, qual a conduta mais adequada e recomendada pelo Consenso de Sepse 2020?",
       "alternativas": {
         "A": "Evitar bolo de cristaloides e optar por instalar soro de manutenção (100 ml/kg) com NaCl a 0,9%.",
@@ -1240,8 +1241,8 @@
     {
       "id": "pv-sír-2025-0123",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Paciente de 44 anos foi submetido a Hartmann por diverticulite aguda há 2 anos. No 4º pós- operatório da reconstrução do trânsito, apresentou sinais de deiscência de anastomose, optou-se por nova derivação do trânsito intestinal. Enquanto acompanhava ambulatorialmente a reabordagem, é internada de urgência por vômitos e parada de eliminação de flatos pela colostomia. Realizou radiografia com sinais de obstrução intestinal alta. O tratamento inicial para o diagnóstico mais provável é:",
       "alternativas": {
         "A": "Antibioticoterapia.",
@@ -1281,9 +1282,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Pneumonia na criança",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1303,9 +1304,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Infectologia Pediátrica",
+      "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Exantemáticas",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1327,7 +1328,7 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1351,7 +1352,7 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1376,7 +1377,7 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1401,7 +1402,7 @@
       "_edicao": "1",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Exantemáticas",
+      "sub_subarea": "Doenças exantemáticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
