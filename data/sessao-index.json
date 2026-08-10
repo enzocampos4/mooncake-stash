@@ -12755,8 +12755,8 @@
   "s9-076": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neonatologia",
+    "subsub": "Icterícia neonatal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -12764,7 +12764,7 @@
   "s9-080": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Pneumologia Pediátrica",
+    "sub": "Infectologia Pediátrica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -12773,8 +12773,8 @@
   "s9-086": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -12782,8 +12782,8 @@
   "s9-100": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Febre reumática",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -12791,8 +12791,8 @@
   "pv-ena-2024-0041": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12800,8 +12800,8 @@
   "pv-ena-2024-0044": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12810,7 +12810,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12819,7 +12819,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "subsub": "Doenças exantemáticas",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12828,7 +12828,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "subsub": "Aleitamento materno e artificial",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12836,8 +12836,8 @@
   "pv-ena-2024-0052": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Bronquiolite aguda",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -12846,7 +12846,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Sepse neonatal",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -12855,7 +12855,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "subsub": "Doenças exantemáticas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"

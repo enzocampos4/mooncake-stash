@@ -3975,7 +3975,7 @@
       "id": "pv-ena-2025-0145",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Icterícia neonatal",
       "enunciado": "Dentre as situações a seguir, aquela em que o recém-nascido tem dois critérios para icterícia patológica é:",
       "alternativas": {
         "A": "RN a termo, icterícia desde 37 horas de vida, bilirrubina total = 4 mg/dl, bilirrubina indireta = 3,1 mg/dl;",
@@ -4004,8 +4004,8 @@
     {
       "id": "pv-ena-2025-0146",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Dor abdominal recorrente",
       "enunciado": "Segundo os critérios de ROMA IV para lactentes, escolares e adolescentes, na síndrome do intestino irritável:",
       "alternativas": {
         "A": "a criança tem diarreia associada a perda ponderal nos últimos 2 meses;",
@@ -4029,7 +4029,7 @@
       "id": "pv-ena-2025-0148",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "Aleitamento materno e artificial",
       "enunciado": "Uma primípara comparece à consulta de puericultura com seu filho de 2 meses. Durante a consulta, o pediatra percebe que ela está prestes a abandonar o aleitamento materno exclusivo e conduz a conversa de forma a mantê-lo. Nessa conversa é importante ser empático, evitando:",
       "alternativas": {
         "A": "fazer perguntas abertas que permitam à mãe expressar argumentos contra a manutenção da amamentação;",
@@ -4052,8 +4052,8 @@
     {
       "id": "pv-ena-2025-0149",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Maus tratos à crianças e adolescentes",
+      "sub_subarea": "Sinais de alerta e notificação compulsória",
       "enunciado": "Uma adolescente com 11 anos é levada à emergência em pediatria por apresentar vômitos. Reside com a avó, que informalmente assumiu a guarda e que frequentemente desvaloriza os genitores, pois a adolescente fora abandonada pela mãe por ser fruto de gestação não desejada e nunca teve contato com o pai. A avó está em tratamento de depressão, imputando seu sofrimento à adolescente. Nesse caso, a notificação:",
       "alternativas": {
         "A": "deverá ser feita, pois existem fatos justificando a suspeita de violência;",
@@ -4076,8 +4076,8 @@
     {
       "id": "pv-ena-2025-0159",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Cardiologia Pediátrica",
+      "sub_subarea": "Cardiopatias congênitas acianóticas",
       "enunciado": "Um lactente de 9 meses, com fácies sindrômica, assintomático, apresenta ausculta cardíaca com ritmo regular, bulhas normofonéticas com desdobramento variável da segunda bulha, sopro sistólico 2+/6+ mais audível em borda esternal esquerda baixa, sem irradiação, que diminui com a posição sentada. Os pulsos femorais são palpáveis. Nesse caso, o médico deve:",
       "alternativas": {
         "A": "internar a criança para realização de exames;",
@@ -4100,8 +4100,8 @@
     {
       "id": "pv-ena-2025-0165",
       "area": "Pediatria",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Desnutrição e má progressão ponderal",
       "enunciado": "Uma criança do sexo feminino, de 2 anos de idade, chega encaminhada pelo seu pediatra. A mãe relata corrimento vaginal ora sanguinolento, ora aquoso e uma estrutura semelhante a “cachos de uva” de aspecto gelatinoso na entrada da vagina. A principal hipótese é:",
       "alternativas": {
         "A": "má higiene;",
@@ -4135,8 +4135,8 @@
     {
       "id": "pv-ena-2025-0168",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Endocrinologia pediátrica",
+      "sub_subarea": "",
       "enunciado": "Uma menina de 6 anos é levada pela mãe ao ginecologista por ter iniciado desenvolvimento mamário há 4 meses. Ao exame físico, apresenta mamas em estágio M2 de Tanner e genitália em estágio P1 de Tanner. De acordo com o gráfico de velocidade de crescimento, a paciente manteve um padrão de 4 cm/ano no último ano. Realizada uma radiografia de mão e de punhos pelo método de Greulich-Pyle, identifica-se que a idade óssea da criança é estimada em 6 anos e 2 meses. A dosagem hormonal de LH é 1,2 UI/L. Considerando as informações acima, o diagnóstico mais provável é:",
       "alternativas": {
         "A": "telarca precoce isolada;",
@@ -4174,7 +4174,7 @@
       "id": "pv-pe-2024-0023",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "Prematuridade",
+      "sub_subarea": "Distúrbios respiratórios do RN (SDR, SAM)",
       "enunciado": "Diante de um recém-nascido prematuro com 35 semanas de idade gestacional, filho de mãe diabética com difícil controle e sem fatores de risco para infecção, o diagnóstico diferencial do desconforto respiratório é, muitas vezes, difícil. Quanto às causas de desconforto respiratório nesse paciente, é CORRETO afirmar que",
       "alternativas": {
         "A": "a taquipneia transitória do recém-nascido (TTRN) é rara e, quando ocorre, costuma ter evolução muito leve e melhora em 12 a 24 horas.",
@@ -4209,7 +4209,7 @@
       "id": "pv-pe-2024-0024",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "Icterícia",
+      "sub_subarea": "Icterícia neonatal",
       "enunciado": "Recém-nascido com idade gestacional de 39 semanas, com 36 horas de vida apresenta icterícia no exame no alojamento conjunto. Encontra-se em aleitamento materno exclusivo e pesa 3000gramas. Genitora GIIPIAI fez prénatal sem intercorrência, classificação sanguínea da mãe: O negativo. O recém-nascido nasceu bem, feito clampeamento do cordão umbilical com 60 segundos, com peso 3010gramas. Exame físico: icterícia em face, tronco e membros. Restante normal. Classificação sanguínea do recém-nascido: A positivo. Realizou dosagem de bilirrubina que teve BT 12,5mg/dL BI 11,9mg/dL. Considerando a orientação mais recente da Sociedade Brasileira de Pediatria que ainda preconiza a utilização do gráfico para indicação de fototerapia da Academia Americana de Pediatria de 2004, assinale a alternativa que indica a conduta CORRETA para esse paciente.",
       "alternativas": {
         "A": "Indicar exsanguineotransfusão",
@@ -4246,7 +4246,7 @@
       "id": "pv-pe-2024-0030",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "enunciado": "Paciente feminino prematuro, nascido com 29 semanas de idade gestacional, devido à incompetência istmocervical, vem para consulta de seguimento. No momento, apresenta 7 meses e 1 dia de idade cronológica e genitora nega queixas. Atingia os marcos do desenvolvimento para a idade corrigida e vinha com evolução adequada nos gráficos de crescimento, além de vacinação completa e início de introdução alimentar adequado. Seu peso de nascimento havia sido 1030g. Além das orientações gerais e manutenção do uso do polivitamínico, quais orientações e condutas você ajustaria?",
       "alternativas": {
         "A": "Manter sulfato ferroso 3mg/Kg/dia e zinco",
@@ -4285,7 +4285,7 @@
       "id": "pv-pe-2024-0032",
       "area": "Pediatria",
       "subarea": "Pneumologia Pediátrica",
-      "sub_subarea": "Crupe",
+      "sub_subarea": "Bronquiolite aguda",
       "enunciado": "Correlacione os quadros clínicos abaixo de obstruções infecciosas das vias aéreas superiores com o seu principal agente etiológico. 1. Criança de 6 meses com quadro de febre baixa aferida associada à tosse e coriza há 3 dias, evoluindo com rouquidão e estridor em repouso. Encontra-se com bom estado geral e sem desconforto respiratório. 2. Criança de 4 anos, com história de febre (Tax de 39ºC), tosse e coriza há 4 dias, evoluindo com piora progressiva do estado geral e tosse ladrante. Chega ao serviço de emergência com desconforto respiratório moderado e presença de secreção purulenta ao exame de cavidade oral. 3. Criança de 6 anos é levado ao serviço de emergência devido a sintomas de odinofagia importante e disfagia há menos de 24 horas, além de febre associada. Genitora refere salivação importante e hipoatividade. ( ) Haemophilus influenzae B ( ) Parainfluenza ( ) Staphylococcus aureus Assinale a alternativa que indica a correlação CORRETA.",
       "alternativas": {
         "A": "2-3-1",
@@ -4308,8 +4308,8 @@
     {
       "id": "pv-pe-2024-0035",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Diarreia aguda e crônica",
       "enunciado": "Em 2023, o Ministério da Saúde do Brasil, através do Departamento de Doenças Transmissíveis, publicou uma Atualização sobre o *Manejo do paciente com diarreia”. Considerando uma criança com 4 anos, pesando 20 kg, sendo atendida num Pronto- Atendimento com diarreia aguda, desidratada, na qual será implementado o Plano Terapêutico B e levando em consideração as atualizações do Ministério da Saúde do Brasil de 2023 sobre este tema, analise as assertivas abaixo: I Uso preferencial de soro de reidratação oral (SRO) com osmolaridade reduzida, ou seja, com 75 mMol/L de sódio, na Unidade de Saúde, com um volume de 25 a 50 ml/kg, em um intervalo de 2 a 4 horas. I. Se essa criança desidratada, durante o tratamento com o Plano Terapêutico B, apresentar vômitos persistentes, o Pediatra deve manter o SRO, porém este deverá ser administrado por gastróclise. O uso de antieméticos na Pediatria não deve ser considerado devido aos seus efeitos colaterais. III. Se a criança estiver com diarreia com sangue e comprometimento do estado geral, o uso de ciprofloxacino deverá ser a primeira opção ao invés de azitromicina. Podemos afirmar que",
       "alternativas": {
         "A": "todas as assertivas estão corretas.",
