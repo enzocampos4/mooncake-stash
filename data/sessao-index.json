@@ -11783,8 +11783,8 @@
   "s1-024": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Refluxo gastroesofágico",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -11792,7 +11792,7 @@
   "s11-090": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11801,8 +11801,8 @@
   "pv-ena-2024-0021": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -11810,8 +11810,8 @@
   "pv-hcp-2024-0072": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -11819,8 +11819,8 @@
   "pv-hcp-2024-0094": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Choque na criança",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -11828,8 +11828,8 @@
   "pv-sír-2025-0123": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -11837,8 +11837,8 @@
   "s1-002": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Pneumonia na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -11846,8 +11846,8 @@
   "s1-006": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "sub": "Puericultura",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -11856,7 +11856,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -11865,7 +11865,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -11874,7 +11874,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -11883,7 +11883,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "subsub": "Doenças exantemáticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"

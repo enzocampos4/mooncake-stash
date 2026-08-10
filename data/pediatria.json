@@ -1426,7 +1426,7 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1448,9 +1448,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Cardiologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1472,7 +1472,7 @@
       "_edicao": "1",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Reanimação neonatal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1494,9 +1494,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Puericultura",
+      "subarea": "Neuropediatria",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1518,7 +1518,7 @@
       "_edicao": "1",
       "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Bronquiolite",
+      "sub_subarea": "Bronquiolite aguda",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1538,9 +1538,10 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "",
+      "subarea": "Emergências Pediátricas",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Crise asmática grave"
     },
     {
       "id": "s1-073",
@@ -1562,9 +1563,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Gastroenterologia Pediátrica",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Desnutrição e má progressão ponderal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1586,7 +1587,7 @@
       "_edicao": "1",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Aleitamento materno e artificial",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1606,9 +1607,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Neonatologia",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Doenças exantemáticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1630,9 +1631,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Reumatologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Febre reumática",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1652,9 +1653,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Puericultura",
+      "subarea": "Neuropediatria",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Convulsão febril e epilepsia",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1674,9 +1675,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Puericultura",
+      "subarea": "Neuropediatria",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Convulsão febril e epilepsia",
       "banca": "ESTRATÉGIA MED"
     },
     {
