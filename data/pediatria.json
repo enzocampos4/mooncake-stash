@@ -18,7 +18,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -40,7 +40,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -64,7 +64,7 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -86,7 +86,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -108,7 +108,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -130,7 +130,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -152,9 +152,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Dor abdominal recorrente",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -174,9 +174,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Doenças exantemáticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -196,9 +196,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Reumatologia Pediátrica",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Lúpus eritematoso sistêmico juvenil",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -220,7 +220,7 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -242,9 +242,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Refluxo gastroesofágico",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -265,9 +265,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Reumatologia Pediátrica",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Artrite idiopática juvenil (AIJ)",
       "banca": "ESTRATÉGIA MED"
     },
     {
