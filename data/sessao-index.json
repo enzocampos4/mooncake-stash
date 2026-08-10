@@ -13512,7 +13512,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -13520,8 +13520,8 @@
   "pv-uer-2025-0169": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Nefrologia Pediátrica",
+    "subsub": "Infecção urinária na criança",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -13529,8 +13529,8 @@
   "pv-uer-2025-0173": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -13539,7 +13539,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -13547,8 +13547,8 @@
   "pv-uer-2025-0179": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Puericultura",
+    "subsub": "Alimentação complementar",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -13556,8 +13556,8 @@
   "pv-hcp-2024-0084": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Pneumologia Pediátrica",
-    "subsub": "Asma",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13565,8 +13565,8 @@
   "pv-hcp-2024-0085": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13575,7 +13575,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "Asma",
+    "subsub": "Bronquiolite aguda",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13583,8 +13583,8 @@
   "pv-hcp-2024-0091": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Dor abdominal recorrente",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13593,7 +13593,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13602,7 +13602,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -13611,7 +13611,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"

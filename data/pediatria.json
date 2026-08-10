@@ -6357,7 +6357,7 @@
       "id": "pv-hcp-2025-0104",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "Aleitamento materno e artificial",
       "enunciado": "Mãe de lactente de 3 meses (em aleitamento materno exclusivo) consultou por acreditar que está com pouco leite. Informou sentir as mamas menos cheias em razão de o filho querer mamar com mais frequência. A criança encontrava-se em bom estado geral, com peso adequado, embora o ganho ponderal tenha desacelerado no último mês, causando um leve desvio para baixo na curva de peso para a idade. Qual a orientação inicial mais adequada para a situação?",
       "alternativas": {
         "A": "Indicar apenas observação clínica com retorno ambulatorial agendado em 15 dias.",
@@ -6380,7 +6380,7 @@
       "id": "pv-hcp-2025-0105",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Reanimação neonatal",
       "enunciado": "Gestante com 39 semanas de gestação procurou a Emergência Obstétrica por não estar sentindo o feto mexer-se naquele dia. Com a confirmação da diminuição dos batimentos fetais ao Doppler, foi realizada cesariana. O recém-nascido, sem malformações aparentes, apresentou cianose e flacidez e não chorou. Após o clampeamento imediato do cordão, foi levado ao berço de reanimação, secado, estimulado e avaliado, tendo sido constatada ausência dos batimentos cardíacos. O neonato não respondeu às manobras de reanimação avançada, seguindo com ausência de frequência cardíaca até o décimo minuto após o nascimento. Diante do quadro, qual a conduta mais adequada?",
       "alternativas": {
         "A": "Suspender a reanimação avançada no décimo minuto e oferecer medidas de conforto, como oxigênio e opioides.",
@@ -6402,8 +6402,8 @@
     {
       "id": "pv-hcp-2025-0106",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "Sepse neonatal e pediátrica",
       "enunciado": "Recém-nascido com 7 dias de vida, internado por sífilis congênita, vinha recebendo tratamento com penicilina G cristalina desde o primeiro dia. Os exames laboratoriais revelaram VDRL sérico de 1:2, VDRL no líquor 1:2, líquor com proteínas totais de 69 mg/dl, 35 leucócitos/mm³ e glicose de 60 mg/dl. O raio X de ossos longos estava normal. A enfermagem informou que não conseguia mais acesso vascular intravenoso periférico na criança. Segundo as diretrizes brasileiras para o manejo dessa condição, qual a conduta mais adequada para a finalização do tratamento?",
       "alternativas": {
         "A": "Solicitar acesso venoso central e manter a penicilina cristalina até que se completem 10 dias de tratamento.",
@@ -6426,7 +6426,7 @@
       "id": "pv-hcp-2025-0108",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "enunciado": "Lactente de 33 dias foi trazida à consulta de puericultura. Era filha de pais não consanguíneos e tinha 2 irmãos hígidos; a mãe de 37 anos não apresentou intercorrências no pré-natal. Ao exame, foi identificada hipotonia generalizada. Suspeitou-se de síndrome genética. O teste de triagem neonatal, coletado na UBS, não revelou alterações. Com base no caso, assinale a assertiva correta.",
       "alternativas": {
         "A": "Pregas epicânticas e prega palmar única são pouco frequentes na trissomia do 21.",
@@ -6449,7 +6449,7 @@
       "id": "pv-hcp-2025-0109",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "Aleitamento materno e artificial",
       "enunciado": "Mãe de lactente de 3 meses (em aleitamento materno exclusivo) consultou por acreditar que está com pouco leite. Informou sentir as mamas menos cheias em razão de o filho querer mamar com mais frequência. A criança encontrava-se em bom estado geral, com peso adequado, embora o ganho ponderal tenha desacelerado no último mês, causando um leve desvio para baixo na curva de peso para a idade. Qual a orientação inicial mais adequada para a situação?",
       "alternativas": {
         "A": "Indicar apenas observação clínica com retorno ambulatorial agendado em 15 dias.",
@@ -6472,7 +6472,7 @@
       "id": "pv-hcp-2025-0110",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "",
       "enunciado": "Em consulta de puericultura de um lactente de 6 meses (em aleitamento materno exclusivo) detectou-se, à oroscopia, a erupção do primeiro incisivo central direito. Assinale a alternativa que contempla a mais adequada orientação sobre higiene oral para o caso.",
       "alternativas": {
         "A": "Iniciar higiene com gaze ou pano limpo, após a última mamada do dia.",
@@ -6500,8 +6500,8 @@
     {
       "id": "pv-hcp-2025-0113",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "",
       "enunciado": "Lactente de 18 meses, previamente hígida, com episódios recorrentes de otite média aguda (OMA), foi trazida à consulta em razão de novo episódio, o quarto neste ano. A família era cuidadosa quanto à diminuição dos fatores de risco para OMA (não fumar perto da criança, não dar mamadeira em decúbito e não ofertar chupetas). As vacinas estavam em dia. Após discussão com a família sobre o impacto negativo dos episódios recorrentes na saúde global da criança, recomendou-se a colocação de tubos de ventilação. Que alternativa, dentre as abaixo, é o desfecho primário esperado para essa medida terapêutica?",
       "alternativas": {
         "A": "Melhora progressiva na aquisição da fala",
@@ -6523,8 +6523,8 @@
     {
       "id": "pv-hcp-2025-0115",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "Bronquiolite aguda",
       "enunciado": "Criança de 2 anos e 1 mês foi internada na Enfermaria proveniente da Emergência. Na lista de problemas, constava “quarto episódio de internação por bronquiolite viral aguda” (vírus isolado no primeiro episódio de sibilância: rinovírus). Revisando outros aspectos da história, verificou-se que a criança nascera a termo, tinha crescimento e desenvolvimento adequados, estava com as vacinas em dia e vinha em uso de hidratante para dermatite atópica. Frequentava a pré-escola em turno integral desde os 4 meses. Os pais eram hígidos, e o irmão de 12 anos fazia uso regular de formoterol, budesonida e tiotrópio inalatórios. A mãe relatou que o quadro agudo atual havia começado com coriza e tosse produtiva. Teve um pico febril de 37,9o C na chegada ao hospital, há 24 horas. Ao exame físico, apresentava bom estado geral, frequência respiratória de 38 mpm, tiragem subcostal leve e sibilos polifônicos expiratórios bilaterais. Oxímetro de pulso mostrou saturação de 96%, com suplementação de oxigênio por cânula nasal de baixo fluxo a 0,4 l/min. Radiografia de tórax revelou hiperinsuflação bilateral e opacidades intersticiais peri-hilares. Na prescrição da Emergência, estavam registrados os seguintes itens: (1) dieta por via oral; (2) oxigênio por cânula nasal de baixo fluxo a 0,4 l/min; (3) aspiração nasal, se necessário. Que modificação na prescrição médica deve ser feita por ocasião da admissão do paciente na Enfermaria?",
       "alternativas": {
         "A": "Aumentar o fluxo de oxigênio pelo cateter nasal para 0,8 l/min.",
@@ -6552,8 +6552,8 @@
     {
       "id": "pv-hcp-2025-0116",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "Icterícia",
+      "subarea": "Hematologia Pediátrica",
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)",
       "enunciado": "Menino de 3 anos foi trazido à consulta por episódios intermitentes de icterícia e anemia, geralmente precipitados após infecções virais. Em seu histórico, constavam icterícia neonatal e transfusão sanguínea aos 8 meses, devido a anemia grave. Ao exame físico, foram observadas icterícia e palidez cutânea, sem esplenomegalia palpável. Os principais resultados dos exames laboratoriais encontram-se reproduzidos abaixo. Qual o diagnóstico mais provável?",
       "alternativas": {
         "A": "Esferocitose hereditária",
@@ -6585,7 +6585,7 @@
       "id": "pv-hcp-2025-0117",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "",
       "enunciado": "Pais procuraram orientação sobre o uso do tablet pelo filho de 4 anos: a mãe considerava o uso do dispositivo inadequado por acreditar que excesso de exposição às telas poderia causar problemas de rendimento escolar e sonolência; o pai dizia que lera, em algum lugar, que o contato precoce com informações no dispositivo seria um fator positivo para o desenvolvimento cognitivo. Com base nessa consulta acerca das vantagens e desvantagens das telas para a saúde infantil, que recomendação, dentre as abaixo, não tem respaldo da Sociedade Brasileira de Pediatria?",
       "alternativas": {
         "A": "Para crianças com menos de 2 anos, evitar a exposição às telas, mesmo que passivamente.",
@@ -6613,8 +6613,8 @@
     {
       "id": "pv-hcp-2025-0134",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Endocrinologia pediátrica",
+      "sub_subarea": "",
       "enunciado": "Menina de 4 anos foi trazida à consulta por apresentar desenvolvimento de mamas e pelos pubianos, quadro iniciado há 3 meses segundo familiares. Ao exame físico, foram constatados mamas e pelos no estágio 3 de Tanner. Exames laboratoriais e funcionais levaram ao diagnóstico de puberdade precoce dependente de gonadotrofinas. Assinale a assertiva correta com base no diagnóstico.",
       "alternativas": {
         "A": "Deve ser iniciado imediatamente tratamento com agonistas do GnRH e hormônio do crescimento.",
@@ -6642,8 +6642,8 @@
     {
       "id": "pv-fam-2024-0018",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "subarea": "Neuropediatria",
+      "sub_subarea": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
       "enunciado": "Beatriz tem 7 meses e está em consulta de rotina na UBS. Mãe refere que mantem aleitamento materno e paciente tem boa aceitação da dieta introduzida há 1 mês. No exames físico nota-se que ela é capaz de sentar com apoio, transferir objetos de uma mão para a outra, volta-se para a voz quando chamada, porém ainda não imita sons. Ao analisar o desenvolvimento desta paciente podemos concluir:",
       "alternativas": {
         "A": "Atraso do desenvolvimento motor",
