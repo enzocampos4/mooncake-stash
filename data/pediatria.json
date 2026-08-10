@@ -6019,7 +6019,7 @@
       "id": "pv-uer-2025-0167",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Menina de 8 anos, natural do Rio de Janeiro, foi levada ao pediatra após contato com um colega com coqueluche. A paciente não apresenta quaisquer sintomas e o exame físico é normal. Não foi possível verificar o cartão vacinal, porque foi perdido. Considerando a situação vacinal, o esquema de imunização mais indicado nesse caso é aplicar, com intervalo de dois meses entre cada dose, três doses da vacina:",
       "alternativas": {
         "A": "adsorvida difteria, tétano e pertussis acelular (dTpa).",
@@ -6041,8 +6041,8 @@
     {
       "id": "pv-uer-2025-0169",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Nefrologia Pediátrica",
+      "sub_subarea": "Infecção urinária na criança",
       "enunciado": "Menina de 4 anos e 2 meses foi atendida com quadro de dor abdominal, disúria e polaciúria, sem febre. Foi realizado EAS que mostrou testes de nitrito e de esterase leucocitária positivos, além de 20 a 30 piócitos por campo. A cultura de urina foi colhida e está em andamento. A mãe informa que este é o terceiro episódio de infecção urinária, todos sem febre, e que o primeiro episódio ocorreu aos 3 anos e 5 meses. Ela também relata que o desfralde ocorreu por volta de 3 anos, mas que a criança ainda molha a calcinha durante o dia e que à noite dorme de fralda. Além disso, evacua com dificuldade, reclamando de dor, e tem escape fecal, sujando a calcinha três a quatro vezes por semana. Baseado na história, a causa mais provável das infecções urinárias recorrentes apresentadas pela criança é:",
       "alternativas": {
         "A": "refluxo vesicoureteral",
@@ -6070,8 +6070,8 @@
     {
       "id": "pv-uer-2025-0173",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Neuropediatria",
+      "sub_subarea": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
       "enunciado": "Adolescente de 14 anos, sexo masculino, refere ter dor no terço proximal da coxa direita há cerca de quatro meses, principalmente à noite. Essa dor ocorre quase todos os dias e, geralmente, é aliviada com o uso de anti-inflamatório não esteroidal ministrado pelos pais. O exame físico realizado no ambulatório é normal, exceto pela presença de dor à digitopressão na região. Na história patológica pregressa, pais referem cerca de cinco a seis amigdalites por ano e asma brônquica, que melhorou por volta dos 7 anos. A principal hipótese diagnóstica nesse caso é:",
       "alternativas": {
         "A": "doença de Osgood Schlatter",
@@ -6100,7 +6100,7 @@
       "id": "pv-uer-2025-0177",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "enunciado": "O seguimento de puericultura de crianças com trissomia do 21 tem suas peculiaridades devido ao risco aumentado de certas entidades clínicas nos mais diversos sistemas. O acompanhamento das condições médicas prevalentes em crianças com síndrome de Down deve considerar que a:",
       "alternativas": {
         "A": "alteração clínica hematológica mais comum é plaquetopenia com plaquetas pequenas",
@@ -6122,8 +6122,8 @@
     {
       "id": "pv-uer-2025-0179",
       "area": "Pediatria",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Puericultura",
+      "sub_subarea": "Alimentação complementar",
       "enunciado": "Em relação à suplementação de ferro, o Ministério da Saúde do Brasil recomenda que crianças alimentadas com leite materno",
       "alternativas": {
         "A": "e, complementarmente, com leite de vaca devem receber suplementação a partir dos 2 meses",
@@ -6154,8 +6154,8 @@
     {
       "id": "pv-hcp-2024-0084",
       "area": "Pediatria",
-      "subarea": "Pneumologia Pediátrica",
-      "sub_subarea": "Asma",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Criança de 8 anos foi trazida à consulta pela terceira vez em menos de 2 meses por dificuldade respiratória, tosse e sibilância. O médico que costumeiramente atendia a criança propôs à mãe um tratamento com medicamento à base de componentes naturais ainda em fase experimental, veiculado em anúncio nas redes sociais. A mãe aceitou a proposta e levou o produto para casa com as recomendações médicas. Com base nesse quadro, assinale a assertiva correta.",
       "alternativas": {
         "A": "Uma vez que a responsável pela criança aceitou a proposta terapêutica, não há impedimento para o uso desse medicamento.",
@@ -6183,8 +6183,8 @@
     {
       "id": "pv-hcp-2024-0085",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "Doenças exantemáticas",
       "enunciado": "Criança de 7 anos foi trazida à consulta por apresentar lesões maculopapulares avermelhadas. A mãe informou que o início do quadro fora precedido por febre baixa. Inicialmente surgiram lesões na face (bochechas e dorso do nariz) e, após 2 dias, espalharam-se nos membros superiores, inclusive nas palmas das mãos, com aspecto rendilhado. Elas acentuavam-se com o sol. Qual o diagnóstico mais provável?",
       "alternativas": {
         "A": "Escarlatina",
@@ -6219,7 +6219,7 @@
       "id": "pv-hcp-2024-0090",
       "area": "Pediatria",
       "subarea": "Pneumologia Pediátrica",
-      "sub_subarea": "Asma",
+      "sub_subarea": "Bronquiolite aguda",
       "enunciado": "Lactente masculino, de 1 ano, iniciou, há 3 dias, com tosse, coriza hialina e temperatura axilar de até 37o C. Por ter apresentado piora clínica com taquipneia, batimentos de asa nasal e retrações intercostais e subcostais, foi trazido à consulta. A ausculta pulmonar revelou estertores rudes e crepitantes difusamente distribuídos, sem sibilância. Que agente etiológico, dentre os abaixo, está mais provavelmente relacionado ao caso?",
       "alternativas": {
         "A": "Streptococcus pneumoniae",
@@ -6241,8 +6241,8 @@
     {
       "id": "pv-hcp-2024-0091",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Dor abdominal recorrente",
       "enunciado": "Menina de 10 meses foi trazida à consulta por dor abdominal, diarreia e vômitos após ingestão de fórmula infantil com proteína do leite de vaca (PLV). Tinha história de dermatite atópica. Nascida de parto vaginal, apresentou índice de Apgar 8 e 9 no primeiro e quinto minutos respectivamente e escore Z peso/idade e estatura/idade entre 0 e +1. Durante os primeiros 6 meses de vida, esteve assintomática, em uso de leite materno exclusivo. Testes alérgicos para o leite de vaca (dosagem de IgE específica) foram negativos. Há 1 mês vinha em uso de fórmula infantil polimérica com PLV sem lactose, sem melhora. No momento, a conduta mais adequada é iniciar",
       "alternativas": {
         "A": "fórmula extensamente hidrolisada e suspender derivados de PLV.",
@@ -6273,7 +6273,7 @@
       "id": "pv-hcp-2024-0095",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "enunciado": "Lactente de 3 meses foi trazido à UBS para consulta de revisão (dados do nascimento estão reproduzidos na tabela abaixo). Encontrava-se em regime de aleitamento materno exclusivo, com eliminações normais. A cobertura vacinal estava atualizada. Não havia história de intercorrências nos períodos prénatal, perinatal e neonatal. O exame físico não revelou alterações, e o desenvolvimento neuropsicomotor era adequado para a idade. Considerando o crescimento próximo ao escore Z da curva da OMS, quais seriam as prováveis medidas antropométricas de peso e comprimento nessa consulta?",
       "alternativas": {
         "A": "4.500 g – 53 cm",
@@ -6305,7 +6305,7 @@
       "id": "pv-hcp-2024-0096",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Durante consulta de puericultura em uma UBS em Porto Alegre, a mãe de uma criança de 2 anos solicitou informações gerais sobre a vacina contra febre amarela, especialmente porque a família viajava com frequência para o interior do Rio Grande do Sul. Assinale a assertiva correta sobre a vacina contra febre amarela, segundo as recomendações do Ministério da Saúde e do Programa Nacional de Imunizações.",
       "alternativas": {
         "A": "Por ser uma vacina de vírus inativado, não há necessidade de avaliar se existe alguma contraindicação.",
@@ -6328,7 +6328,7 @@
       "id": "pv-hcp-2025-0102",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "",
       "enunciado": "Durante o evento climático no Rio Grande do Sul em maio de 2024, o Programa de Triagem Neonatal do RS solicitou às unidades hospitalares de referência em nascimento a coleta do Teste do Pezinho ainda no ambiente hospitalar, para evitar que não fosse feito em razão do alagamento ou destruição de Postos de Saúde das regiões afetadas. Assinale a alternativa que contempla a doença e um possível falso resultado em uma coleta precoce do teste (antes do 3o dia) em recém-nascido a termo, com peso de nascimento de 3.000 g, nascido em maternidade do SUS e cuja mãe não apresenta patologias nem faz uso de medicamentos contínuos.",
       "alternativas": {
         "A": "Fenilcetonúria – falso positivo",

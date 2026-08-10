@@ -13403,8 +13403,8 @@
   "pv-ufr-2025-0265": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Puericultura",
+    "subsub": "Alimentação complementar",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -13412,8 +13412,8 @@
   "pv-ufr-2025-0268": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Dor abdominal recorrente",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -13421,8 +13421,8 @@
   "pv-ufr-2025-0295": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Puericultura",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -13430,8 +13430,8 @@
   "pv-uer-2024-0022": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "HIV pediátrico",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -13440,7 +13440,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "subsub": "Doenças exantemáticas",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -13448,8 +13448,8 @@
   "pv-uer-2024-0025": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -13457,8 +13457,8 @@
   "pv-uer-2024-0026": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Neuropediatria",
+    "subsub": "Convulsão febril e epilepsia",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -13466,8 +13466,8 @@
   "pv-uer-2024-0027": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Gastroenterologia Pediátrica",
-    "subsub": "Diarreia",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -13475,8 +13475,8 @@
   "pv-uer-2024-0029": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Choque na criança",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -13484,8 +13484,8 @@
   "pv-uer-2024-0037": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Desnutrição e má progressão ponderal",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -13493,8 +13493,8 @@
   "pv-uer-2024-0038": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "HIV pediátrico",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -13503,7 +13503,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Reanimação neonatal",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
