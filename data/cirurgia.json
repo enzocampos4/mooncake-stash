@@ -10342,9 +10342,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Hiperplasia prostática benigna",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10364,7 +10364,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Cirurgia Infantil",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -10388,9 +10388,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Trauma cranioencefálico (TCE)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10410,9 +10410,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Abdome Agudo",
+      "sub_subarea": "Hérnia inguinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10434,7 +10434,7 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Cirurgia Infantil",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -10456,9 +10456,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Obstrução intestinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10480,7 +10480,7 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Cirurgia Infantil",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -10502,9 +10502,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Urgências Abdominais",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Obstrução Intestinal",
+      "sub_subarea": "Obstrução intestinal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10526,9 +10526,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Trauma",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "ATLS e abordagem primária/secundária",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10548,9 +10548,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Princípios da Anestesiologia",
       "_area_slug": "cirurgia",
-      "sub_subarea": "",
+      "sub_subarea": "Anestesia regional",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -10570,7 +10570,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Urologia",
       "_area_slug": "cirurgia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -10592,9 +10592,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Cirurgia Abdominal",
+      "subarea": "Hérnias da Parede Abdominal",
       "_area_slug": "cirurgia",
-      "sub_subarea": "Hérnias",
+      "sub_subarea": "Hérnia inguinal",
       "banca": "ESTRATÉGIA MED"
     },
     {

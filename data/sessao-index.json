@@ -11009,8 +11009,8 @@
   "pv-mg-2025-0134": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -11018,7 +11018,7 @@
   "pv-uer-2024-0031": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
@@ -11027,7 +11027,7 @@
   "pv-uer-2025-0105": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
@@ -11036,8 +11036,8 @@
   "pv-uer-2025-0125": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Temas Gerais em Cirurgia",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -11045,8 +11045,8 @@
   "pv-hcp-2025-0162": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "Neoplasias",
+    "sub": "Proctologia",
+    "subsub": "Câncer colorretal (cirurgia)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -11054,7 +11054,7 @@
   "pv-hcp-2025-0182": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
@@ -11063,8 +11063,8 @@
   "pv-fam-2025-0146": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -11072,8 +11072,8 @@
   "pv-uni-2024-0088": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Oncológica",
-    "subsub": "",
+    "sub": "Cirurgia Torácica",
+    "subsub": "Tumores pulmonares",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -11081,8 +11081,8 @@
   "pv-sír-2024-0077": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "Hérnia inguinal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -11090,7 +11090,7 @@
   "pv-hia-2024-0027": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "HIAE",
     "ano": 2024,
@@ -11099,7 +11099,7 @@
   "s1-058": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
+    "sub": "Cirurgia Bariátrica e Metabólica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11108,8 +11108,8 @@
   "s14-085": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Abdominal",
-    "subsub": "Hérnias",
+    "sub": "Avaliação Pré-Operatória",
+    "subsub": "Profilaxia antibiótica e de TEV",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
