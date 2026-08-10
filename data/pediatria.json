@@ -2806,9 +2806,10 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "s3-087",
@@ -2829,7 +2830,7 @@
       "_edicao": "3",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "Aleitamento materno e artificial",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2849,9 +2850,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Puericultura",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Diarreia aguda e crônica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2871,9 +2872,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Puericultura",
+      "subarea": "Neuropediatria",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Convulsão febril e epilepsia",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2898,9 +2899,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Puericultura",
+      "subarea": "Neuropediatria",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Convulsão febril e epilepsia",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2920,9 +2921,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Asma na criança",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2947,7 +2948,7 @@
       "_edicao": "5",
       "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "sub_subarea": "Icterícia",
+      "sub_subarea": "Icterícia neonatal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2969,9 +2970,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Sepse neonatal e pediátrica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2993,9 +2994,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Neonatologia",
+      "subarea": "Endocrinologia pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3015,9 +3016,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Puericultura",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "Desnutrição e má progressão ponderal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3042,7 +3043,7 @@
       "_edicao": "5",
       "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3062,9 +3063,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Emergências Pediátricas",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Parada cardiorrespiratória pediátrica (PALS)",
       "banca": "ESTRATÉGIA MED"
     },
     {
