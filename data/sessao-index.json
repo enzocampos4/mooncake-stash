@@ -13088,8 +13088,8 @@
   "pv-mg-2024-0061": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "Arritmias na criança",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -13097,8 +13097,8 @@
   "pv-mg-2024-0063": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -13106,8 +13106,8 @@
   "pv-mg-2024-0067": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Puericultura",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -13115,8 +13115,8 @@
   "pv-mg-2024-0074": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -13125,7 +13125,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -13133,8 +13133,8 @@
   "pv-mg-2025-0144": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -13142,8 +13142,8 @@
   "pv-mg-2025-0145": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -13151,8 +13151,8 @@
   "pv-mg-2025-0146": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -13161,7 +13161,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -13170,7 +13170,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Aleitamento materno e artificial",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -13179,7 +13179,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
