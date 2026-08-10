@@ -3649,9 +3649,10 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "",
+      "subarea": "Neonatologia",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Icterícia neonatal"
     },
     {
       "id": "s9-080",
@@ -3677,7 +3678,7 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Pneumologia Pediátrica",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -3709,9 +3710,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Puericultura",
+      "subarea": "Endocrinologia pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3738,16 +3739,16 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Reumatologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Febre reumática",
       "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "pv-ena-2024-0041",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "",
       "enunciado": "Os quadros de insuficiência respiratória em crianças podem ter características próprias, dependendo da faixa etária e dos fatores de risco. Sobre o tema, assinale a alternativa correta.",
       "alternativas": {
         "A": "Nos casos de insuficiência respiratória com aumento de CO2, o uso de oxigênio inalatório pode lavar à piora do quadro.",
@@ -3776,8 +3777,8 @@
     {
       "id": "pv-ena-2024-0044",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Endocrinologia pediátrica",
+      "sub_subarea": "",
       "enunciado": "Uma criança de sete anos, previamente saudável, é levada ao pronto-socorro com queixas de poliúria, polidipsia, perda de peso e vômitos. Ao exame físico, apresenta desidratação, taquipneia e hálito cetônico. Os exames laboratoriais revelam glicemia de 450 mg/dL, sódio e potássio de 140 mEq/L e 5,5 mEq/L, respectiva; pH arterial de 7,2, bicarbonato de 18 mEq/L. Qual deve ser a conduta inicial nesse caso?",
       "alternativas": {
         "A": "Iniciar hidratação venosa com solução salina isotônica e, após hidratação, reavaliar a necessidade de insulina regular em infusão contínua.",
@@ -3815,7 +3816,7 @@
       "id": "pv-ena-2024-0048",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "enunciado": "Um menino de cinco anos de idade comparece à consulta com sua mãe, a qual se queixa de que o filho não está crescendo como o irmão mais velho. Qual é o principal indicador para avaliar se existe baixa estatura?",
       "alternativas": {
         "A": "Prega cutânea tricipital no percentil 25.",
@@ -3848,7 +3849,7 @@
       "id": "pv-ena-2024-0050",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "Exantemáticas",
+      "sub_subarea": "Doenças exantemáticas",
       "enunciado": "Um menino de um ano e meio de idade apresenta febre há três dias, com poucos pródromos de infecção respiratória aguda, e apresenta erupção maculo-papular que cursa por dois dias. O que chamou a atenção da mãe foi que, “no dia em que apareceram as manchas na pele, a febre desapareceu”. Clinicamente a criança encontra-se bem. Qual é o diagnóstico provável nesse caso?",
       "alternativas": {
         "A": "Eritema infeccioso.",
@@ -3878,7 +3879,7 @@
       "id": "pv-ena-2024-0051",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "Aleitamento materno e artificial",
       "enunciado": "Um recém-nascido de 27 dias de vida, que recebe aleitamento exclusivo ao seio materno, é levado para consulta de puericultura. O peso e comprimento estão adequados para esse tempo de vida, comparado ao nascimento. Há relato de seis evacuações por dia, das quais duas ou três são semilíquidas e amareladas. Ao exame, o paciente está hidratado com bom estado geral. Qual é a conduta mais adequada diante do quadro?",
       "alternativas": {
         "A": "Manter o aleitamento materno exclusivo.",
@@ -3901,8 +3902,8 @@
     {
       "id": "pv-ena-2024-0052",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "Bronquiolite aguda",
       "enunciado": "Um lactente de seis meses apresenta sintomas que incluem tosse, chiado, dificuldade para respirar e taquipneia, sem cianose. Considerando que a bronquiolite é a principal causa de insuficiência respiratória aguda em crianças menores de 5 anos, especialmente nos meses de inverno, em que consiste o tratamento a ser prescrito nesse caso?",
       "alternativas": {
         "A": "Uso de antibióticos por via venosa.",
@@ -3926,7 +3927,7 @@
       "id": "pv-ena-2025-0142",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Sepse neonatal",
       "enunciado": "Um recém-nascido de 21 dias, com idade gestacional de 32 semanas, peso de nascimento de 1.600 g, está internado na UTI neonatal com sépsis, em suporte ventilatório e hemodinâmico. A vacinação do paciente deve:",
       "alternativas": {
         "A": "ocorrer de acordo com sua idade corrigida;",
@@ -3950,7 +3951,7 @@
       "id": "pv-ena-2025-0143",
       "area": "Pediatria",
       "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "Exantemáticas",
+      "sub_subarea": "Doenças exantemáticas",
       "enunciado": "Um lactente de 10 meses apresentou febre alta (39 °C) e coriza hialina por 3 dias. No quarto dia de doença, 12 horas após o último pico febril, surge exantema maculopapular em tronco que se dissemina para os membros. Ao exame, apresenta discreta hiperemia de orofaringe, linfonodos cervicais sem características inflamatórias e exantema maculopapular eritematoso difuso. Diante desse quadro, o diagnóstico correto é:",
       "alternativas": {
         "A": "escarlatina;",
