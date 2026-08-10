@@ -2248,7 +2248,7 @@
       "_edicao": "14",
       "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Exantemáticas",
+      "sub_subarea": "Doenças exantemáticas",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2266,9 +2266,10 @@
       "explicacao": "Antes de mais nada é importante checar a idade do paciente. Lembre-se de que os manejos de asma, tanto a manutenção quanto a\nexacerbação, mudam para menores de 6 anos, ok?\nNesta questão, vou me ater às recomendações para pacientes a partir de 6 anos. Além disso, é importante ter atenção ao\nlocal onde está atendendo (pronto atendimento ou atenção primária à saúde). Isso muda um pouco o fluxograma de manejo.\nNote o seguinte: o primeiro passo é avaliar a gravidade. Atualmente, o GINA recomenda o uso do Pediatric Respiratory Assessment\nMeasure (PRAM) para estimar a gravidade da crise de crianças a partir de 2 anos de idade:\nCARACTERÍSTICA\nDESCRIÇÃO\nPONTOS\nSaturação de O₂\n≥ 95%\n0\n92 a 94%\n1\n< 92%\n2\nTiragem de fúrcula\nAusente\n0\nPresente\n2\nUso de musculatura acessória (escaleno)\nAusente\n0\nPresente\n2\nEntrada de ar (considerar o mais grave em\ncaso de assimetria)\nNormal\n0\nReduzidos em bases\n1\nReduzidos em ápice e bases\n2\nMínima ou ausente (tórax silencioso)\n3\nSibilância\nAusente\n0\nApenas expiratória\n1\nInspiratória\n2\nAudível sem estetoscópio ou tórax\nsilencioso\n3\nPONTOS\nClassificação PRAM\n0 a 3\nLeve\n4 a 7\nModerado\n8 a 12\nGrave\n11 a 12\nAmeaçador de vida\nOs parâmetros favoritos da maioria dos examinadores são:\nincapacidade de falar frases, uso de musculatura acessória e\nhipoxemia! Busque sinais de gravidade de forma direcionada.\nCaso eles estejam descritos e você não tenha informações\nconcretas para chegar à pontuação do PRAM (ou você tenha\num “branco” na hora da prova), considere a crise grave.\n\nEstratégia\nMED\n38\nO nosso paciente:\n•\t SpO2 entre 92 e 95%: 1 ponto;\n•\t Sibilância inspiratória e expiratória: 2 pontos;\n•\t Tiragem de fúrcula: 2 pontos;\n•\t Entrada de ar preservada: 0 pontos.\nBom, nosso paciente ganha 5 pontos. Isso configura uma crise MODERADA.\nDefinida a gravidade da exacerbação, vamos para o tratamento preconizado:\nEntão, sabemos que, neste momento inicial, nosso paciente tem indicação de:\n•\t Salbutamol 4 a 6 puffs no espaçador;\n•\t Brometo de ipratrópio 4 puffs no espaçador;\n•\t Corticoide sistêmico;\n•\t Não há necessidade de O2 suplementar.\nFeitas essas considerações, vamos dar uma olhada nas alternativas?\nIncorreta a alternativa A. Lembre-se de que o corticoide via oral tem a mesma eficácia do endovenoso. Sempre que possível, daremos\npreferência para a administração via oral. Só utilizamos via parenteral caso o paciente esteja muito desconfortável e incapaz de coordenar\ndeglutição, ou com rebaixamento do nível de consciência.\n\nEstratégia\nMED\n39\nIncorreta a alternativa B. O suporte de oxigênio que costuma ser mais adequado para o manejo inicial emergências pediátricas é a\nmáscara não reinalante, que oferece uma FiO2 de praticamente 100%. Mas você também encontrará questões falando de máscara de\nVenturi ou cânula nasal. O importante é lembrar de só indicar O2 suplementar caso a SpO2 esteja < 92%, e utilizar a menor FiO2 possível\npara atingir o alvo.\nCorreta a alternativa C. Das crises moderadas para pior, temos indicação do ipratrópio. Essa medicação reduz a taxa de internações quando\nutilizada na primeira hora do manejo, ou seja, não adianta prescrever isso depois que o paciente já está internado, ok? Tanto o salbutamol\nquanto o ipratrópio podem ser feitos através dos puffs com espaçador (inalador pressurizado dosimetrado, que é a “bombinha”) ou por\nnebulização (“inalação”).\nIncorreta a alternativa D. Só indicamos o MgSO4 em crises graves que não respondem às medidas iniciais. Nosso paciente está numa crise\nmoderada neste momento.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "",
+      "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Asma na criança"
     },
     {
       "id": "s14-055",
@@ -2291,9 +2292,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Puericultura",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Sepse neonatal e pediátrica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2312,9 +2313,9 @@
       "imagens": [],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Hematologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2335,9 +2336,10 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Parasitoses na criança"
     },
     {
       "id": "s14-066",
@@ -2354,9 +2356,9 @@
       "explicacao": "Olá, Estrategista. Quando falamos da vacina DTP de células inteiras ou pentavalente, temos que ter em mente que o componente da\ncoqueluche (pertussis) é altamente reatogênico e pode desencadear alguns eventos adversos que você precisa conhecer, pois são muito\ncobrados em provas. São eles:\n1. Febre e choro persistentes: é caracterizado por irritabilidade após algumas horas da aplicação da vacina. O choro é inconsolável e\na febre persiste mesmo com administração de medicamentos. Apesar de ser um evento dramático e preocupante para a maioria dos\npais, é benigno e autolimitado a algumas horas. Não contraindica doses subsequentes da vacina.\n2. Episódio hipotônico-hiporresponsivo: ocorre em até 48 horas após a vacina e caracteriza-se por hipotonia muscular, pouca\nresponsividade a estímulos externos, cianose e palidez. Também é benigno e autolimitado, porém contraindica a vacinação com DTPw\n(de células inteiras/pentavalente) e indica a DTPa (acelular/pentavalente acelular) em doses subsequentes.\n\nEstratégia\nMED\n111\n3. Convulsões tonicoclônicas generalizadas: ocorrem em até 72 horas após a vacina e podem, ou não, estar acompanhadas de febre.\nContraindica a vacinação com DTPw e indica a DTPa em doses subsequentes.\n4. Encefalopatia pós-vacinal: ocorre em até 7 dias e caracteriza-se por paralisias motoras, deficiências sensitivas e crises convulsivas\nfocais ou generalizadas. Contraindica a aplicação do componente pertussis, então, indica-se o uso de DT.\nSendo assim, esta criança apresentou um episódio hipotônico hiporresponsivo, devido ao componente pertussis de células inteiras, e\nutilizamos a DTPa em doses subsequentes. Correta a alternativa A.\nIncorreta a alternativa B. As reações adversas da vacina contra hepatite B são, geralmente, locais, com dor e eritema no local da aplicação.\nIncorreta a alternativa C. A pertussis acelular não é dada de rotina e é menos reatogênica que a de células inteiras.\nIncorreta a alternativa D. O componente do H. influenzae B é pouco reatogênico.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Puericultura",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2382,9 +2384,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Reumatologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Febre reumática",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2409,9 +2411,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Cardiopatia Congênita",
+      "subarea": "Pneumologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "CIA/CIV/PCA",
+      "sub_subarea": "Pneumonia na criança",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2429,7 +2431,7 @@
       "explicacao": "Temos um recém-nascido a termo, com peso adequado, sem intercorrências obstétricas, com atraso da eliminação de mecônio. Diante da\nsituação em que um RN não elimina mecônio nas primeiras 48 horas de vida, devemos pensar em três diagnósticos principais:\n- Doença de Hirschsprung (agangliose intestinal): tem como história característica a ausência de eliminação de mecônio, com ampola\nretal vazia, seguida de eliminação de fezes explosivas após o toque. Ao realizar um enema contrastado, é possível visualizar o cólon\nproximal dilatado e um segmento agangliônico fino e espástico. O diagnóstico é confirmado com a biópsia retal evidenciando ausência\nde células ganglionares com hipertrofia compensatória de troncos nervosos nos plexos submucoso e mioentérico.\n- Atresia duodenal (falha de recanalização do duodeno): também cursa com ausência de eliminação de mecônio, associado a\nvômitos biliosos precoces (primeiras 24 horas) e discreta distensão abdominal em andar superior. Geralmente associado a alterações\ncromossômicas (síndrome de Down), má rotação intestinal e prematuridade. No pré-natal, é esperada evidência de polidrâmnio. O\ndiagnóstico é confirmado com radiografia com dilatação gasosa do estômago e duodeno proximal, caracterizando o sinal da dupla\nbolha.\n- Íleo meconial: a obstrução intestinal por mecônio espesso ocorre em RN a termo, com peso normal ao nascimento, e é muito associada\nà fibrose cística. Os sintomas se desenvolvem nas primeiras 24 a 48 horas, com ausência de eliminação de mecônio, distensão abdominal\ndifusa e vômitos biliosos. A radiografia pode evidenciar a dilatação de alças de delgado e presença de imagem em vidro moído em\nquadrante inferior direito compatível com mecônio espesso.\nApós a revisão dos principais diagnósticos relacionados ao atraso na eliminação de mecônio, podemos afirmar que a principal hipótese\ndiagnóstica do paciente com 48 horas de vida, nascido a termo, com peso normal, com histórico familiar de fibrose cística, é o íleo meconial.\nIncorreta a alternativa A. Não é esperado um quadro de distensão abdominal e vômitos precoce na doença de Hirschsprung. Geralmente, a\nquestão relata o toque retal com ampola vazia e fezes explosivas após o toque.\n\nEstratégia\nMED\n138\nIncorreta a alternativa B. A atresia duodenal geralmente é associada a um histórico patológico como síndrome de Down, má rotação intestinal\ne/ou prematuridade. Os vômitos são mais precoces devido à obstrução mais alta, e a distensão abdominal é mais discreta e restrita ao andar\nsuperior do abdome.\nCorreta a alternativa C. O quadro de um recém-nascido a termo, peso normal, com histórico familiar de fibrose cística, cursando com ausência\nde eliminação de mecônio, vômitos e distensão abdominal difusa, é bastante sugestivo de íleo meconial.\nIncorreta a alternativa D. Devido à obstrução alta, os sintomas mais relacionados são de salivação excessiva, regurgitação, tosse e engasgo\ndurante a alimentação oral. Pode ocorrer distensão gástrica nas atresias com fístula, especialmente durante o choro. O achado mais\ncaracterístico, que geralmente o examinador traz na questão, é a impossibilidade da progressão de sonda gástrica.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Pneumologia Pediátrica",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -2449,9 +2451,9 @@
       "explicacao": "Olá, Estrategista. A classificação do paciente quanto a seu estado de hidratação é clínica. Para guiar os profissionais de saúde do país, o\nMinistério da Saúde elaborou uma cartilha com orientações quanto ao manejo do paciente com diarreia aguda. Por meio dela, preconiza-se\no tratamento do doente com diarreia aguda por meio de três planos denominados de PLANOS A, B e C. Para facilitar a adequada escolha do\nplano de tratamento, o paciente deverá ser alocado em uma das três colunas abaixo, conforme dados do exame físico. Ela divide os pacientes\nem hidratados, com algum grau de desidratação ou desidratados graves. Observe:\n\nEstratégia\nMED\n154\nAgora, você pergunta: eu preciso decorar TUDO isso? Não! Vamos entender! Se o paciente está hidratado, ele não mostrará nenhum sinal\nde desidratação, claro. Entretanto, se ele estiver com diminuição do nível de consciência (comatoso, hipotônico, letárgico, inconsciente),\nincapacidade de beber líquidos ou pulso fraco/ausente ele só pode estar grave! Qualquer paciente entre esses dois extremos tem apenas\ndesidratação. Fácil, certo?\nA criança do enunciado tem sinais de desidratação? Sim. Mas, está grave? Não. Então ela está apenas desidratada, faremos o plano B, de\n“Beba agora”.\nEle consiste em:\n* Administrar solução de reidratação oral (SRO) na unidade de atendimento*\nA quantidade administrada será guiada pela sede do paciente, devendo ser administrada até que os sinais de desidratação desapareçam.\nOrienta-se que o paciente tome no mínimo de 50 a 100mL/kg de SRO em um período de 4 a 6 horas, segundo o Ministério da Saúde. A criança\ndeve ter sua alimentação suspensa durante a terapia de reidratação oral, EXCETO o aleitamento materno! Afinal, ele é um excelente líquido\nhidratante.\nAo final de 4 a 6 horas, há dois caminhos a seguir: se a criança estiver hidratada, ela poderá ser liberada para casa com o Plano A de hidratação\n(SRO ou outros líquidos para casa). Se a desidratação persistir, está indicado iniciar hidratação por sonda (gastróclise). A qualquer momento,\nse ela evoluir para desidratação grave, iniciamos a hidratação venosa.\nIncorreta a alternativa A. Este é o plano A para pacientes sem desidratação. Ele consiste em dar alta para o domicílio, oferecer para o paciente\nmais líquido que o habitual e ingerir o SRO ou outros líquidos após cada evacuação diarreica. Menores de 1 ano devem receber de 50 a 100 mL\nde líquidos após cada evacuação; Crianças de 1 a 10 anos devem receber de 100 a 200 mL, e maiores de 10 anos, a quantidade que aceitarem.\nCorreta a alternativa B. Este é o plano B de reidratação.\nIncorreta a alternativa C. Este é o plano C, para pacientes desidratados graves. Ele consiste em administrar de forma endovenosa, para\nmaiores de 1 ano, por 30 minutos, soro fisiológico/ringer lactato 30ml/kg, seguido de 70ml/kg nas próximas 2 horas e meia.\nIncorreta a alternativa  D. Esta é a conduta preconizada no choque hipovolêmico.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Puericultura",
+      "subarea": "Gastrologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Diarreia aguda e crônica",
       "imagens": [
         "data/simulados/imgs/14-simulado/q93_img1.jpeg"
       ],
@@ -2474,9 +2476,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Puericultura",
+      "subarea": "Infectologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Sepse neonatal e pediátrica",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2498,9 +2500,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Hematologia Pediátrica",
       "_area_slug": "pediatria",
-      "sub_subarea": "",
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)",
       "banca": "ESTRATÉGIA MED"
     },
     {

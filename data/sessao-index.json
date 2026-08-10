@@ -12107,22 +12107,13 @@
   "s11-064": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Gastroenterologia Pediátrica",
-    "subsub": "Diarreia",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
   "s11-066": {
-    "area": "pediatria",
-    "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
-    "banca": "ESTRATÉGIA MED",
-    "ano": 0,
-    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
-  },
-  "s11-069": {
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
@@ -12131,11 +12122,20 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
   },
+  "s11-069": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Meningites na criança",
+    "banca": "ESTRATÉGIA MED",
+    "ano": 0,
+    "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
   "s11-081": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Pneumonia na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12143,7 +12143,7 @@
   "s11-083": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Infectologia Pediátrica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -12152,8 +12152,8 @@
   "s11-091": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "Cardiopatias congênitas cianóticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12161,7 +12161,7 @@
   "s11-095": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -12171,7 +12171,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "Asma",
+    "subsub": "Bronquiolite aguda",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -12179,8 +12179,8 @@
   "s14-008": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Parasitoses na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12188,8 +12188,8 @@
   "s14-012": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Choque na criança",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12197,8 +12197,8 @@
   "s14-016": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -12206,8 +12206,8 @@
   "s14-019": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
