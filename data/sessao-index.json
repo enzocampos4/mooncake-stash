@@ -11351,7 +11351,7 @@
   "s1-003": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11360,7 +11360,7 @@
   "s1-020": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11369,7 +11369,7 @@
   "s1-036": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11378,7 +11378,7 @@
   "s1-050": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11387,7 +11387,7 @@
   "s1-064": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11396,7 +11396,7 @@
   "s1-067": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11405,8 +11405,8 @@
   "s11-026": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Dor abdominal recorrente",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -11414,8 +11414,8 @@
   "s11-043": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -11423,8 +11423,8 @@
   "s11-048": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Lúpus eritematoso sistêmico juvenil",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -11432,7 +11432,7 @@
   "s11-060": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -11441,8 +11441,8 @@
   "s11-087": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Refluxo gastroesofágico",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -11450,8 +11450,8 @@
   "s14-003": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Artrite idiopática juvenil (AIJ)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
