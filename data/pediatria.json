@@ -13169,8 +13169,8 @@
     {
       "id": "pv--2024-0050",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Paciente do sexo masculino, 71 anos, diagnosticado com doença de Parkinson há 11 anos. No início desenvolveu somente tremor de extremidades, mas evolui com a tríade clássica de sintomas: tremor de repouso, rigidez muscular e bradicinesia, fechando o diagnóstico. Inicialmente, o paciente respondeu bem ao tratamento com levodopa e agonistas de dopamina, que ajudaram a controlar os sintomas motores, mas houve progressão da doença nos últimos 2 anos e o paciente começou a apresentar flutuações motoras, com períodos de bom controle motor alternados com períodos de piora dos sintomas. Nas últimas semanas, vem apresentando sintomas psicóticos (por exemplo, acredita que o vizinho o está vigiando, que mexe em sua lata de lixo, etc), mas são ideias pouco estruturadas. Assinale qual é a afirmativa correta relacionada a sintomas psicóticos na doença de Parkinson.",
       "alternativas": {
         "A": "Ocorre mais no início dos sintomas da doença, podendo ser exacerbado com o tratamento da levodopa.",
@@ -13192,8 +13192,8 @@
     {
       "id": "pv-sp-2024-0103",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Neuropediatria",
+      "sub_subarea": "Convulsão febril e epilepsia",
       "enunciado": "Paciente de 2 anos, sexo feminino, sem antecedentes relevantes, apresenta quadro de febre de até 39.8 ºC, vômitos e prostração, há dois dias. Hoje estava sonolenta e apresentou episódio de crise convulsiva tônico-clônica generalizada com duração de cerca de 10 minutos, sendo levada ao pronto-socorro. Na triagem, paciente apresentou nova crise convulsiva, sendo levada à sala de emergência. Foi solicitado acesso venoso, cuja obtenção foi malsucedida. Assinale a droga e a via mais apropriada para controle da crise convulsiva neste momento.",
       "alternativas": {
         "A": "Midazolam intramuscular.",
@@ -13215,8 +13215,8 @@
     {
       "id": "pv-sp-2024-0104",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Diarreia aguda e crônica",
       "enunciado": "Paciente de 05 anos com antecedente de encefalopatia crônica não progressiva, portador de traqueostomia e gastrostomia, apresenta quadro de diarreia há cinco dias, cerca de 10 episódios por dia. Nesse período, recebeu soro de reidratação caseiro, cerca de 200 mL, após episódios diarreicos. Foi trazido hoje ao departamento de emergência, devido sonolência e diminuição da diurese. Na admissão, paciente apresentava choque hipotensivo, sendo iniciada expansão com soro fisiológico. Após primeira expansão, a equipe que prestava o atendimento recebeu o resultado da gasometria, descrito a seguir: pH: 7.25 HCO⁻₃: 12 mmol/L Base Excess: -5,0 mmol/L Sódio: 160 mEqg/L Potássio: 3.3 mEg/L Assinale a conduta a ser realizada para adequação do sódio, após estabilização hemodinâmica.",
       "alternativas": {
         "A": "Recoleta do sódio sérico após 6 horas e verificar se houve queda de, no mínimo, 1 mEqg/hora. Sem reposição até resultados.",
@@ -13238,8 +13238,8 @@
     {
       "id": "pv-sp-2024-0105",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Diarreia aguda e crônica",
       "enunciado": "Paciente de 05 anos com antecedente de encefalopatia crônica não progressiva, portador de traqueostomia e gastrostomia, apresenta quadro de diarreia há cinco dias, cerca de 10 episódios por dia. Nesse período, recebeu soro de reidratação caseiro, cerca de 200 mL, após episódios diarreicos. Foi trazido hoje ao departamento de emergência, devido sonolência e diminuição da diurese. Na admissão, paciente apresentava choque hipotensivo, sendo iniciada expansão com soro fisiológico. Após primeira expansão, a equipe que prestava o atendimento recebeu o resultado da gasometria, descrito a seguir: pH: 7.25 HCO⁻₃: 12 mmol/L Base Excess: -5,0 mmol/L Sódio: 160 mEqg/L Potássio: 3.3 mEg/L Na reavaliação pós-primeira expansão, paciente segue em REG, pálido, frequência cardíaca 150 bpm, FR 40 ipm e PA 76x42 mmHg, TEC 6 s. Assinale a alternativa correta com relação à estratégia para hidratação do paciente.",
       "alternativas": {
         "A": "Iniciar soro de reidratação oral por gastrostomia.",
@@ -13268,7 +13268,7 @@
       "id": "pv-sp-2024-0107",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Prematuridade e baixo peso",
       "enunciado": "Recém-nascido pré-termo, com idade gestacional de 25+2/7 semanas, nasceu de parto vaginal. Gestante apresentou diabetes melito gestacional manejada com orientações dietéticas, além de doença hipertensiva específica da gestação tratada com metildopa. Evoluiu com trabalho de parto prematuro. Feita administração de sulfato de magnésio e uma dose de corticoide antes do parto. RN nasceu hipotônico e sem choro, realizado clampeamento imediato do cordão umbilical e levado para o berço aquecido, realizada reanimação neonatal com necessidade de intubação orotraqueal, sendo encaminhado para Unidade de Terapia Intensiva (UTI) neonatal, após estabilização. Peso ao nascimento: 800 g. Apgar 3, 5 e 8, no primeiro, quinto e décimo minutos de vida, respectivamente. Na UTI foi mantido em ventilação mecânica, em jejum com sonda orogástrica aberta. Iniciada administração de soro glicosado a 10%, 56 mL e solução de aminoácidos 10%, 16 mL, intravenoso (IV), em 24 horas. Glicemia capilar (“Dextro”) controle, uma hora após o início do soro, de 50 mg/dL. Com 15 horas de vida paciente apresentou tremores de membros. Realizado eletroencefalograma de amplitude integrada que confirmou tratar-se de convulsão. A investigação laboratorial revelou causa metabólica. Assinale o tratamento adequado para a provável causa metabólica do episódio citado.",
       "alternativas": {
         "A": "Ringer lactato 16 mL via IV.",
@@ -13301,8 +13301,8 @@
     {
       "id": "pv-sp-2024-0111",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Neuropediatria",
+      "sub_subarea": "Convulsão febril e epilepsia",
       "enunciado": "Paciente feminina de 7 meses, com antecedente de hidrocefalia diagnosticada após o nascimento e portadora de derivação ventrículo peritoneal (DVP), foi trazida ao pronto atendimento por apresentar irritabilidade há uma semana, sonolência há 3 dias e piora dos escapes convulsivos há um dia. Faz uso contínuo de anticonvulsivantes e das vitaminas indicadas para a idade. Ao exame: FC: 85 bpm, FR: 20 ipm; PA: 116x70 mmHg. A seguir, imagens da paciente e dos exames realizados. Assinale a alternativa que descreve corretamente a interpretação clínica e dos exames de imagem apresentados pela paciente.",
       "alternativas": {
         "A": "Trajeto adequado; tomografia e clínica compatível com mau funcionamento de DVP.",
@@ -13335,8 +13335,8 @@
     {
       "id": "pv-sp-2024-0112",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Emergências Pediátricas",
+      "sub_subarea": "Choque na criança",
       "enunciado": "Paciente de 5 anos, sexo masculino, sem antecedentes relevantes foi encontrado desacordado em casa pela avó e levado prontamente ao hospital. Ele estava aos cuidados do irmão de 16 anos, que aparentemente havia saído e deixado o menor assistindo à televisão. Até então, ele estava bem e assintomático. Ao exame em sala de emergência, o paciente apresentava via aérea pérvia, FR: 22 ipm, SpO₂ 96%, ausculta e expansibilidade pulmonar preservadas, FC: 140 bpm, PA: 130x80 mmHg, pulso e perfusão preservados, apresentando mucosas secas. Na avaliação neurológica alternava períodos de sonolência com agitação e pupilas midriáticas. Bexiga palpável próxima à região umbilical, temperatura de 37,9 ºC. Exposição sem hematomas, face conforme imagem a seguir: Assinale qual é o mecanismo responsável pelo quadro clínico apresentado.",
       "alternativas": {
         "A": "Estímulo agonista sobre os receptores opioides Delta, Kappa e Mu.",
@@ -13367,8 +13367,8 @@
     {
       "id": "pv-sp-2024-0113",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "Sepse neonatal e pediátrica",
       "enunciado": "Paciente de 8 anos, portador de leucemia linfoide aguda (LLA) diagnosticado há 4 semanas, em fase de indução, realizou último ciclo de quimioterapia há 4 dias. É trazido ao pronto atendimento por apresentar febre de até 39 C há um dia e odinofagia. Ao exame clínico apresenta bom estado geral, sinais vitais dentro da normalidade, cateter de longa permanência sem sinais flogísticos, apresenta hiperemia de orofaringe, sem placas de pus. Restante do exame clínico sem alterações. Assinale a conduta indicada para este paciente.",
       "alternativas": {
         "A": "Alta com oseltamivir, sem necessidade de coletar exames.",
@@ -13396,8 +13396,8 @@
     {
       "id": "pv-sp-2024-0115",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Criança de 3 anos, sexo feminino, com encefalopatia crônica não progressiva por anoxia neonatal, está internada em leito de enfermaria, recebendo antibiótico parenteral para tratamento de pneumonia, evoluindo com melhora clínica, já em ar ambiente. Alimenta- se por gastrostomia, tem sialorreia, dor por espasticidade e luxação de quadril. Apresenta história pregressa de cinco internações por pneumonia, com duas passagens em terapia intensiva. Em visita multidisciplinar, foi considerado acionar a equipe de cuidados paliativos para dar seguimento aos cuidados da paciente. Com relação a essa proposta, é correto afirmar:",
       "alternativas": {
         "A": "acionamento deve ocorrer somente se os pais concordarem em abreviar a vida.",
@@ -13425,8 +13425,8 @@
     {
       "id": "pv-sp-2024-0119",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "Bronquiolite aguda",
       "enunciado": "Paciente de 2 meses, sexo masculino, em uso de fórmula láctea de partida, foi internado em leito de enfermaria há 24 horas. Na admissão, apresentava história de tosse e coriza há dois dias e desconforto respiratório há um dia. Ao exame clínico, neste momento, paciente segue com desconforto respiratório, apresenta ausculta respiratória com sibilos e estertores em bases bilateralmente, tiragem subdiafragmática leve/moderada, FR: 71 ipm, FC: 168 bpm, SpO₂ 94% em cateter nasal de oxigênio 2 L/min. Peso: 4 kg. As anotações nos controles de enfermagem, o exame de imagem realizado e a prescrição atual são demonstrados a seguir: O lactente evoluiu algumas horas depois com piora do cansaço, apresentando tiragens importantes e batimento de asa nasal, com SpO₂ de 90% em cateter nasal 2 L/min. Foi optado por escalonar suporte respiratório. Assinale a alternativa que contém o dispositivo mais adequado neste momento e o respectivo fluxo a ser utilizado inicialmente.",
       "alternativas": {
         "A": "B)",
@@ -13465,8 +13465,8 @@
     {
       "id": "pv-sp-2024-0120",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "Bronquiolite aguda",
       "enunciado": "Paciente de 2 meses, sexo masculino, em uso de fórmula láctea de partida, foi internado em leito de enfermaria há 24 horas. Na admissão, apresentava história de tosse e coriza há dois dias e desconforto respiratório há um dia. Ao exame clínico, neste momento, paciente segue com desconforto respiratório, apresenta ausculta respiratória com sibilos e estertores em bases bilateralmente, tiragem subdiafragmática leve/moderada, FR: 71 ipm, FC: 168 bpm, SpO₂ 94% em cateter nasal de oxigênio 2 L/min. Peso: 4 kg. As anotações nos controles de enfermagem, o exame de imagem realizado e a prescrição atual são demonstrados a seguir: Assinale a alternativa que apresenta a conduta indicada para esse paciente, neste momento.",
       "alternativas": {
         "A": "Prescrever penicilina cristalina.",
@@ -13496,7 +13496,7 @@
     {
       "id": "pv-sp-2025-0143",
       "area": "Pediatria",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "sub_subarea": "",
       "enunciado": "Um menino de 4 anos de idade, previamente hígido, foi levado pela mãe ao pronto‑socorro com quadro de lesões difusas, pruriginosas, eritematosas, elevadas, com edema central e tamanhos variados há duas horas. O paciente não apresentou sinais de gravidade e mantinha os sinais vitais sem alterações. Com base nessa situação hipotética, assinale a alternativa que apresenta o medicamento que pertence à primeira linha para o tratamento nesse caso.",
       "alternativas": {
