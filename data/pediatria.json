@@ -6673,8 +6673,8 @@
     {
       "id": "pv-fam-2024-0019",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Hematologia Pediátrica",
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)",
       "enunciado": "Criança com 12 meses vem para consulta de rotina e a mãe refere certa dificuldade de alimentar e início do uso de leite de vaca há 1 mês. Ao exame físico está hipocorada 2+/4+, hidratada, anaictérica, ativa e com neurodesenvolvimento adequedo para a idade. Peso e estatura estão no percentil 10 para a idade, mantendo seu padrão de crescimento desde o nascimento. Para esse paciente, sua principal hipótese e conduta devem ser:",
       "alternativas": {
         "A": "Desnutrição - solicitar hemograme e lipidpgrama",
@@ -6697,7 +6697,7 @@
       "id": "pv-fam-2024-0020",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Escolar de 5 anos procura atendimento para atualização de cartão vacinal. Pelo cartão, todas as vacinas foram realizadas até os 18 meses de vida. Quais as atualizações necessária nesta consulta:",
       "alternativas": {
         "A": "Reforço DTP/DTPa",
@@ -6727,8 +6727,8 @@
     {
       "id": "pv-fam-2024-0021",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Dor abdominal recorrente",
       "enunciado": "Lactente de 18 meses é trazido á consulta devido ao aparecimento de lesões eczematosas, pruriginosas em couro cabeludo, face e membros superiores há 10 dias, sem melhora. Mãe nega outras queixas, refere aleitamento materno por 4 meses e com boa aceitação alimentar. Qual a principal hipótese diagnóstica:",
       "alternativas": {
         "A": "Psoríase",
@@ -6750,8 +6750,8 @@
     {
       "id": "pv-fam-2024-0022",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "Asma na criança",
       "enunciado": "Menina de 6 anos de idade com quadro de asma desde os 2 anos, sem exacerbações há cerca de 1 ano, sem despertar noturno e sem limitação de atividade física, atualmente sem uso de medicação contínua, apresentando tosse e chiado a cada 3 meses. Há 6 horas iniciou quadro de tosse seca, chiado no peito e dificuldade respiratória que vem aumentando. Ao exame físico apresenta-se taquidispneica com sibilos ins e expiratórios difusos. O tratamento inicial preferencial para essa criança, considerando as recomendações atualizadas do GINA é:",
       "alternativas": {
         "A": "Corticoide sistêmico + Formoterol sob demanda até melhora dos sintomas",
@@ -6789,8 +6789,8 @@
     {
       "id": "pv-fam-2024-0023",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Desnutrição e má progressão ponderal",
       "enunciado": "Lactente de 2 meses, em aleitamento materno exclusivo, procura atendimento com relato de diarréia com raios de sangue nas fezes há 1 mês e lesões eritemato crostosas associadas. Segundo a mãe, lactente recebeu complemento com fórmula infantil no 1º dia de vida na maternidade por dificuldade de amamentação. Ao exame físico encontra-se corado, hidratado em com ganho de peso adequado. Qual a conduta mais adequada a esse paciente:",
       "alternativas": {
         "A": "Suspender aleitamento e iniciar fórmula infantil especial",
@@ -6812,8 +6812,8 @@
     {
       "id": "pv-fam-2024-0026",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "subarea": "Cardiologia Pediátrica",
+      "sub_subarea": "Cardiopatias congênitas cianóticas",
       "enunciado": "Recém-nascido a termo, com peso adequado para a idade gestacional, assintomático, realiza Teste do Coraçãozinho no segundo dia de vida após o nascimento. A saturação arterial de oxigênio obtida por oximetria de pulso em membro superior direito de 96% e em membro inferior de 90%. Qual é a conduta?",
       "alternativas": {
         "A": "Repetir o teste após uma hora",
@@ -6843,8 +6843,8 @@
     {
       "id": "pv-fam-2024-0028",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "subarea": "Puericultura",
+      "sub_subarea": "Aleitamento materno e artificial",
       "enunciado": "Uma mãe está muito preocupada com a perda de peso de seu filho, que está no 2º dia de vida e perdeu 10% do peso de nascimento. Relata que recém-nascido chora muito, que ela não sente as mamas esvaziarem e está com dor. Ao exame físico, mãe com mamas túrgidas e recém-nascido com as bochechas encovadas, lábios abertos e sem barulho nas sucções ao seio materno. A orientação mais adequada para essa paciente será:",
       "alternativas": {
         "A": "Orientar ordenha manual e corrigir pega",
@@ -6873,7 +6873,7 @@
       "id": "pv-fam-2024-0030",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Recém-nascido de 34 semanas de idade gestacional corrigida, peso de nascimento de 1990g. Está no 10º dia de vida e encontra-se em aleitamento materno exclusivo e já recuperou o peso de nascimento. De acordo com as normas do Programa Nacional de imunização, em relação a vacina de BCG, devemos:",
       "alternativas": {
         "A": "1. Aplicar a vacina nesse momento",
@@ -6902,7 +6902,7 @@
       "id": "pv-fam-2025-0124",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Criança com 2 meses e 10 dias de idade, nascida de parto domiciliar, recebendo aleitamento materno exclusivo até 2m e 10 dias, quando é abandonada pela mãe na casa da vizinha. A criança não passou por consulta na puericultura e não tem Carteira de Vacinação, pois desde o nascimento não recebeu nenhuma vacina. A primeira providencia da vizinha foi levar a criança para ser avaliada na Unidade Básica de Saúde do bairro. Segundo o Programa Nacional de Imunização (PNI) do Ministério da Saúde, 2024, quais vacinas esta criança deve receber?",
       "alternativas": {
         "A": "BCG, Hepatite B, Pentavalente (Difteria, Tétano, Pertussis, Hepatite B e Haemophilus influenzae B), Poliomielite (VIP), Pneumocócica 10 valente, E meningocócica C",
@@ -6931,7 +6931,7 @@
       "id": "pv-fam-2025-0132",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "",
       "enunciado": "Em uma consulta de puericultura de um lactente de 12 meses, a mãe questiona sobre a necessidade de exames para investigação de anemia. Lactente em aleitamento materno misto (recebe leite de vaca integral em algumas mamadas) e com boa aceitação alimentar. Recebe ferro profilático na dose de 1 mg/kg desde o 3º mês de vida e vitamina D 600 Ul/dia desde o nascimento e com bom ganho pondero-estatural. Qual a sua orientação:",
       "alternativas": {
         "A": "A triagem é indicada nessa faixa etária e devem ser colhidos, no mínimo: hemograma e ferritina.",
@@ -6964,7 +6964,7 @@
       "id": "pv-fam-2025-0134",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Durante a consulta de rotina de um lactente de 4 meses a mãe questiona sobre quais as vacinas ele precisa fazer nesse momento. Paciente com cartão vacinal completo e atualizado até o 3º mês de vida. Mãe refere que nas vacinas de 2 meses ele apresentou dor abdominal e um pouco de enterorragia. Qual deve ser a orientação para essa familia:",
       "alternativas": {
         "A": "Realizar 2 doses de rotavirus, pentavalente, poliomielite oral (VOP) e pneumococo conjugada",
@@ -6992,8 +6992,8 @@
     {
       "id": "pv-fam-2025-0135",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Emergências Pediátricas",
+      "sub_subarea": "Intoxicações exógenas",
       "enunciado": "Criança de 2 anos de idade, admitida com relato de ter iniciado há cerca de 2 horas com sialorreia espessa, associado a irritabilidade. Ao exame fisico, apresenta os seguintes sinais vitais: FC: 120 bpm FR: 30 ipm SatO₂: 96% em ar ambiente com ausculta pulmonar normal; não foram visualizadas alterações à oroscopia. O pai tem dúvidas se a criança ingeriu algum objeto enquanto brincava. Realizada radiografia de tórax com a seguinte imagem: Qual a melhor conduta para este paciente?",
       "alternativas": {
         "A": "Pela suspeita de ingestão de bateria, realizar endoscopia de emergência e retirada do objeto.",
