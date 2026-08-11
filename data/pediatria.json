@@ -8427,8 +8427,8 @@
     {
       "id": "pv-hia-2025-0110",
       "area": "Pediatria",
-      "subarea": "Gastroenterologia Pediátrica",
-      "sub_subarea": "Diarreia",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Diarreia aguda e crônica",
       "enunciado": "Lactente de 9 meses com quadro de diarreia aguda há três dias, acompanhada de vômitos pontuais e febre baixa. Ao exame físico, a criança apresenta sinais de desidratação, com mucosas secas, olhos fundos, irritabilidade e diminuição da elasticidade da pele. Restante do exame: FC = 148 bpm, PA = 100 x 55 (74) mmHg, pulsos cheios, presença de lágrimas, fontanela anterior normotensa. Com base nas diretrizes do Ministério da Saúde para manejo da desidratação na criança com diarreia, qual é a conduta inicial mais apropriada para esse caso?",
       "alternativas": {
         "A": "Iniciar terapia de reidratação oral e monitorar a resposta clínica.",
@@ -8456,8 +8456,8 @@
     {
       "id": "pv-hia-2025-0113",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "",
       "enunciado": "Sem nada referir anteriormente, lactente de 8 meses dá entrada em serviço de emergência com quadro de vômitos, urticária e angioedema ocular bilateral, iniciados imediatamente após a ingestão de ovo cozido. A criança encontra-se eutrófica, sem história de outras condições patológicas e vem sendo amamentada ao seio materno sem qualquer restrição alimentar da nutriz. Administrada adrenalina intramuscular com resolução dos sintomas e mantida em observação por algumas horas. Em relação às recomendações necessárias no momento da alta, assinale a alternativa correta.",
       "alternativas": {
         "A": "Vacinas cultivadas em embrião de galinha não devem ser administradas, caso da tríplice viral, influenza e febre amarela.",
@@ -8480,7 +8480,7 @@
       "id": "pv-hia-2025-0116",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Reanimação neonatal",
       "enunciado": "Recém-nascido a termo e adequado para a idade gestacional (39 semanas) apresenta hipotonia e apneia logo após o nascimento. Realizados clampeamento imediato do cordão umbilical e transferência para o berço aquecido. Após as manobras iniciais, verificou-se FC = 80 bpm e ausência de respiração espontânea; iniciada ventilação com pressão positiva (VPP) com máscara facial e balão autoinflável em ar ambiente. Após 30 segundos de VPP, constatou-se FC = 60 bpm e respiração irregular. Qual é a medida indicada neste caso?",
       "alternativas": {
         "A": "Ofertar O₂ suplementar à VPP.",
@@ -8508,8 +8508,8 @@
     {
       "id": "pv-df-2024-0006",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Para o sucesso da Atenção Domiciliar, é fundamental que o profissional da saúde compreenda a família que está recebendo esse cuidado, sua estrutura e funcionalidade. Dessa forma, torna-se necessária a apropriação pelos profissionais de saúde de algumas ferramentas específicas para abordar familiares. Considerando os instrumentos que sistematizam a abordagem familiar, assinale a alternativa equivalente ao conteúdo que trata do instrumento de avaliação destinado a refletir a satisfação de cada membro da família, por meio do qual, a partir de um questionário predeterminado, as famílias são classificadas como funcionais e moderadamente/gravemente disfuncionais.",
       "alternativas": {
         "A": "PRACTICE",
@@ -8531,8 +8531,8 @@
     {
       "id": "pv-df-2024-0050",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Diarreia aguda e crônica",
       "enunciado": "Uma criança de 4 anos de idade foi levada à emergência por quadro de náusea, vômito e diarreia há quatro dias. Apresentou febre baixa nos dois primeiros dias, evoluindo afebril desde então. Na avaliação inicial, encontrava-se desidratada. Após hidratação venosa, aceitou bem soro de reidratação oral (SRO), estava ativa, brincando, com FC, FR e enchimento capilar normais. Com base nas diretrizes do Ministério da Saúde (2023), no momento da alta, além do SRO, está indicada prescrição de",
       "alternativas": {
         "A": "zinco.",
@@ -8554,8 +8554,8 @@
     {
       "id": "pv-df-2024-0053",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Um paciente de 11 anos de idade compareceu à consulta queixando-se de dor logo abaixo do joelho direito há três meses. Referiu piora durante a prática de atividade física, mas um pouco de dor se mantém mesmo em repouso. Negou trauma no local e contou que é praticante de beach tênis. Ao exame físico, sentiu dor à palpação na região da tuberosidade da tíbia direita. Negou dor nas articulações dos quadris, joelhos e tornozelos, mas realizou exame de raios X que revelaram alteração. O diagnóstico, nesse caso, é",
       "alternativas": {
         "A": "dor do crescimento.",
@@ -8587,7 +8587,7 @@
       "id": "pv-df-2024-0054",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Sepse neonatal",
       "enunciado": "A síndrome da morte súbita do lactente (SMSL) foi originalmente definida em 1969 e referia- se à morte súbita de lactentes sem uma causa identificada. Atualmente, está contida em um diagnóstico mais amplo denominado morte súbita infantil inesperada, termo usado para descrever qualquer morte súbita e inesperada que ocorra durante o primeiro ano de vida, seja explicada ou não. Assinale a alternativa que indica um fator de risco para a ocorrência da SMSL.",
       "alternativas": {
         "A": "Dormir em posição supina (“barriga para cima”).",
@@ -8615,8 +8615,8 @@
     {
       "id": "pv-df-2024-0056",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Hematologia Pediátrica",
+      "sub_subarea": "Anemias na criança (ferropriva, falciforme)",
       "enunciado": "Uma criança de 1 ano de idade foi levada para consulta de rotina. Na história clínica, a mãe referiu desmame completo aos 3 meses de vida, passando a ofertar leite de vaca integral. Negou uso de ferro oral até o momento. Foram solicitados exames complementares para avaliar possível deficiência de ferro. Qual é a alteração laboratorial inicial nos casos de deficiência de ferro?",
       "alternativas": {
         "A": "Redução do ferro sérico",
@@ -8647,8 +8647,8 @@
     {
       "id": "pv-df-2024-0057",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "Bronquiolite aguda",
       "enunciado": "Um lactente de 15 meses de vida foi levado ao pronto atendimento pela segunda vez em cinco dias. Na primeira visita, apresentava febre (máx. = 38 ºC), tosse e rinorreia. Foi atendido e liberado com orientação de limpeza nasal e antitérmico. No quinto dia, a mãe retornou com o filho, referindo que a criança está há 24 horas afebril, porém observou piora da tosse e dispneia. Ao exame físico, o paciente encontra-se em regular estado geral, desidratado 1+/4+, com Tax = 36,8 ºC, FR = 50 irpm, SatO2 = 89% em a.a., sibilos expiratórios, discreta tiragem intercostal e ausência de cianose. Realizou testes rápidos para Sars-CoV-2 e influenza A, os quais foram negativos. Em relação ao caso mencionado, assinale a alternativa que apresenta a conduta adequada.",
       "alternativas": {
         "A": "Salbutamol, metilprednisolona IV e oferta de O2 por cateter de alto fluxo.",
@@ -8676,8 +8676,8 @@
     {
       "id": "pv-df-2024-0058",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Pneumologia Pediátrica",
+      "sub_subarea": "Bronquiolite aguda",
       "enunciado": "Um lactente de 15 meses de vida foi levado ao pronto atendimento pela segunda vez em cinco dias. Na primeira visita, apresentava febre (máx. = 38 ºC), tosse e rinorreia. Foi atendido e liberado com orientação de limpeza nasal e antitérmico. No quinto dia, a mãe retornou com o filho, referindo que a criança está há 24 horas afebril, porém observou piora da tosse e dispneia. Ao exame físico, o paciente encontra-se em regular estado geral, desidratado 1+/4+, com Tax = 36,8 ºC, FR = 50 irpm, SatO2 = 89% em a.a., sibilos expiratórios, discreta tiragem intercostal e ausência de cianose. Realizou testes rápidos para Sars-CoV-2 e influenza A, os quais foram negativos. Quanto à provável etiologia nesse caso clínico, assinale a alternativa correta.",
       "alternativas": {
         "A": "Vírus sincicial respiratório",
@@ -8699,8 +8699,8 @@
     {
       "id": "pv-df-2025-0132",
       "area": "Pediatria",
-      "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "Exantemáticas",
+      "subarea": "Reumatologia Pediátrica",
+      "sub_subarea": "Vasculites (Kawasaki, HSP)",
       "enunciado": "Uma criança de 4 anos de idade foi levada ao pronto-socorro com febre alta há cinco dias, conjuntivite bilateral, adenomegalia cervical não supurativa e exantema maculopapular. Ao exame físico, apresentava lábios hiperemiados e rachados, além de edema de mãos e pés. Os sinais vitais são FC = 120 bpm, FR = 22 irpm e SatO2 = 98%. Nesse caso, qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Sarampo",
@@ -8729,7 +8729,7 @@
       "id": "pv-df-2025-0140",
       "area": "Pediatria",
       "subarea": "Pneumologia Pediátrica",
-      "sub_subarea": "Crupe",
+      "sub_subarea": "Asma na criança",
       "enunciado": "Uma mãe procurou o pronto-socorro relatando que seu filho de 18 meses de vida vem apresentando quadro de cansaço, rouquidão, tosse parecida a um “latido de cachorro” um “barulho esquisito”, ao respirar e febre moderada. Refere que, dois dias antes, o lactente se apresentava com rinorreia clara e tosse leve. Considerando esse caso clínico e com base nos conhecimentos médicos correlatos, assinale a alternativa correta.",
       "alternativas": {
         "A": "Embora a maioria dos casos ocorra no verão, eles podem se manifestar durante todo o ano.",
