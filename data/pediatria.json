@@ -14560,7 +14560,7 @@
     {
       "id": "pv-uni-2025-0169",
       "area": "Pediatria",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "sub_subarea": "",
       "enunciado": "Mulher, 61 anos de idade, refere aumento progressivo e intenso de pelos pelo corpo, queda de cabelos importante, engrossamento da voz e aumento do clitóris há 6 meses. Qual é a hipótese mais provável?",
       "alternativas": {
@@ -14592,7 +14592,7 @@
     {
       "id": "pv-uni-2025-0171",
       "area": "Pediatria",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "sub_subarea": "",
       "enunciado": "Mulher, 41 anos de idade, nuligesta, refere que não menstrua há 8 meses e apresenta ondas de calor eventuais e sudorese noturna duas vezes por mês. Como método contraceptivo utiliza pílula contendo 4mg de drospirenona. Realizou duas coletas sanguíneas com 14 dias de intervalo, respectivamente: 1ª. Coleta FSH= 87 mlU/mL; estradiol= 2 pg/mL e 2ª coleta FSH 61mlU/mL; estradiol 4 pg/mL. Qual é a conduta mais adequada?",
       "alternativas": {
@@ -14615,8 +14615,8 @@
     {
       "id": "pv-uni-2025-0182",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Menina, 4 anos de idade, é contato domiciliar da mãe recentemente diagnosticada com tuberculose pulmonar. A criança está assintomática e apresentou teste tuberculínico de 6 mm. O exame de RX de tórax da criança não apresentou anormalidades. Qual é a conduta mais adequada para essa criança?",
       "alternativas": {
         "A": "Realizar um novo teste tuberculínico em 3 meses e reavaliar a necessidade de tratamento profilático.",
@@ -14656,7 +14656,7 @@
       "id": "pv-uni-2025-0189",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Distúrbios respiratórios do RN (SDR, SAM)",
       "enunciado": "Ao nascimento, um recém-nascido a termo, filho de mãe multípara com período expulsivo prolongado, estava hipotônico e em apneia. O recém-nascido foi levado à mesa de reanimação sob fonte de calor radiante e foi iniciada a ventilação com balão e máscara e ar ambiente, mas o paciente mantinha-se em apneia e bradicárdico. Após ajuste da técnica da ventilação e aumento da concentração de oxigênio, o recém-nascido não melhorou. Qual é o próximo passo indicado na reanimação?",
       "alternativas": {
         "A": "Proceder à intubação e iniciar a ventilação com cânula traqueal.",
@@ -14678,8 +14678,8 @@
     {
       "id": "pv-uni-2025-0191",
       "area": "Pediatria",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Reumatologia Pediátrica",
+      "sub_subarea": "Artrite idiopática juvenil (AIJ)",
       "enunciado": "Menina, 7 anos de idade, apresentou artrite em joelho direito há 20 dias com duração de 3 dias, em tornozelo esquerdo há 15 dias com duração de 4 dias e em cotovelo esquerdo há 10 dias com duração de 3 dias. Exame físico: sem sinais de artrite ou outras alterações significativas. A ausculta torácica é normal. Qual é a necessidade de solicitar um ecocardiograma neste caso?",
       "alternativas": {
         "A": "Para afastar endocardite bacteriana.",
@@ -14710,7 +14710,7 @@
       "id": "pv-uni-2025-0192",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "Distúrbios respiratórios do RN (SDR, SAM)",
       "enunciado": "Recém-nascido (RN) com 28 semanas de idade gestacional, peso de nascimento de 1000g, nasceu vigoroso, mas apresentou desconforto respiratório com 3 minutos de vida, com piora progressiva. Na UTI, RX de tórax apresenta infiltrado reticulogranular. Considerando o diagnóstico mais provável, qual é a conduta recomendada?",
       "alternativas": {
         "A": "Iniciar ventilação pulmonar invasiva imediatamente.",
@@ -14732,8 +14732,8 @@
     {
       "id": "pv-uni-2025-0194",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Hematologia Pediátrica",
+      "sub_subarea": "Leucemias e linfomas pediátricos",
       "enunciado": "Os pais de Paulo de 7 anos chegam à consulta ambulatorial com os exames do filho que demonstram um quadro sugestivo de leucemia mieloide aguda. Você deverá comunicar o diagnóstico à família. Com base nos principais passos do Protocolo SPIKES de comunicação de más notícias, além de preparar um ambiente privado para conversar com a família, quais seriam suas principais atitudes, em sequência? investigar o conhecimento e angústias dos pais; identificar o que eles desejam saber; compartilhar as informações de forma pausada evitando jargões médicos; identificar e",
       "alternativas": {
         "A": "acolher as emoções da família; resumir e elaborar um plano de cuidados e acompanhamento com os pais.",
@@ -14761,8 +14761,8 @@
     {
       "id": "pv-es-2025-0197",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Paciente 54 anos, tabagista, trabalhador rural, com quadro de dispneia, emagrecimento e tosse seca há 4 meses. Radiografia de tórax evidencia envolvimento pulmonar bilateral, para- hilar e simétrico, predomínio de lesões alveolares, poupando ápices e terços inferiores (imagem de \"asa de borboleta\"). Em relação ao caso, assinale a alternativa correta.",
       "alternativas": {
         "A": "Dentre as hipóteses diagnosticas estão a paracoccidioidomicose que deve ser tratada com albendazol por 12 meses.",
@@ -14792,7 +14792,7 @@
     {
       "id": "pv-sír-2024-0003",
       "area": "Pediatria",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "sub_subarea": "",
       "enunciado": "Considere a Tabela sobre Exposição Ocupacional a Produtos Tóxicos e Neoplasias, em seguimento de 10 anos, trabalhadores masculinos, 20-40 anos de idade: Quanto ao risco relativo de adoecer com neoplasia, os dados indicam que os trabalhadores expostos a",
       "alternativas": {
@@ -14818,8 +14818,8 @@
     {
       "id": "pv-sír-2024-0018",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Mulher de 64 anos é trazida à UBS pelo filho que conta que paciente apresenta tontura persistente há 2 dias e sonolência há um dia. Não notou nenhum acontecimento novo ou algo que justifique essas alterações. Paciente refere náuseas e diminuição do apetite. Nega traumas, febre ou mudança recente em seus medicamentos. Antecedentes pessoais: hipertensão arterial, diabetes mellitus tipo 2, acidente cerebrovascular há 2 anos com hemiparesia discreta à esquerda. Ao exame físico, apresenta Glasgow de 14, PA: 170 x 95 mmHg. FC: 87 bpm, FR: 18 ipm. Glicemia capilar: 176 mg/dL. Ausculta cardíaca e pulmonar sem alterações. Realizado protocolo HINTS que mostrou: presença de nistagmo rotacional bilateral, teste de Skew alterado e Head impulse sem alterações. Entre as hipóteses diagnósticas abaixo, a mais provável para esse paciente é:",
       "alternativas": {
         "A": "Doença de Meniere.",
@@ -14842,7 +14842,7 @@
     {
       "id": "pv-sír-2024-0039",
       "area": "Pediatria",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "sub_subarea": "",
       "enunciado": "Mulher de 45 anos de idade, nuligesta, usuária de DIU de cobre, traz resultado de citologia oncológica cervicovaginal mostrando a presença de epitélio escamoso, bacilos, alguns polimorfonucleares e células metaplásicas. Deve ser orientada",
       "alternativas": {
@@ -14866,8 +14866,8 @@
     {
       "id": "pv-sír-2024-0045",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Neuropediatria",
+      "sub_subarea": "Convulsão febril e epilepsia",
       "enunciado": "Criança de 2 anos e 1 mês, sexo feminino, foi trazida pela mãe ao pronto atendimento devido a quadro de convulsão. Mãe relata que, há cerca de 10 minutos, paciente apresentou perda da consciência e contrações tônico-clônicas generalizadas por cerca de 5 minutos e que agora encontra-se sonolenta. Refere também que está com quadro de gripe (tosse, coriza e febre) há 2 dias e que apresentou o quadro descrito logo após ter administrado dipirona à criança, por estar com febre de 38,7 °C. Nega episódios convulsivos anteriores. Ao exame físico, criança febril (38 °C), sonolenta e irritada. FR: 34 ipm; FC: 136 bpm; boa perfusão periférica, sem sinais meníngeos e sem outras alterações. Entre as opções abaixo, a melhor conduta é:",
       "alternativas": {
         "A": "Iniciar tratamento com fenitoína.",
