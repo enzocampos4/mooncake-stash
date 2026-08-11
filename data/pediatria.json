@@ -7757,8 +7757,8 @@
     {
       "id": "pv-uni-2024-0009",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "subarea": "Neonatologia",
+      "sub_subarea": "",
       "enunciado": "Menino, 10 dias de vida, nascido a termo sem intercorrências no pré-natal ou ao nascimento. A mãe traz na primeira consulta de puericultura o resultado da triagem neonatal coletada no terceiro dia de vida. A única alteração nos testes é a dosagem de galactose total 12 mg/dL (Valor de referência < = 9mg/dl). Exame físico: bom estado geral, ganho de peso adequado para a idade e sem alterações. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Retirar o leite materno e repetir a dosagem de galactose total em sangue seco em papel filtro.",
@@ -7787,7 +7787,7 @@
       "id": "pv-uni-2024-0013",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "sub_subarea": "",
       "enunciado": "Lactente, 2 meses de idade, assintomático, nascido pequeno para a idade gestacional, sem intercorrências na gestação, Apgar 09/10 e está em aleitamento artificial desde o nascimento. Teve resultado positivo para fenilcetonúria na triagem neonatal em amostra coletada com 24 horas de vida, que não se confirmou em outras duas amostras coletadas posteriormente. Qual é o fator que justifica a discordância entre os resultados?",
       "alternativas": {
         "A": "Idade da coleta das amostras.",
@@ -7818,8 +7818,8 @@
     {
       "id": "pv-uni-2025-0106",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Diarreia aguda e crônica",
       "enunciado": "Um recém-nascido de 48 horas de vida apresenta vômitos biliosos e grande distensão abdominal. Eliminou mecônio 16 horas após o nascimento. Rx abdominal: intensa distensão de alças. Qual é o diagnóstico mais provável?",
       "alternativas": {
         "A": "Megacólon congênito.",
@@ -7841,7 +7841,7 @@
     {
       "id": "pv-uni-2025-0126",
       "area": "Pediatria",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "sub_subarea": "",
       "enunciado": "Mulher, 87 anos de idade, viúva, mora com a filha. A paciente apresenta quadro de perambulação noturna, choro fácil, agressividade verbal. Há 4 anos, apresenta perda de memória recente gradual e lentamente e, há 1 ano, piora da funcionalidade, com necessidade de ajuda para banho, higiene pessoal, alimentação e uso de fraldas. Diante da principal hipótese diagnóstica, quais são as escalas mais indicadas para avaliação do estágio da doença?",
       "alternativas": {
@@ -7875,8 +7875,8 @@
     {
       "id": "pv-uni-2025-0186",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "Parasitoses na criança",
       "enunciado": "Menino, 1 ano e 8 meses de idade, comparece à UBS com história de diarreia por 3 dias com eliminação de vermes nas fezes há 4 dias. Há 1 dia parou de evacuar, apresenta vômitos, dor abdominal; não está aceitando a alimentação e a mãe notou que a criança está com o abdômen inchado e urinando pouco. Qual é a conduta recomendada?",
       "alternativas": {
         "A": "Encaminhar para serviço de urgência, pois a criança apresenta quadro provável de desidratação e de suboclusão por Ascaris lumbricoides.",
@@ -7898,8 +7898,8 @@
     {
       "id": "pv-uni-2025-0188",
       "area": "Pediatria",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Dor abdominal recorrente",
       "enunciado": "Lactente de 8 meses, bem nutrido, há 2 meses, desde o início da alimentação complementar, evacua fezes endurecidas e muito calibrosas, a cada 4 a 5 dias, com muito esforço e dor (choro). Mãe aumentou fibra na dieta, sem melhora. Nega atraso de eliminação de mecônio e apresenta exame físico sem alterações. Considerando o diagnóstico mais provável, qual é o tratamento recomendado?",
       "alternativas": {
         "A": "óleo mineral.",
@@ -7929,8 +7929,8 @@
     {
       "id": "pv-uni-2025-0190",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Endocrinologia pediátrica",
+      "sub_subarea": "",
       "enunciado": "Menino, 1 ano de idade, iniciou tratamento para hipotireoidismo congênito com 15 dias de vida, sem elucidação etiológica. Apresenta bom crescimento e ganho de peso, além de desenvolvimento neuropsicomotor normal, com dosagens de TSH e hormônios tireoidianos normais e boa aderência ao tratamento. Ultrassonografia de tireoide: glândula tópica de dimensões normais. Segundo o Manual Técnico da Triagem Neonatal Biológica do Ministério da Saúde (2016), qual é a conduta recomendada?",
       "alternativas": {
         "A": "Realizar cintilografia de tireoide para complementar a investigação etiológica.",
@@ -7962,8 +7962,8 @@
     {
       "id": "pv-uni-2025-0195",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Endocrinologia pediátrica",
+      "sub_subarea": "",
       "enunciado": "Menino, 15 meses de idade, mantém crescimento abaixo de -2DP (Peso, Estatura e IMC). A família se queixa de baixa aceitação alimentar. Lactente nasceu com 36 semanas de gestação, peso abaixo do Percentil 10 em curvas de crescimento intrauterino, sem intercorrências na evolução neonatal. Mãe fez tratamento para hipotireoidismo na gestação e ultrassom gestacional com 33 semanas identificou oligoidrâmnio. Previsão de estatura final = 167 cm. Exame físico sem alterações. Qual é a conduta mais adequada para a elucidação diagnóstica?",
       "alternativas": {
         "A": "Dosagens séricas de hormônio do crescimento, IGF-1 e IGFBP-3.",
@@ -7993,8 +7993,8 @@
     {
       "id": "pv-uni-2025-0198",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "",
       "enunciado": "Recém-nascida (RN) de 7 dias de vida, é levada à UBS para a primeira consulta pediátrica. Sua mãe foi diagnosticada com toxoplasmose aguda no terceiro trimestre da gestação e iniciou tratamento com espiramicina. O USG fetal identificou calcificações intracranianas. O exame físico da RN é normal, o USG transfontanelar não revelou novas lesões além das já detectadas e sua sorologia é IgG positivo e IgM negativo para toxoplasmose. Com base no protocolo de manejo de toxoplasmose congênita, qual é a conduta mais apropriada?",
       "alternativas": {
         "A": "Iniciar o tratamento com espiramicina e realizar exames mensais de acompanhamento até que a IgM se torne positiva.",
@@ -8025,7 +8025,7 @@
       "id": "pv-sír-2024-0024",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Aleitamento",
+      "sub_subarea": "Alimentação complementar",
       "enunciado": "Em relação às recomendações da Febrasgo para ingestão diária de micronutrientes em mulheres não grávidas, mulheres grávidas hígidas e lactantes, é correto afirmar que",
       "alternativas": {
         "A": "há necessidade de maior ingestão de colina no período pré-concepcional e no primeiro trimestre da gestação.",
@@ -8048,8 +8048,8 @@
     {
       "id": "pv-sír-2024-0032",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "Doenças exantemáticas",
       "enunciado": "Tercigesta, 34 semanas de gestação, professora do ensino infantil procura atendimento pois há um surto de varicela na escola em que trabalha há 2 dias. Ela não tem certeza de já ter tido varicela, mas não lembra de ter sido vacinada. Nessa situação, está recomendado",
       "alternativas": {
         "A": "antecipar o parto e aplicar imunoglobulina humana anti-varicela no recém-nascido.",
@@ -8074,8 +8074,8 @@
     {
       "id": "pv-sír-2024-0046",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Cardiologia Pediátrica",
+      "sub_subarea": "Cardiopatias congênitas acianóticas",
       "enunciado": "J.S., 12 meses, sexo feminino, branca, natural de Americana, interior de São Paulo, reside atualmente na cidade de São Paulo com seus pais e sua irmã. A paciente foi encaminhada para avaliação cardiológica devido a um sopro cardíaco que foi detectado durante um exame físico de rotina. O ecocardiograma revelou uma comunicação interatrial (CIA) de 8 mm e uma comunicação interventricular (CIV) de 5 mm. A pressão arterial pulmonar era normal. Foi programada cirurgia e colocação de enxerto com necessidade de imunossupressão. Segundo a Sociedade Brasileira de Pediatria, a melhor data para regularização do calendário vacinal dessa criança, dentre as abaixo, é",
       "alternativas": {
         "A": "7 dias antes da cirurgia.",
