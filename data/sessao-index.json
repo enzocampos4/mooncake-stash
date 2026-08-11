@@ -15348,7 +15348,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "subsub": "Sepse neonatal e pediátrica",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15356,8 +15356,8 @@
   "pv-uer-2025-0181": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "HIV pediátrico",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15365,8 +15365,8 @@
   "pv-uer-2025-0199": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -15374,8 +15374,8 @@
   "pv-hcp-2024-0002": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15383,7 +15383,7 @@
   "pv-hcp-2024-0007": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
@@ -15392,8 +15392,8 @@
   "pv-hcp-2024-0021": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15401,8 +15401,8 @@
   "pv-hcp-2024-0022": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15410,8 +15410,8 @@
   "pv-hcp-2024-0031": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15419,8 +15419,8 @@
   "pv-hcp-2024-0033": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15428,7 +15428,7 @@
   "pv-hcp-2024-0036": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
@@ -15437,8 +15437,8 @@
   "pv-hcp-2024-0039": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -15446,8 +15446,8 @@
   "pv-hcp-2024-0042": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
