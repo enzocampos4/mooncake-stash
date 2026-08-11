@@ -15995,8 +15995,8 @@
   "pv-sp-2025-0231": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Asma na criança",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -16004,7 +16004,7 @@
   "pv-sp-2025-0233": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "USP-SP",
     "ano": 2025,
@@ -16013,8 +16013,8 @@
   "pv-sp-2025-0235": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Nefrologia Pediátrica",
+    "subsub": "Síndrome nefrótica na criança",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -16022,8 +16022,8 @@
   "pv-sp-2025-0239": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -16031,8 +16031,8 @@
   "pv-uni-2024-0001": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Anemias na criança (ferropriva, falciforme)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16040,8 +16040,8 @@
   "pv-uni-2024-0011": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Febre reumática",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16049,8 +16049,8 @@
   "pv-uni-2024-0012": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Anemias na criança (ferropriva, falciforme)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16058,8 +16058,8 @@
   "pv-uni-2024-0014": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Pneumonia na criança",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16067,8 +16067,8 @@
   "pv-uni-2024-0015": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16076,8 +16076,8 @@
   "pv-uni-2024-0016": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Maus tratos à crianças e adolescentes",
+    "subsub": "Sinais de alerta e notificação compulsória",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16085,8 +16085,8 @@
   "pv-uni-2024-0040": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -16094,7 +16094,7 @@
   "pv-uni-2024-0065": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Endocrinologia pediátrica",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,
