@@ -14483,8 +14483,8 @@
   "pv-ena-2024-0024": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14492,7 +14492,7 @@
   "pv-ena-2024-0035": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
@@ -14501,8 +14501,8 @@
   "pv-ena-2024-0045": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Choque na criança",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14510,8 +14510,8 @@
   "pv-ena-2024-0056": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Anemias na criança (ferropriva, falciforme)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14519,8 +14519,8 @@
   "pv-ena-2024-0059": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14528,8 +14528,8 @@
   "pv-ena-2024-0060": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14537,8 +14537,8 @@
   "pv--2024-0089": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Meningites na criança",
     "banca": "",
     "ano": 2024,
     "fonte": " 2024"
@@ -14546,8 +14546,8 @@
   "pv-ena-2025-0103": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -14555,8 +14555,8 @@
   "pv-ena-2025-0107": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Pneumologia Pediátrica",
-    "subsub": "Bronquiolite",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -14564,8 +14564,8 @@
   "pv-ena-2025-0108": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -14573,7 +14573,7 @@
   "pv-ena-2025-0113": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
@@ -14583,7 +14583,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
