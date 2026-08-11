@@ -14267,8 +14267,8 @@
   "pv-hia-2025-0110": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Gastroenterologia Pediátrica",
-    "subsub": "Diarreia",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -14276,8 +14276,8 @@
   "pv-hia-2025-0113": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -14286,7 +14286,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Reanimação neonatal",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -14294,8 +14294,8 @@
   "pv-df-2024-0006": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -14303,8 +14303,8 @@
   "pv-df-2024-0050": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -14312,8 +14312,8 @@
   "pv-df-2024-0053": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -14322,7 +14322,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Sepse neonatal",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -14330,8 +14330,8 @@
   "pv-df-2024-0056": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Anemias na criança (ferropriva, falciforme)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -14339,8 +14339,8 @@
   "pv-df-2024-0057": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Bronquiolite aguda",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -14348,8 +14348,8 @@
   "pv-df-2024-0058": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Bronquiolite aguda",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -14357,8 +14357,8 @@
   "pv-df-2025-0132": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Vasculites (Kawasaki, HSP)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -14367,7 +14367,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "Crupe",
+    "subsub": "Asma na criança",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
