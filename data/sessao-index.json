@@ -14375,8 +14375,8 @@
   "pv-df-2025-0142": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -14384,8 +14384,8 @@
   "pv-df-2025-0143": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "Cardiopatias congênitas acianóticas",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -14393,8 +14393,8 @@
   "pv-df-2025-0144": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -14402,8 +14402,8 @@
   "pv-df-2025-0146": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Nefrologia Pediátrica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -14411,8 +14411,8 @@
   "pv-df-2025-0147": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Nefrologia Pediátrica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -14420,8 +14420,8 @@
   "pv-ba-2024-0011": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Parada cardiorrespiratória pediátrica (PALS)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -14429,8 +14429,8 @@
   "pv-ba-2024-0012": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Parada cardiorrespiratória pediátrica (PALS)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -14438,8 +14438,8 @@
   "pv-ba-2024-0015": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -14447,8 +14447,8 @@
   "pv-ba-2025-0078": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Meningites na criança",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -14456,8 +14456,8 @@
   "pv-ba-2025-0084": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -14465,8 +14465,8 @@
   "pv-ena-2024-0005": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -14474,7 +14474,7 @@
   "pv-ena-2024-0013": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Puericultura",
     "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
