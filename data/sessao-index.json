@@ -16211,7 +16211,7 @@
   "pv-uni-2025-0169": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -16220,7 +16220,7 @@
   "pv-uni-2025-0171": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -16229,8 +16229,8 @@
   "pv-uni-2025-0182": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16239,7 +16239,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Distúrbios respiratórios do RN (SDR, SAM)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16247,8 +16247,8 @@
   "pv-uni-2025-0191": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Artrite idiopática juvenil (AIJ)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16257,7 +16257,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Distúrbios respiratórios do RN (SDR, SAM)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16265,8 +16265,8 @@
   "pv-uni-2025-0194": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "Leucemias e linfomas pediátricos",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -16274,8 +16274,8 @@
   "pv-es-2025-0197": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "UFES",
     "ano": 2025,
     "fonte": "ES - Universidade Federal do Espírito Santo - UFES 2025"
@@ -16283,7 +16283,7 @@
   "pv-sír-2024-0003": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -16292,8 +16292,8 @@
   "pv-sír-2024-0018": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -16301,7 +16301,7 @@
   "pv-sír-2024-0039": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -16310,8 +16310,8 @@
   "pv-sír-2024-0045": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Neuropediatria",
+    "subsub": "Convulsão febril e epilepsia",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
