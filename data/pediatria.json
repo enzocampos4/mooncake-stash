@@ -19982,7 +19982,7 @@
       "id": "pv-pe-2024-0039",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou uma nova vacina contra a Dengue, e esta promove prevenção contra qualquer um dos quatro sorotipos do vírus. O calendário vacinal da Sociedade Brasileira de Pediatria recomenda o seu uso. Esta vacina é composta pela plataforma de vacinas de vírus vivos atenuados, e sua aplicação foi autorizada em crianças a partir dos 4 anos de idade. Dentre as vacinas abaixo, assinale a alternativa que indica aquela que diverge, em relação à sua plataforma, da vacina contra a Dengue.",
       "alternativas": {
         "A": "Varicela",
@@ -20014,7 +20014,7 @@
       "id": "pv-fam-2025-0139",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "sub_subarea": "Crescimento e desenvolvimento",
       "enunciado": "Paciente masculino de 12 anos de idade é levado para avaliação ambulatorial com queixa de ser o menor da classe, gerando alguns apelidos e desconforto ao paciente. Família fazia seguimento anual com pediatra até os 10 anos e traz recordatório mostrando que o paciente nasceu com 38 semanas, peso 3,2kg e 49cm, nega doenças crônicas ou uso de medicações rotineiramente. Nesse recordatório ainda tem anotado estatura de 125cm aos 10 anos, 131cm aos 11 anos e na consulta atual aos 12 anos, o paciente apresenta 136cm (percentil 3), Tanner G1P1 e você percebe ao exame físico detalhado uma clinodactilia à direita e proporções corporais preservadas. Qual sua hipótese diagnóstica e conduta sugerida?",
       "alternativas": {
         "A": "Baixa estatura por deficiência de GH. Solicito dosagem de GH basal e após exercício físico para avaliar níveis que GH atingem após esforço físico. Se GH < 10 ng/dl após esforço, iniciar somatropina o mais breve possível pelo stress emocional que criança vêm passando.",
@@ -20036,8 +20036,8 @@
     {
       "id": "pv-sp-2024-0048",
       "area": "Pediatria",
-      "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "Exantemáticas",
+      "subarea": "Puericultura",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "O Programa Nacional de Imunização (PNI) inclui várias vacinas. Acerca desse programa, assinale a alternativa correta.",
       "alternativas": {
         "A": "A vacina do rotavírus tem se demonstrado muito segura, inclusive para crianças com história de doença gastrintestinal crônica e de malformação congênita do trato gastrintestinal e portadoras de imunodepressão.",
@@ -20060,8 +20060,8 @@
     {
       "id": "pv-hia-2024-0008",
       "area": "Pediatria",
-      "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "Exantemáticas",
+      "subarea": "Puericultura",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Ana, 25 anos, gestante de 20 semanas, procura atendimento médico para realizar o pré-natal. Relata que está se sentindo bem, sem queixas ou intercorrências. Não tem comorbidades nem alergias. Está em uso regular de sulfato ferroso. A médica da UBS verifica o cartão de vacinação de Ana e constata que ela está com algumas vacinas atrasadas. Recebeu a vacina contra difteria e tétano (dT) há 1 ano, reforço contra Covid-19 bivalente há 1 mês, uma dose de vacina contra Sarampo, Caxumba e Rubéola (SCR) na infância, e três doses de Hepatite B sendo a última há 6 meses. De acordo com o calendário vacinal do PNI 2023, as vacinas que Ana precisará tomar são:",
       "alternativas": {
         "A": "dT e contra influenza.",
@@ -20090,7 +20090,7 @@
       "id": "pv-hia-2025-0122",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Lactente de 6 meses comparece à consulta na Unidade Básica de Saúde, onde é verificado que nunca recebeu nenhuma imunização. Para atualização do cartão vacinal segundo o Programa Nacional de Imunização, o adequado é aplicar",
       "alternativas": {
         "A": "BCG, dose única; Poliomielite Inativada (VIP), 3 doses, com 2 meses de intervalo; Rotavírus (VORH), 2 doses, com 2 meses de intervalos; Pentavalente (Difteria + Tétano + Pertussis + Hepatite B + Haemophilus tipo B), 3 doses, com 2 meses de intervalo, Meningococo C, 2 doses, com 60 dias de intervalos; Pneumococo-10, 3 doses, com 60 dias de intervalo.",
@@ -20118,8 +20118,8 @@
     {
       "id": "pv-df-2024-0046",
       "area": "Pediatria",
-      "subarea": "Neonatologia",
-      "sub_subarea": "RN Normal",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "",
       "enunciado": "No que concerne ao atendimento a crianças expostas à sífilis e àquelas com sífilis congênita, assinale a alternativa correta.",
       "alternativas": {
         "A": "Recomenda-se o tratamento com penicilina cristalina ou procaína por 10 dias para todo recém-nascido com evidência de neurossífilis.",
@@ -20152,7 +20152,7 @@
       "id": "pv-df-2024-0047",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "O Programa Nacional de Imunizações (PNI) foi criado em 1973 pelo Ministério da Saúde e vem sendo ampliado ano a ano. De acordo com as recomendações vigentes, assinale a alternativa que apresenta correlação entre a vacina e o período de aplicação.",
       "alternativas": {
         "A": "Meningo ACWY – 1 dose entre 11-14 anos de idade",
@@ -20187,8 +20187,8 @@
     {
       "id": "pv-ba-2024-0013",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Diarreia aguda e crônica",
       "enunciado": "Uma família que reside na periferia urbana recebe a visita de médico que constata que as crianças (menina de 8 anos e menino de 1 ano) e sua mãe estão apresentando diarreia 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 71/269 esverdeada, explosiva, aquosa, fétida, com fezes em grande quantidade e com restos alimentares; sem febre, sendo esses episódios repetidos nos últimos seis meses. Referem cólicas e aumento do volume abdominal, tendo a criança menor apresentado sintomas no dia da consulta. As crianças pararam de beber leite pois aumentava os sintomas. Já haviam comparecido na UBS onde exames foram solicitados, mas não realizados. Apresentam regular estado geral, hidratados, afebris e corados. O menino cursa com discreta distensão abdominal nesta data. Considerando o diagnóstico mais provável, é importante obter informações na visita domiciliar sobre",
       "alternativas": {
         "A": "o consumo de glúten pela família.",
@@ -20209,8 +20209,8 @@
     {
       "id": "pv-ba-2024-0014",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Diarreia aguda e crônica",
       "enunciado": "Uma família que reside na periferia urbana recebe a visita de médico que constata que as crianças (menina de 8 anos e menino de 1 ano) e sua mãe estão apresentando diarreia 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 73/269 esverdeada, explosiva, aquosa, fétida, com fezes em grande quantidade e com restos alimentares; sem febre, sendo esses episódios repetidos nos últimos seis meses. Referem cólicas e aumento do volume abdominal, tendo a criança menor apresentado sintomas no dia da consulta. As crianças pararam de beber leite pois aumentava os sintomas. Já haviam comparecido na UBS onde exames foram solicitados, mas não realizados. Apresentam regular estado geral, hidratados, afebris e corados. O menino cursa com discreta distensão abdominal nesta data. Com base nas informações, classifique a diarreia quanto ao mecanismo fisiopatológico:",
       "alternativas": {
         "A": "Funcional.",
@@ -20232,7 +20232,7 @@
       "id": "pv-ba-2024-0017",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Menina, 14 anos de idade, residente na zona rural, sem consulta médica há 5 anos; é levada para consulta de rotina em um Centro de Saúde de referência. Sem queixas. Seu cartão de vacinas mostra que usou apenas o esquema vacinal básico, pois relatou alergia a ovo, com urticária, quando ingere a gema ou a clara. Sobre a vacinação de adolescentes, de acordo com o Programa Nacional de Imunização do Ministério da Saúde (PNI-MS), é correto afirmar:",
       "alternativas": {
         "A": "A vacina contra Febre Amarela é obrigatória na Região Nordeste.",
@@ -20259,7 +20259,7 @@
     {
       "id": "pv-ufr-2025-0192",
       "area": "Pediatria",
-      "subarea": "Geral",
+      "subarea": "Outros",
       "sub_subarea": "",
       "enunciado": "Pode-se afirmar que a epifisiólise proximal do fêmur se manifesta classicamente com dor no quadril em paciente obeso, com idade entre:",
       "alternativas": {
@@ -20288,8 +20288,8 @@
     {
       "id": "pv-sír-2024-0036",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Mulher de 45 anos de idade queixa-se de ondas de calor intensas desde que foi operada para remoção de tumor de ovário direito, classificado como cistoadenocarcinoma seroso estádio 1, há 3 anos. A cirurgia foi considerada completa (histerectomia, anexectomia bilateral, omentectomia e linfadenectomia, ausência de neoplasia exceto no ovário direito) e não houve necessidade de terapia complementar sistêmica. Refere ter artrite reumatoide em uso de imunobiológico há 6 anos, com melhora importante do quadro de dor articular. Demais exames de rastreamento de neoplasias (mama e cólon) estão normais. Para o tratamento do climatério, indica-se",
       "alternativas": {
         "A": "estrogênio transdérmico.",
