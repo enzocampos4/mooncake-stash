@@ -19,7 +19,7 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -43,7 +43,7 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -65,7 +65,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -87,7 +87,7 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -111,7 +111,7 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -133,7 +133,7 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -141,8 +141,8 @@
     {
       "id": "pv-pe-2024-0041",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Ginecologia básica",
+      "sub_subarea": "Exames complementares (USG, histerossalpingografia)",
       "enunciado": "Paciente com 35 anos de idade, gestante no curso de 28 semanas, procura o serviço de emergência de uma maternidade com dor progressiva e localizada que não cessa com analgésicos habituais há três dias. Nega febre ou perdas genitais, informa boa movimentação fetal. Ao exame, percebe-se grande massa adjacente ao útero gravídico, amolecida, no entanto, a dinâmica uterina e o sinal de Blumberg estão ausentes. Durante o internamento, não respondeu aos analgésicos mais potentes. Realizou ultrassonografia que revelou nódulo miometrial/subseroso ecoico de 400cm³, heterogêneo com áreas císticas. Distancia-se da cavidade uterina por 1,5 cm. Considerando o cenário acima, assinale a alternativa que reúne o provável diagnóstico e a conduta mais adequada.",
       "alternativas": {
         "A": "Mioma torcido/ morfina",
@@ -171,8 +171,8 @@
     {
       "id": "pv-ufr-2025-0222",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Mama",
+      "subarea": "Mastologia",
+      "sub_subarea": "Câncer de mama",
       "enunciado": "Mulher, 63 anos, notou, há 2 meses, um nódulo em mama direita que nunca havia palpado antes. Exame físico: mamas de médio volume; nódulo de 2cm em quadrante superior externo (QSE) da mama direita, indolor, pouco móvel e de consistência endurecida; axilas sem linfonodopatias palpáveis. Mamografia de alta resolução: nódulo espiculado de 2cm no QSE da mama direita (categoria BIRADS 5). Core biópsia do nódulo: compatível com carcinoma ductal infiltrante de mama, com receptores fortemente positivos para estrogênio e progesterona, baixo índice de proliferação celular e grau histológico 1. Indicada a quadrantectomia de mama direita com pesquisa de linfonodo sentinela. Além do procedimento cirúrgico, pode-se afirmar que está indicado obrigatoriamente:",
       "alternativas": {
         "A": "nenhum tratamento complementar",
@@ -194,8 +194,8 @@
     {
       "id": "pv-hia-2024-0029",
       "area": "Ginecologia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ginecologia básica",
+      "sub_subarea": "Exames complementares (USG, histerossalpingografia)",
       "enunciado": "Primigesta, 24 anos, 16 semanas de gestação dá entrada no pronto-socorro obstétrico com dor abdominal de forte intensidade (EVA 8), principalmente na fossa ilíaca direita, náuseas e vômitos há 4 horas. Nega episódios de febre ou diminuição do apetite. Encontra- se hemodinamicamente estável e afebril. É realizada analgesia venosa com opioides, sem melhora do quadro. Exame físico: dor abdominal e defesa ao avaliar fossa ilíaca direita. Sinal de descompressão brusca negativo. Realiza ultrassonografia: gestação tópica 16 semanas, feto vivo e sem alterações; colo 28 mm de comprimento. Apêndice cecal não visibilizado na fossa ilíaca direita, ovário esquerdo sem alterações e ovário direito com cisto simples de 6 cm, pequena quantidade de líquido livre na pelve. O diagnóstico mais provável e o tratamento mais adequado, dentre os apresentados abaixo, são, respectivamente:",
       "alternativas": {
         "A": "Aborto evitável - prescrição de progesterona oral.",
@@ -237,9 +237,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de endométrio",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -259,9 +259,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Neoplasia intraepitelial cervical (NIC)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -281,9 +281,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções",
+      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
       "banca": "ESTRATÉGIA MED"
     },
     {
