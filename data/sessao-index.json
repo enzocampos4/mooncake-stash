@@ -17399,8 +17399,8 @@
   "pv-sír-2024-0025": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17408,8 +17408,8 @@
   "pv-sír-2024-0029": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17418,7 +17418,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Sepse neonatal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17427,7 +17427,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Sepse neonatal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17436,7 +17436,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "subsub": "Aleitamento materno e artificial",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -17444,8 +17444,8 @@
   "pv-hia-2024-0021": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "Prematuridade",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -17453,8 +17453,8 @@
   "pv-hia-2024-0032": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -17463,7 +17463,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Distúrbios respiratórios do RN (SDR, SAM)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -17472,7 +17472,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Distúrbios respiratórios do RN (SDR, SAM)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -17481,7 +17481,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Distúrbios respiratórios do RN (SDR, SAM)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -17489,8 +17489,8 @@
   "pv-ba-2025-0080": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -17498,8 +17498,8 @@
   "pv-ena-2025-0154": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Parasitoses na criança",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
