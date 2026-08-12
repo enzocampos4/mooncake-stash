@@ -19001,8 +19001,8 @@
   "site-pf-002": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Planejamento familiar",
-    "subsub": "Anticoncepção",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "BQMED (Site) — SUS Bahia (BA) 2024"
@@ -19010,8 +19010,8 @@
   "site-pf-003": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Planejamento familiar",
-    "subsub": "Anticoncepção",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "BQMED",
     "ano": 2023,
     "fonte": "BQMED (Site) — Hospital Evangélico de Cachoeira de Itapemirim (HECI) 2023"
@@ -19019,8 +19019,8 @@
   "site-pf-004": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Planejamento familiar",
-    "subsub": "",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "HEDA",
     "ano": 2026,
     "fonte": "BQMED (Site) — Hospital Estadual Dirceu Arcoverde (HEDA) 2026"
@@ -19028,8 +19028,8 @@
   "site-pf-005": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Planejamento familiar",
-    "subsub": "Anticoncepção",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "SCMCG",
     "ano": 2021,
     "fonte": "BQMED (Site) — Santa Casa de Misericórdia de Campo Grande (SCMCG) 2021"
@@ -19037,8 +19037,8 @@
   "pv-ena-2024-0023": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -19046,8 +19046,8 @@
   "pv-ena-2024-0025": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -19055,8 +19055,8 @@
   "pv-ena-2024-0039": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -19082,8 +19082,8 @@
   "pv-ena-2025-0164": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"

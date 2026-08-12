@@ -1422,8 +1422,8 @@
     {
       "id": "pv-pe-2024-0042",
       "area": "Ginecologia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ginecologia básica",
+      "sub_subarea": "Anatomia ginecológica",
       "enunciado": "Paciente com 20 anos de idade veio ao ambulatório de ginecologia para mostrar exame ecográfico demonstrando útero com duas cavidades. Assintomática, GOPO0, usa pílula combinada como método contraceptivo. O exame ginecológico revelou dois colos. Realizou ressonância nuclear magnética que demonstrou útero com dois corpos e colo duplicado. Ovários normais. De acordo com o exposto acima, assinale a alternativa CORRETA quanto ao diagnóstico e à fisiopatologia.",
       "alternativas": {
         "A": "Útero bicorno/Ausência de fusão dos ductos de Wolf",
@@ -1452,8 +1452,8 @@
     {
       "id": "pv-pe-2024-0043",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Mama",
+      "subarea": "Mastologia",
+      "sub_subarea": "Nódulos mamários benignos (fibroadenoma, cistos)",
       "enunciado": "Paciente de 25 anos procura ambulatório de ginecologia por apresentar nódulo mamário mal definido e endurecido, percebido durante o autoexame. Chama a atenção na anamnese a história de queda de bicicleta há dois meses, quando apresentou equimose e hematoma na mama esquerda, produzido pelo impacto com o guidão. De acordo com o quadro acima, qual o provável diagnóstico?",
       "alternativas": {
         "A": "Cisto simples",
@@ -1485,8 +1485,8 @@
     {
       "id": "pv-pe-2024-0047",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Colo Uterino",
+      "subarea": "Infecções em ginecologia",
+      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
       "enunciado": "Mulher de 30 anos, G2P2, assintomática, procura o ambulatório de ginecologia para mostrar o resultado do exame de Papanicolau realizado há três semanas. O resultado revela cândida sp, lactobacllus e cocos. Diante do achado acima, qual a melhor conduta?",
       "alternativas": {
         "A": "Independente dos sintomas, os microrganismos possuem importância prognóstica, e a paciente deve ser tratada.",
@@ -1509,8 +1509,8 @@
     {
       "id": "pv-pe-2024-0049",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Menopausa",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Amenorreia",
       "enunciado": "Paciente de 36 anos de idade procura consultório de ginecologia com quadro de ano sem menstruação. Ainda revela sintomas pouco específicos e gerais e discreta dispareunia de penetração. Exame físico aparentemente normal. Foi realizado teste de progesterona com resultado negativo, e o teste do estrógeno + progestágenos foi positivo. Dosado TSH, T4 e prolactina, normais. O HCG sérico foi negativo. Apresenta nível séricos de FSH elevado. De acordo com o quadro acima, qual o provável diagnóstico?",
       "alternativas": {
         "A": "Menopausa precoce",
@@ -1533,8 +1533,8 @@
     {
       "id": "pv-pe-2025-0160",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Câncer de endométrio",
       "enunciado": "A paciente 65 anos com queixa de sangramento vaginal. Ela pensava que a menstruação tinha voltado, pois era menopausada, e por isso demorou a procurar o médico. Quando procurou o médico, foi solicitada uma ultrassonografia pélvica a qual evidenciou as características abaixo. Assinale a alternativa que sugere a principal hipótese diagnóstica.",
       "alternativas": {
         "A": "Espessamento do endométrio por provável pólipo endometrial.",
@@ -1570,8 +1570,8 @@
     {
       "id": "pv-mg-2024-0050",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Colo Uterino",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Neoplasia intraepitelial cervical (NIC)",
       "enunciado": "Paciente de 22 anos, G1A1, retorna à consulta ginecológica trazendo resultado de exame citológico coletado há um mês. Relata bastante preocupação, pois o resultado evidencia processo inflamatório compatível com infeção pelo vírus papiloma humano (HPV) e lesão intraepitelial escamosa de baixo grau (LSIL). Nega ter sido vacinada para HPV. Não tem parceria fixa e faz uso de contraceptivo hormonal combinado oral. Afirma uso irregular de preservativos. Conforme diretriz do Ministério da Saúde, a conduta MAIS INDICADA para esta paciente é:",
       "alternativas": {
         "A": "Encaminhar para realização de colposcopia.",
@@ -1599,8 +1599,8 @@
     {
       "id": "pv-mg-2024-0054",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Colo Uterino",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Paciente de 37 anos, nulípara, comparece para atendimento ginecológico de rotina. Faz uso de DIU T de cobre 380A como contraceptivo. Vive com HIV, em tratamento com terapia antirretroviral de alta atividade, com carga viral indetectável e CD4 > 1.000células/mm³. Solicita orientações sobre vacina contra HPV. Já fez uso de duas doses da vacina quadrivalente contra HPV, na unidade básica de saúde, sendo a segunda dose há um ano. A orientação CORRETA a ser dada à paciente é:",
       "alternativas": {
         "A": "Deve ser aplicada dose de reforço cinco anos após a segunda dose administrada.",
@@ -1628,8 +1628,8 @@
     {
       "id": "pv-amr-2024-0053",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Endometriose",
       "enunciado": "Em 2014, um grupo de pesquisadores investigou se a endometriose era uma doença progressiva. A sua hipótese era de que haveria uma correlação positiva entre idade e grau do estadiamento da endometriose. Após analisar uma coorte com 500 casos, eles encontraram o gráfico (dotplot) abaixo, com um teste de ANOVA, p = 0.9 e uma correlação com teste de Spearman (r) = -0,023 (IC95% = -0,12 a 0,08, n = 364). Com base nesses dados, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os resultados confirmaram que a endometriose é uma doença progressiva. O estadiamento da endometriose aumenta com o avançar da idade.",
@@ -1657,8 +1657,8 @@
     {
       "id": "pv-amr-2024-0056",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "subarea": "Ginecologia básica",
+      "sub_subarea": "Anatomia ginecológica",
       "enunciado": "A posição da JEC (Junção Escamocolunar), em relação ao eixo longitudinal do colo do útero, depende da idade e do status hormonal da mulher. Um colo no qual a JEC se encontra mais internalizada no canal cervical é típico de uma mulher com:",
       "alternativas": {
         "A": "12 anos (puberdade).",
@@ -1686,8 +1686,8 @@
     {
       "id": "pv-amr-2024-0060",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Menopausa",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "enunciado": "São causas incomuns (<12%) de sangramento pós-menopausa: I. Atrofia endometrial. II. Pólipos endometriais. III. Câncer de endométrio. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I.",
@@ -1715,8 +1715,8 @@
     {
       "id": "pv-amr-2024-0089",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Uroginecologia",
+      "sub_subarea": "",
       "enunciado": "Em relação à ascite, analise as assertivas abaixo: I. Restrição de sal e água é medida fundamental para o manejo de todos os pacientes com ascite. II. A espironolactona é mais eficiente que os diuréticos de alça no seu manejo. III. Pacientes com ascite secundária à carcinomatose peritoneal devem receber reposição de albumina quando o volume da paracentese for superior a 5 litros. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I.",
@@ -1738,8 +1738,8 @@
     {
       "id": "pv-amr-2024-0098",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "",
       "enunciado": "Analise as assertivas abaixo: I. A síndrome da secreção inadequada do hormônio antidiurético é uma causa de hipernatremia. II. Leucócitos superiores a 100.000 podem causar pseudo-hipercalemia. III. Hiperfosfatemia pode ser causada pela síndrome de realimentação. IV. Hipercalcemia é o distúrbio eletrolítico mais frequente nas síndromes paraneoplásicas. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e III.",
