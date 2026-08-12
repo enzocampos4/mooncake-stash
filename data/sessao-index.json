@@ -18785,8 +18785,8 @@
   "s14-070": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -18794,8 +18794,8 @@
   "s14-080": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Neoplasia intraepitelial cervical (NIC)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -18803,8 +18803,8 @@
   "s14-087": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Nódulos mamários benignos (fibroadenoma, cistos)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -18812,8 +18812,8 @@
   "s14-094": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -18821,8 +18821,8 @@
   "s3-018": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Ginecologia básica",
+    "subsub": "Exames complementares (USG, histerossalpingografia)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -18830,8 +18830,8 @@
   "s3-044": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -18839,8 +18839,8 @@
   "s3-054": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -18848,8 +18848,8 @@
   "s3-062": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "Dismenorreia e síndrome pré-menstrual",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -18857,8 +18857,8 @@
   "s3-070": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Infecções sexualmente transmissíveis (IST)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -18866,8 +18866,8 @@
   "s3-096": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -18875,8 +18875,8 @@
   "s5-034": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -18884,8 +18884,8 @@
   "s5-036": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"

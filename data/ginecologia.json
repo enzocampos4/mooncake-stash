@@ -830,9 +830,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "Exame das mamas e rastreio (USG, mamografia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -852,9 +852,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "Câncer de endométrio",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -874,9 +874,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções",
+      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -898,9 +898,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -920,9 +920,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Uroginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções",
+      "sub_subarea": "Fístulas genitais",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -945,9 +945,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mioma",
+      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -967,9 +967,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Cancro mole, sífilis, gonorreia",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -989,9 +989,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Sexualidade",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1011,9 +1011,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Câncer de endométrio",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1035,9 +1035,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "SOP",
+      "sub_subarea": "Amenorreia",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1059,16 +1059,16 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "site-pf-001",
       "numero": 1,
       "area": "Ginecologia",
-      "subarea": "Planejamento familiar",
+      "subarea": "Infecções em ginecologia",
       "area_slug": "ginecologia",
       "fonte": "BQMED (Site) — UEM - Universidade Estadual de Maringá 2018",
       "instituicao": "UEM - Universidade Estadual de Maringá",
@@ -1084,7 +1084,8 @@
       },
       "correta": "E",
       "explicacao": "Gabarito: alternativa E. Nem sempre o prurido vulvar é sinônimo de candidíase, pois outras patologias podem cursar com esse sintoma (dermatoses vulvares, dermatite atópica, eczemas etc.). A presença de corrimento vaginal faz com que a etiologia mais provável seja a candidíase, causada pela proliferação de fungos, na maioria dos casos Candida albicans. O tratamento deve ser feito com antifúngicos (via tópica ou oral têm igual eficácia). Análise: A (22%) incorreta — metronidazol é para vaginose bacteriana; B (2%) incorreta — azitromicina é para cervicite por clamídia; C (2%) incorreta — tinidazol é para vaginose bacteriana; D (2%) incorreta — clindamicina é para vaginose bacteriana; E (71%) correta — miconazol é antifúngico. Tópicos: Ginecologia endócrina → Planejamento familiar → Métodos hormonais combinados → Contraindicações.",
-      "banca": "UEM"
+      "banca": "UEM",
+      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)"
     },
     {
       "id": "site-pf-002",
