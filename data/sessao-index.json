@@ -16751,8 +16751,8 @@
   "pv-df-2024-0051": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16760,8 +16760,8 @@
   "pv-df-2024-0052": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16769,8 +16769,8 @@
   "pv-df-2024-0055": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Puericultura",
+    "subsub": "Aleitamento materno e artificial",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16778,8 +16778,8 @@
   "pv-df-2024-0060": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Neuropediatria",
+    "subsub": "Convulsão febril e epilepsia",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16787,8 +16787,8 @@
   "pv-df-2024-0097": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Gastroenterologia Pediátrica",
-    "subsub": "Diarreia",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Dor abdominal recorrente",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16797,7 +16797,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Distúrbios respiratórios do RN (SDR, SAM)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -16805,8 +16805,8 @@
   "pv-df-2025-0148": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Nefrologia Pediátrica",
+    "subsub": "Síndrome nefrítica na criança",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -16814,7 +16814,7 @@
   "pv-df-2025-0149": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -16823,7 +16823,7 @@
   "pv-df-2025-0153": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -16832,8 +16832,8 @@
   "pv-ba-2024-0039": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -16841,8 +16841,8 @@
   "pv-ba-2025-0073": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Asma na criança",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -16850,8 +16850,8 @@
   "pv-ba-2025-0076": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Meningites na criança",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
