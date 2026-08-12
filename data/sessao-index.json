@@ -16643,8 +16643,8 @@
   "pv-hia-2025-0114": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Parasitoses na criança",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16652,8 +16652,8 @@
   "pv-hia-2025-0115": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Puericultura",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16661,8 +16661,8 @@
   "pv-hia-2025-0117": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16670,7 +16670,7 @@
   "pv-hia-2025-0118": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
@@ -16680,7 +16680,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "subsub": "Crescimento e desenvolvimento",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16688,8 +16688,8 @@
   "pv-hia-2025-0125": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16697,8 +16697,8 @@
   "pv-hia-2025-0137": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16706,8 +16706,8 @@
   "pv-hia-2025-0151": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -16715,8 +16715,8 @@
   "pv-df-2024-0018": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16724,8 +16724,8 @@
   "pv-df-2024-0041": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16734,7 +16734,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -16742,8 +16742,8 @@
   "pv-df-2024-0045": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Meningites na criança",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
