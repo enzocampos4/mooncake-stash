@@ -18893,8 +18893,8 @@
   "s5-047": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -18902,8 +18902,8 @@
   "s5-057": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -18911,8 +18911,8 @@
   "s5-061": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -18920,8 +18920,8 @@
   "s5-079": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -18929,8 +18929,8 @@
   "s9-027": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Uroginecologia",
+    "subsub": "Fístulas genitais",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -18938,8 +18938,8 @@
   "s9-056": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Síndrome dos Ovários Policísticos (SOP)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -18947,8 +18947,8 @@
   "s9-060": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Cancro mole, sífilis, gonorreia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -18956,8 +18956,8 @@
   "s9-064": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -18965,8 +18965,8 @@
   "s9-077": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -18974,8 +18974,8 @@
   "s9-082": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Amenorreia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -18983,8 +18983,8 @@
   "s9-089": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -18992,8 +18992,8 @@
   "site-pf-001": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Planejamento familiar",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
     "banca": "UEM",
     "ano": 2018,
     "fonte": "BQMED (Site) — UEM - Universidade Estadual de Maringá 2018"

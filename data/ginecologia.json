@@ -1091,7 +1091,7 @@
       "id": "site-pf-002",
       "numero": 2,
       "area": "Ginecologia",
-      "subarea": "Planejamento familiar",
+      "subarea": "Sexualidade",
       "area_slug": "ginecologia",
       "fonte": "BQMED (Site) — SUS Bahia (BA) 2024",
       "instituicao": "SUS Bahia (BA)",
@@ -1107,13 +1107,13 @@
       "correta": "D",
       "explicacao": "Gabarito: alternativa D. Houve rompimento do preservativo durante relação desprotegida no período fértil. O período fértil ocorre em torno do meio do ciclo (ovulação), e o óvulo pode ser fertilizado por até 24h após liberação, enquanto espermatozoides permanecem viáveis por até 5 dias. Como a relação ocorreu há 2 dias no período fértil, existe janela de fertilização. Se a gravidez não é desejada, indicar contracepção de emergência (pílula do dia seguinte, eficaz até 72h, algumas opções até 5 dias). O risco teórico de gestação em relação desprotegida no período fértil é de cerca de 20%. Análise: A (5%) incorreta; B (43%) incorreta; C (4%) incorreta; D (48%) correta — risco de cerca de 20%.",
       "banca": "SUS-BA",
-      "sub_subarea": "Anticoncepção"
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)"
     },
     {
       "id": "site-pf-003",
       "numero": 3,
       "area": "Ginecologia",
-      "subarea": "Planejamento familiar",
+      "subarea": "Sexualidade",
       "area_slug": "ginecologia",
       "fonte": "BQMED (Site) — Hospital Evangélico de Cachoeira de Itapemirim (HECI) 2023",
       "instituicao": "Hospital Evangélico de Cachoeira de Itapemirim (HECI)",
@@ -1129,13 +1129,13 @@
       "correta": "D",
       "explicacao": "Gabarito: alternativa D. Paciente tem mioma e a questão pede método anticoncepcional que sirva também para o tratamento da miomatose. A (10%) incorreta — paciente tem mais de 35 anos e é tabagista, contraindicação para anticoncepcionais combinados; B (3%) incorreta — anel vaginal também é combinado (etinilestradiol + etonogestrel); C (11%) incorreta — mioma distorce a cavidade endometrial, contraindicação para DIU; D (76%) correta — sem contraindicação para progestágeno exclusivo e é opção de tratamento da miomatose uterina.",
       "banca": "BQMED",
-      "sub_subarea": "Anticoncepção"
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)"
     },
     {
       "id": "site-pf-004",
       "numero": 4,
       "area": "Ginecologia",
-      "subarea": "Planejamento familiar",
+      "subarea": "Ginecologia geral",
       "area_slug": "ginecologia",
       "fonte": "BQMED (Site) — Hospital Estadual Dirceu Arcoverde (HEDA) 2026",
       "instituicao": "Hospital Estadual Dirceu Arcoverde (HEDA)",
@@ -1151,13 +1151,14 @@
       },
       "correta": "D",
       "explicacao": "Gabarito: alternativa D. Paciente com sangramento uterino anormal por miomatose, tratada com SIU de levonorgestrel. Miomas têm crescimento estimulado por estrógeno e progesterona; os medicamentos hormonais objetivam diminuir ou impedir esse estímulo. Anticoncepcionais combinados e progestágenos induzem atrofia endometrial, reduzindo o fluxo menstrual. A (1%) incorreta — não agem diminuindo aporte sanguíneo arterial; B (9%) incorreta — inibem ovulação, mas esse não é o mecanismo para reduzir sangramento dos miomas; C (12%) incorreta — não diminuem tamanho dos miomas (só análogos do GnRH); D (72%) correta — promover atrofia endometrial; E (6%) incorreta — não é o mecanismo para tratamento dos miomas.",
-      "banca": "HEDA"
+      "banca": "HEDA",
+      "sub_subarea": "Sangramento uterino anormal (SUA)"
     },
     {
       "id": "site-pf-005",
       "numero": 5,
       "area": "Ginecologia",
-      "subarea": "Planejamento familiar",
+      "subarea": "Sexualidade",
       "area_slug": "ginecologia",
       "fonte": "BQMED (Site) — Santa Casa de Misericórdia de Campo Grande (SCMCG) 2021",
       "instituicao": "Santa Casa de Misericórdia de Campo Grande (SCMCG)",
@@ -1173,13 +1174,13 @@
       "correta": "B",
       "explicacao": "Gabarito: alternativa B. Lúpus com anticorpos antifosfolipídeos positivos ou desconhecidos são categoria 3 pelo OMS para DIU de levonorgestrel, por isso nesse caso o DIU de cobre é a melhor opção para essa paciente. Análise: A (18%) — DIU com levonorgestrel categoria 3 pelo OMS em lúpus com anticorpos antifosfolipídeos positivos/desconhecidos; B (80%) correta — DIU de cobre, método não hormonal, sem interferência no LES; C (0%) — injetável mensal combinado hormonal, contraindicado; D (2%) — adesivo transdérmico combinado hormonal, contraindicado.",
       "banca": "SCMCG",
-      "sub_subarea": "Anticoncepção"
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)"
     },
     {
       "id": "pv-ena-2024-0023",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Infecções",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Paciente nuligesta, 20 anos, comparece ao consultório de seu ginecologista referindo desejo de iniciar uso de dispositivo intrauterino com levonorgestrel. Referente a esse dispositivo, assinale a alternativa correta.",
       "alternativas": {
         "A": "Esse DIU libera levonorgestrel a uma taxa relativamente constante de 15 mg/dia.",
@@ -1208,8 +1209,8 @@
     {
       "id": "pv-ena-2024-0025",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Menopausa",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Climatério e menopausa",
       "enunciado": "Paciente de 56 anos procura atendimento por um quadro de prurido vulvar crônico, com piora no período noturno. É menopausada há 5 anos e nega terapia de reposição hormonal. Durante a inspeção, apresenta vulva com área de pápulas atróficas branquicentas, simétrica, regressão dos pequenos lábios e encobrimento do clitóris. Após avaliação, o médico ginecologista indicou tratamento para líquen escleroso, sendo a melhor medicação para essa patologia",
       "alternativas": {
         "A": "nistatina por 30 dias em região vulvar.",
@@ -1238,8 +1239,8 @@
     {
       "id": "pv-ena-2024-0039",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Mama",
+      "subarea": "Mastologia",
+      "sub_subarea": "Exame das mamas e rastreio (USG, mamografia)",
       "enunciado": "Mulher de 64 anos leva para seu médico o resultado de exames de rotina, incluindo a mamografia. No laudo, veio descrito área de assimetria focal localizada no quadrante superior medial da mama direita classificada como BIRADS 0. Diante desse caso, qual é a melhor conduta?",
       "alternativas": {
         "A": "Indicar Core-biopsy.",
@@ -1334,8 +1335,8 @@
     {
       "id": "pv-ena-2025-0164",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Mama",
+      "subarea": "Mastologia",
+      "sub_subarea": "Câncer de mama",
       "enunciado": "Uma paciente de 38 anos teve diagnóstico de câncer de mama há 18 meses, com realização de quimioterapia neoadjuvante e mastectomia à direita. Não menstrua há 12 meses. Há 6 meses queixa-se de calores e suores todas as noites, com prejuízo importante de sua qualidade de vida. Recentemente notou piora da lubrificação vaginal. Analisando o caso acima, o diagnóstico e a conduta apropriada são, respectivamente:",
       "alternativas": {
         "A": "menopausa precoce; início de terapia hormonal com estrogênio e progesterona via oral e uso de lubrificantes vaginais;",
