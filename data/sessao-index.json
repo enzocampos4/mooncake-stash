@@ -16859,8 +16859,8 @@
   "pv-ba-2025-0079": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -16868,8 +16868,8 @@
   "pv-ba-2025-0088": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -16877,8 +16877,8 @@
   "pv-ba-2025-0089": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -16886,8 +16886,8 @@
   "pv-ba-2025-0090": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -16895,7 +16895,7 @@
   "pv-pe-2024-0075": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
@@ -16904,7 +16904,7 @@
   "pv-amr-2025-0106": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "AMRIGS",
     "ano": 2025,
@@ -16913,8 +16913,8 @@
   "pv-amr-2025-0169": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "Tetralogia de Fallot",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "Cardiopatias congênitas cianóticas",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -16922,8 +16922,8 @@
   "pv-fam-2025-0138": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Maus tratos à crianças e adolescentes",
+    "subsub": "Sinais de alerta e notificação compulsória",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -16931,8 +16931,8 @@
   "pv-sp-2024-0116": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Pneumologia Pediátrica",
-    "subsub": "Crupe",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Choque na criança",
     "banca": "USP-SP",
     "ano": 2024,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2024"
@@ -16940,8 +16940,8 @@
   "pv-sp-2025-0158": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -16949,8 +16949,8 @@
   "pv-sp-2025-0234": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Parada cardiorrespiratória pediátrica (PALS)",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -16958,8 +16958,8 @@
   "pv-uni-2025-0114": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
