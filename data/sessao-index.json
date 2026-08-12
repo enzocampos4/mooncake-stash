@@ -17723,8 +17723,8 @@
   "pv-hcp-2024-0097": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "",
+    "sub": "Puericultura",
+    "subsub": "Aleitamento materno e artificial",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -17732,8 +17732,8 @@
   "pv-fam-2024-0025": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "HIV pediátrico",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -17741,8 +17741,8 @@
   "pv-fam-2025-0130": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "HIV pediátrico",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -17751,7 +17751,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "Icterícia",
+    "subsub": "Icterícia neonatal",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -17760,7 +17760,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "Icterícia",
+    "subsub": "Icterícia neonatal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -17768,8 +17768,8 @@
   "pv-ufr-2024-0042": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Bronquiolite aguda",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -17777,8 +17777,8 @@
   "pv-hcp-2025-0118": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neuropediatria",
+    "subsub": "TDAH",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -17786,8 +17786,8 @@
   "pv-ba-2025-0074": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Asma na criança",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -17795,8 +17795,8 @@
   "pv-ena-2024-0019": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -17804,8 +17804,8 @@
   "pv-ena-2025-0155": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "HIV pediátrico",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -17813,8 +17813,8 @@
   "pv-ena-2025-0195": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -17823,7 +17823,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
