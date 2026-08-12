@@ -570,9 +570,9 @@
       "explicacao": "Estrategista, esta é uma questão sobre o rastreamento do câncer de mama nas mulheres de alto risco. Veja a tabela\nabaixo:\nRECOMENDAÇÕES DE RASTREAMENTO PARA MULHERES DE ALTO RISCO\nCaracterística\nRecomendação\nMulheres com história familiar de câncer de mama (parente\nde 1º grau, antes da menopausa), com risco > 20% ao longo\nda vida, calculado por um dos modelos matemáticos\nRastreamento com mamografia anual iniciando 10 anos\nantes da idade do diagnóstico da parente mais jovem (não\niniciar antes dos 30 anos de idade)\nMulheres com mutação dos genes BRCA 1, ou com parentes\nde 1º grau com mutação comprovada\nRastreamento com mamografia anual a partir do\ndiagnóstico da mutação (não antes dos 35 anos)\nMulheres com mutação dos genes BRCA 2, ou com parentes\nde 1º grau com mutação comprovada\nRastreamento com mamografia anual a partir do\ndiagnóstico da mutação (não antes dos 30 anos)\nMulheres que foram submetidas à radioterapia do tórax\nantes dos 30 anos de idade\nRastreamento com mamografia anual iniciando 8 anos após\no tratamento radioterápico (não iniciar antes dos 30 anos\nde idade)\nMulheres com as síndrome de Li-Fraumeni ou de Cowden\nou parentes de primeiro grau com essas síndromes\nRastreamento com mamografia anual a partir do\ndiagnóstico da síndrome (não iniciar antes dos 30 anos de\nidade)\nMulheres com histórico de lesões precursoras (hiperplasia\nductal ou lobular atípica, carcinoma lobular in situ)\nRastreamento com mamografia anual iniciando a partir do\ndiagnóstico dessas lesões\n(não iniciar antes dos 30 anos de idade)\n\nEstratégia\nMED\n116\nAgora, vamos analisar as alternativas:\nCorreta a alternativa A: trata-se de paciente de alto risco, com parente de 1º grau (mãe) com diagnóstico de câncer de mama antes dos 50\nanos, sendo indicado fazer o rastreamento iniciando 10 anos antes do diagnóstico da parente.\nIncorreta a alternativa B, porque o rastreamento nas mulheres de alto risco deve ser anual.\nIncorreta a alternativa C, porque esta é a conduta indicada para as mulheres de baixo risco de acordo com a FEBRASGO.\nIncorreta a alternativa D, porque esta é a diretriz do MS/INCA para o rastreamento “propriamente dito”. De acordo com o MS da Saúde o\nrastreamento pode ser iniciado aos 40 anos “sob demanda”.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "Exame das mamas e rastreio (USG, mamografia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -590,9 +590,9 @@
       "explicacao": "Estrategista, em 2026, foi adicionada pelo Ministério da Saúde a indicação de vacinação para pacientes que foram submetidas a tratamento\ndas lesões de alto grau (NIC 2 e NIC 3) ou do adenocarcinoma in situ, através da conização ou CAAF. Essas pacientes devem ser vacinadas\nindependentemente da idade e trata-se, nesses casos, de uma estratégia de prevenção secundária, não primária. O objetivo é reduzir o\nrisco de recorrência dessas lesões (que é de 17%), além de reduzir o risco do câncer de colo. A vacinação dessas pacientes deve ser realizada\npreferencialmente no período perioperatório ou até 12 meses após o procedimento, no esquema de 3 doses (0, 2 e 6 meses).\nA tabela abaixo resume as indicações da vacina contra o HPV pelo Ministério da Saúde:\nINDICAÇÕES DA VACINA QUADRIVALENTE HPV (MINISTÉRIO DA SAÚDE)\nMENINAS\ne\nMENINOS\n•\t 9 a 14 anos (dose única);\n•\t 15 a 19 anos (dose única “de resgate”)\n•\t 9 a 45 anos (imunodeprimidos): três doses (0, 2 e 6 meses):\n◦\nconvivendo com HIV/AIDS\n◦\ntransplantados de órgãos sólidos\n◦\nem quimioterapia\nVítimas de violência\nsexual\n•\t 9 a 14 anos: duas doses (0 e 6 meses)\n•\t 15 a 45 anos: três doses (0, 2 e 6 meses)\nUsuários de Profilaxia\nPré-Exposição (PrEP)\n•\t 15 a 45 anos: três doses (0, 2 e 6 meses)\nPapilomatomatose\nrespiratória recorrente\n(PRR)\n•\t A partir de 2 anos de idade: três doses (0, 2 e 6 meses)\nMulheres tratadas por\nNIC 2/3 e AIS\n•\t Independentemente da idade: três doses (0, 2 e 6 meses)\nAgora, vamos analisar as alternativas:\n\nEstratégia\nMED\n137\nIncorreta a alternativa A, porque a paciente tem indicação de receber a vacina contra o HPV de acordo com o PNI.\nIncorreta a alternativa B, porque é indicado o esquema de 3 doses para estes casos.\nIncorreta a alternativa C, porque este não é o esquema preconizado para a vacinação do HPV nas mulheres que foram tratadas de NIC 2/3\nou AIS.\nCorreta a alternativa D: a paciente tem indicação de receber a vacina contra o HPV no esquema de 3 doses (0, 2 e 6 meses).",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Neoplasia intraepitelial cervical (NIC)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -610,9 +610,9 @@
       "explicacao": "Estrategista, de acordo com o PCDT Câncer de Mama:\n“A recomendação atual é que os seguintes sinais e sintomas sejam considerados como de referência urgente para serviços de diagnóstico\nmamário (recomendação favorável fraca, ou seja, os possíveis benefícios provavelmente superam os possíveis danos):\n- Qualquer nódulo mamário em mulheres com mais de 50 anos;\n- Nódulo mamário em mulheres com mais de 30 anos, que persistem por mais de um ciclo menstrual;\n- Nódulo mamário de consistência endurecida e fixo ou que vem aumentando de tamanho, em mulheres adultas de qualquer idade;\n- Descarga papilar sanguinolenta unilateral;\n- Lesão eczematosa da pele que não responde a tratamentos tópicos;\n- Homens com mais de 50 anos com tumoração palpável unilateral;\n- Presença de linfadenopatia axilar;\n- Aumento progressivo do tamanho da mama com a presença de sinais de edema, como pele com aspecto de casca de laranja;\n- Retração na pele da mama, e;\n- Mudança no formato do mamilo.”\nAgora, vamos analisar as alternativas:\nCorreta a alternativa A: de acordo com o PCDT, é indicado encaminhar para o serviço de referência nódulo mamário em mulheres com mais\nde 30 anos, e que persistem por mais de um ciclo menstrual.\nIncorreta a alternativa B, porque não se deve aguardar 6 meses para reavaliar o caso, já que pode se tratar de malignidade.\nIncorreta a alternativa C, porque, apesar do câncer de mama ser raro nesta faixa etária, é sempre importante avaliar melhor o nódulo, através\nde exame de imagem e possivelmente biópsia, para se caracterizar definitivamente se é benigno ou maligno.\n\nEstratégia\nMED\n146\nIncorreta a alternativa D, porque não se deve prosseguir com exérese do nódulo sem definir se é benigno ou maligno. A biópsia excisional de\num nódulo maligno pode ser um “subtratamento” levando ao atraso do tratamento cirúrgico definitivo da paciente, além de possivelmente\nser necessária uma cirurgia “maior” depois.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "Nódulos mamários benignos (fibroadenoma, cistos)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -630,9 +630,9 @@
       "explicacao": "Estrategista, a idade da mulher é uma boa orientação para as possíveis causas do sangramento uterino anormal. Muitas questões de provas\nde Residência seguem essa lógica!\n•\t Nos primeiros anos após a menarca, é bastante frequente a irregularidade menstrual devido à imaturidade do eixo H-H-O e os\nciclos anovulatórios. A segunda causa mais frequente de SUA desde a menarca são as coagulopatias, principalmente a síndrome de\nVon Willebrand.\n•\t Nas mulheres entre 20 e 40 anos de idade, o eixo já está amadurecido e as menstruações costumam ser regulares. Nessa faixa\netária, as causas mais comuns de sangramento uterino anormal são as estruturais.\n•\t Próximamente à menopausa, as causas mais frequentes de SUA são os ciclos anovulatórios devido à proximidade do esgotamento\nfolicular dos ovários.\n•\t Após a menopausa, são mais comuns as causas endometriais.\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque a paciente apresenta ciclo menstrual regular.\nIncorreta a alternativa B, porque a miomatose uterina é muito rara nesta faixa etária.\nIncorreta a alternativa C, porque a endometriose não é uma causa de sangramento uterino anormal. Os principais sintomas da endometriose\nsão a dismenorreia, a dispareunia, a dor pélvica crônica e a infertilidade.\nCorreta a alternativa D: a paciente apresenta ciclos menstruais regulares com fluxo aumentado desde a menarca e isso é sugestivo de\ncoagulopatia. A coagulopatia mais frequente nesses casos é a Síndrome de Von Willebrand.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mioma",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -652,9 +652,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Ginecologia básica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Exames complementares (USG, histerossalpingografia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -674,9 +674,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções",
+      "sub_subarea": "Climatério e menopausa",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -696,9 +696,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -718,9 +718,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mioma",
+      "sub_subarea": "Dismenorreia e síndrome pré-menstrual",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -740,9 +740,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções",
+      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -762,9 +762,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Infecções",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -784,9 +784,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "Câncer de mama",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -806,9 +806,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "Exame das mamas e rastreio (USG, mamografia)",
       "banca": "ESTRATÉGIA MED"
     },
     {

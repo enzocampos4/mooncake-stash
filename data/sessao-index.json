@@ -18677,8 +18677,8 @@
   "s1-069": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -18686,8 +18686,8 @@
   "s1-079": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -18695,7 +18695,7 @@
   "s1-088": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
+    "sub": "Ginecologia geral",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -18704,8 +18704,8 @@
   "s1-097": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Endometriose",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -18713,8 +18713,8 @@
   "s11-003": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -18722,8 +18722,8 @@
   "s11-057": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Mastologia",
+    "subsub": "Mastites e abscesso mamário",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -18731,8 +18731,8 @@
   "s11-065": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -18740,8 +18740,8 @@
   "s11-067": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Doença Inflamatória Pélvica (DIP)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -18749,8 +18749,8 @@
   "s11-086": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -18758,8 +18758,8 @@
   "s11-096": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Neoplasia intraepitelial cervical (NIC)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -18767,8 +18767,8 @@
   "s14-029": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -18776,8 +18776,8 @@
   "s14-056": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
