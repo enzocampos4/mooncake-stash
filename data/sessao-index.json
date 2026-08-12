@@ -18479,8 +18479,8 @@
   "pv-mg-2025-0096": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -18488,8 +18488,8 @@
   "pv-ufr-2024-0032": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Parada cardiorrespiratória pediátrica (PALS)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -18497,8 +18497,8 @@
   "pv-ufr-2025-0264": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Neonatologia",
+    "subsub": "Reanimação neonatal",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -18506,8 +18506,8 @@
   "pv-sp-2024-0060": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Gastroenterologia Pediátrica",
-    "subsub": "Diarreia",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -18515,8 +18515,8 @@
   "pv-sp-2025-0185": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -18524,8 +18524,8 @@
   "pv-uni-2025-0144": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Meningites na criança",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -18534,7 +18534,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "Icterícia",
+    "subsub": "Icterícia neonatal",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -18542,8 +18542,8 @@
   "s3-095": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Febre reumática",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -18552,7 +18552,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "",
+    "subsub": "Icterícia neonatal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -18560,7 +18560,7 @@
   "s1-045": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
+    "sub": "Endocrinologia pediátrica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
