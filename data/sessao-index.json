@@ -17184,7 +17184,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -17192,8 +17192,8 @@
   "pv-sír-2024-0030": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "Prematuridade",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -17201,7 +17201,7 @@
   "pv-sír-2025-0171": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
@@ -17210,7 +17210,7 @@
   "pv-hia-2024-0017": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "HIAE",
     "ano": 2024,
@@ -17219,8 +17219,8 @@
   "pv-df-2025-0137": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -17228,8 +17228,8 @@
   "pv-df-2025-0138": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -17237,8 +17237,8 @@
   "pv-df-2025-0139": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -17247,7 +17247,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Sepse neonatal",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -17255,8 +17255,8 @@
   "pv-hcp-2025-0146": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -17265,7 +17265,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -17274,7 +17274,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "RN Normal",
+    "subsub": "Icterícia neonatal",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -17282,8 +17282,8 @@
   "pv-fam-2024-0032": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Aleitamento",
+    "sub": "Neonatologia",
+    "subsub": "Reanimação neonatal",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
