@@ -18263,8 +18263,8 @@
   "pv-amr-2024-0010": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -18272,8 +18272,8 @@
   "pv-ufr-2024-0086": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -18281,8 +18281,8 @@
   "pv-ufr-2024-0120": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Sepse neonatal e pediátrica",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -18290,8 +18290,8 @@
   "pv-ufr-2025-0159": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Sepse neonatal e pediátrica",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -18299,8 +18299,8 @@
   "pv-ufr-2025-0233": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -18308,8 +18308,8 @@
   "pv-uer-2024-0068": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -18317,8 +18317,8 @@
   "pv-uer-2025-0110": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Asma na criança",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -18327,7 +18327,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -18335,8 +18335,8 @@
   "pv-sp-2024-0028": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -18344,8 +18344,8 @@
   "pv-sp-2024-0047": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Neuropediatria",
+    "subsub": "Convulsão febril e epilepsia",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -18353,8 +18353,8 @@
   "pv-sír-2025-0116": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -18363,7 +18363,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "subsub": "Doenças exantemáticas",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"

@@ -21279,8 +21279,8 @@
     {
       "id": "pv-ena-2024-0047",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Cardiologia Pediátrica",
+      "sub_subarea": "Cardiopatias congênitas acianóticas",
       "enunciado": "Na consulta de rotina, o pediatra está em dúvida sobre um sopro cardíaco em uma criança de dois anos que não apresenta sinais de insuficiência cardíaca. Suspeita-se de Comunicação Interventricular (CIV). Para auscultar o sopro cardíaco nesse caso,",
       "alternativas": {
         "A": "o paciente deve estar, preferencialmente, em decúbito dorsal com o tórax elevado.",
@@ -21309,8 +21309,8 @@
     {
       "id": "pv-uer-2025-0137",
       "area": "Pediatria",
-      "subarea": "Gastroenterologia Pediátrica",
-      "sub_subarea": "Diarreia",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "Homem de 32 anos realizou proctocolectomia total por retocolite ulcerativa e está em condições de alta com alimentação oral plena. Para evitar desidratação e distúrbios hidroeletrolíticos, o débito diário (em mL) dessa ileostomia deve girar em torno de:",
       "alternativas": {
         "A": "3.000",
@@ -21339,7 +21339,7 @@
       "id": "pv-ena-2025-0144",
       "area": "Pediatria",
       "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Os pais de um escolar em tratamento de rinite alérgica com corticoide nasal procuraram o posto de saúde para aplicação da vacina HPV (papilomavírus humano). Em vista do quadro apresentado, o agente do posto de saúde deverá:",
       "alternativas": {
         "A": "orientar os pais a vacinarem a criança após o término do tratamento;",
@@ -21371,8 +21371,8 @@
     {
       "id": "pv-ena-2025-0150",
       "area": "Pediatria",
-      "subarea": "Infectologia Pediátrica",
-      "sub_subarea": "Exantemáticas",
+      "subarea": "Puericultura",
+      "sub_subarea": "Imunização (calendário vacinal)",
       "enunciado": "Um adolescente saudável de 16 anos comparece à clínica da família para atualizar sua situação vacinal. Alega que só recebeu vacinas no primeiro ano de vida, mas, 2 meses antes, fez uma dose de vacina para difteria e tétano (dT), para se matricular em um curso. Em sua caderneta da criança, há registro das seguintes vacinas: duas doses da vacina contra hepatite B (HB); duas doses da vacina contra difteria, tétano e pertússis (DTP); uma dose da vacina contra febre amarela (VFA); uma dose da vacina contra sarampo, caxumba e rubéola (tríplice viral). A atualização deverá ser feita com:",
       "alternativas": {
         "A": "duas doses da VFA, duas doses da dT, duas doses da tríplice viral, duas doses de vacina contra HPV e uma dose da vacina meningocócica ACWY;",
@@ -21403,8 +21403,8 @@
     {
       "id": "pv-pe-2024-0027",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Gastrologia Pediátrica",
+      "sub_subarea": "Desnutrição e má progressão ponderal",
       "enunciado": "Escolar de 8 anos vem para atendimento médico de rotina sem queixas. Paciente apresenta importante erro alimentar com alta ingestão de ultraprocessados apresentando baixa adesão às orientações fornecidas. Na última consulta, foi realizado encaminhamento ao serviço de nutrição, o que impactou positivamente nos hábitos do paciente. Nega outras comorbidades e nega internamentos prévios. Não faz uso regular de medicações. Ao exame físico, paciente com bom estado geral, hidratado, corado, ritmo cardíaco regular, em dois tempos, bulhas normofonéticas sem sopros; murmúrio vesicular presente sem ruídos adventícios e sem desconforto respiratório; abdome globoso, ruído hidroaéreo presente e sem visceromegalias. Presença de alterações cutâneas como na imagem abaixo: O gráfico de crescimento é o que se segue: Qual o nome da lesão visualizada, seu significado e a classificação antropométrica da criança?",
       "alternativas": {
         "A": "Acantose nigricans; resistência insulínica; peso normal para a idade",
@@ -21438,8 +21438,8 @@
     {
       "id": "pv-pe-2024-0040",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Neuropediatria",
+      "sub_subarea": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
       "enunciado": "Recente dado do Centro de Controle e Prevenção de Doenças (CDC) de 2023 mostrou uma prevalência do Transtorno do Espectro Autista (TEA) de uma para cada 36 crianças nos Estados Unidos. Qual dos seguintes fatores NÃO é considerado fator de risco para o desenvolvimento do TEA?",
       "alternativas": {
         "A": "Uso de inibidores da receptação da serotonina durante a gestação",
@@ -21473,8 +21473,8 @@
     {
       "id": "pv-ena-2025-0177",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Neonatologia",
+      "sub_subarea": "",
       "enunciado": "Gestante realiza ultrassonografia obstétrica, que evidencia uma medida do maior bolsão vertical do líquido amniótico de 12 cm. A condição que pode estar associada a esse quadro é:",
       "alternativas": {
         "A": "insuficiência uteroplacentária;",
@@ -21506,8 +21506,8 @@
     {
       "id": "pv-pe-2024-0052",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Neonatologia",
+      "sub_subarea": "",
       "enunciado": "Paciente 35 anos, primigesta e na 39º semana de gravidez, sendo acompanhada no pré-natal de risco habitual. Durante a consulta, foi observada uma curva de altura de fundo de útero pela idade gestacional abaixo do 10º percentil. No momento, traz sua última ultrassonografia e a curva de crescimento do peso fetal estimado pela idade gestacional, que se encontra entre o 3º e 10º percentil. A dopplervelocimetria das artérias uterinas, umbilicais e cerebral média foi < 95º percentil, < 95º percentil e > 5º percentil, respectivamente. Assinale a alternativa CORRETA referente ao fator de risco mais provável para a hipótese diagnóstica.",
       "alternativas": {
         "A": "Tabagismo",
@@ -21531,7 +21531,7 @@
       "id": "pv-pe-2025-0150",
       "area": "Pediatria",
       "subarea": "Neonatologia",
-      "sub_subarea": "Prematuridade",
+      "sub_subarea": "",
       "enunciado": "Assinale a alternativa que NÃO representa um evento adverso considerado no cálculo matemático do FullPiers (Preeclampsia Integrated and Estimated Risks) para predizer que esses desfechos adversos à gestante ocorram em até 48 horas a partir da admissão com diagnóstico de pré-eclâmpsia.",
       "alternativas": {
         "A": "Eclâmpsia",
@@ -21560,8 +21560,8 @@
     {
       "id": "pv-ena-2024-0001",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Cresc/Desenv",
+      "subarea": "Outros",
+      "sub_subarea": "",
       "enunciado": "O seguinte gráfico demonstra a redução da taxa de mortalidade da tuberculose ao longo do tempo, considerando estimativas traçadas desde 1860 até 1960: Considerando esse gráfico, é correto afirmar que",
       "alternativas": {
         "A": "A redução da mortalidade pela tuberculose se deve ao crescimento populacional, que diminuiu o número de pessoas expostas à doença.",
@@ -21590,8 +21590,8 @@
     {
       "id": "pv-ena-2025-0200",
       "area": "Pediatria",
-      "subarea": "Puericultura",
-      "sub_subarea": "Vacinação",
+      "subarea": "Infectologia Pediátrica",
+      "sub_subarea": "Doenças exantemáticas",
       "enunciado": "Os movimentos antivacina, causados por um sistema de desinformação, trazem muitos danos para as pessoas não vacinadas, pois já está mais que provado pela ciência que vacinas são muito efetivas e salvam vidas. Uma dessas doenças preveníveis por vacinas tem como manifestação clínica típica a presença de placas pseudomembranosas branco-acinzentadas, aderentes, que se instalam nas amígdalas e invadem estruturas vizinhas. Essas placas podem se localizar na faringe, na laringe e nas fossas nasais; e, com menos frequência, também são observadas na conjuntiva, na pele, no conduto auditivo, na vulva, no pênis (pós-circuncisão) e no cordão umbilical. A doença manifesta-se clinicamente por comprometimento do estado geral do paciente, que pode se apresentar prostrado e pálido. A dor de garganta é discreta, independentemente da localização ou da quantidade de placas existentes, e a febre normalmente não é muito elevada, variando de 37,5 °C a 38,5 °C, embora temperaturas mais altas não afastem o diagnóstico. Nos casos mais graves, há intenso edema do pescoço, com grande aumento dos gânglios linfáticos dessa área (pescoço taurino) e edema periganglionar nas cadeias cervicais e submandibulares. Dependendo do tamanho e da localização da placa pseudomembranosa, pode ocorrer asfixia mecânica aguda no paciente, o que muitas vezes exige imediata traqueostomia para evitar a morte. A descrição acima é característica de:",
       "alternativas": {
         "A": "vírus sincicial respiratório;",
@@ -21614,8 +21614,8 @@
     {
       "id": "pv-pe-2025-0164",
       "area": "Pediatria",
-      "subarea": "Cardiopatia Congênita",
-      "sub_subarea": "CIA/CIV/PCA",
+      "subarea": "Emergências Pediátricas",
+      "sub_subarea": "Parada cardiorrespiratória pediátrica (PALS)",
       "enunciado": "Pré-escolar encontra-se na área vermelha de um hospital pediátrico em estado grave por diarreia e desidratação. Está fazendo expansão volêmica e em uso de máscara não reinalante. Uma hora após sua admissão, o plantão é chamado, pois o menor encontra-se em parada cardiorrespiratória. O monitor mostra o traçado abaixo: Pediatra confirma ausência de pulso central na criança. Nesse momento, além de fornecer oxigênio com bolsa-máscara e realizar compressões torácicas de qualidade, a próxima conduta será",
       "alternativas": {
         "A": "realizar desfibrilação com 2 J/kg.",
