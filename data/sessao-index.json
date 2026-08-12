@@ -18371,8 +18371,8 @@
   "pv-ena-2024-0047": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Cardiologia Pediátrica",
+    "subsub": "Cardiopatias congênitas acianóticas",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -18380,8 +18380,8 @@
   "pv-uer-2025-0137": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Gastroenterologia Pediátrica",
-    "subsub": "Diarreia",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -18390,7 +18390,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18398,8 +18398,8 @@
   "pv-ena-2025-0150": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Infectologia Pediátrica",
-    "subsub": "Exantemáticas",
+    "sub": "Puericultura",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18407,8 +18407,8 @@
   "pv-pe-2024-0027": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "Desnutrição e má progressão ponderal",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -18416,8 +18416,8 @@
   "pv-pe-2024-0040": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -18425,8 +18425,8 @@
   "pv-ena-2025-0177": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Neonatologia",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18434,8 +18434,8 @@
   "pv-pe-2024-0052": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Neonatologia",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -18444,7 +18444,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Neonatologia",
-    "subsub": "Prematuridade",
+    "subsub": "",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -18452,8 +18452,8 @@
   "pv-ena-2024-0001": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Cresc/Desenv",
+    "sub": "Outros",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -18461,8 +18461,8 @@
   "pv-ena-2025-0200": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Vacinação",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "Doenças exantemáticas",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -18470,8 +18470,8 @@
   "pv-pe-2025-0164": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Cardiopatia Congênita",
-    "subsub": "CIA/CIV/PCA",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Parada cardiorrespiratória pediátrica (PALS)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
