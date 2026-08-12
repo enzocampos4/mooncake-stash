@@ -303,9 +303,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Sexualidade",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -325,9 +325,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de mama",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -347,7 +347,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -371,9 +371,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Endometriose",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -395,9 +395,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Mama",
+      "sub_subarea": "Exame das mamas e rastreio (USG, mamografia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -417,9 +417,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Mastites e abscesso mamário",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -441,9 +441,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -463,9 +463,10 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Doença Inflamatória Pélvica (DIP)"
     },
     {
       "id": "s11-086",
@@ -484,9 +485,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -506,9 +507,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Neoplasia intraepitelial cervical (NIC)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -526,9 +527,10 @@
       "explicacao": "Estrategista, esta é uma questão sobre a lei que regulamenta a laqueadura. Veja abaixo os principais pontos dessa lei:\n1.      QUEM PODE?\n•\t Homens e mulheres.\n•\t Idade igual ou superior a 21 anos OU dois filhos vivos.\n•\t   Risco de vida à mulher ou ao futuro concepto → assinado por 2 médicos.\n2.      Manifestação da vontade por escrito → deve haver prazo mínimo de 60 dias entre a manifestação do desejo e o procedimento.\n3.      PERMITIDA a esterilização cirúrgica no parto ou aborto.\n4.      Proibida a esterilização por histerectomia ou ooforectomia.\n5.      Se sociedade conjugal → NÃO é necessária a assinatura do cônjuge.\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque pode-se realizar a laqueadura nas mulheres com 21 anos ou mais.\nIncorreta a alternativa B, porque a laqueadura pode ser realizada nas mulheres que tenham só 1 filho vivo, desde que tenham 21 anos\nou mais.\n\nEstratégia\nMED\n46\nIncorreta a alternativa C, porque não é necessário parceiro fixo e nem a assinatura do parceiro para realizar a laqueadura.\nCorreta a alternativa D: a paciente tem direito à laqueadura de acordo com a lei do Planejamento Familiar.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "",
+      "subarea": "Sexualidade",
       "_area_slug": "ginecologia",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)"
     },
     {
       "id": "s14-056",
@@ -548,9 +550,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "banca": "ESTRATÉGIA MED"
     },
     {
