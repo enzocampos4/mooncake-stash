@@ -1102,9 +1102,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Gestação de Alto Risco",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1127,9 +1127,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Pré-natal",
+      "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Mecanismo do parto",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1151,7 +1151,7 @@
       "_edicao": "9",
       "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Rastreio de aneuploidias e malformações",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1171,16 +1171,16 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Parto",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "pv-ena-2024-0030",
       "area": "Obstetrícia",
       "subarea": "Puerpério",
-      "sub_subarea": "Hemorragia",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Uma gestante G2P1, com 38 semanas, iniciou contrações de forte intensidade e apresentou um parto taquitócico por via vaginal. Após a dequitação placentária, iniciou com hemorragia puerperal. Em relação ao caso, assinale a alternativa correta.",
       "alternativas": {
         "A": "A hemorragia apresentada é classificada como uma hemorragia pós-parto secundária.",
@@ -1212,8 +1212,8 @@
     {
       "id": "pv-ena-2024-0038",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "",
       "enunciado": "Sobre os aspectos clínicos e citogenéticos da doença trofoblástica gestacional, assinale a alternativa correta",
       "alternativas": {
         "A": "Neoplasia trofoblástica gestacional ocorre apenas após gravidez molar.",
@@ -1242,8 +1242,8 @@
     {
       "id": "pv-ena-2025-0173",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Paciente, após gestação e parto complicados, está em acompanhamento com endocrinologista com diagnóstico de síndrome de Sheehan. A complicação obstétrica que mais provavelmente ocorreu nesse caso foi:",
       "alternativas": {
         "A": "diabetes gestacional em uso de insulina;",
@@ -1272,7 +1272,7 @@
     {
       "id": "pv-pe-2024-0010",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Mulher com 40 anos, 7 gestações anteriores, teve o último parto 1 ano antes da gestação atual. Em consulta médica na 38º semana dessa gestação, apresentava queixa de sangramento vaginal e recebeu a informação de que estava com placenta prévia confirmada por ultrassom. Foi encaminhada à maternidade, mas não compareceu no serviço. Dois dias após a consulta, foi internada em choque hipovolêmico, encaminhada ao centro cirúrgico para realizar a cesariana de emergência, fez uma parada cardiorrespiratória e faleceu. A causa do óbito na Declaração de Óbito (DO) original foi preenchida da seguinte forma: Parte I: a. Placenta prévia total / b. Choque hipovolêmico / c. Parada cardiorrespiratória Parte II: Em branco Assinale a alternativa que corresponde à forma CORRETA de preenchimento da DO para o caso.",
       "alternativas": {
@@ -1302,8 +1302,8 @@
     {
       "id": "pv-pe-2024-0013",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Mulher com história de 4 gestações e 3 cesáreas anteriores foi internada às 23h na 40º semana de gestação, em trabalho de parto. Ficou aguardando transferência de hospital para a realização de cesárea. Evoluiu para parto vaginal de recém-nascido com 3,6 kg. No pós-parto imediato, apresentou sangramento aumentado, foi instituído ocitócito, porém evoluindo para óbito seis horas após o parto. O caso apresentado é classificado como: I. Morte relacionada à gestação. II. Morte materna tardia. III. Morte obstétrica direta. IV. Morte obstétrica indireta. Assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Todos os itens estão corretos.",
@@ -1335,7 +1335,7 @@
       "id": "pv-pe-2024-0060",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Mecanismo do parto",
       "enunciado": "Gestante 35 anos de idade, primigesta e na 39º semana de gravidez. Na emergência obstétrica, queixou-se de dor em baixo ventre. Ao exame, batimentos cardiofetais de 140 bpm, dinâmica uterina de 2 contrações / 10 minutos / 35 e 45 segundos. Ao toque vaginal, encontrava-se com 5 cm de dilatação, 80% de esvaecimento cervical, bolsa das águas íntegras e cefálico. Observe o partograma abaixo: Assinale a alternativa que indica a estrutura anatômica menos relevante sobre o mecanismo do parto dessa paciente.",
       "alternativas": {
         "A": "1. Grande bacia",
@@ -1368,7 +1368,7 @@
       "id": "pv-pe-2025-0141",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Gestante 32 anos, primigesta e nulípara, veio para consulta pré-natal no dia 22 de dezembro de 2024, referindo que está no 5º mês de gestação, assintomática, porém deseja saber qual a idade gestacional (IG) correta, pois, em cada consulta que vai, um médico informa uma idade gestacional diferente. Refere ainda que tinha ciclos regulares e sabia o momento da sua ovulação todos os meses. Abaixo seguem os dados informados pela paciente e as ultrassonografias anteriores com suas idades gestacionais na época do exame: Primeiro dia da última menstruação: 04 de agosto de 2024 Último dia da última menstruação: 09 de agosto de 2024 Data da última ovulação: 18 de agosto de 2024 Data da 1a ultrassonografia: 23 de agosto de 2024 (IG: 4 semanas) Data da 2a ultrassonografia: 23 de outubro de 2024 (IG: 11 semanas) Diante desses dados, qual a idade gestacional de acompanhamento da gravidez, no dia da consulta de pré-natal?",
       "alternativas": {
         "A": "19 semanas e 4 dias",
@@ -1392,7 +1392,7 @@
       "id": "pv-pe-2025-0145",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "sub_subarea": "Rastreio de aneuploidias e malformações",
       "enunciado": "Gestante, primigesta, na 12ª semana de gravidez, vem trazendo laudo ultrassonográfico realizado na 6ª semana de gravidez, de gestação gemelar, porém, sem descrição da corionicidade e amnionicidade. Nesse momento, é submetida a uma nova ultrassonografia para essa finalidade. Dessa forma, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Sinal do Lambda – Dicoriônica Diamniótica",
