@@ -21053,8 +21053,8 @@
   "s14-038": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Parto",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -21062,8 +21062,8 @@
   "s14-045": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Pré-natal",
+    "subsub": "Imunização na gestação",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -21072,7 +21072,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Rastreio de aneuploidias e malformações",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21080,8 +21080,8 @@
   "s1-021": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Gestação de Alto Risco",
-    "subsub": "",
+    "sub": "Pré-natal",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21089,8 +21089,8 @@
   "s1-033": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21098,7 +21098,7 @@
   "s1-041": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Gestação de Alto Risco",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -21108,7 +21108,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21116,8 +21116,8 @@
   "s1-062": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Gestação de Alto Risco",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21125,7 +21125,7 @@
   "s1-072": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -21134,8 +21134,8 @@
   "s1-075": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
+    "sub": "Medicina fetal",
+    "subsub": "Avaliação de vitalidade fetal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21143,8 +21143,8 @@
   "s1-090": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21153,7 +21153,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Puerpério",
-    "subsub": "Infecção",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"

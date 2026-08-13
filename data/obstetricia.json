@@ -288,7 +288,7 @@
       "_edicao": "11",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -310,9 +310,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Parto",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -334,7 +334,7 @@
       "_edicao": "11",
       "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Imunização na gestação",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -354,10 +354,10 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Geral",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
       "banca": "ESTRATÉGIA MED",
-      "sub_subarea": ""
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)"
     },
     {
       "id": "s11-071",
@@ -378,7 +378,7 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Gestação de Alto Risco",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "_area_slug": "obstetricia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -400,9 +400,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Pré-natal",
+      "subarea": "Medicina fetal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -422,9 +422,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Parto",
+      "subarea": "Puerpério",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -446,9 +446,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Parto",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Cardiopatia na gestação",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -466,9 +466,9 @@
       "explicacao": "Estrategista, a tabela abaixo mostra as condições consideradas categoria 3, para os métodos hormonais combinados, de acordo com os\ncritérios de elegibilidade da OMS:\nCONTRAINDICAÇÕES RELATIVAS (CATEGORIA 3) AOS ANTICONCEPCIONAIS HORMONAIS COMBINADOS,\nDE ACORDO COM OS CRITÉRIOS DE ELEGIBILIDADE DA OMS\n≥ 6 semanas e < 6 meses pós parto em lactantes\n< 21 dias pós parto em não lactantes, mas sem fatores de risco para TVP\n21 a 42 dias pós parto em não lactantes, mas com fatores de risco para TVP\nTabagismo (<15 cigarros/dia + idade > 35 anos)\nHipertensão controlada\nHipertensão Arterial Sistêmica Descompensada (sistólica entre 140-159 ou diastólica entre 90-99mmHg)\nEnxaqueca sem aura (>35 anos)\nCâncer de mama prévio sem evidência da doença nos últimos 5 anos\nDoença da vesícula biliar atual ou em tratamento medicamentoso\nPassado de colestase\nAlguns anticonvulsivantes, rifampicina e rifabutina\n\nEstratégia\nMED\n11\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque pode-se prescrever método hormonal combinado após 21 dias do parto, se a mulher não estiver\namamentando e não tiver fatores de risco para trombose venosa profunda.\nCorreta a alternativa B: de acordo com os critérios de elegibilidade da OMS, pode-se prescrever método hormonal combinado após 42\ndias do parto se a mulher não estiver amamentando, mas tiver fatores de risco para trombose venosa profunda.\nIncorreta a alternativa C, porque não se deve prescrever método hormonal combinado para paciente com enxaqueca sem aura se ela tiver\nmais de 35 anos de idade.\nIncorreta a alternativa D, porque a hipertensão controlada é considerada categoria 3 de acordo com os critérios de elegibilidade da OMS.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Parto",
+      "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -489,9 +489,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Gestação de Alto Risco",
+      "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Nutrição e suplementação",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -514,9 +514,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Pré-natal",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -538,9 +538,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Pré-natal",
+      "subarea": "Obstetrícia fisiológica",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Fisiologia da gestação",
       "banca": "ESTRATÉGIA MED"
     },
     {
