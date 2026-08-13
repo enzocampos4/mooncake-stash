@@ -6647,8 +6647,8 @@
     {
       "id": "pv-hcp-2024-0076",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Infecções",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "enunciado": "Paciente de 29 anos, assintomática, veio à consulta para avaliação ginecológica. Trouxe laudos de exames citopatológicos (CP) de colo uterino negativos (dentro da normalidade) realizados aos 25 e aos 26 anos. Há 30 dias, coletou material para novo CP, cujo resultado indicou: Satisfatório para avaliação. Presença de células escamosas, glandulares e metaplásicas. Células escamosas atípicas de significado indeterminado (ASC-US). Flora sugestiva de vaginose. Diante desse resultado, qual a recomendação do Ministério da Saúde?",
       "alternativas": {
         "A": "Tratar a vaginose e repetir o CP em 3 meses.",
@@ -6707,8 +6707,8 @@
     {
       "id": "pv-fam-2024-0040",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Colo Uterino",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "enunciado": "Mulher, 31 anos de idade, G=3 P=3 (N), colhe sua Colpocitologia Oncótica de rotina, cujo resultado veio ASC-US (Atipia de Células Escamosas de Significado Indeterminado). Diante deste",
       "alternativas": {
         "A": "Fazer Colposcopia",
@@ -6738,8 +6738,8 @@
     {
       "id": "pv-fam-2025-0106",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Colo Uterino",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "enunciado": "Mulher, 35 anos de idade, G=2 P=2 (N) A=0, colhe sua Colpocitologia Oncótica de rotina, cujo resultado veio LSIL (Lesão Intra-epitelial de Baixo grau). De acordo com as Diretrizes Brasileiras para Rastreamento de Câncer do Colo Uterino, 2016, qual a próxima conduta?",
       "alternativas": {
         "A": "Fazer Colposcopia",
@@ -6770,8 +6770,8 @@
     {
       "id": "pv-rib-2025-0127",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "enunciado": "Paciente 47 anos, sexo feminino, comparece em consulta com queixa de há 3 meses apresentar fadiga, astenia e episódios de tontura. Paciente G1P1A0C0, com método contraceptivo e laqueadura tubária há 12 anos, sem atraso menstrual. Nega uso de medicações, doenças prévias e história familiar de doenças. Exame físico normal. Qual o questionamento mais adequado que o médico deve fazer para complementar a anamnese?",
       "alternativas": {
         "A": "Perda ponderal não intencional.",
@@ -6799,8 +6799,8 @@
     {
       "id": "pv-sír-2024-0028",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "subarea": "Infecções em ginecologia",
+      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
       "enunciado": "Adolescente, 16 anos, refere variedade de parceiros sexuais nos últimos 6 meses, apresenta ao exame ginecológico de rotina corrimento branco-acinzentado, bolhoso, colo uterino avermelhado, canal endocervical sangrante facilmente. Está em uso de implante subcutâneo de etonogestrel há 1 ano e refere uso irregular de preservativo masculino. Foi atendida na Unidade Básica de Saúde, que não dispõe de exames para identificar o(os) agente(s) patógeno(s) envolvido(s). A conduta adequada é prescrever",
       "alternativas": {
         "A": "ceftriaxona 500 mg intramuscular e azitromicina 1.000 mg via oral, ambos em dose única.",
@@ -6828,8 +6828,8 @@
     {
       "id": "pv-hcp-2025-0123",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Adolescente feminina, de 13 anos e 6 meses, procurou o Ambulatório de Pediatria. Ao iniciar a consulta, o pediatra perguntou se algum familiar ou responsável a acompanhava. Ela informou que procurara esse atendimento sem comunicar aos pais porque desejava que a consulta fosse realizada sob sigilo médico. Tinha interesse em saber sobre sua saúde e em falar sobre sexualidade. Seguindo as orientações da Sociedade Brasileira de Pediatria, da Federação Brasileira das Associações de Ginecologia e Obstetrícia e do Código de Ética Médica, que conduta, dentre as abaixo, é a mais adequada?",
       "alternativas": {
         "A": "Informar à adolescente que, por ter menos de 14 anos, lhe é vedado esclarecer as questões que vierem a ser apresentadas sem a presença de pais e/ou responsável.",
@@ -6952,8 +6952,8 @@
     {
       "id": "pv-uni-2024-0021",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Mulher, 21 anos de idade, casada, sem filhos, procura a UBS em busca de método contraceptivo. Depois de ser informada de todos os métodos possíveis, ela opta pela laqueadura tubária. Segundo a Lei nº 14.443 de 02 de setembro 2022, que altera a Lei nº 9.263 de 12 de janeiro de 1996 sobre o planejamento familiar, qual é a alternativa correta?",
       "alternativas": {
         "A": "O procedimento pode ser realizado, mas somente com a autorização do cônjuge.",
