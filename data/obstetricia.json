@@ -831,7 +831,7 @@
       "_edicao": "5",
       "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -851,9 +851,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Parto",
+      "subarea": "Puerpério",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -875,7 +875,7 @@
       "_edicao": "5",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Distócias",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -897,7 +897,7 @@
       "_edicao": "5",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Parto instrumental",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -917,9 +917,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Parto",
+      "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Rastreio de aneuploidias e malformações",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -941,9 +941,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Parto",
+      "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -987,7 +987,7 @@
       "_edicao": "5",
       "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Imunização na gestação",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1007,9 +1007,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Parto",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1031,10 +1031,10 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
       "banca": "ESTRATÉGIA MED",
-      "sub_subarea": ""
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)"
     },
     {
       "id": "s9-021",
@@ -1060,7 +1060,7 @@
       "_edicao": "9",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Mecanismo do parto",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1082,7 +1082,7 @@
       "_edicao": "9",
       "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Imunização na gestação",
       "banca": "ESTRATÉGIA MED"
     },
     {
