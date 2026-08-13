@@ -20189,8 +20189,8 @@
   "pv-uni-2025-0122": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Anticoncepção",
+    "sub": "Ginecologia endócrina",
+    "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -20198,8 +20198,8 @@
   "pv-sír-2024-0067": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP",
+    "sub": "Ginecologia básica",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -20207,8 +20207,8 @@
   "pv-sír-2024-0079": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Anticoncepção",
+    "sub": "Ginecologia básica",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -20216,8 +20216,8 @@
   "pv-sír-2025-0118": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Infecções sexualmente transmissíveis (IST)",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -20225,8 +20225,8 @@
   "pv-sír-2025-0119": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Infecções sexualmente transmissíveis (IST)",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -20234,8 +20234,8 @@
   "pv-hia-2024-0070": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Síndrome dos Ovários Policísticos (SOP)",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -20243,8 +20243,8 @@
   "pv-hia-2025-0080": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Sexualidade",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -20252,8 +20252,8 @@
   "pv-hia-2025-0091": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Ginecologia geral",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -20261,8 +20261,8 @@
   "pv-hia-2025-0136": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Doença Inflamatória Pélvica (DIP)",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -20270,8 +20270,8 @@
   "pv-df-2024-0032": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Síndrome dos Ovários Policísticos (SOP)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -20279,8 +20279,8 @@
   "pv-df-2025-0151": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -20288,8 +20288,8 @@
   "pv-df-2025-0158": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
