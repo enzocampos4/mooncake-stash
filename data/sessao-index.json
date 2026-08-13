@@ -19757,8 +19757,8 @@
   "pv-ena-2024-0040": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Infecções sexualmente transmissíveis (IST)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -19775,8 +19775,8 @@
   "pv-ena-2025-0166": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Neoplasia intraepitelial cervical (NIC)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -19784,8 +19784,8 @@
   "pv-ena-2025-0170": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -19793,8 +19793,8 @@
   "pv-ena-2025-0172": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -19802,8 +19802,8 @@
   "pv-ena-2025-0179": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP",
+    "sub": "Ginecologia geral",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
