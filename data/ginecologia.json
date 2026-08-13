@@ -6999,8 +6999,8 @@
     {
       "id": "pv-pe-2024-0050",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "",
+      "subarea": "Uroginecologia",
+      "sub_subarea": "Prolapso de órgãos pélvicos (POP)",
       "enunciado": "Paciente de 60 anos de idade procura ambulatório de ginecologia com queixa de “bola” na vagina aos esforços. Durante o exame, foi realizado o POP-Q que demonstrou o seguinte cenário: De acordo com o POP-Q da paciente em questão, qual o diagnóstico mais provável?",
       "alternativas": {
         "A": "Prolapso de parede anterior (E 1)",
@@ -7034,8 +7034,8 @@
     {
       "id": "pv-uni-2024-0051",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Adolescente, 16 anos de idade, vai a UBS para orientação anticoncepcional. Refere ter tido 5 parceiros sexuais. Refere ciclos menstruais abundantes, com duração de 9 dias e cólica menstrual nos 4 primeiros dias. Última menstruação iniciou há 5 dias. Na Unidade encontram- se disponíveis os seguintes métodos: pílulas combinadas, implante subcutâneo, injetável mensal e DIU de cobre. Além da recomendação do uso de preservativos, qual é a orientação mais adequada?",
       "alternativas": {
         "A": "Inserção imediata de DIU de cobre.",
@@ -7069,9 +7069,9 @@
       "explicacao": "Estrategista, nesta fase de vida da mulher, o risco de malignidade na presença de uma massa anexial é mais alto do que nas demais. Por\nesse motivo, a investigação invasiva será mais frequente do que nas pacientes mais jovens. Além dos exames de imagem, o uso do CA-125 é\nimportante para a definição da conduta terapêutica. O fluxograma abaixo, também extraído do tratado de Ginecologia da FEBRASGO traz a\nabordagem das massas anexiais nessa faixa etária:\nVamos analisar as alternativas:\nIncorreta a alternativa A. Como vimos, o paciente não fecha\ncritérios para PBE.\nIncorreta a alternativa B. Esta é uma terapia para a ascite\nrefratária. Podemos, sim, realizar uma paracentese neste\npaciente, porém, a longo prazo, como solicita a questão, o\nmanejo com diuréticos e restrição de sódio na dieta faz mais\nsentido como conduta inicial.\n\nEstratégia\nMED\n160\nAgora, vamos analisar as alternativas:\nIncorreta a alternativa A, porque se trata\nde imagem suspeita, com mais de 10 cm\ne parede espessada, por isso não se deve\nprosseguir apenas com o seguimento, o que\npode atrasar o tratamento da paciente.\nIncorreta a alternativa B, porque não\nse deve prescrever pílula combinada e\nreavaliar o caso em 6 meses para uma lesão\npossivelmente maligna.\nIncorreta a alternativa C, porque não se deve realizar punção com agulha fina para estudo citológico de cisto anexial, já que pode se tratar de\nlesão maligna e podem se “espalhar” células neoplásicas na cavidade peritoneal.\nCorreta a alternativa D: trata-se de lesão ovariana possivelmente maligna, sendo indicado prosseguir na investigação desses casos com a\nrealização de laparotomia exploradora e congelação da lesão para definição do diagnóstico.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de ovário",
       "imagens": [
         "data/simulados/imgs/14-simulado/q97_img1.jpeg"
       ],
@@ -7097,9 +7097,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de ovário",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7119,9 +7119,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Uroginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Fístulas genitais",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7143,9 +7143,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Câncer de ovário",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7167,9 +7167,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Doença Inflamatória Pélvica (DIP)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7191,9 +7191,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7213,9 +7213,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de ovário",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7237,9 +7237,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Câncer de mama",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7259,9 +7259,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7281,9 +7281,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Ginecologia geral",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "banca": "ESTRATÉGIA MED"
     },
     {
