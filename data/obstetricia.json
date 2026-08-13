@@ -2433,8 +2433,8 @@
     {
       "id": "pv-hcp-2024-0100",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Puerpério",
+      "sub_subarea": "Puerpério normal",
       "enunciado": "Após falha na indução do parto vaginal e em razão de sofrimento fetal agudo, foi realizada cesariana em uma paciente com 39 semanas de gestação. Não havia registro de comorbidades no pré-natal. O recém-nascido apresentou cianose e não chorou. Após o clampeamento imediato do cordão umbilical, foi levado ao berço de reanimação, secado, estimulado e avaliado. A frequência cardíaca era de 30 bpm e observou-se apneia. Diante do quadro, qual a conduta imediata mais adequada?",
       "alternativas": {
         "A": "Iniciar massagem cardíaca externa e realizar cateterismo venoso umbilical.",
@@ -2468,7 +2468,7 @@
       "id": "pv-hcp-2025-0125",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Assinale a assertiva correta sobre condutas preventivas em Obstetrícia.",
       "alternativas": {
         "A": "No diabetes melito, o controle metabólico préconcepcional mais adequado está associado a redução de malformações congênitas, parto prematuro e mortalidade perinatal.",
@@ -2491,7 +2491,7 @@
       "id": "pv-hcp-2025-0131",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Mecanismo do parto",
       "enunciado": "Gestante de 28 anos, G3P2, com 38 semanas de gestação, procurou atendimento no hospital de sua cidade por contrações uterinas dolorosas e regulares nas 2 últimas horas. Ao exame obstétrico, os batimentos cardiofetais estavam normais, a dinâmica uterina era de 5 contrações/10 minutos com “puxos”; ao toque, havia 10 cm de dilatação, com a cabeça fetal no plano +3 de De Lee e a sutura lambdoide em posição subpúbica. Assinale a assertiva correta sobre a assistência ao trabalho de parto.",
       "alternativas": {
         "A": "A gestante encontra-se no primeiro período ou fase clínica do parto, devendo-se orientar o aproveitamento máximo das contrações expulsivas (manobra de Valsalva) e realizar a rotação manual interna da cabeça fetal para puxá-la.",
@@ -2520,7 +2520,7 @@
       "id": "pv-hcp-2025-0132",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Multípara de 30 anos, G2C1, com 28 semanas de gestação, solicitou ao pré-natalista que fosse realizada ligadura tubária durante o parto. Em casos como esse, como o médico deve proceder?",
       "alternativas": {
         "A": "Solicitar que a paciente e o marido assinem um termo de consentimento livre e esclarecido (TCLE) e realizar a ligadura tubária imediatamente após o parto.",
@@ -2550,7 +2550,7 @@
       "id": "pv-hcp-2025-0133",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Primigesta de 16 anos foi atendida em consulta pré-natal de gestação com evolução normal. Que orientação, dentre as abaixo, deve ser dada à paciente em relação à prevenção de uma nova gestação logo após a atual?",
       "alternativas": {
         "A": "Dar preferência a métodos reversíveis de longa ação, como dispositivo intrauterino e implante, que podem ser inseridos imediatamente após o parto.",
@@ -2573,7 +2573,7 @@
       "id": "pv-fam-2024-0046",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Distócias",
       "enunciado": "Primigesta, 39 semanas de gestação, apresenta evolução do trabalho de parto demonstrado pelo partograma abaixo. De acordo com esses dados, o diagnóstico e a conduta, de acordo com o observado na 7ª e 8ª hora de registro são, respectivamente:",
       "alternativas": {
         "A": "Variedade de posição occipito transversa esquerda e realizar rotação manual do polo cefálico.",
@@ -2603,8 +2603,8 @@
     {
       "id": "pv-fam-2024-0079",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "enunciado": "Mulher com 32 anos reside no território de uma das Unidades Básica de Saúde (UBS), onde é atendida pelo Médico de Família fazendo o pré-natal da 3a gestação. A idade gestacional atual é de 32 semanas, evoluiu com Diabetes Mellitus Gestacional (DMG) a partir do final do 2º trimestre. Refere que na 1a gestação não teve problemas durante o pré-natal e também boa evolução para parto vaginal de sua filha que hoje está com 3 anos, nasceu com 4200 kg saudável e com bom desenvolvimento, porém na 2ª gestação refere que teve 1 aborto. Tem história familiar de diabetes mellitus; tem exames de sangue com glicose alterada antes da gravidez; excesso de peso durante a gravidez; tem hipertensão arterial. Entrou em trabalho de parto em casa, onde a criança nasceu, com o auxílio da vizinha, porém a criança apresentou choro fraco com dificuldade para respirar e logo foi a óbito. Após o parto a vizinha chamou o médico de família que atende a gestante. Qual alternativa abaixo é a correta, em relação a Declaração de Óbito (DO) do recém-nascido e as demais orientações,",
       "alternativas": {
         "A": "Após ser providenciada Certidão de Nascimento do recém nascido classificado como nascido vivo, o médico pode emitir a DO sem verificar pessoalmente o recém - nascido, considerando-se que prestava assistência médica a paciente gestante, conhecendo o quadro clínico nos últimos meses, bem como o seu prognóstico;",
@@ -2639,8 +2639,8 @@
     {
       "id": "pv-fam-2025-0098",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Paciente de 40 anos de idade, gesta=06, para=05, partos anteriores por via vaginal, é internada na 38ª semana de gestação, em trabalho de parto. Após a expulsão fetal, evolui com intensa dor abdominal, fuga da matriz, tenesmo retal e vesical, hemorragia intensa por via vaginal e choque hipovolêmico. Foi feito o diagnóstico de inversão uterina aguda, a qual não foi responsiva à manobra da Taxe. De acordo com esses dados, assinale a alternativa que contém a conduta imediata.",
       "alternativas": {
         "A": "Sutura de B-Lynch.",
@@ -2670,8 +2670,8 @@
     {
       "id": "pv-fam-2025-0099",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Puérpera, na 2ª hora pós-parto cesáreo indicado por eclampsia, está em uso de sulfato de magnésio 1g/hora. Não apresenta crise convulsiva, porém, mantém níveis pressóricos de 160 × 110 mmHg. Assinale a alternativa que contém a conduta correta nesses casos:",
       "alternativas": {
         "A": "Suspender a infusão de sulfato de magnésio e prescrever hidralazina por via endovenosa.",
@@ -2693,8 +2693,8 @@
     {
       "id": "pv-fam-2025-0101",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Cardiotocografia",
       "enunciado": "Gestante de 39 semanas é admitida com contrações uterinas. Durante a evolução do trabalho de parto, foi realizada a cardiotocografia representada na figura abaixo. De acordo com estes dados, assinale a alternativa correta:",
       "alternativas": {
         "A": "O padrão cardiotocográfico é compatível com insuficiência placentária decorrente de hipertensão arterial.",
@@ -2722,8 +2722,8 @@
     {
       "id": "pv-fam-2025-0102",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Isoimunização Rh",
       "enunciado": "Gestante de 32 anos, G3 P2 A0 (2 cesáreas), grupo sanguíneo O negativo, cujo parceiro não compareceu na consulta de pré-natal para tipagem sanguínea, é admitida em trabalho de parto com 37 semanas. Recebeu imunoglobulina anti-D na 28ª semana de gestação. Na admissão, o teste de Coombs indireto da paciente foi positivo com titulação de 1:2. Tipagem do recém-nascido A positivo. No que se refere à profilaxia da aloimunização no pós-parto dessa paciente, é correto afirmar:",
       "alternativas": {
         "A": "Está indicada a realização da 2ª dose de imunoglobulina anti-D, desde que o resultado do Coombs indireto do recém-nascido seja negativo.",
@@ -2754,8 +2754,8 @@
     {
       "id": "pv-fam-2025-0105",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Parto",
+      "sub_subarea": "Via de parto (normal vs cesárea)",
       "enunciado": "Secundigesta, 40 semanas de gestação é admitida em trabalho de parto, com expulsão do feto após 4 horas da internação. Em relação ao manejo ativo do 3º período clínico do parto, de acordo com a Organização Mundial de Saúde (2018) e a Federação Brasileira das Associações de Ginecologia e Obstetricia (2018), as recomendações sobre a via e o momento da administração de ocitocina para prevenção de hemorragia pós-parto (HPP) e o momento de realizar a tração controlada do cordão são, respectivamente:",
       "alternativas": {
         "A": "Administrar 10 Ul de ocitocina intramuscular somente nos casos de risco para a ocorrência de HPP e realizar a tração controlada do cordão nos casos de retenção placentária.",

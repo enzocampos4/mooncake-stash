@@ -21809,8 +21809,8 @@
   "pv-uer-2024-0050": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -21818,7 +21818,7 @@
   "pv-uer-2024-0055": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
+    "sub": "Puerpério",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
@@ -21828,7 +21828,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Mecanismo do parto",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -21837,7 +21837,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -21845,8 +21845,8 @@
   "pv-uer-2025-0154": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "DMG",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -21854,8 +21854,8 @@
   "pv--2025-0159": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
+    "subsub": "",
     "banca": "",
     "ano": 2025,
     "fonte": " 2025"
@@ -21863,8 +21863,8 @@
   "pv-uer-2025-0160": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -21872,8 +21872,8 @@
   "pv-uer-2025-0161": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -21881,8 +21881,8 @@
   "pv-hcp-2024-0063": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -21891,7 +21891,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -21899,8 +21899,8 @@
   "pv-hcp-2024-0067": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Medicina fetal",
+    "subsub": "Cardiotocografia",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -21909,7 +21909,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
