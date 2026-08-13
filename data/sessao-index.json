@@ -19973,8 +19973,8 @@
   "pv-ufr-2024-0080": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -20009,8 +20009,8 @@
   "pv-uer-2024-0056": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Síndrome dos Ovários Policísticos (SOP)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -20027,8 +20027,8 @@
   "pv-uer-2024-0087": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Anticoncepção",
+    "sub": "Ginecologia geral",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -20036,8 +20036,8 @@
   "pv-uer-2024-0094": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP",
+    "sub": "Ginecologia geral",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -20045,8 +20045,8 @@
   "pv-uer-2025-0106": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Ginecologia geral",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -20054,8 +20054,8 @@
   "pv-uer-2025-0146": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "Ciclo menstrual",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -20063,8 +20063,8 @@
   "pv-hcp-2024-0030": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP",
+    "sub": "Ginecologia geral",
+    "subsub": "Ciclo menstrual",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -20072,8 +20072,8 @@
   "pv-hcp-2025-0135": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Neoplasia intraepitelial cervical (NIC)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
