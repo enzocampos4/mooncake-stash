@@ -4910,8 +4910,8 @@
     {
       "id": "pv-uni-2025-0122",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "",
       "enunciado": "Mulher, 70 anos de idade, com hipertensão, osteoartrose e osteoporose em coluna lombar (T- score -2,9), realiza investigação laboratorial com os seguintes resultados: creatinina = 0,9 mg/dL (VR 0,6 a 1,1 mg/dL), TSH = 3,0 mUI/L (VR 0,44 a 5,4 mUI/L), PTH = 15 pg/mL (VR 22 a 84 pg/mL), cálcio total = 10,7 mg/dL (VR 8,6 a 10,3 mg/dL). Qual medicamento listado abaixo pode causar a alteração laboratorial observada?",
       "alternativas": {
         "A": "Denosumabe",
@@ -4943,8 +4943,8 @@
     {
       "id": "pv-sír-2024-0067",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "SOP",
+      "subarea": "Ginecologia básica",
+      "sub_subarea": "",
       "enunciado": "Paciente de 23 anos foi submetido a tamponamento pélvico extraperitoneal e fixador externo devido a fratura de pelve em livro aberto após acidente com moto. Durante a cirurgia, fez uso de noradrenalina e vasopressina pela instabilidade. Recebeu 10 concentrados de hemácias, 5 de plasma fresco e 1,5 g de fibrinogênio. Os dois eletrólitos que devem ser especialmente monitorados após esse pacote de transfusão são:",
       "alternativas": {
         "A": "cálcio e potássio.",
@@ -4969,8 +4969,8 @@
     {
       "id": "pv-sír-2024-0079",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Ginecologia básica",
+      "sub_subarea": "",
       "enunciado": "Paciente de 24 anos, vítima de colisão moto x auto, apresenta pressão sistólica de 80 mmHg e FC: 120 bpm após 1 litro de ringer lactato aquecido. Intubado por queda do nível de consciência, FAST (Focused Assessment Sonoghaphy in Trauma) positivo e sondagem vesical com diurese clara. Radiografia de pelve com fratura de pelve. O protocolo de transfusão maciça, nesse caso, é:",
       "alternativas": {
         "A": "Iniciar prontamente a transfusão.",
@@ -4996,8 +4996,8 @@
     {
       "id": "pv-sír-2025-0118",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Infecções",
+      "subarea": "Infecções em ginecologia",
+      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
       "enunciado": "Atenção: Considere o caso clinico abaixo para responder à questão. Homem, 25 anos de idade, procura atendimento médico por surgimento de lesões cutâneas há aproximadamente uma semana. Relata que as lesões começaram no tronco e progrediram para palmas das mãos e plantas dos pés, associadas a adinamia cefaleia. Relata que teve relações sexuais desprotegidas com uma nova parceira há três meses. Ao exame físico encontra-se em estado geral com temperatura axilar de 37,8 °C. Na ectoscopia notam-se erupções cutâneas maculopapulares difusas, especialmente nas regiões palmar e plantar. Sem linfadenopatia inguinal. O restante do exame físico está normal. Foi iniciado o tratamento e 24 horas após a aplicação o paciente apresentou piora das lesões cutâneas, mal-estar geral, febre baixa e artralgias. A abordagem recomendada neste cenário é",
       "alternativas": {
         "A": "trocar tratamento para ceftriaxona.",
@@ -5020,8 +5020,8 @@
     {
       "id": "pv-sír-2025-0119",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Infecções",
+      "subarea": "Infecções em ginecologia",
+      "sub_subarea": "Infecções sexualmente transmissíveis (IST)",
       "enunciado": "Atenção: Considere o caso clinico abaixo para responder à questão. Homem, 25 anos de idade, procura atendimento médico por surgimento de lesões cutâneas há aproximadamente uma semana. Relata que as lesões começaram no tronco e progrediram para palmas das mãos e plantas dos pés, associadas a adinamia cefaleia. Relata que teve relações sexuais desprotegidas com uma nova parceira há três meses. Ao exame físico encontra-se em estado geral com temperatura axilar de 37,8 °C. Na ectoscopia notam-se erupções cutâneas maculopapulares difusas, especialmente nas regiões palmar e plantar. Sem linfadenopatia inguinal. O restante do exame físico está normal. Foi iniciado o tratamento e 24 horas após a aplicação o paciente apresentou piora das lesões cutâneas, mal-estar geral, febre baixa e artralgias. A abordagem recomendada neste cenário é",
       "alternativas": {
         "A": "trocar tratamento para ceftriaxona.",
@@ -5044,8 +5044,8 @@
     {
       "id": "pv-hia-2024-0070",
       "area": "Ginecologia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)",
       "enunciado": "Mulher de 48 anos apresenta oligomenorreia e hirsutismo. Foi considerada com baixa probabilidade de síndrome de Cushing mas, por segurança, optou-se por realizar testes simples para descartar tal hipótese. O exame MENOS indicado é dosagem de",
       "alternativas": {
         "A": "cortisol matinal, tendo recebido 1 mg de dexametasona na noite anterior.",
@@ -5075,8 +5075,8 @@
     {
       "id": "pv-hia-2025-0080",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Colo Uterino",
+      "subarea": "Sexualidade",
+      "sub_subarea": "",
       "enunciado": "Um paciente do sexo masculino de 37 anos de idade, portador de doença de Crohn, atualmente em uso de adalimumabe 40 mg em infusões quinzenais com bom controle de atividade de doença, perdeu seu cartão de vacinação e comparece ao centro de referência de imunobiológicos para atualização vacinal. Esse paciente pode ser vacinado com todas alternativas a seguir, EXCETO:",
       "alternativas": {
         "A": "meningocócica C em dose única.",
@@ -5106,8 +5106,8 @@
     {
       "id": "pv-hia-2025-0091",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Infecções",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "",
       "enunciado": "Paciente de 35 anos, sexo feminino, previamente hígida, admitida no Pronto-Socorro com quadro de dor abdominal em epigastro e hipocôndrios há 4 dias, associada a episódios de vômito e inapetência. Na admissão, encontrava-se em regular estado geral, FC 126 bpm, PA 95 x 60 mmHg, FR 22, peso 60 kg. Palpação abdominal com distensão leve, dor em andar superior, pior em epigastro, sem sinais de irritação peritoneal, sem massas palpáveis. Ruídos hidroaéreos presentes, mas diminuídos. Descompressão brusca negativa, sinal de Giordano negativo, sinal de Murphy negativo. Foram realizados exames laboratoriais na chegada: Hb 14 g/dL, Ht 46%, leucócitos 15500 (sem desvio), ureia 90 mg/dL (Valor de Referência – VR 8 – 20), creatinina 1,9 md/dL (VR 0,7 – 1,3), TGO 125 U/L (VR 10 – 40), TGP 98 U/L (VR 10 – 40), bilirrubinas totais 1,2 mg/dL (VR 0,2 – 1,1), bilirrubina direta 1,0 mg/dL (0 – 0,3), amilase 245 U/L (VR 25 – 125), lipase 1250 U/L (VR 10 – 140), PCR 105 mg/dL. Assinale a alternativa que apresenta a melhor conduta para essa paciente, nesse momento.",
       "alternativas": {
         "A": "Monitorização; jejum; ringer lactato – 500 mL EV, agora e de 6/6 h; dipirona 1g EV, de 6/6 h; ondansetrona – 4 mg EV, de 8/8 h; sondagem vesical de demora.",
@@ -5135,8 +5135,8 @@
     {
       "id": "pv-hia-2025-0136",
       "area": "Ginecologia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Infecções em ginecologia",
+      "sub_subarea": "Doença Inflamatória Pélvica (DIP)",
       "enunciado": "Mulher de 32 anos, sexualmente ativa, usuária de contraceptivo oral e sem método de barreira, apresenta-se ao pronto socorro hospitalar com quadro de dor pélvica progressiva de início espontâneo há 5 dias. Nega adinamia e alteração do apetite. Ao exame físico: bom estado geral, temperatura de 38,5 graus Celsius, secreção cervical purulenta, dor à mobilização do colo uterino e ao toque bimanual com palpação dos anexos. Apresenta hemograma com leucócitos de 13950/mm³ e PCR de 57 mg/L. BHCG negativo e ultrassonografia transvaginal evidenciando espessamento tubário direito e pequena quantidade de líquido livre na pelve. Diante da hipótese de doença inflamatória pélvica aguda, neste caso, recomenda-se",
       "alternativas": {
         "A": "antibioticoterapia de amplo espectro via oral, por 14 dias, com reavaliação clínica em 3 dias.",
@@ -5169,8 +5169,8 @@
     {
       "id": "pv-df-2024-0032",
       "area": "Ginecologia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)",
       "enunciado": "Uma paciente de 25 anos de idade tem ciclos menstruais irregulares com intervalos maiores que 30 dias e duração de oito dias, sem uso de anticoncepcional. Apresenta índice de Ferriman de 9. No que se refere a esse caso, assinale a alternativa correta.",
       "alternativas": {
         "A": "O diagnóstico de síndrome dos ovários micropolicísticos pode ser realizado de acordo com os critérios de Roterdã, desde que sejam descartados os outros diagnósticos, como alterações tireoidianas e a forma tardia da deficiência de 21 hidroxilase.",
@@ -5202,8 +5202,8 @@
     {
       "id": "pv-df-2025-0151",
       "area": "Ginecologia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "enunciado": "Uma paciente de 27 anos de idade, em consulta de rotina, assintomática, realizou exame preventivo com o diagnóstico de ASCUS. A mencionada paciente foi submetida a uma biópsia de colo uterino, que demonstrou carcinoma escamoso com invasão de 4 mm. Qual é o estadiamento?",
       "alternativas": {
         "A": "1A1",
@@ -5231,8 +5231,8 @@
     {
       "id": "pv-df-2025-0158",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "enunciado": "Uma paciente de 36 anos de idade apresenta ciclos persistentes, com volume aumentado de início há um ano, associado a dismenorreia frequente, sem repercussão hemodinâmica no atendimento ambulatorial. Acerca do manejo inicial da paciente com sangramento uterino anormal, assinale a alternativa correta.",
       "alternativas": {
         "A": "O uso de anti-inflamatórios não esteroidais e o ácido tranexâmico auxiliam no controle do sangramento em torno de 50% dos casos.",
