@@ -5602,8 +5602,8 @@
     {
       "id": "pv-amr-2025-0142",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "enunciado": "Paciente de 34 anos vem à consulta por sangramento uterino anormal há 2 meses. No exame físico especular, foi identificada uma lesão polipoide, friável, extruindo pelo colo uterino. A paciente tem dosagem de progesterona de 4 ng/ml (valores de normalidade após a ovulação = 5 a 20 ng/ml). A hipótese diagnóstica mais provável e a conduta adequada são, respectivamente:",
       "alternativas": {
         "A": "Câncer de colo uterino – realizar citopatológico.",
@@ -5631,8 +5631,8 @@
     {
       "id": "pv-uer-2024-0044",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Infertilidade conjugal",
       "enunciado": "Abortamento de repetição é um dos maiores desafios da medicina reprodutiva, cuja dificuldade de identificação da causa pode levar a tratamentos ineficazes e sem comprovação científica, que não alteram o prognóstico. Entre as causas de abortamento de repetição, encontra-se:",
       "alternativas": {
         "A": "mioma subseroso",
@@ -5660,8 +5660,8 @@
     {
       "id": "pv-uer-2024-0046",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "SOP",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "",
       "enunciado": "Paciente de 30 anos, com estenose mitral valvar com área valvar de 20mm, evolui no primeiro dia pós-parto com queixa de dispneia e ortopneia. Ao exame, encontra-se com PA = 100 x 60mmHg, FC = 100bpm, FR = 28irpm e afebril; aparelho cardiovascular: ritmo cardíaco regular em dois tempos, sinusal, sopro diastólico 3+/6+; aparelho respiratório: murmúrio vesicular universalmente audível com estertores bolhosos bibasais; abdômen flácido e indolor, útero contraído ao nível da cicatriz umbilical; lóquios fisiológicos. De acordo com o quadro clínico descrito, a principal modificação do organismo materno responsável pela complicação observada é:",
       "alternativas": {
         "A": "diminuição da capacidade residual funcional pulmonar",
@@ -5683,8 +5683,8 @@
     {
       "id": "pv-fam-2024-0033",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Infertilidade conjugal",
       "enunciado": "Casal procura o ambulatório de Infertilidade, pois deseja engravidar há um ano. Ela com 28 anos e diagnóstico de Endometriose profunda. Ele com 30 anos e diagnóstico de oligospermia leve, fumante. Qual a conduta a ser adotada?",
       "alternativas": {
         "A": "Fertilização in vitro",
@@ -5712,8 +5712,8 @@
     {
       "id": "pv-fam-2024-0035",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Paciente de 27 anos, nulípara, procura ambulatório de planejamento familiar para orientação quanto ao DIU. Refere ciclos menstruais regulares, com fluxo moderado e cólica. Nega comorbidades. Com relação ao dispositivo intra-uterino, é correto afirmar:",
       "alternativas": {
         "A": "Somente podem usar esse método as mulheres que já têm filhos.",
@@ -5743,8 +5743,8 @@
     {
       "id": "pv-fam-2025-0111",
       "area": "Ginecologia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Mulher de 20 anos de idade, procura ambulatório de Planejamento Familiar para orientação sobre os métodos contraceptivos. Com relação ao Planejamento Familiar é correto afirmar:",
       "alternativas": {
         "A": "O Planejamento familiar no Brasil ocorreu a partir de discussões e conferencias estaduais e foi oficializada a partir de 1968",
@@ -5766,8 +5766,8 @@
     {
       "id": "pv-sp-2024-0022",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "enunciado": "Quanto às causas de abortamento habitual, assinale a alternativa correta.",
       "alternativas": {
         "A": "São causas de abortamento habitual os fatores anatômicos, como os miomas, as sinéquias e as malformações uterinas, os fatores genéticos, incluindo anomalias cromossômicas; e os fatores endócrinos, como, por exemplo, a insuficiência lútea e diabetes.",
@@ -5798,8 +5798,8 @@
     {
       "id": "pv-sp-2024-0039",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "SOP",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)",
       "enunciado": "Uma paciente de 29 anos de idade, com diagnóstico de síndrome dos ovários policísticos (SOP) e infertilidade, deseja engravidar. Ela tem IMC de 32 kg/m² e relata ciclos menstruais irregulares. Com base nessa situação hipotética, assinale a alternativa que apresenta a primeira linha de tratamento para a paciente.",
       "alternativas": {
         "A": "clomifeno",
@@ -5833,8 +5833,8 @@
     {
       "id": "pv-uni-2024-0056",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Infecções em ginecologia",
+      "sub_subarea": "Doença Inflamatória Pélvica (DIP)",
       "enunciado": "Mulher, 33 anos de idade, casada há 5 anos, com infertilidade conjugal há 3 anos. O marido é saudável e tem 36 anos de idade. A paciente tem ciclos eumenorreicos e nega dismenorreia. Refere 1 abortamento aos 17 anos de idade. Baseado na imagem anexa, qual é a provável etiologia da infertilidade?",
       "alternativas": {
         "A": "Fator uterino por sequela de aborto infectado.",
@@ -5871,8 +5871,8 @@
     {
       "id": "pv-uni-2025-0170",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Mulher, 26 anos de idade, 3G 3 partos normais, vem ao ambulatório solicitar método contraceptivo. Refere fluxo menstrual abundante com 10 dias de duração acompanhado de cólica menstrual forte nos 3 primeiros dias. Ultrassonografia pélvica: útero com volume 180 mL, presença de nódulo intramural medindo 35x30 mm com distorção do eco endometrial de 10 mm, ovário direito volume 8 mL e ovário esquerdo com cisto simples 20x25 mm e volume 15mL. Qual dos métodos contraceptivos é o mais adequado?",
       "alternativas": {
         "A": "Injetável com estradiol e medroxiprogesterona.",
@@ -5900,8 +5900,8 @@
     {
       "id": "pv-sír-2024-0014",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "SF, 25 anos, casada, está na 25ª semana de sua terceira gestação. Apresentou um aborto anterior e dois partos normais. O pai dos filhos anteriores não ajuda na criação e nem paga pensão e ela está preocupada com as despesas e não gostaria de ter mais filhos. Refere ter vontade de realizar esterilização cirúrgica voluntária (laqueadura) durante o período de parto. De acordo com a legislação atual, a melhor conduta para essa paciente é:",
       "alternativas": {
         "A": "encaminhar para o programa de planejamento familiar multidisciplinar.",
@@ -5926,8 +5926,8 @@
     {
       "id": "pv-sír-2024-0027",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Infecções",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Climatério e menopausa",
       "enunciado": "Segundo o protocolo da Febrasgo, em mulher com hipertensão arterial crônica, as opções medicamentosas de primeira linha para uso na gravidez e no aleitamento são, respectivamente,",
       "alternativas": {
         "A": "nifedipina e alfametildopa.",
