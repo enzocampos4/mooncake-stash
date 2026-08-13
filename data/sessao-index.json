@@ -20945,8 +20945,8 @@
   "s14-062": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -20954,8 +20954,8 @@
   "s14-089": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Cancro mole, sífilis, gonorreia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -20963,8 +20963,8 @@
   "s3-080": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -20972,8 +20972,8 @@
   "s5-005": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -20981,8 +20981,8 @@
   "s5-063": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Neoplasia intraepitelial cervical (NIC)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -20990,8 +20990,8 @@
   "s5-068": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Ginecologia básica",
+    "subsub": "Exames complementares (USG, histerossalpingografia)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -20999,8 +20999,8 @@
   "s1-046": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Cancro mole, sífilis, gonorreia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21008,8 +21008,8 @@
   "s1-057": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -21017,8 +21017,8 @@
   "s3-025": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -21026,8 +21026,8 @@
   "s5-026": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -21035,8 +21035,8 @@
   "s9-033": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -21044,8 +21044,8 @@
   "s9-098": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Amenorreia",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
