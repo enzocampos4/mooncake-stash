@@ -19325,8 +19325,8 @@
   "pv-uer-2024-0058": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -19334,8 +19334,8 @@
   "pv-uer-2025-0143": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -19343,8 +19343,8 @@
   "pv-uer-2025-0157": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Infertilidade",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -19352,8 +19352,8 @@
   "pv-hcp-2025-0137": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Anticoncepção",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -19361,8 +19361,8 @@
   "pv-hcp-2025-0174": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -19370,8 +19370,8 @@
   "pv-fam-2024-0011": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP",
+    "sub": "Ginecologia básica",
+    "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -19379,8 +19379,8 @@
   "pv-fam-2024-0034": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Síndrome dos Ovários Policísticos (SOP)",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -19388,8 +19388,8 @@
   "pv-fam-2024-0037": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -19397,8 +19397,8 @@
   "pv-fam-2024-0038": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -19406,8 +19406,8 @@
   "pv-fam-2025-0107": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -19415,8 +19415,8 @@
   "pv-fam-2025-0112": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Infertilidade",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Infertilidade conjugal",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -19424,8 +19424,8 @@
   "pv-fam-2025-0113": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Síndrome dos Ovários Policísticos (SOP)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
