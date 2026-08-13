@@ -19649,8 +19649,8 @@
   "pv-hia-2025-0134": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Endometriose",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -19658,8 +19658,8 @@
   "pv-hia-2025-0135": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -19667,8 +19667,8 @@
   "pv-df-2024-0035": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -19676,8 +19676,8 @@
   "pv-df-2024-0036": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -19685,8 +19685,8 @@
   "pv-df-2024-0040": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -19694,8 +19694,8 @@
   "pv-df-2024-0073": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Ginecologia básica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -19703,8 +19703,8 @@
   "pv-df-2025-0159": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -19712,8 +19712,8 @@
   "pv-ba-2025-0085": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -19721,8 +19721,8 @@
   "pv-ba-2025-0086": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -19730,8 +19730,8 @@
   "pv-ba-2025-0087": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Menopausa",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -19739,8 +19739,8 @@
   "pv-ena-2024-0027": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Doença Inflamatória Pélvica (DIP)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -19748,8 +19748,8 @@
   "pv-ena-2024-0028": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Ovário",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de ovário",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
