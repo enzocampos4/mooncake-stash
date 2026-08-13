@@ -1751,8 +1751,8 @@
     {
       "id": "pv-amr-2025-0149",
       "area": "Obstetrícia",
-      "subarea": "Puerpério",
-      "sub_subarea": "Hemorragia",
+      "subarea": "Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Durante o parto, no momento em que o feto desprende o ombro anterior, o médico deve:",
       "alternativas": {
         "A": "Solicitar que seja administrado 10 UI de ocitocina por via intramuscular para prevenir a hemorragia pós-parto.",
@@ -1780,8 +1780,8 @@
     {
       "id": "pv-amr-2025-0152",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Uma mulher de 24 anos foi submetida a parto cesáreo, há três dias, por parada do trabalho de parto. Após a cesárea, permaneceu 10 horas com sondagem vesical de demora. Hoje, vem à consulta por apresentar febre de 38,8°C. Nega tosse ou disúria. Ao exame físico, as mamas apresentam saída espontânea de leite. Não há dor na região costovertebral ou na incisão cutânea. O fundo uterino está acima da cicatriz umbilical e é doloroso. Considerando o caso apresentado, o diagnóstico mais provável e a conduta são, respectivamente:",
       "alternativas": {
         "A": "Endometrite – antibioticoterapia.",
@@ -1809,8 +1809,8 @@
     {
       "id": "pv-ufr-2024-0061",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
+      "sub_subarea": "",
       "enunciado": "Gestante, 25 anos, 21ª semana de gestação gemelar, com esquistossomose hepatoesplênica, é internada em trabalho de parto prematuro. Após episódio de hematêmese, apresenta hipotensão arterial sistêmica e sudorese. Conduta: oxigenioterapia; reposição volêmica e monitorização. Paciente evoluiu com parada cardiorrespiratória em assistolia. Pode-se afirmar que é correto o líder da equipe de reanimação cardiopulmonar (RCP):",
       "alternativas": {
         "A": "coordenar as compressões cardíacas externa com as ventilação bolsa-válvulamáscara e não solicitar desvio do útero para esquerda (indicado apenas após 25º semana de gestação)",
@@ -1832,8 +1832,8 @@
     {
       "id": "pv-ufr-2024-0067",
       "area": "Obstetrícia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Parto",
+      "sub_subarea": "Distócias",
       "enunciado": "Pode-se afirmar que representa um fator de risco para laceração perineal durante o parto:",
       "alternativas": {
         "A": "peso fetal > 3.800g",
@@ -1856,7 +1856,7 @@
       "id": "pv-ufr-2024-0068",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Distócias",
       "enunciado": "Pode-se afirmar que é uma condição que eleva o risco da ruptura uterina durante o trabalho de parto vaginal de mulheres que se submeteram à cesárea, anteriormente:",
       "alternativas": {
         "A": "idade gestacional > 41 semanas",
@@ -1884,8 +1884,8 @@
     {
       "id": "pv-ufr-2024-0069",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Parto",
+      "sub_subarea": "Via de parto (normal vs cesárea)",
       "enunciado": "Em face dos maiores riscos do parto na apresentação pélvica (AP), uma alternativa é a transformação da AP em apresentação cefálica por meio de manobras externas, o que constitui a versão cefálica externa (VCE). Pode-se afirmar que a condição na qual a VCE deve ser evitada é:",
       "alternativas": {
         "A": "diabetes melitus",
@@ -1914,7 +1914,7 @@
       "id": "pv-ufr-2024-0083",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Mecanismo do parto",
       "enunciado": "Pode-se afirmar que, para a construção do partograma, o registro gráfico deve ser iniciado quando a parturiente estiver na fase ativa do trabalho de parto (duas a três contrações generalizadas em 10 minutos) e dilatação cervical mínima, em centímetros, de:",
       "alternativas": {
         "A": "4",
@@ -1943,7 +1943,7 @@
       "id": "pv-ufr-2025-0229",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Nutrição e suplementação",
       "enunciado": "Mulher, 40 anos, Gesta 2, Para 1 (parto normal há 12 anos), inicia o pré-natal com 8 semanas de idade gestacional (IG), com IMC = 32,9kg/m². Pode-se afirmar que a recomendação para o ganho de peso total em quilos na gravidez é de:",
       "alternativas": {
         "A": "11,5 a 16",
@@ -1972,7 +1972,7 @@
       "id": "pv-ufr-2025-0235",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Mecanismo do parto",
       "enunciado": "Mulher, primigesta, IG = 39 semanas, é admitida em pródromos de trabalho de parto, com contrações esparsas, fundo uterino = 37cm, batimentos cardiofetais (BCF) = 136bpm e regulares, situação longitudinal e apresentação cefálica. Em relação à estática fetal, pode-se afirmar que esta apresentação está ajustada e encaixada devido a:",
       "alternativas": {
         "A": "não estar em contato com o estreito superior",
@@ -1994,8 +1994,8 @@
     {
       "id": "pv-ufr-2025-0237",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Cardiotocografia",
       "enunciado": "Durante o trabalho de parto de uma tercípara, a termo, situação longitudinal, apresentação cefálica, dorso anterior, já no final do período de dilatação, com dilatação do colo = 7cm, altura 0 de De Lee, 4 contrações/10 minutos com duração de 40 segundos e com variedade de posição occipto-esquerda posterior, a equipe médica resolveu realizar uma cardiotocografia. Resultado: linha de base = 95bpm; variabilidade reduzida e desacelerações repetitivas tardias por > 30 minutos. Pode-se afirmar que esse resultado da cardiotocografia configura uma categoria:",
       "alternativas": {
         "A": "IV",
@@ -2024,7 +2024,7 @@
       "id": "pv-ufr-2025-0242",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Mecanismo do parto",
       "enunciado": "Pode-se afirmar, ao analisar o partograma a seguir, que ele indica:",
       "alternativas": {
         "A": "fase ativa prolongada",
@@ -2052,8 +2052,8 @@
     {
       "id": "pv-uer-2024-0049",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Gestante na 15ª semana de gravidez, com diagnóstico de lúpus eritematoso sistêmico há oito anos, procura atendimento na emergência devido a edema generalizado e à elevação da pressão arterial. Relata uso prévio de azatioprina e hidroxicloroquina, ambos suspensos quando descobriu a gestação. Ao exame físico, apresenta: PA = 170 x 110mmHg, AFU = 14cm, BCF = 144bpm, edema de mãos, dos membros inferiores e da face. O exame laboratorial colhido há uma semana pelo pré-natal demonstra redução dos níveis séricos de complemento e anti-DNA de dupla hélice elevado. Os exames colhidos na emergência evidenciam spot urinário de 4,3mg/dL com sedimentoscopia mostrando hematúria dismórfica. Nesse caso, a medicação que deve ser iniciada para resolução do quadro agudo é:",
       "alternativas": {
         "A": "sulfato de magnésio",
