@@ -21162,7 +21162,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -21170,8 +21170,8 @@
   "s11-032": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -21180,7 +21180,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Imunização na gestação",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -21188,8 +21188,8 @@
   "s11-058": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -21197,7 +21197,7 @@
   "s11-071": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Gestação de Alto Risco",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -21206,8 +21206,8 @@
   "s11-074": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Medicina fetal",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -21215,8 +21215,8 @@
   "s11-089": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -21224,8 +21224,8 @@
   "s11-099": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Cardiopatia na gestação",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -21233,8 +21233,8 @@
   "s14-006": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
+    "sub": "Pré-natal",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -21242,8 +21242,8 @@
   "s14-026": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Gestação de Alto Risco",
-    "subsub": "",
+    "sub": "Pré-natal",
+    "subsub": "Nutrição e suplementação",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -21251,8 +21251,8 @@
   "s14-058": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -21260,8 +21260,8 @@
   "s14-065": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Obstetrícia fisiológica",
+    "subsub": "Fisiologia da gestação",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
