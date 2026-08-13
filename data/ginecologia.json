@@ -2796,8 +2796,8 @@
     {
       "id": "pv-uni-2025-0167",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
       "enunciado": "Mulher, 48 anos de idade, submeteu-se à histerectomia total abdominal por mioma uterino há 4 meses. Refere ter realizado conização por NIC 3 com margens livres há 8 anos. Segundo as Diretrizes Brasileiras para o rastreamento do câncer do colo do útero a conduta é:",
       "alternativas": {
         "A": "Descontinuar o exame citológico.",
@@ -2819,8 +2819,8 @@
     {
       "id": "pv-uni-2025-0173",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Infertilidade",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Infertilidade conjugal",
       "enunciado": "Um casal formado por um homem de 28 anos de idade e uma mulher nuligesta de 27 anos idade, refere 2 anos de tentativas de gestação. Ele, com histórico de uretrite tratada, exame físico sem alterações e espermograma normal. Ela, saudável, com ciclos menstruais regulares, sem queixas de dismenorreia ou dispareunia e com exame físico sem alterações. Qual é o próximo exame na investigação da infertilidade desse casal?",
       "alternativas": {
         "A": "Avaliação hormonal para ele.",
@@ -2848,8 +2848,8 @@
     {
       "id": "pv-sír-2024-0034",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "enunciado": "A adenomiose",
       "alternativas": {
         "A": "pode ter origem em metaplasia de resquícios mullerianos presentes no miométrio.",
@@ -2877,8 +2877,8 @@
     {
       "id": "pv-sír-2024-0038",
       "area": "Ginecologia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Amenorreia",
       "enunciado": "Mulher de 17 anos de idade, procura atendimento porque ainda não menstruou. Tem caracteres sexuais desenvolvidos (P3M3) e nunca teve relação sexual. Nega outras queixas, como dor pélvica, aumento de pelos e acne. Refere que tentou usar por 10 dias acetato de medroxiprogesterona prescrito pelo ginecologista, e mesmo assim não menstruou. A hipótese diagnóstica para a falta de menstruação nesse momento é de",
       "alternativas": {
         "A": "hímen imperfurado.",
@@ -2901,8 +2901,8 @@
     {
       "id": "pv-sír-2024-0048",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "SOP",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "",
       "enunciado": "Adolescente, sexo feminino, 14 anos de idade, com IMC de 34, é levado ao PS com queixa de tontura, dor de cabeça e sensação de \"aperto no peito\". Ao exame, paciente apresentava-se em regular estado geral, queixando-se de muita dor de cabeça, orientada no tempo e espaço, corada, hidratada, eupneica (16 irpm), acianótica, afebril, levemente taquicárdica (120 bpm) e hipertensa (180 x 110 mmHg). Aparelho respiratório com murmúrio vesicular presente, sem ruídos adventícios. Aparelho cardiovascular com rítmo cardíaco regular em 2 tempos, bulhas normofonéticas, sem presença de sopros. Abdome globoso, flácido, indolor à palpação, fígado e baço não palpáveis, com ruídos hidroaéreos presentes. Pulsos palpáveis em extremidades. Agitada com sensação de opressão no peito. Realizado ECG que estava normal. Entre as condutas abaixo, a melhor nesse momento para essa paciente é:",
       "alternativas": {
         "A": "Captopril sublingual, com diminuição da PA em até 25% na primeira 1 hora de tratamento.",
@@ -2925,8 +2925,8 @@
     {
       "id": "pv-sír-2025-0114",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Infecções",
+      "subarea": "Sexualidade",
+      "sub_subarea": "",
       "enunciado": "Homem, 57 anos de idade, comparece em consulta de retorno ambulatorial, apresenta hipertensão arterial sistémica e faz uso regular de enalapril, clortalidona e anlodipina, todos em doses otimizadas. Ele não tem queixas, está aderindo ao tratamento, dorme 7 horas por dia, não lem sonolência diurna. Exame fisico: PA: 152 × 94 mmHg, FC: 72 bpm, IMC: 27,8 kg/m², sem outras anormalidades. Um MAPA confirmou o achado de hipertensão. Dentre as abaixo, a melhor proposta terapêutica neste momento, é:",
       "alternativas": {
         "A": "Isossorbida.",
@@ -3023,8 +3023,8 @@
     {
       "id": "pv-sír-2025-0165",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Mama",
+      "subarea": "Mastologia",
+      "sub_subarea": "Exame das mamas e rastreio (USG, mamografia)",
       "enunciado": "O médico da UBS atende uma paciente de 58 anos de idade que traz a mamografia para ser analisada, laudada como categoria Bi-Rads 0. O seu exame do ano anterior era categoria Bi- Rads 2. Ela refere que a tia paterna teve câncer de mama aos 40 anos de idade, vindo a falecer da doença. O exame fisico de mamas não tem alterações. Deve-se orientar a paciente que",
       "alternativas": {
         "A": "é necessário realizar outro exame, como ultrassonografia, antes de informar o risco de neoplasia.",
