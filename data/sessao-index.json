@@ -21701,8 +21701,8 @@
   "pv-amr-2025-0149": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Puerpério",
-    "subsub": "Hemorragia",
+    "sub": "Parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -21710,8 +21710,8 @@
   "pv-amr-2025-0152": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -21719,8 +21719,8 @@
   "pv-ufr-2024-0061": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -21728,8 +21728,8 @@
   "pv-ufr-2024-0067": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Parto",
+    "subsub": "Distócias",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -21738,7 +21738,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Distócias",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -21746,8 +21746,8 @@
   "pv-ufr-2024-0069": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Parto",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -21756,7 +21756,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Mecanismo do parto",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -21765,7 +21765,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Nutrição e suplementação",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -21774,7 +21774,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Mecanismo do parto",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -21782,8 +21782,8 @@
   "pv-ufr-2025-0237": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Medicina fetal",
+    "subsub": "Cardiotocografia",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -21792,7 +21792,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Mecanismo do parto",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -21800,8 +21800,8 @@
   "pv-uer-2024-0049": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
