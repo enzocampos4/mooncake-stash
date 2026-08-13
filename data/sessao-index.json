@@ -19217,8 +19217,8 @@
   "pv-amr-2025-0140": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Ginecologia básica",
+    "subsub": "Anatomia ginecológica",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -19226,8 +19226,8 @@
   "pv-ufr-2024-0076": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "SOP",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Síndrome dos Ovários Policísticos (SOP)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -19235,8 +19235,8 @@
   "pv-ufr-2024-0078": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Endometriose",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -19244,8 +19244,8 @@
   "pv-ufr-2024-0082": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Infecções",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Doença Inflamatória Pélvica (DIP)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -19253,8 +19253,8 @@
   "pv-ufr-2024-0087": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -19262,8 +19262,8 @@
   "pv-ufr-2025-0215": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -19271,8 +19271,8 @@
   "pv-ufr-2025-0219": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -19280,8 +19280,8 @@
   "pv-ufr-2025-0223": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Mastologia",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -19289,8 +19289,8 @@
   "pv-ufr-2025-0226": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Anticoncepção",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Doença Inflamatória Pélvica (DIP)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -19298,8 +19298,8 @@
   "pv-ufr-2025-0227": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -19307,8 +19307,8 @@
   "pv-uer-2024-0003": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Mama",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -19316,8 +19316,8 @@
   "pv-uer-2024-0051": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "Mioma",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de endométrio",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"

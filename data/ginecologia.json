@@ -2092,8 +2092,8 @@
     {
       "id": "pv-uer-2024-0058",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Mama",
+      "subarea": "Mastologia",
+      "sub_subarea": "Exame das mamas e rastreio (USG, mamografia)",
       "enunciado": "Mulher de 52 anos, que nunca realizou mamografia anteriormente, apresenta laudo de BI- RADS 3. No rastreamento do câncer de mama, esse achado indica:",
       "alternativas": {
         "A": "malignidade conhecida",
@@ -2121,8 +2121,8 @@
     {
       "id": "pv-uer-2025-0143",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Mama",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Uma mulher de 38 anos, com hipertensão controlada e história de câncer de mama tratado há seis anos, deseja método contraceptivo. Tem exame ginecológico normal e, atualmente, nenhum sinal de retorno da doença. Deve-se orientar que, devido à sua condição, o método indicado é:",
       "alternativas": {
         "A": "implante de etonorgestrel",
@@ -2152,8 +2152,8 @@
     {
       "id": "pv-uer-2025-0157",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Infertilidade",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Sangramento uterino anormal (SUA)",
       "enunciado": "Paciente de 28 anos, primigesta, com sete semanas pela DUM, é atendida na emergência com quadro de sangramento vaginal de pequena intensidade, iniciado há uma semana e associado à dor pélvica. Refere tratamento para infertilidade, tendo feito indução de ovulação para essa gestação. Ao exame obstétrico, está normocorada, hidratada, anictérica, acianótica, com PA = 100x60mmHg e FC = 72bpm; verifica-se abdômen flácido, peristáltico e sem sinais de irritação peritoneal; toque vaginal revela útero intrapélvico, doloroso à mobilização, sem massas palpáveis. A paciente realizou ultrassonografia transvaginal por indicação do seu obstetra após início do sangramento, procedimento que não identificou saco gestacional intrauterino ou massa anexial, nem líquido em fundo de saco posterior. Nesse caso, a principal hipótese diagnóstica é reforçada pelo(a):",
       "alternativas": {
         "A": "culdocentese negativa",
@@ -2183,8 +2183,8 @@
     {
       "id": "pv-hcp-2025-0137",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Anticoncepção",
+      "subarea": "Sexualidade",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "enunciado": "Assinale a assertiva correta sobre a contracepção.",
       "alternativas": {
         "A": "Durante o puerpério e a amamentação, a contracepção de emergência (1,5 mg de levonorgestrel, em dose única, usado em caso de falha da contracepção usual) está contraindicada, mesmo para pacientes sem comorbidades.",
@@ -2206,8 +2206,8 @@
     {
       "id": "pv-hcp-2025-0174",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Menopausa",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Climatério e menopausa",
       "enunciado": "Paciente feminina, de 73 anos, veio à consulta de rotina queixando-se de dor lombar, iniciada há aproximadamente 2 semanas após uma queda da própria altura em casa. Relatou fazer atividade física regularmente e tentar manter hábitos de vida saudáveis, tendo como base uma dieta vegana. Não havia história de fraturas prévias. A menopausa ocorrera aos 43 anos, sem uso de terapia de reposição hormonal. Submetia-se a tratamento para câncer de mama com inibidor de aromatase há 2 anos e negou uso de outros medicamentos. Trouxe raio X de coluna recente, evidenciando fratura moderada de T12 e L1. Diante do quadro, qual a conduta inicial mais adequada?",
       "alternativas": {
         "A": "Solicitar densitometria óssea para confirmar o diagnóstico de osteoporose.",
@@ -2237,8 +2237,8 @@
     {
       "id": "pv-fam-2024-0011",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "SOP",
+      "subarea": "Ginecologia básica",
+      "sub_subarea": "",
       "enunciado": "MS, 48 anos, masculino, compareceu ao cardiologista para exames de rotina. Refere estar assintomático e nega uso de medicações. Ao exame físico, PA = 135/84 mmHg; FC = 89 bpm; Murmúrio vesicular presente e normodistribuído e ausência de ruídos adventícios; Presença de 2 bulhas rítmicas e normofonéticas, sem sopros; Ausência e edema de membros inferiores. Eletrocardiograma em ritmo sinusal, com R (AVL) + S (V3) = 29 mm. Quais exames a serem solicitados?",
       "alternativas": {
         "A": "Solicitar ressonância cardíaca.",
@@ -2260,8 +2260,8 @@
     {
       "id": "pv-fam-2024-0034",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "Mioma",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)",
       "enunciado": "Paciente com 15 anos, menarca aos 11 anos, queixa-se de irregularidade menstrual desde o inicio, com ciclos de 35 dias e duração de 7 dias de sangramento. Refere discreta cólica durante o período menstrual, necessitando do uso de analgésicos. Submetida a ultrassonografia pélvica apresentou: útero em AVF com volume e textura normais; ovários com aspecto multicístico, volume de 8 e 9 cm3 cada, e contendo 12 folículos antrais dispersos na periferia em ambos os ovários. Qual a hipótese diagnóstica correta?",
       "alternativas": {
         "A": "Endometriose",
@@ -2289,8 +2289,8 @@
     {
       "id": "pv-fam-2024-0037",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Menopausa",
+      "subarea": "Ginecologia geral",
+      "sub_subarea": "Climatério e menopausa",
       "enunciado": "Paciente MB, 48 anos, menopausa aos 45 anos sem nunca ter realizado terapia de reposição hormonal, assintomática. Traz uma Ultrassonografia transvaginal com linha endometrial de 4 mm. Qual a melhor conduta?",
       "alternativas": {
         "A": "Histeroscopia",
@@ -2321,8 +2321,8 @@
     {
       "id": "pv-fam-2024-0038",
       "area": "Ginecologia",
-      "subarea": "Oncologia Ginecológica",
-      "sub_subarea": "Mama",
+      "subarea": "Mastologia",
+      "sub_subarea": "Câncer de mama",
       "enunciado": "Paciente de 60 anos, menopausada há 12 anos, com uma mamografia classificação BIRADS 5. O que significa essa classificação?",
       "alternativas": {
         "A": "Lesão que deverá ser reavaliada em 6 meses",
@@ -2352,8 +2352,8 @@
     {
       "id": "pv-fam-2025-0107",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Menopausa",
+      "subarea": "Oncologia ginecológica",
+      "sub_subarea": "Câncer de endométrio",
       "enunciado": "Paciente de 54 anos, menopausada aos 49 anos, nega uso de Terapia Hormonal, apresentou 2 episódios de sangramento vaginal no último mês. Qual das alternativas abaixo está incorreta?",
       "alternativas": {
         "A": "Atrofia vaginal é a principal hipótese diagnóstica",
@@ -2381,8 +2381,8 @@
     {
       "id": "pv-fam-2025-0112",
       "area": "Ginecologia",
-      "subarea": "Reprodução / Climatério",
-      "sub_subarea": "Infertilidade",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Infertilidade conjugal",
       "enunciado": "Na avaliação do fator ovulatório da infertilidade conjugal está correto considerar:",
       "alternativas": {
         "A": "A dosagem do hormônio antimülleriano (HAM) > 5,5 ng/ml indica risco de hiper-resposta ovariana.",
@@ -2404,8 +2404,8 @@
     {
       "id": "pv-fam-2025-0113",
       "area": "Ginecologia",
-      "subarea": "Ginecologia Geral",
-      "sub_subarea": "SOP",
+      "subarea": "Ginecologia endócrina",
+      "sub_subarea": "Síndrome dos Ovários Policísticos (SOP)",
       "enunciado": "Jovem de 15 anos de idade, mulher cisgênero, menarca aos 11 anos, nuligesta, não iniciou atividade sexual, refere apresentar três a quatro ciclos menstruais por ano desde a menarca, está em amenorreia há 95 dias e relata o aparecimento acne refratária a tratamento dermatológico tópico, aumento dos pelos na face e no abdome e oleosidade da pele. Em relação ao quadro clínico é correto afirmar:",
       "alternativas": {
         "A": "A presença de oligomenorreia e hiperandrogenismo sugere a hipótese diagnóstica de sindrome de ovários policísticos (SOP).",
