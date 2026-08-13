@@ -20,9 +20,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Parto",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Via de parto (normal vs cesárea)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -40,9 +40,9 @@
       "explicacao": "A sorologia para o rastreamento de HTLV na gestação tornou-se obrigatória em todo o território nacional em 2025, com o objetivo de reduzir\na transmissão vertical dessa doença. A triagem pré-natal está indicada pelo Ministério da Saúde para todas as gestantes na primeira consulta\nde pré-natal, de preferência no primeiro trimestre de gestação.\nA transmissão vertical do HTLV ocorre principalmente pela amamentação, responsável por mais de 85% dos casos de transmissão vertical\nno Brasil. A transmissão transplacentária é rara, em menos de 5% dos casos, e a transmissão durante o trabalho de parto e o parto é ainda\nmenos frequente.\nO diagnóstico de HTLV é feito por meio de exames de sangue, inicialmente por um teste de triagem (como ELISA ou CMIA) e, se reativo, é\nconfirmado por testes mais específicos (como Western Blot ou Imunoblot). Caso o teste confirmatório venha inconclusivo, deve-se realizar\num teste molecular para confirmar o diagnóstico. Lembre-se: para o diagnóstico, é preciso dois testes reagentes!\nNão existe vacina ou tratamento para curar a infecção pelo HTLV. No entanto, a identificação da gestante infectada é crucial, para diminuir a\n\nEstratégia\nMED\n76\ntransmissão vertical durante o parto e, principalmente, durante a amamentação.\nA cesariana é recomendada quando a gestante apresenta diagnóstico confirmado de HTLV. Em relação à amamentação, a infecção confirmada\npelo HTLV-1/2 constitui contraindicação absoluta ao aleitamento materno, devendo ser realizada inibição da lactação com cabergolina 0,5\nmg, dois comprimidos dose única.\nIncorreta a alternativa A, pois o diagnóstico não foi confirmado.\nCorreta a alternativa B, pois a paciente precisa de confirmação com teste molecular.\nIncorreta a alternativa C, pois, se for confirmado o diagnóstico, o MS recomenda parto cesáreo.\nIncorreta a alternativa D, pois o HTLV contraindica a amamentação e a via de parto vaginal.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Pré-natal",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Imunização na gestação",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -64,7 +64,7 @@
       "_edicao": "1",
       "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Rastreio de aneuploidias e malformações",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -86,9 +86,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Gestação de Alto Risco",
+      "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -108,10 +108,10 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
       "banca": "ESTRATÉGIA MED",
-      "sub_subarea": ""
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)"
     },
     {
       "id": "s1-041",
@@ -130,7 +130,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Gestação de Alto Risco",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "_area_slug": "obstetricia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -154,7 +154,7 @@
       "_edicao": "1",
       "subarea": "Parto",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -174,9 +174,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Gestação de Alto Risco",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -196,7 +196,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Parto",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "_area_slug": "obstetricia",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -218,9 +218,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Parto",
+      "subarea": "Medicina fetal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -240,9 +240,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Parto",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -266,7 +266,7 @@
       "_edicao": "1",
       "subarea": "Puerpério",
       "_area_slug": "obstetricia",
-      "sub_subarea": "Infecção",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "banca": "ESTRATÉGIA MED"
     },
     {
