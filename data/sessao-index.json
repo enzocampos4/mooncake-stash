@@ -21485,8 +21485,8 @@
   "s9-037": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Gestação de Alto Risco",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -21494,8 +21494,8 @@
   "s9-052": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Parto",
+    "subsub": "Mecanismo do parto",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -21504,7 +21504,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Rastreio de aneuploidias e malformações",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -21512,8 +21512,8 @@
   "s9-081": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
+    "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -21522,7 +21522,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Puerpério",
-    "subsub": "Hemorragia",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -21530,8 +21530,8 @@
   "pv-ena-2024-0038": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -21539,8 +21539,8 @@
   "pv-ena-2025-0173": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "DMG",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -21548,7 +21548,7 @@
   "pv-pe-2024-0010": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SES-PE",
     "ano": 2024,
@@ -21557,8 +21557,8 @@
   "pv-pe-2024-0013": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -21567,7 +21567,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Mecanismo do parto",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -21576,7 +21576,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -21585,7 +21585,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "",
+    "subsub": "Rastreio de aneuploidias e malformações",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"

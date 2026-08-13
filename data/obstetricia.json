@@ -1423,8 +1423,8 @@
     {
       "id": "pv-pe-2025-0146",
       "area": "Obstetrícia",
-      "subarea": "Gestação de Alto Risco",
-      "sub_subarea": "Placenta",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
+      "sub_subarea": "",
       "enunciado": "Gestante, tercigesta e secundípara (duas cesarianas anteriores), 33 anos, 32ª semana de gravidez, veio à consulta de emergência com queixa de sangramento súbito, sendo o primeiro episódio. Nega outros sintomas, incluindo perda de líquido amniótico. Ao exame, estado geral bom, batimentos cárdio fetais de 146 bpm, dinâmica uterina ausente, com útero de consistência normal e altura de fundo uterino de 28 cm. O exame especular mostra colo regular, com orifício cervical externo em fenda, fechado, saindo sangramento vermelho vivo em pequena quantidade. O médico assistente pensou na principal hipótese diagnóstica e solicitou os exames necessários para esclarecimento, a qual foi confirmada. Após internamento, o sangramento parou. Pensando em uma possível complicação, o médico assistente ficou inquieto. Assinale a alternativa que sugere a principal complicação que foi pensada.",
       "alternativas": {
         "A": "Placenta prévia.",
@@ -1454,7 +1454,7 @@
       "id": "pv-pe-2025-0149",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Imunização na gestação",
       "enunciado": "Paciente 33 anos, secundígesta e primípara, na 28a semana de gravidez. Foi atendida na primeira consulta de pré-natal assintomática, trazendo apenas a classificação sanguínea materna, a qual é A negativo. Não se tendo conhecimento de outros exames e nem do histórico da gestação anterior, assinale a alternativa CORRETA que representa o próximo exame a ser solicitado, pensando em uma possibilidade de incompatibilidade sanguínea materno-fetal.",
       "alternativas": {
         "A": "Coombs direto",
@@ -1486,8 +1486,8 @@
     {
       "id": "pv-mg-2024-0048",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
+      "sub_subarea": "",
       "enunciado": "A aderência anormal da placenta no miométrio é chamada de acretismo placentário, sendo conhecidos três tipos: acreta em que há adesão da placenta ao miométrio, increta aquela que invade o miométrio e percreta aquela que atinge a serosa uterina e, por vezes, pode chegar a órgãos adjacentes como bexiga, ureter e intestino. Este quadro obstétrico está associado a importante morbimortalidade materna, em decorrência de hemorragia intraparto relevante. O seu diagnóstico pré-natal é essencial para diminuir a morbimortalidade materna. Em relação aos fatores de risco e diagnóstico pré-natal do acretismo placentário, é CORRETO afirmar que:",
       "alternativas": {
         "A": "A ressonância magnética com contraste (gadolíneo) é recomendada para as pacientes com placenta prévia e cesariana anterior.",
@@ -1516,7 +1516,7 @@
       "id": "pv-mg-2024-0052",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Desde a chegada da gestante ao hospital, o médico e a equipe devem garantir a segurança da assistência. O foco na mulher, seu concepto e nos familiares, o envolvimento da equipe de saúde e a definição de um planejamento individualizado podem promover uma melhor experiência. Baseado nessa premissa, assinale a recomendação que deve SER ADOTADA durante o processo do trabalho de parto:",
       "alternativas": {
         "A": "Garantir internação precoce da gestante, eliminando, assim, intervenções desnecessárias e possivelmente deletérias.",
@@ -1544,8 +1544,8 @@
     {
       "id": "pv-mg-2024-0059",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Puérpera, cinco dias após parto normal sem episiotomia ou intercorrências clínicas, comparece à UBS com queixa de febre e mal-estar há dois dias. Pré-natal de risco habitual. Sobre as infecções puerperais, é CORRETO afirmar que:",
       "alternativas": {
         "A": "A cesariana é o fator de risco mais frequente de endometrite, principalmente se realizada durante o trabalho de parto.",
@@ -1574,7 +1574,7 @@
       "id": "pv-mg-2025-0077",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Parto instrumental",
       "enunciado": "Paciente G.H.S, 25 anos, primigesta, com 40 semanas de gestação, encontra-se no período expulsivo há 2 horas. A paciente está exausta, com contrações adequadas, dilatação cervical completa, bolsa rota e o feto está em apresentação cefálica, posição occipito esquerda anterior, com a cabeça no plano +2 de De Lee. O monitoramento fetal indica bradicardia fetal persistente de 90bpm. Considerando o cenário clínico acima, é CORRETO afirmar:",
       "alternativas": {
         "A": "Indicar parto a fórceps para extração fetal, uma vez que há sinais de hipóxia intraparto e o polo cefálico profundamente encaixado dificulta e aumenta o risco da cesariana.",
@@ -1596,8 +1596,8 @@
     {
       "id": "pv-mg-2025-0078",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "CONDIÇÕES DE APLICABILIDADE Colo completamente dilatado Rotura das membranas fetais Estreitos médio e inferior compatíveis com a cabeça fetal Concepto vivo Cabeça insinuada Volume cefálico normal Identificação da variedade de posição Primigesta, 17 anos, com 35 semanas de gestação, comparece à maternidade apresentando pressão arterial 140x90mmHg há sete dias e cefaleia persistente desde o dia anterior. Nega outras intercorrências na gravidez. Ao exame físico, PA 140x90mmHg, frequência cardíaca (FC) de 92 bpm; saturação de oxigênio de 99%, altura uterina de 31cm, cardiotocografia reativa à movimentação fetal, com linha de base de 132bpm; feto cefálico com dorso à direita. Não foram identificadas contrações uterinas e o colo uterino está fechado. Propedêutica de HELLP sem alterações. Com base no quadro clínico apresentado, dentre as alternativas abaixo, a conduta MAIS APROPRIADA nesse momento é:",
       "alternativas": {
         "A": "Internar para controle pressórico e realizar dopplervelocimetria fetal",
@@ -1619,8 +1619,8 @@
     {
       "id": "pv-mg-2025-0079",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Paciente de 42 anos, grávida de 38 semanas e quatro dias, foi admitida na maternidade com queixa de contrações. Foi internada e acompanhada segundo partograma abaixo: Trata-se de gestação única, o feto encontra-se cefálico e o peso fetal estimado pela ultrassonografia há dois dias foi 3.705g. É hipertensa e diabética, e a gravidez se deu após tratamento de FIV (fertilização in vitro). As comorbidades estão bem controladas e não houve intercorrências durante o pré-natal. O exame físico e os exames laboratoriais não tinham alterações dignas de nota, Assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "A evolução do trabalho de parto está dentro da normalidade e na hora de registro 8 a dilatação do colo uterino está completa tendo sido evidenciado que a variedade de posição do polo cefálico foi de ODT (occipito direita transversa) para OP (occipitopúbica), após a rotação interna.",
@@ -1651,8 +1651,8 @@
     {
       "id": "pv-mg-2025-0082",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Cesárea",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Paciente de 32 anos, 60 dias após parto por cesareana comparece em consulta de puerpério em Centro de Saúde. Queixa-se que após fissura em mamilo esquerdo, sua mama apresenta- se edemaciada, endurecida, com dor intensa e eritema. Apresentou em domicílio dois picos febris de 39 graus, com melhora após uso de dipirona. Devido à fissura, paciente foi orientada por cunhada a só manter aleitamento na mama não fissurada. Ao exame físico: identifica-se mama esquerda com área de 5cm em quadrante superolateral com endurecimento, dor, calor e vermelhidão. Não são visualizados trajetos fistulosos, secreção purulenta ou pontos de flutuação. Em relação ao caso, assinale a alternativa que apresenta o diagnóstico e a conduta CORRETOS:",
       "alternativas": {
         "A": "Abscesso Lactacional; solicitar ultrassonografia e realizar drenagem cirúrgica",
@@ -1675,7 +1675,7 @@
       "id": "pv-mg-2025-0086",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Distócias",
       "enunciado": "Paciente de 20 anos, primigesta, admitida na maternidade com idade gestacional de 39 semanas, em trabalho de parto. Ao realizar toque vaginal foi identificado colo uterino com 10cm de dilatação, bolsa rota, feto no plano zero de De Lee apresentando variedade de apresentação OTD (occipito transverso direita) identificado sutura sagital mais próxima à sínfise púbica e distante do sacro. Paciente não deseja analgesia. Diante deste quadro, é CORRETO afirmar:",
       "alternativas": {
         "A": "Aguardar até 1 hora para a expulsão fetal, caso não ocorra dentro deste período indicar cesariana.",
@@ -1697,7 +1697,7 @@
     {
       "id": "pv-mg-2025-0088",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "O acretismo placentário se caracteriza pela aderência anormal do trofoblasto ao miométrio uterino. Atualmente, se apresenta como uma etiologia de incidência crescente e de elevada letalidade por hemorragia. Entre as alternativas abaixo, assinale aquela que NAO apresenta fatores de risco para o acretismo placentário:",
       "alternativas": {
@@ -1721,7 +1721,7 @@
       "id": "pv-amr-2024-0041",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "O tratamento das incoordenações uterinas de 1º e 2 º graus e da inversão do gradiente uterino no trabalho de parto é: I. Colocação da paciente em decúbito lateral. II. Perfusão de ocitocina e/ou amniorrexe. III. Administração de analgésicos e sedativos. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I.",
