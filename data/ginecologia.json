@@ -7304,9 +7304,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Câncer de endométrio",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7328,9 +7328,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Cancro mole, sífilis, gonorreia",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7350,9 +7350,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de endométrio",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7372,9 +7372,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Sexualidade",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7394,9 +7394,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Oncologia ginecológica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Neoplasia intraepitelial cervical (NIC)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7416,9 +7416,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Ginecologia básica",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Exames complementares (USG, histerossalpingografia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7440,9 +7440,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "Colo Uterino",
+      "sub_subarea": "Cancro mole, sífilis, gonorreia",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7462,9 +7462,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Sexualidade",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Anticoncepção (métodos hormonais, DIU, barreira)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7484,9 +7484,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7506,9 +7506,9 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Oncologia Ginecológica",
+      "subarea": "Mastologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Câncer de mama",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7528,9 +7528,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Infecções em ginecologia",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -7552,9 +7552,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Ginecologia Geral",
+      "subarea": "Ginecologia endócrina",
       "_area_slug": "ginecologia",
-      "sub_subarea": "",
+      "sub_subarea": "Amenorreia",
       "banca": "ESTRATÉGIA MED"
     }
   ]

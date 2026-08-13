@@ -20837,8 +20837,8 @@
   "pv-pe-2024-0050": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Uroginecologia",
+    "subsub": "Prolapso de órgãos pélvicos (POP)",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -20846,8 +20846,8 @@
   "pv-uni-2024-0051": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Reprodução / Climatério",
-    "subsub": "Anticoncepção",
+    "sub": "Sexualidade",
+    "subsub": "Anticoncepção (métodos hormonais, DIU, barreira)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -20855,8 +20855,8 @@
   "s14-097": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de ovário",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": ""
@@ -20864,8 +20864,8 @@
   "s3-006": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de ovário",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -20873,8 +20873,8 @@
   "s3-035": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Uroginecologia",
+    "subsub": "Fístulas genitais",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
@@ -20882,8 +20882,8 @@
   "s9-018": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de ovário",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -20891,8 +20891,8 @@
   "s9-069": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Infecções em ginecologia",
+    "subsub": "Doença Inflamatória Pélvica (DIP)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -20900,8 +20900,8 @@
   "s1-015": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia Geral",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -20909,8 +20909,8 @@
   "s11-008": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de ovário",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -20918,8 +20918,8 @@
   "s11-022": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -20927,8 +20927,8 @@
   "s11-037": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
@@ -20936,8 +20936,8 @@
   "s11-075": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia Ginecológica",
-    "subsub": "Colo Uterino",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
