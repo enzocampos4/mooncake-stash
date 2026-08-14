@@ -2787,7 +2787,7 @@
       "id": "pv--2024-0012",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Gestante de 35 anos, 4G3PN, 37 semanas pela data da última menstruação, com pré-natal irregular, comparece ao pronto-socorro com queixa de dor em baixo ventre e em região lombar, principalmente quando fica muito tempo em pé. Ao exame físico: IMC: 34 kg/m?; PA: 120x80 mmHg. Região lombar com contratura muscular e sensível à palpação. AU: 41 cm. Foco: 148 bpm. DU ausente. Escava completamente ocupada. Manobra de Leopold demonstra mobilidade. Edema Negativo. Toque: colo grosso, posterior, 2 cm de dilatação. Assinale qual é a melhor conduta.",
       "alternativas": {
         "A": "Indicar analgesia endovenosa e reavaliação.",
@@ -2810,7 +2810,7 @@
       "id": "pv-sp-2024-0024",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Uma gestante de 32 anos de idade, G2P1 (cesárea), com 35 semanas de gestação, relatou contrações rítmicas há três horas, com intervalo de tempo cada vez menor. Ao exame, evidenciaram‑se presença de dinâmica uterina regular e BCF presente no colo uterino impérvio. Com base nessa situação hipotética, assinale a alternativa que apresenta o procedimento correto para se determinar se a paciente está em trabalho de parto prematuro.",
       "alternativas": {
         "A": "ultrassonografia com medida de colo, que deve estar < 30 mm",
@@ -2843,7 +2843,7 @@
       "id": "pv-sp-2024-0029",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Durante a consulta de pré‑natal, uma gestante com oito semanas demonstra preocupação com a rotina do acompanhamento de sua gravidez e as medidas preventivas recomendadas. Com base nessa situação hipotética e considerando as diretrizes do Ministério da Saúde do Brasil, assinale a alternativa que apresenta o acompanhamento pré‑natal correto para a gestante",
       "alternativas": {
         "A": "realização de, no mínimo, seis consultas pré‑natais, incluindo uma consulta odontológica e uma consulta no puerpério",
@@ -2867,7 +2867,7 @@
       "id": "pv-sp-2025-0209",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Via de parto (normal vs cesárea)",
       "enunciado": "Mulher, 32 anos de idade, primigesta com 38 semanas de gravidez, sem doenças, foi admitida na maternidade em trabalho de parto espontâneo. Apresentou amniorrexe espontânea no momento da admissão, com saída de líquido claro com grumos. Ao exame físico, apresentou bom estado geral, corada, normotensa e normocárdica. Abdome gravídico, altura uterina de 33 cm, dinâmica presente, batimento cardíaco fetal presente de 146 bpm. O acompanhamento do trabalho de parto está demonstrado no partograma a seguir: Ao avaliar a evolução do trabalho de parto representado, assinale o provável tipo de pelve da parturiente.",
       "alternativas": {
         "A": "B)",
@@ -2906,8 +2906,8 @@
     {
       "id": "pv-sp-2025-0210",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Cardiotocografia",
       "enunciado": "Mulher, 32 anos de idade, primigesta com 38 semanas de gravidez, sem doenças, foi admitida na maternidade em trabalho de parto espontâneo. Apresentou amniorrexe espontânea no momento da admissão, com saída de líquido claro com grumos. Ao exame físico, apresentou bom estado geral, corada, normotensa e normocárdica. Abdome gravídico, altura uterina de 33 cm, dinâmica presente, batimento cardíaco fetal presente de 146 bpm. O acompanhamento do trabalho de parto está demonstrado no partograma a seguir: Às 21h, a cardiotocografia apresenta o seguinte traçado: A cardiotocografia demonstra que, neste momento, há:",
       "alternativas": {
         "A": "Hipóxia fetal.",
@@ -2940,8 +2940,8 @@
     {
       "id": "pv-sp-2025-0213",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Puérpera, 30 anos de idade, internada em alojamento conjunto, por desproporção céfalo- pélvica, no 2º dia pós- parto cesárea. Teve diabetes gestacional controlado com dieta, além de trombose venosa profunda 1 ano antes da gravidez, tendo feito uso de enoxaparina profilática durante a gestação, suspenso no parto. Logo depois do nascimento, não quis ver a criança, dizendo que estava muito cansada. No primeiro dia pós-parto, teve dificuldade na amamentação, permanecendo a maior parte do tempo no leito. No segundo dia pós-parto, apresentou-se com irritabilidade cada vez maior com o choro do recém-nascido, chegando a chutar o berço com a criança dentro, sob as vistas do marido e da enfermagem. Com o ocorrido, a criança foi afastada da mãe e encaminhada ao berçário. Em conversa reservada com a equipe, o marido revelou que a paciente passou a apresentar isolamento, alteração de sono, choro fácil e irritabilidade durante a gravidez. Qual é a principal hipótese diagnóstica nesse momento?",
       "alternativas": {
         "A": "Baby Blues.",
@@ -2972,8 +2972,8 @@
     {
       "id": "pv-sp-2025-0214",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Primigesta, 18 anos de idade, comparece ao pré-natal com 33 semanas de gravidez. Refere falta de ar para a rotina domiciliar, sente-se cansada o tempo todo. Ultimamente, com mais dificuldade para dormir. Boa movimentação fetal, mas tem contrações dolorosas há 3 horas. Ao exame físico, apresentou-se descorada 1+/4+, FR de 18 ipm, FC de 118 bpm, saturação de O₂ de 94%, PA de 130x90 mmHg. Sopro diastólico mitral 3+/6+ com reforço pré-sistólico, sopro sistólico aórtico 2+/6+ sem irradiações. Ausculta pulmonar com estertores e sibilos esparsos. Edema membros inferiores 2+/4+. Abdome gravídico, AU 30 cm, BCF+, dinâmica 3 contrações fracas em 10 minutos. Colo médio posterior, 4 cm de dilatação, bolsa íntegra, cefálico. A escolha terapêutica imediata é:",
       "alternativas": {
         "A": "Terbutalina.",
@@ -2995,8 +2995,8 @@
     {
       "id": "pv-sp-2025-0215",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Primigesta, 18 anos de idade, comparece ao pré-natal com 33 semanas de gravidez. Refere falta de ar para a rotina domiciliar, sente-se cansada o tempo todo. Ultimamente, com mais dificuldade para dormir. Boa movimentação fetal, mas tem contrações dolorosas há 3 horas. Ao exame físico, apresentou-se descorada 1+/4+, FR de 18 ipm, FC de 118 bpm, saturação de O₂ de 94%, PA de 130x90 mmHg. Sopro diastólico mitral 3+/6+ com reforço pré-sistólico, sopro sistólico aórtico 2+/6+ sem irradiações. Ausculta pulmonar com estertores e sibilos esparsos. Edema membros inferiores 2+/4+. Abdome gravídico, AU 30 cm, BCF+, dinâmica 3 contrações fracas em 10 minutos. Colo médio posterior, 4 cm de dilatação, bolsa íntegra, cefálico. Após a conduta inicial e estabilização, a paciente apresenta a cardiotocografia a seguir: Neste momento, deve-se realizar:",
       "alternativas": {
         "A": "Peridural.",
@@ -3024,8 +3024,8 @@
     {
       "id": "pv-sp-2025-0216",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Doppler obstétrico",
       "enunciado": "Adolescente, 15 anos de idade, primigesta, comparece ao pré-natal com 34 semanas de gravidez. Está bem, sem queixas. Refere boa movimentação fetal. Ao exame clínico, bom estado geral, corada, normotensa, abdome gravídico, altura uterina 26 cm, BCF presente e rítmico. Em ultrassonografia realizada, o peso fetal estimado foi de 1.870 g, percentil 7, feto normotônico, movimentos corpóreos e respiratórios presentes, índice de líquido amniótico 9 cm. Dopplervelocimetria de artéria umbilical e de artéria cerebral média, conforme imagens a seguir: Na ausência de trabalho de parto, a programação obstétrica recomendada é:",
       "alternativas": {
         "A": "Indução de parto imediato.",
@@ -3054,7 +3054,7 @@
       "id": "pv-sp-2025-0217",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Paciente, 28 anos de idade, hígida, tercigesta com dois partos vaginais anteriores, 40 semanas e 5 dias de gravidez, comparece para avaliação de vitalidade fetal indicada para controle de pós-datismo. Ao exame físico, apresentou bom estado geral, normotensa. Abdome gravídico, AU 38 cm, BCF+. Toque vaginal apresenta colo médio, medianizado, 4 cm, líquido claro, cefálico alto e móvel. Realizado perfil biofísico fetal de 10, com ILA de 9 cm. A conduta recomendada é:",
       "alternativas": {
         "A": "Misoprostol.",
@@ -3091,8 +3091,8 @@
     {
       "id": "pv-sp-2025-0218",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "enunciado": "Em um acompanhamento de trabalho de parto a ausculta de batimento fetal ocorreu conforme imagem a seguir: É correto afirmar que se trata de assistência a feto",
       "alternativas": {
         "A": "cefálico dorso esquerda.",
@@ -3120,8 +3120,8 @@
     {
       "id": "pv-uni-2024-0010",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Cesárea",
+      "subarea": "Puerpério",
+      "sub_subarea": "",
       "enunciado": "RN masculino, nasceu de parto cesárea iterativa, com 35 semanas de idade gestacional, líquido amniótico meconial 1+/4+, Apgar 08 e 09 nos primeiro e quinto minutos. Com 48 horas de vida, apresentava FR = 70 irpm, boletim de Silverman-Andersen = 4, sem outras alterações ao exame físico. Considerando o diagnóstico mais provável, qual é o mecanismo fisiopatológico primário envolvido?",
       "alternativas": {
         "A": "Atraso na reabsorção do líquido intersticial pulmonar.",

@@ -21917,8 +21917,8 @@
   "pv-hcp-2024-0100": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Puerpério",
+    "subsub": "Puerpério normal",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -21927,7 +21927,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -21936,7 +21936,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Mecanismo do parto",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -21945,7 +21945,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -21954,7 +21954,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -21963,7 +21963,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Distócias",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -21971,8 +21971,8 @@
   "pv-fam-2024-0079": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -21980,8 +21980,8 @@
   "pv-fam-2025-0098": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -21989,8 +21989,8 @@
   "pv-fam-2025-0099": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -21998,8 +21998,8 @@
   "pv-fam-2025-0101": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Medicina fetal",
+    "subsub": "Cardiotocografia",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -22007,8 +22007,8 @@
   "pv-fam-2025-0102": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Medicina fetal",
+    "subsub": "Isoimunização Rh",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -22016,8 +22016,8 @@
   "pv-fam-2025-0105": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Parto",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
