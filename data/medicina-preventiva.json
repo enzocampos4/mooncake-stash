@@ -822,8 +822,8 @@
     {
       "id": "pv-ba-2025-0065",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 18 anos de idade comparece ao serviço médico com queixa de dor abdominal baixa e aumento de volume abdominal. Durante a avaliação, foi realizada uma ultrassonografia pélvica, que revelou a presença de uma massa ovariana de, aproximadamente, 8cm. O médico suspeita de um teratoma imaturo. Indique a conduta mais apropriada, considerando o manejo inicial da paciente com teratoma imaturo:",
       "alternativas": {
         "A": "Vigilância ativa com acompanhamento em consulta ambulatorial.",
@@ -858,9 +858,10 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "s14-031",
@@ -883,9 +884,10 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "pediatria",
-      "banca": "ESTRATÉGIA MED"
+      "banca": "ESTRATÉGIA MED",
+      "sub_subarea": ""
     },
     {
       "id": "pv-sp-2024-0057",
@@ -914,7 +916,7 @@
     {
       "id": "pv-fam-2025-0089",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Homem de 62 anos com doença renal crônica estágio G3aA3, hipertenso e diabético vem à consulta para avaliação da pressão arterial. Está em uso de anlodipinino 10 mg/dia; losartana 100 mg/dia e carvedilol 6,25 mg 2 x ao dia. Ele também faz uso de atorvastatina, aspirina e dapagliflozina. Ele não monitoriza sua pressão em domicílio. Ao exame físico, sua pressão encontra-se 117/80 mmHg e sua frequência cardíaca de 72 bpm. Sua creatinina sérica é 2,2 mg/dL (referência: 0,7-1,3) e sua relação proteína/creatinina urinária é 0,5mg/mg (referência <0,2). Qual medida deve ser tomada em relação ao seu controle pressórico:",
       "alternativas": {
@@ -937,8 +939,8 @@
     {
       "id": "pv-sp-2024-0083",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Uma mulher de 37 anos de idade possui os seguintes de antecedentes pessoais: HAS e LES. Nos controles de enfermagem, apresentava picos hipertensivos de 160x100 mmHg. Após ajuste recente da medicação, a média nos controles passou a ser de 138x87 mmHg, normocárdica. Ela apresentava rash malar e dor articular no momento do exame físico. Mesmo nos momentos de melhora da dor com analgesia, ela sustentava os níveis pressóricos. Ela estava em uso de losartana, anlodipino e hidroclorotiazida. Exames: HB 12,7; leucócitos 5.300; plaquetas 157.000; sódio 132; potássio 5,9; ureia 27; e CR 1,1. Com base nessa situação hipotética, assinale a alternativa que apresenta o procedimento que deverá ser realizado.",
       "alternativas": {
         "A": "trocar losartana por espironolactona",
@@ -961,8 +963,8 @@
     {
       "id": "pv-ba-2024-0027",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Puericultura e acompanhamento do crescimento",
       "enunciado": "Adolescente, 15 anos de idade, vai em ginecologista referindo irregularidade menstrual. Menarca: 14 anos de idade. Nunca teve relações sexuais. Refere fluxo menstrual normal e nega dismenorreia. Trouxe anotações com os ciclos dos últimos meses e seus intervalos entre as menstruações: 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 97/269 Considerando que essa é a primeira consulta ginecológica da paciente, o médico deve, também, orientar a paciente quanto à fisiologia do ciclo reprodutivo feminino. Indique a melhor conduta preconizada para o caso:",
       "alternativas": {
         "B": "Confirmar irregularidade menstrual e solicitar ultrassom pélvico para afastar a presença de lesões ovarianas.",
@@ -991,8 +993,8 @@
     {
       "id": "pv-uer-2024-0047",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "A colestase intra-hepática da gravidez é a doença hepática mais comum ocorrida durante a gestação e está associada a desfechos obstétricos desfavoráveis. O marcador bioquímico mais frequentemente associado às repercussões de aumento de risco fetal é:",
       "alternativas": {
         "A": "gama glutamiltransferase",
@@ -1014,8 +1016,8 @@
     {
       "id": "pv-sír-2025-0170",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Para uma laceração perineal durante o parto ser classificada como 3C, deve incluir a lesão de",
       "alternativas": {
         "A": "corpo perineal e inserção muscular.",
@@ -1040,7 +1042,7 @@
     {
       "id": "pv-sp-2025-0119",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Uma mulher de 27 anos de idade, doente renal crônica dialítica devido à nefrite lúpica, com perdas de duas gestações prévias e AVC isquêmico há um ano, compareceu ao hospital com edema assimétrico de membro inferior esquerdo, realizou usg Doppler, confirmando diagnóstico de tvp. A paciente apresentou os seguintes valores para os sinais vitais: PA 145 x 95; FC 89 bpm; sat. 99% em ar ambiente; FR 15 irpm; e livedo reticular notado em membros inferiores. Estava consciente e orientada, e com extremidades quentes. Ainda em ambiente de observação no pronto‑socorro, a paciente relatou que possuía condições financeiras para a compra de medicamentos e desejava tratar‑se em casa. Ainda a respeito da situação hipotética apresentada, considere‑se que após o manejo inicial, o hematologista tenha suspeitado de uma condição pró‑trombótica associada à doença de base e, devido a esse acontecimento, solicitou‑se",
       "alternativas": {
@@ -1073,7 +1075,7 @@
     {
       "id": "pv-df-2024-0017",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "sub_subarea": "",
       "enunciado": "Um paciente de 75 anos de idade, renal crônico dialítico, hipertenso e diabético insulinodependente, foi internado por Covid-19 com dessaturação 88% em ar ambiente na entrada e FR = 25 irpm. Na unidade de internação, evoluiu com piora do padrão respiratório, necessitando de intubação orotraqueal e necessidade de ventilação mecânica invasiva. Após três meses de internação em leito de unidade de terapia intensiva (UTI), o paciente se mantinha com necessidade de ventilação mecânica contínua (acoplada à traqueostomia), com períodos de melhora e de piora clínica, em uso de meropenem, gentamicina e vancomicina para tratamento de uma pneumonia bacteriana associada à ventilação mecânica. Finalmente, após 100 dias de internação, em uma noite, o paciente subitamente apresentou uma parada cardiorrespiratória, não houve sucesso com as manobras de ressuscitação cardiopulmonar, e o paciente veio a falecer. Na UTI, havia um médico diarista que acompanhou o paciente durante todo o período internado, porém a morte ocorreu no período noturno, quando se encontrava somente o médico plantonista, que estava em seu primeiro plantão. Em relação ao preenchimento da declaração de óbito, assinale a alternativa que evidencia a conduta mais adequada.",
       "alternativas": {
@@ -1104,8 +1106,8 @@
     {
       "id": "pv-df-2024-0086",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "",
       "enunciado": "Um paciente de 30 anos de idade foi admitido no pronto-socorro após um acidente automobilístico de alta velocidade. Ele estava usando cinto de segurança no momento do impacto. O paciente queixava-se de dor abdominal intensa e distensão. Ao exame físico, apresentou PA = 90 mmHg x 60 mmHg, FC = 120 bpm, FR = 24 irpm, temperatura = 36,5 ºC, SatO2 = 92% em a.a, o abdome rígido à palpação, com sinais de equimose e hematomas difusos, e ausculta abdominal diminuída. Exames complementares demonstraram hemograma com hematócrito diminuído e base excess -10, radiografia de tórax sem fraturas costais e FAST livre de líquido intraperitoneal. Considerando esse caso clínico, assinale a alternativa correspondente à conduta mais apropriada para esse paciente com suspeita de trauma abdominal.",
       "alternativas": {
         "A": "Observação clínica e repetição da ultrassonografia em seis horas.",
