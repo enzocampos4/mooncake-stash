@@ -1420,9 +1420,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1444,7 +1444,7 @@
       "_edicao": "1",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1468,7 +1468,7 @@
       "_edicao": "1",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1488,9 +1488,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1510,7 +1510,7 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1534,7 +1534,7 @@
       "_edicao": "11",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1554,9 +1554,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1576,9 +1576,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Vigilância",
+      "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1600,9 +1600,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1627,7 +1627,7 @@
       "_edicao": "11",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1650,7 +1650,7 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -1672,9 +1672,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Gestão",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
