@@ -4810,8 +4810,8 @@
     {
       "id": "pv-pe-2025-0147",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "enunciado": "Sobre o acompanhamento da gestante diabética, é INCORRETO afirmar que",
       "alternativas": {
         "A": "se devem fazer as recomendações nutricionais que devem ser calculadas individualmente, porém com dieta balanceada com 40%-55% de carboidratos, 15%-20% proteínas e 30%-40% lipídeos distribuídos nas calorias diárias.",
@@ -4840,8 +4840,8 @@
     {
       "id": "pv-mg-2025-0083",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Considere uma gestante que manipula alimentos frescos em seu local de trabalho, onde auxilia os cozinheiros no preparo das refeições. No pré-natal, foi advertida quanto aos riscos de contrair algumas doenças, bem como comportamentos que atuam na prevenção desses agravos. Dentre esses agravos, a médica atendente reforçou cuidados em relação à toxoplasmose. Assinale a alternativa CORRETA sobre essa doença:",
       "alternativas": {
         "A": "Numa gestação de 10 semanas, o resultado de avidez elevada sugere que a toxoplasmose aguda ocorreu antes da gestação",
@@ -4871,8 +4871,8 @@
     {
       "id": "pv-amr-2024-0042",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Sobre as condições oferecidas pelo modelo fullPIERS, agora sob validação externa, assinale a alternativa correta.",
       "alternativas": {
         "A": "Não diferencia o alto risco e baixo risco materno para complicações.",
@@ -4895,7 +4895,7 @@
       "id": "pv-amr-2024-0045",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea",
+      "sub_subarea": "Via de parto (normal vs cesárea)",
       "enunciado": "Qual tipo de fórceps é indicado para a correção do assinclitismo?",
       "alternativas": {
         "A": "Simpson.",
@@ -4926,8 +4926,8 @@
     {
       "id": "pv-amr-2024-0049",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "O critério diagnóstico para pré-eclâmpsia é “pressão sistólica maior ou igual a 140 mmHg e/ou pressão arterial igual ou superior a 90 mmHg, verificada em 2 tomadas (intervalo de pelo menos 4 horas), após a 20a semana de gestação e em mulheres com pressão arterial prévia normal” e associado a: I. Proteinúria acima de 300 mg em 24 horas. II. Creatinina no soro maior que 1,1 mg/dl. III. Elevação das transaminases em duas vezes a sua concentração. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I.",
@@ -4958,7 +4958,7 @@
       "id": "pv-amr-2024-0058",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Gestante, 22 semanas, vem para consulta na unidade de Atenção Básica. Ela não apresenta queixas e o exame físico não apresenta anormalidades. A próxima consulta do pré-natal deve ser marcada em:",
       "alternativas": {
         "A": "7 dias.",
@@ -4986,8 +4986,8 @@
     {
       "id": "pv-amr-2025-0101",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Sobre a hipertensão arterial sistêmica, analise as assertivas a seguir: I. Para diagnóstico, indica-se a medição anual de pressão arterial se a pressão arterial aferida for inferior a 140/90 mmHg. II. O diagnóstico da hipertensão arterial sistêmica deve ser baseado na medição da pressão fora do consultório com monitorização ambulatorial da pressão arterial, desde que seja viável sua realização. III. História prévia de pré-eclâmpsia em mulheres é fator de risco para hipertensão arterial sistêmica. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5010,7 +5010,7 @@
       "id": "pv-amr-2025-0150",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Rastreio de aneuploidias e malformações",
       "enunciado": "Uma gestante de 10 semanas e 6 dias vem à consulta de pré-natal. Ela não apresenta fatores de risco ou queixas. Após a consulta, o médico agenda uma ultrassonografia para ser realizada em 1 semana. O tipo de ultrassonografia que ela deverá realizar é:",
       "alternativas": {
         "A": "Obstétrica transvaginal com doppler das artérias ovarianas para ver a função do corpo lúteo.",
@@ -5041,8 +5041,8 @@
     {
       "id": "pv-amr-2025-0154",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Paciente com 13 semanas de gestação gemelar, dicoriônica e diamniótica, vem para o pré- natal de rotina na unidade de saúde. No momento, não apresenta queixas. Nesse caso, o médico deve:",
       "alternativas": {
         "A": "Prescrever ácido acetilsalicílico e carbonato de cálcio até 36 semanas para a prevenção da pré-eclâmpsia.",
@@ -5073,7 +5073,7 @@
       "id": "pv-ufr-2025-0228",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Primigesta, 38 anos, usuária eventual de maconha, com apenas 4 anos de estudo, demonstra dificuldade de aceitar a gestação, já que relata episódios de violência domiciliar. Pode-se afirmar que, durante o acolhimento no pré-natal, essa gestante deve ser classificada como de risco:",
       "alternativas": {
         "A": "alto",
@@ -5103,8 +5103,8 @@
     {
       "id": "pv-ufr-2025-0232",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Obstetrícia fisiológica",
+      "sub_subarea": "Fisiologia da gestação",
       "enunciado": "Em US realizada na 12ª semana de gestação, identificou-se uma gestação gemelar monocoriônica e diamniótica. Nesse caso, em relação à placentação, pode-se afirmar que a divisão ocorreu no período de fertilização:",
       "alternativas": {
         "A": "durante os 3 primeiros dias",
@@ -5134,8 +5134,8 @@
     {
       "id": "pv-uer-2024-0041",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
+      "sub_subarea": "",
       "enunciado": "Gestante na 33ª semana, com diagnóstico de pré-eclâmpsia, é atendida na maternidade com quadro de sangramento vaginal e de dor abdominal intensa iniciado há 30 minutos. Ao exame, verifica-se PA = 170 x 120mmHg, tônus uterino aumentado e BCF = 120bpm. Ao toque vaginal, identifica-se colo centralizado, 90% apagado, 3cm dilatado, cefálico, com sangramento vaginal intenso. Diante da principal hipótese diagnóstica para o quadro clínico apresentado, uma das complicações esperadas é:",
       "alternativas": {
         "A": "rotura uterina",
