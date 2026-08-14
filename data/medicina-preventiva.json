@@ -1696,7 +1696,7 @@
       "_edicao": "11",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1716,9 +1716,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Gestão",
+      "sub_subarea": "Controle social e participação popular",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1740,7 +1740,7 @@
       "_edicao": "11",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1760,9 +1760,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1782,9 +1782,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Epidemiologia",
+      "subarea": "Saúde do Trabalhador",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1804,9 +1804,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1828,9 +1828,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1853,9 +1853,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Epidemiologia",
+      "subarea": "Saúde do Trabalhador",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Doenças ocupacionais (LER/DORT, perda auditiva, pneumoconioses)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1875,9 +1875,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1897,9 +1897,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1925,9 +1925,9 @@
       ],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1947,9 +1947,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "banca": "ESTRATÉGIA MED"
     },
     {
