@@ -540,7 +540,7 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Epidemiologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -562,7 +562,7 @@
       "imagens": [],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Epidemiologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -588,7 +588,7 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Geral",
+      "subarea": "Epidemiologia",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -612,9 +612,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -634,7 +634,7 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -656,9 +656,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "_area_slug": "clinica-medica",
-      "sub_subarea": "",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -691,8 +691,8 @@
     {
       "id": "pv-ena-2025-0139",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Um paciente de 55 anos apresenta-se no consultório com queixa de uma protuberância na região inguinal direita que se estende até o escroto. Ele relata que a protuberância aparece principalmente quando faz esforço físico, como levantar pesos, e desaparece quando está deitado. Não há sinais de dor intensa, febre ou outros sintomas sistêmicos. Ao exame físico, observa-se uma massa inguinoescrotal redutível ao repouso e com manobras de redução manual. Não há sinais de estrangulamento ou obstrução. A melhor técnica cirúrgica para tratar a hérnia inguinoescrotal redutível desse paciente será:",
       "alternativas": {
         "A": "herniorrafia convencional pela técnica de Shouldice;",
@@ -721,7 +721,7 @@
     {
       "id": "pv-fam-2024-0061",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Homem de 30 anos, etilista e tabagista ativo, refere episódio de hematêmese há aproximadamente 4 horas. Nega dor abdominal e alterações do hábito intestinal. Apresenta-se em regular estado geral, sonolento, descorado (3+/4+), abdome discretamente doloroso a palpação profunda do epigástrio, sem sinais de peritonite, DB negativo. Realizado toque retal, que é positivo para melena. FC = 140 bpm, PA = 80 X 50 mmHg, SatO₂ = 93%. Assinale a alternativa que indica o grau do choque hipovolêmico apresentado pelo paciente e a perda sanguínea estimada, assim como a conduta inicial mais adequada:",
       "alternativas": {
@@ -750,7 +750,7 @@
     {
       "id": "pv-sp-2025-0106",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Uma mulher de 18 anos de idade, sem antecedentes pessoais e familiares relevantes, dirigiu‑se ao pronto‑socorro de um hospital municipal com náusea, vômitos, diarreia líquida sem produtos patológicos, mialgia, sensação febril e astenia. Esse quadro teve início dois dias antes da admissão, com piora no dia atual, com sete episódios de fezes líquidas nas últimas 24 horas. A paciente relatou inapetência e dificuldade para ingerir líquidos e comprimidos. Ao exame físico: afebril; regular estado geral; levemente desidratada; bem perfundida e com extremidades quentes; abdome flácido; um pouco de dor à palpação profunda difusamente; sem sinais de peritonite; e sinais vitais marcando PA de 110 x 75 mmHg e FC de 87 bpm. Com base nessa situação hipotética, assinale a alternativa correta em relação à condução desse caso.",
       "alternativas": {
@@ -774,7 +774,7 @@
     {
       "id": "pv-sp-2025-0107",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Uma mulher de 18 anos de idade, sem antecedentes pessoais e familiares relevantes, dirigiu‑se ao pronto‑socorro de um hospital municipal com náusea, vômitos, diarreia líquida sem produtos patológicos, mialgia, sensação febril e astenia. Esse quadro teve início dois dias antes da admissão, com piora no dia atual, com sete episódios de fezes líquidas nas últimas 24 horas. A paciente relatou inapetência e dificuldade para ingerir líquidos e comprimidos. Ao exame físico: afebril; regular estado geral; levemente desidratada; bem perfundida e com extremidades quentes; abdome flácido; um pouco de dor à palpação profunda difusamente; sem sinais de peritonite; e sinais vitais marcando PA de 110 x 75 mmHg e FC de 87 bpm. A equipe do hospital municipal optou pela internação hospitalar para hidratação, sintomáticos e antibioticoterapia endovenosa (ceftriaxone e metronidazol). Os exames admissionais evidenciaram PCR de 19 (elevado), função renal e hemograma sem alterações dignas de nota, a não ser pela discreta leucocitose. No segundo dia de internação, já havia ampla melhora do quadro de diarreia, PCR de 9, porém ainda inapetente e um pouco nauseada. Portanto, optaram por manter a internação por mais um dia. No terceiro dia de internação, a paciente relatou muita náusea, gosto metálico na boca, inapetência sem melhora. A mãe da paciente no leito preocupada e nervosa pela ausência de melhora sintomática da filha. Exames com PCR de 4, enzimas hepáticas, canaliculares, bilirrubinas e coagulograma sem alterações. O quadro de diarreia seguiu em ampla melhora. Com base nessa situação hipotética, assinale a alternativa que apresenta a conduta adequada a ser seguida pela equipe do hospital, no momento atual.",
       "alternativas": {
@@ -798,7 +798,7 @@
     {
       "id": "pv-sp-2025-0108",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Uma mulher de 18 anos de idade, sem antecedentes pessoais e familiares relevantes, dirigiu‑se ao pronto‑socorro de um hospital municipal com náusea, vômitos, diarreia líquida sem produtos patológicos, mialgia, sensação febril e astenia. Esse quadro teve início dois dias antes da admissão, com piora no dia atual, com sete episódios de fezes líquidas nas últimas 24 horas. A paciente relatou inapetência e dificuldade para ingerir líquidos e comprimidos. Ao exame físico: afebril; regular estado geral; levemente desidratada; bem perfundida e com extremidades quentes; abdome flácido; um pouco de dor à palpação profunda difusamente; sem sinais de peritonite; e sinais vitais marcando PA de 110 x 75 mmHg e FC de 87 bpm. A equipe do hospital municipal optou pela internação hospitalar para hidratação, sintomáticos e antibioticoterapia endovenosa (ceftriaxone e metronidazol). Os exames admissionais evidenciaram PCR de 19 (elevado), função renal e hemograma sem alterações dignas de nota, a não ser pela discreta leucocitose. No segundo dia de internação, já havia ampla melhora do quadro de diarreia, PCR de 9, porém ainda inapetente e um pouco nauseada. Portanto, optaram por manter a internação por mais um dia. No terceiro dia de internação, a paciente relatou muita náusea, gosto metálico na boca, inapetência sem melhora. A mãe da paciente no leito preocupada e nervosa pela ausência de melhora sintomática da filha. Exames com PCR de 4, enzimas hepáticas, canaliculares, bilirrubinas e coagulograma sem alterações. O quadro de diarreia seguiu em ampla melhora. Somente no quinto dia de internação, a paciente evoluiu com melhora clínica significativa. A equipe médica realizou alta hospitalar com ciprofloxacino via oral para completar sete dias em domicílio. Após duas semanas, a paciente retornou devido a um novo episódio diarreico, que teve início no dia anterior, com picos febris aferidos de 37,9 oC. A mãe da paciente estava extremamente nervosa e exigiu uma tomografia de abdome. Os médicos do pronto‑socorro, então, solicitaram uma tomografia computadorizada de abdome, que evidenciou sinais de processo inflamatório, predominando no intestino grosso. Com base nessa situação hipotética, assinale a conduta adequada, considerando esse quadro clínico.",
       "alternativas": {
