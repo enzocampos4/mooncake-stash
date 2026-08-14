@@ -5158,7 +5158,7 @@
       "id": "pv-uer-2024-0045",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "A assistência pré-natal adequada é, indubitavelmente, a estratégia de saúde mais eficaz para diagnóstico precoce e tratamento de intercorrências obstétricas, reduzindo a morbimortalidade materno-fetal. Entre os exames obrigatórios do primeiro trimestre da gestação, estão:",
       "alternativas": {
         "A": "glicemia de jejum, sorologia para CMV e HIV",
@@ -5186,7 +5186,7 @@
     {
       "id": "pv-uer-2025-0129",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Paciente, vítima de colisão de motocicleta com automóvel em via pública, foi levado ao hospital pelos bombeiros, imobilizado em prancha e colar cervical. Há relato de traumatismo cranioencefálico com perda do nível de consciência. O paciente apresentou o sensório rebaixado. Estava ventilando sob máscara com reservatório de oxigênio com fluxo de seis litros por minutos. Ectoscopia revelou lesão cortocontusa em região frontal direita e hematoma periorbitário. Ao exame físico, verificaram-se FR = de 30irpm, saturação (Sat) = 94%, frequência cardíaca (FC) = 95bpm e PA = 100x60mmHg, sem uso de drogas vasoativas no momento. Aos estímulos álgicos, houve abertura ocular e movimento de retirada sem localizar, precisamente, o local estimulado, pronunciando sons e gemidos incompreensíveis. Apresentou, no exame, pupilas isocóricas e fotorreagentes. A pontuação na escala de Glasgow desse paciente é:",
       "alternativas": {
@@ -5215,8 +5215,8 @@
     {
       "id": "pv-uer-2025-0158",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "enunciado": "Em relação à gestação gemelar, o achado característico da sequência TAPS é a presença de:",
       "alternativas": {
         "A": "feto acárdico e feto bomba",
@@ -5238,8 +5238,8 @@
     {
       "id": "pv-hcp-2024-0064",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "enunciado": "Tercigesta de 39 anos, com 16 semanas de gestação, apresentou, na consulta pré-natal, resultado de exame de glicemia em jejum de 133 mg/dl e de dosagem da HbA1c de 6,3%. Referiu que, nas gestações anteriores há mais de 10 anos, não houve qualquer intercorrência. Qual o diagnóstico mais provável?",
       "alternativas": {
         "A": "Diabetes gestacional",
@@ -5268,7 +5268,7 @@
       "id": "pv-hcp-2024-0070",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Segundo orientações do Ministério da Saúde, para casos de pré-natal de risco habitual deve- se",
       "alternativas": {
         "A": "solicitar sorologias para rubéola e citomegalovírus no primeiro trimestre, dada a alta prevalência dessas infecções no país.",
@@ -5297,7 +5297,7 @@
       "id": "pv-hcp-2025-0124",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Assinale a assertiva correta sobre a assistência pré-natal.",
       "alternativas": {
         "A": "Saída de colostro, colo uterino friável, sangramento gengival, náuseas e vômitos no primeiro e terceiro trimestres, leucocitose de 18.000/mm³ e hematúria são alterações fisiológicas frequentes na gestação, não havendo necessidade de investigação adicional.",
@@ -5325,8 +5325,8 @@
     {
       "id": "pv-hcp-2025-0127",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Paciente com gestação gemelar de 32 semanas consultou por prurido generalizado, mas principalmente nas palmas das mãos e solas dos pés, que piorava à noite, além de dor no quadrante superior direito do abdômen, náuseas e diminuição do apetite. Submetera-se a tratamento de bacteriúria assintomática há 15 dias. Negou ter sintomas urinários no momento. Sentia dor à palpação lombar bilateralmente. Ao exame, não havia lesões de pele. Apresentava sinais vitais estáveis (incluindo temperatura de 36o C e pressão arterial de 120/70 mmHg), batimentos cardiofetais de 140 bpm e ausência de dinâmica uterina e dilatação cervical. Exames laboratoriais iniciais revelaram hematócrito de 30%, hemoglobina de 10 g/dl, leucócitos de 8.000/mm³ sem desvio, plaquetas de 200.000/mm³, glicemia de 84 mg/dl, AST de 52 U/l, ALT de 70 U/l, bilirrubina total de 1,4 mg/dl, bilirrubina direta de 0,7 mg/dl e tempo de protrombina de 12 segundos. O EQU indicou esterase leucocitária positiva. Com relação ao diagnóstico mais provável, assinale a assertiva correta.",
       "alternativas": {
         "A": "Trata-se de uma doença grave na gestação, caracterizada pela infiltração microvesicular de gordura no fígado, levando à insuficiência hepática; seu diagnóstico baseia-se na presença de, pelo menos, 6 critérios de Swansea, na ausência de outros diagnósticos.",
@@ -5348,7 +5348,7 @@
     {
       "id": "pv-hcp-2025-0128",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo. Gestante de 35 anos, G2C1, com 29 semanas de gestação, veio ao Centro Obstétrico por sangramento vaginal de pequeno a moderado volume. Negou dor abdominal e episódios anteriores de sangramento. Ao exame, verificaram-se sinais vitais normais, ausência de contrações uterinas e feto com vitalidade. Considerando-se o quadro clínico, a principal hipótese diagnóstica é .......... . Durante o exame físico, deve-se evitar a realização de .......... . O exame de imagem recomendado para confirmar o diagnóstico é .......... . Se a principal hipótese diagnóstica for confirmada, deve-se investigar também a possibilidade de .......... .",
       "alternativas": {
@@ -5371,8 +5371,8 @@
     {
       "id": "pv-hcp-2025-0129",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Obstetrícia fisiológica",
+      "sub_subarea": "Fisiologia da gestação",
       "enunciado": "Assinale a assertiva correta sobre gestação gemelar.",
       "alternativas": {
         "A": "À visualização ultrassonográfica, massa placentária única, sexos fetais semelhantes e presença do sinal do lambda definem que a gestação é monocoriônica diamniótica.",
@@ -5400,8 +5400,8 @@
     {
       "id": "pv-fam-2024-0031",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Você está evoluindo alojamento conjunto e ao checar o cartão de pré natal de uma puérpera, encontra sorologia de toxoplasmose com IgG positiva e IgM positiva no último trimestre, sem outras sorologias anotadas no cartão. Mãe refere pré natal sem intercorrências e refere uso de polivitamínicos durante o período. Qual a sua conduta frente a esse paciente?",
       "alternativas": {
         "A": "Solicitar sorologia (IgM e IgG do recém nascido",
@@ -5429,8 +5429,8 @@
     {
       "id": "pv-fam-2024-0044",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
+      "sub_subarea": "",
       "enunciado": "Multípara, G5P4, com 32 semanas de gestação, com queixa de sangramento vaginal indolor. Há 15 dias apresentou sangramento discreto após relação sexual. Ao exame físico, apresenta abdome flácido e ausência de contrações. Os batimentos cardíacos fetais estão na faixa de 140 a 150 bpm. De acordo com estes dados, assinale a alternativa correta:",
       "alternativas": {
         "A": "Realizar exame ultrassonográfico por via endovaginal para avaliar a possibilidade de placenta prévia.",
@@ -5452,8 +5452,8 @@
     {
       "id": "pv-fam-2024-0045",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Primigesta com 32 anos de idade, 40 semanas de gestação, internada com queixa de contrações uterinas fortes e perda de líquido há 30 minutos. O pré-natal foi sem intercorrências. Ao exame obstétrico, foi observada dilatação cervical de 4 cm. Considerando o quadro clínico e a cardiotocografia da paciente em anexo, é correto afirmar que:",
       "alternativas": {
         "A": "Cardiotocografia categoria I, com presença de DIPs tardios, indicando insuficiência placentária e resolução imediata da gestação.",

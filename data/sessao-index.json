@@ -22673,8 +22673,8 @@
   "pv-pe-2025-0147": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -22682,8 +22682,8 @@
   "pv-mg-2025-0083": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -22691,8 +22691,8 @@
   "pv-amr-2024-0042": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -22701,7 +22701,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Cesárea",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -22709,8 +22709,8 @@
   "pv-amr-2024-0049": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -22719,7 +22719,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -22727,8 +22727,8 @@
   "pv-amr-2025-0101": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -22737,7 +22737,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Rastreio de aneuploidias e malformações",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -22745,8 +22745,8 @@
   "pv-amr-2025-0154": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -22755,7 +22755,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -22763,8 +22763,8 @@
   "pv-ufr-2025-0232": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Obstetrícia fisiológica",
+    "subsub": "Fisiologia da gestação",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -22772,8 +22772,8 @@
   "pv-uer-2024-0041": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
