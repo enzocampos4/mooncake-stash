@@ -24599,8 +24599,8 @@
   "pv-ena-2024-0003": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Vigilância",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24609,7 +24609,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24617,8 +24617,8 @@
   "pv-ena-2024-0008": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24626,8 +24626,8 @@
   "pv-ena-2024-0009": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24635,8 +24635,8 @@
   "pv-ena-2024-0015": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "sub": "Ética Médica",
+    "subsub": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24644,8 +24644,8 @@
   "pv-ena-2024-0020": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24653,8 +24653,8 @@
   "pv-ena-2024-0026": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Puericultura e acompanhamento do crescimento",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -24662,7 +24662,7 @@
   "pv-ena-2024-0068": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Medicina de Família e Comunidade",
     "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
@@ -24671,8 +24671,8 @@
   "pv-ena-2025-0110": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Ética Médica",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -24680,8 +24680,8 @@
   "pv-ena-2025-0111": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -24689,8 +24689,8 @@
   "pv-ena-2025-0184": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Regionalização e Rede de Atenção à Saúde (RAS)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -24698,7 +24698,7 @@
   "pv-ena-2025-0188": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Saúde do Trabalhador",
     "subsub": "",
     "banca": "ENARE",
     "ano": 2025,

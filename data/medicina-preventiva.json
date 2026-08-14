@@ -3627,7 +3627,7 @@
       "id": "pv-pe-2024-0001",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Recentemente, os casos de esporotricose têm crescido em níveis epidêmicos no Brasil. O número de casos vem aumentando progressivamente ao longo da última década. Sobre a esporotricose humana, analise os itens abaixo: I. Esporotricose cutânea é a forma clínica mais frequente. Il. Tem como agente etiológico o fungo do gênero Sporothrix. III. Na América do Sul, é apontada como a micose subcutânea de maior prevalência. IV. Está inclusa na Lista Nacional de Notificação Compulsória de Doenças, Agravos e Eventos de Saúde Pública. Assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Todos os itens estão corretos.",
@@ -3650,8 +3650,8 @@
     {
       "id": "pv-pe-2024-0004",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
-      "sub_subarea": "Rastreamento",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Promoção da saúde é o conjunto de políticas, planos e programas de saúde pública com ações individuais e coletivas, voltadas para evitar que as pessoas se exponham a situações que podem causar doenças. Nesse sentido, Leavell & Clark propuseram o modelo da história natural da doença. Sobre esse modelo, analise os itens abaixo: I É composto por quatro níveis de prevenção: primária, secundária, terciária e quaternária. II. Prevenção primária envolve ações de promoção à saúde, diagnóstico e tratamento precoce. III. Prevenção secundária abrange as ações de reabilitação. IV. Prevenção quaternária identifica pacientes em risco de hipermedicalização, para protegê- los de novas intervenções médicas e sugerir-lhes tratamentos eticamente aceitáveis. Assinale a alternativa CORRETA de acordo com o modelo.",
       "alternativas": {
         "A": "Todos os itens estão corretos.",
@@ -3681,7 +3681,7 @@
       "id": "pv-pe-2024-0017",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Para comparar os riscos na epidemiologia, diversas medidas de associação entre a exposição e a doença são utilizadas, que são as medidas de efeito. A razão entre a incidência em pessoas expostas e a incidência em pessoas não expostas é a definição de",
       "alternativas": {
         "A": "Risco absoluto.",
@@ -3704,8 +3704,8 @@
     {
       "id": "pv-pe-2024-0020",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "O Programa de Saúde da Família (PSF) gradualmente foi se tornando a principal estratégia para a ampliação do acesso de primeiro contato e de mudança do modelo assistencial no Brasil. Posteriormente torna-se Estratégia de Saúde da Família (ESF), sendo a ESF enunciada na",
       "alternativas": {
         "A": "Norma Operacional da Assistência à Saúde.",
@@ -3728,8 +3728,8 @@
     {
       "id": "pv-pe-2024-0021",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "Uma escolar de nove anos está internada numa enfermaria de pediatria, com pneumonia direita há dois dias. A despeito do tratamento com ampicilina venosa na dose correta, seu desconforto respiratório persiste e ela realizou uma radiografia de tórax, que demonstrou derrame pleural de moderada intensidade. A ultra-sonografia de toráx no leito confirmou o derrame, revelando grumos. Realizou punção pleural que mostrou líquido citrino em moderada quantidade, com presença de diplococos Gram-positivos no esfregaço, assim como proteínas aumentadas, DHL elevada e glicose baixa. Qual a conduta mais apropriada para essa menina?",
       "alternativas": {
         "A": "Manter o antibiótico e realizar drenagem pleural fechada",
@@ -3759,7 +3759,7 @@
       "id": "pv-pe-2024-0066",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "PDR, 22 anos, sexo masculino, sem sintomas ou comorbidades, realiza bateria de exames para check-up. Dentre eles, fez o exame de CA 19.9 cujo resultado deu 52 U/mL (valor de referência: 37 U/mL). Levando em consideração que a sensibilidade e especificidade desse marcador para o câncer de pâncreas é, respectivamente, 85% e 90%, e este câncer possui uma incidência de 5,29/100mil homens, é CORRETO afirmar que",
       "alternativas": {
         "A": "a chance de um indivíduo ter câncer de pâncreas e o exame vir normal é 10%.",
@@ -3788,8 +3788,8 @@
     {
       "id": "pv-pe-2024-0090",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Em tempos nos quais a inteligência artificial promete trazer muitos ganhos para a prática clínica, a comunicação é uma das atividades inerentes ao relacionamento interpessoal. A comunicação de más notícias é, muitas vezes, desafiadora para o médico em formação, e alguns protocolos se propõem a ser um dos guias para essa atividade. Assinale a alternativa que está de acordo com o protocolo SPIKES.",
       "alternativas": {
         "A": "A comunicação do diagnóstico e prognóstico deve ser feita ao paciente na ausência de acompanhantes, pois caberá a ele contar às pessoas de sua confiança.",
@@ -3818,8 +3818,8 @@
     {
       "id": "pv-pe-2025-0118",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma mulher de 80 anos, com histórico de depressão controlada, procura atendimento com confusão mental leve, perda de apetite e fraqueza muscular nas últimas semanas. Está em uso de fluoxetina 20 mg/dia há três meses. Não apresenta edema ou sinais de sobrecarga de volume; sua pressão arterial é de 110/70 mmHg. Exames complementares mostram sódio sérico de 124 mEq/L (referência: 135–145 mEq/L), osmolaridade sérica de 260 mOsm/kg (referência: 275–295 mOsm/kg), osmolaridade urinária de 450 mOsm/kg (referência: 300– 900 mOsm/kg) e sódio urinário de 40 mEq/L (referência: 20–40 mEq/L). Qual é a conduta inicial mais apropriada para esse caso?",
       "alternativas": {
         "A": "Suspender a fluoxetina e monitorar o sódio sérico, associando restrição hídrica.",
@@ -3842,8 +3842,8 @@
     {
       "id": "pv-pe-2025-0119",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Um homem de 28 anos, sem comorbidades e com histórico de tabagismo leve (5 maços-ano) procura atendimento com queixa de pirose e regurgitação ácida, especialmente após refeições grandes ou ao se deitar. Ele relata que os sintomas começaram há cerca de seis meses e ocorrem aproximadamente três vezes por semana. Não apresenta sintomas de alarme, como perda de peso, disfagia, odinofagia, hematêmese ou anemia. Ele usa antiácidos eventualmente, com alívio temporário dos sintomas. Exames complementares: Endoscopia digestiva alta: mucosa esofágica sem sinais de esofagite, erosões ou outras alterações significativas. Considerando o quadro clínico e os resultados dos exames, qual é o manejo inicial mais adequado para esse paciente?",
       "alternativas": {
         "A": "Realizar fundoplicatura para controle dos sintomas e evitar progressão do refluxo.",
@@ -3866,8 +3866,8 @@
     {
       "id": "pv-pe-2025-0166",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Apesar de ter sido identificado o agente causador em 1960, neste ano, milhares de casos dessa doença foram confirmados em vários estados brasileiros. Até agosto de 2024, a Febre do Oropouche provocou a morte de duas pessoa pessoas no Brasil, evento inédito no mundo. Sobre essa doença, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Trata-se de uma doença de notificação compulsória, causada pelo vírus Orthobunyavirus oropoucheense, pertencente à família dos enterovírus.",
@@ -3890,8 +3890,8 @@
     {
       "id": "pv-pe-2025-0182",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O acordo entre as três esferas de gestão com o objetivo de melhorar a eficiência e qualidade das respostas do SUS. Sendo assinado em 2006, durante a 14a Conferência Nacional de Saúde, corresponde à(ao)",
       "alternativas": {
         "A": "Norma Operacional da Assistência à Saúde.",
@@ -3915,7 +3915,7 @@
       "id": "pv-pe-2025-0184",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Nos últimos anos, têm sido publicados estudos sobre a prevalência da síndrome de burnout entre os profissionais de saúde em diferentes países, e os resultados são alarmantes. Dessa forma, o meio de prevenir o dano para o paciente, atuando nos profissionais de saúde no sentido de evitar fenômenos, como o burnout, tem sido conceituado na prevenção",
       "alternativas": {
         "A": "Primária.",
