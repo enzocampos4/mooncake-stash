@@ -6178,7 +6178,7 @@
     {
       "id": "pv-df-2025-0103",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Um paciente de 25 anos de idade foi levado ao pronto-socorro pelo Corpo de Bombeiros com relato de ter sofrido atropelamento em via pública há 30 minutos. Chegou em protocolo de trauma, contactuante, mas apenas por palavras inapropriadas, murmúrios vesiculares fisiológicos bilateralmente. Ao exame físico, apresentou SatO2 = 92%, FR = 20 irpm, PA = 100 mmHg X 60 mmHg, FC = 100 bpm, movimento de flexão à pressão e abertura ocular ausente. Tinha uma ferida cortocontusa em região parietal, sem sangramento ativo. Em relação ao trauma cranioencefálico (TCE) moderado e grave, assinale a alternativa correta.",
       "alternativas": {
@@ -6201,8 +6201,8 @@
     {
       "id": "pv-df-2025-0117",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Uma gestante de 28 semanas queixa-se de cefaleia intensa e turvação visual. Ao exame físico, apresentou PA = 170 mmHg X 110 mmHg, FC = 92 bpm, FR = 18 irpm e SatO2 = 98%. O exame de urina 1 revelou proteinúria (+++). O diagnóstico mais provável para essa paciente é",
       "alternativas": {
         "A": "eclâmpsia.",
@@ -6224,7 +6224,7 @@
     {
       "id": "pv-df-2025-0122",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Um paciente de 72 anos de idade compareceu à consulta com histórico de dispneia progressiva e fadiga há seis meses. Ao exame físico, revelou estertores crepitantes bibasais, baqueteamento digital e cianose discreta. Foram verificados FC = 88 bpm, FR = 22 irpm e SatO2 = 89%. Ele realizou tomografia de tórax, que evidenciou opacidades reticulares subpleurais bilaterais e faveolamento. Nesse caso, qual é o diagnóstico mais provável?",
       "alternativas": {
@@ -6253,7 +6253,7 @@
     {
       "id": "pv-df-2025-0162",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Uma paciente de 59 anos de idade apresenta perda urinária insensível, associada a urgência miccional, sem queixas de esvaziamento vesical associado. Ao exame clínico, mostra-se em bom estado geral, sem demais alterações, com FC = 90 bpm, PA = 120 mmHg x 80 mmHg, FR = 17 irpm, SatO2 = 95%, POP-Q tópico. Em relação ao diagnóstico clínico da paciente, assinale a alternativa correta.",
       "alternativas": {
@@ -6282,7 +6282,7 @@
     {
       "id": "pv-df-2025-0163",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Uma paciente de 59 anos de idade apresenta perda urinária insensível, associada a urgência miccional, sem queixas de esvaziamento vesical associado. Ao exame clínico, mostra-se em bom estado geral, sem demais alterações, com FC = 90 bpm, PA = 120 mmHg x 80 mmHg, FR = 17 irpm, SatO2 = 95%, POP-Q tópico. Quanto ao referido caso clínico, assinale a alternativa que corresponde ao tratamento de primeira linha.",
       "alternativas": {
@@ -6305,7 +6305,7 @@
     {
       "id": "pv-df-2025-0164",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Uma paciente de 59 anos de idade apresenta perda urinária insensível, associada a urgência miccional, sem queixas de esvaziamento vesical associado. Ao exame clínico, mostra-se em bom estado geral, sem demais alterações, com FC = 90 bpm, PA = 120 mmHg x 80 mmHg, FR = 17 irpm, SatO2 = 95%, POP-Q tópico. No caso clínico citado, qual seria a indicação para se realizar o estudo urodinâmico?",
       "alternativas": {
@@ -6328,7 +6328,7 @@
     {
       "id": "pv-df-2025-0170",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Uma paciente de 55 anos de idade, com histórico de depressão, apresenta quadro de dor abdominal difusa associada a constipação. O exame físico mostrou FC = 80 bpm, FR = 16 irpm e SatO2 = 97%. Acerca desse caso clínico, qual é a principal hipótese diagnóstica?",
       "alternativas": {
@@ -6351,7 +6351,7 @@
     {
       "id": "pv-df-2025-0179",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Um paciente de 70 anos de idade, diabético tipo 2 e tabagista, compareceu à consulta com queixa de dor em membro inferior esquerdo. O exame físico, mostrou FC = 88 bpm, FR = 18 irpm e SatO2 = 97%. Apresenta palidez e cianose no pé esquerdo, com pulsos femorais palpáveis e ausência de pulsos distais. Considerando esse caso clínico, qual a principal conduta nesse caso?",
       "alternativas": {
@@ -6395,7 +6395,7 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "_area_slug": "clinica-medica",
       "sub_subarea": "",
       "banca": "ESTRATÉGIA MED"
@@ -6403,8 +6403,8 @@
     {
       "id": "pv-ba-2024-0022",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Gestante, 26 anos de idade, tercigesta e secundípara (partos normais), sem comorbidades, vem em consulta de rotina pré-natal com 11 semanas e com o seguinte resultado de sorologia para toxoplasmose: IGM: reagente e IGG reagente. Feito teste de avidez: baixa avidez. Em caso de PCR positivo (sugerindo infecção fetal), identifique a terapia medicamentosa indicada para o tratamento da infecção fetal nesse caso.",
       "alternativas": {
         "A": "Penicilina Benzatina, espiramicina e ácido folínico.",
@@ -6431,8 +6431,8 @@
     {
       "id": "pv-ba-2024-0023",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Gestante, 26 anos de idade, tercigesta e secundípara (partos normais), sem comorbidades, vem em consulta de rotina pré-natal com 11 semanas e com o seguinte resultado de sorologia para toxoplasmose: IGM: reagente e IGG reagente. Feito teste de avidez: baixa avidez. Indique o procedimento, no segundo trimestre, que poderá avaliar presença de infecção fetal, através do PCR (reação em cadeia de polimerase):",
       "alternativas": {
         "A": "Biópsia de vilo corial.",
@@ -6462,8 +6462,8 @@
     {
       "id": "pv-ba-2024-0024",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Gestante, 26 anos de idade, tercigesta e secundípara (partos normais), sem comorbidades, vem em consulta de rotina pré-natal com 11 semanas e com o seguinte resultado de sorologia para toxoplasmose: IGM: reagente e IGG reagente. Feito teste de avidez: baixa avidez. 2. SUS-BA Provas Gratuitas Anteriores para Residência Médica 92/269 Com relação ao resultado do teste de avidez, identifique a alternativa correta:",
       "alternativas": {
         "A": "A gestante tem indicação de uso de Espiramicina.",
