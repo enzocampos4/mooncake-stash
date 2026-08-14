@@ -4151,7 +4151,7 @@
       "id": "pv-ufr-2025-0230",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea",
+      "sub_subarea": "Parto instrumental",
       "enunciado": "Durante o período expulsivo, o obstetra optou por utilizar o fórceps, já que escalpe fetal encontrava-se visível, sem a necessidade de afastar os grandes lábios, a cabeça já havia atingido o assoalho pélvico e a sutura sagital estava no diâmetro anteroposterior. Ao aplicar o fórceps, a rotação não excedeu 45°. Pode-se afirmar que é um fórceps:",
       "alternativas": {
         "A": "de alívio",
@@ -4179,8 +4179,8 @@
     {
       "id": "pv-uer-2024-0043",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "A ocitocina é uma das drogas mais utilizadas em obstetrícia, sendo recomendada em várias situações. É recomendação de uso da ocitocina, EXCETO:",
       "alternativas": {
         "A": "tratamento de fase ativa prolongada do trabalho de parto",
@@ -4203,7 +4203,7 @@
       "id": "pv-uer-2025-0155",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Paciente de 21 anos, com data da última menstruação (DUM) em 08/04/2024, iniciou acompanhamento pré-natal em unidade de saúde da família na segunda semana de junho. Em 11/07/2024, apresentou ultrassonografia confirmando idade gestacional pela data da última menstruação e os seguintes resultados de exames laboratoriais: grupo sanguíneo 0+, hemoglobina = 12,5mg/dL, hematócrito = 37,8%, glicemia = 78mg/dL, VDRL não reator, anti- HIV não reator, toxoplasmose IgG positivo e IgM negativo, HbsAg negativo e Anti-HBS positivo. Na consulta de 25/09/2024, é recomendado solicitar:",
       "alternativas": {
         "A": "sorologia para toxoplasmose",
@@ -4309,7 +4309,7 @@
     {
       "id": "pv-uni-2024-0062",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Homem, 72 anos de idade, apresenta tosse produtiva, febre não aferida e sensação de cansaço há 5 dias. Exame físico: FR = 38 irpm, SpO2 = 82% e fala entrecortada. Após 30 minutos de ventilação mecânica não invasiva, a SpO2 = 87%, sem melhora do padrão respiratório, e opta-se por realizar intubação orotraqueal. Considerando o peso estimado do paciente de 70 kg, qual é o melhor ajuste inicial da ventilação mecânica?",
       "alternativas": {
@@ -4338,7 +4338,7 @@
     {
       "id": "pv-uni-2025-0133",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Mulher, 37 anos de idade, é admitida no PS com febre, disúria e lombalgia à direita. Exame físico: paciente torporosa, T = 38,4 °C, tempo de enchimento capilar de 4 segundos, PA = 88/46 mmHg, FC = 108 bpm, FR = 10 irpm, SpO₂= 83%. Exames laboratoriais: creatinina = 1,4 mg/dL; sódio = 145 mEq/L; potássio = 4,7 mEq/L; cloro = 105 mmol/L; gasometria arterial com pH = 7,19, pCO₂ = 40 mmHg, pO₂ = 79 mmHg, bicarbonato = 10 mEq/L. Qual é o distúrbio ácido-base observado?",
       "alternativas": {
@@ -4361,7 +4361,7 @@
     {
       "id": "pv-uni-2025-0138",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Homem, 67 anos de idade, procurou PS com quadro de três dias febre, dor torácica em base direita ventilatório-dependente e tosse produtiva com expectoração esverdeada. Exame físico: REG, orientado, T axilar = 38 oC, PA = 110/70 mmHg, FC = 110 bpm, FR = 32 irpm, SpO2 = 95% em ar ambiente; expansibilidade torácica discretamente diminuída em hemitórax direito; na base direita, observa-se frêmito toracovocal aumentado, som respiratório abolido e broncofonia aumentada. Exames: glicemia = 420 mg/dL; ureia = 70 mg/dL; creatinina = 1,3 mg/dL; TGO = 24 U/L; TGP = 20 U/L; hemograma com 14.000 leucócitos com desvio à esquerda; PCR = 35 mg/dL. Aplique o escore de gravidade CURB-65 e indique o local de tratamento recomendado.",
       "alternativas": {
@@ -4390,7 +4390,7 @@
     {
       "id": "pv-sír-2024-0098",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Homem, 24 anos de idade, procura pronto-socorro por febre aferida de 38 ºC, tosse com secreção purulenta e dispneia há 2 semanas. Buscou atendimento médico no início do quadro, sendo iniciada antibioticoterapia via oral para tratamento em domicílio. Evoluiu com melhora da tosse, porém persiste com febre diária e dispneia progressiva há 1 semana. Tem antecedente de asma com bom controle de sintomas com uso de formoterol-budesonida a cada 12 horas. Nega exacerbações no último ano. Ao exame físico, encontra-se com PA: 126 x 82 mmHg, FC: 118 bpm, FR: 26 irpm, saturação periférica de oxigênio 95% em ar ambiente e temperatura axilar 37,8 ºC. A ausculta pulmonar está abolida em até terço médio do hemitórax direito com sibilos discretos em hemitórax esquerdo. O restante do exame físico está normal. Durante a reavaliação o paciente evoluiu com piora da dispneia. Ao exame, apresenta FC: 128 bpm, FR: 36 irpm e saturação periférica de oxigênio 90% em ar ambiente. A ausculta pulmonar permanece abolida em até terço médio do hemitórax direito com sibilos difusos em ápice à direita e hemitórax esquerdo. Iniciado tratamento com corticoide sistêmico e beta-agonista de curta duração. A classificação da gravidade da exacerbação do paciente e a melhor conduta, entre as opções abaixo, é:",
       "alternativas": {
@@ -4417,7 +4417,7 @@
     {
       "id": "pv-sír-2024-0100",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Homem, 24 anos de idade, procura pronto-socorro por febre aferida de 38 ºC, tosse com secreção purulenta e dispneia há 2 semanas. Buscou atendimento médico no início do quadro, sendo iniciada antibioticoterapia via oral para tratamento em domicílio. Evoluiu com melhora da tosse, porém persiste com febre diária e dispneia progressiva há 1 semana. Tem antecedente de asma com bom controle de sintomas com uso de formoterol-budesonida a cada 12 horas. Nega exacerbações no último ano. Ao exame físico, encontra-se com PA: 126 x 82 mmHg, FC: 118 bpm, FR: 26 irpm, saturação periférica de oxigênio 95% em ar ambiente e temperatura axilar 37,8 ºC. A ausculta pulmonar está abolida em até terço médio do hemitórax direito com sibilos discretos em hemitórax esquerdo. O restante do exame físico está normal. Diante do quadro clínico atual deste paciente, entre os achados de ultrassonografia point-of-care pulmonar abaixo, o mais provável de ser encontrado é:",
       "alternativas": {
@@ -4448,8 +4448,8 @@
     {
       "id": "pv-sír-2025-0168",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "enunciado": "Considere o gráfico abaixo de curva de altura uterina. O quadro exibido nessa curva de altura uterina por idade gestacional pode ocorrer nos casos de",
       "alternativas": {
         "A": "infecção materna por Covid-19.",

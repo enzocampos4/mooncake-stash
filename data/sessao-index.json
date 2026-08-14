@@ -22349,8 +22349,8 @@
   "pv-df-2024-0030": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -22358,7 +22358,7 @@
   "pv-df-2024-0042": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Puerpério",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
@@ -22368,7 +22368,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Nutrição e suplementação",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -22376,8 +22376,8 @@
   "pv-df-2025-0157": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Medicina fetal",
+    "subsub": "Avaliação de vitalidade fetal",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -22386,7 +22386,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Imunização na gestação",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -22394,7 +22394,7 @@
   "pv-ena-2024-0095": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "ENARE",
     "ano": 2024,
@@ -22403,8 +22403,8 @@
   "pv-ena-2025-0176": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Medicina fetal",
+    "subsub": "Avaliação de vitalidade fetal",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -22422,7 +22422,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Puerpério",
-    "subsub": "Hemorragia",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "SES-PE",
     "ano": 2025,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2025"
@@ -22431,7 +22431,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "PSU-MG",
     "ano": 2025,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025"
@@ -22439,8 +22439,8 @@
   "pv-ufr-2024-0064": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "DMG",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
