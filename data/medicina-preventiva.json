@@ -3041,9 +3041,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3063,9 +3063,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Controle social e participação popular",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3085,9 +3085,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3111,7 +3111,7 @@
       "_edicao": "9",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3134,9 +3134,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3156,9 +3156,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3178,9 +3178,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3202,9 +3202,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3226,9 +3226,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Gestão",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3248,9 +3248,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -3270,16 +3270,16 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
       "id": "pv-ena-2024-0002",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma das competências da Atenção Primária à Saúde (APS) é o cuidado da gestante de risco habitual de forma integral. Durante o ciclo gravídico, é natural e esperado que a mulher apresente ganho de peso. Sabe-se, no entanto, que o ganho de peso excessivo nesse período é prejudicial à saúde, aumentando o risco de diabetes mellitus gestacional. Em relação a esse tema, assinale a alternativa que apresenta o valor adequado de ganho de peso para uma mulher com IMC entre 25 e 30 durante toda a gestação.",
       "alternativas": {
         "A": "Entre 12,5 kg a 18,0 kg.",
