@@ -3152,8 +3152,8 @@
     {
       "id": "pv-uni-2024-0041",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Secundigesta, 28 anos de idade, parto anterior no termo. Primeira consulta em UBS com diagnóstico de gravidez tópica de 8 semanas. Realizado teste rápido para sífilis, com resultado positivo. No cartão pré-natal da gestação anterior encontra-se anotado o diagnóstico de sífilis e tratamento feito com Penicilina Benzatina, 7.200.000 UI. Feito seguimento sorológico, há 6 meses, com VDRL de 1:2. Qual é a conduta mais indicada?",
       "alternativas": {
         "A": "Solicitar VDRL.",
@@ -3182,7 +3182,7 @@
       "id": "pv-uni-2024-0043",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "De acordo com a recém-publicada Diretriz Nacional de assistência ao parto normal do ministério da saúde, qual das alternativas é correta quanto ao manejo do primeiro período do parto em parturientes saudáveis e de risco habitual?",
       "alternativas": {
         "A": "O uso de ocitocina é recomendado para prevenção de atraso no trabalho de parto em mulheres recebendo analgesia peridural.",
@@ -3210,8 +3210,8 @@
     {
       "id": "pv-uni-2024-0044",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Tromboembolismo na gestação",
       "enunciado": "Secundigesta, 36 semanas de gestação, foi internada às 18 horas em trabalho de parto prematuro com 5cm de dilatação cervical. Refere ter feito uso de enoxaparina sódica na dose de 40mg/dia, durante toda a gestação, por ser portadora de trombofilia hereditária. Última aplicação ocorreu as 8 horas da manhã do mesmo dia. Durante o período expulsivo do parto, às 22 horas, há indicação de cesárea por desacelerações tardias recorrentes. Qual é a técnica anestésica mais indicada?",
       "alternativas": {
         "A": "Peridural.",
@@ -3240,7 +3240,7 @@
       "id": "pv-uni-2024-0046",
       "area": "Obstetrícia",
       "subarea": "Puerpério",
-      "sub_subarea": "Hemorragia",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Puérpera, com parto vaginal a termo de recémnascido de 4200g, apresentou sangramento vaginal intenso logo após a expulsão da placenta. A monitorização revelou, naquele momento, pulso de 110 bpm e pressão arterial de 85 x 55mmHg. Oito minutos após a infusão endovenosa de ocitocina e administração intramuscular de ergometrina, houve redução significativa do sangramento. Peso das compressas ao final do procedimento de 700g. A enfermeira acionou corretamente o código de hemorragia pós-parto, pois:",
       "alternativas": {
         "A": "as compressas pesaram mais de 500g.",
@@ -3262,8 +3262,8 @@
     {
       "id": "pv-uni-2025-0143",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Puerpério",
+      "sub_subarea": "",
       "enunciado": "Em um estudo randomizado, controlado, que investigou os efeitos da tração controlada do cordão umbilical na terceira fase do trabalho de parto sobre a hemorragia pós-parto, a redução do risco associada à intervenção foi não significante (RR = 0,95; IC95% = 0,79 a 1,15). Com base neste resultado, qual é a alternativa correta?",
       "alternativas": {
         "A": "O intervalo de confiança de 95% quantifica a imprecisão da amostra em estimar o parâmetro populacional do risco relativo de hemorragia pós- parto.",
@@ -3285,8 +3285,8 @@
     {
       "id": "pv-uni-2025-0177",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "enunciado": "Gestante 38 anos, primigesta, com 36 semanas de gestação, com diagnóstico de diabetes mellitus gestacional estabelecido com 13 semanas tendo sido iniciada Insulinização com 25 semanas e desde então vem mantendo cerca de 80 a 85% dos valores do controle glicosimétrico dentro do normal. Exame físico: IMC = 32 Kg/m2, altura uterina= 35 cm. Ultrassom: peso estimado = 2890 gramas e o maior bolsão de líquido amniótico: 5 cm. Qual é a conduta mais adequada em relação à resolução da gravidez?",
       "alternativas": {
         "A": "Cesárea eletiva entre 38 0/7 e 38 6/7 semanas.",
@@ -3316,8 +3316,8 @@
     {
       "id": "pv-uni-2025-0178",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Tromboembolismo na gestação",
       "enunciado": "Mulher 40 anos de idade, IIIG, IP, IIA com o mesmo parceiro. Os abortamentos ocorreram entre 7 e 8 semanas de gestação. Os cariótipos do casal são normais. Exames laboratoriais: anticorpo anticardiolipina IgA = 22 mg/dL que se manteve positivo após 12 semanas de intervalo, mutação em heterozigose G20210 A da protrombina, reação para Citomegalovírus com IgG positivo e IgM negativo. Chega ao pré-natal com 6 semanas de atraso menstrual. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Medicar com aspirina e enoxaparina.",
@@ -3345,8 +3345,8 @@
     {
       "id": "pv-uni-2025-0179",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "enunciado": "Gestante, 36 anos de idade, IG 38 semanas e 3 dias, com gestação gemelar dicoriônica, apresenta diabetes mellitus gestacional. Possui bom controle glicêmico, alcançado com orientação dietética. Exames: taxas de hemoglobina glicada que variaram entre 4,9 e 5,4% e ultrassonografia recente mostrando o feto I em apresentação cefálica e peso estimado no percentil 35, e o feto II em apresentação pélvica e peso estimado no percentil 38 da curva própria para gestação gemelar. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Indução do trabalho de parto.",
@@ -3379,8 +3379,8 @@
     {
       "id": "pv-uni-2025-0180",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Parto",
+      "sub_subarea": "Parto instrumental",
       "enunciado": "Parturiente de risco habitual, 26 anos de idade, 38 semanas de gestação, primigesta, encontra-se em trabalho de parto espontâneo, sem bloqueio neuraxial. Exame obstétrico: frequência cardíaca fetal basal de 136 batimentos por minuto e com desacelerações precoces repetitivas à cardiotocografia, apresentação cefálica em OP e plano +3 de DeLee. Após 4 horas na fase ativa do período expulsivo, refere estar exausta e não consegue mais realizar puxos. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Hiperoxigenação materna e continuação do período expulsivo.",
@@ -3403,7 +3403,7 @@
       "id": "pv-sír-2024-0008",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "sub_subarea": "",
       "enunciado": "As politicas de saúde pública para gravidez na adolescência devem considerar que",
       "alternativas": {
         "A": "segundo a OMS, na faixa etária de 15 a 19 anos, ocorreram em 2019 cerca de 2 milhões de gestações a cada ano, em países de baixa e média renda.",
@@ -3427,7 +3427,7 @@
       "id": "pv-sír-2024-0015",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Gestante, 40 anos, com 8 semanas de gestação, chega à consulta de pré-natal para levar exames realizados há 15 dias. É sua quarta gestação, teve um abortamento espontâneo e dois partos cesarianos. Não é tabagista, faz uso de carbamazepina 200 mg 3 vezes ao dia, com controle adequado das crises. Os resultados dos exames foram Hb: 11,7 mg/dL, Ht: 38%, Tipo sanguineo: A Rh negativo, Glicemia jejum: 90 mg/dL. Teste rápido HIV: negativo, Teste rápido sífilis: negativo, Sorologia Toxoplasmose: IgG positivo alta avidez, IgM negativo. Diante do caso, a médica de família e comunidade decidiu encaminhar a gestante para o pré-natal de alto risco. De acordo com os Protocolos da Atenção Básica - Saúde das Mulheres - Ministério da Saúde, 2016, entre as alternativas abaixo o motivo para esse encaminhamento é:",
       "alternativas": {
         "A": "Sorologia para toxoplasmose.",
@@ -3454,7 +3454,7 @@
       "id": "pv-sír-2024-0031",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Primigesta de 41 semanas, sem contrações uterinas, apresenta-se com o seguinte exame cervical: polo cefálico em -3, colo posterior, sem dilatação; apagamento de 50%; amolecido. O Índice de Bishop é",
       "alternativas": {
         "A": "1, desfavorável à indução com ocitocina.",
