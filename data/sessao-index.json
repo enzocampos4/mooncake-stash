@@ -22242,7 +22242,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Cesárea",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -22251,7 +22251,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Mecanismo do parto",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -22260,7 +22260,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Cesárea",
+    "subsub": "Distócias",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -22269,7 +22269,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Cesárea",
+    "subsub": "Distócias",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -22277,8 +22277,8 @@
   "pv-sír-2025-0201": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -22286,8 +22286,8 @@
   "pv-hia-2024-0009": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Puerpério",
+    "subsub": "Aleitamento materno",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -22295,8 +22295,8 @@
   "pv-hia-2024-0016": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -22304,8 +22304,8 @@
   "pv-hia-2024-0019": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "DMG",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -22313,8 +22313,8 @@
   "pv-hia-2024-0022": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Medicina fetal",
+    "subsub": "Avaliação de vitalidade fetal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -22322,8 +22322,8 @@
   "pv-hia-2024-0028": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Medicina fetal",
+    "subsub": "Avaliação de vitalidade fetal",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -22332,7 +22332,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Puerpério",
-    "subsub": "Hemorragia",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -22340,8 +22340,8 @@
   "pv-df-2024-0029": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
+    "subsub": "",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"

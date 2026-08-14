@@ -3805,8 +3805,8 @@
     {
       "id": "pv-df-2024-0030",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
+      "sub_subarea": "",
       "enunciado": "Uma gestante de 22 anos de idade, G1, IG = 34 semanas e 1 dia, compareceu ao pronto- socorro da maternidade com queixa de perda de líquido via vaginal, que parecia água com odor de água sanitária, há seis horas. Relatou ter achado que era urina, mas que iniciou com calafrios e optou por procurar assistência médica. Negou outros sintomas. Ao exame físico, apresentou FC = 102 bpm, T = 39 ºC, FR = 25 irpm, SpO2 = 99%, PA = 110 mmHg x 75mmHg e BCF = 162 bpm. O exame especular mostrou presença de líquido transparente, com rajas de sangue exteriorizando-se por orifício externo de colo uterino. Ao exame de abdome, demonstrou dor à palpação do útero. Em relação ao caso clínico descrito, qual é a principal hipótese diagnóstica?",
       "alternativas": {
         "A": "Sofrimento fetal agudo detectado pelo aumento da frequência cardíaca fetal",
@@ -3836,7 +3836,7 @@
     {
       "id": "pv-df-2024-0042",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Puerpério",
       "sub_subarea": "",
       "enunciado": "Com base nas diretrizes da Sociedade Brasileira de Pediatria para atendimento ao recém- nascido (RN) ≥ 34 semanas na sala de parto, assinale a alternativa correta.",
       "alternativas": {
@@ -3869,7 +3869,7 @@
       "id": "pv-df-2025-0155",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Nutrição e suplementação",
       "enunciado": "Uma gestante de 10 semanas iniciou consulta de pré-natal com exames solicitados por outro médico e retornou para avaliação. Em relação aos achados dos exames, assinale a alternativa correta.",
       "alternativas": {
         "A": "A paciente com glicemia de 95 possui rastreio positivo, devendo realizar teste oral de tolerância a glicose após as 28 semanas para rastreio de diabetes gestacional.",
@@ -3897,8 +3897,8 @@
     {
       "id": "pv-df-2025-0157",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "enunciado": "Uma gestante de 10 semanas iniciou consulta de pré-natal com exames solicitados por outro médico e retornou para avaliação. Essa mesma paciente realizou perfil glicêmico que constatou alteração de mais de 30% das medidas, sendo necessário tratamento adjuvante às medidas comportamentais. A mencionada paciente realizou ultrassonografia obstétrica do terceiro trimestre, por meio da qual foram verificados peso fetal estimado de 2.810 g (percentil 100), 33 semanas e 4 dias de gravidez, com líquido amniótico apresentando maior bolsão vertical de 12 cm, com Doppler de artérias uterinas e umbilical dentro da normalidade. A respeito do melhor momento de interrupção e da via de parto, assinale a alternativa correta.",
       "alternativas": {
         "A": "Interrupção com 37 semanas, via alta (parto cesárea)",
@@ -3927,7 +3927,7 @@
       "id": "pv-ena-2024-0037",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Imunização na gestação",
       "enunciado": "Uma gestante primigesta, com idade gestacional de 6 semanas, vai à consulta de pré-natal para mostrar o resultado dos exames do primeiro trimestre que demonstraram suscetibilidade para toxoplasmose. Dentre as alternativas a seguir, assinale a que apresenta recomendações para evitar essa doença ao longo da gestação.",
       "alternativas": {
         "A": "Não há contraindicação em utilizar a mesma faca para cortar carnes e outros vegetais ou frutas.",
@@ -3956,7 +3956,7 @@
     {
       "id": "pv-ena-2024-0095",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Um médico, trabalhando em uma unidade de pronto atendimento, atende um paciente de 70 anos com queixa de febre de início há 4 dias, acompanhada de tosse produtiva e astenia. O paciente é diabético e hipertenso, encontra-se consciente e orientado, porém, no momento, está com a visão prejudicada, devido à cirurgia recente de correção de catarata. Ele não tem tomado as medicações de uso contínuo por não estar conseguindo identificá-las. Seu filho, que mora há 450 Km de distância, chegará em 2 dias para poder acompanhá-lo. Ao exame físico, apresenta frequência respiratória de 24 irpm, pressão arterial de 100x64 mmHg, exame laboratorial: ureia 45 mg/dl e creatinina 0,6 mg/dL. Diante do exposto, qual seria a conduta adequada?",
       "alternativas": {
@@ -3980,8 +3980,8 @@
     {
       "id": "pv-ena-2025-0176",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "enunciado": "Uma gestante realiza ultrassonografia com 24 semanas, que identifica gestação gemelar monocoriônica, diamniótica, com um feto com peso estimado no percentil 3 e o outro com peso estimado no percentil 43. Eles têm uma diferença de 28% entre os pesos. Ambos os fetos estão com volume do líquido amniótico normal e ambos com o doppler da artéria umbilical, da artéria cerebral média e do ducto venoso dentro da normalidade. O diagnóstico compatível com esse quadro é:",
       "alternativas": {
         "A": "gemelidade imperfeita;",
@@ -4038,7 +4038,7 @@
       "id": "pv-pe-2025-0143",
       "area": "Obstetrícia",
       "subarea": "Puerpério",
-      "sub_subarea": "Hemorragia",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Na propedêutica da hemorragia pós-parto, é importante estimar a perda sanguínea, ajudando no correto diagnóstico. Um desses métodos é a estimativa visual da perda sanguínea que é simples e rápida, porém é subjetiva e pode subestimar a hemorragia. Dessa forma, assinale a alternativa que representa a estimativa aproximada de perda sanguínea visual quando o lençol da cama da paciente apresenta uma poça de sangue de aproximadamente 50 cm de diâmetro.",
       "alternativas": {
         "A": "500 ml",
@@ -4070,7 +4070,7 @@
       "id": "pv-mg-2025-0081",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Primigesta, 23 anos, sem doenças prévias, retorna após 15 dias, à sua segunda consulta de pré-natal trazendo exames solicitados anteriormente. Encontra-se na consulta atual com 16 semanas e três dias de idade gestacional (confirmada por biometria fetal), sem queixas ginecológicas ou relativas à gestação e com cartão de vacina atualizado. Exames laboratoriais evidenciam: grupo sanguíneo B Rh negativo; glicemia de jejum = 91mg/dL; VDRL = não reator; anti-HIV não reator; HbsAg = não reator; anti-HCV = não reator; HTLV 1 e 2 = não reator; toxoplasmose = IgM negativo, lgG positivo; hemoglobina = 11,5g/dL, hematócrito = 34%, CM = 88fL, HCM = 27pg; urina rotina evidenciando glicosúria (2+ em 4+), urocultura sem crescimento bacteriano, e eletroforese de hemoglobina com padrão AA. Exame físico: 62Kg, I.M.C. = 22,4Kg/m², PA = 110x80mmHg, FC = 88bpm; útero-fita = 15cm; B.C.F. = 142bpm; ausência de edemas em membros inferiores. É conduta ADEQUADA a ser indicada nesta consulta de pré-natal:",
       "alternativas": {
         "A": "Antecipação do teste oral de tolerância à glicose de 75g de dextrosol em 2 horas, considerando risco elevado para diabetes gestacional.",
@@ -4098,8 +4098,8 @@
     {
       "id": "pv-ufr-2024-0064",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "enunciado": "Pode-se afirmar sobre o diabetes gestacional que:",
       "alternativas": {
         "A": "indica-se cesariana quando o feto apresenta peso ˃ 3.500g",
