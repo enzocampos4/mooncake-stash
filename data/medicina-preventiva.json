@@ -3308,8 +3308,8 @@
     {
       "id": "pv-ena-2024-0003",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Um jovem de 25 anos, apresentou-se ao pronto-socorro com febre, mialgia, artralgia e rash com lesões maculopapulares. Refere que os sintomas começaram há 48h e que esteve em região de mata virgem no norte de Minas Gerais na semana que antecedeu o início dos sintomas, não tendo observado carrapatos em seu corpo nesse período de viagem. O jovem está vacinado adequadamente para febre amarela. Ao exame clínico, apresenta dados vitais normais e não apresenta sinais sugestivos de gravidade. A médica responsável pelo atendimento preocupou-se com a possibilidade de febre maculosa. Considerando essa possibilidade, qual seria a conduta mais adequada da profissional diante do aspecto clínico e considerando a notificação da febre maculosa como agravo?",
       "alternativas": {
         "A": "Solicitar sorologias, prescrever sintomáticos e notificar o município, pois trata-se de doença de notificação compulsória.",
@@ -3333,7 +3333,7 @@
       "id": "pv-ena-2024-0004",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A meningite é uma das doenças infectocontagiosas com maior letalidade entre crianças, sendo, portanto, questão de saúde pública. Sua incidência vem diminuindo desde os anos 2000 no Brasil, sendo que, dentro do calendário de imunização, há vacinas responsáveis pela redução da incidência da meningite em crianças. É importante salientar que, nos últimos 20 anos, um dos principais agentes etiológicos da meningite teve uma redução significativa devido aos esforços do programa nacional de imunização. Esse agente, além da meningite, provoca frequentemente infecções de vias aéreas. Nesse sentido, assinale a alternativa que apresenta a vacina que protege contra o agente etiológico citado.",
       "alternativas": {
         "A": "Penta (DTP + Hib + HB).",
@@ -3356,8 +3356,8 @@
     {
       "id": "pv-ena-2024-0008",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
-      "sub_subarea": "Rastreamento",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A imagem a seguir foi publicada em um artigo de 1961, no jornal Americano de Saúde Pública. Nesse estudo histórico, usando a vacina inativada da pólio foi observado um efeito protetor da vacinação além do efeito previsto. Esse efeito é conhecido como",
       "alternativas": {
         "A": "imunidade secundária.",
@@ -3389,8 +3389,8 @@
     {
       "id": "pv-ena-2024-0009",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Uma mulher de 35 anos, PCD (paralisia dos membros inferiores após trauma), com quadro depressivo, compulsão alimentar e insuficiência familiar, mora com a mãe, que tem 70 anos e está apresentando alguns sinais de demência em fase inicial. O médico de família está apreensivo na reunião de equipe, preocupado com a filha PCD, pois esta tem dores crônicas e responde mal às intervenções médicas propostas (analgesia e antidepressivos). Durante a reunião de equipe, estão presentes os ACSs (Agentes Comunitários de Saúde), bem como profissionais de psicologia, nutrição e fisioterapia. Diante dessas informações, assinale a alternativa que melhor apresenta uma intervenção multiprofissional e interdisciplinar.",
       "alternativas": {
         "A": "O médico de família orienta a equipe sobre o que pode ou não ser feito dentro da realidade da filha, enquanto os outros profissionais traçam intervenções com base nessa orientação.",
@@ -3419,8 +3419,8 @@
     {
       "id": "pv-ena-2024-0015",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Quase 55 mil pessoas morrem por ano no Brasil devido a erros médicos. Isso é o que aponta o Estudo de Saúde Suplementar, que analisou 182 hospitais nos anos anteriores à pandemia da Covid-19. Devido a esse número elevado, a preocupação com a segurança do paciente e em minimizar o número de erros é fundamental para qualquer profissional de saúde. Dentre os possíveis erros do profissional médico, está o erro do diagnóstico. Assinale a alternativa que apresenta uma atitude que melhora a segurança do paciente e a qualidade do diagnóstico médico.",
       "alternativas": {
         "A": "Aumentar o conhecimento médico dos profissionais, principalmente através da memorização de protocolos.",
@@ -3443,8 +3443,8 @@
     {
       "id": "pv-ena-2024-0020",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "A avaliação que considera múltiplas dimensões é denominada avaliação multidimensional a qual estrutura e organiza o cuidado às pessoas idosas. Em outras palavras, a avaliação multidimensional permite a compreensão ampliada e integral do estado de saúde de um determinado indivíduo, buscando identificar e intervir nas áreas mais comprometidas e que podem afetar sua funcionalidade: doenças agudas ou crônicas, agravos como quedas e outros acidentes, questões relativas a processos psicológicos/subjetivos ou, ainda, situações sociais, econômicas e culturais que podem trazer limitações para o exercício da autonomia e/ou independência. Tal avaliação permite o direcionamento de intervenções oportunas, que respondam às reais necessidades de cada pessoa, o que possibilita prognósticos mais favoráveis em sua trajetória de envelhecimento. Referente à avaliação multidimensional do idoso, assinale a alternativa correta.",
       "alternativas": {
         "A": "A dimensão psicossocial enfatiza critérios sociais e étnico-raciais, sendo a questão da saúde mental exclusiva da dimensão clínica.",
@@ -3467,8 +3467,8 @@
     {
       "id": "pv-ena-2024-0026",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Puericultura e acompanhamento do crescimento",
       "enunciado": "Em relação aos cistos do ducto de Gartner, assinale a alternativa correta.",
       "alternativas": {
         "A": "É uma formação cística em parede vaginal lateral no terço superior.",
@@ -3491,7 +3491,7 @@
     {
       "id": "pv-ena-2024-0068",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Os tecidos tentam restaurar a sua função normal e a integridade estrutural após uma lesão, passando pelo processo de cicatrização. Quais são as 3 fases desse processo, em ordem cronológica, e suas respectivas características?",
       "alternativas": {
@@ -3524,8 +3524,8 @@
     {
       "id": "pv-ena-2025-0110",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Ética Médica",
+      "sub_subarea": "",
       "enunciado": "Uma paciente de 47 anos, que vinha em uso de medicações para controle de transtorno bipolar, é levada para atendimento com alteração do nível de consciência, confusão mental, sudorese e desorientação. Ao exame, foi observada rigidez muscular generalizada, especialmente em membros superiores e inferiores. Apresentou pressão arterial de 172 por 104 mmHg, frequência cardíaca de 109 batimentos por minuto, frequência respiratória de 24 incursões respiratórias por minuto e temperatura axilar de 39,2 °C. O exame laboratorial revelou aumento significativo de creatinofosfoquinase sérica, sem alterações nas transaminases. Como a equipe médica suspeitou de síndrome neuroléptica maligna, suspendeu as medicações em uso e iniciou terapia de suporte clínico. Fazem parte do arsenal terapêutico da síndrome neuroléptica maligna as seguintes medicações:",
       "alternativas": {
         "A": "haloperidol e fenitoína;",
@@ -3554,8 +3554,8 @@
     {
       "id": "pv-ena-2025-0111",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Um homem de 48 anos foi admitido no hospital com erupção cutânea generalizada, mal-estar geral e febre. Ele relatou ter iniciado recentemente alopurinol para controle de hiperuricemia. Nos últimos dias, ele notou o surgimento de uma erupção cutânea que começou no tronco e se espalhou para membros, região cervical e face. Além disso, queixava-se de náuseas e dor abdominal. No exame físico, foram observados erupção cutânea maculopapular generalizada, adenomegalia generalizada e edema em face, mãos e pés bilateralmente. Nos exames laboratoriais, foram encontradas leucocitose, eosinofilia e elevação das transaminases. A principal hipótese diagnóstica nesse caso é:",
       "alternativas": {
         "A": "eritema multiforme;",
@@ -3578,8 +3578,8 @@
     {
       "id": "pv-ena-2025-0184",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Em uma atenção primária de qualidade, é papel da APS integrar verticalmente os serviços. A APS, como parte integrante da rede de atenção à saúde, estrutura-se segundo atributos e funções. Além da resolubilidade, são funções da APS:",
       "alternativas": {
         "A": "organização e responsabilização;",
@@ -3602,7 +3602,7 @@
     {
       "id": "pv-ena-2025-0188",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Saúde do Trabalhador",
       "sub_subarea": "",
       "enunciado": "Mylena, 42 anos, fuma 50 cigarros/dia desde os 16 anos. Seu Fagerström é igual a 10. Na escala de razões para fumar, declara que fuma para controlar o peso, para mediar situações de estresse e ansiedade e porque o cigarro é uma companhia. Diz que não consegue nem imaginar tentar parar de fumar e que, por isso, nunca tentou fazê-lo. Declara não se ver sem o cigarro. Recentemente, Mylena foi diagnosticada com neoplasia de pulmão. Nesse caso, a abordagem a essa fumante deve considerar:",
       "alternativas": {
