@@ -3481,7 +3481,7 @@
       "id": "pv-sír-2024-0043",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea",
+      "sub_subarea": "Via de parto (normal vs cesárea)",
       "enunciado": "Parturiente é admitida no centro obstétrico para realização de parto cesárea devido a sofrimento fetal agudo. A idade gestacional estimada pelo US precoce é 36 semanas e 2 dias. O recém-nascido encontra-se hipotônico, não chora e tem a respiração irregular. É levado à mesa de reanimação para receber os passos iniciais da reanimação. A avaliação a seguir mostrou FC < 100 bpm e respiração irregular. Entre as opções abaixo, a melhor conduta nesse momento é:",
       "alternativas": {
         "A": "Indicar intubação traqueal com cânula traqueal nº 3 e oxímetro de pulso.",
@@ -3509,7 +3509,7 @@
       "id": "pv-sír-2025-0166",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "sub_subarea": "Mecanismo do parto",
       "enunciado": "Durante o parto, a avaliação dos planos de De Lee é uma ferramenta importante na construção do partograma. Desse modo, a apresentação fetal cefálica em",
       "alternativas": {
         "A": "+3 indica que o parto está próximo.",
@@ -3535,7 +3535,7 @@
       "id": "pv-sír-2025-0167",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea",
+      "sub_subarea": "Distócias",
       "enunciado": "Parturiente chega ao hospital com bolsa rota há 1 hora e contrações frequentes. Refere que o primeiro parto foi vaginal, pesando 3.300 g, sem dificuldades. Ao exame, a altura uterina é 30 cm, BCF: 150 bpm, colo pérvio para 8 cm. Palpa-se o braço fetal insinuado. Nesse momento, a melhor indicação para essa paciente é",
       "alternativas": {
         "A": "versão interna.",
@@ -3562,7 +3562,7 @@
       "id": "pv-sír-2025-0177",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea",
+      "sub_subarea": "Distócias",
       "enunciado": "Frente à distocia de ombros detectada durante a fase expulsiva do parto, é correto afirmar que",
       "alternativas": {
         "A": "o tempo limite que antecede o aumento do risco de asfixia letal é de 10 minutos.",
@@ -3587,8 +3587,8 @@
     {
       "id": "pv-sír-2025-0201",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Mulher de 28 anos foi diagnosticada com sifilis durante o pré-natal de sua primeira gravidez. A conduta mais adequada para o tratamento da sifilis em gestantes e a prevenção de complicações no bebê é",
       "alternativas": {
         "A": "tratar o parceiro da gestante, mas adiar o tratamento da mãe até o segundo trimestre, pois o tratamento farmacológico só é indicado após esse período gestacional.",
@@ -3614,8 +3614,8 @@
     {
       "id": "pv-hia-2024-0009",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Puerpério",
+      "sub_subarea": "Aleitamento materno",
       "enunciado": "Marlene, 42 anos, negra, catadora de material reciclável, evangélica e divorciada, vive em habitação coletiva na zona Norte do município do São Paulo com 5 filhos menores de idade. É hipertensa e tabagista e teve pré-eclâmpsia em 2 gestações. Refere não poder usar anticoncepcional oral por recomendação do ginecologista. Não tem vida sexual ativa porque tem medo de engravidar novamente. Há 2 semanas recebeu visita da agente comunitária de saúde que agendou inserção de DIU de cobre com o médico de família no primeiro horário, para ela não perder o dia de trabalho, já que tem muito medo de perder o emprego. A dimensão de vulnerabilidade superada com essa intervenção pela equipe de saúde da família foi:",
       "alternativas": {
         "A": "social.",
@@ -3637,8 +3637,8 @@
     {
       "id": "pv-hia-2024-0016",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Secundigesta na 14a semana de gestação comparece para a primeira consulta de pré-natal. Refere ter tido pré-eclâmpsia na primeira gestação e ter tido parto cesárea há 1 ano. PA: 120 X 80 mmHg. O risco de pré-eclâmpsia pré-termo pode ser diminuído com a administração de:",
       "alternativas": {
         "A": "hidroclortiazida 25 mg 12/12 horas.",
@@ -3668,8 +3668,8 @@
     {
       "id": "pv-hia-2024-0019",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Primípara, 39 anos de idade, encontra-se na 8ª semana pós-parto normal, em aleitamento materno, e comparece a Unidade Básica de Saúde para reavaliação pós-parto. Refere ter tido diabetes gestacional controlada com dieta e atividade física. Trouxe o teste de tolerância oral a glicose realizado há 2 dias: glicemia jejum: 99 mg/Dl, glicemia 2 horas: 142 g/Dl. A hipótese diagnóstica mais provável para essa paciente é:",
       "alternativas": {
         "A": "baixo risco para diabetes.",
@@ -3697,8 +3697,8 @@
     {
       "id": "pv-hia-2024-0022",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "enunciado": "Gestante, 26 anos de idade, encontra-se na 25ª semana de gestação, procura pronto-socorro após ultrassonografia obstétrica apresentar o seguinte diagnóstico: \"edema de tecido celular subcutâneo e ascite do feto, caracterizando quadro de hidropisia fetal\". Ultrassonografias anteriores sem alterações. Paciente é professora da educação infantil, secundigesta com parto vaginal a termo sem intercorrências há 4 anos. O diagnóstico mais provável e a conduta mais adequada, respectivamente, são:",
       "alternativas": {
         "A": "infecção por toxoplasmose; realizar biópsia de lobo placentário.",
@@ -3726,8 +3726,8 @@
     {
       "id": "pv-hia-2024-0028",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "enunciado": "Primigesta, 40 anos de idade, na 38ª semana, sem comorbidades, vai ao pronto-socorro de Obstetrícia encaminhada da UBS em que realiza o pré-natal devido a dificuldade para auscultar os batimentos cardíacos fetais. Paciente assintomática, refere movimentação fetal presente pela manhã. Ao exame físico, altura uterina de 33 cm, BCF ausente, movimentação fetal ausente. Ao realizar o Point of Care Ultrassound não se identificam os batimentos cardíacos fetais, nem movimentação fetal ou fluxo sanguíneo em vasos umbilicais. A conduta mais adequada após a comunicação da má notícia seguindo o protocolo de Spikes deverá ser:",
       "alternativas": {
         "A": "conduta expectante por até 4 semanas, com retomo semanal para exames.",
@@ -3750,7 +3750,7 @@
       "id": "pv-df-2024-0028",
       "area": "Obstetrícia",
       "subarea": "Puerpério",
-      "sub_subarea": "Hemorragia",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Uma paciente de 35 anos de idade, G5P4 (todos partos vaginais), IG = 41 semanas, teve parto vaginal uma hora após a indução do parto com misoprostol. Ao ser avaliada, foi percebido um volume de aproximadamente 500 mL em fralda. Ao exame físico, apresentou os seguintes sinais vitais: FC = 120 bpm, FR = 33 irpm, PA = 80 mmHg x 65mmHg e SpO2 = 97%. Assinale a alternativa que indica as causas que devem ser pesquisadas para o tratamento do quadro clínico da paciente.",
       "alternativas": {
         "A": "Atonia uterina, multiparidade, lacerações de trajeto de parto, retenção placentária e coagulopatia.",
@@ -3772,8 +3772,8 @@
     {
       "id": "pv-df-2024-0029",
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de Parto",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
+      "sub_subarea": "",
       "enunciado": "Uma gestante de 22 anos de idade, G1, IG = 34 semanas e 1 dia, compareceu ao pronto- socorro da maternidade com queixa de perda de líquido via vaginal, que parecia água com odor de água sanitária, há seis horas. Relatou ter achado que era urina, mas que iniciou com calafrios e optou por procurar assistência médica. Negou outros sintomas. Ao exame físico, apresentou FC = 102 bpm, T = 39 ºC, FR = 25 irpm, SpO2 = 99%, PA = 110 mmHg x 75mmHg e BCF = 162 bpm. O exame especular mostrou presença de líquido transparente, com rajas de sangue exteriorizando-se por orifício externo de colo uterino. Ao exame de abdome, demonstrou dor à palpação do útero. Acerca do caso clínico mencionado, considere que a paciente em atendimento, ao toque vaginal, tenha apresentado colo posterior, com 1 cm de dilatação, cabeça fetal em -1 de Delee e dinâmica uterina ausente. Nesse contexto, assinale a alternativa que corresponde à conduta mais adequada ao caso.",
       "alternativas": {
         "A": "Internação, cesariana de urgência e penicilina cristalina endovenosa.",

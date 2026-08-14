@@ -22133,8 +22133,8 @@
   "pv-uni-2024-0041": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -22143,7 +22143,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -22151,8 +22151,8 @@
   "pv-uni-2024-0044": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Tromboembolismo na gestação",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -22161,7 +22161,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Puerpério",
-    "subsub": "Hemorragia",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -22169,8 +22169,8 @@
   "pv-uni-2025-0143": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Puerpério",
+    "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -22178,8 +22178,8 @@
   "pv-uni-2025-0177": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -22187,8 +22187,8 @@
   "pv-uni-2025-0178": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Tromboembolismo na gestação",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -22196,8 +22196,8 @@
   "pv-uni-2025-0179": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -22205,8 +22205,8 @@
   "pv-uni-2025-0180": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Parto",
+    "subsub": "Parto instrumental",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -22215,7 +22215,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -22224,7 +22224,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -22233,7 +22233,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
