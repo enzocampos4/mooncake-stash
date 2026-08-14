@@ -6492,8 +6492,8 @@
     {
       "id": "pv-ba-2025-0067",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Uma paciente de 30 anos de idade, grávida de 36 semanas, apresenta-se ao Pronto-Socorro com queixas de cefaleia persistente e visão turva. Durante a avaliação, verifica-se PA: 160x105mmHg e a urina de 24 horas revela 4g de proteína. A ultrassonografia obstétrica realizada identifica feto com crescimento adequado e oligoidrâmnio. O médico assistente diagnostica pré-eclâmpsia com critérios de gravidade ou deterioração. Identifique a condição clínica neste caso que indica a necessidade de interrupção da gestação, após estabilização dos níveis tensionais.",
       "alternativas": {
         "A": "Síndrome HELLP.",
@@ -6520,8 +6520,8 @@
     {
       "id": "pv-ba-2025-0068",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Uma paciente de 30 anos de idade, grávida de 36 semanas, apresenta-se ao Pronto-Socorro com queixas de cefaleia persistente e visão turva. Durante a avaliação, verifica-se PA: 160x105mmHg e a urina de 24 horas revela 4g de proteína. A ultrassonografia obstétrica realizada identifica feto com crescimento adequado e oligoidrâmnio. O médico assistente diagnostica pré-eclâmpsia com critérios de gravidade ou deterioração. Indique, para este caso, o momento ideal para interrupção da gestação com parto:",
       "alternativas": {
         "A": "Após estabilização dos níveis pressóricos maternos.",
@@ -6547,8 +6547,8 @@
     {
       "id": "pv-ba-2025-0069",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Uma paciente de 30 anos de idade, grávida de 36 semanas, apresenta-se ao Pronto-Socorro com queixas de cefaleia persistente e visão turva. Durante a avaliação, verifica-se PA: 160x105mmHg e a urina de 24 horas revela 4g de proteína. A ultrassonografia obstétrica realizada identifica feto com crescimento adequado e oligoidrâmnio. O médico assistente diagnostica pré-eclâmpsia com critérios de gravidade ou deterioração. A intervenção farmacológica capaz de previnir a eclâmpsia, no manejo da pré-eclâmpsia com critérios de gravidade é o uso de:",
       "alternativas": {
         "A": "Antihipertensivos.",
@@ -6577,8 +6577,8 @@
     {
       "id": "pv-fam-2024-0043",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Gestante encontra-se na 42ª semana de gestação, sem comorbidades, em acompanhamento na Unidade Básica de Saúde (UBS). A conduta adequada nestes casos é:",
       "alternativas": {
         "A": "Na presença de colo pérvio e presença de líquido meconial diagnosticado por amnioscopia, a conduta é parto cesáreo.",
@@ -6620,10 +6620,10 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Geral",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
       "banca": "ESTRATÉGIA MED",
-      "sub_subarea": ""
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)"
     },
     {
       "id": "s11-023",
@@ -6642,9 +6642,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Parto",
+      "subarea": "Puerpério",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -6662,9 +6662,9 @@
       "explicacao": "A monitorização pós-tratamento deve ser feita MENSALMENTE para gestantes com teste não treponêmico (VDRL ou RPR). Já após o parto, o\nseguimento é trimestral no primeiro ano e semestral no segundo ano.\nÉ importante lembrar que a monitorização do tratamento é fundamental para classificar a resposta ao tratamento e diagnosticar possíveis\nreinfecções. Assim, a resposta ao tratamento pode ser classificada em: resposta imunológica adequada ou critérios de retratamento\n(reativação e/ou reinfecção).\n\nEstratégia\nMED\n3\nConsidera-se resposta imunológica adequada se ocorrer a queda da titulação em duas diluições (4 vezes) dentro de 6 meses para sífilis\nrecente e até 12 meses para sífilis tardia na gestação (exemplo: de 1:64 para 1:16) ou, ainda, se ocorrer diminuição da titulação do teste não\ntreponêmico em duas diluições em até três meses e quatro diluições em até seis meses, com evolução até a negativação.\nCaso não haja resposta imunológica adequada, os critérios de retratamento (reativação ou reinfecção) são:\nMuitas vezes, é difícil diferenciar reinfecção, reativação e cicatriz sorológica.  Para isso, é preciso avaliar os sinais e sintomas clínicos, a\npossibilidade de reexposição, as características do tratamento realizado e os exames laboratoriais. Caso seja excluída cicatriz sorológica,\nsuspeita-se de reativação ou reinfecção e recomenda-se investigar neurossífilis por punção lombar, tratando novamente com penicilina\nbenzatina, conforme o estadiamento da doença.\nConsidera-se que o tratamento para sífilis foi adequado na gestação quando ele não só cura a doença na gestante, mas também previne a\nsífilis congênita no recém-nascido. Sendo assim, a gestante é considerada adequadamente tratada se presentes, concomitantemente, os\nseguintes fatores:\n\nEstratégia\nMED\n4\nA pergunta pede a medida que NÃO é obrigatória, então:\nIncorreta a alternativa A, pois o tratamento deve ser iniciado ao menos 30 dias antes do parto.\nIncorreta a alternativa B, pois a paciente tem uma sífilis latente de duração ignorada e deve receber 3 doses.\nIncorreta a alternativa C, pois essa é uma das condições para considerarmos adequadamente tratada.\nCorreta a alternativa D, pois apesar de o tratamento das parcerias ser indicado, ele não é critério para tratamento adequado.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Parto",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -6686,7 +6686,7 @@
       "_edicao": "3",
       "subarea": "Pré-natal",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Imunização na gestação",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -6708,7 +6708,7 @@
       "_edicao": "5",
       "subarea": "Puerpério",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -6728,9 +6728,9 @@
       "imagens": [],
       "_simulado": "11-simulado",
       "_edicao": "11",
-      "subarea": "Parto",
+      "subarea": "Doenças associadas à gestação",
       "_area_slug": "obstetricia",
-      "sub_subarea": "",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "banca": "ESTRATÉGIA MED"
     }
   ]

@@ -23105,7 +23105,7 @@
   "pv-df-2025-0103": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -23114,8 +23114,8 @@
   "pv-df-2025-0117": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -23123,7 +23123,7 @@
   "pv-df-2025-0122": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -23132,7 +23132,7 @@
   "pv-df-2025-0162": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -23141,7 +23141,7 @@
   "pv-df-2025-0163": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -23150,7 +23150,7 @@
   "pv-df-2025-0164": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -23159,7 +23159,7 @@
   "pv-df-2025-0170": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -23168,7 +23168,7 @@
   "pv-df-2025-0179": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SES-DF",
     "ano": 2025,
@@ -23177,7 +23177,7 @@
   "s14-053": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
@@ -23186,8 +23186,8 @@
   "pv-ba-2024-0022": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -23195,8 +23195,8 @@
   "pv-ba-2024-0023": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -23204,8 +23204,8 @@
   "pv-ba-2024-0024": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
