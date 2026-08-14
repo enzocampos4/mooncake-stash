@@ -5815,8 +5815,8 @@
     {
       "id": "pv-sír-2025-0176",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "enunciado": "Gemeligesta, 24 anos de idade, obesa, iniciou o pré-natal no 5ª mês gestacional, realizou teste de tolerância a 75 gramas de glicose na 26a semana de gestação com os seguintes valores: jejum: 95 mg/dl; 1 hora: 215 mg/dl; 2 horas: 200 mg/dl. O diagnóstico é",
       "alternativas": {
         "A": "overt diabetes.",
@@ -5842,8 +5842,8 @@
     {
       "id": "pv-sír-2025-0179",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Cardiotocografia",
       "enunciado": "Gestante, 37 semanas, com doença hipertensiva específica da gestação, realizou essa cardiotocografia após alimentação. Houve a necessidade de realização de estímulo sonoro (ES). A condição cardiotocográfica desse feto é:",
       "alternativas": {
         "A": "Feto hipoglicêmico.",
@@ -5870,8 +5870,8 @@
     {
       "id": "pv-hia-2024-0011",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Marina, 25 anos, gestante de 20 semanas, realiza seu primeiro pré-natal na Unidade Básica de Saúde (UBS) onde é cadastrada. Relata que ainda não fez nenhum exame durante a gestação, confessa que tem medo de agulhas. Contou que se sente bem, sempre teve boa saúde, e está sem nenhum sintoma. Tem parceiro fixo, e conta que ele teve uma lesão genital no início do relacionamento, há mais de 1 ano, que desapareceu espontaneamente. Ela nunca teve lesão ou corrimento vaginal. A enfermeira da equipe de saúde da família solicita os exames de rotina do pré-natal, incluindo o teste rápido para sífilis, que tem resultado positivo. Segundo o Protocolo da Atenção Básica Saúde: da Mulher de 2016, do Ministério da Saúde, o melhor tratamento neste caso é:",
       "alternativas": {
         "A": "Confirmar o diagnóstico com um teste não treponêmico (VDRL) e prescrever penicilina benzatina para Marina e seu parceiro na dose de 2.400.000 Ul, em dose única.",
@@ -5899,8 +5899,8 @@
     {
       "id": "pv-hia-2025-0130",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Isoimunização Rh",
       "enunciado": "Assinale a alternativa correta em relação ao manejo pré-natal de gestante com tipagem sanguínea Rh negativo, aloimunizada.",
       "alternativas": {
         "A": "A pesquisa do Rh fetal no sangue materno, quando realizada a partir de 10 semanas de gestação, apresenta acurácia de cerca de 85%.",
@@ -5931,8 +5931,8 @@
     {
       "id": "pv-hia-2025-0131",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Gestante com sorologias de sífilis não reagentes, no início do pré-natal, retorna na 28ª semana com teste treponêmico positivo. É correto afirmar que",
       "alternativas": {
         "A": "se trata de caso de sífilis em gestante, em fase latente tardia.",
@@ -5965,8 +5965,8 @@
     {
       "id": "pv-df-2024-0023",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Uma gestante de 23 anos de idade, G2P1, IG = 32 semanas, compareceu ao pronto-socorro referindo cefaleia e epigastralgia. Em seu cartão de pré-natal, consta que o aumento pressórico ocorreu a partir de 24 semanas. Ao exame físico, apresentou FC = 98 bpm, PA = 158 mmHg x 75 mmHg, FR = 20 irpm, SpO2 = 97%, e BCF = 158 bpm. Realizou exames laboratoriais, cujos resultados foram os seguintes: TGO = 24 U/L; TGP = 18U/L; DHL = 230 U/L; Cr = 1,0 mg/dL; relação proteína/creatinina = 0,2; e plaquetas = 100.000/mm3. Diante desse quadro, qual é o diagnóstico dessa paciente?",
       "alternativas": {
         "A": "Pré-eclâmpsia",
@@ -5999,8 +5999,8 @@
     {
       "id": "pv-df-2024-0024",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
       "enunciado": "Quanto às condições inerentes ao estado gestacional, assinale a alternativa correspondente à medida ou à droga que não é recomendada para diminuição do risco de pré-eclâmpsia.",
       "alternativas": {
         "A": "Aspirina",
@@ -6028,8 +6028,8 @@
     {
       "id": "pv-df-2024-0025",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Uma gestante, atualmente com 38 semanas, G2P1, iniciou o pré-natal com 12 semanas de gestação em unidade de saúde da família de sua região e, naquela ocasião, realizou teste rápido para sífilis e para HIV, com resultado negativo. Retornou à consulta com 32 semanas de gestação, assintomática, com resultado de teste rápido de HIV não reagente e, para sífilis, reagente com resultado de VDRL = 1/16. Relativamente ao caso clínico citado, e considerando que a paciente em análise tenha apresentado VDRL = 1/32, qual valor de VDRL significaria que a paciente teve sucesso no tratamento após seis meses?",
       "alternativas": {
         "A": "1/8",
@@ -6060,8 +6060,8 @@
     {
       "id": "pv-df-2024-0026",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Uma gestante, atualmente com 38 semanas, G2P1, iniciou o pré-natal com 12 semanas de gestação em unidade de saúde da família de sua região e, naquela ocasião, realizou teste rápido para sífilis e para HIV, com resultado negativo. Retornou à consulta com 32 semanas de gestação, assintomática, com resultado de teste rápido de HIV não reagente e, para sífilis, reagente com resultado de VDRL = 1/16. Assinale a alternativa que apresenta o diagnóstico e a conduta preconizada pelo Ministério da Saúde do Brasil (PCDT 2022) para o caso clínico mencionado.",
       "alternativas": {
         "A": "Sífilis primária: realizar penicilina benzatina 2,4 milhões UI, dose única, e tratar parceiro.",

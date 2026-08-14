@@ -22889,8 +22889,8 @@
   "pv-fam-2024-0047": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Medicina fetal",
+    "subsub": "Isoimunização Rh",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -22898,8 +22898,8 @@
   "pv-fam-2024-0074": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -22916,8 +22916,8 @@
   "pv-sp-2025-0211": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "DMG",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "USP-SP",
     "ano": 2025,
     "fonte": "SP - Universidade de São Paulo - USP - SP (Hospita 2025"
@@ -22935,7 +22935,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "DMG",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -22944,7 +22944,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Nutrição e suplementação",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -22952,7 +22952,7 @@
   "pv-sp-2025-0116": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2025,
@@ -22962,7 +22962,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -22971,7 +22971,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Cesárea",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -22979,8 +22979,8 @@
   "pv-rj-2025-0035": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Medicina fetal",
+    "subsub": "Avaliação de vitalidade fetal",
     "banca": "INTO",
     "ano": 2025,
     "fonte": "RJ - Instituto Nacional de Traumatologia e Ortoped 2025"
@@ -22988,8 +22988,8 @@
   "pv-sír-2025-0155": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Pré-eclâmpsia",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
