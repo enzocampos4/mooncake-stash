@@ -1967,9 +1967,9 @@
       "explicacao": "Estrategista, esta questão aborda um dos pilares do trabalho na Atenção Primária à Saúde (APS): a atuação interdisciplinar centrada nas\nnecessidades da pessoa, da família e do território. Diferentemente de um modelo assistencial baseado apenas em consultas individuais\ne intervenções fragmentadas, a APS busca integrar os diferentes saberes da equipe para compreender o processo saúde-doença em sua\ncomplexidade.\nNo caso apresentado, os problemas identificados vão muito além do controle da hipertensão ou da insuficiência cardíaca. O idoso apresenta\nsinais sugestivos de comprometimento cognitivo, dificuldades para o autocuidado, baixa adesão ao tratamento, isolamento social e possíveis\nsituações de vulnerabilidade no ambiente domiciliar. Além disso, muitas das informações mais relevantes para a compreensão do caso foram\nobtidas pela ACS durante suas atividades no território, evidenciando a importância do olhar ampliado da equipe.\nNessas situações, a construção do cuidado não deve ocorrer de forma hierarquizada ou centrada exclusivamente na avaliação médica. O\ntrabalho interdisciplinar pressupõe compartilhamento de informações, integração de diferentes perspectivas profissionais e elaboração\nconjunta de um plano terapêutico que considere simultaneamente aspectos clínicos, funcionais, familiares e sociais.\nA visita domiciliar compartilhada representa uma importante ferramenta da APS, justamente porque permite que a equipe avalie o usuário em\nseu contexto de vida, identifique barreiras ao cuidado e construa intervenções mais adequadas à realidade encontrada. Assim, a integração\nentre os conhecimentos produzidos pela equipe e as observações realizadas no território torna-se fundamental para a tomada de decisão.\nVamos analisar as alternativas:\nIncorreta a alternativa A: Embora a consulta médica seja importante, a proposta mantém uma lógica centrada no médico, sem integrar\nefetivamente os diferentes olhares profissionais na avaliação do caso.\n\nEstratégia\nMED\n7\nCorreta a alternativa B: A visita domiciliar conjunta favorece a integração entre aspectos clínicos, familiares e territoriais, fortalecendo a\nconstrução interdisciplinar do plano de cuidados.\nIncorreta a alternativa C: A intensificação das visitas da ACS é insuficiente diante da complexidade do caso e não substitui uma avaliação\nclínica mais abrangente e compartilhada.\nIncorreta a alternativa D: Apesar de envolver médico e ACS, a proposta fragmenta as responsabilidades, sem destacar a construção conjunta\ndo cuidado e a integração das informações obtidas por ambos.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -1989,7 +1989,7 @@
       "_edicao": "14",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "imagens": [
         "data/simulados/imgs/14-simulado/q11_img1.jpeg"
       ],
@@ -2010,9 +2010,9 @@
       "explicacao": "Estrategista, a questão exige o conhecimento da Lei 10.216/2001, que dispõe sobre a proteção e os direitos das pessoas com transtornos\nmentais e estabelece três modalidades de internação psiquiátrica: voluntária, involuntária e compulsória.\nNesta questão, abordamos a chamada internação involuntária — aquela que ocorre sem o consentimento do paciente, mediante avaliação\ne indicação médica, a pedido de terceiro.\n\nEstratégia\nMED\n24\nVeja as modalidades de internação psiquiátrica:\n1. Internação voluntária: aquela que ocorre com o consentimento do usuário, que também pode encerrá-la voluntariamente.\n2. Internação involuntária: aquela que se dá sem o consentimento do usuário, a pedido de terceiro e após avaliação médica (basta CRM\nativo), que ainda deverá ser comunicada ao Ministério Público Estadual (MPE) pelo médico responsável técnico da instituição em até 72\nhoras após a admissão hospitalar - devendo esse mesmo procedimento ser adotado quando da respectiva alta.\n3. Internação compulsória: aquela determinada pela Justiça.\nVamos às alternativas!\nIncorreta a alternativa A. A internação determinada por ordem judicial é a compulsória. A internação involuntária independe de ordem\nou autorização judicial.\nIncorreta a alternativa B. A lei não exige que o médico seja psiquiatra, qualquer médico habilitado pode indicar a internação.\nCorreta a alternativa C. Conforme discutido na introdução. Mas, fique atento, a comunicação deve ser realizada ao MP ESTADUAL!\nIncorreta a alternativa D. Nas internações involuntárias, além da prescrição da alta pela equipe médica, é facultado à família ou\nrepresentante legal solicitar o encerramento da internação por meio de pedido formal.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Epidemiologia",
+      "subarea": "Ética Médica",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2032,7 +2032,7 @@
       "_edicao": "14",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2053,9 +2053,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2076,9 +2076,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2099,9 +2099,9 @@
       ],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Geral",
+      "subarea": "Ética Médica",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2119,9 +2119,9 @@
       "explicacao": "Estrategista, esta questão aborda as diferentes modalidades de telessaúde, tema cada vez mais frequente nas provas após a ampliação da\nregulamentação da saúde digital no Brasil.\nDe forma geral, as principais modalidades cobradas em provas são:\nTeleconsulta: consulta realizada entre profissional de saúde e paciente por meio de tecnologias de comunicação. Há interação direta com o\nusuário, podendo envolver avaliação, orientação, acompanhamento e definição de condutas.\nTeleconsultoria: comunicação entre profissionais de saúde para esclarecimento de dúvidas clínicas, assistenciais ou relacionadas ao processo\nde trabalho. Seu objetivo é fornecer suporte técnico para a tomada de decisão, sem participação do paciente e sem transferência da\nresponsabilidade assistencial.\nTeleinterconsulta: interação entre profissionais de saúde para discussão de casos clínicos com compartilhamento do cuidado. Nessa\nmodalidade, existe corresponsabilização assistencial entre os profissionais envolvidos.\nTeladiagnóstico: utilização de tecnologias para realização, interpretação ou emissão de laudos de exames a distância, como eletrocardiogramas,\nretinografias ou exames de imagem.\nNo caso apresentado, a médica da APS discute o caso com um endocrinologista por meio de plataforma institucional, sem a presença\ndo paciente e com o objetivo de obter apoio técnico para definição da melhor conduta. Além disso, o acompanhamento permanece sob\nresponsabilidade da equipe da APS. Portanto, trata-se de uma teleconsultoria.\nPodemos diferenciar essas modalidades por duas perguntas:\nO paciente participa da atividade?\nSim → pensar em teleconsulta.\nNão → pensar em teleconsultoria ou teleinterconsulta.\nO especialista compartilha a responsabilidade pelo caso?\nNão → teleconsultoria.\n\nEstratégia\nMED\n151\nSim → teleinterconsulta.\nSe a atividade envolver emissão de laudos ou interpretação de exames, a resposta geralmente será telediagnóstico.\nVamos analisar as alternativas:\nIncorreta a alternativa A. O telediagnóstico está relacionado à emissão de laudos ou a interpretação de exames a distância, não à discussão\nclínica entre profissionais.\nIncorreta a alternativa B. A teleconsulta exige participação direta do paciente na interação remota, o que não ocorre na situação descrita.\nCorreta a alternativa C. A teleconsultoria consiste na comunicação entre profissionais para apoio técnico-assistencial e tomada de decisão\nclínica, permanecendo a responsabilidade pelo caso com o profissional solicitante.\nIncorreta a alternativa D. A teleinterconsulta pressupõe compartilhamento da responsabilidade assistencial entre os profissionais envolvidos.\nNo caso, o especialista apenas fornece suporte técnico, sem assumir responsabilidade pelo seguimento do paciente.",
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2140,9 +2140,9 @@
       "imagens": [],
       "_simulado": "14-simulado",
       "_edicao": "14",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Ética Médica",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2162,9 +2162,9 @@
       "imagens": [],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Saúde do Trabalhador",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Vigilância",
+      "sub_subarea": "Doenças ocupacionais (LER/DORT, perda auditiva, pneumoconioses)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -2208,9 +2208,9 @@
       ],
       "_simulado": "3-simulado",
       "_edicao": "3",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Atenção Básica",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "banca": "ESTRATÉGIA MED"
     },
     {
