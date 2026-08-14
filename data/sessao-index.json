@@ -22458,7 +22458,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Cesárea",
+    "subsub": "Parto instrumental",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -22466,8 +22466,8 @@
   "pv-uer-2024-0043": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de Parto",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -22476,7 +22476,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -22511,7 +22511,7 @@
   "pv-uni-2024-0062": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2024,
@@ -22520,7 +22520,7 @@
   "pv-uni-2025-0133": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -22529,7 +22529,7 @@
   "pv-uni-2025-0138": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -22538,7 +22538,7 @@
   "pv-sír-2024-0098": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -22547,7 +22547,7 @@
   "pv-sír-2024-0100": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -22556,8 +22556,8 @@
   "pv-sír-2025-0168": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "DMG",
+    "sub": "Medicina fetal",
+    "subsub": "Avaliação de vitalidade fetal",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
