@@ -22782,7 +22782,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -22790,7 +22790,7 @@
   "pv-uer-2025-0129": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
@@ -22799,8 +22799,8 @@
   "pv-uer-2025-0158": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Medicina fetal",
+    "subsub": "Avaliação de vitalidade fetal",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -22808,8 +22808,8 @@
   "pv-hcp-2024-0064": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "DMG",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Diabetes mellitus gestacional",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -22818,7 +22818,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -22827,7 +22827,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -22835,8 +22835,8 @@
   "pv-hcp-2025-0127": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -22844,7 +22844,7 @@
   "pv-hcp-2025-0128": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "HCPA",
     "ano": 2025,
@@ -22853,8 +22853,8 @@
   "pv-hcp-2025-0129": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Obstetrícia fisiológica",
+    "subsub": "Fisiologia da gestação",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -22862,8 +22862,8 @@
   "pv-fam-2024-0031": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -22871,8 +22871,8 @@
   "pv-fam-2024-0044": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
+    "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -22880,8 +22880,8 @@
   "pv-fam-2024-0045": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rotina",
+    "sub": "Parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"

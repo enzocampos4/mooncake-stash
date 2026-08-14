@@ -5484,8 +5484,8 @@
     {
       "id": "pv-fam-2024-0047",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Isoimunização Rh",
       "enunciado": "Secundigesta, Rh negativo, na 1ª consulta de pré-natal apresentou teste de Coombs Indireto negativo. O teste foi repetido na 28ª semana de gestação com resultado = 1:32. Assinale a alternativa que contém a conduta adequada para o caso descrito:",
       "alternativas": {
         "A": "Realizar dosagem espectofotométrica da bilirrubina.",
@@ -5513,8 +5513,8 @@
     {
       "id": "pv-fam-2024-0074",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "A.M.S, que vinha fazendo pré-natal de rotina na UBS, com 34 semanas de gestação, chega na Unidade com queixa de \"não estar sentindo a criança mexer\" há um dia. Ao ser examinada, não foi auscultado batimentos cardíacos fetais. A gestante foi encaminhada imediatamente para o hospital de referência, sendo submetida à cesárea. O feto não apresentava nenhum sinal vital e várias circulares apertadas de cordão. Pesou 3000g. Como você classificaria este Óbito Fetal? Qual a causa imediata e a causa básica que devem constar da Declaração de Óbito.",
       "alternativas": {
         "A": "Óbito Fetal Tardio. Causa Terminal ou Imediata: Anóxia intrauterina. Causa Básica: Circular de cordão umbilical.",
@@ -5569,8 +5569,8 @@
     {
       "id": "pv-sp-2025-0211",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Diabetes mellitus gestacional",
       "enunciado": "Gestante, 26 anos de idade, está em seguimento pré-natal por diabetes gestacional com dieta nutricional fracionada orientada, diagnosticada por glicemia de jejum de 98 mg/dL no primeiro trimestre. Neste momento, com 26 semanas, retorna em bom estado geral, normotensa, abdome gravídico, AU de 25 cm, BCF+, IMC: 30 kg/m². Traz perfil glicêmico (em mg/dL): Com base nessas informações, a conduta indicada neste momento é:",
       "alternativas": {
         "A": "Metformina.",
@@ -5635,7 +5635,7 @@
       "id": "pv-uni-2025-0172",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "DMG",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Mulher, 32 anos de idade, primigesta, na 12ª semana de gestação, está realizando pré-natal em Unidade Básica de Saúde. Exame físico: PA 120 x 80 mmHg, ausência de edemas. Exame obstétrico: útero aumentado para 12 semanas, batimentos cardíacos fetais = 144 bpm ao sonar. A glicemia de jejum apresenta resultado de 90 mg/dL. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Perfil glicêmico, hemoglobina glicada e avaliação da vitalidade fetal.",
@@ -5664,7 +5664,7 @@
       "id": "pv-uni-2025-0176",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Nutrição e suplementação",
       "enunciado": "Secundigesta, 39 anos de idade, 26 semanas, diabética gestacional controlada com dieta, vem à consulta de pré-natal. Hemoglobina de 10,9 g/dL, hematócrito 32%, VCM 78 fL, HCM 25 pg, ferritina 10 ng/mL, eletroforese de hemoglobina normal. Qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Ferro oral na dose de 30 mg/dia e reavaliação em 8 semanas.",
@@ -5686,7 +5686,7 @@
     {
       "id": "pv-sp-2025-0116",
       "area": "Obstetrícia",
-      "subarea": "Geral",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
       "sub_subarea": "",
       "enunciado": "Uma mulher de 54 anos de idade, diabética, hipertensa e dislipidêmica, em uso irregular de medicações, compareceu ao pronto‑socorro com cefaleia intensa, vômitos, náusea, turvação visual e escotomas. O acompanhante relatou que o quadro evoluiu paulatinamente durante os últimos dias, com piora importante no dia atual. Na admissão, foram notados os seguintes sinais vitais: FC 117 bpm; PA 210 x 145 mmHg; FR 21 irpm; e dextro 120. Considerando essa situação hipotética, assinale a alternativa correta.",
       "alternativas": {
@@ -5711,7 +5711,7 @@
       "id": "pv-sír-2024-0026",
       "area": "Obstetrícia",
       "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Secundigesta, 23 anos de idade, portadora de diabetes tipo 1, comparece à primeira consulta de pré-natal com 15 semanas de idade gestacional. Refere aborto espontâneo prévio. Encontra-se em insulinoterapia com controle glicêmico adequado. Trouxe ultrassonografia morfológica do primeiro trimestre sem alterações. Exame físico: PA: 120 x 85 mmHg. Pulso: 82 bpm. Altura uterina: 14 cm. Foco: 140 bpm. A conduta mais adequada a se realizar nessa consulta é",
       "alternativas": {
         "A": "prescrever hidroclortiazida.",
@@ -5737,7 +5737,7 @@
       "id": "pv-sír-2024-0033",
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Cesárea",
+      "sub_subarea": "Via de parto (normal vs cesárea)",
       "enunciado": "Gestante de 39 semanas com 3 cesáreas anteriores é internada para cesárea iterativa. O feto está pélvico e tem peso estimado de 3.700 g. Nessa situação, a incisão uterina deve ser",
       "alternativas": {
         "A": "corporal longitudinal.",
@@ -5762,8 +5762,8 @@
     {
       "id": "pv-rj-2025-0035",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Rotina",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Avaliação de vitalidade fetal",
       "enunciado": "Secundigesta, 37 semanas, hipertensa em uso de alfametildopa, procura o PS com queixa de ausência de movimentação fetal há 2 horas. Ao exame, PA: 120 x 80 mmHg, altura uterina de 31 cm, e a cardiotocografia mostra acelerações transitórias com linha de base 140 bpm e variabilidade de 15 bpm. À ultrassonografia observa-se presença de movimentação fetal, ausência de movimentos respiratórios, feto com tônus em flexão e índice de líquido amniótico de 12 cm. Pode-se afirmar que",
       "alternativas": {
         "A": "ambos os testes mostram feto com vitalidade fetal comprometida, indicando-se repetição dos exames após a paciente se alimentar.",
@@ -5789,8 +5789,8 @@
     {
       "id": "pv-sír-2025-0155",
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "Pré-eclâmpsia",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Primigesta de 40 anos, idade gestacional de 36 semanas, e com história de pré-eclampsia, é atendida no pronto-socorro com queixa de sangramento e dor em baixo ventre. Após avaliação inicial, foi evidenciado descolamento prematuro de placenta e indicada cesárea de urgência. Ao nascimento, observa-se que o recém-nascido (RN) está hipotônico e não respira. É realizado clampeamento imediato do cordão e o RN é conduzido à mesa de reanimação. Os passos iniciais são realizados, mas o recém-nascido continua com frequência cardíaca inaudível. O próximo passo apropriado é:",
       "alternativas": {
         "A": "Aplicar ventilação com pressão positiva (VPP).",
