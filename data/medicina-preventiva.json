@@ -8423,8 +8423,8 @@
     {
       "id": "pv-sp-2024-0069",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Assinale a alternativa que apresenta a correspondência correta entre os elementos.",
       "alternativas": {
         "A": "concussão – alteração pós‑traumática transitória e reversível no status mental, como, por exemplo, perda de consciência ou memória, confusão mental que dura de segundos a minutos e, por definição arbitrária, com tempo < 6h, com ou sem amnésia, retrógrada ou anterógrada",
@@ -8447,7 +8447,7 @@
     {
       "id": "pv-sp-2024-0097",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Uma mulher de 57 anos de idade estava obesa, diabética, hipertensa, dislipidêmica, com quadro de sete horas de evolução de dor abdominal em hipocôndrio direito, em cólica, com piora pós‑alimentar, associada a náuseas e vômitos. O ultrassom de abdômen demonstrava espessamento da parede da vesícula biliar > 5 mm. Com base nessa situação hipotética, assinale a alternativa que apresenta o sinal semiológico mais classicamente associado à patologia descrita.",
       "alternativas": {
@@ -8477,8 +8477,8 @@
     {
       "id": "pv-sp-2025-0163",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma paciente de 18 anos de idade relatou ter dificuldade em manter relações sexuais, pois sente muita dor durante a penetração. Ao exame ginecológico, foi detectada a existência de dois colos uterinos e um septo vaginal longitudinal. O ginecologista informou à paciente que se trata de um útero didelfo. Com base nessa situação hipotética e em relação a essa afecção, é correto afirmar que",
       "alternativas": {
         "A": "se trata de uma anomalia do cromossomo 18.",
@@ -8511,7 +8511,7 @@
       "id": "pv-sp-2025-0181",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Um estudo mostrou que uma nova vacina reduziu a incidência de uma doença em 80% em uma população. Com base nessa situação hipotética, é correto afirmar que esse é um exemplo de um tipo de medida epidemiológica denominado",
       "alternativas": {
         "A": "risco relativo.",
@@ -8545,8 +8545,8 @@
     {
       "id": "pv-sp-2025-0182",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "Um município identificou um aumento de casos de dengue em uma determinada área. Com base nessa situação hipotética, é correto afirmar que a primeira ação a ser realizada pela equipe de vigilância epidemiológica local será a de",
       "alternativas": {
         "A": "notificar as autoridades federais sobre o surto de dengue.",
@@ -8575,8 +8575,8 @@
     {
       "id": "pv-sp-2025-0183",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Um artigo concluiu que o uso de um determinado medicamento reduziu o tempo de internação hospitalar em pacientes com uma doença crônica. A amostra do estudo, porém, é pequena e não randomizada. Com base nessa situação hipotética, assinale a alternativa que apresenta a principal limitação desse estudo.",
       "alternativas": {
         "A": "ausência de um grupo de controle",
@@ -8607,8 +8607,8 @@
     {
       "id": "pv-sp-2025-0184",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Uma paciente de 34 anos de idade foi atendida pela primeira vez em uma unidade básica de saúde (UBS) após sentir dores de cabeça frequentes e pressão alta. A equipe de APS realizou uma avaliação inicial, orientou sobre a importância de mudanças no estilo de vida e agendou uma consulta de retorno para acompanhamento. Durante o atendimento, a paciente comentou que já esteve em uma emergência hospitalar por conta da pressão alta, mas que nunca conseguiu acompanhamento regular. Com base nessa situação hipotética, assinale a alternativa que apresenta um dos principais papéis da atenção primária à saúde.",
       "alternativas": {
         "A": "acompanhar a paciente ao longo do tempo, coordenando seu cuidado e monitorando sua condição de saúde",
@@ -8637,7 +8637,7 @@
     {
       "id": "pv-sp-2025-0187",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Em um bairro com altos índices de doenças respiratórias, a equipe da unidade básica de saúde desenvolveu um projeto de promoção da saúde para prevenir contra esses problemas. Com base nessa situação hipotética, assinale a estratégia que está alinhada a uma abordagem de promoção da saúde.",
       "alternativas": {
@@ -8667,8 +8667,8 @@
     {
       "id": "pv-sp-2025-0189",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Durante uma campanha de vacinação contra a gripe em um bairro, a equipe de saúde observou que muitos idosos com comorbidades não estavam participando. Com base nessa situação hipotética, assinale a alternativa que apresenta a ação indicada para aumentar a adesão desse grupo à vacinação.",
       "alternativas": {
         "A": "Enviar mensagens de texto semanais com lembretes sobre a campanha.",
@@ -8691,8 +8691,8 @@
     {
       "id": "pv-sp-2025-0191",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Um homem de 35 anos de idade compareceu à unidade básica de saúde com queixas de cansaço excessivo, dificuldade de concentração e perda de interesse nas atividades que costumava apreciar. Ele trabalhava como motorista de ônibus e relatou que os sintomas começaram há alguns meses, mas que se intensificaram recentemente. Ele negou histórico psiquiátrico anterior e afirmou que o ambiente de trabalho tem sido estressante. Após uma avaliação inicial, ele apresentou sintomas compatíveis com um quadro leve de depressão, sem sinais de ideação suicida. Com base nessa situação hipotética, a conduta indicada para o paciente segundo as diretrizes do SUS para o atendimento de saúde mental na atenção primária, é",
       "alternativas": {
         "A": "encaminhar o paciente imediatamente para um psiquiatra.",
@@ -8715,8 +8715,8 @@
     {
       "id": "pv-sp-2025-0195",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Assinale a alternativa que apresenta um determinante social da saúde que pode afetar a adesão ao tratamento de moradores de uma região.",
       "alternativas": {
         "A": "disponibilidade de medicamentos na farmácia local",
@@ -8739,8 +8739,8 @@
     {
       "id": "pv-sp-2025-0199",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em uma cidade de médio porte, houve um aumento recente de casos de uma doença infecciosa de notificação obrigatória. A secretaria de saúde local precisou entender o perfil epidemiológico da doença e o comportamento de transmissão para implementar ações de controle e prevenção. Com base nessa situação hipotética, a estratégia adequada para realizar o monitoramento e o controle desse aumento de casos é",
       "alternativas": {
         "A": "realizar apenas um levantamento dos casos internados no hospital da cidade.",
