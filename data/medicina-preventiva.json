@@ -6140,7 +6140,7 @@
       "id": "pv-ufr-2025-0287",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O envelhecimento populacional é um fenômeno que gera grande impacto na organização das famílias e na sociedade. Sobre esse fenômeno epidemiológico, pode-se afirmar que:",
       "alternativas": {
         "A": "o seguimento populacional com 80 anos ou mais vem crescendo de forma mais lenta que o seguimento de 65 a 80 anos",
@@ -6162,8 +6162,8 @@
     {
       "id": "pv-ufr-2025-0288",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "Pode-se afirmar, sobre às práticas de vigilância em saúde, que:",
       "alternativas": {
         "A": "o monitoramento de riscos pela vigilância sanitária engloba os processos relacionados à definição de caso suspeito de agravos sujeitos à notificação compulsória",
@@ -6185,8 +6185,8 @@
     {
       "id": "pv-ufr-2025-0289",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
       "enunciado": "A vigilância epidemiológica em saúde do trabalhador (Vesat) é um dos componentes da vigilância em saúde do trabalhador. Pode-se afirmar que entre os seus objetivos está:",
       "alternativas": {
         "A": "identificar e analisar as atividades produtivas de maior risco dentro do perfil produtivo do seu território",
@@ -6208,8 +6208,8 @@
     {
       "id": "pv-ufr-2025-0291",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "A respeito da farmacovigilância, analise as afirmativas a seguir: I) Eventos adversos decorrentes do uso não aprovado do medicamento (off label) não são sujeitos a notificação. II) O evento adverso a medicamentos refere-se a qualquer ocorrência médica desfavorável relacionada ao uso do medicamento sem que necessariamente exista relação causal com o produto utilizado. III)Mediante evidências suficientes para o fortalecimento e possível confirmação da relação entre o evento adverso relatado e o uso do medicamento, medidas regulatórias podem ser adotadas, tais como a publicação de alerta e cartas aos profissionais de saúde, a suspensão de fabricação ou de comercialização e a interdição de lotes. Pode-se afirmar que está(ão) correta(s) a(s) afirmativa(s):",
       "alternativas": {
         "A": "II e III",
@@ -6231,8 +6231,8 @@
     {
       "id": "pv-ufr-2025-0293",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Pode-se afirmar sobre os desafios para implantação do SUS, em geral, e, especificamente, o processo de descentralização, que:",
       "alternativas": {
         "A": "está relacionado a transferência da gestão de serviços públicos, principalmente para os municípios, sem responsabilidade com relação aos recursos financeiros e prestadores privados junto ao SUS",
@@ -6254,8 +6254,8 @@
     {
       "id": "pv-ufr-2025-0294",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Pode-se afirmar, em relação ao SUS, que:",
       "alternativas": {
         "A": "sua implantação não encontrou resistência por parte dos profissionais de saúde e da sociedade em geral",
@@ -6277,8 +6277,8 @@
     {
       "id": "pv-ufr-2025-0296",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
-      "sub_subarea": "Rastreamento",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "As ações decorrentes das políticas e dos serviços de saúde incidem nos diversos momentos da história natural de uma determinada doença. De acordo com os níveis de prevenção segundo Leavell e Clark (1976), pode-se afirmar que:",
       "alternativas": {
         "A": "a prevenção primária compreende a aplicação de medidas de saúde que evitem o aparecimento de doenças, como a higiene corporal, a fluoretação da água e campanhas contra o uso de drogas",
@@ -6300,8 +6300,8 @@
     {
       "id": "pv-ufr-2025-0297",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
-      "sub_subarea": "Rastreamento",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "As ações decorrentes das políticas e dos serviços de saúde incidem nos diversos momentos da história natural de uma determinada doença. De acordo com os níveis de prevenção segundo Leavell e Clark (1976), pode-se afirmar que:",
       "alternativas": {
         "A": "a prevenção primária compreende a aplicação de medidas de saúde que evitem o aparecimento de doenças, como a higiene corporal, a fluoretação da água e campanhas contra o uso de drogas",
@@ -6323,8 +6323,8 @@
     {
       "id": "pv-ufr-2025-0298",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Doenças ocupacionais (LER/DORT, perda auditiva, pneumoconioses)",
       "enunciado": "Pode-se afirmar que a perda auditiva induzida por ruído, é caracteriza por:",
       "alternativas": {
         "A": "apresentar padrão audiométrico misto",
@@ -6352,8 +6352,8 @@
     {
       "id": "pv-ufr-2025-0301",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Analise o gráfico de floresta (forest plot) a seguir de uma metanálise comparando a efetividade de um fármaco antiemético contra placebo na profilaxia de náusea pós- operatória. Legenda: RR = razão de risco Pode-se afirmar que:",
       "alternativas": {
         "A": "no estudo A, não se observou diferença de efetividade conclusiva entre o fármaco testado e o placebo",
@@ -6386,7 +6386,7 @@
       "id": "pv-uer-2024-0002",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "O rastreamento consiste na aplicação de testes em pessoas assintomáticas com o objetivo de selecionar indivíduos para intervenções cujo benefício potencial seja maior que o dano potencial. A APS tem papel fundamental na construção de programas de rastreamento organizados. Os critérios para a introdução de um programa de rastreamento consideram:",
       "alternativas": {
         "A": "o impacto significativo na saúde pública, independente da prevalência da doença e de cuidado médico acessível.",
@@ -6409,7 +6409,7 @@
       "id": "pv-uer-2024-0006",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Um ensaio clínico randomizado realizado com 200 indivíduos diabéticos verificou dois casos de retinopatia diabética, entre os 100 indivíduos alocados para tratamento, e quatro casos, entre os 100 alocados para placebo. Para prevenir um único caso de retinopatia entre os indivíduos com as características desse estudo, o número necessário para tratar (NNT) é de:",
       "alternativas": {
         "A": "100",
