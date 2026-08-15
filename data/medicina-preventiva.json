@@ -7089,8 +7089,8 @@
     {
       "id": "pv-hcp-2024-0026",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
-      "sub_subarea": "Rastreamento",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Paciente feminina, de 52 anos, ex-tabagista, com histórico de hipertensão arterial, veio à consulta por hematúria em exame qualitativo de urina solicitado em check-up. A uroanálise não revelou outras alterações. A paciente era assintomática do ponto de vista urológico. Com base no quadro, assinale a assertiva correta.",
       "alternativas": {
         "A": "Sangramento menstrual é a causa mais provável para a hematúria.",
@@ -7112,8 +7112,8 @@
     {
       "id": "pv-hcp-2024-0028",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "A acompanhante de um homem que sofreu um colapso súbito no saguão do aeroporto fez contato com o Serviço de Emergência. Que orientações, dentre as abaixo, devem ser fornecidas nesse momento, considerando que ela não é profissional de saúde?",
       "alternativas": {
         "A": "Confirmar a ausência de pulso e orientar o início das compressões torácicas e da ventilação boca a boca.",
@@ -7141,8 +7141,8 @@
     {
       "id": "pv-hcp-2024-0035",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Paciente feminina, de 35 anos, consultou para tratamento de obesidade. Informou que seu peso usual era 63 kg até os 25 anos e que havia aumentado 20 kg na gestação. Mede 1,62 m e atualmente pesa 98 kg (IMC de 37,3 kg/m²). Não apresentava comorbidades, e o restante da anamnese e o exame físico não apontaram para causas secundárias de obesidade. Referiu trabalhar 8 horas/dia como designer de software, dormir cerca de 4 horas/noite e ser sedentária. Gostava de leite, frutas, verduras e legumes, mas havia parado com o consumo de leite e frutas, porque a nutricionista que ela seguia no Instagram afirmou ser o leite um alimento inflamatório e serem as frutas, por conterem frutose, causadoras de esteatose hepática. Por orientação dessa profissional, também substituiu o azeite de oliva por gordura de coco para cozinhar e estava colocando aveia nos alimentos para baixar o índice glicêmico das refeições. Assinale a assertiva que contempla a informação correta sobre nutrição divulgada pelo perfil do Instagram.",
       "alternativas": {
         "A": "Leite é um alimento inflamatório.",
@@ -7164,8 +7164,8 @@
     {
       "id": "pv-hcp-2024-0040",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Paciente de 72 anos, trazido à consulta, encontrava-se alerta, porém falava pouco e de forma incompreensível; obedecia a comandos, mas não nomeava objetos. Foi constatada, também, perda de força no lado direito do corpo, com sinal de Babinski à direita. Quais os prováveis diagnósticos sindrômicos e topográfico?",
       "alternativas": {
         "A": "Disartria e síndrome piramidal – córtex frontal esquerdo",
@@ -7193,8 +7193,8 @@
     {
       "id": "pv-hcp-2024-0056",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Paciente masculino, de 18 anos, veio à consulta queixando-se de cefaleia eventual e fraqueza, com intolerância ao exercício físico. Apresentava quadro típico de claudicação intermitente de membros inferiores. Negou comorbidades prévias. Ao exame clínico, foram constatadas pressão arterial de 150/90 mmHg em ambos os membros superiores, com pulsos palpáveis e simétricos, e ausência de pulsos periféricos nos membros inferiores. Qual a suspeita diagnóstica mais provável?",
       "alternativas": {
         "A": "Coarctação de aorta",
@@ -7224,8 +7224,8 @@
     {
       "id": "pv-hcp-2025-0101",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Assinale a assertiva correta sobre estudos de revisão sistemática.",
       "alternativas": {
         "A": "Uma metanálise pode ser realizada de forma independente de uma revisão sistemática, sem risco de vieses nos resultados.",
@@ -7253,8 +7253,8 @@
     {
       "id": "pv-hcp-2025-0140",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Paciente feminina, de 55 anos, veio à consulta queixando-se de perda involuntária de urina associada à urgência, além de noctúria. Negou perda aos esforços. Qual dos exames abaixo deve ser solicitado para firmar o diagnóstico?",
       "alternativas": {
         "A": "Urocultura",
@@ -7283,7 +7283,7 @@
       "id": "pv-hcp-2025-0151",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Assinale a assertiva correta sobre o trauma vascular de extremidades.",
       "alternativas": {
         "A": "Em traumatismos penetrantes, o índice tornozelo-braço ou o índice de pressão arterial ≥ 0,9 na ausência de sinais clínicos de lesão vascular é condição suficiente para alta hospitalar sem investigação com exames de imagem.",
@@ -7305,8 +7305,8 @@
     {
       "id": "pv-hcp-2025-0161",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Paciente masculino, de 68 anos, procurou a UPA queixando-se de dificuldade extrema para urinar (apenas pequeno volume de urina era liberado com muito esforço), quadro iniciado no dia anterior. Informou ser tabagista com índice tabágico de 80 maços-ano. Desde os 50 anos, vinha observando enfraquecimento do jato urinário e aumento do número de vezes que acordava para urinar com a sensação de que não esvaziava a bexiga ao fim da micção. Negou febre ou ardência durante a micção. Trouxe resultado de exame de PSA solicitado na UBS. Ao exame físico, a palpação abdominal revelou bexiga distendida e sensível, e o toque retal, próstata aumentada de tamanho e de consistência firme, sem nódulos. A incidência do quadro clínico do paciente está relacionada com os seguintes fatores:",
       "alternativas": {
         "A": "idade, intensidade de sintomas prévios e nível do PSA.",
@@ -7328,8 +7328,8 @@
     {
       "id": "pv-hcp-2025-0164",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Paciente feminina, de 32 anos, procurou a UBS queixando-se de sensação de corpo estranho no olho, diplopia, lacrimejamento e borramento visual. Negou comorbidades. Considerando- se a hipótese diagnóstica mais provável, assinale a alternativa que contempla os achados de história e exame físico esperados.",
       "alternativas": {
         "A": "Ptose em repouso, fraqueza de extremidades e taquicardia",
@@ -7357,8 +7357,8 @@
     {
       "id": "pv-hcp-2025-0176",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Durante as inundações da região metropolitana de Porto Alegre, paciente masculino, de 70 anos, que havia ficado exposto à água por mais de 12 horas, apresentou parada cardiorrespiratória logo após ser resgatado. Foram iniciadas as manobras de ressuscitação conforme as recomendações da American Heart Association (AHA). Com base no caso, assinale a assertiva correta.",
       "alternativas": {
         "A": "Hipotermia é a causa mais provável da parada cardiorrespiratória, pois mesmo casos leves (estágio I) estão associados a instabilidade hemodinâmica e arritmias.",
@@ -7381,7 +7381,7 @@
       "id": "pv-hcp-2025-0178",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Com base na análise da radiografia reproduzida ao lado, realizada em incidência anteroposterior e em posição ortostática, é possível afirmar que",
       "alternativas": {
         "A": "foi realizada lobectomia pulmonar inferior direita.",
