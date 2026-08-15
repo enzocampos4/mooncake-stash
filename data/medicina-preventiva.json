@@ -3938,8 +3938,8 @@
     {
       "id": "pv-pe-2025-0185",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "De acordo com a Lista Nacional de Notificação Compulsória de doenças, agravos e eventos de saúde pública, nos serviços de saúde públicos e privados em todo o território nacional, são de notificação semanal os citados abaixo, EXCETO",
       "alternativas": {
         "A": "Filariose linfática.",
@@ -3968,8 +3968,8 @@
     {
       "id": "pv-pe-2025-0187",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "Sobre o esquema para profilaxia da raiva humana, um paciente com ferimentos na cabeça causados por um gato clinicamente suspeito de raiva no momento da agressão, devemos",
       "alternativas": {
         "A": "fazer o esquema profilático com 2 doses de vacina.",
@@ -4000,8 +4000,8 @@
     {
       "id": "pv-pe-2025-0189",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "A articulação entre os diversos serviços e ações de saúde, de forma que estejam sincronizados e voltados ao alcance de um objetivo comum, independentemente do local onde sejam prestados, corresponde ao atributo da Atenção Primária à Saúde (APS):",
       "alternativas": {
         "A": "Primeiro contato.",
@@ -4025,7 +4025,7 @@
       "id": "pv-pe-2025-0190",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "A medida que representa as chances de que um resultado ocorra dada uma exposição específica, em comparação com as chances do resultado ocorrer na ausência dessa exposição, é denominada de",
       "alternativas": {
         "A": "Odds Ratio.",
@@ -4059,7 +4059,7 @@
       "id": "pv-pe-2025-0191",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Um estudo de 2024 identificou os fatores associados à perda de seguimento e ao óbito por tuberculose (TB) na população em situação de rua no Brasil. Foi realizado a partir dos dados provenientes das notificações dos casos de TB na população em situação de rua no Brasil, entre 2015 e 2021. Esses registros foram obtidos no Sistema de Informação de Agravos de Notificação (Sinan). Assinale a alternativa que corresponde a esse tipo de estudo.",
       "alternativas": {
         "A": "Inquérito.",
@@ -4089,7 +4089,7 @@
       "id": "pv-pe-2025-0192",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Sobre os critérios para avaliar a associação causal de Bradford Hill, a saber que “O fator causal deve preceder o fator efeito”, consiste na conceituação de",
       "alternativas": {
         "A": "Consistência.",
@@ -4112,8 +4112,8 @@
     {
       "id": "pv-mg-2024-0019",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Homem de 63 anos apresentou episódio isolado de urina de coloração vermelho escuro. Não possui outras queixas, desconhece comorbidades nem faz uso de medicamentos. Fuma um maço de cigarro desde os 20 anos de idade e nega etilismo. O exame físico, inclusive o toque retal, não apresenta anormalidades. Exame de urina: 3 hemácias por campo, sem cilindros, sem proteína. Ultrassonografia do trato urinário e da pelve masculina: sem anormalidades. Assinale a alternativa que apresenta a conduta MAIS ADEQUADA nesse caso:",
       "alternativas": {
         "A": "Solicitar cistoscopia e uro-ressonância magnética.",
@@ -4135,8 +4135,8 @@
     {
       "id": "pv-mg-2024-0031",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Os Sistemas de Informação em Saúde são parte da estrutura dos Sistemas de Saúde e têm como propósito geral facilitar a formulação e avaliação das políticas, planos e programas de saúde, subsidiando a tomada de decisões. Sobre os sistemas nacionais de informação em saúde analise as assertivas abaixo: 1. O Sistema Nacional de Agravos de Notificação (Sinan) é fonte de dados indispensáveis ao cálculo dos principais indicadores relacionados a doenças de importância epidemiológica, surtos, endemias e epidemias, tais como as taxas de incidência, letalidade e mortalidade, coeficiente de prevalência, entre outros. 2. O Sistema de Informação sobre Mortalidade (SIM) tem como fonte de informação a Declaração de Óbito (DO); 3. O Sistema de Informações sobre Nascidos Vivos (Sinasc) tem como principal fonte de informação a ficha de notificação compulsória. 4. O Sistema do Programa Nacional de Imunizações - SI-PNI tem como objetivo fundamental possibilitar aos gestores envolvidos no programa uma avaliação dinâmica do risco quanto à ocorrência de surtos ou epidemias, a partir do registro dos imunos aplicados e do quantitativo populacional vacinado, que são agregados por faixa etária, em determinado período de tempo, em uma área geográficas. Sobre as assertivas, assinale a alternativa CORRETA:",
       "alternativas": {
         "A": "Duas são verdadeiras e duas são falsas.",
@@ -4164,8 +4164,8 @@
     {
       "id": "pv-mg-2024-0039",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Sobre a profilaxia antirrábica humana pós-exposição, em caso de acidente grave, assinale a alternativa ERRADA:",
       "alternativas": {
         "A": "Se for causado por cão e este for passível de observação por 10 dias e sem sinais sugestivos de raiva no momento, deve-se lavar o ferimento com água e sabão não sendo necessário utilizar vacina, soro ou imunoglobulina antirrábicos.",
@@ -4195,8 +4195,8 @@
     {
       "id": "pv-mg-2024-0043",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Política Nacional de Promoção da Saúde (PNPS) baseia-se no conceito ampliado de saúde e apresenta sua promoção como um conjunto de estratégias e formas de produzir saúde, no âmbito individual e coletivo, com responsabilidades para os três entes federados. NÃO é considerada ação específica no âmbito da PNPS:",
       "alternativas": {
         "A": "Elevação das taxas de imunização.",
@@ -4218,8 +4218,8 @@
     {
       "id": "pv-mg-2024-0044",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Sobre a Política Nacional de Vigilância em Saúde (PNVS) no Sistema Único de Saúde (SUS) é CORRETO afirmar:",
       "alternativas": {
         "A": "A PNVS deverá contemplar toda a população em território nacional sem nenhum tipo de priorização.",
@@ -4241,8 +4241,8 @@
     {
       "id": "pv-mg-2024-0045",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Sobre incorporação ou a exclusão de medicamentos e tecnologias em saúde e produtos de interesse para a saúde: órteses, próteses, bolsas coletoras e equipamentos médico, no âmbito do Sistema Único de Saúde (SUS) é CORRETO afirmar:",
       "alternativas": {
         "A": "A análise para incorporação ou exclusão deve ser baseada em evidências científicas, levando em consideração aspectos como eficácia, acurácia, efetividade e a segurança da tecnologia, além da avaliação econômica comparativa dos benefícios e dos custos em relação às tecnologias já existentes.",
