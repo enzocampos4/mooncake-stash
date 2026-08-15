@@ -7416,8 +7416,8 @@
     {
       "id": "pv-hcp-2025-0180",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Paciente feminina, de 30 anos, buscou atendimento na UBS, acompanhada pelo marido, por vir apresentando insônia, irritabilidade, anedonia e choro fácil. Relatou que não conseguia sair sozinha e vinha tendo crises de ansiedade frequentes, especialmente à noite, antes de deitar- se, sintomas iniciados há 10 dias, logo após ter sido resgatada numa estrada em razão de sua casa situar-se em região totalmente alagada pelas chuvas. Referiu ter ficado 3 dias abrigada em uma escola e, há 1 semana, ter ido morar com a sogra, por não conseguir retornar para sua casa por medo. Que conduta, dentre as abaixo, o médico da UBS deve priorizar?",
       "alternativas": {
         "A": "Orientar suporte familiar e social, apoio psicológico para uma escuta empática neste momento de estresse agudo e não prescrever benzodiazepínicos para insônia e irritabilidade.",
@@ -7449,7 +7449,7 @@
       "id": "pv-hcp-2025-0183",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Um novo antibiótico está sendo avaliado para tratamento de traqueobronquite bacteriana, apresentando menor curso e maior comodidade posológica em relação ao tratamento padrão (comparador), que tem cerca de 90% de eficácia (desfecho “taxa de cura”). O grupo pesquisador desenhou um ensaio clínico randomizado e propôs que uma efetividade de 81% seja definida como “não inferior” (Risco Relativo de 0,9 como margem de não inferioridade). Com base nas informações e na análise da figura, assinale a assertiva correta sobre estudos de não inferioridade.",
       "alternativas": {
         "A": "Nesse cenário e desfecho, um tratamento será considerado superior (melhor) quando a estimativa de risco relativo, com seus intervalos de confiança, for < 1.",
@@ -7478,7 +7478,7 @@
       "id": "pv-hcp-2025-0184",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Em um estudo prospectivo avaliando eventos adversos de um novo medicamento, 15 dos participantes da pesquisa que receberam o medicamento apresentaram epigastralgia e 45 dos que receberam o medicamento não apresentaram tal sintoma. Dos 80 participantes que não tomaram o novo medicamento, apenas 2 apresentaram epigastralgia. Assinale a assertiva correta sobre o efeito adverso “epigastralgia” nesse estudo.",
       "alternativas": {
         "A": "A Razão de Chances (odds ratio) do estudo é 25.",
@@ -7507,7 +7507,7 @@
       "id": "pv--2025-0186",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Até agosto de 2024, os casos de Mpox na região da República Democrática do Congo e em países vizinhos totalizaram 15.600 com 537 mortes associadas, número maior do que o registrado em todo ano de 2023. Por essa razão, a Organização Mundial da Saúde declarou Mpox como nova Emergência em Saúde Pública de importância internacional. No Brasil, desde o início de 2024, já foram registrados 709 casos, com maior concentração na região Sudeste, principalmente nos estados de São Paulo e Rio de Janeiro. A respeito dessa situação, assinale a assertiva correta.",
       "alternativas": {
         "A": "O coeficiente de letalidade na região africana é 537 mortes/15.600 casos.",
@@ -7529,8 +7529,8 @@
     {
       "id": "pv-hcp-2025-0187",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Um serviço para ser considerado de Atenção Primária à Saúde necessita apresentar alguns atributos, os quais podem ser divididos em essenciais ou derivados. Em uma UBS em condições precárias de atendimento, tais como horário limitado de agendamento, ausência de prontuários para registro das consultas e não disponibilidade de materiais para procedimentos cirúrgicos ambulatoriais, quais atributos estão sendo comprometidos respectivamente?",
       "alternativas": {
         "A": "Acesso, equidade e integralidade do cuidado",
@@ -7552,8 +7552,8 @@
     {
       "id": "pv-hcp-2025-0188",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo. Os recursos financeiros do Sistema Único de Saúde, na esfera federal, são originários da .......... e fiscalizados pelo(a) ..........; as receitas geradas são creditadas diretamente no .......... .",
       "alternativas": {
         "A": "Saúde – Conselho de Saúde – Fundo Municipal de Saúde",
@@ -7575,8 +7575,8 @@
     {
       "id": "pv-hcp-2025-0189",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "Na regulamentação do Sistema Único de Saúde - SUS (Lei no 8.080/1990), há referência à oferta de serviços pela iniciativa privada. Assinale a assertiva correta sobre a participação complementar dos serviços privados no SUS.",
       "alternativas": {
         "A": "A participação complementar desses serviços será formalizada mediante contrato ou convênio, observadas, a respeito, as normas de direito privado.",
@@ -7598,8 +7598,8 @@
     {
       "id": "pv-hcp-2025-0190",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "Determinado município de 20 mil habitantes possui 2 Equipes de Saúde da Família;1 Hospital geral com 10 leitos clínicos, 3 cirúrgicos, 3 obstétricos, 3 pediátricos e 6 psiquiátricos; e 1 Ambulatório de especialidades. Em 2022, apresentou taxa de mortalidade infantil de 14/1.000 nascidos vivos, predominantemente no componente pós-neonatal, e altas taxas de internação hospitalar por Condições Sensíveis à Atenção Primária à Saúde (hipertensão arterial sistêmica, gastroenterites e infecção do trato urinário em adultos e por asma nos com menos de 18 anos). Considerando que está sendo planejada a reestruturação de seu Plano Municipal de Saúde, assinale a alternativa que contempla o investimento na força de trabalho mais adequado para esse município.",
       "alternativas": {
         "A": "1 médico(a) neonatologista para sala de parto e 1 médico(a) pneumologista",
@@ -7621,8 +7621,8 @@
     {
       "id": "pv-hcp-2025-0197",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Assinale a assertiva correta sobre as intervenções breves em pessoas com uso problemático de álcool.",
       "alternativas": {
         "A": "O aconselhamento para parar de beber é mais efetivo quando feito de forma diretiva e prática (como uma prescrição): o paciente deve parar de beber por sua saúde.",
@@ -7650,8 +7650,8 @@
     {
       "id": "pv-fam-2024-0041",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Paciente com idade gestacional de 28 semanas e 3 dias com queixa de perda de líquido por via vaginal há 3 dias. Ao exame especular: saída de líquido claro sem grumos pelo orifício externo do colo. Nesses casos, a confirmação do diagnóstico é realizada por:",
       "alternativas": {
         "A": "Exame especular e ultrassom.",
@@ -7682,7 +7682,7 @@
       "id": "pv-fam-2024-0073",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um homem negro, de 50 anos de idade, apresentou PSA de 7 ng/dl. Se tomarmos como corte, para suspeita de câncer de próstata, valor de PSA igual ou maior do que 4 ng/dl, a sensibilidade do exame será de, aproximadamente 72%, e a Especificidade de 46%. A prevalência de câncer de próstata em homem negro é de, aproximadamente, 10%. A partir destes dados, qual a probabilidade deste homem ter de fato câncer de próstata",
       "alternativas": {
         "A": "10%",
@@ -7710,8 +7710,8 @@
     {
       "id": "pv-fam-2024-0075",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
-      "sub_subarea": "Rastreamento",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "De acordo com as evidências científicas atuais, quando o médico ou médica que atua na Atenção Primária prescreve hipoglicemiante em pessoas com baixo risco cardiovascular; receita ácido acetilsalicílico como prevenção primária sem ponderar riscos e benefícios de hemorragia de trato digestivo em pessoas com risco cardiovascular; solicita uma série de exames complementares desnecessários com a finalidade de emitir atestado de liberação para atividade física em pessoas assintomáticas e com exame físico sem alterações significativas; e quando não inicia tratamento medicamentoso (ácido acetilsalicílico e estatina) imediato naquelas pessoas com doença cardiovascular estabelecida, quais os níveis de prevenção que não estão sendo levados em conta na prática clínica?",
       "alternativas": {
         "A": "Prevenção Primária e Prevenção Terciária",
