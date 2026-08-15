@@ -4885,8 +4885,8 @@
     {
       "id": "pv-amr-2025-0111",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Sobre o diabetes melito, analise as assertivas a seguir: I. A taxa de glicação da fração A1c da hemoglobina A (HbA1c) é expressa em porcentagem e se relaciona com a média das glicemias diárias nas últimas 3 semanas. II. É recomendada a meta de HbA1c <7,0% para indivíduos com qualquer tipo de diabetes, para prevenção de complicações macrovasculares em longo prazo, desde que não incorra em hipoglicemias graves e frequentes, exceto em idosos. III. Em idosos com diabetes melito, com objetivo de evitar hipoglicemia, uma meta de HbA1c <8,0% deve ser considerada quando houver status funcional comprometido, síndrome de fragilidade, presença de comorbidades que limitem a expectativa de vida e/ou alteração da função cognitiva. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -4916,8 +4916,8 @@
     {
       "id": "pv-amr-2025-0117",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Um dos desafios no cuidado ao paciente idoso é reconhecer as particularidades que essa faixa etária apresenta em relação a outras. Qual das alternativas a seguir apresenta uma particularidade comum nos pacientes idosos e que requer atenção especial?",
       "alternativas": {
         "A": "O metabolismo dos medicamentos é mais rápido, exigindo doses mais altas.",
@@ -4945,7 +4945,7 @@
     {
       "id": "pv-amr-2025-0122",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "A doença de Crohn é caracterizada por um processo inflamatório que compromete o intestino e pode causar dor abdominal, diarreia e perda de peso. Sobre a doença de Crohn, assinale a alternativa correta.",
       "alternativas": {
@@ -4968,8 +4968,8 @@
     {
       "id": "pv-amr-2025-0153",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "O transporte de substâncias por meio da placenta ocorre por meio dos seguintes mecanismos: I. Difusão simples. II. Transporte ativo. III. Pinocitose. Quais estão corretos?",
       "alternativas": {
         "A": "Apenas I.",
@@ -4997,8 +4997,8 @@
     {
       "id": "pv-amr-2025-0181",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "De acordo com a Política Nacional de Atenção Básica definida na Portaria no 2.436/2017, é uma atribuição específica do médico de família e comunidade na Estratégia Saúde da Família:",
       "alternativas": {
         "A": "Implementar e manter atualizados rotinas, protocolos e fluxos relacionados à sua área de competência na UBS.",
@@ -5020,8 +5020,8 @@
     {
       "id": "pv-amr-2025-0182",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "A Atenção Primária à Saúde (APS) é fundamental para o funcionamento eficaz dos sistemas de saúde e a promoção da saúde da população. Em relação aos princípios, estratégias, características, práticas e desafios da APS, assinale a alternativa correta.",
       "alternativas": {
         "A": "Um dos principais desafios da APS é garantir a coordenação do cuidado, o que implica a integração efetiva entre diferentes níveis de atenção e setores de saúde.",
@@ -5043,8 +5043,8 @@
     {
       "id": "pv-amr-2025-0183",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Analise as seguintes assertivas em relação aos princípios e diretrizes do Sistema Único de Saúde (SUS): I. A integralidade envolve a prestação contínua e articulada de ações e serviços preventivos, curativos, de promoção da saúde e de reabilitação em todos os níveis de complexidade. II. A regionalização implica a centralização dos serviços de saúde em grandes centros urbanos, para melhor controle e gestão dos recursos. III. A participação social é garantida através de mecanismos como os conselhos e conferências de saúde, que permitem à população influenciar diretamente as políticas de saúde. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5072,8 +5072,8 @@
     {
       "id": "pv-amr-2025-0184",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "Analise as seguintes assertivas em relação ao território na organização local dos serviços da APS: I. Corresponde à área geográfica de abrangência de uma equipe de saúde, sendo um espaço de corresponsabilidade pela saúde entre população e serviço. II. Considera-se uma determinada realidade de saúde da população que nele vive, a qual está em permanente movimento, por isso denominada de processos saúde-doença. III. É definido com base em critérios administrativos, assistenciais e organizacionais da população local, tendo dimensões econômicas, política, cultural e epidemiológica. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5095,8 +5095,8 @@
     {
       "id": "pv-amr-2025-0187",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "São vacinas indicadas para gestantes e disponíveis no SUS: I. DTpa (tríplice bacteriana). II. Hepatite B. III. Influenza. IV. Covid-19. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -5124,8 +5124,8 @@
     {
       "id": "pv-amr-2025-0189",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Analise as seguintes assertivas em relação ao Conselho Nacional de Saúde (CNS) e assinale V, se verdadeiras, ou F, se falsas. ( ) É uma instância colegiada, deliberativa e permanente do SUS, integrante da estrutura organizacional do Ministério da Saúde. ( ) Sua missão é fiscalizar, acompanhar e monitorar as políticas públicas de saúde nas suas mais diferentes áreas, levando as demandas da população ao poder público. ( ) Tem por finalidade atuar na formulação e no controle da execução da Política Nacional de Saúde, inclusive nos aspectos econômicos e financeiros, nas estratégias e na promoção do processo de controle social. ( ) É composto por conselheiras e conselheiros titulares e seus respectivos primeiros e segundos suplentes, que são representantes dos segmentos de usuários, trabalhadores, gestores do SUS e prestadores de serviços em saúde. ( ) É responsável por realizar conferências e fóruns de participação social, além de aprovar o orçamento da saúde e acompanhar a sua execução, avaliando a cada quatro anos o Plano Nacional de Saúde. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
       "alternativas": {
         "A": "V – V – F – V – F.",
@@ -5154,7 +5154,7 @@
       "id": "pv-amr-2025-0193",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Em um estudo de caso-controle, qual é o maior desafio para evitar o viés de seleção?",
       "alternativas": {
         "A": "Garantir que o grupo controle seja representativo da população que deu origem aos casos.",
@@ -5183,7 +5183,7 @@
       "id": "pv-amr-2025-0194",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "Uma Razão de Verossimilhança Positiva (RVP) de 1 significa que: I. O teste não altera a probabilidade pré-teste da doença. II. O teste é inútil para confirmar a presença da doença. III. A sensibilidade e a especificidade do teste são iguais. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
