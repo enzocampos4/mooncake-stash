@@ -6760,8 +6760,8 @@
     {
       "id": "pv-uer-2025-0112",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Um homem de 58 anos, hipertenso, diabético, tabagista e etilista, procura a emergência com queixa de dor abdominal. Refere episódios recorrentes de dor em andar superior do abdômen, mais importante no período pós-prandial há meses. Ao exame, apresenta dor à palpação de região epigástrica e macicez móvel de decúbito. Uma ultrassonografia à beira leito evidencia ascite moderada. É realizada paracentese diagnóstica com os seguintes resultados: albumina = 2,3g/dL, proteínas totais = 4,2g/dL e leucócitos = 300/mm³, com 80% de polimorfonucleares. Exames laboratoriais revelam hemoglobina = 12,5mg/dL, leucócitos = 6.000/mm³, plaquetas = 160.000/mm³, creatinina = 1,4mg/dL, proteínas totais = 5,2g/dL e albumina = 2,8g/dL. O exame que deve ser solicitado no líquido ascítico para definição do diagnóstico mais provável é:",
       "alternativas": {
         "A": "cultura para germes comuns",
@@ -6783,8 +6783,8 @@
     {
       "id": "pv-uer-2025-0120",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Uma mulher de 35 anos procura o ambulatório de clínica médica queixando-se de perda de peso e dificuldade de se alimentar há seis meses. Refere que sente os alimentos, sólidos ou líquidos, entalados na garganta, e que apresenta dor retroesternal em aperto, além de regurgitação após a alimentação. Considerando o diagnóstico mais provável, o mecanismo fisiopatológico mais provavelmente associado é:",
       "alternativas": {
         "A": "hipoperistalse e hipertonia do esfíncter esofageano inferior",
@@ -6806,7 +6806,7 @@
     {
       "id": "pv-uer-2025-0144",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Em um laudo de colposcopia de uma mulher de 27 anos, aparece o termo “zona de transformação” e ela deseja saber o que isso significa. A explicação a ser dada é a de que corresponde a um achado:",
       "alternativas": {
@@ -6845,8 +6845,8 @@
     {
       "id": "pv-uer-2025-0184",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Um casal de 83 e 85 anos, acompanhado na Estratégia Saúde da Família (ESF), vai à consulta médica, pois o homem sofreu queda da própria altura há cinco dias e ficou com dor no quadril, que melhora com o uso de analgésicos. Considerando a avaliação multidimensional do idoso e a abordagem centrada na pessoa, visando à prevenção de quedas, as orientações do médico devem ser:",
       "alternativas": {
         "A": "indicação de internação hospitalar e moderação nas atividades",
@@ -6874,8 +6874,8 @@
     {
       "id": "pv-uer-2025-0189",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Homem de 72 anos procurou atendimento médico com queixa de dor precordial, em aperto retroesternal, quando sobe dez degraus da escada ou quando caminha a distância de 400m rapidamente. Na anamnese, constata-se que é diabético (última hemoglobina glicada = 7,5%); dislipidêmico (último LDL-colesterol = 100mg/dL); ex-tabagista (parou há um ano) e hipertenso (pressão = 134x86mmHg). Ao exame, não apresentou dor na palpação ou nos movimentos torácicos. Diante disso, o médico solicitou teste ergométrico. Ao retornar, o paciente traz resultado de teste negativo para isquemia no esforço, com observação de que teve má adaptação à esteira rolante durante o exame. Sabe-se que a sensibilidade do teste ergométrico é de aproximadamente 70% e que a especificidade é de 90% para isquemia no esforço induzido. A avaliação do teste e as condutas que devem ser implementadas nesse paciente, respectivamente, são:",
       "alternativas": {
         "A": "teste provavelmente negativo para coronariopatia / tranquilizar o paciente, melhorar o controle da hemoglobina glicada abaixo de 6,5 e manter controle do colesterol adequado",
@@ -6897,7 +6897,7 @@
     {
       "id": "pv-uer-2025-0191",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Com relação à polifarmácia em idosos, principalmente acima de 74 anos, é importante avaliar o custobenefício, porque:",
       "alternativas": {
@@ -6920,8 +6920,8 @@
     {
       "id": "pv-uer-2025-0192",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "A descrição correta dos conceitos de polifarmácia e multimorbidade, respectivamente, com as implicações no manejo do paciente é:",
       "alternativas": {
         "A": "uso concomitante de múltiplos medicamentos por um paciente, o que pode aumentar o risco de interações medicamentosas e efeitos adversos / presença de várias condições crônicas simultâneas, o que pode complicar o manejo e o tratamento devido à interação entre as doenças e os medicamentos",
@@ -6943,8 +6943,8 @@
     {
       "id": "pv-uer-2025-0193",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Segundo o Ministério da Saúde e a legislação vigente, no Brasil, o rastreamento de câncer:",
       "alternativas": {
         "A": "deve ser feito para todos os tipos de cânceres, visto que o diagnóstico precoce reduz a morbimortalidade",
@@ -6966,8 +6966,8 @@
     {
       "id": "pv-hcp-2024-0016",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Os atributos de Atenção Primária à Saúde são classificados em essenciais e derivados. Assinale a alternativa que contempla um atributo essencial e um derivado respectivamente.",
       "alternativas": {
         "A": "Acesso de primeiro contato – longitudinalidade",
@@ -6998,7 +6998,7 @@
       "id": "pv-hcp-2024-0018",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "O gráfico abaixo mostra as Curvas ROC (Receiver Operating Characteristic) de 4 testes diagnósticos. Qual dos pontos apresenta a maior especificidade?",
       "alternativas": {
         "A": "1",
@@ -7032,7 +7032,7 @@
       "id": "pv-hcp-2024-0020",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Nível de evidência e grau de recomendação são ferramentas importantes da Epidemiologia Clínica, pois contribuem para a tomada de decisão em relação a uma intervenção médica baseada na melhor evidência científica disponível. Levando-se em conta as opções propostas abaixo, consideram-se com o melhor nível de evidência, de acordo com o sistema GRADE, as diretrizes baseadas em",
       "alternativas": {
         "A": "recomendações de especialistas.",
@@ -7061,7 +7061,7 @@
       "id": "pv-hcp-2024-0023",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Assinale a assertiva correta sobre intervenções preventivas em Oncologia.",
       "alternativas": {
         "A": "Intervenções que diminuam a incidência de câncer são sempre custo-efetivas.",
