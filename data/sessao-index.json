@@ -25247,8 +25247,8 @@
   "pv-amr-2025-0196": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -25257,7 +25257,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -25265,8 +25265,8 @@
   "pv-ufr-2024-0001": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25275,7 +25275,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25283,8 +25283,8 @@
   "pv-ufr-2024-0004": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25293,7 +25293,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25301,8 +25301,8 @@
   "pv-ufr-2024-0008": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25311,7 +25311,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Curvas ROC e razão de verossimilhança",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25319,8 +25319,8 @@
   "pv-ufr-2024-0010": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25329,7 +25329,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25337,8 +25337,8 @@
   "pv-ufr-2024-0014": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -25346,8 +25346,8 @@
   "pv-ufr-2024-0015": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Vigilância",
+    "sub": "Epidemiologia",
+    "subsub": "",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
