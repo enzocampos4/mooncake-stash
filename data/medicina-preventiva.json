@@ -9371,7 +9371,7 @@
       "id": "pv-sír-2024-0009",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um hospital está avaliando a inclusão do teste pesquisa de antígeno urinário de pneumococo para pacientes com pneumonia. Esse teste tem sensibilidade de 70%, especificidade de 98%, razão de verossimilhança positiva de 35, razão de verossimilhança negativa de 0,31. Em relação a este teste, é correto afirmar que",
       "alternativas": {
         "A": "Há 98% de chance de se identificar falso-negativos (especificidade).",
@@ -9394,8 +9394,8 @@
     {
       "id": "pv-sír-2024-0010",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Direitos do paciente",
       "enunciado": "Mulher de 50 anos, casada, tem 1 filha de 17 anos. Vai à UBS para mostrar os exames preventivos solicitados na última consulta. Nega doenças crônicas. Ao ser perguntada sobre a qualidade do sono, ela começa a chorar porque dorme muito mal. Conta que está sempre ansiosa e com medo porque sofre violência do marido, apanha quase todas as semanas. Ele toma conta do seu dinheiro, não a deixa com nada e força relações sexuais mesmo depois de tê-la agredido. Em alguns dias, ele se transforma, pede perdão e jura que vai melhorar. Mas após algum tempo volta a ser agressivo. Exame físico com hematomas em abdome, coxas e região dorsal. Entre as opções abaixo, a melhor conduta nesse caso é preencher a ficha de notificação de violência contra a mulher,",
       "alternativas": {
         "A": "identificar junto à paciente as possíveis origens e gatilhos da violência que está sofrendo e encaminhar para psicoterapia.",
@@ -9418,8 +9418,8 @@
     {
       "id": "pv-sír-2024-0013",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "A atenção primária à saúde é a porta de entrada do sistema de saúde e tem, como um de seus atributos derivados, a competência cultural. Entre as alternativas abaixo, a melhor definição para competência cultural é:",
       "alternativas": {
         "A": "A capacidade de reconhecer as necessidades especificas de grupos sociais, relacionadas a características étnicas, raciais e culturais.",
@@ -9445,8 +9445,8 @@
     {
       "id": "pv-sír-2024-0019",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "Homem, 45 anos, procura Unidade Básica de Saúde para agendar consulta de cuidados gerais, e recebe a informação de que novos agendamentos só serão realizados em 20 dias, e que deve chegar bem cedo à Unidade pois a procura é grande. Fica bastante descontente e pensa sobre o que ouviu recentemente sobre à história de criação do Sistema Único de Saúde no Brasil. Decide se informar na prefeitura e participar do conselho de saúde do seu município. A Lei Orgânica n° 8.142/1990 que dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde garante a",
       "alternativas": {
         "A": "descentralização da gestão do SUS com representatividade popular deliberativa nos Conselhos Municipais.",
@@ -9470,7 +9470,7 @@
       "id": "pv-sír-2024-0071",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Paciente de 61 anos faz seguimento no ambulatório por perda de peso, hiporexia, empachamento pós-prandial e dor epigástrica irradiando para dorso recorrente e progressiva. Ex-tabagista e etilista social (1 cerveja aos finais de semana). Nega comorbidades. Tomografia aponta duas lesões. O exame laboratorial que provavelmente está alterado e é condizente com a principal hipótese diagnóstica:",
       "alternativas": {
         "A": "A fetoproteína.",
@@ -9496,8 +9496,8 @@
     {
       "id": "pv-sír-2025-0124",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Paciente do sexo masculino, com 65 anos, refere dor lombar esquerda de leve intensidade e hematúria macroscópica, há 1 semana. Antecedente pessoal de hipertensão arterial e tabagismo de 45 maços/ano. Ao exame físico encontra-se descorado 1+, abdome indolor, massa endurecida palpável em hipocôndrio esquerdo, sinal de Giordano negativo. O melhor exame para elucidação diagnóstica e a provável patologia são, respectivamente",
       "alternativas": {
         "A": "Tomografia computadorizada de abdome - Carcinoma de células renais",
@@ -9522,8 +9522,8 @@
     {
       "id": "pv-sír-2025-0144",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Um adolescente de 13 anos está em tratamento com metotrexato e corticoides para artrite idiopática juvenil. Durante a consulta, verifica-se que ele nunca recebeu a vacina contra febre amarela. A família está preocupada, pois planeja viajar para uma área rural em breve. Com base nas condições do paciente, a recomendação correta sobre a referida vacina contra febre amarela é:",
       "alternativas": {
         "A": "Contraindicar a vacina devido à imunossupressão, propor medidas de prevenção.",
@@ -9547,7 +9547,7 @@
       "id": "pv-sír-2025-0183",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Um estudo foi realizado a fim de avaliar o efeito do consumo de leite, ingestão dietética de cálcio e padrões nutricionais, avaliados aos 18 anos, na densidade mineral óssea (DMO), avaliada aos 22 anos. A pesquisa contemplou 3 mil participantes do estudo de coorte de Pelotas, nascidos em 1993. Os resultados não demonstraram associações entre as categorias de ingestão de cálcio na dieta e os desfechos na DMO. Os autores referem que a principal limitação do estudo foi a metodologia retrospectiva de estimativa do consumo alimentar, relacionada ao potencial viés de memória, que pode interferir na estimativa dietética usual e na possibilidade de subestimar ou superestimar o consumo alimentar. Desta forma, ao interpretar a pesquisa, podemos inferir que o desenho de estudo e as limitações de resultado podem ser caracterizadas como:",
       "alternativas": {
         "A": "Estudo ecológico com viés de memória no grupo de intervenção.",
@@ -9570,8 +9570,8 @@
     {
       "id": "pv-sír-2025-0185",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Homem, 24 anos de idade, da entrada no pronto-socorro, conta que nos últimos 7 dias notou uma fraqueza progressiva nos membros inferiores, até que hoje conseguiu deambular apenas com apoio e veio ao hospital. Exame clínico: sinais vitais são normais; há fraqueza simétrica nos membros inferiores, que não vencem a resistência, e possuem hiporreflexia; há discreta e duvidosa hipoestesia até os joelhos; não existem outras anormalidades. O exame do líquor revelou líquido claro e transparente 2 leucócitos/mm³, 1 hemácia/mm³, glicose: 69 mg/dl, proteínas: 171 mg/dl, pesquisa microbiológica direta negativa. Para a escolha do potencialmente melhor tratamento para este paciente, consulta-se uma revisão sistemática com meta-análise sobre o assunto. Nesta publicação, os autores comparam o uso de imunoglobulina (IVIg) e plasmaférese (PE). De acordo com os dados e gráficos apresentados, é possível concluir corretamente:",
       "alternativas": {
         "A": "Não é possível estabelecer nenhuma conclusão com segurança.",
@@ -9600,8 +9600,8 @@
     {
       "id": "pv-sír-2025-0187",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Paciente de 63 anos foi diagnosticada com hipertensão há três anos e recebe acompanhamento regular em sua Unidade Básica de Saúde. Recentemente, ela apresentou complicações devido à falta de adesão ao tratamento. Durante uma visita domiciliar realizada por um agente comunitário de saúde, foi observado que a paciente não estava tomando os medicamentos regularmente, além de não seguir as orientações de controle alimentar. Com base no princípio da orientação às necessidades de saúde, a conduta mais adequada a ser adotada é:",
       "alternativas": {
         "A": "Instruir a paciente a seguir rigorosamente as orientações nutricionais, mesmo que ela não esteja segura para total aderência ao tratamento medicamentoso.",
@@ -9624,8 +9624,8 @@
     {
       "id": "pv-sír-2025-0190",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Um cenário desafiador nas cidades brasileiras é o controle da dengue. A Unidade Básica de Saúde, como parte da Atenção Primária à Saúde (APS), deve ser um recurso estratégico para lidar com esse problema de saúde, porque ela exerce papel na",
       "alternativas": {
         "A": "gestão ambiental, procedendo com medidas que assegurem o controle de riscos ambientais que potencializem a dispersão da dengue.",
@@ -9648,8 +9648,8 @@
     {
       "id": "pv-sír-2025-0192",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "A judicialização da saúde tem crescido significativamente no Brasil, impactando os orçamentos de estados e municípios. Em 14% dos estados e 11% dos municípios, as demandas judiciais drenaram entre 10% e 30% do orçamento destinado à saúde. Já em 5% dos municípios (aproximadamente 270 cidades), entre 30% e até 100% dos recursos de saúde foram consumidos por essas demandas judiciais. A maior parte das ações busca corrigir distorções no sistema de saúde, como o acesso a tratamentos que já foram incorporados ao rol da Agência Nacional de Saúde Suplementar (ANS) para o setor privado, mas que ainda não estão disponíveis no SUS. Além disso, muitas ações judiciais visam garantir novos tratamentos e indicações aprovados pela Agência Nacional de Vigilância Sanitária (Anvisa), mas que ainda não foram avaliados pela Comissão Nacional de Incorporação de Tecnologias no SUS (Conitec). São consequências da judicialização para a gestão de saúde pública no país:",
       "alternativas": {
         "A": "Reduz a necessidade de avaliações técnicas adicionais, uma vez que as decisões judiciais garantem o acesso imediato a tratamentos novos aprovados pela Anvisa.",
