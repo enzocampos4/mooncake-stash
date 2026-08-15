@@ -5205,8 +5205,8 @@
     {
       "id": "pv-amr-2025-0196",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um paciente é suspeito de ter uma infecção bacteriana grave. Dois testes rápidos, aplicados em paralelo, mostraram-se contraditórios: o primeiro deu positivo, e o segundo, negativo. Como interpretar esse resultado?",
       "alternativas": {
         "A": "O paciente deve ser considerado negativo, pois um dos testes foi negativo.",
@@ -5237,7 +5237,7 @@
       "id": "pv-amr-2025-0197",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "O que é um teste “padrão-ouro”?",
       "alternativas": {
         "A": "Um teste com 100% de sensibilidade.",
@@ -5265,8 +5265,8 @@
     {
       "id": "pv-ufr-2024-0001",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Pode-se afirmar, com relação às ações de vigilância e de promoção da saúde, que:",
       "alternativas": {
         "A": "nos serviços de saúde, a vigilância sanitária tem como objetivo monitorar a qualidade de tecnologias diagnósticas e terapêuticas utilizadas e todos os processos neles realizados",
@@ -5289,7 +5289,7 @@
       "id": "pv-ufr-2024-0003",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Novas estimativas da Organização Mundial da Saúde (OMS) mostram que o número total de mortes associadas direta ou indiretamente à pandemia de COVID-19 (descrito como “excesso de mortalidade”) entre 1 de janeiro de 2020 e 31 de dezembro de 2021 foi de aproximadamente 14,9 milhões. “Esses dados preocupantes não apenas apontam para o impacto da pandemia, mas também para a necessidade de todos os países investirem em sistemas de saúde mais resilientes que possam sustentar serviços essenciais de saúde durante crises, incluindo sistemas de informação de saúde mais fortes”, declarou Tedros Adhanom Ghebreyesus, diretor-geral da OMS.“ (OMS, 05/05/2022). Pode-se afirmar que a medida de associação que expressa o excesso de mortalidade devido à pandemia de Covid-19 é denominada:",
       "alternativas": {
         "A": "razão de riscos",
@@ -5311,8 +5311,8 @@
     {
       "id": "pv-ufr-2024-0004",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
-      "sub_subarea": "Rastreamento",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Pode-se afirmar, com relação aos modelos de causalidade e intervenção sobre os processos de adoecimento, que:",
       "alternativas": {
         "A": "reforço vacinal constitui basicamente uma ação específica de prevenção secundária",
@@ -5341,7 +5341,7 @@
       "id": "pv-ufr-2024-0007",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Pode-se afirmar que a magnitude da mortalidade por uma doença em uma determinada população é função da:",
       "alternativas": {
         "A": "natalidade e da letalidade da doença",
@@ -5363,8 +5363,8 @@
     {
       "id": "pv-ufr-2024-0008",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Pode-se afirmar, de acordo com o Escritório para Avaliação de Tecnologia (Office of Technology Assessment) do Congresso dos Estados Unidos da América, que o conceito de eficiência se refere:",
       "alternativas": {
         "A": "ao resultado de uma intervenção aplicada sob as condições habituais da prática médica, que incluem as imperfeições de implementação que caracterizam o mundo cotidiano",
@@ -5393,7 +5393,7 @@
       "id": "pv-ufr-2024-0009",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "Pode-se afirmar que, no curso da pandemia ao longo de 2020, o progressivo aumento da probabilidade pré-teste de infecção pelo SARS-CoV-2 entre os casos internados com síndrome respiratória aguda grave, aliado à baixa sensibilidade do teste molecular para o diagnóstico de Covid-19, teve como consequência:",
       "alternativas": {
         "A": "diminuição da razão de verossimilhança para o teste negativo de Covid-19",
@@ -5421,8 +5421,8 @@
     {
       "id": "pv-ufr-2024-0010",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Um ensaio clínico randomizado com 1.500 participantes foi realizado para testar a eficácia de uma nova vacina contra a dengue. Ao final de um ano de seguimento 300 casos novos de dengue foram identificados, dentre eles 56% receberam a nova vacina. Pode-se concluir a respeito da eficácia da nova vacina que:",
       "alternativas": {
         "A": "as informações disponíveis são insuficientes",
@@ -5445,7 +5445,7 @@
       "id": "pv-ufr-2024-0011",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Pode-se afirmar que o registro incorreto de óbitos infantis ocorridos nos minutos imediatos após o parto como natimortos tem como consequência:",
       "alternativas": {
         "A": "subestimação da razão de mortalidade materna",
@@ -5467,8 +5467,8 @@
     {
       "id": "pv-ufr-2024-0014",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Um ensaio clínico randomizado, triplamente encoberto, foi realizado para investigar a efetividade do fármaco X na cura da doença Y em comparação a uma substância placebo, a partir de uma amostra de 1.200 pacientes com diagnóstico confirmado para a doença Y. Ao final do estudo, a estimativa da razão de chances (RC) de cura da doença Y entre o grupo tratado com o fármaco X e o grupo controle foi igual a 2,5, com um intervalo de 95% de confiança entre 1,8 e 3,7. Pode-se afirmar, sobre a interpretação dos resultados, que:",
       "alternativas": {
         "A": "entre todos os possíveis valores da RC de cura da doença Y, 95% estão incluídos entre 1,8 e 3,7",
@@ -5490,8 +5490,8 @@
     {
       "id": "pv-ufr-2024-0015",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "Pode-se afirmar que o critério da transcendência utilizado na definição da lista de doenças e agravos de notificação compulsória diz respeito à:",
       "alternativas": {
         "A": "existência de meios efetivos para o controle da doença",
