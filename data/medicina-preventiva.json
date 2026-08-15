@@ -4575,8 +4575,8 @@
     {
       "id": "pv-mg-2025-0111",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Homem de 55 anos queixa-se de dor, edema e calor na 1ª articulação metatarsofalangeana esquerda há dois dias. Nega febre ou dores em outras articulações. É portador de doença renal crônica (clearance de creatinina 18mL/min/1,73m² ). Faz uso de furosemida, carbonato de cálcio e alopurinol há mais de um ano. Ao exame físico, PA 120/78mmHg, FC 84bpm, FR 16ipm. Apresenta vermelhidão, calor e limitação de movimento na 1ª articulação metatarsofalangeana esquerda, sem derrame articular significativo. EXAMES DE LABORATÓRIO: leucócitos 6.800/mm³; neutrófilos 3.560/mm³; proteína C reativa 16mg/L; ácido úrico 4,5mg/dL. Assinale a alternativa que apresenta a conduta MAIS ADEQUADA nesse caso:",
       "alternativas": {
         "A": "Prescrever ibuprofeno",
@@ -4598,8 +4598,8 @@
     {
       "id": "pv-mg-2025-0120",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Mulher de 45 anos vai ao pronto-socorro queixando-se de dor há 12h no andar superior do abdome, intensa, associada a náuseas e vômitos, piora após a alimentação. Desconhece comorbidades e nega uso de medicamentos ou drogas. Ao exame físico, PA 130/92mmHg, FC 128bpm, FR 22ipm, SpO₂ 98% (ar ambiente). A palpação do andar superior do abdome é dolorosa, e não há sinais de irritação peritoneal. EXAMES DE LABORATÓRIO: hemoglobina 16,7g/dL; leucócitos 13.450/mm³; neutrófilos 9.880/mm³; plaquetas 156.000/mm³; proteína C reativa 56mg/L; creatinina 1,5mg/dL; ureia 89mg/dL; amilase 590U/L; lipase 134U/L. Assinale a alternativa que apresenta uma prescrição inicial INADEQUADA nesse caso:",
       "alternativas": {
         "A": "Dieta oral suspensa",
@@ -4621,8 +4621,8 @@
     {
       "id": "pv-amr-2024-0002",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "De acordo com as normas de publicidade médica do Código de Ética Médica nº 2.217/2018, é vedado ao médico: I. Permitir que sua participação na divulgação de assuntos médicos, em qualquer meio de comunicação de massa, deixe de ter caráter exclusivamente de esclarecimento e educação da sociedade. II. Divulgar informação sobre assunto médico de forma sensacionalista, promocional ou de conteúdo inverídico. III. Divulgar, fora do meio científico, processo de tratamento ou descoberta cujo valor ainda não esteja expressamente reconhecido cientificamente por órgão competente. IV. Participar de anúncios de empresas comerciais, qualquer que seja sua natureza, valendo-se de sua profissão. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -4653,7 +4653,7 @@
       "id": "pv-amr-2024-0004",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Um pesquisador pretende estudar a prevalência de uma doença comum e uma doença rara na mesma população. Como deve ser a amostra?",
       "alternativas": {
         "A": "Para estudar a doença comum, a amostra deve ser menor do que a utilizada para estudar a doença rara.",
@@ -4676,7 +4676,7 @@
       "id": "pv-amr-2024-0006",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "A medida que expressa quantas vezes mais (ou menos) é provável encontrar um resultado em pessoas doentes, em comparação com as não doentes e seu resultado influencia a probabilidade pós-teste é chamada de:",
       "alternativas": {
         "A": "Especificidade.",
@@ -4705,7 +4705,7 @@
       "id": "pv-amr-2024-0009",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Para identificar indivíduos com taquicardia (FC>100 bpm), um pesquisador está utilizando um monitor cardíaco de pulso que está com defeito, e sempre mostra valores menores que 100 bpm, medindo corretamente apenas os indivíduos com frequência cardíaca normal. Considerando essas informações, a sensibilidade desse monitor cardíaco é:",
       "alternativas": {
         "A": "De 100%, e a especificidade é zero.",
@@ -4727,8 +4727,8 @@
     {
       "id": "pv-amr-2024-0014",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Analise as seguintes assertivas em relação à APS: I. Tem a função de servir e coordenar todas as necessidades de saúde da pessoa, assumindo a responsabilidade pela continuidade e pelo acompanhamento individual da pessoa e por problemas de saúde da comunidade. II. A coordenação do cuidado pode ser verificada, por exemplo, quando a equipe da APS faz contato com a equipe de um hospital terciário para saber sobre as internações de pacientes da comunidade por Covid-19 e as previsões de alta para iniciar atenção domiciliar. III. Taxas elevadas de internações hospitalares por condições sensíveis podem indicar baixo acesso aos serviços de APS por parte da população ou oferta de uma APS de baixa qualidade. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -4758,8 +4758,8 @@
     {
       "id": "pv-amr-2024-0015",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Homem de 56 anos, previamente hígido, deseja fazer consulta de revisão periódica na UBS do seu bairro. Entretanto, como trabalha formalmente de segunda à sexta-feira das 8h às 17h, não consegue ir, pois a UBS não tem horário estendido. Qual dos atributos da Atenção Primária à Saúde (APS) não está sendo ofertado nessa situação?",
       "alternativas": {
         "A": "Longitudinalidade.",
@@ -4781,8 +4781,8 @@
     {
       "id": "pv-amr-2024-0016",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Analise as seguintes assertivas em relação à Portaria nº 373/2002 que aprova a Norma Operacional da Assistência à Saúde (NOAS-SUS 01/2002): I. Amplia as responsabilidades dos municípios na Atenção Básica. II. Estabelece o processo de regionalização como estratégia de hierarquização dos serviços de saúde e de busca de maior equidade. III. Cria mecanismos para o fortalecimento da capacidade de gestão do Sistema Único de Saúde. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -4804,8 +4804,8 @@
     {
       "id": "pv-amr-2024-0020",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Em relação aos princípios do SUS, analise as seguintes assertivas: I. Descentralização refere-se a níveis de complexidade tecnológica crescente. II. Participação social refere-se à participação da população no processo de formulação das políticas de saúde. III. Complementação do setor privado refere-se à contratação de serviços privados, quando o setor público não for suficiente. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -4827,8 +4827,8 @@
     {
       "id": "pv-amr-2024-0039",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em relação ao Transtorno de Déficit de Atenção e Hiperatividade (TDAH), analise as seguintes assertivas: I. O metilfenidato é agente farmacológico de primeira linha no tratamento do TDAH. II. Os benzodiazepínicos são fármacos indicados no tratamento do TDAH. III. A sua sintomatologia pode persistir inclusive na vida adulta. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -4856,8 +4856,8 @@
     {
       "id": "pv-amr-2024-0046",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "O suplemento de ácido fólico previne os defeitos decorrentes do processo de fusão do tubo neural. Essas malformações decorrem da falência do processo normal de fusão do tubo neural que ocorre:",
       "alternativas": {
         "A": "14 a 21 dias pós-concepção.",
