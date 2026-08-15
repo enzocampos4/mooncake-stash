@@ -9060,8 +9060,8 @@
     {
       "id": "pv-uni-2025-0147",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Gestores municipais e estaduais de saúde em todo o país contratam cada vez mais Organizações Sociais de Saúde (OSS) para a gestão de serviços de saúde. Sobre este modelo de gestão, qual é a alternativa correta?",
       "alternativas": {
         "A": "Entidades privadas, sem fins lucrativos, que atendem aos requisitos da lei, podem ser qualificadas como OSS e receber recursos, bens e servidores públicos para realizar atividades como a gestão de serviços de atenção básica, especializada e hospitalar.",
@@ -9083,8 +9083,8 @@
     {
       "id": "pv-uni-2025-0148",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A notificação de gestantes diagnosticadas com HIV no Sistema de Informação de Agravos de Notificação (SINAN) é uma etapa fundamental para a vigilância epidemiológica, visando o controle da transmissão vertical do vírus. Com base nos protocolos de notificação e seguimento de gestantes com HIV no Brasil, qual das alternativas está correta?",
       "alternativas": {
         "A": "A notificação de gestantes com HIV deve ser realizada preferencialmente no momento do parto.",
@@ -9112,8 +9112,8 @@
     {
       "id": "pv-uni-2025-0149",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "O Plano Municipal de Saúde (PMS) constitui- se no instrumento central de planejamento para definição e implementação de todas as iniciativas no âmbito da saúde na gestão municipal do SUS, sendo a base para a execução, acompanhamento e avaliação da gestão do sistema de saúde local para o período de quatro anos. A qual instância o PMS deve ser submetido para apreciação e aprovação?",
       "alternativas": {
         "A": "Câmara Municipal de Vereadores.",
@@ -9141,8 +9141,8 @@
     {
       "id": "pv-uni-2025-0150",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Humanização",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "No atendimento dentro da Unidade Básica de Sáude, cada profissional faz um recorte, um destaque de sintomas e informações, de acordo com seu núcleo de conhecimento profissional. A discussão de casos clínicos em equipe, principalmente os mais complexos, é um recurso clínico e gerencial importante. Este modelo corresponde a:",
       "alternativas": {
         "A": "atenção no modelo biomédico.",
@@ -9164,8 +9164,8 @@
     {
       "id": "pv-uni-2025-0151",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "O SUS está organizado de forma regionalizada e hierarquizada para formar as Redes de Atenção à Saúde no âmbito de Regiões de Saúde. Qual é o serviço necessário para que um território seja reconhecido como Região de Saúde?",
       "alternativas": {
         "A": "Centro de alta complexidade em oncologia.",
@@ -9188,7 +9188,7 @@
       "id": "pv-uni-2025-0152",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Para determinar se, de fato, um programa de rastreamento de câncer de próstata é benéfico para aumento da longevidade de homens (“prolongar vidas”), qual dos seguintes desfechos clínicos é o mais adequado?",
       "alternativas": {
         "A": "Redução na mortalidade geral.",
@@ -9211,7 +9211,7 @@
       "id": "pv-uni-2025-0153",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Você quer diagnosticar hipertensão arterial (PAx140/90 mmHg) e está usando um esfigmomanômetro que, por um defeito, sempre marca 140/90 mmHg ou mais, indicando corretamente as pressões acima destas. Indique o ponto da curva ROC (imagem a seguir) que representa a sensibilidade e a especificidade desse instrumento.",
       "alternativas": {
         "A": "I",
@@ -9240,7 +9240,7 @@
       "id": "pv-uni-2025-0168",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Mulher, 44 anos de idade, multípara, realizou a primeira mamografia da vida (quatro incidências básicas) que mostrou mamas lipossubstituídas com presença de calcificações heterogêneas localizadas na região retroareolar da mama esquerda, BI-RADS 0. Qual é o complemento mamográfico adicional necessário para a classificação adequada?",
       "alternativas": {
         "A": "Compressão localizada",
@@ -9268,8 +9268,8 @@
     {
       "id": "pv-sp-2024-0012",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Assinale a alternativa que apresenta a modalidade de telessaúde realizada por um médico para a avaliação dos sintomas do paciente, a distância, para a regulação ambulatorial ou hospitalar, com definição e direcionamento do paciente ao tipo adequado de assistência de que necessita ou a um especialista",
       "alternativas": {
         "A": "teletriagem",
@@ -9292,8 +9292,8 @@
     {
       "id": "pv-sp-2024-0078",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Assinale a alternativa correta em relação ao pé diabético.",
       "alternativas": {
         "A": "A simples presença de pulsos podálicos não é suficiente para afastar a isquemia por obstrução arterial troncular como a causa principal de isquemia na grande maioria dos pacientes.",
@@ -9317,7 +9317,7 @@
       "id": "pv-sír-2024-0006",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um novo teste diagnóstico para anemia ferropriva está sendo desenvolvido. Em um estudo, 10% da amostra populacional tinha anemia ferropriva diagnosticada pelo teste padrão-ouro, enquanto o novo teste diagnóstico identificou 80 casos verdadeiro-positivos e 766 verdadeiro-negativos. A sensibilidade foi de 80% e a especificidade foi de 85%. Se o novo teste for aplicado em uma população com prevalência de anemia ferropriva de 15%, espera-se que",
       "alternativas": {
         "A": "o valor preditivo positivo aumente.",
@@ -9344,7 +9344,7 @@
       "id": "pv-sír-2024-0007",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Considere a figura abaixo sobre casos de gastroenterite, em população de uma creche, durante a primeira semana de fevereiro de 2023: Sobre a frequência da doença nessa semana, é certo que a",
       "alternativas": {
         "A": "incidência foi de 3 casos e a prevalência no 7º dia foi de 19 casos.",

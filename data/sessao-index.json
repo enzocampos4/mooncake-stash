@@ -26436,7 +26436,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -26444,8 +26444,8 @@
   "pv-uni-2024-0023": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Vigilância",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26454,7 +26454,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26463,7 +26463,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26472,7 +26472,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Risco",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26481,7 +26481,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26490,7 +26490,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Viés e confundimento",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26499,7 +26499,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26507,8 +26507,8 @@
   "pv-uni-2024-0033": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26516,8 +26516,8 @@
   "pv-uni-2024-0080": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Ética Médica",
+    "subsub": "Direitos do paciente",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -26525,8 +26525,8 @@
   "pv-uni-2025-0110": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "Viés e confundimento",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -26534,8 +26534,8 @@
   "pv-uni-2025-0145": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Regionalização e Rede de Atenção à Saúde (RAS)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
