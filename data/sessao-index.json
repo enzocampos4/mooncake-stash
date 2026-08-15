@@ -26327,8 +26327,8 @@
   "pv-sp-2024-0069": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -26336,7 +26336,7 @@
   "pv-sp-2024-0097": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Medicina de Família e Comunidade",
     "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
@@ -26345,8 +26345,8 @@
   "pv-sp-2025-0163": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -26355,48 +26355,12 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Risco",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
   },
   "pv-sp-2025-0182": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Vigilância",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0183": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0184": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0187": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "",
-    "banca": "SUS-SP",
-    "ano": 2025,
-    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
-  },
-  "pv-sp-2025-0189": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
@@ -26405,11 +26369,47 @@
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
   },
+  "pv-sp-2025-0183": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Epidemiologia",
+    "subsub": "Viés e confundimento",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0184": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0187": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
+  "pv-sp-2025-0189": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
+    "banca": "SUS-SP",
+    "ano": 2025,
+    "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
+  },
   "pv-sp-2025-0191": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -26417,8 +26417,8 @@
   "pv-sp-2025-0195": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -26426,8 +26426,8 @@
   "pv-sp-2025-0199": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Vigilância",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"

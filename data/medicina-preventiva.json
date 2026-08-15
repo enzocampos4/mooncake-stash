@@ -8764,7 +8764,7 @@
       "id": "pv-sp-2025-0200",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "A equipe de saúde de uma cidade estava analisando os indicadores de saúde locais para avaliar o impacto das ações de promoção da saúde e prevenção de doenças. Ao revisar os dados, a equipe observou uma alta taxa de incidência de doenças respiratórias em uma área urbana da cidade. Com base nessa situação hipotética, assinale a alternativa que apresenta o indicador recomendado para investigar a associação entre a alta taxa de doenças respiratórias e os possíveis fatores ambientais na região.",
       "alternativas": {
         "A": "taxa de mortalidade infantil",
@@ -8787,8 +8787,8 @@
     {
       "id": "pv-uni-2024-0023",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Em relação à notificação compulsória de doenças, agravos e eventos assinale a alternativa correta",
       "alternativas": {
         "A": "A imputação dos dados provenientes das notificações é realizada no Sistema de Informação de Agravos de Notificação.",
@@ -8817,7 +8817,7 @@
       "id": "pv-uni-2024-0025",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um teste de rastreamento para câncer tem 90% de sensibilidade e 80% de especificidade. Aplicado em uma população cuja prevalência da doença é de 10%, qual é a probabilidade de um teste positivo representar um indivíduo realmente doente?",
       "alternativas": {
         "A": "99%",
@@ -8846,7 +8846,7 @@
       "id": "pv-uni-2024-0026",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em um determinado município, no ano de 2021, a população estimada era de 100.000 homens e 100.000 mulheres. Nesse ano ocorreram 1000 óbitos entre os homens (310 por doenças do aparelho circulatório, DAC) e 700 óbitos entre mulheres (260 por DAC). A partir desses dados, qual é a alternativa correta?",
       "alternativas": {
         "A": "As mulheres têm maior risco de morrer por DAC, pois o coeficiente de mortalidade proporcional é maior entre elas.",
@@ -8869,7 +8869,7 @@
       "id": "pv-uni-2024-0027",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Uma revisão sistemática investigou a associação entre consumo diário de mais de duas porções de bebida adoçada e mortalidade, evidenciando o risco relativo e o seu respectivo intervalo de confiança de 95% de 1,31 e 1,15-1,50. Com base neste resultado, qual é a alternativa correta?",
       "alternativas": {
         "A": "O risco de morte entre aqueles que consumiram mais de duas porções de bebidas adoçadas foi 31% maior em relação ao grupo de referência.",
@@ -8892,7 +8892,7 @@
       "id": "pv-uni-2024-0029",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Para verificar a correlação entre a Taxa de Mortalidade Infantil (TMI) e o percentual de unidades de saúde que obtiveram bom desempenho na avaliação do Programa Nacional de Melhoria do Acesso e da Qualidade da Atenção Básica (%PMAQ) nos estados brasileiros, foi calculado o coeficiente de correlação de Pearson, resultando em um valor de - 0,534 (P-valor = 0,005). Com base nessas informações, qual é a afirmativa correta?",
       "alternativas": {
         "A": "Estados com TMI mais altas tendem a %PMAQ menores, ao nível de confiança de 5%.",
@@ -8915,7 +8915,7 @@
       "id": "pv-uni-2024-0030",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Um rastreamento populacional pode parecer muito eficaz para um determinado tipo de câncer, mas tal achado pode ser apenas produto de tendenciosidade que afeta a validade das conclusões. Sabendo disso, qual é a alternativa correta?",
       "alternativas": {
         "A": "A medida da taxa de mortalidade estrato-etária específica pelo câncer costuma ser uma maneira enviesada de avaliar a efetividade do rastreamento.",
@@ -8938,7 +8938,7 @@
       "id": "pv-uni-2024-0031",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Uma nova terapia com eficácia de 70% na redução da mortalidade foi introduzida para o tratamento de uma doença crônica, sem cura, com prevalência estimada de 10% na população. Assinale a alternativa correta em relação ao primeiro impacto esperado com a introdução da nova terapia.",
       "alternativas": {
         "A": "A prevalência da doença deve diminuir.",
@@ -8960,8 +8960,8 @@
     {
       "id": "pv-uni-2024-0033",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
       "enunciado": "Sobre a Política Nacional de Saúde do Trabalhador, é correto afirmar que:",
       "alternativas": {
         "A": "tem como objetivo fortalecer a Vigilância em Saúde do Trabalhador (VISAT), de modo que esta desenvolva ações independentes e unilaterais, prescindindo da integração com os demais componentes da Vigilância em epidemiológica.",
@@ -8983,8 +8983,8 @@
     {
       "id": "pv-uni-2024-0080",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Direitos do paciente",
       "enunciado": "Mulher, 88 anos de idade, tem diagnóstico de demência moderada e apresenta episódios de delírios e agitação psicomotora. Vem em consulta médica de rotina acompanhada do seu filho, que apresenta sinais de sobrecarga do cuidado e, em um instante de desentendimento com a mãe, ameaça institucionalizá-la. Diante deste caso de violência psicológica, assinale a alternativa correta.",
       "alternativas": {
         "A": "A notificação de violência neste caso é desnecessária, pois trata-se de caso suspeito.",
@@ -9006,8 +9006,8 @@
     {
       "id": "pv-uni-2025-0110",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Um ensaio clínico randomizado é considerado \"duplo-cego\" quando são mascarados para o desfecho em questão:",
       "alternativas": {
         "A": "Participantes e equipe.",
@@ -9037,8 +9037,8 @@
     {
       "id": "pv-uni-2025-0145",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Nos anos 90, após a criação do SUS e a partir da luta do movimento indígena, foi regulamentada a Lei Arouca, que instituiu o Subsistema de Atenção à Saúde dos Povos Indígenas (SasiSUS), com o objetivo de garantir aos povos indígenas o acesso à atenção integral à saúde e contemplando a diversidade social, cultural, geográfica, histórica e política. Como é estruturado o atendimento aos povos indígenas dentro do SasiSUS?",
       "alternativas": {
         "A": "É um sistema de saúde à parte do SUS, gerido pelo Ministério dos Povos Indígenas (MPI) e se organiza em Distritos Sanitários Especiais Indígenas (DSEI) que executam ações de atenção à saúde, saneamento básico, gestão, apoio técnico e apoio ao controle social dos povos indígenas.",
