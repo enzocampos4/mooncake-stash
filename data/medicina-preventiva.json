@@ -11248,8 +11248,8 @@
     {
       "id": "pv-ena-2025-0186",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Geraldo, 37 anos, adscrito à unidade básica de saúde, chega para consulta apresentando sintomas psicóticos. Como parte de seu delírio persecutório, recusa-se a ser medicado e não aceita ser encaminhado para o CAPS. Nesse caso, a conduta correta é:",
       "alternativas": {
         "A": "encaminhar para o CAPS mesmo assim, pois a unidade não tem recurso para esse atendimento;",
@@ -11272,8 +11272,8 @@
     {
       "id": "pv-ena-2025-0189",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Rodrigo, 48 anos, casado, autônomo, vem à unidade básica de saúde se queixando de dores de cabeça de repetição e apresentando PA = 165 x 90 mmHg. Em seu prontuário, identifica- se que, nas últimas 5 consultas, no último ano, por motivos diversos, sua pressão arterial foi, respectivamente, de 147 x 99 mmHg; 180 x 100 mmHg; 152 x 90 mmHg; 160 x 95 mmHg e 170 x 92 mmHg. Rodrigo tem história familiar de hipertensão e é sedentário. O fato que permite o diagnóstico de hipertensão arterial sistêmica é:",
       "alternativas": {
         "A": "ter sido admitido em unidade de pronto atendimento com pressão arterial 150 x 95 mmHg;",
@@ -11302,8 +11302,8 @@
     {
       "id": "pv-ena-2025-0190",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Foram atendidas 5 irmãs na unidade básica de saúde. A única que tem características que permitem o diagnóstico de diabetes mellitus é:",
       "alternativas": {
         "A": "Maria Hilma, de 49 anos, que realizou teste de glicemia capilar com resultado 179 mg/dl;",
@@ -11332,8 +11332,8 @@
     {
       "id": "pv-ena-2025-0193",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Vanda, 92 anos, hipertensa, com diagnóstico de Alzheimer há 16 anos, acamada, estável, sem lesões por pressão, sem histórico recente de internação, tem uma filha, Joana, de 68 anos, que faz o manejo diário: banho no leito, administração de medicação, dieta enteral, mudança de decúbito. A filha está bem orientada e procura se informar sobre o quadro e as melhores condutas. Nesse caso, o plano terapêutico singular deve:",
       "alternativas": {
         "A": "dar suporte à cuidadora, acompanhá-la regularmente para avaliação de sobrecarga no cuidado e manter o acompanhamento de Vanda pela equipe da APS;",
@@ -11362,7 +11362,7 @@
     {
       "id": "pv-pe-2024-0008",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Epidemiologia",
       "sub_subarea": "",
       "enunciado": "A OMS trouxe uma definição de saúde em 1948, e essa definição foi uma primeira tentativa de superação da perspectiva de saúde apenas como conhecimento científico aplicado. A partir dessa conceituação, foi elaborado um documento, em 1974, cujo marco é o questionamento da política pública de saúde canadense de investir seus recursos prioritariamente em serviços assistenciais aos agravos de saúde, desconhecendo os fatores sociais que causam esses agravos. Assinale a alternativa que corresponde a esse documento.",
       "alternativas": {
@@ -11387,7 +11387,7 @@
       "id": "pv-pe-2024-0014",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Em 2023, foi realizado um estudo com o objetivo de identificar fatores associados à gravidade das quedas em pacientes adultos hospitalizados na Austrália Ocidental. Ele envolveu uma análise de registros de quedas de pacientes internados extraídos do Banco de Dados de Incidentes Clínicos do hospital de maio de 2014 a abril de 2019. Sobre essa pesquisa, o tipo de estudo epidemiológico utilizado foi o seguinte:",
       "alternativas": {
         "A": "Coorte",
@@ -11410,8 +11410,8 @@
     {
       "id": "pv-pe-2024-0034",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Analise as assertivas abaixo sobre a Doença Celíaca (DC) na infância: I. Trata-se de uma doença caracterizada por uma resposta imunológica à ingestão de glúten em indivíduos geneticamente suscetíveis. O tratamento consiste numa dieta totalmente isenta de alimentos, como trigo, aveia, centeio, entre outros, que contêm, em seu estado natural, uma família de proteínas chamada glúten. II. São manifestações clínicas possíveis de serem encontradas em crianças/adolescentes com DC: diarreia crônica ou constipação intestinal; baixa estatura; anemia ferropriva e atraso no desenvolvimento puberal. III. O diagnóstico histológico da DC consiste na presença de atrofia das vilosidades do intestino delgado associada ao aumento de eosinófilos intraepiteliais (acima de 25 para cada 100 enterócitos). Podemos afirmar que",
       "alternativas": {
         "A": "todas as assertivas estão corretas.",
@@ -11434,8 +11434,8 @@
     {
       "id": "pv-pe-2024-0073",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "A imagem abaixo retrata um acontecimento de 16 de outubro de 1846. William T.G. Morton demonstra a primeira administração bem-sucedida de anestesia geral. Este é um dos eventos mais significativos da história da medicina e ocorreu no Massachusetts General Hospital, sede da Harvard School of Medicine. A data é hoje reconhecida mundialmente como o Dia Mundial da Anestesia devido à importância desse evento. Qual foi a substância utilizada nesse procedimento?",
       "alternativas": {
         "A": "Clorofórmio",
@@ -11467,8 +11467,8 @@
     {
       "id": "pv-pe-2024-0085",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um paciente de 70 anos estava internado há dois meses, por complicações de doença oncológica, quando um swab inguinal de vigilância isolou Candida auris. O paciente é portador de linfoma e foi admitido inicialmente com neutropenia febril, para o que já usou vários esquemas antibacterianos. No momento, está em enfermaria, inclusive em programação de alta, mas permaneceu por tempo prolongado em terapia intensiva. Com relação ao caso, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "A Candida auris costuma provocar infecção invasiva grave, então deve-se começar imediatamente esquema antifúngico duplo, associando anfotericina e equinocandina.",
@@ -11492,7 +11492,7 @@
       "id": "pv-pe-2024-0088",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Para o diagnóstico das doenças reumatológicas autoimunes, é essencial interpretar corretamente os resultados dos autoanticorpos. Sobre este assunto, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "A negatividade do FAN no exame de triagem permite descartar o diagnóstico de Lúpus eritematoso sistêmico.",
@@ -11515,8 +11515,8 @@
     {
       "id": "pv-pe-2025-0101",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um homem de 55 anos apresenta cansaço intenso e dispneia aos esforços, sintomas que começaram há três meses. Relata perda de peso involuntária de 5 kg no último mês e leve desconforto abdominal, sem outros sintomas gastrointestinais. No exame físico, apresenta palidez cutânea e mucosa, sem icterícia ou linfadenopatia. O abdome é flácido, com leve dor à palpação no quadrante superior esquerdo, sem massas ou hepatoesplenomegalia. Exames laboratoriais iniciais mostram hemoglobina de 9 g/dL (Referência: 13,5–17,5 g/dL), VCM de 75 fL (Referência: 80–100 fL), ferritina de 8 ng/mL (Referência: 30–400 ng/mL), ferro sérico de 20 μg/dL (Referência: 60–170 μg/dL), TIBC de 400 μg/dL (Referência: 250–450 μg/dL) e saturação de transferrina de 5% (Referência: 20–50%). Diante desses achados laboratoriais e do quadro clínico, qual seria a conduta mais apropriada para investigação da etiologia da anemia?",
       "alternativas": {
         "A": "Iniciar reposição de ferro oral e acompanhar evolução.",
@@ -11545,8 +11545,8 @@
     {
       "id": "pv-pe-2025-0115",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Comunicação de Acidente de Trabalho (CAT)",
       "enunciado": "Um enfermeiro de 30 anos, que trabalha em pronto atendimento, apresenta febre baixa, sudorese noturna, tosse produtiva com expectoração amarelada e perda de peso de 5 kg nos últimos dois meses. Sem comorbidades, relata que nunca foi vacinado com BCG na infância. No exame físico, está emagrecido e apresenta estertores crepitantes na região apical do pulmão esquerdo. Exames complementares mostram radiografia de tórax com infiltrado e cavitação no lobo superior esquerdo e baciloscopia de escarro positiva (+++). Considerando o quadro clínico e os achados laboratoriais, qual é a conduta mais adequada para o manejo desse paciente?",
       "alternativas": {
         "A": "Administrar antibióticos de amplo espectro e repetir a baciloscopia após 2 semanas.",
