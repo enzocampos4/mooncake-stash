@@ -26867,8 +26867,8 @@
   "pv-hia-2025-0141": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Territorialização e adscrição de clientela",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -26876,8 +26876,8 @@
   "pv-hia-2025-0145": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Estratégia Saúde da Família (ESF) e NASF",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -26894,8 +26894,8 @@
   "pv-df-2024-0003": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -26912,8 +26912,8 @@
   "pv-df-2024-0008": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -26922,7 +26922,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Risco",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -26931,7 +26931,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -26939,8 +26939,8 @@
   "pv-df-2024-0012": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Controle social e participação popular",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -26948,8 +26948,8 @@
   "pv-df-2024-0014": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Ética Médica",
+    "subsub": "Código de Ética Médica (sigilo, consentimento, autonomia)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -26958,7 +26958,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Risco",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -26966,8 +26966,8 @@
   "pv-df-2024-0019": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"

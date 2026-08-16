@@ -10306,7 +10306,7 @@
       "id": "pv-df-2024-0020",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um paciente procurou o pronto-socorro com queixa de febre de 39 °C, mialgia, cefaleia retro-orbitária e náusea. O médico solicitou o teste rápido para detecção de antígeno NS1, porém alertou o paciente que, se desse positivo, o diagnóstico estaria praticamente confirmado. Por outro lado, se desse negativo, o diagnóstico pensado pelo médico se manteria como principal hipótese, pois, apesar de esse exame apresentar, com frequência, resultado falso negativo, o quadro clínico era muito característico. Conforme orientação dada pelo médico, assinale a alternativa correta.",
       "alternativas": {
         "A": "O exame mencionado é mais específico do que sensível.",
@@ -10328,8 +10328,8 @@
     {
       "id": "pv-df-2024-0034",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma paciente de 16 anos de idade, sem menarca, deu entrada no pronto-socorro com quadro de dor abdominal de forte intensidade em hipogástrio. Referiu quadro semelhante recorrente há dois anos. Apresenta caracteres sexuais secundários normais. No que concerne ao caso clínico apresentado, assinale a alternativa correta.",
       "alternativas": {
         "A": "O teste de progesterona pode auxiliar o diagnóstico, pois a progesterona de segunda fase pode promover sangramento de privação após a suspensão da medicação.",
@@ -10357,8 +10357,8 @@
     {
       "id": "pv-df-2024-0038",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "O sistema nervoso autônomo influencia diretamente a bexiga e o aparelho urinário. Nas pacientes com bexiga hiperativa, alguns receptores vesicais são importantes e se relacionam com o tratamento medicamentoso. Quanto ao uso dos anticolinérgicos, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os receptores nicotínicos vesicais interagem com os medicamentos para a bexiga hiperativa, impedindo a contração da musculatura detrusora.",
@@ -10388,7 +10388,7 @@
     {
       "id": "pv-df-2024-0066",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Um paciente de 38 anos de idade, tabagista há 18 anos, fumando 30 cigarros por dia (equivalentes a 1,5 maço), procurou atendimento para orientações acerca de cessação do tabagismo após falecimento do pai, também tabagista, por câncer de pulmão. No tratamento a ser indicado a esse paciente, pode-se utilizar",
       "alternativas": {
@@ -10411,7 +10411,7 @@
     {
       "id": "pv-df-2024-0067",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Epidemiologia",
       "sub_subarea": "",
       "enunciado": "Um paciente de 38 anos de idade, tabagista há 18 anos, fumando 30 cigarros por dia (equivalentes a 1,5 maço), procurou atendimento para orientações acerca de cessação do tabagismo após falecimento do pai, também tabagista, por câncer de pulmão. Qual é a carga tabágica desse paciente?",
       "alternativas": {
@@ -10441,7 +10441,7 @@
       "id": "pv-df-2024-0069",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A Secretaria de Estado da Saúde de São Paulo registrou, de janeiro até o dia 4 de julho deste ano, 1.602 casos e 123 óbitos causados por infecções pelos diferentes vírus causadores de hepatite. Esses números apresentam uma tendência de queda no número de mortes relacionadas registradas nos últimos cinco anos. Disponível em <https://bvsms.saude.gov.br/bvs/publicacoes/ manual_tecnico_diagnostico_hepatites_virais.pdf>. Acesso em: 7 dez. 2023. Um dos motivos da redução da prevalência e da gravidade das hepatites virais crônicas é a (o)",
       "alternativas": {
         "A": "vacinação contra a hepatite C.",
@@ -10463,8 +10463,8 @@
     {
       "id": "pv-df-2025-0124",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Uma paciente de 38 anos de idade procurou atendimento por causa de fadiga progressiva, icterícia e urina escura. Exames laboratoriais revelaram Hb = 9,0 g/dL, DHL = 800 U/L, bilirrubina indireta = 3,2 mg/dL e reticulócitos = 8%. O esfregaço de sangue periférico mostrou esferócitos. Nesse caso, qual é o próximo passo diagnóstico?",
       "alternativas": {
         "A": "Teste de Coombs direto",
@@ -10486,8 +10486,8 @@
     {
       "id": "pv-df-2025-0166",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "O art. 7º da Lei no 8.080/1990, que trata da organização do Sistema Único de Saúde (SUS), estabelece princípios para as ações e serviços de saúde. De acordo com o princípio da “participação da comunidade” (inciso VIII), assinale a alternativa que melhor o representa na prática.",
       "alternativas": {
         "A": "Centralização das decisões relacionadas a políticas de saúde nos gestores governamentais, priorizando a eficiência administrativa.",
@@ -10509,8 +10509,8 @@
     {
       "id": "pv-df-2025-0167",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Lei n o 9.836/1999 acrescentou dispositivos à Lei n o 8.080/1990, criando o Subsistema de Atenção à Saúde Indígena (SASI). Assinale alternativa que descreve corretamente um dos objetivos principais da criação do SASI.",
       "alternativas": {
         "A": "Centralizar o atendimento aos indígenas em grandes centros urbanos, facilitando o acesso a tecnologias de ponta.",
@@ -10532,8 +10532,8 @@
     {
       "id": "pv-df-2025-0168",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "Suponha que uma equipe de saúde da família, ao iniciar seu trabalho em uma nova área, tenha realizado um mapeamento detalhado da região. Eles identificaram as características geográficas, sociais, econômicas e culturais do território, incluindo as diferentes comunidades, os equipamentos sociais existentes, as condições de moradia e saneamento, os principais problemas de saúde e os recursos locais disponíveis. Com base nesse mapeamento, a equipe irá planejar suas ações, adaptando-as às especificidades de cada localidade. No caso, qual dos eixos operacionais da Política Nacional de Promoção da Saúde (PNPS) está sendo exemplificado pela conduta dessa equipe de saúde?",
       "alternativas": {
         "A": "Territorialização",
@@ -10555,8 +10555,8 @@
     {
       "id": "pv-df-2025-0173",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Assinale a alternativa que indica a principal estratégia de prevenção primária para redução da mortalidade por doenças cardiovasculares.",
       "alternativas": {
         "A": "Uso regular de estatinas em adultos com fatores de risco",
@@ -10584,8 +10584,8 @@
     {
       "id": "pv-df-2025-0176",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Vigilância",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O principal objetivo da vigilância epidemiológica em saúde pública é",
       "alternativas": {
         "A": "diagnosticar doenças precocemente.",
