@@ -12280,8 +12280,8 @@
     {
       "id": "pv-amr-2024-0097",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Homem, 48 anos, procura emergência com desconforto torácico. Analise o seu eletrocardiograma abaixo: Considerando as informações apresentadas, o tratamento inicial para esse paciente é:",
       "alternativas": {
         "A": "Anticoagulação a pleno.",
@@ -12314,8 +12314,8 @@
     {
       "id": "pv-amr-2025-0107",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "O escore de Wells é um modelo de predileção clínica amplamente utilizado para auxílio no diagnóstico de Trombose Venosa Profunda (TVP). Qual das alternativas abaixo apresenta um achado clínico que NÃO aumenta a suspeição de diagnóstico de TVP?",
       "alternativas": {
         "A": "Edema de toda a extremidade.",
@@ -12345,7 +12345,7 @@
     {
       "id": "pv-amr-2025-0108",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "Dor crônica difusa, subjetividade dos sintomas, preponderância em mulheres e falta de dados objetivos de imagem e de exames laboratoriais fazem com que a principal suspeita clínica seja de:",
       "alternativas": {
@@ -12368,8 +12368,8 @@
     {
       "id": "pv-amr-2025-0179",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Analise as assertivas a seguir a respeito de episódio depressivo na adolescência: I. Jovens tendem a apresentar inicialmente queixas físicas ou comportamentais que podem obscurecer os sintomas depressivos típicos observados em adultos. II. A apresentação clínica pode ser semelhante tanto na depressão unipolar como bipolar. A dificuldade diagnóstica ocorre em alguns casos, porque o transtorno bipolar geralmente se inicia com quadros depressivos, sem história prévia de sintomas maníacos, hipomaníacos ou mistos. III. Algumas queixas como humor irritável ou rancoroso, tédio crônico ou perda de interesse em atividades previamente prazerosas, não querer mais sair com os amigos e queda na performance acadêmica devem alertar os clínicos para possível quadro depressivo. IV. Na depressão leve ou moderada, geralmente apresentam afeto reativo, ou seja, uma habilidade de se animar momentaneamente em resposta a eventos positivos, podendo, com certo esforço, esconder seus sintomas. Quais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -12397,8 +12397,8 @@
     {
       "id": "pv-amr-2025-0186",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Qual dos seguintes achados laboratoriais é mais indicativo de anemia hemolítica?",
       "alternativas": {
         "A": "Aumento da bilirrubina indireta.",
@@ -12427,7 +12427,7 @@
       "id": "pv-amr-2025-0190",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Em um estudo, o Número Necessário para Tratar (NNT) foi calculado como 12 para prevenção de AVC. Qual é a interpretação mais correta nesse caso?",
       "alternativas": {
         "A": "12 pacientes precisam ser tratados para garantir que nenhum deles tenha um AVC.",
@@ -12450,7 +12450,7 @@
       "id": "pv-amr-2025-0195",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Qual das seguintes características distingue uma coorte histórica de um estudo de caso- controle quando ambos estão investigando a mesma doença?",
       "alternativas": {
         "A": "A coorte histórica estuda doenças raras de forma mais eficiente do que o caso-controle.",
@@ -12480,8 +12480,8 @@
     {
       "id": "pv-ufr-2024-0005",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Um levantamento do Instituto Nacional de Cardiologia (INC) mostra que, entre 2008 e 2022, o número de internações por infarto agudo do miocárdio aumentou no Brasil. Entre os homens, a média mensal passou de 5.282 para 13.645, uma alta de 158%. Entre as mulheres, a média foi de 1.930 para 4.973, um aumento de 157%. O estudo leva em consideração dados do Sistema de Informação sobre Internações Hospitalares do Datasus, do Ministério da Saúde (Agência Brasil,09/07/2023). Analise as afirmativas a seguir sobre o desenho de estudo utilizado na pesquisa descrita anteriormente: I - Neste desenho de estudo é possível associar exposição e doença no nível individual. II - O desenho de estudo aplicado é ideal para gerar hipóteses etiológicas. III - Uma das limitações deste desenho de estudo é a dificuldade de controlar o efeito de potenciais fatores de confundimento. Pode-se afirmar que está(ão) correta(s) a(s) afirmativa(s):",
       "alternativas": {
         "A": "I",
@@ -12503,8 +12503,8 @@
     {
       "id": "pv-ufr-2024-0021",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Pode-se afirmar, em relação a avaliação e ao planejamento dos cuidados paliativos no fim da vida, que:",
       "alternativas": {
         "A": "na comunicação de más notícias, durante a consulta médica, o acrônimo P-SPIKES não tem sido mais utilizado, já que foi substituído pela avaliação abrangente dos cuidados paliativos",
@@ -12526,8 +12526,8 @@
     {
       "id": "pv-ufr-2024-0025",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Pode-se afirmar, com relação a concepção de saúde e aos determinantes sociais do processo saúde e doença, que a visão:",
       "alternativas": {
         "A": "miasmática da doença preconiza o adoecimento como uma disfunção energética interna do organismo",
@@ -12555,8 +12555,8 @@
     {
       "id": "pv-ufr-2024-0026",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Pode-se afirmar, com relação a oferta de serviços de saúde no Brasil, que:",
       "alternativas": {
         "A": "as maiores disparidades na oferta de serviços ocorrem em relação à infraestrutura física e humana na esfera de atenção básica",
@@ -12578,8 +12578,8 @@
     {
       "id": "pv-ufr-2024-0028",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "Analise as afirmativas a seguir com relação ao SUS: I) A ausência de integração e articulação entre os serviços de saúde, com alto grau de fragmentação e desconhecimento das ações oferecidas nos diversos pontos da rede, é um dos fatores que contribui para a baixa qualidade da assistência à saúde. II) Existe um amplo espaço para intervenção dos gestores de saúde nos municípios brasileiros, especialmente em relação às necessidades de atenção básica da população. III)A análise da capacidade instalada em alta complexidade, mostra a presença de salas de unidades intensiva (UTI) na maioria dos municípios brasileiros. Pode-se afirmar que está(ão) correta(s) a(s) afirmativa(s):",
       "alternativas": {
         "A": "II",
