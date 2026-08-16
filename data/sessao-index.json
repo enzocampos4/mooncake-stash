@@ -28596,7 +28596,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SES-DF",
     "ano": 2025,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025"
@@ -28605,7 +28605,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -28613,8 +28613,8 @@
   "pv-ba-2025-0053": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -28622,8 +28622,8 @@
   "pv-ena-2024-0069": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Ética Médica",
+    "subsub": "Código de Ética Médica (sigilo, consentimento, autonomia)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -28631,8 +28631,8 @@
   "pv-ena-2024-0093": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -28649,8 +28649,8 @@
   "pv-pe-2024-0072": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "SES-PE",
     "ano": 2024,
     "fonte": "PE - Secretaria Estadual de Saúde do Estado de Per 2024"
@@ -28658,8 +28658,8 @@
   "pv-mg-2024-0013": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Níveis de atenção (primária, secundária, terciária)",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -28667,8 +28667,8 @@
   "pv-amr-2024-0073": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -28676,8 +28676,8 @@
   "pv-ufr-2024-0109": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -28685,8 +28685,8 @@
   "pv-ufr-2025-0195": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -28694,8 +28694,8 @@
   "pv-ufr-2025-0204": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
