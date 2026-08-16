@@ -28703,7 +28703,7 @@
   "pv-ufr-2025-0208": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Medicina de Família e Comunidade",
     "subsub": "",
     "banca": "UFRJ",
     "ano": 2025,
@@ -28712,8 +28712,8 @@
   "pv-uer-2025-0195": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"
@@ -28721,8 +28721,8 @@
   "pv-hcp-2024-0048": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -28730,8 +28730,8 @@
   "pv-hcp-2025-0199": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -28739,7 +28739,7 @@
   "pv-fam-2024-0057": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Medicina de Família e Comunidade",
     "subsub": "",
     "banca": "FAMERP",
     "ano": 2024,
@@ -28748,8 +28748,8 @@
   "pv-sp-2024-0063": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -28757,8 +28757,8 @@
   "pv-sp-2025-0136": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -28767,7 +28767,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Risco",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -28775,8 +28775,8 @@
   "pv-hia-2025-0095": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -28784,8 +28784,8 @@
   "pv-ba-2024-0009": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "Doenças ocupacionais (LER/DORT, perda auditiva, pneumoconioses)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -28793,8 +28793,8 @@
   "pv-ba-2024-0028": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -28802,8 +28802,8 @@
   "pv-ba-2024-0029": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
