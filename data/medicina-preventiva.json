@@ -15204,7 +15204,7 @@
       "id": "pv-df-2025-0141",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Os critérios de Jones são considerados padrão-ouro para o diagnóstico clínico da febre reumática. Tais critérios são divididos em maiores e menores conforme a especificidade da manifestação. Com base nos critérios de Jones e no diagnóstico da febre reumática, assinale a alternativa correta.",
       "alternativas": {
         "A": "Eritema marginado é um critério menor e aparece frequentemente.",
@@ -15227,7 +15227,7 @@
       "id": "pv-ba-2024-0001",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Homem, 65 anos de idade, procura a Unidade de Saúde para uma consulta de rotina. Não apresenta sintomas, mas está preocupado com a saúde de sua próstata, já que seu pai foi diagnosticado com câncer de próstata aos 70 anos de idade. Com relação aos níveis de PSA na detecção do câncer de próstata, pode-se afirmar:",
       "alternativas": {
         "B": "A alta sensibilidade do exame é maior que a especificidade, o que o torna o exame ideal para triagem.",
@@ -15254,8 +15254,8 @@
     {
       "id": "pv-ba-2025-0053",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Mulher, 65 anos de idade, comparece à UBS para consulta de rotina. Refere dor lombar ocasional, sem outras queixas. Ao exame físico, apresenta leve cifose dorsal e sua estatura parece estar diminuída em 4cm em relação à altura da juventude Os achados mais provavelmente encontrados numa radiografia de tórax desta paciente:",
       "alternativas": {
         "A": "Presença de osteófitos e estreitamento do canal vertebral.",
@@ -15285,8 +15285,8 @@
     {
       "id": "pv-ena-2024-0069",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Um paciente de 82 anos, lúcido, realizará uma cirurgia eletiva para câncer de reto. Sabendo da grande chance de o paciente precisar de um estoma, os familiares solicitam ao médico que não revele ao paciente essa informação antes do procedimento, pois referem que ele não irá aceitar a cirurgia. Assinale a alternativa que apresenta a melhor conduta diante desse caso.",
       "alternativas": {
         "A": "Não revelar ao paciente a possibilidade do estoma, pois essa informação pode prejudicar psicologicamente o paciente.",
@@ -15315,8 +15315,8 @@
     {
       "id": "pv-ena-2024-0093",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Uma mulher de 58 anos apresentou-se à sala de emergência com palpitações intensas, dor torácica e dispneia. Ela relatou que as palpitações começaram repentinamente enquanto estava em repouso em casa. Não havia histórico prévio de arritmias. A seguir está o eletrocardiograma realizado: Sinais vitais: frequência cardíaca estimada em cerca de 150 bpm; pressão arterial: 80/50 mmHg. Assinale a alternativa que apresenta o diagnóstico e a conduta adequada para esse caso.",
       "alternativas": {
         "A": "Taquicardia supraventricular / Sedação leve e cardioversão química.",
@@ -15371,8 +15371,8 @@
     {
       "id": "pv-pe-2024-0072",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Em 2009, a OMS lançou o manual “Cirurgia Segura Salvam Vidas”, no qual, através de um checklist peroperatório, 10 objetivos essenciais eram utilizados para diminuir a morbimortalidade cirúrgica relacionada à insegurança. Qual das assertivas abaixo NÃO é um objetivo contemplado pelo protocolo Cirurgia Segura?",
       "alternativas": {
         "A": "A equipe usará métodos conhecidos para impedir danos na administração de anestésicos, enquanto protege o paciente da dor.",
@@ -15401,8 +15401,8 @@
     {
       "id": "pv-mg-2024-0013",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "A desnutrição pré-operatória é fator independente de risco para complicações pós- operatórias, por maior tempo de internação e por maior mortalidade. Em relação ao preparo pré-operatório destes pacientes é CORRETO afirmar:",
       "alternativas": {
         "A": "A dieta oral deve ser utilizada em todos os casos, pois é a via mais fisiológica de administração de nutrientes.",
@@ -15435,8 +15435,8 @@
     {
       "id": "pv-amr-2024-0073",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Assinale a alternativa correta em relação aos sinais apresentados durante o exame físico abdominal.",
       "alternativas": {
         "A": "Sinal de Murphy: dor à inspiração profunda durante a palpação abdominal, localizado em hipocôndrio esquerdo.",
@@ -15458,8 +15458,8 @@
     {
       "id": "pv-ufr-2024-0109",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "No pós-operatório, paciente apresentou formação de um quelóide em ferida cirúrgica. Pode- se afirmar que uma das características dessa cicatrização anormal é:",
       "alternativas": {
         "A": "que é incomum a ocorrência em membros superiores e face",
@@ -15489,8 +15489,8 @@
     {
       "id": "pv-ufr-2025-0195",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Pode-se afirmar que o sintoma mais frequente nas hemorroidas internas é:",
       "alternativas": {
         "A": "dor à evacuação",
@@ -15512,8 +15512,8 @@
     {
       "id": "pv-ufr-2025-0204",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Pode-se afirmar que a medida que, com maior efetividade, diminui a taxa de infecção da ferida operatória é:",
       "alternativas": {
         "A": "uso de propés na sala cirúrgica",
