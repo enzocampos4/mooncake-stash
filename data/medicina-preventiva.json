@@ -11569,8 +11569,8 @@
     {
       "id": "pv-pe-2025-0116",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma mulher de 55 anos, obesa e com síndrome metabólica, é diagnosticada com Doença Arterial Coronária (DAC) estável após um teste de esforço positivo e uma angiografia mostrando estenose de 50% na artéria descendente anterior. Ela está assintomática e faz uso de estatinas e anti-hipertensivos. Com relação ao manejo, é INCORRETO afirmar que",
       "alternativas": {
         "A": "a terapia anti-hipertensiva com inibidor da enzima conversora de angiotensina (IECA) é recomendada para reduzir o risco cardiovascular.",
@@ -11599,8 +11599,8 @@
     {
       "id": "pv-pe-2025-0122",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Mulher, 34 anos. IMC 31kg/m². Em uso de semaglutida semanal. Admitida na emergência com quadro colecistite aguda. Em relação a conduta cirúrgica, assinale a adequada:",
       "alternativas": {
         "A": "Prescrever antibióticos, suspender a semaglutida e operar em 1 semana.",
@@ -11629,8 +11629,8 @@
     {
       "id": "pv-mg-2024-0012",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "O choque hipovolêmico é dividido em quatro classes, dependendo da gravidade da hemorragia. Por isso, é importante saber reconhecê-las para que seja aplicado o tratamento adequado conforme a dimensão da hemorragia ocasionada pelo trauma. As classes são especificadas por meio da perda sanguínea baseada na apresentação inicial do paciente. Em relação a este tipo de choque em um adulto de 70 Kg é CORRETO afirmar:",
       "alternativas": {
         "A": "A porcentagem perdida de volume sanguíneo é de aproximadamente 30% na classe IV.",
@@ -11658,8 +11658,8 @@
     {
       "id": "pv-mg-2024-0023",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Homem de 58 anos queixa-se de epigastralgia contínua, leve a moderada, exacerbada após as refeições, associada a anorexia, náuseas e vômitos. Os sintomas ocorrem há seis meses, período em que perdeu 8kg. É tabagista (30 maços-ano) e etilista (pelo menos 1L de destilado ao dia) há mais de 30 anos. Ao exame físico, apresenta dor à palpação do epigástrio, sem sinais de irritação peritoneal ou massas palpáveis. A TC do abdome revelou a seguinte imagem: Considerando o diagnóstico mais provável nesse caso, assinale uma alternativa que NÃO APRESENTA uma complicação possível dessa doença:",
       "alternativas": {
         "A": "Anemia megaloblástica.",
@@ -11690,8 +11690,8 @@
     {
       "id": "pv-mg-2024-0025",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Homem de 65 anos apresenta anorexia e perda de 7kg em três meses. Nega outras queixas e desconhece comorbidades. Não faz uso de quaisquer medicamentos. Ao exame físico não apresenta anormalidades. Exames de laboratório: Hg 10,9g/dL; leucócitos 12.450/mm³; eosinófilos 1.790/mm³; neutrófilos 6.400/mm³; linfócitos 3.800/mm³; plaquetas 167.000/mm³. Assinale a alternativa que NÃO apresenta um diagnóstico diferencial para a eosinofilia apresentada por esse paciente:",
       "alternativas": {
         "A": "Insuficiência adrenal.",
@@ -11744,8 +11744,8 @@
     {
       "id": "pv-mg-2024-0040",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A asma é uma doença inflamatória crônica das vias aéreas inferiores que se caracteriza, clinicamente, por aumento da responsividade dessas vias a diferentes estímulos, com consequente obstrução ao fluxo aéreo, de forma recorrente e, tipicamente, reversível. Com relação às etapas de tratamento da asma de crianças a partir de seis anos de idade, adolescentes e adultos no SUS, assinale a alternativa ERRADA: CI: corticoide inalatório; SABA: broncodilatador ß2-agonista de curta duração; FORM: formoterol; LABA: broncodilatador ß2- agonista de longa duração; Anti-ige: antiimunoglobulina E; CO: corticosteroides oral.",
       "alternativas": {
         "A": "Na etapa I do tratamento da asma, recomenda-se tratamento preferencial com CI + FORM em doses baixas de resgate ou, alternativamente, o uso de doses baixas de CI sempre que houver necessidade de uso de SABA de resgate.",
@@ -11776,7 +11776,7 @@
       "id": "pv-mg-2024-0041",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Na tomada de decisões na condução de um paciente é importante a pergunta: \"essa conduta trará mais benefícios que malefícios para o meu paciente?\". Ou seja: ele deve utilizar dos princípios da Medicina Baseada em Evidências (MBE). O preceito fundamental da MBE é que existe uma hierarquia da qualidade de informações, que é função da metodologia usada no estudo, cuja qualidade deve ser definida em níveis de evidência. Os melhores tipos de estudo que apresentam o MAIS ALTO grau ou nível de evidência são os estudos tipo:",
       "alternativas": {
         "A": "Opinião de especialistas, relato de casos.",
@@ -11809,8 +11809,8 @@
     {
       "id": "pv-mg-2024-0051",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Gestante, com 34 semanas de gestação, comparece à consulta de urgência com queixa de dor supra púbica e ao fim da micção, bem como aumento da frequência urinária noturna e diurna. Refere ter tido dois outros episódios semelhantes nesta gestação, todos tratados com antibiótico na UBS. Em relação ao caso, assinale a alternativa CORRETA:",
       "alternativas": {
         "A": "A paciente não apresenta necessidade de profilaxia para infecção do trato urinário (ITU) pois teve apenas dois episódios de provável cistite, sem relato de febre ou hematúria.",
@@ -11838,7 +11838,7 @@
     {
       "id": "pv-mg-2024-0066",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "sub_subarea": "",
       "enunciado": "Apesar do aumento na sobrevivência e de bons resultados neurológicos após ressuscitação cardiorrespiratória na faixa etária pediátrica, as taxas de sobrevivência em pacientes vítimas de paradas cardíacas extra hospitalares ainda permanecem deficientes. Diante disto, a American Heart Association (AHA), em 2020, fez algumas atualizações nas suas diretrizes. Em relação à ressuscitação cardiorrespiratória, qual das alternativas abaixo NÃO está de acordo com as diretrizes 2020 da AHA:",
       "alternativas": {
@@ -11861,8 +11861,8 @@
     {
       "id": "pv-mg-2025-0110",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Homem de 62 anos queixa-se de dispneia e dor torácica aos esforços e astenia por duas semanas. É portador de hipertensão arterial sistêmica e doença renal crônica (creatinina basal 2,9mg/dL; clearance de creatinina 24mL/min/1,73 m²). EXAMES DE LABORATÓRIO: hemoglobina 6,4g/dL; VCM 75fL; HCM 25pg; CHCM 29g/dL; RDW 16,5%; leucócitos 6.500/mm³; neutrófilos 3.560/mm³; ferritina 20pmol/L; índice de saturação da transferrina 6%. Assinale a alternativa que apresenta uma conduta inicial INADEQUADA:",
       "alternativas": {
         "A": "Prescrição de eritropoietina",
@@ -11890,8 +11890,8 @@
     {
       "id": "pv-mg-2025-0113",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Homem de 61 anos queixa-se de dor torácica à esquerda em aperto ao subir morros e durante situações de estresse emocional, associada à dispneia. Relata melhora em até 5 minutos da interrupção do esforço físico. É obeso, tabagista e portador de asma brônquica. Ao exame físico, apresenta sibilos expiratórios difusamente à ausculta respiratória. Apresenta o seguinte traçado eletrocardiográfico: Assinale a alternativa que apresenta um achado auscultatório que pode ser encontrado ao exame físico deste paciente por causa da anormalidade observada no ECG:",
       "alternativas": {
         "A": "Desdobramento constante e variável de B2",
