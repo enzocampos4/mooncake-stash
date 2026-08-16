@@ -28271,8 +28271,8 @@
   "pv-uni-2025-0124": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -28280,8 +28280,8 @@
   "pv-uni-2025-0129": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Financiamento e pactuação (NOB, NOAS)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -28289,8 +28289,8 @@
   "pv-uni-2025-0175": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -28298,8 +28298,8 @@
   "pv-sp-2025-0101": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -28307,8 +28307,8 @@
   "pv-sp-2025-0109": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -28316,8 +28316,8 @@
   "pv-sp-2025-0110": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -28325,8 +28325,8 @@
   "pv-sír-2024-0069": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -28334,7 +28334,7 @@
   "pv-sír-2024-0089": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Epidemiologia",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2024,
@@ -28343,8 +28343,8 @@
   "pv-sír-2025-0102": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -28352,7 +28352,7 @@
   "pv-sír-2025-0115": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Epidemiologia",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
@@ -28361,7 +28361,7 @@
   "pv-sír-2025-0117": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Epidemiologia",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
@@ -28370,7 +28370,7 @@
   "pv-sír-2025-0169": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Epidemiologia",
     "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
