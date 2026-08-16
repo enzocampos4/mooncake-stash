@@ -27768,7 +27768,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -27785,13 +27785,22 @@
   "pv-ufr-2025-0151": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
   "pv-ufr-2025-0218": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
+    "banca": "UFRJ",
+    "ano": 2025,
+    "fonte": "UFRJ 2025"
+  },
+  "pv-ufr-2025-0273": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
@@ -27800,20 +27809,11 @@
     "ano": 2025,
     "fonte": "UFRJ 2025"
   },
-  "pv-ufr-2025-0273": {
-    "area": "medicina-preventiva",
-    "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Vigilância",
-    "banca": "UFRJ",
-    "ano": 2025,
-    "fonte": "UFRJ 2025"
-  },
   "pv-ufr-2025-0276": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -27822,7 +27822,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -27831,7 +27831,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"

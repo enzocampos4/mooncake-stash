@@ -12939,7 +12939,7 @@
       "id": "pv-uer-2024-0010",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Os testes diagnósticos altamente sensíveis são usados em situações em que se quer detectar todos os indivíduos com uma determinada condição na população. Considerando os exames para diagnóstico de diabetes, o de maior sensibilidade é:",
       "alternativas": {
         "A": "teste oral de tolerância à glicose",
@@ -12967,8 +12967,8 @@
     {
       "id": "pv-uer-2024-0011",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em uma UBS, no verão, vários pacientes apresentam sintomas de dengue (febre alta, manchas vermelhas no corpo, dor muscular e nas articulações). Diante dessa situação, a medida correta é:",
       "alternativas": {
         "A": "montar hospital de campanha para realizar hidratação e tratamento precoce dos pacientes que apresentem sintomas e encaminhar os casos graves para atendimento hospitalar em unidades que possuam centro de terapia intensiva (CTI).",
@@ -12990,7 +12990,7 @@
     {
       "id": "pv-uer-2024-0014",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Medicina de Família e Comunidade",
       "sub_subarea": "",
       "enunciado": "No processo de envelhecimento normal do corpo, ocorrem várias alterações esperadas, mas também há maior risco de uma série de doenças e agravos à saúde. Muitas vezes, os processos de envelhecimento normal ou de adoecimento são confundidos. Na pessoa idosa, a perda da função renal (na maioria dos casos), os lapsos de memória e a perda das massas muscular e óssea são processos esperados da:",
       "alternativas": {
@@ -13013,8 +13013,8 @@
     {
       "id": "pv-uer-2024-0016",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "No diagnóstico comunitário realizado pela equipe de um médico de família, identificaram-se muitas pessoas idosas com condições crônicas. Na reunião de equipe, ele propôs a criação de um grupo na UBS. A partir do método clínico centrado na pessoa e do modelo de atenção às condições crônicas, é correto afirmar que os grupos educativos:",
       "alternativas": {
         "A": "aumentam o vínculo com a população, favorecem a troca de experiências e oportunizam o acolhimento das necessidades dos participantes.",
@@ -13044,8 +13044,8 @@
     {
       "id": "pv-uer-2024-0024",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Puericultura e acompanhamento do crescimento",
       "enunciado": "Pré-escolar iniciou quadro de dor abdominal diária de média intensidade há dois meses, associada à contração dos músculos glúteos e enrijecimento das pernas quando deitado ou quando em pé segurando nos móveis. Além disso, apresenta defecação em roupa íntima diariamente e em vaso sanitário duas vezes por semana. As manifestações descritas são compatíveis com:",
       "alternativas": {
         "A": "retenção fecal voluntária e incontinência fecal involuntária",
@@ -13075,8 +13075,8 @@
     {
       "id": "pv-uer-2024-0032",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Puericultura e acompanhamento do crescimento",
       "enunciado": "RN apresenta, no segundo dia de vida, icterícia +++ em zona IV de Kramer, hipoglicemia, bossa serossanguinolenta em região parietal, palmas e plantas eritematosas. Nasceu de parto vaginal no automóvel a caminho do hospital, bolsa rota no ato, chorou forte ao nascer. O clampeamento do cordão umbilical foi feito quando a mãe foi atendida na UPA, e o RN apresenta peso adequado à idade gestacional. Considerando a principal hipótese diagnóstica, o tratamento adequado para o paciente é:",
       "alternativas": {
         "A": "plasmaferese",
@@ -13098,8 +13098,8 @@
     {
       "id": "pv-uer-2024-0064",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Considere o caso a seguir para responder a questão. Paciente vítima de atropelamento é levado à unidade de emergência. De acordo com o Advanced Trauma Life Support (ATLS), o atendimento do paciente politraumatizado deve seguir uma sequência cujo objetivo é diminuir a mortalidade. Nesse caso, a ordem de atendimento mais adequada seria:",
       "alternativas": {
         "A": "circulação / ventilação / via aérea / exposição / avaliação neurológica",
@@ -13130,8 +13130,8 @@
     {
       "id": "pv-uer-2024-0065",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Homem de 72 anos, enfisematoso e diabético, com ambas comorbidades compensadas clinicamente, será submetido a enterectomia por lesão benigna no íleo proximal. A antibioticoprofilaxia está indicada nesse caso para prevenir a ocorrência de infecções:",
       "alternativas": {
         "A": "urinárias",
@@ -13159,8 +13159,8 @@
     {
       "id": "pv-uer-2024-0077",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Em um incidentaloma de adrenal direita para a síndrome de Conn, as alterações características suspeitas são:",
       "alternativas": {
         "A": "hipotensão e hipercalcemia",
@@ -13191,8 +13191,8 @@
     {
       "id": "pv-uer-2024-0079",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "O sintoma relacionado ao melhor desfecho cirúrgico na intratabilidade da doença do refluxo gastroesofágico, se presente, é a:",
       "alternativas": {
         "A": "asma",
@@ -13214,8 +13214,8 @@
     {
       "id": "pv-uer-2024-0089",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Mulher de 80 anos, previamente hígida, relata início de quadro de dispneia após realizar grandes esforços que, em meses, evoluiu para médios esforços, com aparecimento recente de edema de membros inferiores. Os exames de laboratório da paciente não apresentam alterações, exceto aumento da dosagem de pró-BNP. O eletrocardiograma mostra, no plano frontal, onda R de até 4,5mm; o ecocardiograma mostra fração de ejeção de 50%, com hipertrofia do septo e parede posterior; e a cineangiocoronariografia apresenta algumas placas ateromatosas de até 30%. Com relação ao diagnóstico mais provável, nesse caso, é INCORRETO afirmar que:",
       "alternativas": {
         "A": "após os 80 anos, 25% dos pacientes apresentam na autópsia achados da doença",
@@ -13237,8 +13237,8 @@
     {
       "id": "pv-uer-2024-0091",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Mulher de 50 anos, previamente hígida, procura atendimento médico com quadro de cansaço e dispneia progressiva, iniciado há duas semanas e que atualmente acontece a médios esforços. Paciente está hipocorada ++/4 e não há visceromegalias; apresenta PA = 100x60mmHg, FC = 110bpm, FR = 18irpm; e nega queixas gastrintestinais. Os exames iniciais mostram hemoglobina = 7g/dL, VCM = 106fL, CHCM = 31g/dL, leucócitos = 8.500/mm³, diferencial sem alterações e plaquetas = 300.000/mm³. A suspeita principal é de anemia hiperproliferativa, mais bem caracterizada por:",
       "alternativas": {
         "A": "reticulócitos = 10%, LDH = 1.000UI/L e queda na haptoglobina sérica.",
