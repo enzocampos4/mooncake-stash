@@ -29027,8 +29027,8 @@
   "pv-amr-2025-0157": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "AMRIGS",
     "ano": 2025,
     "fonte": "AMRIGS 2025"
@@ -29036,8 +29036,8 @@
   "pv-ufr-2025-0241": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -29045,8 +29045,8 @@
   "pv-ufr-2025-0263": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Puericultura e acompanhamento do crescimento",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -29055,7 +29055,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "UFRJ",
     "ano": 2025,
     "fonte": "UFRJ 2025"
@@ -29063,8 +29063,8 @@
   "pv-uer-2024-0042": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "UERJ",
     "ano": 2024,
     "fonte": "UERJ 2024"
@@ -29072,8 +29072,8 @@
   "pv-sp-2024-0002": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -29081,8 +29081,8 @@
   "pv-sp-2024-0017": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -29090,8 +29090,8 @@
   "pv-sp-2024-0023": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -29099,8 +29099,8 @@
   "pv-sp-2024-0030": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -29108,8 +29108,8 @@
   "pv-uni-2024-0037": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Humanização",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "UNIFESP",
     "ano": 2024,
     "fonte": "UNIFESP 2024"
@@ -29126,8 +29126,8 @@
   "pv-hia-2025-0139": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Estratégia Saúde da Família (ESF) e NASF",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
