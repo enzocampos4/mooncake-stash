@@ -28920,7 +28920,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "HCPA",
     "ano": 2024,
     "fonte": "HCPA 2024"
@@ -28928,8 +28928,8 @@
   "pv-hcp-2025-0192": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Puericultura e acompanhamento do crescimento",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -28937,8 +28937,8 @@
   "pv-fam-2024-0054": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "FAMERP",
     "ano": 2024,
     "fonte": "FAMERP 2024"
@@ -28947,7 +28947,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Risco",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -28955,7 +28955,7 @@
   "pv-uni-2025-0163": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Epidemiologia",
     "subsub": "",
     "banca": "UNIFESP",
     "ano": 2025,
@@ -28964,8 +28964,8 @@
   "pv-sír-2024-0051": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Puericultura e acompanhamento do crescimento",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -28973,8 +28973,8 @@
   "pv-sír-2024-0096": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -28982,8 +28982,8 @@
   "pv-df-2024-0021": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "SES-DF",
     "ano": 2024,
     "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024"
@@ -28991,8 +28991,8 @@
   "pv-ena-2024-0016": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Ética Médica",
+    "subsub": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -29000,8 +29000,8 @@
   "pv-ena-2025-0178": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "ENARE",
     "ano": 2025,
     "fonte": "ENARE 2025"
@@ -29018,8 +29018,8 @@
   "pv-amr-2024-0048": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
