@@ -17507,8 +17507,8 @@
     {
       "id": "pv-sír-2024-0058",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Paciente com 11 anos de idade, sexo feminino, apresenta quadro clínico de adinamia, febre (Tax: 38 °C). Evoluiu com equimoses em membros inferiores e petéquias difusas. Exame neurológico normal. Traz exames laboratoriais: Hb: 8,8 g/dL, leucócitos: 4.200/mm³, plaquetas: 75.000/mm³, reticulocitose, presença de esquizócitos no esfregaço de sangue periférico, haptoglobina baixa, aumento da desidrogenase lática e atividade de ADAMTS13<10%. Entre as opções abaixo, a hipótese diagnóstica mais provável para essa paciente é:",
       "alternativas": {
         "A": "Meningococcemia.",
@@ -17535,8 +17535,8 @@
     {
       "id": "pv-ena-2024-0011",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Durante uma consulta de rotina, observa-se que um menino de 4 anos está com cartão vacinal incompleto. Ele compareceu à consulta acompanhado de sua mãe, que relata para o profissional que tem medo de vacinar o filho, pois frequentemente vê na mídia ou em grupos de mensagens que as vacinas podem causar autismo. Ela mesma não se vacina há mais de 10 anos. Diante dessa mãe – que tem um comportamento denominado hesitação vacinal – qual deve ser a postura do profissional de saúde?",
       "alternativas": {
         "A": "O profissional de saúde deve recomendar de forma cautelosa a vacinação, para não gerar atrito na comunicação com o paciente.",
@@ -17559,8 +17559,8 @@
     {
       "id": "pv-ena-2025-0192",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Leonora, 60 anos, com diabetes mellitus diagnosticada há 5 anos, em acompanhamento contínuo na unidade básica de saúde, vem para a consulta de rotina. Após avaliação dos pés, identificamos: sensibilidade presente, deformidade ausente e úlceras ou cicatrizes de úlceras ausentes. Segundo o exame clínico do pé diabético, conclui-se que a categoria de risco e o melhor manejo para Leonora são, respectivamente:",
       "alternativas": {
         "A": "grau 0 – reavaliação anual;",
@@ -17595,7 +17595,7 @@
       "id": "pv-pe-2024-0031",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Paciente masculino de 7 anos vem com quadro de febre há algumas semanas e há alguns dias genitora vem notando aumento do volume abdominal. Nega alteração do estado geral e nega comorbidades. Segue acompanhamento médico regular no interior de Pernambuco e apresenta cartão vacinal atualizado. Ao exame: regular estado geral, hipocorado +/4+, com ausculta cardíaca e respiratória dentro dos padrões de normalidade para a faixa etária; abdome semigloboso com ruídos hidroaéreos preservados, fígado a 4 cm do rebordo costal direito e baço a 5 cm do rebordo costal esquerdo; ausência de adenomegalias. Baseado nos dados clínicos e epidemiologia de doenças infectocontagiosas local, qual exame confirmaria sua hipótese diagnóstica?",
       "alternativas": {
         "A": "Aspirado de medula óssea com formas mastigotas do parasita",
@@ -17627,7 +17627,7 @@
       "id": "pv-amr-2025-0198",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Em um estudo sobre a eficácia de um novo teste de triagem para câncer de bexiga, apesar de a mortalidade por câncer de bexiga permanecer constante, os pacientes que foram diagnosticados precocemente por exames regulares apresentaram uma sobrevida média de 5 anos, enquanto os diagnosticados após o surgimento de sintomas tiveram uma sobrevida de 2 anos. Qual é a explicação mais provável?",
       "alternativas": {
         "A": "O novo método de rastreamento precoce parece ser a única explicação para o aumento da sobrevida observada.",
@@ -17684,8 +17684,8 @@
     {
       "id": "pv-ufr-2025-0238",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Pode-se afirmar que, segundo a OMS, em mulher portadora de cardiopatia congênita, a condição relacionada a maior morbimortalidade materno-fetal é:",
       "alternativas": {
         "A": "cardiomiopatia hipertrófica",
@@ -17714,7 +17714,7 @@
       "id": "pv-hcp-2025-0169",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Assinale a assertiva correta sobre o tratamento da obesidade tendo como base resultados de ensaios clínicos randomizados.",
       "alternativas": {
         "A": "A redução de peso com mudança de estilo de vida é, via de regra, sustentada a longo prazo.",
@@ -17742,8 +17742,8 @@
     {
       "id": "pv-fam-2024-0010",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Paciente feminina, 52 anos de idade, vem com queixa de dor em braços, ombros, cervical e pernas há 3 anos, piorando de intensidade nos últimos 6 meses após piora da ansiedade com perda de emprego. Refere que o sono é superficial e já acorda com as dores pela manhã, mas piora durante o dia se esforço físico, mesmo que leve, com as atividades da rotina diária domiciliar. Nega trauma, esforço físico incomum, emagrecimento, febre, lesões de pele ou mucosas, alteração urinária ou intestinal. Relata que também apresenta episódios de parestesias em antebraços e mãos. Ao exame físico, paciente em bom estado geral, sem alterações constitucionais, sem alterações articulares, limitações de movimento ou sinais flogísticos, força muscular preservada nos 4 membros, com ausência dos sinais de compressão do nervo mediano em punhos, apenas com pontos de hiperalgesia à palpação em musculatura de antebraços, trapézios e glúteos. Qual a principal conduta inicial dentre as abaixo?",
       "alternativas": {
         "A": "Educação em saúde sobre a doença, orientar atividade física regular e psicoterapia, e iniciar antidepressivo tricíclico para alívio dos sintomas dolorosos e melhora do sono.",
@@ -17765,8 +17765,8 @@
     {
       "id": "pv-sp-2025-0236",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Menino, 5 anos de idade, é levado à UBS por quadro de lesão de pele há 2 meses. O médico fez o diagnóstico de molusco contagioso. Assinale a alternativa que apresenta a imagem compatível com o diagnóstico.",
       "alternativas": {
         "A": "B)",
@@ -17801,8 +17801,8 @@
     {
       "id": "pv-uni-2025-0187",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Menino, 10 anos de idade, joga futebol desde pequeno; queixa-se de que há 5 meses vem apresentando dificuldade para correr, há um mês não consegue terminar a partida devido a crises de tosse seca e falta de ar. Há 2 semanas, com resfriado, piorou da tosse, principalmente na madrugada e pela manhã. Tem diagnóstico de rinite alérgica. Qual dos exames abaixo confirma a principal hipótese diagnóstica para sua queixa?",
       "alternativas": {
         "A": "pHmetria",
@@ -17824,8 +17824,8 @@
     {
       "id": "pv-sír-2024-0011",
       "area": "Medicina Preventiva",
-      "subarea": "Prevenção / Rastreio",
-      "sub_subarea": "Rastreamento",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "Uma família de 5 pessoas vive em uma comunidade que recebe assistência à saúde de uma equipe de saúde da família. A mãe, 45 anos, solteira, hipertensa, diabética e tabagista, não faz acompanhamento médico rotineiramente porque não quer faltar no trabalho. Ela tem a renda mais significativa da casa e é responsável pelo aluguel, contas e alimentação. O filho mais velho tem 16 anos, está no primeiro ano do ensino médio, faz bicos de pedreiro para ajudar em casa, é tabagista de 10 cigarros por dia, não bebe e não usa drogas. Há dois anos, devido à rotina puxada, não pratica exercícios e não come direito, engordando 10 kg. Os outros 3 irmãos, de 8, 10 e 12 anos, estudam de manhã e ficam à tarde na casa da vizinha que cuida de crianças da vizinhança. Mãe refere que as crianças estão com piolho e que a vacinação dos filhos está atrasada. Entre as alternativas abaixo, a que melhor relaciona os níveis de prevenção com ações de saúde para o seguimento dessa família é:",
       "alternativas": {
         "A": "Prevenção primaria: notificar o conselho tutelar para avaliação da situação dos menores na casa da vizinha e agendar consultas para seguimento clínico e tratamento da pediculose.",
