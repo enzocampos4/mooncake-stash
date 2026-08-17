@@ -18554,8 +18554,8 @@
     {
       "id": "pv-fam-2025-0109",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Jovem de 18 anos, G=0, com sinusiorragia, procura UBS onde foi submetida à coleta de citologia oncótica e colposcopia que revelou lesão aceto-branca em lábio anterior do colo do útero. Foi submetida à biópsia com resultado anátomo-patológico de Lesão Intraepitelial de Alto Grau (NIC-III). Qual a alternativa correta nesta jovem, de acordo com as Diretrizes Brasileiras para Rastreamento de Câncer do Colo Uterino, 2016",
       "alternativas": {
         "A": "Histerectomia Total",
@@ -18583,8 +18583,8 @@
     {
       "id": "pv-fam-2025-0104",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Paciente com 34 semanas de gestação, G=3, P=2, A=0, tabagista, em acompanhamento de pré-natal em Unidade Básica de Saúde (UBS). Foi feita a hipótese diagnóstica de restrição de crescimento fetal (RCF), sendo então encaminhada ao pré-natal de alto risco para confirmação do diagnóstico e acompanhamento. De acordo com estes dados, assinale a alternativa correta:",
       "alternativas": {
         "A": "A circunferência abdominal (CA) é menor na presença de RCF, em virtude da diminuição do tamanho do fígado, da diminuição do glicogênio acumulado e da depleção do tecido adiposo da região abdominal. Isoladamente, a CA não é a medida de maior sensibilidade para detecção da RCF.",
@@ -18612,8 +18612,8 @@
     {
       "id": "pv-hia-2024-0031",
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Primigesta, com idade gestacional de 35 semanas e 2 dias, é internada devido à rotura prematura de membranas, seguida de contrações. O líquido amniótico é meconial e o parto ocorre por via vaginal. O recém-nascido (RN) apresenta movimentos respiratórios irregulares e tônus muscular flácido. A sequência correta da reanimação do RN é:",
       "alternativas": {
         "A": "Manter a temperatura do ambiente entre 23-25 °C; fazer aspiração traqueal e iniciar a VPP com máscara facial.",
@@ -18649,9 +18649,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -18676,9 +18676,9 @@
       ],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Controle social e participação popular",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -18700,9 +18700,9 @@
       ],
       "_simulado": "5-simulado",
       "_edicao": "5",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Vigilância",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -18724,9 +18724,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "Gestão",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -18750,9 +18750,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Puericultura e acompanhamento do crescimento",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -18774,9 +18774,9 @@
       ],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -18796,9 +18796,9 @@
       "imagens": [],
       "_simulado": "9-simulado",
       "_edicao": "9",
-      "subarea": "Saúde Coletiva / SUS",
+      "subarea": "Medicina de Família e Comunidade",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -18818,9 +18818,9 @@
       "imagens": [],
       "_simulado": "1-simulado",
       "_edicao": "1",
-      "subarea": "Geral",
+      "subarea": "Sistema Único de Saúde (SUS)",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "banca": "ESTRATÉGIA MED"
     },
     {
@@ -18842,7 +18842,7 @@
       "_edicao": "11",
       "subarea": "Epidemiologia",
       "_area_slug": "medicina-preventiva",
-      "sub_subarea": "",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "banca": "ESTRATÉGIA MED"
     },
     {

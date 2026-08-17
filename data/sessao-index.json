@@ -29567,8 +29567,8 @@
   "pv-uni-2025-0196": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Ética Médica",
+    "subsub": "Direitos do paciente",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
@@ -29576,8 +29576,8 @@
   "pv-sír-2024-0017": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
     "banca": "Sírio-Libanês",
     "ano": 2024,
     "fonte": "Sírio-Libanês 2024"
@@ -29585,8 +29585,8 @@
   "pv-sír-2025-0143": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -29594,8 +29594,8 @@
   "pv-hia-2024-0014": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -29603,8 +29603,8 @@
   "pv-hia-2024-0020": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -29612,8 +29612,8 @@
   "pv-hia-2024-0051": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -29621,8 +29621,8 @@
   "pv-ufr-2024-0081": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "UFRJ",
     "ano": 2024,
     "fonte": "UFRJ 2024"
@@ -29630,8 +29630,8 @@
   "pv-hcp-2025-0141": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "HCPA",
     "ano": 2025,
     "fonte": "HCPA 2025"
@@ -29640,7 +29640,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "SUS-SP",
     "ano": 2025,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2025"
@@ -29648,8 +29648,8 @@
   "pv-sír-2025-0163": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Epidemiologia",
+    "subsub": "",
     "banca": "Sírio-Libanês",
     "ano": 2025,
     "fonte": "Sírio-Libanês 2025"
@@ -29657,8 +29657,8 @@
   "pv-hia-2025-0129": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Prevenção / Rastreio",
-    "subsub": "Rastreamento",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "HIAE",
     "ano": 2025,
     "fonte": "HIAE 2025"
@@ -29667,7 +29667,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "UNIFESP",
     "ano": 2025,
     "fonte": "UNIFESP 2025"
