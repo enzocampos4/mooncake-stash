@@ -29675,8 +29675,8 @@
   "pv-fam-2025-0109": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -29684,8 +29684,8 @@
   "pv-fam-2025-0104": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "FAMERP",
     "ano": 2025,
     "fonte": "FAMERP 2025"
@@ -29693,8 +29693,8 @@
   "pv-hia-2024-0031": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "HIAE",
     "ano": 2024,
     "fonte": "HIAE 2024"
@@ -29702,8 +29702,8 @@
   "s1-060": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -29711,8 +29711,8 @@
   "s1-100": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Controle social e participação popular",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -29720,8 +29720,8 @@
   "s5-027": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Vigilância",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª"
@@ -29729,8 +29729,8 @@
   "s9-004": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -29738,8 +29738,8 @@
   "s9-011": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Puericultura e acompanhamento do crescimento",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -29747,8 +29747,8 @@
   "s9-042": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -29756,8 +29756,8 @@
   "s9-088": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
@@ -29765,8 +29765,8 @@
   "s1-065": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Lei 8.080/90 e 8.142/90",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
@@ -29775,7 +29775,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
