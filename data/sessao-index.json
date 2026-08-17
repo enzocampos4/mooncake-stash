@@ -28811,8 +28811,8 @@
   "pv-ba-2024-0030": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -28820,8 +28820,8 @@
   "pv-ba-2024-0032": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -28829,8 +28829,8 @@
   "pv-ba-2024-0033": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -28838,8 +28838,8 @@
   "pv-ba-2024-0035": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2024,
     "fonte": "SUS-BA 2024"
@@ -28847,8 +28847,8 @@
   "pv-ba-2025-0060": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -28857,7 +28857,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -28866,7 +28866,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "SUS-SP",
     "ano": 2024,
     "fonte": "SP - Sistema Único de Saúde - SUS SP 2024"
@@ -28874,8 +28874,8 @@
   "pv-ba-2025-0082": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Gestão",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Níveis de atenção (primária, secundária, terciária)",
     "banca": "SUS-BA",
     "ano": 2025,
     "fonte": "SUS-BA 2025"
@@ -28883,8 +28883,8 @@
   "pv-ena-2024-0010": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "ENARE",
     "ano": 2024,
     "fonte": "ENARE 2024"
@@ -28892,8 +28892,8 @@
   "pv-mg-2024-0042": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Níveis de atenção (primária, secundária, terciária)",
     "banca": "PSU-MG",
     "ano": 2024,
     "fonte": "MG - Processo Seletivo Unificado - PSU MG 2024"
@@ -28901,8 +28901,8 @@
   "pv-amr-2024-0080": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Saúde Coletiva / SUS",
-    "subsub": "Atenção Básica",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Níveis de atenção (primária, secundária, terciária)",
     "banca": "AMRIGS",
     "ano": 2024,
     "fonte": "AMRIGS 2024"
@@ -28910,8 +28910,8 @@
   "pv-uer-2025-0142": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diag.",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "UERJ",
     "ano": 2025,
     "fonte": "UERJ 2025"

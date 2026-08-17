@@ -16216,7 +16216,7 @@
       "id": "pv-hcp-2024-0055",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diag.",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Paciente masculino, de 62 anos, tabagista, veio à Emergência por dor súbita no membro inferior direito, iniciada há 6 horas, quando se encontrava agachado em sua lavoura. Cerca de 1 hora depois do início da dor, referiu não ter sentido mais a perna do joelho para baixo. Ao exame, apresentava todos os pulsos no membro inferior esquerdo e somente pulso femoral no inferior direito, palidez e déficit de sensibilidade, mas sem déficit de motricidade. Eco-Doppler arterial à beira do leito demonstrou oclusão da artéria femoral superficial a partir do terço médio estendendo-se para a artéria poplítea e para as artérias da perna. A artéria poplítea apresentava dilatação de 2,0 cm. Assinale a assertiva correta sobre o diagnóstico inicial do caso.",
       "alternativas": {
         "A": "Eco-Doppler é o exame diagnóstico suficiente para indicar o melhor método de revascularização.",
@@ -16246,8 +16246,8 @@
     {
       "id": "pv-hcp-2025-0192",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Puericultura e acompanhamento do crescimento",
       "enunciado": "Paciente de 26 anos, com seu primogênito de 13 dias de vida, procurou a UBS por estar tendo dificuldades com a amamentação. Há 3 dias, referiu a ocorrência de dor e sangramento pelo mamilo da mama esquerda durante a amamentação, razão pela qual vinha extraindo o leite dessa mama manualmente e mantendo a amamentação apenas na mama direita. A dor e a vermelhidão tinham piorado nos últimos 2 dias. Negou febre, prurido ou sensação de queimação nos mamilos, mas relatou sudorese intensa e calafrios durante a noite. Ao exame, a temperatura axilar era 37,5o C. A mama esquerda apresentava área com eritema, calor e endurecimento sem flutuação; o mamilo era plano, estava com eritema e apresentava fissuras. A criança encontrava-se saudável e, desde a alta hospitalar, já havia ganhado 320 g. Além da analgesia e orientação da pega, assinale a alternativa que contempla o diagnóstico, a conduta e as orientações adequadas para a mãe.",
       "alternativas": {
         "A": "Mastite – Prescrever amoxicilina-clavulanato, realizar a extração manual do leite na mama esquerda até parar o sangramento e manter a amamentação na mama direita. – Tratar o mamilo com mupirocina creme a 2%.",
@@ -16269,8 +16269,8 @@
     {
       "id": "pv-fam-2024-0054",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Um jovem, vítima de acidente de moto é levado a emergência de um Hospital Terciário Nível I de Trauma, após intubação orotraqueal e reposição volêmica com dois litros de Ringer Lactato. Encontra se hemodinamicamente instável, com fratura aberta de quadril e FAST (ultrassom abdominal no trauma) positivo. O médico assistente, rapidamente calcula um ABCscore de dois pontos e Shock Index de 1,2. Neste momento, a melhor conduta na emergência é:",
       "alternativas": {
         "A": "Iniciar a infusão de 1,0 grama de Ácido Tranexâmico; ativar Protocolo de Transfusão Maciça; instalar cinta pélvica;",
@@ -16299,7 +16299,7 @@
       "id": "pv-fam-2025-0118",
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Risco",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Trata-se de um estudo realizado com nascidos vivos no Hospital Municipal de Governador Valadares, no período de maio de 2017 a julho de 2018. Um grupo foi composto por nascidos vivos a termo e baixo peso ao nascer e o outro grupo, por nascidos vivos a termo e com peso adequado, pareados por sexo e data de nascimento. A coleta de dados foi realizada por meio de entrevista com as puérperas e informações complementares foram obtidas pela análise do cartão de pré-natal e prontuários. Um dos fatores estudados, entre várias outras variáveis, foi a associação entre o consumo de água pelas gestantes, durante a gestação, do Serviço de Abastecimento de Água (SAA) dos municípios atingidos pelo Desastre Ambiental de Mariana/MG (2015), que contaminou com metais pesados o principal manancial de abastecimento destas cidades (Rio Doce) e a presença de crianças com Baixo Peso ao nascer. Em relação a esta variável, os dados encontram-se na tabela abaixo: Responda: Que tipo de estudo é este? E qual a Razão de Chance da presença de Baixo Peso entre mães que consumiram água contaminada durante a gestão e as que não consumiram?",
       "alternativas": {
         "A": "Estudo de Coorte Retrospectivo; razão de chance de 1,75",
@@ -16327,7 +16327,7 @@
     {
       "id": "pv-uni-2025-0163",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
+      "subarea": "Epidemiologia",
       "sub_subarea": "",
       "enunciado": "Homem, 23 anos de idade, apresenta alta estatura, pectus excavatum, escoliose, aracnodactilia, frouxidão ligamentar, luxação de cristalino em olho esquerdo e discreta dilatação de aorta ascendente. A história familiar revela que sua mãe tem luxação de cristalino bilateral e prolapso da valva mitral, enquanto uma irmã do paciente tem alta estatura, pectus excavatum, escoliose e prolapso da valva mitral. Considerando o diagnóstico mais provável, qual é o padrão de herança implicado nesta condição?",
       "alternativas": {
@@ -16350,8 +16350,8 @@
     {
       "id": "pv-sír-2024-0051",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Gestão",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Puericultura e acompanhamento do crescimento",
       "enunciado": "A maior suscetibilidade a doenças virais nos primeiros cinco meses de vida é explicada por",
       "alternativas": {
         "A": "predomínio do padrão Th2.",
@@ -16374,8 +16374,8 @@
     {
       "id": "pv-sír-2024-0096",
       "area": "Medicina Preventiva",
-      "subarea": "Saúde Coletiva / SUS",
-      "sub_subarea": "Atenção Básica",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Homem, 67 anos de idade, é levado ao pronto-socorro por dispneia súbita há 4 horas, evoluindo com evidente desconforto respiratório. Está em acompanhamento por adenocarcinoma de reto em programação de quimioterapia. Tem antecedente de HAS e DM tipo 2. Ao exame físico, apresenta: PA: 83 x 60 mmHg, FC: 130 bpm, FR: 32 irpm e saturação periférica de oxigênio 90% em ar ambiente. O exame cardiopulmonar está normal. A ultrassonografia point-of-care cardíaca evidencia sobrecarga de ventrículo direito e relação VD/VE 1.2. O paciente evoluiu com melhora clínica após o tratamento inicial e estabilização, recebendo alta 1 semana após o quadro. Comparece em consulta de seguimento após 3 meses com relato de dispneia aos moderados esforços, sem outros sintomas. O ecocardiograma transtorácico evidenciou pressão sistólica pulmonar estimada em 48 mmHg, sem outros achados. Neste momento, a melhor conduta para este paciente, entre as opções abaixo, é:",
       "alternativas": {
         "A": "varfarina e diltiazem.",
@@ -16402,8 +16402,8 @@
     {
       "id": "pv-df-2024-0021",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma gestante primigesta de 32 anos de idade está com 8 semanas de gestação. Ela realizou exames cujos resultados foram Hb = 9.9g/dL (hemácias hipocrômicas e microcíticas), ferritina = 5mg/mL e índice de saturação de transferrina = 10%. Assinale a alternativa que corresponde à conduta mais adequada para esse caso clínico.",
       "alternativas": {
         "A": "Prescrever ferro endovenoso após o cálculo de deficit de ferro.",
@@ -16425,8 +16425,8 @@
     {
       "id": "pv-ena-2024-0016",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Uma jovem de 24 anos comparece à consulta na Unidade Básica de Saúde devido a atraso menstrual. Ao consultá-la, o médico solicita um teste rápido urinário que mostra resultado positivo para gravidez. Ao dar a notícia, a paciente começa a chorar copiosamente. Após um certo tempo, ela relata que a gravidez foi fruto de uma única relação com um parceiro ocasional e que não a deseja, afirmando que isso atrapalhará seu curso universitário e demonstrando preocupação em relação à reação de seus pais. Diante dessa situação, qual é a postura considerada adequada?",
       "alternativas": {
         "A": "Diante de um paciente em sofrimento, é muito comum termos empatia e demonstrarmos esse sofrimento – muitas vezes sofrendo tanto ou mais que o paciente.",
@@ -16449,8 +16449,8 @@
     {
       "id": "pv-ena-2025-0178",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma mulher de 25 anos chega ao ambulatório com um exame de farmácia demonstrando gravidez. Ainda não realizou ultrassonografia e, pela data da última menstruação, estaria com aproximadamente 8 semanas de gestação. Ao toque, nota-se um amolecimento acentuado no istmo, que configuraria o sinal de:",
       "alternativas": {
         "A": "Hegar;",
@@ -16505,8 +16505,8 @@
     {
       "id": "pv-amr-2024-0048",
       "area": "Medicina Preventiva",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Em relação à incontinência ou insuficiência cervical, pode-se afirmar que a cerclagem está indicada nos casos a seguir, EXCETO:",
       "alternativas": {
         "A": "Após uma perda fetal, com o quadro clínico de insuficiência cervical; o exame transvaginal do colo uterino está indicado a partir de 16 a 24 semanas da gravidez.",
