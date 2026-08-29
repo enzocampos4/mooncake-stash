@@ -19037,8 +19037,8 @@
   "pv-rev-2026-1-0002": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Puericultura",
-    "subsub": "Crescimento",
+    "sub": "Endocrinologia pediátrica",
+    "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -19046,8 +19046,8 @@
   "pv-rev-2026-1-0012": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Neuropediatria",
+    "subsub": "Atraso do desenvolvimento neuropsicomotor (DNPM)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -19055,7 +19055,7 @@
   "pv-rev-2026-1-0017": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Pneumologia Pediátrica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2026,
@@ -19074,7 +19074,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Sepse neonatal e pediátrica",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -19082,7 +19082,7 @@
   "pv-rev-2026-1-0045": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Outros",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2026,
@@ -19092,7 +19092,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Pneumologia Pediátrica",
-    "subsub": "",
+    "subsub": "Bronquiolite aguda",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -19101,7 +19101,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Doenças exantemáticas",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -19110,7 +19110,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Gastrologia Pediátrica",
-    "subsub": "",
+    "subsub": "Diarreia aguda e crônica",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -19118,8 +19118,8 @@
   "pv-rev-2026-1-0062": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "Pneumonia na criança",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -19127,8 +19127,8 @@
   "pv-rev-2026-1-0074": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Hematologia Pediátrica",
-    "subsub": "",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "Vasculites (Kawasaki, HSP)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -19137,7 +19137,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "subsub": "Meningites na criança",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
