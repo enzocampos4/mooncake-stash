@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-08-29T15:30:19.509Z",
+  "exportado": "2026-08-29T22:13:29.251Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -211,6 +211,86 @@
       "fonte": "Sírio-Libanês 2024",
       "timestamp": "2026-08-13T01:32:30.764Z",
       "modo": "🎯 Sessão"
+    },
+    {
+      "id": "pv-rev-2026-1-0001",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Clínica Médica",
+      "subarea": "Pneumologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-29T15:30:47.833Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0002",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Pediatria",
+      "subarea": "Puericultura",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-29T15:31:51.764Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0003",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Geral",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-29T15:32:14.796Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0004",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Obstetrícia",
+      "subarea": "Parto",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-29T15:32:22.239Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0005",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Clínica Médica",
+      "subarea": "Reumatologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-29T15:32:31.788Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0006",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-29T15:32:45.268Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0007",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Medicina Preventiva",
+      "subarea": "Geral",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-29T15:32:50.417Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0008",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Obstetrícia",
+      "subarea": "Geral",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-29T15:33:12.796Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -230,5 +310,29 @@
       "2026-08-13": 1
     }
   },
-  "simulados": {}
+  "simulados": {
+    "revalida-2026-1": {
+      "respostas": {
+        "pv-rev-2026-1-0001": "certo",
+        "pv-rev-2026-1-0002": "certo",
+        "pv-rev-2026-1-0003": "certo",
+        "pv-rev-2026-1-0004": "certo",
+        "pv-rev-2026-1-0005": "certo",
+        "pv-rev-2026-1-0006": "certo",
+        "pv-rev-2026-1-0007": "certo",
+        "pv-rev-2026-1-0008": "certo"
+      },
+      "selecao": {
+        "pv-rev-2026-1-0001": "D",
+        "pv-rev-2026-1-0002": "C",
+        "pv-rev-2026-1-0003": "A",
+        "pv-rev-2026-1-0004": "D",
+        "pv-rev-2026-1-0005": "D",
+        "pv-rev-2026-1-0006": "A",
+        "pv-rev-2026-1-0007": "A",
+        "pv-rev-2026-1-0008": "C"
+      },
+      "timerRestante": 0
+    }
+  }
 }
