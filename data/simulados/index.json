@@ -54,5 +54,37 @@
     "data": "2026-02-01",
     "total_questoes": 100,
     "file": "revalida-2026-1.json"
+  },
+  {
+    "id": "revalida-2025-1",
+    "edicao": 2025,
+    "nome": "Revalida INEP 2025.1 — Prova 1 (1ª Etapa)",
+    "data": "2025-03-16",
+    "total_questoes": 99,
+    "file": "revalida-2025-1.json"
+  },
+  {
+    "id": "revalida-2025-2",
+    "edicao": 2025,
+    "nome": "Revalida INEP 2025.2 — Prova 2 (1ª Etapa)",
+    "data": "2025-09-14",
+    "total_questoes": 99,
+    "file": "revalida-2025-2.json"
+  },
+  {
+    "id": "revalida-2024-1",
+    "edicao": 2024,
+    "nome": "Revalida INEP 2024.1 — Prova 1 (1ª Etapa)",
+    "data": "2024-03-17",
+    "total_questoes": 100,
+    "file": "revalida-2024-1.json"
+  },
+  {
+    "id": "revalida-2024-2",
+    "edicao": 2024,
+    "nome": "Revalida INEP 2024.2 — Prova 2 (1ª Etapa)",
+    "data": "2024-09-08",
+    "total_questoes": 100,
+    "file": "revalida-2024-2.json"
   }
 ]

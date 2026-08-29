@@ -1,7 +1,7 @@
 {
  "cirurgia": {
   "nome": "Cirurgia",
-  "total": 420,
+  "total": 450,
   "subcategorias": {
    "avaliacao-pre-operatoria": {
     "nome": "Avaliação Pré-Operatória",
@@ -17,7 +17,7 @@
    },
    "cirurgia-toracica": {
     "nome": "Cirurgia Torácica",
-    "total": 15
+    "total": 19
    },
    "cirurgia-de-cabeca-e-pescoco": {
     "nome": "Cirurgia de Cabeça e Pescoço",
@@ -25,11 +25,11 @@
    },
    "complicacoes-pos-operatorias": {
     "nome": "Complicações Pós-Operatórias",
-    "total": 18
+    "total": 22
    },
    "hernias-da-parede-abdominal": {
     "nome": "Hérnias da Parede Abdominal",
-    "total": 29
+    "total": 32
    },
    "megacolon-adquirido": {
     "nome": "Megacólon Adquirido",
@@ -41,7 +41,7 @@
    },
    "principios-da-anestesiologia": {
     "nome": "Princípios da Anestesiologia",
-    "total": 4
+    "total": 5
    },
    "proctologia": {
     "nome": "Proctologia",
@@ -49,11 +49,11 @@
    },
    "trauma": {
     "nome": "Trauma",
-    "total": 46
+    "total": 52
    },
    "urgencias-abdominais": {
     "nome": "Urgências Abdominais",
-    "total": 102
+    "total": 107
    },
    "urologia": {
     "nome": "Urologia",
@@ -61,7 +61,7 @@
    },
    "vesicula-e-vias-biliares": {
     "nome": "Vesícula e Vias Biliares",
-    "total": 27
+    "total": 28
    },
    "cirurgia-abdominal": {
     "nome": "Cirurgia Abdominal",
@@ -69,7 +69,7 @@
    },
    "cirurgia-bariatrica": {
     "nome": "Cirurgia Bariátrica",
-    "total": 5
+    "total": 1
    },
    "cirurgia-oncologica": {
     "nome": "Cirurgia Oncológica",
@@ -81,11 +81,11 @@
    },
    "cirurgia-vascular": {
     "nome": "Cirurgia Vascular",
-    "total": 3
+    "total": 2
    },
    "geral": {
     "nome": "Geral",
-    "total": 1
+    "total": 3
    },
    "queimaduras": {
     "nome": "Queimaduras",
@@ -101,7 +101,7 @@
    },
    "cirurgia-bariatrica-e-metabolica": {
     "nome": "Cirurgia Bariátrica e Metabólica",
-    "total": 9
+    "total": 10
    },
    "queimaduras-e-trauma-eletrico": {
     "nome": "Queimaduras e Trauma Elétrico",
@@ -109,7 +109,7 @@
    },
    "nutricao-em-cirurgia-e-recuperacao-pos-operatoria": {
     "nome": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
-    "total": 3
+    "total": 4
    },
    "resposta-endocrino-metabolica-inflamatoria-ao-trauma-remit": {
     "nome": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
@@ -117,11 +117,11 @@
    },
    "cirurgia-plastica": {
     "nome": "Cirurgia Plástica",
-    "total": 3
+    "total": 4
    },
    "nutricao-em-cirurgia": {
     "nome": "Nutrição em Cirurgia",
-    "total": 2
+    "total": 3
    }
   },
   "subdetalhes": {
@@ -278,51 +278,51 @@
  },
  "clinica-medica": {
   "nome": "Clínica Médica",
-  "total": 893,
+  "total": 1066,
   "subcategorias": {
    "cardiologia": {
     "nome": "Cardiologia",
-    "total": 73
+    "total": 96
    },
    "dermatologia": {
     "nome": "Dermatologia",
-    "total": 32
+    "total": 39
    },
    "endocrinologia": {
     "nome": "Endocrinologia",
-    "total": 125
+    "total": 134
    },
    "gastroenterologia": {
     "nome": "Gastroenterologia",
-    "total": 94
+    "total": 106
    },
    "hematologia": {
     "nome": "Hematologia",
-    "total": 34
+    "total": 39
    },
    "hepatologia": {
     "nome": "Hepatologia",
-    "total": 54
+    "total": 59
    },
    "infectologia": {
     "nome": "Infectologia",
-    "total": 182
+    "total": 214
    },
    "nefrologia": {
     "nome": "Nefrologia",
-    "total": 71
+    "total": 81
    },
    "neurologia": {
     "nome": "Neurologia",
-    "total": 109
+    "total": 123
    },
    "pneumologia": {
     "nome": "Pneumologia",
-    "total": 62
+    "total": 71
    },
    "reumatologia": {
     "nome": "Reumatologia",
-    "total": 33
+    "total": 38
    },
    "pneumologia-intensiva": {
     "nome": "Pneumologia Intensiva",
@@ -334,23 +334,27 @@
    },
    "emergencias-uti": {
     "nome": "Emergências / UTI",
-    "total": 5
+    "total": 15
    },
    "geral": {
     "nome": "Geral",
-    "total": 9
+    "total": 22
    },
    "ortopedia": {
     "nome": "Ortopedia",
-    "total": 1
+    "total": 7
    },
    "psiquiatria": {
     "nome": "Psiquiatria",
-    "total": 8
+    "total": 16
    },
    "otorrinolaringologia": {
     "nome": "Otorrinolaringologia",
-    "total": 1
+    "total": 4
+   },
+   "oftalmologia": {
+    "nome": "Oftalmologia",
+    "total": 2
    }
   },
   "subdetalhes": {
@@ -557,7 +561,7 @@
  },
  "ginecologia": {
   "nome": "Ginecologia",
-  "total": 283,
+  "total": 311,
   "subcategorias": {
    "ginecologia-basica": {
     "nome": "Ginecologia básica",
@@ -565,7 +569,7 @@
    },
    "ginecologia-endocrina": {
     "nome": "Ginecologia endócrina",
-    "total": 27
+    "total": 32
    },
    "ginecologia-geral": {
     "nome": "Ginecologia geral",
@@ -573,11 +577,11 @@
    },
    "infeccoes-em-ginecologia": {
     "nome": "Infecções em ginecologia",
-    "total": 32
+    "total": 39
    },
    "mastologia": {
     "nome": "Mastologia",
-    "total": 21
+    "total": 27
    },
    "oncologia-ginecologica": {
     "nome": "Oncologia ginecológica",
@@ -597,7 +601,7 @@
    },
    "geral": {
     "nome": "Geral",
-    "total": 1
+    "total": 2
    },
    "parto-puerperio": {
     "nome": "Parto / Puerpério",
@@ -708,31 +712,31 @@
  },
  "obstetricia": {
   "nome": "Obstetrícia",
-  "total": 261,
+  "total": 305,
   "subcategorias": {
    "doencas-associadas-a-gestacao": {
     "nome": "Doenças associadas à gestação",
-    "total": 63
+    "total": 71
    },
    "medicina-fetal": {
     "nome": "Medicina fetal",
-    "total": 19
+    "total": 20
    },
    "parto": {
     "nome": "Parto",
-    "total": 53
+    "total": 71
    },
    "pre-natal": {
     "nome": "Pré-natal",
-    "total": 43
+    "total": 48
    },
    "puerperio": {
     "nome": "Puerpério",
-    "total": 28
+    "total": 29
    },
    "geral": {
     "nome": "Geral",
-    "total": 8
+    "total": 9
    },
    "gestacao-de-alto-risco": {
     "nome": "Gestação de Alto Risco",
@@ -740,11 +744,11 @@
    },
    "intercorrencias-obstetricas": {
     "nome": "Intercorrências obstétricas",
-    "total": 6
+    "total": 9
    },
    "intercorrencias-obstetricas-obstetricia-patologica": {
     "nome": "Intercorrências obstétricas /obstetrícia patológica",
-    "total": 39
+    "total": 40
    },
    "obstetricia-fisiologica": {
     "nome": "Obstetrícia fisiológica",
@@ -829,31 +833,31 @@
  },
  "medicina-preventiva": {
   "nome": "Medicina Preventiva",
-  "total": 741,
+  "total": 803,
   "subcategorias": {
    "epidemiologia": {
     "nome": "Epidemiologia",
-    "total": 234
+    "total": 247
    },
    "medicina-de-familia-e-comunidade": {
     "nome": "Medicina de Família e Comunidade",
-    "total": 330
+    "total": 335
    },
    "saude-do-trabalhador": {
     "nome": "Saúde do Trabalhador",
-    "total": 31
+    "total": 34
    },
    "sistema-unico-de-saude-sus": {
     "nome": "Sistema Único de Saúde (SUS)",
-    "total": 86
+    "total": 102
    },
    "etica-medica": {
     "nome": "Ética Médica",
-    "total": 33
+    "total": 34
    },
    "geral": {
     "nome": "Geral",
-    "total": 11
+    "total": 35
    },
    "politicas-publicas": {
     "nome": "Políticas Públicas",
@@ -939,27 +943,27 @@
  },
  "pediatria": {
   "nome": "Pediatria",
-  "total": 815,
+  "total": 876,
   "subcategorias": {
    "cardiologia-pediatrica": {
     "nome": "Cardiologia Pediátrica",
-    "total": 19
+    "total": 20
    },
    "emergencias-pediatricas": {
     "nome": "Emergências Pediátricas",
-    "total": 34
+    "total": 36
    },
    "gastrologia-pediatrica": {
     "nome": "Gastrologia Pediátrica",
-    "total": 54
+    "total": 61
    },
    "hematologia-pediatrica": {
     "nome": "Hematologia Pediátrica",
-    "total": 25
+    "total": 30
    },
    "infectologia-pediatrica": {
     "nome": "Infectologia Pediátrica",
-    "total": 121
+    "total": 123
    },
    "nefrologia-pediatrica": {
     "nome": "Nefrologia Pediátrica",
@@ -967,15 +971,15 @@
    },
    "neonatologia": {
     "nome": "Neonatologia",
-    "total": 68
+    "total": 76
    },
    "pneumologia-pediatrica": {
     "nome": "Pneumologia Pediátrica",
-    "total": 54
+    "total": 58
    },
    "puericultura": {
     "nome": "Puericultura",
-    "total": 103
+    "total": 117
    },
    "reumatologia-pediatrica": {
     "nome": "Reumatologia Pediátrica",
@@ -991,7 +995,7 @@
    },
    "geral": {
     "nome": "Geral",
-    "total": 4
+    "total": 14
    },
    "maus-tratos": {
     "nome": "Maus tratos",
@@ -999,7 +1003,7 @@
    },
    "outros": {
     "nome": "Outros",
-    "total": 215
+    "total": 219
    },
    "maus-tratos-a-criancas-e-adolescentes": {
     "nome": "Maus tratos à crianças e adolescentes",
@@ -1007,11 +1011,11 @@
    },
    "endocrinologia-pediatrica": {
     "nome": "Endocrinologia pediátrica",
-    "total": 31
+    "total": 33
    },
    "neuropediatria": {
     "nome": "Neuropediatria",
-    "total": 47
+    "total": 49
    }
   },
   "subdetalhes": {
