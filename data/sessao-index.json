@@ -7658,6 +7658,384 @@
     "ano": 0,
     "fonte": ""
   },
+  "pv-rev-2026-1-0001": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Pneumologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0003": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0005": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Reumatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0006": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Cardiologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0011": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Infectologia",
+    "subsub": "HIV",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0014": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Pneumologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0015": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0016": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Hepatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0018": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Pneumologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0022": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Psiquiatria",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0023": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Nefrologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0025": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Otorrinolaringologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0027": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Nefrologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0029": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Nefrologia",
+    "subsub": "Insuficiência Renal",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0030": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Dermatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0031": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Hepatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0036": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0037": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Infectologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0041": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Psiquiatria",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0042": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0043": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Psiquiatria",
+    "subsub": "Depressão",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0044": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Neurologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0046": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Psiquiatria",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0048": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Dermatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0050": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0051": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Reumatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0059": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Reumatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0066": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Neurologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0067": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Dermatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0070": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Infectologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0073": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Nefrologia",
+    "subsub": "Insuficiência Renal",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0075": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Gastroenterologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0079": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Psiquiatria",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0080": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Cardiologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0081": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Nefrologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0086": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Neurologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0087": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Pneumologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0091": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0093": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Psiquiatria",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0094": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Endocrinologia",
+    "subsub": "Diabetes",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0096": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Gastroenterologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0097": {
+    "area": "clinica-medica",
+    "area_nome": "Clinica Medica",
+    "sub": "Dermatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
   "s1-043": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
@@ -11347,6 +11725,96 @@
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
+  },
+  "pv-rev-2026-1-0013": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Trauma",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0032": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Complicações Pós-Operatórias",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0039": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Trauma",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0053": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Cirurgia Vascular",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0058": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Nutrição em Cirurgia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0063": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Hérnias da Parede Abdominal",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0068": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Nutrição em Cirurgia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0082": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Urgências Abdominais",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0089": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Queimaduras",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0100": {
+    "area": "cirurgia",
+    "area_nome": "Cirurgia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
   },
   "s1-003": {
     "area": "pediatria",
@@ -18566,6 +19034,123 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 1ª"
   },
+  "pv-rev-2026-1-0002": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Puericultura",
+    "subsub": "Crescimento",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0012": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0017": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0024": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Neonatologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0038": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0045": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0052": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Pneumologia Pediátrica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0055": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0057": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Gastrologia Pediátrica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0062": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0074": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Hematologia Pediátrica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0088": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Infectologia Pediátrica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0095": {
+    "area": "pediatria",
+    "area_nome": "Pediatria",
+    "sub": "Reumatologia Pediátrica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
   "s14-027": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
@@ -21050,6 +21635,69 @@
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 9ª"
   },
+  "pv-rev-2026-1-0010": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Infecções em ginecologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0069": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Oncologia ginecológica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0076": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Infecções em ginecologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0077": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Infecções em ginecologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0083": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Mastologia",
+    "subsub": "Câncer de mama",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0090": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Infecções em ginecologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0098": {
+    "area": "ginecologia",
+    "area_nome": "Ginecologia",
+    "sub": "Ginecologia endócrina",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
   "s14-038": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
@@ -23299,6 +23947,105 @@
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª"
+  },
+  "pv-rev-2026-1-0004": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Parto",
+    "subsub": "Trabalho de parto",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0008": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0009": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0019": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0026": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Parto",
+    "subsub": "Trabalho de parto",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0033": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0034": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Pré-natal",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0040": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Parto",
+    "subsub": "Trabalho de parto",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0047": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Pré-natal",
+    "subsub": "Rastreio",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0054": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Parto",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0064": {
+    "area": "obstetricia",
+    "area_nome": "Obstetricia",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
   },
   "s1-007": {
     "area": "medicina-preventiva",
@@ -29815,5 +30562,158 @@
     "banca": "ESTRATÉGIA MED",
     "ano": 0,
     "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª"
+  },
+  "pv-rev-2026-1-0007": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Geral",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0020": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0021": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0028": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0035": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0049": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0056": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0060": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Epidemiologia",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0061": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0065": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0071": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0072": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0078": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0084": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0085": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Ética Médica",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0092": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
+  },
+  "pv-rev-2026-1-0099": {
+    "area": "medicina-preventiva",
+    "area_nome": "Medicina Preventiva",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "",
+    "banca": "REVALIDA INEP",
+    "ano": 2026,
+    "fonte": "REVALIDA INEP 2026.1"
   }
 }
