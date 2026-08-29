@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-08-04T15:26:53.701Z",
+  "exportado": "2026-08-29T15:30:19.509Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -62,6 +62,42 @@
         "nota": "",
         "respondida": true,
         "data": "2026-08-03T14:41:57.885Z"
+      }
+    },
+    "clinica-medica": {
+      "pv-df-2024-0100": {
+        "acertou": false,
+        "selecao": "A",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-05T02:00:51.685Z"
+      },
+      "pv-df-2025-0172": {
+        "acertou": true,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-05T02:15:59.694Z"
+      }
+    },
+    "pediatria": {
+      "pv-uer-2024-0023": {
+        "acertou": false,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-05T02:19:43.874Z"
+      },
+      "pv-sír-2024-0055": {
+        "acertou": false,
+        "selecao": "E",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-13T01:32:30.764Z"
       }
     }
   },
@@ -135,6 +171,46 @@
       "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
       "timestamp": "2026-08-03T18:50:57.072Z",
       "modo": "🎯 Sessão"
+    },
+    {
+      "id": "pv-df-2024-0100",
+      "acertou": false,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Gastroenterologia",
+      "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
+      "timestamp": "2026-08-05T02:00:51.685Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "pv-df-2025-0172",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2025",
+      "timestamp": "2026-08-05T02:15:59.694Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "pv-uer-2024-0023",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Pediatria",
+      "subarea": "Infectologia Pediátrica",
+      "fonte": "UERJ 2024",
+      "timestamp": "2026-08-05T02:19:43.875Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "pv-sír-2024-0055",
+      "acertou": false,
+      "selecao": "E",
+      "area": "Pediatria",
+      "subarea": "Hematologia Pediátrica",
+      "fonte": "Sírio-Libanês 2024",
+      "timestamp": "2026-08-13T01:32:30.764Z",
+      "modo": "🎯 Sessão"
     }
   ],
   "favoritos": {},
@@ -147,9 +223,11 @@
   },
   "streak": {
     "count": 1,
-    "ultimo": "2026-08-03",
+    "ultimo": "2026-08-13",
     "dias": {
-      "2026-08-03": 7
+      "2026-08-03": 7,
+      "2026-08-05": 3,
+      "2026-08-13": 1
     }
   },
   "simulados": {}
