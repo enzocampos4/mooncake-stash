@@ -11730,7 +11730,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Trauma",
-    "subsub": "",
+    "subsub": "ATLS e abordagem primária/secundária",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -11738,7 +11738,7 @@
   "pv-rev-2026-1-0032": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Complicações Pós-Operatórias",
+    "sub": "Cirurgia Bariátrica e Metabólica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2026,
@@ -11748,7 +11748,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Trauma",
-    "subsub": "",
+    "subsub": "Trauma abdominal",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -11756,8 +11756,8 @@
   "pv-rev-2026-1-0053": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Vascular",
-    "subsub": "",
+    "sub": "Complicações Pós-Operatórias",
+    "subsub": "Tromboembolismo venoso (TEV)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -11765,8 +11765,8 @@
   "pv-rev-2026-1-0058": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Nutrição em Cirurgia",
-    "subsub": "",
+    "sub": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+    "subsub": "Nutrição parenteral",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -11775,7 +11775,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Hérnias da Parede Abdominal",
-    "subsub": "",
+    "subsub": "Hérnia inguinal",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
