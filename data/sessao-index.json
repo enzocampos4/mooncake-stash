@@ -7788,7 +7788,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "",
+    "subsub": "Farmacodermias",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -7823,8 +7823,8 @@
   "pv-rev-2026-1-0041": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Distúrbios do Sono",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -7841,8 +7841,8 @@
   "pv-rev-2026-1-0043": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "Depressão",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -7851,7 +7851,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Cefaleias",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -7859,8 +7859,8 @@
   "pv-rev-2026-1-0046": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -7868,8 +7868,8 @@
   "pv-rev-2026-1-0048": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
