@@ -8580,7 +8580,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Infecções do Sistema Nervoso Central",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -8588,8 +8588,8 @@
   "pv-rev-2025-2-0073": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -8597,7 +8597,7 @@
   "pv-rev-2025-2-0077": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -8607,7 +8607,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "AVC",
+    "subsub": "Acidentes Vasculares Cerebrais (AVC)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -8616,7 +8616,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "",
+    "subsub": "Icterícia não Obstrutiva",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -8624,8 +8624,8 @@
   "pv-rev-2025-2-0085": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Ortopedia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Neurologia Vestibular",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
