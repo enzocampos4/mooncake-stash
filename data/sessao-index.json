@@ -30566,7 +30566,7 @@
   "pv-rev-2026-1-0007": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Epidemiologia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2026,
@@ -30575,8 +30575,8 @@
   "pv-rev-2026-1-0020": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -30585,7 +30585,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -30594,7 +30594,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -30603,7 +30603,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -30612,7 +30612,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Saúde do Trabalhador",
-    "subsub": "",
+    "subsub": "Comunicação de Acidente de Trabalho (CAT)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -30629,8 +30629,8 @@
   "pv-rev-2026-1-0060": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -30656,8 +30656,8 @@
   "pv-rev-2026-1-0071": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Medicina de Família e Comunidade",
-    "subsub": "",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Regionalização e Rede de Atenção à Saúde (RAS)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -30666,7 +30666,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Medicina de Família e Comunidade",
-    "subsub": "",
+    "subsub": "Acolhimento e classificação de risco",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
