@@ -8093,8 +8093,8 @@
   "pv-rev-2025-1-0016": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -8102,8 +8102,8 @@
   "pv-rev-2025-1-0020": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Disfunção sexual masculina",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -8111,8 +8111,8 @@
   "pv-rev-2025-1-0022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Traumatismo Craniencefálico",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -8120,8 +8120,8 @@
   "pv-rev-2025-1-0023": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Oftalmologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Outras doenças infecciosas",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -8129,8 +8129,8 @@
   "pv-rev-2025-1-0025": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
-    "subsub": "Depressão",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -8139,7 +8139,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"

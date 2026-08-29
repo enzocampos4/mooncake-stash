@@ -24460,8 +24460,8 @@
       "id": "pv-rev-2025-1-0027",
       "numero": 27,
       "area": "Clínica Médica",
-      "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "subarea": "Gastroenterologia",
+      "sub_subarea": "Intestinos",
       "enunciado": "Paciente do sexo masculino, 18 anos, chega ao pronto atendimento com dor abdominal em mesogástrio e epigástrio, de\ninício insidioso e caráter progressivo, associada a náuseas e hiporexia. A evolução do quadro tem cerca de 24 horas. Ao\nexame físico, a dor abdominal é exacerbada pela tosse, há discreta diferença de temperatura entre a região axilar e a retal\n(+1,2 °C), além de dor à palpação profunda em região inferior direita do abdome. Exames laboratoriais mostram leucócitos\n14.000/mm³ com 80% de neutrófilos, além de sumário de urina com 6 piócitos/campo.\nCom base no quadro clínico e laboratorial, qual achado clínico complementa o diagnóstico mais provável?",
       "alternativas": {
         "A": "Dor à punho-percussão na região lombar à direita.",
@@ -24488,8 +24488,8 @@
       "id": "pv-rev-2025-1-0028",
       "numero": 28,
       "area": "Clínica Médica",
-      "subarea": "Infectologia",
-      "sub_subarea": "",
+      "subarea": "Pneumologia",
+      "sub_subarea": "Introdução à Pneumologia",
       "enunciado": "Menino de cinco meses é levado para consulta de rotina. Nasceu com idade gestacional de 28 semanas, com boa evolução\nna internação e recebeu alta para acompanhamento ambulatorial. O bebê está bem, mas teve um episódio de infecção\nrespiratória leve. A família está preocupada com eventuais complicações que o bebê possa ter, uma vez que o inverno está\nchegando e os pais querem proteger a criança.\nNessa situação, a conduta médica mais adequada é indicar a",
       "alternativas": {
         "A": "administração da vacina anti-influenza de imediato e a restrição de visitas.",
@@ -24513,8 +24513,8 @@
       "id": "pv-rev-2025-1-0035",
       "numero": 35,
       "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "",
+      "subarea": "Infectologia",
+      "sub_subarea": "Outras doenças infecciosas",
       "enunciado": "Um médico de família e comunidade, atuante numa equipe fluvial, atende a uma população ribeirinha e a uma população\nindígena, ambas na região amazônica. Ele reconhece que essas duas populações vivem em regiões remotas. No entanto, é\nnotável que elas apresentam diferenças culturais e de modos de vida.\nA partir dessas informações, assinale a alternativa que apresenta a estratégia adequada a ser adotada pelo médico e por sua\nequipe no cuidado à saúde das populações mencionadas.",
       "alternativas": {
         "A": "Utilização de profissionais de saúde nativos ou locais sem a necessidade de capacitação específica focada no\nparadigma biomédico, uma vez que eles já conhecem profundamente a cultura, as tradições e os hábitos dessas\npopulações.",
@@ -24539,7 +24539,7 @@
       "numero": 36,
       "area": "Clínica Médica",
       "subarea": "Infectologia",
-      "sub_subarea": "Meningite",
+      "sub_subarea": "Influenza",
       "enunciado": "Mulher de 45 anos foi levada para consulta na casa de saúde indígena da capital do estado, com febre (até 39°C), tosse, dor\nde garganta, cefaleia, mialgia e artralgia iniciados há cerca de 36 horas. Outros 5 pacientes da mesma comunidade indígena\napresentaram quadro semelhante no mesmo período. No dia da consulta, a paciente começou a se queixar de leve falta de\nar. Ao exame físico apresentava parâmetros dentro da normalidade, exceto pela febre (39 °C) e por estertores crepitantes na\nbase pulmonar direita. Frequência respiratória de 22 irpm e pressão arterial é de 120 x 80 mmHg.\nConsiderando o caso apresentado, assinale a alternativa que indica, respectivamente, a hipótese diagnóstica e a conduta\nmais adequada.",
       "alternativas": {
         "A": "Pneumonia viral; prescrever o uso de oseltamivir.",
@@ -24563,8 +24563,8 @@
       "id": "pv-rev-2025-1-0037",
       "numero": 37,
       "area": "Clínica Médica",
-      "subarea": "Nefrologia",
-      "sub_subarea": "",
+      "subarea": "Neurologia",
+      "sub_subarea": "Coma e Alterações da Consciência",
       "enunciado": "Mulher de 24 anos, previamente saudável, portadora de rim único, sofreu um acidente motociclístico há 7 dias. Foi levada a\num hospital, onde foi submetida a craniectomia descompressiva e drenagem de hematoma subdural agudo. No entanto, há 1\ndia, evoluiu com coma aperceptivo e ausência de reflexos de tronco encefálico. Diante disso, foi realizado o protocolo de\nmorte encefálica, com confirmação diagnóstica. Testes laboratoriais mostraram função renal preservada, anti-HBs positivo e\nHBsAg negativo. Embora a paciente seja doadora de órgãos e tecidos, seu esposo se posiciona contra a doação, afirmando\nque isso interferirá em suas crenças. Com base na legislação pertinente, assinale a alternativa correta quanto à doação de\nórgãos nessa situação.",
       "alternativas": {
         "A": "A condição renal da paciente, embora seja saudável, contraindica a doação de órgãos.",
@@ -24589,7 +24589,7 @@
       "numero": 43,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
-      "sub_subarea": "",
+      "sub_subarea": "Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo",
       "enunciado": "Adolescente de 15 anos com fibrose cística comparece ao pronto-socorro com aumento da tosse produtiva, expectoração\npurulenta e febre iniciada há três dias. Ele relata piora da dispneia, e sua mãe, que o acompanha, observa que ele tem tido\nmais dificuldade para realizar suas atividades diárias. Ao exame físico, o paciente apresenta moderado desconforto\nrespiratório, com taquipneia (frequência respiratória de 32 irpm), sibilos bilaterais e diminuição do murmúrio vesicular nas\nbases pulmonares. A saturação de oxigênio em ar ambiente é de 87%. Considerando o quadro clínico apresentado, a\nabordagem inicial é",
       "alternativas": {
         "A": "internar o paciente; iniciar oxigenoterapia e antibioticoterapia de amplo espectro intravenosa; e solicitar cultura de\nescarro.",
