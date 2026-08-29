@@ -24005,8 +24005,8 @@
   "pv-rev-2026-1-0034": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -24015,7 +24015,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -24023,8 +24023,8 @@
   "pv-rev-2026-1-0047": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "Rastreio",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -24033,7 +24033,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "REVALIDA INEP",
     "ano": 2026,
     "fonte": "REVALIDA INEP 2026.1"
@@ -24041,7 +24041,7 @@
   "pv-rev-2026-1-0064": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Doenças associadas à gestação",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2026,
