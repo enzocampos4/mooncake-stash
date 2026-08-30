@@ -22495,14 +22495,14 @@
       "instituicao": "Revalida Nacional - INEP",
       "ano": 2025,
       "dificuldade": "Media",
-      "imagens": [
-        "data/questoes-img/rv2025-1-053_370_952.jpg"
-      ],
       "imagens_explicacao": [
         "data/questoes-img/rv2025-1-053_373_959.jpg"
       ],
       "_id_original": "4000240405",
-      "_pdf": "5. Provas Anteriores Revalida INEP.pdf"
+      "_pdf": "5. Provas Anteriores Revalida INEP.pdf",
+      "imagens_enunciado": [
+        "data/questoes-img/rv2025-1-053_370_952.jpg"
+      ]
     },
     {
       "id": "pv-rev-2025-1-0058",
@@ -22746,14 +22746,14 @@
       "instituicao": "Revalida Nacional - INEP",
       "ano": 2025,
       "dificuldade": "Media",
-      "imagens": [
-        "data/questoes-img/rv2025-1-082_455_1156.jpg"
-      ],
       "imagens_explicacao": [
         "data/questoes-img/rv2025-1-082_456_1159.jpg"
       ],
       "_id_original": "4000240375",
-      "_pdf": "5. Provas Anteriores Revalida INEP.pdf"
+      "_pdf": "5. Provas Anteriores Revalida INEP.pdf",
+      "imagens_enunciado": [
+        "data/questoes-img/rv2025-1-082_455_1156.jpg"
+      ]
     },
     {
       "id": "pv-rev-2025-1-0086",
@@ -23826,14 +23826,14 @@
       "instituicao": "Revalida Nacional - INEP",
       "ano": 2024,
       "dificuldade": "Media",
-      "imagens": [
-        "data/questoes-img/rv2024-2-078_1211_2995.jpg"
-      ],
       "imagens_explicacao": [
         "data/questoes-img/rv2024-2-078_1212_2998.jpg"
       ],
       "_id_original": "4000223954",
-      "_pdf": "5. Provas Anteriores Revalida INEP.pdf"
+      "_pdf": "5. Provas Anteriores Revalida INEP.pdf",
+      "imagens_enunciado": [
+        "data/questoes-img/rv2024-2-078_1211_2995.jpg"
+      ]
     },
     {
       "id": "pv-rev-2024-2-0081",
