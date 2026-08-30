@@ -1,1207 +1,2184 @@
 {
-  "cirurgia": {
-    "nome": "Cirurgia",
-    "total": 450,
-    "subcategorias": {
-      "avaliacao-pre-operatoria": {
-        "nome": "Avaliação Pré-Operatória",
-        "total": 11
-      },
-      "cicatrizacao-de-feridas": {
-        "nome": "Cicatrização de Feridas",
-        "total": 2
-      },
-      "cirurgia-infantil": {
-        "nome": "Cirurgia Infantil",
-        "total": 6
-      },
-      "cirurgia-toracica": {
-        "nome": "Cirurgia Torácica",
-        "total": 19
-      },
-      "cirurgia-de-cabeca-e-pescoco": {
-        "nome": "Cirurgia de Cabeça e Pescoço",
-        "total": 10
-      },
-      "complicacoes-pos-operatorias": {
-        "nome": "Complicações Pós-Operatórias",
-        "total": 22
-      },
-      "hernias-da-parede-abdominal": {
-        "nome": "Hérnias da Parede Abdominal",
-        "total": 32
-      },
-      "megacolon-adquirido": {
-        "nome": "Megacólon Adquirido",
-        "total": 2
-      },
-      "ostomias-intestinais": {
-        "nome": "Ostomias Intestinais",
-        "total": 1
-      },
-      "principios-da-anestesiologia": {
-        "nome": "Princípios da Anestesiologia",
-        "total": 5
-      },
-      "proctologia": {
-        "nome": "Proctologia",
-        "total": 27
-      },
-      "trauma": {
-        "nome": "Trauma",
-        "total": 52
-      },
-      "urgencias-abdominais": {
-        "nome": "Urgências Abdominais",
-        "total": 107
-      },
-      "urologia": {
-        "nome": "Urologia",
-        "total": 14
-      },
-      "vesicula-e-vias-biliares": {
-        "nome": "Vesícula e Vias Biliares",
-        "total": 28
-      },
-      "cirurgia-abdominal": {
-        "nome": "Cirurgia Abdominal",
-        "total": 1
-      },
-      "cirurgia-bariatrica": {
-        "nome": "Cirurgia Bariátrica",
-        "total": 1
-      },
-      "cirurgia-oncologica": {
-        "nome": "Cirurgia Oncológica",
-        "total": 25
-      },
-      "cirurgia-proctologica": {
-        "nome": "Cirurgia Proctológica",
-        "total": 9
-      },
-      "cirurgia-vascular": {
-        "nome": "Cirurgia Vascular",
-        "total": 2
-      },
-      "geral": {
-        "nome": "Geral",
-        "total": 3
-      },
-      "queimaduras": {
-        "nome": "Queimaduras",
-        "total": 1
-      },
-      "trauma-emergencia": {
-        "nome": "Trauma / Emergência",
-        "total": 11
-      },
-      "temas-gerais-em-cirurgia": {
-        "nome": "Temas Gerais em Cirurgia",
-        "total": 78
-      },
-      "cirurgia-bariatrica-e-metabolica": {
-        "nome": "Cirurgia Bariátrica e Metabólica",
-        "total": 10
-      },
-      "queimaduras-e-trauma-eletrico": {
-        "nome": "Queimaduras e Trauma Elétrico",
-        "total": 5
-      },
-      "nutricao-em-cirurgia-e-recuperacao-pos-operatoria": {
-        "nome": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
-        "total": 4
-      },
-      "resposta-endocrino-metabolica-inflamatoria-ao-trauma-remit": {
-        "nome": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
-        "total": 2
-      },
-      "cirurgia-plastica": {
-        "nome": "Cirurgia Plástica",
-        "total": 4
-      },
-      "nutricao-em-cirurgia": {
-        "nome": "Nutrição em Cirurgia",
-        "total": 3
-      }
-    },
-    "subdetalhes": {
-      "avaliacao-pre-operatoria": {
-        "nome": "Avaliação Pré-Operatória",
-        "subcategorias": [
-          "Risco cirúrgico (ASA, Goldman, Lee)",
-          "Exames pré-operatórios",
-          "Jejum e medicação pré-op",
-          "Profilaxia antibiótica e de TEV"
-        ],
-        "total_questoes": 2
-      },
-      "principios-da-anestesiologia": {
-        "nome": "Princípios da Anestesiologia",
-        "subcategorias": [
-          "Anestesia geral",
-          "Anestesia regional",
-          "Bloqueios neuromusculares",
-          "Anestesia local e sedação"
-        ],
-        "total_questoes": 2
-      },
-      "resposta-endocrino-metabolica-inflamatoria-ao-trauma-remit": {
-        "nome": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
-        "subcategorias": [
-          "Fases da resposta metabólica",
-          "Hormônios do estresse",
-          "Balanço nitrogenado"
-        ],
-        "total_questoes": 0
-      },
-      "nutricao-em-cirurgia-e-recuperacao-pos-operatoria": {
-        "nome": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
-        "subcategorias": [
-          "Avaliação nutricional",
-          "Nutrição enteral",
-          "Nutrição parenteral"
-        ],
-        "total_questoes": 0
-      },
-      "complicacoes-pos-operatorias": {
-        "nome": "Complicações Pós-Operatórias",
-        "subcategorias": [
-          "Infecção de sítio cirúrgico",
-          "Deiscência e evisceração",
-          "Tromboembolismo venoso (TEV)",
-          "Complicações respiratórias"
-        ],
-        "total_questoes": 6
-      },
-      "cicatrizacao-de-feridas": {
-        "nome": "Cicatrização de Feridas",
-        "subcategorias": [
-          "Fases da cicatrização",
-          "Cicatrização por 1ª e 2ª intenção",
-          "Queloide e cicatriz hipertrófica"
-        ],
-        "total_questoes": 1
-      },
-      "hernias-da-parede-abdominal": {
-        "nome": "Hérnias da Parede Abdominal",
-        "subcategorias": [
-          "Hérnia inguinal",
-          "Hérnia umbilical",
-          "Hérnia incisional",
-          "Hérnia femoral e outras"
-        ],
-        "total_questoes": 6
-      },
-      "trauma": {
-        "nome": "Trauma",
-        "subcategorias": [
-          "ATLS e abordagem primária/secundária",
-          "Trauma torácico",
-          "Trauma abdominal",
-          "Trauma cranioencefálico (TCE)",
-          "Trauma raquimedular",
-          "Trauma vascular"
-        ],
-        "total_questoes": 25
-      },
-      "queimaduras-e-trauma-eletrico": {
-        "nome": "Queimaduras e Trauma Elétrico",
-        "subcategorias": [
-          "Classificação das queimaduras",
-          "Reposição volêmica (Parkland)",
-          "Queimaduras químicas e elétricas"
-        ],
-        "total_questoes": 0
-      },
-      "urgencias-abdominais": {
-        "nome": "Urgências Abdominais",
-        "subcategorias": [
-          "Apendicite aguda",
-          "Colecistite aguda",
-          "Diverticulite aguda",
-          "Obstrução intestinal",
-          "Abdome agudo perfurativo",
-          "Isquemia mesentérica"
-        ],
-        "total_questoes": 20
-      },
-      "vesicula-e-vias-biliares": {
-        "nome": "Vesícula e Vias Biliares",
-        "subcategorias": [
-          "Colelitíase e colecistite",
-          "Coledocolitíase e colangite",
-          "Coledocolitíase",
-          "Tumores de vias biliares"
-        ],
-        "total_questoes": 7
-      },
-      "proctologia": {
-        "nome": "Proctologia",
-        "subcategorias": [
-          "Hemorroidas",
-          "Fístulas e abscessos anais",
-          "Fissura anal",
-          "Doença diverticular dos cólons (cirúrgica)",
-          "Câncer colorretal (cirurgia)"
-        ],
-        "total_questoes": 4
-      },
-      "cirurgia-infantil": {
-        "nome": "Cirurgia Infantil",
-        "subcategorias": [
-          "Hérnias na criança (inguinal, umbilical)",
-          "Torcicolo congênito",
-          "Estenose hipertrófica de piloro"
-        ],
-        "total_questoes": 1
-      },
-      "urologia": {
-        "nome": "Urologia",
-        "subcategorias": [
-          "Litíase urinária",
-          "Hiperplasia prostática benigna",
-          "Câncer de próstata",
-          "Tumores renais e bexiga"
-        ],
-        "total_questoes": 17
-      },
-      "cirurgia-toracica": {
-        "nome": "Cirurgia Torácica",
-        "subcategorias": [
-          "Derrame pleural (cirúrgico)",
-          "Pneumotórax (cirúrgico)",
-          "Tumores pulmonares"
-        ],
-        "total_questoes": 8
-      }
-    }
+ "cirurgia": {
+  "nome": "Cirurgia",
+  "total": 3307,
+  "subcategorias": {
+   "avaliacao-pre-operatoria": {
+    "nome": "Avaliação Pré-Operatória",
+    "total": 11
+   },
+   "cicatrizacao-de-feridas": {
+    "nome": "Cicatrização de Feridas",
+    "total": 2
+   },
+   "cirurgia-infantil": {
+    "nome": "Cirurgia Infantil",
+    "total": 198
+   },
+   "cirurgia-toracica": {
+    "nome": "Cirurgia Torácica",
+    "total": 19
+   },
+   "cirurgia-de-cabeca-e-pescoco": {
+    "nome": "Cirurgia de Cabeça e Pescoço",
+    "total": 10
+   },
+   "complicacoes-pos-operatorias": {
+    "nome": "Complicações Pós-Operatórias",
+    "total": 22
+   },
+   "hernias-da-parede-abdominal": {
+    "nome": "Hérnias da Parede Abdominal",
+    "total": 32
+   },
+   "megacolon-adquirido": {
+    "nome": "Megacólon Adquirido",
+    "total": 2
+   },
+   "ostomias-intestinais": {
+    "nome": "Ostomias Intestinais",
+    "total": 1
+   },
+   "principios-da-anestesiologia": {
+    "nome": "Princípios da Anestesiologia",
+    "total": 5
+   },
+   "proctologia": {
+    "nome": "Proctologia",
+    "total": 126
+   },
+   "trauma": {
+    "nome": "Trauma",
+    "total": 841
+   },
+   "urgencias-abdominais": {
+    "nome": "Urgências Abdominais",
+    "total": 107
+   },
+   "urologia": {
+    "nome": "Urologia",
+    "total": 120
+   },
+   "vesicula-e-vias-biliares": {
+    "nome": "Vesícula e Vias Biliares",
+    "total": 28
+   },
+   "cirurgia-abdominal": {
+    "nome": "Cirurgia Abdominal",
+    "total": 1
+   },
+   "cirurgia-bariatrica": {
+    "nome": "Cirurgia Bariátrica",
+    "total": 1
+   },
+   "cirurgia-oncologica": {
+    "nome": "Cirurgia Oncológica",
+    "total": 25
+   },
+   "cirurgia-proctologica": {
+    "nome": "Cirurgia Proctológica",
+    "total": 9
+   },
+   "cirurgia-vascular": {
+    "nome": "Cirurgia Vascular",
+    "total": 108
+   },
+   "geral": {
+    "nome": "Geral",
+    "total": 2
+   },
+   "queimaduras": {
+    "nome": "Queimaduras",
+    "total": 1
+   },
+   "trauma-emergencia": {
+    "nome": "Trauma / Emergência",
+    "total": 11
+   },
+   "temas-gerais-em-cirurgia": {
+    "nome": "Temas Gerais em Cirurgia",
+    "total": 80
+   },
+   "cirurgia-bariatrica-e-metabolica": {
+    "nome": "Cirurgia Bariátrica e Metabólica",
+    "total": 10
+   },
+   "queimaduras-e-trauma-eletrico": {
+    "nome": "Queimaduras e Trauma Elétrico",
+    "total": 5
+   },
+   "nutricao-em-cirurgia-e-recuperacao-pos-operatoria": {
+    "nome": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+    "total": 4
+   },
+   "resposta-endocrino-metabolica-inflamatoria-ao-trauma-remit": {
+    "nome": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
+    "total": 2
+   },
+   "cirurgia-plastica": {
+    "nome": "Cirurgia Plástica",
+    "total": 4
+   },
+   "nutricao-em-cirurgia": {
+    "nome": "Nutrição em Cirurgia",
+    "total": 3
+   },
+   "cirurgia-tor-cica": {
+    "nome": "Cirurgia Torácica",
+    "total": 86
+   },
+   "ves-cula-e-vias-biliares": {
+    "nome": "Vesícula e Vias Biliares",
+    "total": 226
+   },
+   "urg-ncias-abdominais": {
+    "nome": "Urgências Abdominais",
+    "total": 890
+   },
+   "cirurgia-bari-trica-e-metab-lica": {
+    "nome": "Cirurgia Bariátrica e Metabólica",
+    "total": 11
+   },
+   "avalia-o-pr-operat-ria": {
+    "nome": "Avaliação Pré-Operatória",
+    "total": 12
+   },
+   "complica-es-p-s-operat-rias": {
+    "nome": "Complicações Pós-Operatórias",
+    "total": 125
+   },
+   "h-rnias-da-parede-abdominal": {
+    "nome": "Hérnias da Parede Abdominal",
+    "total": 146
+   },
+   "cirurgia-de-cabe-a-e-pesco-o": {
+    "nome": "Cirurgia de Cabeça e Pescoço",
+    "total": 10
+   },
+   "queimaduras-e-trauma-el-trico": {
+    "nome": "Queimaduras e Trauma Elétrico",
+    "total": 5
+   },
+   "nutri-o-em-cirurgia-e-recupera-o-p-s-operat-ria": {
+    "nome": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+    "total": 102
+   },
+   "cicatriza-o-de-feridas": {
+    "nome": "Cicatrização de Feridas",
+    "total": 108
+   },
+   "resposta-end-crino-metab-lica-inflamat-ria-ao-trauma-remit": {
+    "nome": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
+    "total": 2
+   },
+   "princ-pios-da-anestesiologia": {
+    "nome": "Princípios da Anestesiologia",
+    "total": 5
+   },
+   "cirurgia-pl-stica": {
+    "nome": "Cirurgia Plástica",
+    "total": 99
+   },
+   "nutri-o-em-cirurgia": {
+    "nome": "Nutrição em Cirurgia",
+    "total": 2
+   }
   },
-  "clinica-medica": {
-    "nome": "Clínica Médica",
-    "total": 3062,
-    "subcategorias": {
-      "cardiologia": {
-        "nome": "Cardiologia",
-        "total": 2092
-      },
-      "dermatologia": {
-        "nome": "Dermatologia",
-        "total": 39
-      },
-      "endocrinologia": {
-        "nome": "Endocrinologia",
-        "total": 134
-      },
-      "gastroenterologia": {
-        "nome": "Gastroenterologia",
-        "total": 106
-      },
-      "hematologia": {
-        "nome": "Hematologia",
-        "total": 39
-      },
-      "hepatologia": {
-        "nome": "Hepatologia",
-        "total": 59
-      },
-      "infectologia": {
-        "nome": "Infectologia",
-        "total": 214
-      },
-      "nefrologia": {
-        "nome": "Nefrologia",
-        "total": 81
-      },
-      "neurologia": {
-        "nome": "Neurologia",
-        "total": 123
-      },
-      "pneumologia": {
-        "nome": "Pneumologia",
-        "total": 71
-      },
-      "reumatologia": {
-        "nome": "Reumatologia",
-        "total": 38
-      },
-      "pneumologia-intensiva": {
-        "nome": "Pneumologia Intensiva",
-        "total": 12
-      },
-      "via-aerea-intubacao": {
-        "nome": "Via aérea / Intubação",
-        "total": 12
-      },
-      "emergencias-uti": {
-        "nome": "Emergências / UTI",
-        "total": 15
-      },
-      "geral": {
-        "nome": "Geral",
-        "total": 22
-      },
-      "ortopedia": {
-        "nome": "Ortopedia",
-        "total": 7
-      },
-      "psiquiatria": {
-        "nome": "Psiquiatria",
-        "total": 16
-      },
-      "otorrinolaringologia": {
-        "nome": "Otorrinolaringologia",
-        "total": 4
-      },
-      "oftalmologia": {
-        "nome": "Oftalmologia",
-        "total": 2
-      }
-    },
-    "subdetalhes": {
-      "cardiologia": {
-        "nome": "Cardiologia",
-        "subcategorias": [
-          "Hipertensão Arterial Sistêmica (HAS)",
-          "Insuficiência Cardíaca",
-          "Aterosclerose e Doença Arterial Coronariana",
-          "Valvopatias",
-          "Arritmias Cardíacas",
-          "Fisiologia Cardíaca e Eletrocardiograma",
-          "Síndromes aórticas agudas",
-          "Doenças do pericárdio",
-          "Choque",
-          "Cardiomiopatias",
-          "Bradiarritmias",
-          "Dislipidemia e Estratificação de Risco Cardiovascular",
-          "Eletrocardiograma",
-          "Fibrilação e Flutter Atrial",
-          "Hipertensão Arterial Sistêmica (Parte 1)",
-          "Hipertensão Arterial Sistêmica (Parte 2)- Tratamento",
-          "Hipertensão Arterial Sistêmica (Parte 3)- Secundária e Crise Hipertensiva",
-          "IAMCSSST (Infarto Agudo do Miocárdio com Supradesnivelamento de Segmento ST)",
-          "Insuficiência Cardíaca (Parte 2)- Tratamento",
-          "Insuficiência Cardíaca Aguda",
-          "Parada Cardiorrespiratória (PCR)",
-          "Pericardiopatias",
-          "SCASSST - Síndrome Coronária Aguda Sem Supra do Segmento ST",
-          "Semiologia Cardíaca",
-          "Síncope",
-          "Síndrome Coronariana Crônica",
-          "Síndromes Aórticas Agudas",
-          "Taquiarritmias"
-        ],
-        "total_questoes": 2092
-      },
-      "dermatologia": {
-        "nome": "Dermatologia",
-        "subcategorias": [
-          "Anatomia e fisiologia da pele",
-          "Lesões elementares",
-          "Dermatoses papuloescamosas",
-          "Dermatoses eczematosas",
-          "Dermatoses vesicobolhosas",
-          "Hanseníase",
-          "Dermatoses infecciosas",
-          "Farmacodermias",
-          "Câncer de pele",
-          "Miscelânea",
-          "R+ e Prova de Título"
-        ],
-        "total_questoes": 15
-      },
-      "endocrinologia": {
-        "nome": "Endocrinologia",
-        "subcategorias": [
-          "Diabetes",
-          "Tireoide",
-          "Metabolismo Ósseo e Mineral",
-          "Adrenal",
-          "Obesidade e síndrome metabólica",
-          "Hipófise",
-          "Neoplasias endócrinas múltiplas",
-          "Gênero",
-          "Disfunção sexual masculina",
-          "Tireotoxicose",
-          "Hipoglicemia em indivíduos não diabéticos"
-        ],
-        "total_questoes": 7
-      },
-      "gastroenterologia": {
-        "nome": "Gastroenterologia",
-        "subcategorias": [
-          "Esôfago",
-          "Estômago",
-          "Pâncreas",
-          "Intestinos",
-          "Hemorragia Digestiva (HD)",
-          "Neoplasias do Sistema Digestivo",
-          "Procedimentos endoscópicos"
-        ],
-        "total_questoes": 6
-      },
-      "hepatologia": {
-        "nome": "Hepatologia",
-        "subcategorias": [
-          "Introdução à Hepatologia",
-          "Icterícia não Obstrutiva",
-          "Hepatites Virais",
-          "Cirrose",
-          "Outras Hepatopatias",
-          "Complicações da Insuficiência Hepática",
-          "Tumores Hepáticos",
-          "Transplante Hepático e Hepatectomia",
-          "Hepatite Fulminante (Insuficiência Hepática Aguda)"
-        ],
-        "total_questoes": 4
-      },
-      "hematologia": {
-        "nome": "Hematologia",
-        "subcategorias": [
-          "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
-          "Introdução ao Estudo das Anemias",
-          "Anemias microcíticas",
-          "Hemoglobinopatias",
-          "Anemias macrocíticas",
-          "Anemias hemolíticas",
-          "Anemias e condições não hematológicas",
-          "Porfirias",
-          "Fundamentos de oncohematologia",
-          "Leucemias",
-          "Mielodisplasias e mieloproliferações: outras alterações da medula óssea",
-          "Linfomas",
-          "Linfomas de células T/NK",
-          "Gamopatias monoclonais",
-          "Hemostasia",
-          "Medicina transfusional"
-        ],
-        "total_questoes": 16
-      },
-      "infectologia": {
-        "nome": "Infectologia",
-        "subcategorias": [
-          "Microbiologia e Antimicrobianos",
-          "Tuberculose (TB)",
-          "Síndromes febris",
-          "HIV/Aids",
-          "Infecções bacterianas",
-          "Arboviroses",
-          "Pneumonia",
-          "Animais peçonhentos",
-          "Infecções relacionadas à assistência à saúde (IRAS)",
-          "Sepse",
-          "Infecções fúngicas",
-          "Vacinas",
-          "Infecções do Sistema Nervoso Central",
-          "Outras doenças infecciosas",
-          "Hepatoesplenomegalias crônicas",
-          "Influenza",
-          "Herpes simples e Herpes zoster",
-          "Imunossuprimidos não-HIV",
-          "Infecções sexualmente transmissíveis",
-          "Parasitoses",
-          "COVID 19",
-          "DST"
-        ],
-        "total_questoes": 7
-      },
-      "nefrologia": {
-        "nome": "Nefrologia",
-        "subcategorias": [
-          "Doença Renal Crônica",
-          "Lesão renal aguda (LRA)",
-          "Túbulo-Interstício",
-          "Infecção do trato urinário (ITU)",
-          "Controle da água corporal total",
-          "Hiponatremia",
-          "Hipernatremia",
-          "Distúrbios do potássio",
-          "Distúrbios do equilíbrio acidobásico (DHE)",
-          "Nefrolitíase",
-          "Glomerulopatias"
-        ],
-        "total_questoes": 28
-      },
-      "neurologia": {
-        "nome": "Neurologia",
-        "subcategorias": [
-          "Anatomia, Fisiologia e Semiologia Neurológica",
-          "Coma e Alterações da Consciência",
-          "Cefaleias",
-          "Demências",
-          "Epilepsias",
-          "Distúrbios do Movimento",
-          "Doenças Neuromusculares",
-          "Acidentes Vasculares Cerebrais (AVC)",
-          "Distúrbios do Sono",
-          "Mielopatias",
-          "Doenças Imunológicas do Sistema Nervoso Central",
-          "Tumores do Sistema Nervoso Central",
-          "Traumatismo Craniencefálico",
-          "Neurologia Vestibular"
-        ],
-        "total_questoes": 1
-      },
-      "pneumologia": {
-        "nome": "Pneumologia",
-        "subcategorias": [
-          "Derrame Pleural",
-          "Pneumologia Intensiva",
-          "Doença Pulmonar Obstrutiva Crônica (DPOC)",
-          "Asma",
-          "Tromboembolismo Pulmonar (TEP)",
-          "Introdução à Pneumologia",
-          "Câncer de Pulmão",
-          "Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo"
-        ],
-        "total_questoes": 8
-      },
-      "reumatologia": {
-        "nome": "Reumatologia",
-        "subcategorias": [
-          "Introdução à Reumatologia",
-          "Diagnóstico diferencial das artropatias",
-          "Artropatias inflamatórias",
-          "Artropatias infecciosas",
-          "Doenças autoimunes do tecido conjuntivo",
-          "Vasculites",
-          "Doenças da cartilagem e do osso",
-          "Doenças da infância",
-          "Síndromes Dolorosas Crônicas",
-          "Doenças sistêmicas com manifestações reumatológicas",
-          "Sarcoidose",
-          "Amiloidose",
-          "Doença relacionada à IgG4",
-          "Síndrome SAPHO"
-        ],
-        "total_questoes": 3
-      }
-    }
-  },
-  "ginecologia": {
-    "nome": "Ginecologia",
-    "total": 311,
-    "subcategorias": {
-      "ginecologia-basica": {
-        "nome": "Ginecologia básica",
-        "total": 12
-      },
-      "ginecologia-endocrina": {
-        "nome": "Ginecologia endócrina",
-        "total": 32
-      },
-      "ginecologia-geral": {
-        "nome": "Ginecologia geral",
-        "total": 36
-      },
-      "infeccoes-em-ginecologia": {
-        "nome": "Infecções em ginecologia",
-        "total": 39
-      },
-      "mastologia": {
-        "nome": "Mastologia",
-        "total": 27
-      },
-      "oncologia-ginecologica": {
-        "nome": "Oncologia ginecológica",
-        "total": 3
-      },
-      "sexualidade": {
-        "nome": "Sexualidade",
-        "total": 36
-      },
-      "uroginecologia": {
-        "nome": "Uroginecologia",
-        "total": 4
-      },
-      "planejamento-familiar": {
-        "nome": "Planejamento familiar",
-        "total": 5
-      },
-      "geral": {
-        "nome": "Geral",
-        "total": 2
-      },
-      "parto-puerperio": {
-        "nome": "Parto / Puerpério",
-        "total": 4
-      },
-      "pre-natal": {
-        "nome": "Pré-natal",
-        "total": 52
-      },
-      "reproducao-climaterio": {
-        "nome": "Reprodução / Climatério",
-        "total": 10
-      }
-    },
-    "subdetalhes": {
-      "ginecologia-basica": {
-        "nome": "Ginecologia básica",
-        "subcategorias": [
-          "Anatomia ginecológica",
-          "Semiologia ginecológica (exame especular, toque, PN)",
-          "Exames complementares (USG, histerossalpingografia)"
-        ],
-        "total_questoes": 2
-      },
-      "ginecologia-geral": {
-        "nome": "Ginecologia geral",
-        "subcategorias": [
-          "Ciclo menstrual",
-          "Sangramento uterino anormal (SUA)",
-          "Dismenorreia e síndrome pré-menstrual",
-          "Climatério e menopausa"
-        ],
-        "total_questoes": 2
-      },
-      "ginecologia-endocrina": {
-        "nome": "Ginecologia endócrina",
-        "subcategorias": [
-          "Síndrome dos Ovários Policísticos (SOP)",
-          "Endometriose",
-          "Infertilidade conjugal",
-          "Amenorreia",
-          "Hiperprolactinemia"
-        ],
-        "total_questoes": 9
-      },
-      "infeccoes-em-ginecologia": {
-        "nome": "Infecções em ginecologia",
-        "subcategorias": [
-          "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
-          "Doença Inflamatória Pélvica (DIP)",
-          "Infecções sexualmente transmissíveis (IST)",
-          "Cancro mole, sífilis, gonorreia"
-        ],
-        "total_questoes": 8
-      },
-      "oncologia-ginecologica": {
-        "nome": "Oncologia ginecológica",
-        "subcategorias": [
-          "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
-          "Câncer de endométrio",
-          "Câncer de ovário",
-          "Neoplasia intraepitelial cervical (NIC)",
-          "Tumores trofoblásticos gestacionais"
-        ],
-        "total_questoes": 27
-      },
-      "mastologia": {
-        "nome": "Mastologia",
-        "subcategorias": [
-          "Exame das mamas e rastreio (USG, mamografia)",
-          "Nódulos mamários benignos (fibroadenoma, cistos)",
-          "Câncer de mama",
-          "Mastites e abscesso mamário",
-          "Ginecomastia"
-        ],
-        "total_questoes": 7
-      },
-      "uroginecologia": {
-        "nome": "Uroginecologia",
-        "subcategorias": [
-          "Incontinência urinária (IU)",
-          "Prolapso de órgãos pélvicos (POP)",
-          "Fístulas genitais"
-        ],
-        "total_questoes": 1
-      },
-      "sexualidade": {
-        "nome": "Sexualidade",
-        "subcategorias": [
-          "Disfunções sexuais femininas",
-          "Anticoncepção (métodos hormonais, DIU, barreira)",
-          "Contracepção de emergência"
-        ],
-        "total_questoes": 2
-      },
-      "planejamento-familiar": {
-        "nome": "Planejamento familiar",
-        "subcategorias": [
-          "Anticoncepção",
-          "Métodos contraceptivos",
-          "Contracepção de emergência",
-          "Critérios de elegibilidade OMS",
-          "Métodos irreversíveis"
-        ],
-        "total_questoes": 5
-      }
-    }
-  },
-  "obstetricia": {
-    "nome": "Obstetrícia",
-    "total": 305,
-    "subcategorias": {
-      "doencas-associadas-a-gestacao": {
-        "nome": "Doenças associadas à gestação",
-        "total": 71
-      },
-      "medicina-fetal": {
-        "nome": "Medicina fetal",
-        "total": 20
-      },
-      "parto": {
-        "nome": "Parto",
-        "total": 71
-      },
-      "pre-natal": {
-        "nome": "Pré-natal",
-        "total": 48
-      },
-      "puerperio": {
-        "nome": "Puerpério",
-        "total": 29
-      },
-      "geral": {
-        "nome": "Geral",
-        "total": 9
-      },
-      "gestacao-de-alto-risco": {
-        "nome": "Gestação de Alto Risco",
-        "total": 2
-      },
-      "intercorrencias-obstetricas": {
-        "nome": "Intercorrências obstétricas",
-        "total": 9
-      },
-      "intercorrencias-obstetricas-obstetricia-patologica": {
-        "nome": "Intercorrências obstétricas /obstetrícia patológica",
-        "total": 40
-      },
-      "obstetricia-fisiologica": {
-        "nome": "Obstetrícia fisiológica",
-        "total": 6
-      }
-    },
-    "subdetalhes": {
-      "obstetricia-fisiologica": {
-        "nome": "Obstetrícia fisiológica",
-        "subcategorias": [
-          "Fisiologia da gestação",
-          "Diagnóstico de gravidez",
-          "Modificações do organismo materno"
-        ],
-        "total_questoes": 0
-      },
-      "pre-natal": {
-        "nome": "Pré-natal",
-        "subcategorias": [
-          "Consultas e exames de pré-natal",
-          "Imunização na gestação",
-          "Nutrição e suplementação",
-          "Rastreio de aneuploidias e malformações"
-        ],
-        "total_questoes": 13
-      },
-      "parto": {
-        "nome": "Parto",
-        "subcategorias": [
-          "Mecanismo do parto",
-          "Indução e condução do trabalho de parto",
-          "Via de parto (normal vs cesárea)",
-          "Distócias",
-          "Parto instrumental"
-        ],
-        "total_questoes": 29
-      },
-      "puerperio": {
-        "nome": "Puerpério",
-        "subcategorias": [
-          "Puerpério normal",
-          "Complicações puerperais (hemorragia, infecção, depressão)",
-          "Aleitamento materno"
-        ],
-        "total_questoes": 2
-      },
-      "intercorrencias-obstetricas-obstetricia-patologica": {
-        "nome": "Intercorrências obstétricas / obstetrícia patológica",
-        "subcategorias": [
-          "Abortamento",
-          "Gestação ectópica",
-          "Doença trofoblástica gestacional",
-          "Restrição de crescimento intrauterino (RCIU)",
-          "Trabalho de parto prematuro (TPP)",
-          "Rotura prematura de membranas (RPM)",
-          "Placenta prévia e descolamento"
-        ],
-        "total_questoes": 0
-      },
-      "doencas-associadas-a-gestacao": {
-        "nome": "Doenças associadas à gestação",
-        "subcategorias": [
-          "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
-          "Diabetes mellitus gestacional",
-          "Infecções na gestação (TORCH, HIV, sífilis)",
-          "Cardiopatia na gestação",
-          "Tromboembolismo na gestação"
-        ],
-        "total_questoes": 5
-      },
-      "medicina-fetal": {
-        "nome": "Medicina fetal",
-        "subcategorias": [
-          "Avaliação de vitalidade fetal",
-          "Cardiotocografia",
-          "Doppler obstétrico",
-          "Isoimunização Rh"
-        ],
-        "total_questoes": 1
-      }
-    }
-  },
-  "medicina-preventiva": {
-    "nome": "Medicina Preventiva",
-    "total": 803,
-    "subcategorias": {
-      "epidemiologia": {
-        "nome": "Epidemiologia",
-        "total": 247
-      },
-      "medicina-de-familia-e-comunidade": {
-        "nome": "Medicina de Família e Comunidade",
-        "total": 335
-      },
-      "saude-do-trabalhador": {
-        "nome": "Saúde do Trabalhador",
-        "total": 34
-      },
-      "sistema-unico-de-saude-sus": {
-        "nome": "Sistema Único de Saúde (SUS)",
-        "total": 102
-      },
-      "etica-medica": {
-        "nome": "Ética Médica",
-        "total": 34
-      },
-      "geral": {
-        "nome": "Geral",
-        "total": 35
-      },
-      "politicas-publicas": {
-        "nome": "Políticas Públicas",
-        "total": 10
-      },
-      "prevencao-rastreio": {
-        "nome": "Prevenção / Rastreio",
-        "total": 2
-      },
-      "saude-coletiva-sus": {
-        "nome": "Saúde Coletiva / SUS",
-        "total": 14
-      },
-      "saude-da-familia": {
-        "nome": "Saúde da Família",
-        "total": 3
-      },
-      "telemedicina-inovacao": {
-        "nome": "Telemedicina / Inovação",
-        "total": 1
-      }
-    },
-    "subdetalhes": {
-      "sistema-unico-de-saude-sus": {
-        "nome": "Sistema Único de Saúde (SUS)",
-        "subcategorias": [
-          "Princípios e diretrizes do SUS",
-          "Lei 8.080/90 e 8.142/90",
-          "Financiamento e pactuação (NOB, NOAS)",
-          "Níveis de atenção (primária, secundária, terciária)",
-          "Regionalização e Rede de Atenção à Saúde (RAS)",
-          "Controle social e participação popular"
-        ],
-        "total_questoes": 38
-      },
-      "medicina-de-familia-e-comunidade": {
-        "nome": "Medicina de Família e Comunidade",
-        "subcategorias": [
-          "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
-          "Estratégia Saúde da Família (ESF) e NASF",
-          "Territorialização e adscrição de clientela",
-          "Puericultura e acompanhamento do crescimento",
-          "Programas de saúde (hipertenso, diabético, criança, mulher)",
-          "Acolhimento e classificação de risco"
-        ],
-        "total_questoes": 13
-      },
-      "epidemiologia": {
-        "nome": "Epidemiologia",
-        "subcategorias": [
-          "Medidas de frequência (incidência, prevalência)",
-          "Medidas de associação (RR, OR, RAR)",
-          "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
-          "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
-          "Viés e confundimento",
-          "Curvas ROC e razão de verossimilhança"
-        ],
-        "total_questoes": 51
-      },
-      "etica-medica": {
-        "nome": "Ética Médica",
-        "subcategorias": [
-          "Código de Ética Médica (sigilo, consentimento, autonomia)",
-          "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
-          "Prontuário médico e atestados",
-          "Termo de Consentimento Livre e Esclarecido (TCLE)",
-          "Direitos do paciente"
-        ],
-        "total_questoes": 3
-      },
-      "saude-do-trabalhador": {
-        "nome": "Saúde do Trabalhador",
-        "subcategorias": [
-          "Doenças ocupacionais (LER/DORT, perda auditiva, pneumoconioses)",
-          "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
-          "Exames admissionais, periódicos e demissionais (PCMSO, PPRA)",
-          "Comunicação de Acidente de Trabalho (CAT)",
-          "Afastamento e perícia"
-        ],
-        "total_questoes": 3
-      }
-    }
-  },
-  "pediatria": {
-    "nome": "Pediatria",
-    "total": 876,
-    "subcategorias": {
-      "cardiologia-pediatrica": {
-        "nome": "Cardiologia Pediátrica",
-        "total": 20
-      },
-      "emergencias-pediatricas": {
-        "nome": "Emergências Pediátricas",
-        "total": 36
-      },
-      "gastrologia-pediatrica": {
-        "nome": "Gastrologia Pediátrica",
-        "total": 61
-      },
-      "hematologia-pediatrica": {
-        "nome": "Hematologia Pediátrica",
-        "total": 30
-      },
-      "infectologia-pediatrica": {
-        "nome": "Infectologia Pediátrica",
-        "total": 123
-      },
-      "nefrologia-pediatrica": {
-        "nome": "Nefrologia Pediátrica",
-        "total": 14
-      },
-      "neonatologia": {
-        "nome": "Neonatologia",
-        "total": 76
-      },
-      "pneumologia-pediatrica": {
-        "nome": "Pneumologia Pediátrica",
-        "total": 58
-      },
-      "puericultura": {
-        "nome": "Puericultura",
-        "total": 117
-      },
-      "reumatologia-pediatrica": {
-        "nome": "Reumatologia Pediátrica",
-        "total": 19
-      },
-      "cardiopatia-congenita": {
-        "nome": "Cardiopatia Congênita",
-        "total": 6
-      },
-      "gastroenterologia-pediatrica": {
-        "nome": "Gastroenterologia Pediátrica",
-        "total": 18
-      },
-      "geral": {
-        "nome": "Geral",
-        "total": 14
-      },
-      "maus-tratos": {
-        "nome": "Maus tratos",
-        "total": 1
-      },
-      "outros": {
-        "nome": "Outros",
-        "total": 219
-      },
-      "maus-tratos-a-criancas-e-adolescentes": {
-        "nome": "Maus tratos à crianças e adolescentes",
-        "total": 7
-      },
-      "endocrinologia-pediatrica": {
-        "nome": "Endocrinologia pediátrica",
-        "total": 33
-      },
-      "neuropediatria": {
-        "nome": "Neuropediatria",
-        "total": 49
-      }
-    },
-    "subdetalhes": {
-      "puericultura": {
-        "nome": "Puericultura",
-        "subcategorias": [
-          "Crescimento e desenvolvimento",
-          "Aleitamento materno e artificial",
-          "Imunização (calendário vacinal)",
-          "Alimentação complementar",
-          "Exames de triagem neonatal"
-        ],
-        "total_questoes": 34
-      },
-      "pneumologia-pediatrica": {
-        "nome": "Pneumologia Pediátrica",
-        "subcategorias": [
-          "Bronquiolite aguda",
-          "Asma na criança",
-          "Pneumonia na criança",
-          "Tuberculose infantil"
-        ],
-        "total_questoes": 7
-      },
-      "infectologia-pediatrica": {
-        "nome": "Infectologia Pediátrica",
-        "subcategorias": [
-          "Doenças exantemáticas",
-          "Meningites na criança",
-          "Sepse neonatal e pediátrica",
-          "HIV pediátrico",
-          "Parasitoses na criança"
-        ],
-        "total_questoes": 8
-      },
-      "cardiologia-pediatrica": {
-        "nome": "Cardiologia Pediátrica",
-        "subcategorias": [
-          "Cardiopatias congênitas cianóticas",
-          "Cardiopatias congênitas acianóticas",
-          "Insuficiência cardíaca na criança",
-          "Arritmias na criança"
-        ],
-        "total_questoes": 18
-      },
-      "gastrologia-pediatrica": {
-        "nome": "Gastrologia Pediátrica",
-        "subcategorias": [
-          "Desnutrição e má progressão ponderal",
-          "Diarreia aguda e crônica",
-          "Refluxo gastroesofágico",
-          "Dor abdominal recorrente"
-        ],
-        "total_questoes": 3
-      },
-      "hematologia-pediatrica": {
-        "nome": "Hematologia Pediátrica",
-        "subcategorias": [
-          "Anemias na criança (ferropriva, falciforme)",
-          "Leucemias e linfomas pediátricos",
-          "Púrpura e trombocitopenia"
-        ],
-        "total_questoes": 4
-      },
-      "nefrologia-pediatrica": {
-        "nome": "Nefrologia Pediátrica",
-        "subcategorias": [
-          "Infecção urinária na criança",
-          "Síndrome nefrótica na criança",
-          "Síndrome nefrítica na criança",
-          "Insuficiência renal aguda na criança"
-        ],
-        "total_questoes": 1
-      },
-      "neuropediatria": {
-        "nome": "Neuropediatria",
-        "subcategorias": [
-          "Convulsão febril e epilepsia",
-          "Paralisia cerebral",
-          "TDAH",
-          "Cefaleia na criança",
-          "Atraso do desenvolvimento neuropsicomotor (DNPM)"
-        ],
-        "total_questoes": 0
-      },
-      "reumatologia-pediatrica": {
-        "nome": "Reumatologia Pediátrica",
-        "subcategorias": [
-          "Febre reumática",
-          "Artrite idiopática juvenil (AIJ)",
-          "Vasculites (Kawasaki, HSP)",
-          "Lúpus eritematoso sistêmico juvenil"
-        ],
-        "total_questoes": 2
-      },
-      "endocrinologia-pediatrica": {
-        "nome": "Endocrinologia Pediátrica",
-        "subcategorias": [
-          "Hipotireoidismo congênito",
-          "Diabetes mellitus tipo 1",
-          "Puberdade precoce e atrasada",
-          "Obesidade infantil",
-          "Baixa estatura"
-        ],
-        "total_questoes": 0
-      },
-      "emergencias-pediatricas": {
-        "nome": "Emergências Pediátricas",
-        "subcategorias": [
-          "Parada cardiorrespiratória pediátrica (PALS)",
-          "Choque na criança",
-          "Intoxicações exógenas",
-          "Queimaduras na criança",
-          "Crise asmática grave"
-        ],
-        "total_questoes": 1
-      },
-      "neonatologia": {
-        "nome": "Neonatologia",
-        "subcategorias": [
-          "Reanimação neonatal",
-          "Prematuridade e baixo peso",
-          "Icterícia neonatal",
-          "Sepse neonatal",
-          "Distúrbios respiratórios do RN (SDR, SAM)",
-          "Incompatibilidade Rh/ABO"
-        ],
-        "total_questoes": 12
-      },
-      "maus-tratos-a-criancas-e-adolescentes": {
-        "nome": "Maus tratos à crianças e adolescentes",
-        "subcategorias": [
-          "Sinais de alerta e notificação compulsória",
-          "Violência física, sexual e psicológica",
-          "Negligência"
-        ],
-        "total_questoes": 0
-      }
-    }
-  },
-  "oftalmologia": {
-    "nome": "Oftalmologia",
-    "total": 0,
-    "subcategorias": {},
-    "subdetalhes": {}
-  },
-  "ortopedia": {
-    "nome": "Ortopedia",
-    "total": 0,
-    "subcategorias": {},
-    "subdetalhes": {}
-  },
-  "otorrino": {
-    "nome": "Otorrinolaringologia",
-    "total": 0,
-    "subcategorias": {},
-    "subdetalhes": {}
-  },
-  "psiquiatria": {
-    "nome": "Psiquiatria",
-    "total": 0,
-    "subcategorias": {},
-    "subdetalhes": {}
-  },
-  "medicina-legal": {
-    "nome": "Medicina Legal",
-    "total": 0,
-    "subcategorias": {},
-    "subdetalhes": {}
+  "subdetalhes": {
+   "avaliacao-pre-operatoria": {
+    "nome": "Avaliação Pré-Operatória",
+    "subcategorias": [
+     "Risco cirúrgico (ASA, Goldman, Lee)",
+     "Exames pré-operatórios",
+     "Jejum e medicação pré-op",
+     "Profilaxia antibiótica e de TEV"
+    ],
+    "total_questoes": 2
+   },
+   "principios-da-anestesiologia": {
+    "nome": "Princípios da Anestesiologia",
+    "subcategorias": [
+     "Anestesia geral",
+     "Anestesia regional",
+     "Bloqueios neuromusculares",
+     "Anestesia local e sedação"
+    ],
+    "total_questoes": 2
+   },
+   "resposta-endocrino-metabolica-inflamatoria-ao-trauma-remit": {
+    "nome": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
+    "subcategorias": [
+     "Fases da resposta metabólica",
+     "Hormônios do estresse",
+     "Balanço nitrogenado"
+    ],
+    "total_questoes": 0
+   },
+   "nutricao-em-cirurgia-e-recuperacao-pos-operatoria": {
+    "nome": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+    "subcategorias": [
+     "Avaliação nutricional",
+     "Nutrição enteral",
+     "Nutrição parenteral"
+    ],
+    "total_questoes": 0
+   },
+   "complicacoes-pos-operatorias": {
+    "nome": "Complicações Pós-Operatórias",
+    "subcategorias": [
+     "Infecção de sítio cirúrgico",
+     "Deiscência e evisceração",
+     "Tromboembolismo venoso (TEV)",
+     "Complicações respiratórias"
+    ],
+    "total_questoes": 6
+   },
+   "cicatrizacao-de-feridas": {
+    "nome": "Cicatrização de Feridas",
+    "subcategorias": [
+     "Fases da cicatrização",
+     "Cicatrização por 1ª e 2ª intenção",
+     "Queloide e cicatriz hipertrófica"
+    ],
+    "total_questoes": 1
+   },
+   "hernias-da-parede-abdominal": {
+    "nome": "Hérnias da Parede Abdominal",
+    "subcategorias": [
+     "Hérnia inguinal",
+     "Hérnia umbilical",
+     "Hérnia incisional",
+     "Hérnia femoral e outras"
+    ],
+    "total_questoes": 6
+   },
+   "trauma": {
+    "nome": "Trauma",
+    "subcategorias": [
+     "ATLS e abordagem primária/secundária",
+     "Trauma torácico",
+     "Trauma abdominal",
+     "Trauma cranioencefálico (TCE)",
+     "Trauma raquimedular",
+     "Trauma vascular",
+     "Queimaduras e Trauma Elétrico",
+     "Resposta Endócrino-Metabólica ao Trauma",
+     "Trauma - Choque",
+     "Trauma Abdominal e Pélvico",
+     "Trauma Populações Especiais (Pediátrico, Gestante e Idosos)",
+     "Trauma Vascular de Extremidades e Musculoesquelético",
+     "Trauma de Face e Cervical",
+     "Trauma- Avaliação Inicial, Vias Aéreas e Trauma Torácico"
+    ],
+    "total_questoes": 841
+   },
+   "queimaduras-e-trauma-eletrico": {
+    "nome": "Queimaduras e Trauma Elétrico",
+    "subcategorias": [
+     "Classificação das queimaduras",
+     "Reposição volêmica (Parkland)",
+     "Queimaduras químicas e elétricas"
+    ],
+    "total_questoes": 0
+   },
+   "urgencias-abdominais": {
+    "nome": "Urgências Abdominais",
+    "subcategorias": [
+     "Apendicite aguda",
+     "Colecistite aguda",
+     "Diverticulite aguda",
+     "Obstrução intestinal",
+     "Abdome agudo perfurativo",
+     "Isquemia mesentérica"
+    ],
+    "total_questoes": 20
+   },
+   "vesicula-e-vias-biliares": {
+    "nome": "Vesícula e Vias Biliares",
+    "subcategorias": [
+     "Colelitíase e colecistite",
+     "Coledocolitíase e colangite",
+     "Coledocolitíase",
+     "Tumores de vias biliares"
+    ],
+    "total_questoes": 7
+   },
+   "proctologia": {
+    "nome": "Proctologia",
+    "subcategorias": [
+     "Hemorroidas",
+     "Fístulas e abscessos anais",
+     "Fissura anal",
+     "Doença diverticular dos cólons (cirúrgica)",
+     "Câncer colorretal (cirurgia)",
+     "Proctologia"
+    ],
+    "total_questoes": 126
+   },
+   "cirurgia-infantil": {
+    "nome": "Cirurgia Infantil",
+    "subcategorias": [
+     "Hérnias na criança (inguinal, umbilical)",
+     "Torcicolo congênito",
+     "Estenose hipertrófica de piloro",
+     "Cirurgia Infantil - Parte II",
+     "Cirurgia Infantil - Parte III"
+    ],
+    "total_questoes": 198
+   },
+   "urologia": {
+    "nome": "Urologia",
+    "subcategorias": [
+     "Litíase urinária",
+     "Hiperplasia prostática benigna",
+     "Câncer de próstata",
+     "Tumores renais e bexiga",
+     "Urologia"
+    ],
+    "total_questoes": 120
+   },
+   "cirurgia-toracica": {
+    "nome": "Cirurgia Torácica",
+    "subcategorias": [
+     "Derrame pleural (cirúrgico)",
+     "Pneumotórax (cirúrgico)",
+     "Tumores pulmonares"
+    ],
+    "total_questoes": 8
+   },
+   "cirurgia-tor-cica": {
+    "nome": "Cirurgia Torácica",
+    "subcategorias": [
+     "Cirurgia Torácica",
+     "Derrame pleural (cirúrgico)",
+     "Pneumotórax (cirúrgico)",
+     "Tumores pulmonares"
+    ],
+    "total_questoes": 86
+   },
+   "temas-gerais-em-cirurgia": {
+    "nome": "Temas Gerais em Cirurgia",
+    "subcategorias": [],
+    "total_questoes": 80
+   },
+   "ves-cula-e-vias-biliares": {
+    "nome": "Vesícula e Vias Biliares",
+    "subcategorias": [
+     "Coledocolitíase",
+     "Coledocolitíase e colangite",
+     "Colelitíase e colecistite",
+     "Tumores de vias biliares",
+     "Vesícula e Vias Biliares"
+    ],
+    "total_questoes": 226
+   },
+   "urg-ncias-abdominais": {
+    "nome": "Urgências Abdominais",
+    "subcategorias": [
+     "Abdome Agudo Hemorrágico",
+     "Abdome Agudo Inflamatório - Colecistite e Colangite Aguda",
+     "Abdome Agudo Inflamatório - Diverticulite Aguda",
+     "Abdome Agudo Inflamatório – Apendicite Aguda",
+     "Abdome Agudo Obstrutivo",
+     "Abdome Agudo Perfurativo",
+     "Abdome Agudo Vascular",
+     "Abdome agudo perfurativo",
+     "Apendicite aguda",
+     "Colecistite aguda",
+     "Diverticulite aguda",
+     "Isquemia mesentérica",
+     "Neoplasias do Apêndice Cecal",
+     "Obstrução intestinal",
+     "Urgências Abdominais - Abdome Agudo"
+    ],
+    "total_questoes": 890
+   },
+   "cirurgia-bari-trica-e-metab-lica": {
+    "nome": "Cirurgia Bariátrica e Metabólica",
+    "subcategorias": [],
+    "total_questoes": 11
+   },
+   "avalia-o-pr-operat-ria": {
+    "nome": "Avaliação Pré-Operatória",
+    "subcategorias": [
+     "Exames pré-operatórios",
+     "Jejum e medicação pré-op",
+     "Profilaxia antibiótica e de TEV",
+     "Risco cirúrgico (ASA, Goldman, Lee)"
+    ],
+    "total_questoes": 12
+   },
+   "complica-es-p-s-operat-rias": {
+    "nome": "Complicações Pós-Operatórias",
+    "subcategorias": [
+     "Complicações Pós-Operatórias",
+     "Complicações respiratórias",
+     "Deiscência e evisceração",
+     "Infecção de sítio cirúrgico",
+     "Tromboembolismo venoso (TEV)"
+    ],
+    "total_questoes": 125
+   },
+   "h-rnias-da-parede-abdominal": {
+    "nome": "Hérnias da Parede Abdominal",
+    "subcategorias": [
+     "Hérnia femoral e outras",
+     "Hérnia incisional",
+     "Hérnia inguinal",
+     "Hérnia umbilical",
+     "Hérnias da Parede Abdominal"
+    ],
+    "total_questoes": 146
+   },
+   "cirurgia-de-cabe-a-e-pesco-o": {
+    "nome": "Cirurgia de Cabeça e Pescoço",
+    "subcategorias": [],
+    "total_questoes": 10
+   },
+   "queimaduras-e-trauma-el-trico": {
+    "nome": "Queimaduras e Trauma Elétrico",
+    "subcategorias": [
+     "Classificação das queimaduras",
+     "Queimaduras químicas e elétricas",
+     "Reposição volêmica (Parkland)"
+    ],
+    "total_questoes": 5
+   },
+   "cirurgia-vascular": {
+    "nome": "Cirurgia Vascular",
+    "subcategorias": [
+     "Cirurgia Vascular"
+    ],
+    "total_questoes": 108
+   },
+   "nutri-o-em-cirurgia-e-recupera-o-p-s-operat-ria": {
+    "nome": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+    "subcategorias": [
+     "Nutrição em Cirurgia",
+     "Nutrição enteral",
+     "Nutrição parenteral"
+    ],
+    "total_questoes": 102
+   },
+   "cicatriza-o-de-feridas": {
+    "nome": "Cicatrização de Feridas",
+    "subcategorias": [
+     "Cicatrização de Feridas"
+    ],
+    "total_questoes": 108
+   },
+   "ostomias-intestinais": {
+    "nome": "Ostomias Intestinais",
+    "subcategorias": [],
+    "total_questoes": 1
+   },
+   "resposta-end-crino-metab-lica-inflamat-ria-ao-trauma-remit": {
+    "nome": "Resposta Endócrino-Metabólica-Inflamatória ao Trauma (REMIT)",
+    "subcategorias": [
+     "Fases da resposta metabólica"
+    ],
+    "total_questoes": 2
+   },
+   "princ-pios-da-anestesiologia": {
+    "nome": "Princípios da Anestesiologia",
+    "subcategorias": [
+     "Anestesia geral",
+     "Anestesia regional"
+    ],
+    "total_questoes": 5
+   },
+   "cirurgia-pl-stica": {
+    "nome": "Cirurgia Plástica",
+    "subcategorias": [
+     "Cirurgia Plástica"
+    ],
+    "total_questoes": 99
+   },
+   "cirurgia-abdominal": {
+    "nome": "Cirurgia Abdominal",
+    "subcategorias": [
+     "Obstrução Intestinal"
+    ],
+    "total_questoes": 1
+   },
+   "nutri-o-em-cirurgia": {
+    "nome": "Nutrição em Cirurgia",
+    "subcategorias": [],
+    "total_questoes": 2
+   },
+   "queimaduras": {
+    "nome": "Queimaduras",
+    "subcategorias": [],
+    "total_questoes": 1
+   },
+   "geral": {
+    "nome": "Geral",
+    "subcategorias": [],
+    "total_questoes": 2
+   }
   }
+ },
+ "clinica-medica": {
+  "nome": "Clínica Médica",
+  "total": 14068,
+  "subcategorias": {
+   "cardiologia": {
+    "nome": "Cardiologia",
+    "total": 2092
+   },
+   "dermatologia": {
+    "nome": "Dermatologia",
+    "total": 891
+   },
+   "endocrinologia": {
+    "nome": "Endocrinologia",
+    "total": 1536
+   },
+   "gastroenterologia": {
+    "nome": "Gastroenterologia",
+    "total": 1537
+   },
+   "hematologia": {
+    "nome": "Hematologia",
+    "total": 910
+   },
+   "hepatologia": {
+    "nome": "Hepatologia",
+    "total": 823
+   },
+   "infectologia": {
+    "nome": "Infectologia",
+    "total": 2205
+   },
+   "nefrologia": {
+    "nome": "Nefrologia",
+    "total": 735
+   },
+   "neurologia": {
+    "nome": "Neurologia",
+    "total": 1300
+   },
+   "pneumologia": {
+    "nome": "Pneumologia",
+    "total": 761
+   },
+   "reumatologia": {
+    "nome": "Reumatologia",
+    "total": 1236
+   },
+   "pneumologia-intensiva": {
+    "nome": "Pneumologia Intensiva",
+    "total": 12
+   },
+   "via-aerea-intubacao": {
+    "nome": "Via aérea / Intubação",
+    "total": 12
+   },
+   "emergencias-uti": {
+    "nome": "Emergências / UTI",
+    "total": 15
+   },
+   "geral": {
+    "nome": "Geral",
+    "total": 17
+   },
+   "ortopedia": {
+    "nome": "Ortopedia",
+    "total": 4
+   },
+   "psiquiatria": {
+    "nome": "Psiquiatria",
+    "total": 9
+   },
+   "otorrinolaringologia": {
+    "nome": "Otorrinolaringologia",
+    "total": 1
+   },
+   "oftalmologia": {
+    "nome": "Oftalmologia",
+    "total": 2
+   },
+   "emerg-ncias-uti": {
+    "nome": "Emergências / UTI",
+    "total": 11
+   }
+  },
+  "subdetalhes": {
+   "cardiologia": {
+    "nome": "Cardiologia",
+    "subcategorias": [
+     "Hipertensão Arterial Sistêmica (HAS)",
+     "Insuficiência Cardíaca",
+     "Aterosclerose e Doença Arterial Coronariana",
+     "Valvopatias",
+     "Arritmias Cardíacas",
+     "Fisiologia Cardíaca e Eletrocardiograma",
+     "Síndromes aórticas agudas",
+     "Doenças do pericárdio",
+     "Choque",
+     "Cardiomiopatias",
+     "Bradiarritmias",
+     "Dislipidemia e Estratificação de Risco Cardiovascular",
+     "Eletrocardiograma",
+     "Fibrilação e Flutter Atrial",
+     "Hipertensão Arterial Sistêmica (Parte 1)",
+     "Hipertensão Arterial Sistêmica (Parte 2)- Tratamento",
+     "Hipertensão Arterial Sistêmica (Parte 3)- Secundária e Crise Hipertensiva",
+     "IAMCSSST (Infarto Agudo do Miocárdio com Supradesnivelamento de Segmento ST)",
+     "Insuficiência Cardíaca (Parte 2)- Tratamento",
+     "Insuficiência Cardíaca Aguda",
+     "Parada Cardiorrespiratória (PCR)",
+     "Pericardiopatias",
+     "SCASSST - Síndrome Coronária Aguda Sem Supra do Segmento ST",
+     "Semiologia Cardíaca",
+     "Síncope",
+     "Síndrome Coronariana Crônica",
+     "Síndromes Aórticas Agudas",
+     "Taquiarritmias",
+     "DAC",
+     "Hipertensão",
+     "IAM/SCA"
+    ],
+    "total_questoes": 2092
+   },
+   "dermatologia": {
+    "nome": "Dermatologia",
+    "subcategorias": [
+     "Anatomia e fisiologia da pele",
+     "Lesões elementares",
+     "Dermatoses papuloescamosas",
+     "Dermatoses eczematosas",
+     "Dermatoses vesicobolhosas",
+     "Hanseníase",
+     "Dermatoses infecciosas",
+     "Farmacodermias",
+     "Câncer de pele",
+     "Miscelânea",
+     "R+ e Prova de Título",
+     "Dermatoses Eczematosas",
+     "Dermatoses Infecciosas",
+     "Dermatoses Papuloescamosas",
+     "Dermatoses Vesicobolhosas",
+     "Histologia e Fisiologia da Pele e Lesões Elementares",
+     "Lesões Elementares e Semiologia Cutânea",
+     "Oncologia Cutânea (Câncer de Pele)",
+     "Piodermites",
+     "Síndromes Verrucosas"
+    ],
+    "total_questoes": 891
+   },
+   "endocrinologia": {
+    "nome": "Endocrinologia",
+    "subcategorias": [
+     "Diabetes",
+     "Tireoide",
+     "Metabolismo Ósseo e Mineral",
+     "Adrenal",
+     "Obesidade e síndrome metabólica",
+     "Hipófise",
+     "Neoplasias endócrinas múltiplas",
+     "Gênero",
+     "Disfunção sexual masculina",
+     "Tireotoxicose",
+     "Hipoglicemia em indivíduos não diabéticos",
+     "Adrenal - Feocromocitoma, Hiperaldosteronismo e Incidentaloma Adrenal",
+     "Adrenal - Hipocortisolismo (Insuficiência Adrenal)",
+     "Adrenal - Morfofisiologia Adrenal",
+     "Adrenal- Hipercortisolismo (Síndrome de Cushing)",
+     "Diabetes Mellitus - Complicações Agudas",
+     "Diabetes Mellitus - Complicações Crônicas",
+     "Diabetes Mellitus - Hiperglicemia Hospitalar",
+     "Diabetes Mellitus Tipo 2",
+     "Diabetes Mellitus- Insulinoterapia",
+     "Hipoglicemia no Paciente não Diabético",
+     "Hipófise - Acromegalia e Incidentaloma Hipofisário",
+     "Hipófise - Hiperprolactinemia",
+     "Incongruência de Gênero",
+     "Introdução ao Diabetes Mellitus",
+     "Metabolismo Ósseo e Mineral - Hipercalcemia",
+     "Metabolismo Ósseo e Mineral - Hipocalcemia",
+     "Metabolismo Ósseo e Mineral - Magnésio e Fosfato",
+     "Metabolismo Ósseo e Mineral - Osteoporose e Doença Óssea de Paget",
+     "Metabolismo Ósseo e Mineral - Raquitismo",
+     "Metabolismo Ósseo e Mineral- Princípios e Fisiologia",
+     "Metabolismo Ósseo e Mineral- Vitamina D e Osteomalácia",
+     "Neoplasias Endócrinas Múltiplas",
+     "Obesidade - Obesidade e Síndrome Metabólica",
+     "Tireoide - Fisiologia, Semiologia e Avaliação Diagnóstica",
+     "Tireoide - Hipotireoidismo"
+    ],
+    "total_questoes": 1536
+   },
+   "gastroenterologia": {
+    "nome": "Gastroenterologia",
+    "subcategorias": [
+     "Esôfago",
+     "Estômago",
+     "Pâncreas",
+     "Intestinos",
+     "Hemorragia Digestiva (HD)",
+     "Neoplasias do Sistema Digestivo",
+     "Procedimentos endoscópicos",
+     "Anatomia e Fisiologia do Cólon e Síndrome do Intestino Irritável",
+     "Anatomia e Fisiologia do Pâncreas e Neoplasias Pancreáticas",
+     "Disfagia, Alterações Estruturais e Distúrbios da Motilidade do Esôfago",
+     "Distúrbios Disabsortivos",
+     "Divertículos Colônicos e Divertículo de Meckel",
+     "Doença Inflamatória Intestinal",
+     "Hemorragia Digestiva Alta Não Varicosa",
+     "Hemorragia Digestiva Alta Varicosa",
+     "Neoplasias de Estômago e Esôfago",
+     "Pancreatite Aguda e Crônica (Pancreatites)",
+     "Polipose Intestinal e Câncer Colorretal",
+     "Tumores Neuroendócrinos"
+    ],
+    "total_questoes": 1537
+   },
+   "hepatologia": {
+    "nome": "Hepatologia",
+    "subcategorias": [
+     "Introdução à Hepatologia",
+     "Icterícia não Obstrutiva",
+     "Hepatites Virais",
+     "Cirrose",
+     "Outras Hepatopatias",
+     "Complicações da Insuficiência Hepática",
+     "Tumores Hepáticos",
+     "Transplante Hepático e Hepatectomia",
+     "Hepatite Fulminante (Insuficiência Hepática Aguda)",
+     "Cirrose Hepática",
+     "Complicações da Cirrose Hepática",
+     "Hepatopatias Autoimunes",
+     "Outras Causas de Hepatopatia Crônica",
+     "Síndrome Hepatorrenal e Síndrome Hepatopulmonar",
+     "Transplante Hepático e Hepatite Fulminante"
+    ],
+    "total_questoes": 823
+   },
+   "hematologia": {
+    "nome": "Hematologia",
+    "subcategorias": [
+     "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos",
+     "Introdução ao Estudo das Anemias",
+     "Anemias microcíticas",
+     "Hemoglobinopatias",
+     "Anemias macrocíticas",
+     "Anemias hemolíticas",
+     "Anemias e condições não hematológicas",
+     "Porfirias",
+     "Fundamentos de oncohematologia",
+     "Leucemias",
+     "Mielodisplasias e mieloproliferações: outras alterações da medula óssea",
+     "Linfomas",
+     "Linfomas de células T/NK",
+     "Gamopatias monoclonais",
+     "Hemostasia",
+     "Medicina transfusional",
+     "Anemia",
+     "Anemia Associada a Condições Não Hematológicas",
+     "Anemias Hemolíticas",
+     "Anemias Macrocíticas",
+     "Anemias Microcíticas",
+     "Hemostasia I- Conceitos Básicos e Anticoagulantes",
+     "Leucemias Crônicas, Linfomas, Mielodisplasias e Mieloproliferações",
+     "Medicina Transfusional",
+     "Mieloma Múltiplo (Gamopatias Monoclonais)"
+    ],
+    "total_questoes": 910
+   },
+   "infectologia": {
+    "nome": "Infectologia",
+    "subcategorias": [
+     "Microbiologia e Antimicrobianos",
+     "Tuberculose (TB)",
+     "Síndromes febris",
+     "HIV/Aids",
+     "Infecções bacterianas",
+     "Arboviroses",
+     "Pneumonia",
+     "Animais peçonhentos",
+     "Infecções relacionadas à assistência à saúde (IRAS)",
+     "Sepse",
+     "Infecções fúngicas",
+     "Vacinas",
+     "Infecções do Sistema Nervoso Central",
+     "Outras doenças infecciosas",
+     "Hepatoesplenomegalias crônicas",
+     "Influenza",
+     "Herpes simples e Herpes zoster",
+     "Imunossuprimidos não-HIV",
+     "Infecções sexualmente transmissíveis",
+     "Parasitoses",
+     "COVID 19",
+     "DST",
+     "Animais Peçonhentos",
+     "Antibióticos",
+     "Arboviroses (Dengue, Chikungunya e Zika)",
+     "Aula Bônus - Sífilis e Outras ISTs",
+     "Covid 19",
+     "Endocardite Bacteriana - Endocardite Infecciosa",
+     "HIV",
+     "Hepatoesplenomegalias Infecciosas",
+     "Infecções Relacionadas à Assistência em Saúde (IRAS)",
+     "Leptospirose",
+     "Malária",
+     "Meningite",
+     "Meningites (Infecções do Sistema Nervoso Central)",
+     "Micoses Invasivas",
+     "Neutropenia Febril e Febre de Origem Indeterminada",
+     "Pneumonias Bacterianas",
+     "Raiva, Tétano, Mordedura e Arranhadura Animal",
+     "Síndrome Febril Íctero-Hemorrágica",
+     "Tuberculose"
+    ],
+    "total_questoes": 2205
+   },
+   "nefrologia": {
+    "nome": "Nefrologia",
+    "subcategorias": [
+     "Doença Renal Crônica",
+     "Lesão renal aguda (LRA)",
+     "Túbulo-Interstício",
+     "Infecção do trato urinário (ITU)",
+     "Controle da água corporal total",
+     "Hiponatremia",
+     "Hipernatremia",
+     "Distúrbios do potássio",
+     "Distúrbios do equilíbrio acidobásico (DHE)",
+     "Nefrolitíase",
+     "Glomerulopatias",
+     "Análise da Gasometria Arterial",
+     "Distúrbios do Sódio - Disnatremias",
+     "Distúrbios Ácido-Básicos",
+     "Doença Renal Crônica (DRC) - Parte I",
+     "Doença Renal Crônica (DRC) - Parte II",
+     "Doenças Glomerulares",
+     "Insuficiência Renal",
+     "Lesão Renal Aguda (LRA)",
+     "Túbulo-Interstício Renal"
+    ],
+    "total_questoes": 735
+   },
+   "neurologia": {
+    "nome": "Neurologia",
+    "subcategorias": [
+     "Anatomia, Fisiologia e Semiologia Neurológica",
+     "Coma e Alterações da Consciência",
+     "Cefaleias",
+     "Demências",
+     "Epilepsias",
+     "Distúrbios do Movimento",
+     "Doenças Neuromusculares",
+     "Acidentes Vasculares Cerebrais (AVC)",
+     "Distúrbios do Sono",
+     "Mielopatias",
+     "Doenças Imunológicas do Sistema Nervoso Central",
+     "Tumores do Sistema Nervoso Central",
+     "Traumatismo Craniencefálico",
+     "Neurologia Vestibular",
+     "AVC",
+     "Cefaleia",
+     "Doenças Desmielinizantes e Encefalites Autoimunes",
+     "Doenças Neuromusculares I",
+     "Doenças Neuromusculares ll",
+     "Traumatismo Cranioencefálico",
+     "Tumores Intracranianos"
+    ],
+    "total_questoes": 1300
+   },
+   "pneumologia": {
+    "nome": "Pneumologia",
+    "subcategorias": [
+     "Derrame Pleural",
+     "Pneumologia Intensiva",
+     "Doença Pulmonar Obstrutiva Crônica (DPOC)",
+     "Asma",
+     "Tromboembolismo Pulmonar (TEP)",
+     "Introdução à Pneumologia",
+     "Câncer de Pulmão",
+     "Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo",
+     "Neoplasias Pulmonares"
+    ],
+    "total_questoes": 761
+   },
+   "reumatologia": {
+    "nome": "Reumatologia",
+    "subcategorias": [
+     "Introdução à Reumatologia",
+     "Diagnóstico diferencial das artropatias",
+     "Artropatias inflamatórias",
+     "Artropatias infecciosas",
+     "Doenças autoimunes do tecido conjuntivo",
+     "Vasculites",
+     "Doenças da cartilagem e do osso",
+     "Doenças da infância",
+     "Síndromes Dolorosas Crônicas",
+     "Doenças sistêmicas com manifestações reumatológicas",
+     "Sarcoidose",
+     "Amiloidose",
+     "Doença relacionada à IgG4",
+     "Síndrome SAPHO",
+     "Artrite Reumatoide (Apêndice - Medicações na Reumatologia)",
+     "Artrites Microcristalinas",
+     "Artropatias Infecciosas",
+     "Doenças Autoimunes do Tecido Conjuntivo",
+     "Doenças do Osso e da Cartilagem",
+     "Espondiloartrites",
+     "Lúpus Eritematoso Sistêmico e Síndrome Antifosfolípide",
+     "Manifestações Reumatológicas e Doenças Sistêmicas",
+     "Miscelânea",
+     "Reumatologia Pediátrica"
+    ],
+    "total_questoes": 1236
+   },
+   "psiquiatria": {
+    "nome": "Psiquiatria",
+    "subcategorias": [
+     "Depressão",
+     "Transtorno Bipolar"
+    ],
+    "total_questoes": 9
+   },
+   "ortopedia": {
+    "nome": "Ortopedia",
+    "subcategorias": [],
+    "total_questoes": 4
+   },
+   "emerg-ncias-uti": {
+    "nome": "Emergências / UTI",
+    "subcategorias": [],
+    "total_questoes": 11
+   },
+   "geral": {
+    "nome": "Geral",
+    "subcategorias": [],
+    "total_questoes": 17
+   },
+   "otorrinolaringologia": {
+    "nome": "Otorrinolaringologia",
+    "subcategorias": [],
+    "total_questoes": 1
+   }
+  }
+ },
+ "ginecologia": {
+  "nome": "Ginecologia",
+  "total": 2660,
+  "subcategorias": {
+   "ginecologia-basica": {
+    "nome": "Ginecologia básica",
+    "total": 12
+   },
+   "ginecologia-endocrina": {
+    "nome": "Ginecologia endócrina",
+    "total": 32
+   },
+   "ginecologia-geral": {
+    "nome": "Ginecologia geral",
+    "total": 273
+   },
+   "infeccoes-em-ginecologia": {
+    "nome": "Infecções em ginecologia",
+    "total": 39
+   },
+   "mastologia": {
+    "nome": "Mastologia",
+    "total": 328
+   },
+   "oncologia-ginecologica": {
+    "nome": "Oncologia ginecológica",
+    "total": 3
+   },
+   "sexualidade": {
+    "nome": "Sexualidade",
+    "total": 134
+   },
+   "uroginecologia": {
+    "nome": "Uroginecologia",
+    "total": 103
+   },
+   "planejamento-familiar": {
+    "nome": "Planejamento familiar",
+    "total": 95
+   },
+   "geral": {
+    "nome": "Geral",
+    "total": 2
+   },
+   "parto-puerperio": {
+    "nome": "Parto / Puerpério",
+    "total": 4
+   },
+   "pre-natal": {
+    "nome": "Pré-natal",
+    "total": 52
+   },
+   "reproducao-climaterio": {
+    "nome": "Reprodução / Climatério",
+    "total": 10
+   },
+   "infec-es-em-ginecologia": {
+    "nome": "Infecções em ginecologia",
+    "total": 308
+   },
+   "ginecologia-b-sica": {
+    "nome": "Ginecologia básica",
+    "total": 13
+   },
+   "oncologia-ginecol-gica": {
+    "nome": "Oncologia ginecológica",
+    "total": 687
+   },
+   "ginecologia-end-crina": {
+    "nome": "Ginecologia endócrina",
+    "total": 668
+   },
+   "reprodu-o-climat-rio": {
+    "nome": "Reprodução / Climatério",
+    "total": 10
+   }
+  },
+  "subdetalhes": {
+   "ginecologia-basica": {
+    "nome": "Ginecologia básica",
+    "subcategorias": [
+     "Anatomia ginecológica",
+     "Semiologia ginecológica (exame especular, toque, PN)",
+     "Exames complementares (USG, histerossalpingografia)"
+    ],
+    "total_questoes": 2
+   },
+   "ginecologia-geral": {
+    "nome": "Ginecologia geral",
+    "subcategorias": [
+     "Ciclo menstrual",
+     "Sangramento uterino anormal (SUA)",
+     "Dismenorreia e síndrome pré-menstrual",
+     "Climatério e menopausa",
+     "Abdome Agudo em Ginecologia",
+     "Anatomia e Embriologia do Trato Genital Feminino",
+     "Doenças de Vulva e Vagina"
+    ],
+    "total_questoes": 273
+   },
+   "ginecologia-endocrina": {
+    "nome": "Ginecologia endócrina",
+    "subcategorias": [
+     "Síndrome dos Ovários Policísticos (SOP)",
+     "Endometriose",
+     "Infertilidade conjugal",
+     "Amenorreia",
+     "Hiperprolactinemia"
+    ],
+    "total_questoes": 9
+   },
+   "infeccoes-em-ginecologia": {
+    "nome": "Infecções em ginecologia",
+    "subcategorias": [
+     "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
+     "Doença Inflamatória Pélvica (DIP)",
+     "Infecções sexualmente transmissíveis (IST)",
+     "Cancro mole, sífilis, gonorreia"
+    ],
+    "total_questoes": 8
+   },
+   "oncologia-ginecologica": {
+    "nome": "Oncologia ginecológica",
+    "subcategorias": [
+     "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+     "Câncer de endométrio",
+     "Câncer de ovário",
+     "Neoplasia intraepitelial cervical (NIC)",
+     "Tumores trofoblásticos gestacionais"
+    ],
+    "total_questoes": 27
+   },
+   "mastologia": {
+    "nome": "Mastologia",
+    "subcategorias": [
+     "Exame das mamas e rastreio (USG, mamografia)",
+     "Nódulos mamários benignos (fibroadenoma, cistos)",
+     "Câncer de mama",
+     "Mastites e abscesso mamário",
+     "Ginecomastia",
+     "Câncer de Mama",
+     "Doenças Benignas da Mama",
+     "Rastreamento do Câncer de Mama"
+    ],
+    "total_questoes": 328
+   },
+   "uroginecologia": {
+    "nome": "Uroginecologia",
+    "subcategorias": [
+     "Incontinência urinária (IU)",
+     "Prolapso de órgãos pélvicos (POP)",
+     "Fístulas genitais",
+     "Incontinência Urinária"
+    ],
+    "total_questoes": 103
+   },
+   "sexualidade": {
+    "nome": "Sexualidade",
+    "subcategorias": [
+     "Disfunções sexuais femininas",
+     "Anticoncepção (métodos hormonais, DIU, barreira)",
+     "Contracepção de emergência",
+     "Assistência à Vítima de Violência Sexual"
+    ],
+    "total_questoes": 134
+   },
+   "planejamento-familiar": {
+    "nome": "Planejamento familiar",
+    "subcategorias": [
+     "Anticoncepção",
+     "Métodos contraceptivos",
+     "Contracepção de emergência",
+     "Critérios de elegibilidade OMS",
+     "Métodos irreversíveis",
+     "Planejamento Familiar"
+    ],
+    "total_questoes": 95
+   },
+   "infec-es-em-ginecologia": {
+    "nome": "Infecções em ginecologia",
+    "subcategorias": [
+     "Cancro mole, sífilis, gonorreia",
+     "Cervicites",
+     "Doença Inflamatória Pélvica (DIP)",
+     "Infecções sexualmente transmissíveis (IST)",
+     "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
+     "Vulvovaginites",
+     "Úlceras Genitais"
+    ],
+    "total_questoes": 308
+   },
+   "ginecologia-b-sica": {
+    "nome": "Ginecologia básica",
+    "subcategorias": [
+     "Anatomia ginecológica",
+     "Exames complementares (USG, histerossalpingografia)",
+     "Semiologia ginecológica (exame especular, toque, PN)"
+    ],
+    "total_questoes": 13
+   },
+   "oncologia-ginecol-gica": {
+    "nome": "Oncologia ginecológica",
+    "subcategorias": [
+     "Câncer de Colo Uterino",
+     "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
+     "Câncer de endométrio",
+     "Câncer de ovário",
+     "Câncer do Corpo do Útero",
+     "Miomatose Uterina",
+     "Neoplasia intraepitelial cervical (NIC)",
+     "Pólipos Uterinos",
+     "Rastreamento do Câncer de Colo Uterino",
+     "Sangramento Uterino Anormal (SUA)",
+     "Tumores Anexiais e Câncer de Ovário"
+    ],
+    "total_questoes": 687
+   },
+   "ginecologia-end-crina": {
+    "nome": "Ginecologia endócrina",
+    "subcategorias": [
+     "Adenomiose",
+     "Amenorreia",
+     "Ciclo Menstrual",
+     "Climatério e Terapia Hormonal",
+     "Dor Pélvica Crônica e Dismenorreia",
+     "Endometriose",
+     "Hiperprolactinemia",
+     "Infertilidade Conjugal",
+     "Infertilidade conjugal",
+     "Sexualidade",
+     "Síndrome Pré-Menstrual",
+     "Síndrome dos Ovários Policísticos (SOP)"
+    ],
+    "total_questoes": 668
+   },
+   "reprodu-o-climat-rio": {
+    "nome": "Reprodução / Climatério",
+    "subcategorias": [
+     "Anticoncepção",
+     "Infertilidade"
+    ],
+    "total_questoes": 10
+   },
+   "geral": {
+    "nome": "Geral",
+    "subcategorias": [],
+    "total_questoes": 2
+   }
+  }
+ },
+ "obstetricia": {
+  "nome": "Obstetrícia",
+  "total": 2749,
+  "subcategorias": {
+   "doencas-associadas-a-gestacao": {
+    "nome": "Doenças associadas à gestação",
+    "total": 71
+   },
+   "medicina-fetal": {
+    "nome": "Medicina fetal",
+    "total": 830
+   },
+   "parto": {
+    "nome": "Parto",
+    "total": 761
+   },
+   "pre-natal": {
+    "nome": "Pré-natal",
+    "total": 48
+   },
+   "puerperio": {
+    "nome": "Puerpério",
+    "total": 29
+   },
+   "geral": {
+    "nome": "Geral",
+    "total": 8
+   },
+   "gestacao-de-alto-risco": {
+    "nome": "Gestação de Alto Risco",
+    "total": 2
+   },
+   "intercorrencias-obstetricas": {
+    "nome": "Intercorrências obstétricas",
+    "total": 9
+   },
+   "intercorrencias-obstetricas-obstetricia-patologica": {
+    "nome": "Intercorrências obstétricas /obstetrícia patológica",
+    "total": 40
+   },
+   "obstetricia-fisiologica": {
+    "nome": "Obstetrícia fisiológica",
+    "total": 6
+   },
+   "pr-natal": {
+    "nome": "Pré-natal",
+    "total": 313
+   },
+   "doen-as-associadas-gesta-o": {
+    "nome": "Doenças associadas à gestação",
+    "total": 452
+   },
+   "intercorr-ncias-obst-tricas-obstetr-cia-patol-gica": {
+    "nome": "Intercorrências obstétricas /obstetrícia patológica",
+    "total": 188
+   },
+   "puerp-rio": {
+    "nome": "Puerpério",
+    "total": 185
+   },
+   "obstetr-cia-fisiol-gica": {
+    "nome": "Obstetrícia fisiológica",
+    "total": 6
+   },
+   "gesta-o-de-alto-risco": {
+    "nome": "Gestação de Alto Risco",
+    "total": 2
+   },
+   "intercorr-ncias-obst-tricas": {
+    "nome": "Intercorrências obstétricas",
+    "total": 4
+   }
+  },
+  "subdetalhes": {
+   "obstetricia-fisiologica": {
+    "nome": "Obstetrícia fisiológica",
+    "subcategorias": [
+     "Fisiologia da gestação",
+     "Diagnóstico de gravidez",
+     "Modificações do organismo materno"
+    ],
+    "total_questoes": 0
+   },
+   "pre-natal": {
+    "nome": "Pré-natal",
+    "subcategorias": [
+     "Consultas e exames de pré-natal",
+     "Imunização na gestação",
+     "Nutrição e suplementação",
+     "Rastreio de aneuploidias e malformações"
+    ],
+    "total_questoes": 13
+   },
+   "parto": {
+    "nome": "Parto",
+    "subcategorias": [
+     "Mecanismo do parto",
+     "Indução e condução do trabalho de parto",
+     "Via de parto (normal vs cesárea)",
+     "Distócias",
+     "Parto instrumental",
+     "Assistência ao Parto",
+     "Bacia Obstétrica, Pelvimetria e Estática Fetal",
+     "Indução do Parto e Pós-Datismo",
+     "Mecanismo de Parto e Fases Clínicas do Parto",
+     "Parto Vaginal Operatório",
+     "Partograma e Distocia",
+     "Trabalho de parto"
+    ],
+    "total_questoes": 761
+   },
+   "puerperio": {
+    "nome": "Puerpério",
+    "subcategorias": [
+     "Puerpério normal",
+     "Complicações puerperais (hemorragia, infecção, depressão)",
+     "Aleitamento materno"
+    ],
+    "total_questoes": 2
+   },
+   "intercorrencias-obstetricas-obstetricia-patologica": {
+    "nome": "Intercorrências obstétricas / obstetrícia patológica",
+    "subcategorias": [
+     "Abortamento",
+     "Gestação ectópica",
+     "Doença trofoblástica gestacional",
+     "Restrição de crescimento intrauterino (RCIU)",
+     "Trabalho de parto prematuro (TPP)",
+     "Rotura prematura de membranas (RPM)",
+     "Placenta prévia e descolamento"
+    ],
+    "total_questoes": 0
+   },
+   "doencas-associadas-a-gestacao": {
+    "nome": "Doenças associadas à gestação",
+    "subcategorias": [
+     "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
+     "Diabetes mellitus gestacional",
+     "Infecções na gestação (TORCH, HIV, sífilis)",
+     "Cardiopatia na gestação",
+     "Tromboembolismo na gestação"
+    ],
+    "total_questoes": 5
+   },
+   "medicina-fetal": {
+    "nome": "Medicina fetal",
+    "subcategorias": [
+     "Avaliação de vitalidade fetal",
+     "Cardiotocografia",
+     "Doppler obstétrico",
+     "Isoimunização Rh",
+     "Aborto de Repetição",
+     "Aloimunização Materna e Doença Hemolítica Perinatal",
+     "Alterações do Volume de Líquido Amniótico",
+     "Gestação Múltipla",
+     "Prematuridade e Trabalho de parto prematuro (TPP)",
+     "Restrição de Crescimento Fetal e Óbito Fetal",
+     "Rotura Prematura de Membranas (RPM)",
+     "Ultrassom em Obstetrícia",
+     "Vitalidade Fetal"
+    ],
+    "total_questoes": 830
+   },
+   "pr-natal": {
+    "nome": "Pré-natal",
+    "subcategorias": [
+     "Assistência ao Pré-Natal",
+     "Consultas e exames de pré-natal",
+     "Imunização na gestação",
+     "Modificações Fisiológicas da Gestação",
+     "Nutrição e suplementação",
+     "Rastreio",
+     "Rastreio de aneuploidias e malformações",
+     "Rotina"
+    ],
+    "total_questoes": 313
+   },
+   "doen-as-associadas-gesta-o": {
+    "nome": "Doenças associadas à gestação",
+    "subcategorias": [
+     "Cardiopatia na gestação",
+     "Diabetes Mellitus na Gestação",
+     "Diabetes mellitus gestacional",
+     "Infecções Congênitas na Gestação",
+     "Infecções na gestação (TORCH, HIV, sífilis)",
+     "Sífilis na Gestação e Sífilis Congênitas",
+     "Síndromes Hipertensivas da Gestação",
+     "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
+     "Tromboembolismo na gestação"
+    ],
+    "total_questoes": 452
+   },
+   "intercorr-ncias-obst-tricas-obstetr-cia-patol-gica": {
+    "nome": "Intercorrências obstétricas /obstetrícia patológica",
+    "subcategorias": [
+     "Sangramento da Segunda Metade"
+    ],
+    "total_questoes": 188
+   },
+   "puerp-rio": {
+    "nome": "Puerpério",
+    "subcategorias": [
+     "Aleitamento materno",
+     "Complicações puerperais (hemorragia, infecção, depressão)",
+     "Hemorragia Pós-Parto (HPP)",
+     "Infecção Puerperal",
+     "Puerpério normal"
+    ],
+    "total_questoes": 185
+   },
+   "obstetr-cia-fisiol-gica": {
+    "nome": "Obstetrícia fisiológica",
+    "subcategorias": [
+     "Diagnóstico de gravidez",
+     "Fisiologia da gestação"
+    ],
+    "total_questoes": 6
+   },
+   "gesta-o-de-alto-risco": {
+    "nome": "Gestação de Alto Risco",
+    "subcategorias": [
+     "Placenta"
+    ],
+    "total_questoes": 2
+   },
+   "geral": {
+    "nome": "Geral",
+    "subcategorias": [],
+    "total_questoes": 8
+   },
+   "intercorr-ncias-obst-tricas": {
+    "nome": "Intercorrências obstétricas",
+    "subcategorias": [
+     "Pré-eclâmpsia"
+    ],
+    "total_questoes": 4
+   }
+  }
+ },
+ "medicina-preventiva": {
+  "nome": "Medicina Preventiva",
+  "total": 2519,
+  "subcategorias": {
+   "epidemiologia": {
+    "nome": "Epidemiologia",
+    "total": 1003
+   },
+   "medicina-de-familia-e-comunidade": {
+    "nome": "Medicina de Família e Comunidade",
+    "total": 335
+   },
+   "saude-do-trabalhador": {
+    "nome": "Saúde do Trabalhador",
+    "total": 34
+   },
+   "sistema-unico-de-saude-sus": {
+    "nome": "Sistema Único de Saúde (SUS)",
+    "total": 102
+   },
+   "etica-medica": {
+    "nome": "Ética Médica",
+    "total": 34
+   },
+   "geral": {
+    "nome": "Geral",
+    "total": 35
+   },
+   "politicas-publicas": {
+    "nome": "Políticas Públicas",
+    "total": 10
+   },
+   "prevencao-rastreio": {
+    "nome": "Prevenção / Rastreio",
+    "total": 2
+   },
+   "saude-coletiva-sus": {
+    "nome": "Saúde Coletiva / SUS",
+    "total": 14
+   },
+   "saude-da-familia": {
+    "nome": "Saúde da Família",
+    "total": 3
+   },
+   "telemedicina-inovacao": {
+    "nome": "Telemedicina / Inovação",
+    "total": 1
+   },
+   "medicina-de-fam-lia-e-comunidade": {
+    "nome": "Medicina de Família e Comunidade",
+    "total": 431
+   },
+   "tica-m-dica": {
+    "nome": "Ética Médica",
+    "total": 141
+   },
+   "sa-de-do-trabalhador": {
+    "nome": "Saúde do Trabalhador",
+    "total": 34
+   },
+   "sistema-nico-de-sa-de-sus": {
+    "nome": "Sistema Único de Saúde (SUS)",
+    "total": 859
+   },
+   "sa-de-coletiva-sus": {
+    "nome": "Saúde Coletiva / SUS",
+    "total": 14
+   },
+   "preven-o-rastreio": {
+    "nome": "Prevenção / Rastreio",
+    "total": 2
+   }
+  },
+  "subdetalhes": {
+   "sistema-unico-de-saude-sus": {
+    "nome": "Sistema Único de Saúde (SUS)",
+    "subcategorias": [
+     "Princípios e diretrizes do SUS",
+     "Lei 8.080/90 e 8.142/90",
+     "Financiamento e pactuação (NOB, NOAS)",
+     "Níveis de atenção (primária, secundária, terciária)",
+     "Regionalização e Rede de Atenção à Saúde (RAS)",
+     "Controle social e participação popular"
+    ],
+    "total_questoes": 38
+   },
+   "medicina-de-familia-e-comunidade": {
+    "nome": "Medicina de Família e Comunidade",
+    "subcategorias": [
+     "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
+     "Estratégia Saúde da Família (ESF) e NASF",
+     "Territorialização e adscrição de clientela",
+     "Puericultura e acompanhamento do crescimento",
+     "Programas de saúde (hipertenso, diabético, criança, mulher)",
+     "Acolhimento e classificação de risco"
+    ],
+    "total_questoes": 13
+   },
+   "epidemiologia": {
+    "nome": "Epidemiologia",
+    "subcategorias": [
+     "Medidas de frequência (incidência, prevalência)",
+     "Medidas de associação (RR, OR, RAR)",
+     "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
+     "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
+     "Viés e confundimento",
+     "Curvas ROC e razão de verossimilhança",
+     "Epidemias e Epidemiologia das Doenças Infecciosas",
+     "Estudos Epidemiológicos e Medidas de Associação",
+     "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+     "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+     "Sistemas de Informação em Saúde",
+     "Testes Diag.",
+     "Testes Diagnósticos",
+     "Vigilância em Saúde"
+    ],
+    "total_questoes": 1003
+   },
+   "etica-medica": {
+    "nome": "Ética Médica",
+    "subcategorias": [
+     "Código de Ética Médica (sigilo, consentimento, autonomia)",
+     "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
+     "Prontuário médico e atestados",
+     "Termo de Consentimento Livre e Esclarecido (TCLE)",
+     "Direitos do paciente"
+    ],
+    "total_questoes": 3
+   },
+   "saude-do-trabalhador": {
+    "nome": "Saúde do Trabalhador",
+    "subcategorias": [
+     "Doenças ocupacionais (LER/DORT, perda auditiva, pneumoconioses)",
+     "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
+     "Exames admissionais, periódicos e demissionais (PCMSO, PPRA)",
+     "Comunicação de Acidente de Trabalho (CAT)",
+     "Afastamento e perícia"
+    ],
+    "total_questoes": 3
+   },
+   "medicina-de-fam-lia-e-comunidade": {
+    "nome": "Medicina de Família e Comunidade",
+    "subcategorias": [
+     "Acolhimento e classificação de risco",
+     "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
+     "Estratégia Saúde da Família (ESF) e NASF",
+     "Processo Saúde-Doença e níveis de prevenção em saúde",
+     "Programas de saúde (hipertenso, diabético, criança, mulher)",
+     "Puericultura e acompanhamento do crescimento",
+     "Territorialização e adscrição de clientela"
+    ],
+    "total_questoes": 431
+   },
+   "tica-m-dica": {
+    "nome": "Ética Médica",
+    "subcategorias": [
+     "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
+     "Código de Ética Médica (sigilo, consentimento, autonomia)",
+     "Direitos do paciente",
+     "Prontuário médico e atestados",
+     "Ética Médica"
+    ],
+    "total_questoes": 141
+   },
+   "sa-de-do-trabalhador": {
+    "nome": "Saúde do Trabalhador",
+    "subcategorias": [
+     "Comunicação de Acidente de Trabalho (CAT)",
+     "Doenças ocupacionais (LER/DORT, perda auditiva, pneumoconioses)",
+     "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)"
+    ],
+    "total_questoes": 34
+   },
+   "sistema-nico-de-sa-de-sus": {
+    "nome": "Sistema Único de Saúde (SUS)",
+    "subcategorias": [
+     "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+     "Atenção Primária à Saúde",
+     "Controle social e participação popular",
+     "Descentralização e regionalização do SUS",
+     "Financiamento e pactuação (NOB, NOAS)",
+     "Financiamento em Saúde",
+     "História do SUS",
+     "Lei 8.080/90 e 8.142/90",
+     "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+     "Níveis de atenção (primária, secundária, terciária)",
+     "Políticas de Saúde",
+     "Princípios e Diretrizes do SUS",
+     "Princípios e diretrizes do SUS",
+     "Regionalização e Rede de Atenção à Saúde (RAS)"
+    ],
+    "total_questoes": 859
+   },
+   "sa-de-coletiva-sus": {
+    "nome": "Saúde Coletiva / SUS",
+    "subcategorias": [
+     "Atenção Básica",
+     "Gestão"
+    ],
+    "total_questoes": 14
+   },
+   "geral": {
+    "nome": "Geral",
+    "subcategorias": [],
+    "total_questoes": 35
+   },
+   "preven-o-rastreio": {
+    "nome": "Prevenção / Rastreio",
+    "subcategorias": [
+     "Rastreamento"
+    ],
+    "total_questoes": 2
+   }
+  }
+ },
+ "pediatria": {
+  "nome": "Pediatria",
+  "total": 4437,
+  "subcategorias": {
+   "cardiologia-pediatrica": {
+    "nome": "Cardiologia Pediátrica",
+    "total": 20
+   },
+   "emergencias-pediatricas": {
+    "nome": "Emergências Pediátricas",
+    "total": 36
+   },
+   "gastrologia-pediatrica": {
+    "nome": "Gastrologia Pediátrica",
+    "total": 61
+   },
+   "hematologia-pediatrica": {
+    "nome": "Hematologia Pediátrica",
+    "total": 30
+   },
+   "infectologia-pediatrica": {
+    "nome": "Infectologia Pediátrica",
+    "total": 123
+   },
+   "nefrologia-pediatrica": {
+    "nome": "Nefrologia Pediátrica",
+    "total": 14
+   },
+   "neonatologia": {
+    "nome": "Neonatologia",
+    "total": 559
+   },
+   "pneumologia-pediatrica": {
+    "nome": "Pneumologia Pediátrica",
+    "total": 58
+   },
+   "puericultura": {
+    "nome": "Puericultura",
+    "total": 1054
+   },
+   "reumatologia-pediatrica": {
+    "nome": "Reumatologia Pediátrica",
+    "total": 19
+   },
+   "cardiopatia-congenita": {
+    "nome": "Cardiopatia Congênita",
+    "total": 6
+   },
+   "gastroenterologia-pediatrica": {
+    "nome": "Gastroenterologia Pediátrica",
+    "total": 18
+   },
+   "geral": {
+    "nome": "Geral",
+    "total": 9
+   },
+   "maus-tratos": {
+    "nome": "Maus tratos",
+    "total": 1
+   },
+   "outros": {
+    "nome": "Outros",
+    "total": 316
+   },
+   "maus-tratos-a-criancas-e-adolescentes": {
+    "nome": "Maus tratos à crianças e adolescentes",
+    "total": 7
+   },
+   "endocrinologia-pediatrica": {
+    "nome": "Endocrinologia pediátrica",
+    "total": 33
+   },
+   "neuropediatria": {
+    "nome": "Neuropediatria",
+    "total": 169
+   },
+   "gastrologia-pedi-trica": {
+    "nome": "Gastrologia Pediátrica",
+    "total": 394
+   },
+   "infectologia-pedi-trica": {
+    "nome": "Infectologia Pediátrica",
+    "total": 488
+   },
+   "reumatologia-pedi-trica": {
+    "nome": "Reumatologia Pediátrica",
+    "total": 146
+   },
+   "emerg-ncias-pedi-tricas": {
+    "nome": "Emergências Pediátricas",
+    "total": 338
+   },
+   "cardiologia-pedi-trica": {
+    "nome": "Cardiologia Pediátrica",
+    "total": 294
+   },
+   "hematologia-pedi-trica": {
+    "nome": "Hematologia Pediátrica",
+    "total": 27
+   },
+   "maus-tratos-crian-as-e-adolescentes": {
+    "nome": "Maus tratos à crianças e adolescentes",
+    "total": 8
+   },
+   "endocrinologia-pedi-trica": {
+    "nome": "Endocrinologia pediátrica",
+    "total": 119
+   },
+   "pneumologia-pedi-trica": {
+    "nome": "Pneumologia Pediátrica",
+    "total": 402
+   },
+   "nefrologia-pedi-trica": {
+    "nome": "Nefrologia Pediátrica",
+    "total": 114
+   }
+  },
+  "subdetalhes": {
+   "puericultura": {
+    "nome": "Puericultura",
+    "subcategorias": [
+     "Crescimento e desenvolvimento",
+     "Aleitamento materno e artificial",
+     "Imunização (calendário vacinal)",
+     "Alimentação complementar",
+     "Exames de triagem neonatal",
+     "Aleitamento Materno",
+     "Crescimento",
+     "Deficiências Vitamínicas e Profilaxias",
+     "Desenvolvimento Neuropsicomotor (DNPM)",
+     "Desnutrição na Infância",
+     "Diagnóstico Nutricional",
+     "Imunizações",
+     "Obesidade Infantil e na Adolescência",
+     "Puberdade",
+     "Segurança em Pediatria",
+     "Síndromes Genéticas, Erros Inatos do Metabolismo e da Imunidade"
+    ],
+    "total_questoes": 1054
+   },
+   "pneumologia-pediatrica": {
+    "nome": "Pneumologia Pediátrica",
+    "subcategorias": [
+     "Bronquiolite aguda",
+     "Asma na criança",
+     "Pneumonia na criança",
+     "Tuberculose infantil"
+    ],
+    "total_questoes": 7
+   },
+   "infectologia-pediatrica": {
+    "nome": "Infectologia Pediátrica",
+    "subcategorias": [
+     "Doenças exantemáticas",
+     "Meningites na criança",
+     "Sepse neonatal e pediátrica",
+     "HIV pediátrico",
+     "Parasitoses na criança"
+    ],
+    "total_questoes": 8
+   },
+   "cardiologia-pediatrica": {
+    "nome": "Cardiologia Pediátrica",
+    "subcategorias": [
+     "Cardiopatias congênitas cianóticas",
+     "Cardiopatias congênitas acianóticas",
+     "Insuficiência cardíaca na criança",
+     "Arritmias na criança"
+    ],
+    "total_questoes": 18
+   },
+   "gastrologia-pediatrica": {
+    "nome": "Gastrologia Pediátrica",
+    "subcategorias": [
+     "Desnutrição e má progressão ponderal",
+     "Diarreia aguda e crônica",
+     "Refluxo gastroesofágico",
+     "Dor abdominal recorrente"
+    ],
+    "total_questoes": 3
+   },
+   "hematologia-pediatrica": {
+    "nome": "Hematologia Pediátrica",
+    "subcategorias": [
+     "Anemias na criança (ferropriva, falciforme)",
+     "Leucemias e linfomas pediátricos",
+     "Púrpura e trombocitopenia"
+    ],
+    "total_questoes": 4
+   },
+   "nefrologia-pediatrica": {
+    "nome": "Nefrologia Pediátrica",
+    "subcategorias": [
+     "Infecção urinária na criança",
+     "Síndrome nefrótica na criança",
+     "Síndrome nefrítica na criança",
+     "Insuficiência renal aguda na criança"
+    ],
+    "total_questoes": 1
+   },
+   "neuropediatria": {
+    "nome": "Neuropediatria",
+    "subcategorias": [
+     "Convulsão febril e epilepsia",
+     "Paralisia cerebral",
+     "TDAH",
+     "Cefaleia na criança",
+     "Atraso do desenvolvimento neuropsicomotor (DNPM)",
+     "Convulsão Febril",
+     "Enurese Noturna"
+    ],
+    "total_questoes": 169
+   },
+   "reumatologia-pediatrica": {
+    "nome": "Reumatologia Pediátrica",
+    "subcategorias": [
+     "Febre reumática",
+     "Artrite idiopática juvenil (AIJ)",
+     "Vasculites (Kawasaki, HSP)",
+     "Lúpus eritematoso sistêmico juvenil"
+    ],
+    "total_questoes": 2
+   },
+   "endocrinologia-pediatrica": {
+    "nome": "Endocrinologia Pediátrica",
+    "subcategorias": [
+     "Hipotireoidismo congênito",
+     "Diabetes mellitus tipo 1",
+     "Puberdade precoce e atrasada",
+     "Obesidade infantil",
+     "Baixa estatura"
+    ],
+    "total_questoes": 0
+   },
+   "emergencias-pediatricas": {
+    "nome": "Emergências Pediátricas",
+    "subcategorias": [
+     "Parada cardiorrespiratória pediátrica (PALS)",
+     "Choque na criança",
+     "Intoxicações exógenas",
+     "Queimaduras na criança",
+     "Crise asmática grave"
+    ],
+    "total_questoes": 1
+   },
+   "neonatologia": {
+    "nome": "Neonatologia",
+    "subcategorias": [
+     "Reanimação neonatal",
+     "Prematuridade e baixo peso",
+     "Icterícia neonatal",
+     "Sepse neonatal",
+     "Distúrbios respiratórios do RN (SDR, SAM)",
+     "Incompatibilidade Rh/ABO",
+     "27.6 Reanimação neonatal em maiores de 34 semanas",
+     "Distúrbios Respiratórios do Período Neonatal",
+     "Outros Distúrbios do Período Neonatal",
+     "Reanimação Neonatal"
+    ],
+    "total_questoes": 559
+   },
+   "maus-tratos-a-criancas-e-adolescentes": {
+    "nome": "Maus tratos à crianças e adolescentes",
+    "subcategorias": [
+     "Sinais de alerta e notificação compulsória",
+     "Violência física, sexual e psicológica",
+     "Negligência"
+    ],
+    "total_questoes": 0
+   },
+   "outros": {
+    "nome": "Outros",
+    "subcategorias": [
+     "Tópicos em Pediatria"
+    ],
+    "total_questoes": 316
+   },
+   "gastrologia-pedi-trica": {
+    "nome": "Gastrologia Pediátrica",
+    "subcategorias": [
+     "Constipação Intestinal",
+     "Desnutrição e má progressão ponderal",
+     "Diarreia",
+     "Diarreia aguda e crônica",
+     "Doença Celíaca em Pediatria",
+     "Doença do Refluxo Gastroesofágico em Pediatria",
+     "Dor abdominal recorrente",
+     "Refluxo gastroesofágico"
+    ],
+    "total_questoes": 394
+   },
+   "infectologia-pedi-trica": {
+    "nome": "Infectologia Pediátrica",
+    "subcategorias": [
+     "Coqueluche",
+     "Doenças Exantemáticas",
+     "Doenças exantemáticas",
+     "Febre na Pediatria",
+     "HIV pediátrico",
+     "Infecções Congênitas",
+     "Meningites na criança",
+     "Parasitoses na criança",
+     "Sepse neonatal e pediátrica",
+     "Sífilis Congênita"
+    ],
+    "total_questoes": 488
+   },
+   "reumatologia-pedi-trica": {
+    "nome": "Reumatologia Pediátrica",
+    "subcategorias": [
+     "Artrite Idiopática Juvenil (AIJ)",
+     "Artrite idiopática juvenil (AIJ)",
+     "Febre reumática",
+     "Lúpus eritematoso sistêmico juvenil",
+     "Púrpura de Henoch Schonlein-Vasculite por IGA",
+     "Vasculites (Kawasaki, HSP)"
+    ],
+    "total_questoes": 146
+   },
+   "emerg-ncias-pedi-tricas": {
+    "nome": "Emergências Pediátricas",
+    "subcategorias": [
+     "Alergia Alimentar",
+     "Anafilaxia e Urticária",
+     "Choque na criança",
+     "Crise asmática grave",
+     "Emergências Pediátricas",
+     "Intoxicações exógenas",
+     "Parada cardiorrespiratória pediátrica (PALS)",
+     "Queimaduras na criança"
+    ],
+    "total_questoes": 338
+   },
+   "cardiologia-pedi-trica": {
+    "nome": "Cardiologia Pediátrica",
+    "subcategorias": [
+     "Arritmias na criança",
+     "Cardiopatias Congênitas",
+     "Cardiopatias congênitas acianóticas",
+     "Cardiopatias congênitas cianóticas",
+     "Doença de Kawasaki",
+     "Febre Reumática",
+     "Hipertensão Arterial na Criança e Adolescente"
+    ],
+    "total_questoes": 294
+   },
+   "hematologia-pedi-trica": {
+    "nome": "Hematologia Pediátrica",
+    "subcategorias": [
+     "Anemias na criança (ferropriva, falciforme)",
+     "Leucemias e linfomas pediátricos",
+     "Púrpura e trombocitopenia"
+    ],
+    "total_questoes": 27
+   },
+   "maus-tratos-crian-as-e-adolescentes": {
+    "nome": "Maus tratos à crianças e adolescentes",
+    "subcategorias": [
+     "Sinais de alerta e notificação compulsória",
+     "Violência física, sexual e psicológica"
+    ],
+    "total_questoes": 8
+   },
+   "endocrinologia-pedi-trica": {
+    "nome": "Endocrinologia pediátrica",
+    "subcategorias": [
+     "Hiperplasia Adrenal Congênita",
+     "Hipotireoidismo Congênito"
+    ],
+    "total_questoes": 119
+   },
+   "pneumologia-pedi-trica": {
+    "nome": "Pneumologia Pediátrica",
+    "subcategorias": [
+     "Asma",
+     "Asma na criança",
+     "Bronquiolite aguda",
+     "Fibrose Cística",
+     "Pneumonia na criança",
+     "Pneumonias na Infância",
+     "Tuberculose na Infância"
+    ],
+    "total_questoes": 402
+   },
+   "nefrologia-pedi-trica": {
+    "nome": "Nefrologia Pediátrica",
+    "subcategorias": [
+     "Infecção de Trato Urinário em Pediatria (ITU)",
+     "Infecção urinária na criança",
+     "Insuficiência renal aguda na criança",
+     "Síndrome nefrítica na criança",
+     "Síndrome nefrótica na criança"
+    ],
+    "total_questoes": 114
+   },
+   "geral": {
+    "nome": "Geral",
+    "subcategorias": [],
+    "total_questoes": 9
+   }
+  }
+ },
+ "oftalmologia": {
+  "nome": "Oftalmologia",
+  "total": 227,
+  "subcategorias": {
+   "oftalmologia": {
+    "nome": "Oftalmologia",
+    "total": 227
+   }
+  },
+  "subdetalhes": {
+   "oftalmologia": {
+    "nome": "Oftalmologia",
+    "subcategorias": [
+     "Anatomia e Fisiologia do Aparelho Visual",
+     "Córnea e Cristalino",
+     "Distúrbios da Refração",
+     "Doenças do Polo Posterior",
+     "Glaucoma",
+     "Neuroftalmologia",
+     "Síndrome do Olho Vermelho"
+    ],
+    "total_questoes": 227
+   }
+  }
+ },
+ "ortopedia": {
+  "nome": "Ortopedia",
+  "total": 799,
+  "subcategorias": {
+   "ortopedia": {
+    "nome": "Ortopedia",
+    "total": 799
+   }
+  },
+  "subdetalhes": {
+   "ortopedia": {
+    "nome": "Ortopedia",
+    "subcategorias": [
+     "Coluna Pediátrica",
+     "Complicações do Trauma Ortopédico",
+     "Conceitos Básicos do Trauma Ortopédico",
+     "Desenvolvimento Ortopédico da Criança",
+     "Doenças Neuromusculares Pediátricas",
+     "Doenças da Coluna Vertebral",
+     "Doenças da Mão e Síndromes Compressivas",
+     "Doenças de Partes Moles",
+     "Doenças do Ombro e Cotovelo",
+     "Fratura Exposta",
+     "Maus Tratos",
+     "Ombro e Joelho Pediátrico",
+     "Oncologia Ortopédica e Osteomielite",
+     "Politrauma Ortopédico",
+     "Quadril Pediátrico"
+    ],
+    "total_questoes": 799
+   }
+  }
+ },
+ "otorrino": {
+  "nome": "Otorrinolaringologia",
+  "total": 315,
+  "subcategorias": {
+   "otorrinolaringologia": {
+    "nome": "Otorrinolaringologia",
+    "total": 315
+   }
+  },
+  "subdetalhes": {
+   "otorrinolaringologia": {
+    "nome": "Otorrinolaringologia",
+    "subcategorias": [
+     "Infecções de Vias Aéreas Superiores - Parte I",
+     "Infecções de Vias Aéreas Superiores - Parte III",
+     "Otoneurologia, Vertigens e Audiologia"
+    ],
+    "total_questoes": 315
+   }
+  }
+ },
+ "psiquiatria": {
+  "nome": "Psiquiatria",
+  "total": 851,
+  "subcategorias": {
+   "psiquiatria": {
+    "nome": "Psiquiatria",
+    "total": 851
+   }
+  },
+  "subdetalhes": {
+   "psiquiatria": {
+    "nome": "Psiquiatria",
+    "subcategorias": [
+     "Dependência Química",
+     "Intoxicações Exógenas",
+     "Psicopatologia",
+     "Psiquiatria Infantil",
+     "Psiquiatria Social e Reforma Psiquiátrica",
+     "TOC, Transtornos Somáticos, Dissociativos e Relacionados ao Estresse",
+     "Transtorno de Personalidade",
+     "Transtornos Alimentares",
+     "Transtornos Psicóticos",
+     "Transtornos de Ansiedade",
+     "Transtornos do Humor"
+    ],
+    "total_questoes": 851
+   }
+  }
+ },
+ "medicina-legal": {
+  "nome": "Medicina Legal",
+  "total": 0,
+  "subcategorias": {},
+  "subdetalhes": {}
+ }
 }
