@@ -9011,8 +9011,8 @@
   "pv-rev-2024-1-0084": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Otorrinolaringologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -9021,7 +9021,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Cefaleias",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -9029,8 +9029,8 @@
   "pv-rev-2024-1-0089": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Hematologia",
+    "subsub": "Fundamentos de oncohematologia",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -9047,8 +9047,8 @@
   "pv-rev-2024-1-0091": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -9057,7 +9057,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "",
+    "subsub": "Epilepsias",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -9065,8 +9065,8 @@
   "pv-rev-2024-1-0095": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hepatologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Vacinas",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -9074,7 +9074,7 @@
   "pv-rev-2024-1-0099": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Ortopedia",
+    "sub": "Nefrologia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2024,
@@ -9083,8 +9083,8 @@
   "pv-rev-2024-1-0100": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
+    "sub": "Nefrologia",
+    "subsub": "Infecção do trato urinário (ITU)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -9092,8 +9092,8 @@
   "pv-rev-2024-2-0001": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Pneumologia",
+    "subsub": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9101,8 +9101,8 @@
   "pv-rev-2024-2-0004": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Ortopedia",
-    "subsub": "",
+    "sub": "Reumatologia",
+    "subsub": "Doenças da cartilagem e do osso",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9110,8 +9110,8 @@
   "pv-rev-2024-2-0005": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Nefrologia",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
