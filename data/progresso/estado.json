@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-08-30T20:24:18.524Z",
+  "exportado": "2026-08-30T23:20:02.815Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -629,6 +629,36 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-08-30T20:22:29.716Z",
       "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0028",
+      "acertou": false,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Epidemiologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-30T20:26:43.345Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0030",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Clínica Médica",
+      "subarea": "Dermatologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-30T20:27:28.528Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0032",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Cirurgia",
+      "subarea": "Cirurgia Bariátrica e Metabólica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-30T20:29:24.000Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -681,7 +711,10 @@
         "pv-rev-2026-1-0027": "certo",
         "pv-rev-2026-1-0029": "certo",
         "pv-rev-2026-1-0031": "certo",
-        "pv-rev-2026-1-0033": "certo"
+        "pv-rev-2026-1-0033": "certo",
+        "pv-rev-2026-1-0028": "errado",
+        "pv-rev-2026-1-0030": "certo",
+        "pv-rev-2026-1-0032": "certo"
       },
       "selecao": {
         "pv-rev-2026-1-0001": "D",
@@ -713,7 +746,10 @@
         "pv-rev-2026-1-0027": "A",
         "pv-rev-2026-1-0029": "A",
         "pv-rev-2026-1-0031": "B",
-        "pv-rev-2026-1-0033": "D"
+        "pv-rev-2026-1-0033": "D",
+        "pv-rev-2026-1-0028": "D",
+        "pv-rev-2026-1-0030": "B",
+        "pv-rev-2026-1-0032": "B"
       },
       "timerRestante": 0
     }
