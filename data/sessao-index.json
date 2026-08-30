@@ -21431,7 +21431,7 @@
   "pv-rev-2024-2-0008": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Outros",
+    "sub": "Neonatologia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2024,
@@ -21449,8 +21449,8 @@
   "pv-rev-2024-2-0033": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Infectologia Pediátrica",
-    "subsub": "",
+    "sub": "Puericultura",
+    "subsub": "Imunização (calendário vacinal)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -21458,8 +21458,8 @@
   "pv-rev-2024-2-0039": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Emergências Pediátricas",
+    "subsub": "Queimaduras na criança",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -21467,8 +21467,8 @@
   "pv-rev-2024-2-0048": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Neonatologia",
-    "subsub": "",
+    "sub": "Nefrologia Pediátrica",
+    "subsub": "Infecção urinária na criança",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -21477,7 +21477,7 @@
     "area": "pediatria",
     "area_nome": "Pediatria",
     "sub": "Hematologia Pediátrica",
-    "subsub": "",
+    "subsub": "Anemias na criança (ferropriva, falciforme)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -21485,7 +21485,7 @@
   "pv-rev-2024-2-0068": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Emergências Pediátricas",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2024,
@@ -21494,8 +21494,8 @@
   "pv-rev-2024-2-0078": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Hematologia Pediátrica",
-    "subsub": "",
+    "sub": "Neonatologia",
+    "subsub": "Incompatibilidade Rh/ABO",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -21503,7 +21503,7 @@
   "pv-rev-2024-2-0081": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Gastrologia Pediátrica",
+    "sub": "Infectologia Pediátrica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2024,
@@ -21512,7 +21512,7 @@
   "pv-rev-2024-2-0083": {
     "area": "pediatria",
     "area_nome": "Pediatria",
-    "sub": "Geral",
+    "sub": "Infectologia Pediátrica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2024,
