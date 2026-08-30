@@ -13539,7 +13539,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Urgências Abdominais",
-    "subsub": "",
+    "subsub": "Apendicite aguda",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -13557,7 +13557,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Complicações Pós-Operatórias",
-    "subsub": "",
+    "subsub": "Deiscência e evisceração",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -13565,7 +13565,7 @@
   "pv-rev-2024-2-0003": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Bariátrica",
+    "sub": "Cirurgia Bariátrica e Metabólica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2024,
