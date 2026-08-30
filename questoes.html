@@ -1206,7 +1206,7 @@ async function abrirArea(slug) {
   ordemEmbaralhada = false;
   document.getElementById('qTotal').textContent = questoesFiltradas.length;
   renderDots();
-  showQuestion(0);
+  showQuestion(0, true); // não rola: usuário escolhe o subtópico primeiro
 
   // Modo sessão: abre o modal de configuração ao entrar na área
   if (modo === 'sessao') {
@@ -1408,7 +1408,7 @@ function temImagemNoEnunciado(enunciado) {
 }
 
 // ─── Display ───
-function showQuestion(index) {
+function showQuestion(index, skipScroll) {
   if (index < 0 || index >= questoesFiltradas.length) return;
   currentIndex = index;
   // Seletor numérico acompanha a questão atual
@@ -1581,7 +1581,9 @@ function showQuestion(index) {
   }
 
   renderDots();
-  document.getElementById('questionCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  if (!skipScroll) {
+    document.getElementById('questionCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
 
   // Atualizar anotações
   atualizarNotas(q);
