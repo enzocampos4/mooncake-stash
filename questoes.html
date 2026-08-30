@@ -724,6 +724,7 @@
         <strong>📖 Explicação</strong>
         <div id="qExplicacaoTexto"></div>
         <div id="qExpImagens" class="exp-images"></div>
+        <div id="qExpVideo" class="exp-video" style="display:none;"></div>
       </div>
 
       <!-- Anotações -->
@@ -1448,6 +1449,8 @@ function showQuestion(index) {
 
   // Resets
   document.getElementById('qExplicacao').classList.remove('visible');
+  const expVidReset = document.getElementById('qExpVideo');
+  if (expVidReset) { expVidReset.style.display = 'none'; expVidReset.innerHTML = ''; }
   document.getElementById('btnConfirm').style.display = '';
   document.getElementById('btnConfirm').disabled = true;
   document.getElementById('qActions').querySelectorAll('.btn-correct, .btn-wrong, .btn-outline').forEach(e => e.remove());
@@ -1496,6 +1499,7 @@ function showQuestion(index) {
           expImgBox.appendChild(img);
         });
       }
+      renderVideoExplicacao(q);
     }
 
     // Substituir Confirm por badge + Refazer
@@ -1608,6 +1612,7 @@ function confirmAnswer() {
         expImgBox.appendChild(img);
       });
     }
+    renderVideoExplicacao(q);
   }
 
   // Salvar progresso com a alternativa selecionada
@@ -1772,6 +1777,24 @@ function aplicarFonte(pct) {
 function carregarFonte() {
   const salvo = parseInt(localStorage.getItem(FONTE_KEY) || '100', 10);
   aplicarFonte(salvo);
+}
+
+// ─── Vídeo da explicação ───
+function renderVideoExplicacao(q) {
+  const box = document.getElementById('qExpVideo');
+  if (!box) return;
+  if (!q.video_url) { box.style.display = 'none'; box.innerHTML = ''; return; }
+  box.innerHTML = `
+    <div class="video-explicacao" style="margin-top:10px;padding:10px 12px;border:1px dashed var(--accent2, #888);border-radius:10px;background:rgba(92,107,192,0.06);">
+      <div style="font-weight:bold;margin-bottom:8px;">▶️ Vídeo da solução</div>
+      <video controls preload="none" style="max-width:100%;border-radius:8px;background:#000;max-height:320px;width:100%;" src="${q.video_url}">
+        Seu navegador não suporta vídeo — <a href="${q.video_url}" target="_blank" rel="noopener">abrir em nova aba</a>
+      </video>
+      <div style="font-size:0.78em;opacity:0.7;margin-top:5px;">
+        <a href="${q.video_url}" target="_blank" rel="noopener" style="color:var(--accent2, #7c8cf8);">🔗 Abrir vídeo em nova aba</a>
+      </div>
+    </div>`;
+  box.style.display = '';
 }
 
 // ─── Timer ───
