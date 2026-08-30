@@ -13376,8 +13376,8 @@
   "pv-rev-2025-1-0017": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Nutrição em Cirurgia",
-    "subsub": "",
+    "sub": "Avaliação Pré-Operatória",
+    "subsub": "Jejum e medicação pré-op",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -13385,7 +13385,7 @@
   "pv-rev-2025-1-0032": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Cirurgia Plástica",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -13394,8 +13394,8 @@
   "pv-rev-2025-1-0042": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Complicações Pós-Operatórias",
-    "subsub": "",
+    "sub": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+    "subsub": "Nutrição enteral",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -13404,7 +13404,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Trauma",
-    "subsub": "",
+    "subsub": "ATLS e abordagem primária/secundária",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -13413,7 +13413,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Vesícula e Vias Biliares",
-    "subsub": "",
+    "subsub": "Coledocolitíase",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -13430,7 +13430,7 @@
   "pv-rev-2025-1-0078": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Trauma",
+    "sub": "Cirurgia Plástica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -13439,7 +13439,7 @@
   "pv-rev-2025-1-0085": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Geral",
+    "sub": "Temas Gerais em Cirurgia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -13448,7 +13448,7 @@
   "pv-rev-2025-1-0090": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Hérnias da Parede Abdominal",
+    "sub": "Complicações Pós-Operatórias",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -13457,8 +13457,8 @@
   "pv-rev-2025-2-0003": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Trauma",
-    "subsub": "",
+    "sub": "Proctologia",
+    "subsub": "Fissura anal",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -13466,7 +13466,7 @@
   "pv-rev-2025-2-0008": {
     "area": "cirurgia",
     "area_nome": "Cirurgia",
-    "sub": "Trauma",
+    "sub": "Urologia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -13476,7 +13476,7 @@
     "area": "cirurgia",
     "area_nome": "Cirurgia",
     "sub": "Hérnias da Parede Abdominal",
-    "subsub": "",
+    "subsub": "Hérnia femoral e outras",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
