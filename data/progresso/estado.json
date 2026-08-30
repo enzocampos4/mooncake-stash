@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-08-29T22:13:29.251Z",
+  "exportado": "2026-08-30T12:45:44.614Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -80,6 +80,22 @@
         "nota": "",
         "respondida": true,
         "data": "2026-08-05T02:15:59.694Z"
+      },
+      "site-card-1112": {
+        "acertou": true,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-30T12:34:56.790Z"
+      },
+      "site-card-1135": {
+        "acertou": true,
+        "selecao": "E",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-30T12:36:18.461Z"
       }
     },
     "pediatria": {
@@ -291,6 +307,26 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-08-29T15:33:12.796Z",
       "modo": "questoes"
+    },
+    {
+      "id": "site-card-1112",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "BQMED (Site) — Cardiologia",
+      "timestamp": "2026-08-30T12:34:56.793Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "site-card-1135",
+      "acertou": true,
+      "selecao": "E",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "BQMED (Site) — Cardiologia",
+      "timestamp": "2026-08-30T12:36:18.462Z",
+      "modo": "📖 Livre"
     }
   ],
   "favoritos": {},
@@ -303,11 +339,12 @@
   },
   "streak": {
     "count": 1,
-    "ultimo": "2026-08-13",
+    "ultimo": "2026-08-30",
     "dias": {
       "2026-08-03": 7,
       "2026-08-05": 3,
-      "2026-08-13": 1
+      "2026-08-13": 1,
+      "2026-08-30": 2
     }
   },
   "simulados": {
