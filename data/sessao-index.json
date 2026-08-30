@@ -9119,8 +9119,8 @@
   "pv-rev-2024-2-0009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
+    "sub": "Dermatologia",
+    "subsub": "Dermatoses infecciosas",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9129,7 +9129,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "",
+    "subsub": "Glomerulopatias",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9138,7 +9138,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "",
+    "subsub": "Arboviroses",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9146,8 +9146,8 @@
   "pv-rev-2024-2-0012": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Otorrinolaringologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Infecções sexualmente transmissíveis",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9155,8 +9155,8 @@
   "pv-rev-2024-2-0013": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9164,8 +9164,8 @@
   "pv-rev-2024-2-0015": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Meningite",
+    "sub": "Neurologia",
+    "subsub": "Mielopatias",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
