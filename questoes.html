@@ -1236,10 +1236,12 @@ function filtrarSubarea(subSlug) {
 
   // Show/hide sub-subcategory drill-down
   const filter2El = document.getElementById('subFilter2');
+  let temSubSub = false;
   if (subSlug && assuntoData?.[areaAtual]?.subdetalhes?.[subSlug]) {
     const detalhes = assuntoData[areaAtual].subdetalhes[subSlug];
     const subcats = detalhes.subcategorias || [];
     if (subcats.length > 0) {
+      temSubSub = true;
       // Count questions per sub-subcategory
       const subNome = _lookupSubNome(subSlug);
       const qs = subNome ? questoes.filter(q => q.subarea && q.subarea.toLowerCase() === subNome.toLowerCase()) : questoes;
@@ -1264,7 +1266,8 @@ function filtrarSubarea(subSlug) {
     filter2El.style.display = 'none';
   }
 
-  aplicarFiltros();
+  // Rola só no fim da hierarquia: se há sub-subtópicos, fica pra escolher primeiro
+  aplicarFiltros(temSubSub);
 }
 
 function filtrarSubSubarea(subSubNome) {
@@ -1581,7 +1584,14 @@ function showQuestion(index, skipScroll) {
   }
 
   renderDots();
-  if (!skipScroll) {
+  if (skipScroll) {
+    // Subtópico com drill-down: rola para os pills de sub-subtópico
+    // (não para a questão — o usuário ainda vai escolher o sub-sub)
+    const alvo = document.getElementById('subFilter2');
+    const alvoVisivel = alvo && alvo.style.display !== 'none' && alvo.children.length > 0;
+    (alvoVisivel ? alvo : document.getElementById('subFilter'))
+      .scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } else {
     document.getElementById('questionCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
@@ -2462,7 +2472,7 @@ function toggleShuffle() {
   else aplicarFiltros();
 }
 
-function aplicarFiltros() {
+function aplicarFiltros(skipScroll) {
   let lista = [...questoes];
 
   // Filtro por estado
@@ -2537,8 +2547,9 @@ function aplicarFiltros() {
     subareaFiltro
       ? `${_lookupSubNome(subareaFiltro) || subareaFiltro} • ${lista.length} questões`
       : `${questoes.length} questões`;
+
   renderDots();
-  showQuestion(0);
+  showQuestion(0, skipScroll);
 }
 
 // ─── Notas ───
