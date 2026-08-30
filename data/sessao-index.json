@@ -24078,7 +24078,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia geral",
-    "subsub": "",
+    "subsub": "Climatério e menopausa",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -24087,7 +24087,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Ginecologia endócrina",
-    "subsub": "",
+    "subsub": "Amenorreia",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -24096,7 +24096,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Infecções em ginecologia",
-    "subsub": "",
+    "subsub": "Vaginoses e vulvovaginites (candidíase, tricomoníase, vaginose bacteriana)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -24105,7 +24105,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia ginecológica",
-    "subsub": "",
+    "subsub": "Câncer de endométrio",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -24114,7 +24114,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Mastologia",
-    "subsub": "Câncer de mama",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -24123,7 +24123,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Mastologia",
-    "subsub": "Câncer de mama",
+    "subsub": "Nódulos mamários benignos (fibroadenoma, cistos)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -24131,8 +24131,8 @@
   "pv-rev-2025-1-0098": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -24141,7 +24141,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Infecções em ginecologia",
-    "subsub": "",
+    "subsub": "Infecções sexualmente transmissíveis (IST)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -24149,8 +24149,8 @@
   "pv-rev-2025-2-0032": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -24158,8 +24158,8 @@
   "pv-rev-2025-2-0053": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia geral",
-    "subsub": "",
+    "sub": "Ginecologia endócrina",
+    "subsub": "Endometriose",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -24167,8 +24167,8 @@
   "pv-rev-2025-2-0096": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Câncer de colo de útero (CCU) — rastreio, HPV, Papanicolau",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -24177,7 +24177,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Oncologia ginecológica",
-    "subsub": "",
+    "subsub": "Câncer de ovário",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
