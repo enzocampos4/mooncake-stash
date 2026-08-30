@@ -26678,7 +26678,7 @@
   "pv-rev-2025-1-0004": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Intercorrências obstétricas",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -26687,8 +26687,8 @@
   "pv-rev-2025-1-0009": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Intercorrências obstétricas",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -26696,8 +26696,8 @@
   "pv-rev-2025-1-0010": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Intercorrências obstétricas",
-    "subsub": "",
+    "sub": "Pré-natal",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -26705,8 +26705,8 @@
   "pv-rev-2025-1-0019": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Medicina fetal",
-    "subsub": "",
+    "sub": "Parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -26714,7 +26714,7 @@
   "pv-rev-2025-1-0024": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -26723,8 +26723,8 @@
   "pv-rev-2025-1-0029": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -26732,8 +26732,8 @@
   "pv-rev-2025-1-0044": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Medicina fetal",
+    "subsub": "Isoimunização Rh",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -26742,7 +26742,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de parto",
+    "subsub": "Via de parto (normal vs cesárea)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -26750,8 +26750,8 @@
   "pv-rev-2025-1-0065": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
+    "sub": "Puerpério",
+    "subsub": "Puerpério normal",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -26759,8 +26759,8 @@
   "pv-rev-2025-1-0069": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de parto",
+    "sub": "Pré-natal",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -26768,7 +26768,7 @@
   "pv-rev-2025-1-0083": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Doenças associadas à gestação",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -26777,7 +26777,7 @@
   "pv-rev-2025-2-0012": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Intercorrências obstétricas",
+    "sub": "Intercorrências obstétricas /obstetrícia patológica",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,

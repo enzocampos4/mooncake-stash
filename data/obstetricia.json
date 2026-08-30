@@ -7514,8 +7514,8 @@
       "id": "pv-rev-2025-2-0091",
       "numero": 91,
       "area": "Obstetrícia",
-      "subarea": "Pré-natal",
-      "sub_subarea": "",
+      "subarea": "Puerpério",
+      "sub_subarea": "Complicações puerperais (hemorragia, infecção, depressão)",
       "enunciado": "Recém-nascido de 14 dias, hipoativo e com desconforto respiratório, é levado para avaliação na Unidade de Pronto\nAtendimento (UPA). Antecedentes obstétricos: não foi realizado pré-natal e o parto ocorreu a termo no domicílio. Exame\nclínico: hipoativo e pouco responsivo, hipocorado, cianótico. Aparelho respiratório: 70 irpm com tiragem subcostal.\nMurmúrio vesicular diminuído bilateralmente. Saturação de O₂ em ar ambiente de 82%. Aparelho cardiovascular: pulsos\ndébeis, tempo de perfusão capilar de 5 segundos. Frequência cardíaca de 160 bpm, com ritmo cardíaco regular. Abdome\ngloboso, com fígado a 2,5 cm do rebordo costal direito, presença de halo de hiperemia e edema em torno do coto umbilical.\nO diagnóstico e as condutas adequadas são, respectivamente,",
       "alternativas": {
         "A": "choque cardiogênico; manter suporte ventilatório, evitar excesso de volume intravascular devido a risco de piora,\nadministrar fármacos vasoativos e prostaglandina E1.",
@@ -7544,7 +7544,7 @@
       "numero": 93,
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de parto",
+      "sub_subarea": "Indução e condução do trabalho de parto",
       "enunciado": "Parturiente de 29 anos, sem comorbidades, esteve em trabalho de parto por 8 horas e evoluiu para parto vaginal. Após 10\nminutos do desprendimento do feto, ainda não se observou a expulsão da placenta. A paciente está estável e sem sinais de\nhemorragia.\nDiante do quadro apresentado, a conduta a ser adotada é",
       "alternativas": {
         "A": "aguardar a expulsão espontânea da placenta, sem intervenções adicionais, e observar sinais de separação.",
@@ -7570,8 +7570,8 @@
       "id": "pv-rev-2024-1-0018",
       "numero": 18,
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Infecções na gestação (TORCH, HIV, sífilis)",
       "enunciado": "Um recém-nascido, com peso de nascimento de 2.900 g, nascido a termo e de parto vaginal, é levado à primeira consulta\npós-natal na unidade básica de saúde com 10 dias de vida. Durante a consulta, observa-se abundante quantidade de\nsecreção purulenta em ambos os olhos da criança e, segundo a mãe, essa secreção teve início há 2 dias, formando-se\n\n\nrapidamente, mesmo após a limpeza. O paciente apresenta, também, hiperemia ocular e edema bipalpebral. Sabe-se que a\nmãe iniciou tardiamente o pré-natal e fez acompanhamento irregular, e ela refere que, atualmente, está apresentando\nleucorreia purulenta. O médico, então, solicita swab da secreção, cujo resultado chegará em até 5 dias.\nCom base nessas informações, quais são, respectivamente, o diagnóstico da doença da criança e a conduta médica\nadequada para o caso?",
       "alternativas": {
         "A": "Conjuntivite gonocócica; tratar a criança com colírio antibiótico após receber o resultado do swab, já que não há risco\nde perda da visão.",
@@ -7596,7 +7596,7 @@
       "numero": 27,
       "area": "Obstetrícia",
       "subarea": "Parto",
-      "sub_subarea": "Trabalho de parto",
+      "sub_subarea": "Distócias",
       "enunciado": "Uma mulher com 25 anos, primigesta, na 39ª semana de gestação, encontra-se na segunda fase do trabalho de parto (colo\ntotalmente dilatado, cabeça fletida, encaixada no plano +2 de De Lee, posição occipto-púbica, proporção cefalopélvica\nadequada), em bloco obstétrico de uma maternidade do Sistema Único de Saúde, atendida por equipe experiente. A\ngestante, segundo relatou, havia planejado parto normal em seu pré-natal, mas após uma hora de trabalho de parto, entra\nem exaustão, e as contrações uterinas vão diminuindo em frequência, mesmo depois de medidas encorajadoras de esforço.\nRealiza-se anestesia neuroaxial, é administrada ocitocina, sendo realizada amniotomia, que revelou líquido meconial. A\ncardiotocografia apresenta resultado normal, razão pela qual a equipe médica decide aguardar a progressão do parto,\nporém, com 2 horas e meia de trabalho de parto, nova cardiotocografia aponta bradicardia, e as contrações não se revelam\neficientes para a conclusão do período expulsivo. A partir do caso clínico descrito, qual deve ser a melhor conduta?",
       "alternativas": {
         "A": "Indicar a realização imediata de parto cesáreo de urgência.",
@@ -7620,8 +7620,8 @@
       "id": "pv-rev-2024-1-0032",
       "numero": 32,
       "area": "Obstetrícia",
-      "subarea": "Parto",
-      "sub_subarea": "Trabalho de parto",
+      "subarea": "Medicina fetal",
+      "sub_subarea": "Cardiotocografia",
       "enunciado": "Uma secundigesta com parto vaginal anterior e sem comorbidades chega à maternidade em trabalho de parto. Dez minutos\napós a meia-noite, avaliado o processo de trabalho de parto, constata-se evolução normal. Realizado exame físico na\npaciente, verifica-se uma apresentação em plano positivo (+2), colo 100% esvaecido, com 8 centímetros de dilatação, bolsa\nrota. À ausculta de batimentos cardíacos fetais, o médico assistente nota uma queda nos batimentos e, por isso, opta por\nrealizar uma cardiotocografia, cujo resultado é mostrado a seguir.\n\n\nDiante do traçado cardiotocográfico, assinale a opção correta.",
       "alternativas": {
         "A": "A linha de base está entre 100 e 150 bpm, a variabilidade é aumentada, as desacelerações são do tipo precoce,\nportanto, a conduta deve ser reanimação intrauterina.",
@@ -7650,8 +7650,8 @@
       "id": "pv-rev-2024-1-0037",
       "numero": 37,
       "area": "Obstetrícia",
-      "subarea": "Geral",
-      "sub_subarea": "",
+      "subarea": "Pré-natal",
+      "sub_subarea": "Consultas e exames de pré-natal",
       "enunciado": "Uma mulher com 30 anos procura o médico na unidade básica de saúde e, em consulta, relata que, há 9 meses, parou de\nusar o anticoncepcional oral combinado e que não voltou a menstruar até o momento. Refere também uso desse método\ncontraceptivo por 10 anos e aumento de pelos no corpo.\n \nO exame ginecológico, apresenta-se normal. No exame físico, verificam-se: índice de massa corporal de 27 kg/m2 ; pressão\narterial de 110 x 72 mmHg; cintura abdominal de 80 cm; acne e hirsutismo moderado.\n \nOs exames complementares apresentam os seguintes resultados: Beta-hCG negativo; TSH = 2,5 mUI/L (valor de referência -\nVR: 0,3 a 4,0 UI/L); prolactina = 18 ng/mL (VR: < 31 ng/mL); FSH = 6 mUI/mL (VR: 2 a 30 mUI/mL).\n \nDiante do quadro clínico da paciente, o diagnóstico é de amenorreia secundária por",
       "alternativas": {
         "A": "falência ovariana prematura.",
