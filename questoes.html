@@ -308,6 +308,38 @@
   .dot.wrong { background: var(--wrong); color: white; }
   .dot:hover { transform: scale(1.1); }
 
+  /* Navegação do seletor numérico (páginas de 100) */
+  .dot-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    width: 100%;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed var(--border);
+  }
+  .dot-nav-btn {
+    width: 30px; height: 30px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--card2);
+    color: var(--text);
+    font-size: 0.75rem;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    transition: 0.2s;
+    line-height: 1;
+  }
+  .dot-nav-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); transform: scale(1.08); }
+  .dot-nav-btn:disabled { opacity: 0.35; cursor: default; }
+  .dot-range {
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
   /* Result screen */
   .result-screen {
     display: none;
@@ -840,6 +872,8 @@ const ASSUNTOS_URL = 'data/assuntos.json';
 
 let questoes = [];
 let currentIndex = 0;
+let dotPage = 0;                    // página atual do seletor numérico
+const DOT_PAGE_SIZE = 100;          // quadradinhos por página
 let acertos = 0;
 let erros = 0;
 let timerInterval = null;
@@ -1377,6 +1411,8 @@ function temImagemNoEnunciado(enunciado) {
 function showQuestion(index) {
   if (index < 0 || index >= questoesFiltradas.length) return;
   currentIndex = index;
+  // Seletor numérico acompanha a questão atual
+  dotPage = Math.floor(index / DOT_PAGE_SIZE);
   const q = questoesFiltradas[index];
 
   // Verificar estado salvo
@@ -1740,8 +1776,44 @@ function renderDots() {
   container.innerHTML = '';
   if (questoesFiltradas.length === 0) return;
   const areaKey = getAreaKey(questoesFiltradas[0]);
+  const total = questoesFiltradas.length;
+  const totalPaginas = Math.max(1, Math.ceil(total / DOT_PAGE_SIZE));
+  if (dotPage >= totalPaginas) dotPage = totalPaginas - 1;
+  if (dotPage < 0) dotPage = 0;
 
-  questoesFiltradas.forEach((q, i) => {
+  const inicio = dotPage * DOT_PAGE_SIZE;
+  const fim = Math.min(total, inicio + DOT_PAGE_SIZE);
+
+  // Barra de navegação (setas ◀ ▶ + faixa exibida)
+  const nav = document.createElement('div');
+  nav.className = 'dot-nav';
+
+  const prevBtn = document.createElement('button');
+  prevBtn.className = 'dot-nav-btn';
+  prevBtn.textContent = '◀';
+  prevBtn.disabled = dotPage === 0;
+  prevBtn.title = 'Página anterior';
+  prevBtn.onclick = () => { dotPage--; renderDots(); };
+  nav.appendChild(prevBtn);
+
+  const label = document.createElement('span');
+  label.className = 'dot-range';
+  label.textContent = total > DOT_PAGE_SIZE ? `${inicio + 1}–${fim} de ${total}` : `${total} questões`;
+  nav.appendChild(label);
+
+  const nextBtn = document.createElement('button');
+  nextBtn.className = 'dot-nav-btn';
+  nextBtn.textContent = '▶';
+  nextBtn.disabled = dotPage >= totalPaginas - 1;
+  nextBtn.title = 'Próxima página';
+  nextBtn.onclick = () => { dotPage++; renderDots(); };
+  nav.appendChild(nextBtn);
+
+  container.appendChild(nav);
+
+  // Quadradinhos da página atual (apenas DOT_PAGE_SIZE por vez)
+  for (let i = inicio; i < fim; i++) {
+    const q = questoesFiltradas[i];
     const dot = document.createElement('div');
     dot.className = 'dot';
     if (i === currentIndex) dot.classList.add('current');
@@ -1754,7 +1826,7 @@ function renderDots() {
 
     dot.onclick = () => showQuestion(i);
     container.appendChild(dot);
-  });
+  }
 }
 
 // ─── Ajuste de fonte ───
