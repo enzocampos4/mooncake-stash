@@ -24186,7 +24186,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Mastologia",
-    "subsub": "Câncer de mama",
+    "subsub": "Exame das mamas e rastreio (USG, mamografia)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -24194,8 +24194,8 @@
   "pv-rev-2024-1-0011": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Ginecologia endócrina",
-    "subsub": "",
+    "sub": "Ginecologia geral",
+    "subsub": "Sangramento uterino anormal (SUA)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -24203,8 +24203,8 @@
   "pv-rev-2024-1-0012": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "",
+    "sub": "Oncologia ginecológica",
+    "subsub": "Neoplasia intraepitelial cervical (NIC)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -24212,8 +24212,8 @@
   "pv-rev-2024-1-0017": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Infecções em ginecologia",
-    "subsub": "",
+    "sub": "Ginecologia básica",
+    "subsub": "Semiologia ginecológica (exame especular, toque, PN)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -24222,7 +24222,7 @@
     "area": "ginecologia",
     "area_nome": "Ginecologia",
     "sub": "Mastologia",
-    "subsub": "",
+    "subsub": "Mastites e abscesso mamário",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -24230,8 +24230,8 @@
   "pv-rev-2024-1-0042": {
     "area": "ginecologia",
     "area_nome": "Ginecologia",
-    "sub": "Oncologia ginecológica",
-    "subsub": "",
+    "sub": "Ginecologia geral",
+    "subsub": "Climatério e menopausa",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
