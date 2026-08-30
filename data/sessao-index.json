@@ -9227,8 +9227,8 @@
   "pv-rev-2024-2-0027": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Endocrinologia",
+    "subsub": "Gênero",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9246,7 +9246,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "HIV",
+    "subsub": "Síndromes febris",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9254,8 +9254,8 @@
   "pv-rev-2024-2-0032": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "HIV/Aids",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9272,7 +9272,7 @@
   "pv-rev-2024-2-0038": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Psiquiatria",
+    "sub": "Neurologia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2024,
@@ -9281,8 +9281,8 @@
   "pv-rev-2024-2-0040": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Gastroenterologia",
-    "subsub": "",
+    "sub": "Reumatologia",
+    "subsub": "Síndromes Dolorosas Crônicas",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9291,7 +9291,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Tuberculose",
+    "subsub": "Pneumonia",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9299,8 +9299,8 @@
   "pv-rev-2024-2-0042": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Neurologia",
-    "subsub": "",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9308,8 +9308,8 @@
   "pv-rev-2024-2-0043": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Oftalmologia",
-    "subsub": "",
+    "sub": "Infectologia",
+    "subsub": "Síndromes febris",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9317,8 +9317,8 @@
   "pv-rev-2024-2-0044": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "",
+    "sub": "Gastroenterologia",
+    "subsub": "Intestinos",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
@@ -9326,8 +9326,8 @@
   "pv-rev-2024-2-0045": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Emergências / UTI",
-    "subsub": "",
+    "sub": "Neurologia",
+    "subsub": "Coma e Alterações da Consciência",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.2"
