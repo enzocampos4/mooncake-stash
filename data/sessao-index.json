@@ -26840,8 +26840,8 @@
   "pv-rev-2025-2-0091": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Pré-natal",
-    "subsub": "",
+    "sub": "Puerpério",
+    "subsub": "Complicações puerperais (hemorragia, infecção, depressão)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -26850,7 +26850,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de parto",
+    "subsub": "Indução e condução do trabalho de parto",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.2"
@@ -26858,8 +26858,8 @@
   "pv-rev-2024-1-0018": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "",
+    "sub": "Doenças associadas à gestação",
+    "subsub": "Infecções na gestação (TORCH, HIV, sífilis)",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -26868,7 +26868,7 @@
     "area": "obstetricia",
     "area_nome": "Obstetricia",
     "sub": "Parto",
-    "subsub": "Trabalho de parto",
+    "subsub": "Distócias",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -26876,8 +26876,8 @@
   "pv-rev-2024-1-0032": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Parto",
-    "subsub": "Trabalho de parto",
+    "sub": "Medicina fetal",
+    "subsub": "Cardiotocografia",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
@@ -26885,8 +26885,8 @@
   "pv-rev-2024-1-0037": {
     "area": "obstetricia",
     "area_nome": "Obstetricia",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Pré-natal",
+    "subsub": "Consultas e exames de pré-natal",
     "banca": "REVALIDA INEP",
     "ano": 2024,
     "fonte": "REVALIDA INEP 2024.1"
