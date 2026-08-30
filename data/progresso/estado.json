@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-08-30T19:50:40.999Z",
+  "exportado": "2026-08-30T20:02:14.449Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -549,6 +549,56 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-08-30T19:49:47.111Z",
       "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0023",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Clínica Médica",
+      "subarea": "Nefrologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-30T19:51:39.737Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0024",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Pediatria",
+      "subarea": "Neonatologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-30T19:53:04.529Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0025",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Otorrinolaringologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-30T19:55:39.787Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0026",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Obstetrícia",
+      "subarea": "Parto",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-30T19:58:02.641Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0027",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Nefrologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-08-30T20:00:18.456Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -593,7 +643,12 @@
         "pv-rev-2026-1-0019": "certo",
         "pv-rev-2026-1-0020": "certo",
         "pv-rev-2026-1-0021": "errado",
-        "pv-rev-2026-1-0022": "certo"
+        "pv-rev-2026-1-0022": "certo",
+        "pv-rev-2026-1-0023": "certo",
+        "pv-rev-2026-1-0024": "certo",
+        "pv-rev-2026-1-0025": "certo",
+        "pv-rev-2026-1-0026": "certo",
+        "pv-rev-2026-1-0027": "certo"
       },
       "selecao": {
         "pv-rev-2026-1-0001": "D",
@@ -617,7 +672,12 @@
         "pv-rev-2026-1-0019": "C",
         "pv-rev-2026-1-0020": "C",
         "pv-rev-2026-1-0021": "B",
-        "pv-rev-2026-1-0022": "C"
+        "pv-rev-2026-1-0022": "C",
+        "pv-rev-2026-1-0023": "B",
+        "pv-rev-2026-1-0024": "C",
+        "pv-rev-2026-1-0025": "C",
+        "pv-rev-2026-1-0026": "A",
+        "pv-rev-2026-1-0027": "A"
       },
       "timerRestante": 0
     }
