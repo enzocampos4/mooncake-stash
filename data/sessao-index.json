@@ -231285,7 +231285,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Financiamento em Saúde",
+    "subsub": "Financiamento e pactuação (NOB, NOAS)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231294,7 +231294,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Epidemias e Epidemiologia das Doenças Infecciosas",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231303,7 +231303,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "História do SUS",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231312,7 +231312,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "História do SUS",
+    "subsub": "Financiamento e pactuação (NOB, NOAS)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231320,8 +231320,8 @@
   "site-pre-0123": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Princípios e Diretrizes do SUS",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231330,7 +231330,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Descentralização e regionalização do SUS",
+    "subsub": "Lei 8.080/90 e 8.142/90",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231339,7 +231339,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Descentralização e regionalização do SUS",
+    "subsub": "Regionalização e Rede de Atenção à Saúde (RAS)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231348,7 +231348,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "História do SUS",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231357,7 +231357,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+    "subsub": "Lei 8.080/90 e 8.142/90",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231366,7 +231366,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+    "subsub": "Controle social e participação popular",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231375,7 +231375,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -231384,7 +231384,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
