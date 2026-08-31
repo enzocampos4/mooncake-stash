@@ -25394,8 +25394,8 @@
       "id": "site-pre-0143",
       "numero": 143,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "A queda na mortalidade materna a partir de 1999 correlaciona-se principalmente com",
       "alternativas": {
         "A": "maior cobertura dos planos de saúde privados.",
@@ -25424,8 +25424,8 @@
       "id": "site-pre-0144",
       "numero": 144,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "Sobre o Programa Nacional de Atenção Integral à Saúde do Homem (PNAISH), é correto afirmar:",
       "alternativas": {
         "A": "A população brasileira masculina é suplantada pela população feminina na faixa de 40 a 49 anos, em\ndecorrência de óbitos por doenças cardiocirculatórias.",
@@ -25455,7 +25455,7 @@
       "numero": 145,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Epidemiologia é a ciência que estuda a distribuição, os determinantes e o processo das doenças e eventos de\nsaúde. Sobre Coeficiente de Incidência é correto afirmar que:",
       "alternativas": {
         "A": "é o número de óbitos numa dada população em um determinado período, dividido pelo número de\nhabitantes no período considerado dos óbitos.",
@@ -25485,7 +25485,7 @@
       "numero": 146,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Sobre o processo epidêmico, é INCORRETO afirmar que:",
       "alternativas": {
         "A": "Surto epidêmico é uma ocorrência epidêmica restrita a um espaço extremamente delimitado, como um\ncolégio, bairro ou quartel.",
@@ -25514,7 +25514,7 @@
       "numero": 147,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Qual dos seguintes modelos de sistema de saúde é orientado pela lógica do mercado?",
       "alternativas": {
         "A": "Seguridade Social",
@@ -25543,8 +25543,8 @@
       "id": "site-pre-0148",
       "numero": 148,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Para acompanhar de forma efetiva casos clínicos complexos de multimorbidade em indivíduos nas suas\ncomunidades é fundamental a habilidade do médico em realizar o método clínico centrado na pessoa. Neste\nsentido, é correto afirmar que:",
       "alternativas": {
         "A": "a primeira dimensão do método é composta pela relação médico paciente no contexto familiar.",
@@ -25574,7 +25574,7 @@
       "numero": 149,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Para um cuidado integral do indivíduo em situação de doença, existem diversos meios de abordagem terapêutica. Neste\ntópico, na década de 70 iniciou-se uma discussão sobre as práticas integrativas que deu origem a instituição da Política\nNacional de Práticas Integrativas e Complementares no SUS em 2006. De acordo com a legislação vigente, é correto\nafirmar que:",
       "alternativas": {
         "A": "o financiamento destas práticas na Atenção Básica é pago por produção.",
@@ -25604,7 +25604,7 @@
       "numero": 150,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "A epidemiologia descritiva considera variáveis circunstanciais relacionadas a tempo, lugar e pessoa. Assinale a\nalternativa que contém variáveis epidemiológicas relacionadas a tempo:",
       "alternativas": {
         "A": "tendência secular e variação interestadual",
@@ -25633,8 +25633,8 @@
       "id": "site-pre-0151",
       "numero": 151,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Analise o diálogo entre o médico de família e comunidade (MFC) e a pessoa durante uma consulta para responder\na questão: \nMFC: Bom dia, D. Lúcia! Em que posso ajudá-la hoje?\n \nPESSOA: Bom dia, doutora! Vim aqui por causa da minha dor na coluna que não me deixa.\n \nMFC: Entendi. A senhora já havia falado dessa dor na última consulta. Melhorou algo com a medicação que\npassei?\n \nPESSOA: Muito pouco, doutora, não estou aguentando mais. Não tenho posição pra ficar. \nMFC: Passou pela sua cabeça o que pode estar acontecendo? \nPESSOA: Eu tenho uma vizinha que tem hérnia de disco, então fiquei pensando que poderia ser isso. \nMFC: E o que isso tem prejudicado no seu dia-a-dia? \nPESSOA: Não tenho conseguido trabalhar e, às vezes, é difícil até para dormir. \nMFC: E o que a senhora pensou que poderíamos fazer hoje? \nPESSOA: Acho que a senhora poderia pedir um exame para ver se tenho hérnia de disco mesmo. \nMFC: Nós podemos examinar? \nPESSOA: Claro, doutora! Após o exame físico. \nPESSOA: Ninguém nunca havia feito tantos exames em mim numa consulta. \nMFC: É porque é importante analisarmos bem, já que a senhora está preocupada. Pelos exames que fiz, não há\nsinais de que o problema seja por causa de hérnia de disco, nem que seja algo grave. Parece uma dor lombar\ninespecífica mesmo. Assim, normalmente não pedimos exame para esse tipo de problema, mas é importante fazer\nfisioterapia. \nPESSOA: Então, nem precisa do exame, né? E a senhora vai me mandar para fisioterapia? \nMFC: Isso mesmo, D. Lúcia! \nPESSOA: Ótimo! \nMFC: Aqui está o encaminhamento e, qualquer coisa, retorne. \nPESSOA: Tem mais uma coisa, doutora! A senhora poderia pedir uns exames de check up pra mim? \nAs perguntas feitas pela médica:\n- \"Passou pela sua cabeça o que pode estar acontecendo?\"; \n- \"E o que isso tem prejudicado no seu dia-a-dia?\"\";\n- \"E o que a senhora pensou que poderíamos fazer hoje?\" \nCorrespondem á aplicação do:\nwww.drivemedico.com.br | (11) 91241-1911\nwww.drivemedico.com.br | (11) 91241-1911",
       "alternativas": {
         "A": "Segundo componente do Método Clínico Centrado na Pessoa, que é abordar a saúde, a doença e a\nexperiência da pessoa com a doença.",
@@ -25663,8 +25663,8 @@
       "id": "site-pre-0152",
       "numero": 152,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Analise o diálogo entre o médico de família e comunidade (MFC) e a pessoa durante uma consulta para responder\na questão: \nMFC: Bom dia, D. Lúcia! Em que posso ajudá-la hoje? \nPESSOA: Bom dia, doutora! Vim aqui por causa da minha dor na coluna que não me deixa. \nMFC: Entendi. A senhora já havia falado dessa dor na última consulta. Melhorou algo com a medicação que\npassei? \nPESSOA: Muito pouco, doutora, não estou aguentando mais. Não tenho posição pra ficar. \nMFC: Passou pela sua cabeça o que pode estar acontecendo? \nPESSOA: Eu tenho uma vizinha que tem hérnia de disco, então fiquei pensando que poderia ser isso. \nMFC: E o que isso tem prejudicado no seu dia-a-dia?\nPESSOA: Não tenho conseguido trabalhar e, às vezes, é difícil até para dormir. \nMFC: E o que a senhora pensou que poderíamos fazer hoje? \nPESSOA: Acho que a senhora poderia pedir um exame para ver se tenho hérnia de disco mesmo. \nMFC: Nós podemos examinar? \nPESSOA: Claro, doutora! Após o exame físico. \nPESSOA: Ninguém nunca havia feito tantos exames em mim numa consulta. \nMFC: É porque é importante analisarmos bem, já que a senhora está preocupada. Pelos exames que fiz, não há\nsinais de que o problema seja por causa de hérnia de disco, nem que seja algo grave. Parece uma dor lombar\ninespecífica mesmo. Assim, normalmente não pedimos exame para esse tipo de problema, mas é importante fazer\nfisioterapia. \nPESSOA: Então, nem precisa do exame, né? E a senhora vai me mandar para fisioterapia? \nMFC: Isso mesmo, D. Lúcia! \nPESSOA: Ótimo! \nMFC: Aqui está o encaminhamento e, qualquer coisa, retorne. \nPESSOA: Tem mais uma coisa, doutora! A senhora poderia pedir uns exames de check up pra mim? \nConsiderando o desenvolvimento de habilidades de comunicação e entrevista clínica, o trecho \"Tem mais uma\ncoisa, doutora! A senhora poderia pedir uns exames de check up pra mim?\" demonstra que houve, na consulta, o\nque se chama de:",
       "alternativas": {
         "A": "Sinal da maçaneta ou a não prevenção de demandas aditivas.",
@@ -25693,8 +25693,8 @@
       "id": "site-pre-0153",
       "numero": 153,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Paciente masculino de 23 anos de idade chega assintomático na unidade de saúde e requisita exames de check\nup. Você verifica que não há fatores de risco para doenças crônicas e que medidas antropométricas estão\nnormais. Considerando a incorporação da promoção da saúde e prevenção de doenças conforme o método clínico\ncentrado na pessoa, a medida que não deveria ser oferecida para esse paciente é:",
       "alternativas": {
         "A": "Aferição da pressão arterial.",
@@ -25727,8 +25727,8 @@
       "id": "site-pre-0154",
       "numero": 154,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "Marque o item que corresponde ao conceito a seguir: \"\"É o conjunto de ações que visam eliminar, diminuir ou prevenir riscos à saúde e intervir nos problemas sanitários\ndecorrentes do meio ambiente, da produção e da circulação de bens e da prestação de serviços de interesse da saúde\"\".",
       "alternativas": {
         "A": "Vigilância sanitária.",
