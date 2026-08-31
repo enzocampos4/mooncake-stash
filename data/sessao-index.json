@@ -229664,7 +229664,7 @@
   "pv-rev-2025-1-0011": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Medicina de Família e Comunidade",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -229673,7 +229673,7 @@
   "pv-rev-2025-1-0021": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Medicina de Família e Comunidade",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -229682,7 +229682,7 @@
   "pv-rev-2025-1-0030": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
+    "sub": "Epidemiologia",
     "subsub": "",
     "banca": "REVALIDA INEP",
     "ano": 2025,
@@ -229692,7 +229692,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -229700,8 +229700,8 @@
   "pv-rev-2025-1-0040": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
+    "sub": "Saúde do Trabalhador",
+    "subsub": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -229709,8 +229709,8 @@
   "pv-rev-2025-1-0041": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Geral",
-    "subsub": "",
+    "sub": "Epidemiologia",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -229719,7 +229719,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "",
+    "subsub": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
@@ -229736,8 +229736,8 @@
   "pv-rev-2025-1-0049": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Programas de saúde (hipertenso, diabético, criança, mulher)",
     "banca": "REVALIDA INEP",
     "ano": 2025,
     "fonte": "REVALIDA INEP 2025.1"
