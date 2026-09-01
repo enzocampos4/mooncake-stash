@@ -28204,7 +28204,7 @@
       "numero": 233,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Segundo o Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos, Órtese/Próteses e Materíais\nEspeciais (SIGTAP), o financiamento do Procedimento \"Remoção de Cerumen de Conduto Auditivo Externo\nUni/Bilateral\" é realizado com recursos originados:",
       "alternativas": {
         "A": "no Teto da Atenção Básica.",
@@ -28234,7 +28234,7 @@
       "numero": 234,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Relacione o agravo com a mudança correspondente em seu perfil epidemiológico, no caso da implementação de\num primeiro tratamento capaz de reduzir sua letalidade sem promover sua cura.",
       "alternativas": {
         "A": "Hepatite C - manutenção da incidência e da prevalência.",
@@ -28267,7 +28267,7 @@
       "numero": 235,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Você foi chamado com urgência para comparecer à creche do bairro, pois a diretora suspeitou de dez casos de\nvaricela em crianças do local hoje. Ao chegar lá, você comprovou clinicamente essa informação. Considerando os\nconceitos de epidemiologia, do que se trata essa situação?",
       "alternativas": {
         "A": "Surto.",
@@ -28305,8 +28305,8 @@
       "id": "site-pre-0236",
       "numero": 236,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Durante uma consulta ambulatorial, independente da razão do atendimento, o método clínico centrado na pessoa\ntem como objetivo:",
       "alternativas": {
         "A": "Conhecer o contexto próximo e distante do paciente.",
@@ -28335,7 +28335,7 @@
       "numero": 237,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Organização Mundial de Saúde (OMS) declarou que as Doenças Crônicas Não Transmissíveis (DCNT) constituem\numa epidemia que ameaça a saúde global e, em resposta a esse desafio, o governo brasileiro elaborou o Plano de\nAções Estratégicas para o Enfrentamento das DCNT para o período de 2011 a 2022. Esse plano inclui propostas de:",
       "alternativas": {
         "A": "Redução do crescimento da desnutrição na infância para os próximos dez anos.",
@@ -28363,8 +28363,8 @@
       "id": "site-pre-0238",
       "numero": 238,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Na prática do método clínico centrado na pessoa, o profissional deve:",
       "alternativas": {
         "A": "Fazer a busca estritamente por dados objetivos da doença, elencando sinais e sintomas que sejam\nrelevantes para o diagnóstico, desconsiderando os modelos explanatórios que o paciente tenha para o\nproblema e o impacto na sua funcionalidade diária.",
