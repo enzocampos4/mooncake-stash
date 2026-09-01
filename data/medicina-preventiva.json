@@ -32820,7 +32820,7 @@
       "numero": 383,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "O princípio da regionalização do Sistema Único de Saúde (SUS) foi definido pela Constituição Federal como um dos grandes\nprincípios organizativos do sistema. O Decreto presidencial nº 7.508, de 28 de junho de 2011, que regulamenta a Lei Orgânica\nda Saúde de 1990, detalhou melhor tal princípio ao dispor sobre a organização do Sistema Único de Saúde (SUS) com base\nem três eixos: planejamento da saúde, assistência à saúde e articulação interfederativa. Quais dos seguintes conceitos\nencontram-se presentes na citada norma legal regulamentadora e compõem as bases da regionalização do SUS?\n1. Região de saúde\n2. Georreferenciamento da saúde\n3. Contrato organizativo da ação pública da saúde\n4. Portas de saída no SUS\n5. Rede de atenção à saúde;\nEstão corretos os itens:",
       "alternativas": {
         "A": "1 e 4",
@@ -32850,7 +32850,7 @@
       "numero": 384,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Você é o médico responsável pelo atendimento de um conjunto de pacientes numa unidade de atendimento\npúblico. Maria, 47 anos de idade, está com diagnóstico e indicação para iniciar tratamento de câncer de mama e\nJosefa, 39 anos de idade, com indicação precisa de mamoplastia redutora. Os profissionais de saúde da unidade\nem questão deverão priorizar:",
       "alternativas": {
         "A": "O atendimento de Maria, com base no princípio do SUS de universalidade.",
@@ -32880,7 +32880,7 @@
       "numero": 385,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "A paciente X foi internada em um Hospital de referência do Sistema Único de Saúde (SUS) para ser submetida a\numa colecistectomia. No cruzamento de dados realizado pela Agência Nacional de Saúde Suplementar (ANS) foi\nidentificado que esta paciente possuía uma cobertura assistencial de um plano de saúde para este procedimento.\nAssim, a ANS notificou a operadora do plano de saúde da paciente sobre o procedimento realizado para a sua\nbeneficiária. Qual a denominação desta obrigação legal das operadoras de planos de saúde para com o SUS?",
       "alternativas": {
         "A": "Franquia.",
@@ -32908,8 +32908,8 @@
       "id": "site-pre-0386",
       "numero": 386,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A História Natural da Doença é o nome dado ao conjunto de processos interativos que compreendem as inter-\nrelações do agente, do suscetível e do meio ambiente que afetam o processo global e seu desenvolvimento. A\nprevenção pode ser feita nos períodos de pré-patogênese e patogênese da História Natural da Doença. Sendo\nassim, marque a opção que apresenta a ação e o respectivo nível de prevenção adequado ao período da História\nNatural da Doença.",
       "alternativas": {
         "A": "Reabilitação; prevenção quaternária; período de patogênese.",
@@ -32941,8 +32941,8 @@
       "id": "site-pre-0387",
       "numero": 387,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Agência Nacional de Vigilância Sanitária − ANVISA é uma instituição administrativa autônoma, criada por lei pelos entes federativos, com personalidade jurídica de direito\npúblico, com patrimônio público e atribuições estatais determinadas. Essa modalidade de gestão do Sistema Único de Saúde, denomina-se:",
       "alternativas": {
         "A": "Fundação.",
@@ -32971,8 +32971,8 @@
       "id": "site-pre-0388",
       "numero": 388,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Em face da transição epidemiológica verificada no Brasil, nos últimos 50 anos, aumento da prevalência de\ndoenças crônicas e incapacitantes, associadas ao alto custo financeiro e social, a Agência Nacional de Saúde\nSuplementar (ANS) tem orientado os serviços de medicina preventiva no sistema de saúde suplementar a:",
       "alternativas": {
         "A": "Investirem, em sua grande maioria e cada vez mais, em programas de prevenção e promoção da saúde\nde idosos.",
@@ -33001,8 +33001,8 @@
       "id": "site-pre-0389",
       "numero": 389,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Sobre o Programa Saúde na Escola é CORRETO afirmar que:",
       "alternativas": {
         "A": "Tem foco somente na saúde da criança e envolve áreas técnicas da Educação e Assistência Social.",
@@ -33032,7 +33032,7 @@
       "numero": 390,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O vírus da Febre Amarela Silvestre (FA), uma zoonose endêmica, é mantido em ambiente natural por transmissão\nentre primatas não humanos (PNH) e mosquitos silvestres arbóreos. No Município de Rio do Norte, no mês de\njaneiro, houve crescimento da população susceptível de PNH e aumento da densidade de vetores nas matas\nformando-se condições ideais para transmissão da FA, resultando em número maior de PNH doentes e mortos\n(epizootia). Esse evento sentinela desencadeou ações de vacinação com vírus atenuado, em curto espaço de\ntempo, na população do Município, como medida de prevenção primária e com a finalidade de diminuir a\npossibilidade de expansão da doença para áreas urbanas. Nesse contexto, ERROS:",
       "alternativas": {
         "A": "Existem na afirmação referente à relação entre vacinação e diminuição de possibilidade da expansão da\ndoença para áreas urbanas, visto que, os vetores da febre-amarela urbana diferem daqueles da FA.",
@@ -33062,7 +33062,7 @@
       "numero": 391,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "A afirmação que segue: “Operam basicamente com serviço de terceiros, realizando ressarcimento de despesas\nutilizando-se de tabelas de honorários profissionais e de procedimentos médicos; possuem serviços de\nadministração próprios, utilizando-se de funcionários e recursos da empresa a qual se vinculam; utiliza-se de\nhospitais e médicos credenciados por empresa; vinculam-se a empresas privadas”, melhor descreve:",
       "alternativas": {
         "A": "Autogestão",
@@ -33096,7 +33096,7 @@
       "numero": 392,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Dentro do Sistema Único de Saúde (SUS), podemos afirmar, em relação às Regiões de Saúde definidas pelo Decreto n°\n7.508, de 28 de junho de 2011, que:",
       "alternativas": {
         "A": "Serão referência para as transferências de recursos entre os entes federativos.",
@@ -33130,7 +33130,7 @@
       "numero": 393,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O procedimento que orienta o Serviço de Vigilância Epidemiológica na determinação de uma epidemia é a identificação da (o/e):",
       "alternativas": {
         "A": "Casos prevalentes.",
@@ -33160,7 +33160,7 @@
       "numero": 394,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O homem, de 47 anos, saiu de Guiné, na África Ocidental, no dia 18 de setembro, com conexão em Marrocos, e\nchegou ao Brasil em 19 de setembro. Por apresentar febre e ter vindo de um dos países com casos de Ebola foi\nacompanhado pelo Instituto Nacional de Infectologia Evandro Chagas, no Rio de Janeiro (RJ). Tratava-se de:",
       "alternativas": {
         "A": "Caso.",
