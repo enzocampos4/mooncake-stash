@@ -30610,7 +30610,7 @@
       "numero": 311,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "O Sistema de Vigilância Epidemiológica é responsável pelos eventos adversos. Identifique abaixo as afirmativas verdadeiras (V) e as falsas (F) em relação aos eventos\nadversos. \n( ) Evento adverso é toda situação clínica ocorrida em tempo variável após a utilização de produtos imunobiológicos, respeitando-se um diagnóstico diferencial adequado, o\nafastamento da situação coincidente e a plausibilidade biológica do evento.; \n( ) As vacinas podem apresentar eventos adversos pós-vacinais que se caracterizam como locais ou sistêmicos, leves, moderados ou graves, categorizados em relação à\nvacina e aos vacinados.; \n( ) A convulsão pode ser um evento adverso da vacina tríplice DPT. Nesse caso, recomenda-se que o esquema vacinal não seja completado e que o paciente receba o\ntratamento indicado.; \n( ) A notificação dos eventos adversos pós-vacinais inicia-se na unidade de saúde que deverá identificar, investigar e notificar a coordenação de imunização e/ou serviço de\nvigilância do município. \nAssinale a alternativa que indica a sequência correta, de cima para baixo:",
       "alternativas": {
         "A": "V – V – F – V.",
@@ -30640,7 +30640,7 @@
       "numero": 312,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O registro, numa coletividade ou região, de casos de uma mesma doença em número que ultrapassa a incidência\nnormal esperada denomina-se:",
       "alternativas": {
         "A": "Endemia.",
@@ -30679,7 +30679,7 @@
       "numero": 313,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "A notificação de um caso em uma área “local” e com confirmação de não ser importado de outra localidade\nsignifica um caso:",
       "alternativas": {
         "A": "De surto.",
@@ -30708,8 +30708,8 @@
       "id": "site-pre-0314",
       "numero": 314,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Sobre a utilização em consultas do método centrado na pessoa é correto afirmar que:",
       "alternativas": {
         "A": "as medidas de prevenção devem ser incluídas nas consultas obrigatoriamente",
@@ -30737,8 +30737,8 @@
       "id": "site-pre-0315",
       "numero": 315,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Na consulta ambulatorial é fundamental garantir a adesão ao tratamento. Quanto ao diagnóstico da adesão\nterapêutica, é correto afirmar que:",
       "alternativas": {
         "A": "adotar um modelo educativo padronizado aumenta a satisfação e as chances de adesão",
@@ -30767,7 +30767,7 @@
       "numero": 316,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo. \nNa investigação de surtos epidemiológicos, no início da eclosão e durante sua vigência, o coeficiente de ............\nreveste-se de uma feição diferente e recebe a denominação de .......",
       "alternativas": {
         "A": "incidência - risco absoluto",
