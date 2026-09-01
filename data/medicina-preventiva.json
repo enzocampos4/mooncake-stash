@@ -26508,7 +26508,7 @@
       "numero": 179,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "De acordo com os marcos legais do SUS, considere as seguintes afirmativas: \n1. Igualdade na assistência à saúde reitera que não pode existir discriminação no acesso aos serviços de saúde,\nou seja, não é aceitável que somente alguns grupos tenham acesso a determinados serviços e outros não. \n2. Equidade significa o atendimento aos indivíduos de acordo com suas necessidades, oferecendo mais a quem\nmais precisa e menos a quem precisa de menos cuidados. \n3. Integralidade é entendida como um conjunto articulado e contínuo de ações e serviços preventivos e curativos,\nindividuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema. \n4. Universalidade é a expressão de que todos têm o mesmo direito de obter as ações e os serviços de que\nnecessitam, independentemente de complexidade, custo e natureza dos serviços envolvidos. \nAssinale a alternativa correta.",
       "alternativas": {
         "A": "As afirmativas 1, 2, 3 e 4 são verdadeiras.",
@@ -26538,7 +26538,7 @@
       "numero": 180,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Com a criação do Sistema Único de Saúde, a responsabilidade pela assistência à saúde deixa de ser centralizada no âmbito\nfederal e passa a ser descentralizada político- administrativamente. Em relação ao tema, assinale a alternativa correta.",
       "alternativas": {
         "A": "Um dos limites da descentralização é a falta de regulação federal sobre ela, o que faz com que as políticas públicas\nmunicipais sejam heterogêneas entre as diversas regiões do país.",
@@ -26567,8 +26567,8 @@
       "id": "site-pre-0181",
       "numero": 181,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Assinale a alternativa CORRETA quanto ao Método Clínico Centrado na Pessoa.",
       "alternativas": {
         "A": "Compreender a doença e a pessoa é uma tarefa desafiadora, que pode levar a um diagnóstico preciso e\ncontextualizado. Negociar com o paciente as condutas apropriadas, tarefa apropriadas, tarefa esta\neventualmente negligenciada, é um dos aspectos centrais do Método Clínico Centrado na Pessoa.",
@@ -26597,7 +26597,7 @@
       "numero": 182,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Quando há aumento do número de casos de uma doença ou agravo, em determinado lugar e período de tempo,\nficando caracterizado de forma nítida um excesso em relação à frequência esperada, podemos dizer que está\nocorrendo:",
       "alternativas": {
         "A": "Epidemia",
@@ -26635,8 +26635,8 @@
       "id": "site-pre-0183",
       "numero": 183,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "Ao assumir a Presidência da República, em 1902, Rodrigues Alves se dispôs a realizar a reforma urbana e o\nsaneamento do Rio de Janeiro. Nesse contexto o jovem Oswaldo Cruz foi convidado a combater a febre amarela,\na varíola e a peste. \nI. Porém, a lei que regulamentava a obrigatoriedade da vacinação contra a varíola serviu de estopim para um\ngrande levante popular. \nPORQUE: \nII. O Rio de Janeiro era conhecido como \"túmulo de imigrantes\". \nAcerca dessas asserções, assinale a opção correta.",
       "alternativas": {
         "A": "As asserções I e II são proposições verdadeiras, e a segunda é uma justificativa da primeira.",
@@ -26665,8 +26665,8 @@
       "id": "site-pre-0184",
       "numero": 184,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "",
       "enunciado": "Em 1966, os Institutos de Aposentadorias e Pensões (IAPs) foram unificados no Instituto Nacional de Previdência\nSocial (INPS). É característica deste modelo de saúde previdenciária: \nI. a valorização da saúde coletiva com ações de promoção da saúde. \nII. priorização das necessidades em saúde da população rural. \nIII. privilegiamento da prática médica individual. \nIV. estímulo à criação de um complexo médico-industrial. \nÉ CORRETO apenas o que se afirma em:",
       "alternativas": {
         "A": "I e II.",
@@ -26696,7 +26696,7 @@
       "numero": 185,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "O Sistema Único de Saúde (SUS) tem como um de seus pilares a participação da população, legalmente\ngarantida, nos conselhos e nas conferências de saúde, interferindo diretamente nas políticas de saúde no país. Em\nrelação a esse tema assinale a coluna de cima de acordo com sua correspondência com a de baixo. \n( ) caráter consultivo; \n( ) caráter deliberativo; \n( ) por convocação; \n( ) permanente; \n(A) Conselhos de Saúde. \n(B) Conferências de Saúde.",
       "alternativas": {
         "A": "A, B, A, B.",
@@ -26733,7 +26733,7 @@
       "numero": 186,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "A 3ª Conferência Nacional de Saúde, realizada em dezembro de 1963, na cidade do Rio de Janeiro, revestiu-se de\nimportância histórica por ter:",
       "alternativas": {
         "A": "Apresentado as bases de um modelo assistencial flexneriano, o qual iria embasar a criação do Instituto\nNacional de Previdência Social.",
@@ -26763,7 +26763,7 @@
       "numero": 187,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "No Brasil, nas últimas décadas, com o processo de redemocratização política, podemos notar uma série de\navanços sociais. Nesse contexto, emergiu a Saúde na Constituição Federal como \"direito de todos e dever do\nEstado\", e o nascimento do SUS que em 2018 iniciou a sua idade balzaquiana. Considerando este percurso\nhistórico das políticas públicas sanitárias brasileiras, assinale a alternativa ERRADA:",
       "alternativas": {
         "A": "Historicamente, as ações públicas referentes à saúde, anteriormente ao SUS, eram restritas.\nConfigurava-se (principalmente) como serviços de forma contributiva voltada somente para os\ntrabalhadores, excluindo uma grande parte da população do acesso. Dessa forma, quem não podia\ncontribuir recorria à rede filantrópica.",
@@ -26797,7 +26797,7 @@
       "numero": 188,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "“Doutor João está em dúvidas em relação à prevalência de hipertensão arterial sistêmica no seu município. De um\ntotal de 10 mil pessoas cadastradas no seu município para o ano de 2018, foram identificados e cadastrados 2 mil\ncasos no total. Ao longo do ano de 2018, foram identificados, em média, 50 casos novos por mês”. A partir dessas\ninformações, a prevalência de hipertensão arterial sistêmica naquele município para o ano de 2018 foi de:",
       "alternativas": {
         "A": "6%",
@@ -26831,7 +26831,7 @@
       "numero": 189,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "O Sistema Único de Saúde foi implantado no Brasil a partir da Constituição Federal de 1988. A atuação desse\nsistema abrange um conjunto de serviços e ações de: \n1. prestação direta de serviços assistenciais. \n2. regulação da formação dos profissionais de saúde. \n3. regulação da incorporação de tecnologias em saúde. \n4. regulação da prestação dos serviços privados de assistência à saúde. \nAssinale a alternativa correta.",
       "alternativas": {
         "A": "Somente a afirmativa 1 é verdadeira.",
@@ -26861,7 +26861,7 @@
       "numero": 190,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A cidadania implica um princípio de justiça social que possui uma função normativa na organização do sistema\npolítico, sendo contemporânea ao desenvolvimento dos Estados modernos e do modo de produção capitalista.\nNesse sentido, a saúde sendo um direito de cidadania",
       "alternativas": {
         "A": "faz parte das garantias oferecidas à população em todos os Estados democráticos.",
