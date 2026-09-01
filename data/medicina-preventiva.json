@@ -29694,7 +29694,7 @@
       "numero": 281,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Os princípios doutrinários que conferem ampla legitimidade ao SUS são:",
       "alternativas": {
         "A": "Descentralização, integralidade e equidade.",
@@ -29728,7 +29728,7 @@
       "numero": 282,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Se uma doença acomete sistematicamente indivíduos distribuídos em espaços delimitados de tempo mantendo\nsua incidência constante, podemos defini-la como:",
       "alternativas": {
         "A": "Sazonal.",
@@ -29757,8 +29757,8 @@
       "id": "site-pre-0283",
       "numero": 283,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Um usuário comparece à consulta médica solicitando a realização de uma endoscopia, por sentir uma dor\nepigástrica que receia ser gastrite. Ao avaliar o paciente, o médico de família não identifica sinais de risco e sugere\numa dieta específica e tratamento sintomático. O médico pactua com o paciente que, caso não melhore entre 4 e 8\nsemanas, ele se compromete a pedir a endoscopia. \nLevando em consideração o método clínico centrado na pessoa, o componente desse método que se refere ao\ncomprometimento do médico em solicitar a endoscopia é:",
       "alternativas": {
         "A": "fortalecer a relação médico e pessoa.",
@@ -29786,8 +29786,8 @@
       "id": "site-pre-0284",
       "numero": 284,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Sobre a utilização do método clínico centrado na pessoa durante uma consulta ambulatorial, é correto afirmar que:",
       "alternativas": {
         "A": "É indicado para alcançar melhores desfechos em situações de riscos.",
@@ -29815,8 +29815,8 @@
       "id": "site-pre-0285",
       "numero": 285,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
       "enunciado": "Entre as atribuições gerais das ações em saúde do trabalhador a serem desenvolvidas no nível local de saúde, pela rede básica municipal de saúde, quer ela se organize em\nequipes de estratégia de saúde da família, em agentes comunitários de saúde e/ou em centros/postos de saúde, se encontram, EXCETO:",
       "alternativas": {
         "A": "Identificar a população economicamente ativa por peso e altura, composta por pessoas de acima de 15 anos de idade e classificadas como ocupadas e\ndesocupadas.",
@@ -29846,7 +29846,7 @@
       "numero": 286,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A epidemiologia descritiva considera variáveis circunstanciais relacionadas a tempo, lugar e pessoa. Assinale a\nalternativa que contém variáveis epidemiológicas relacionadas a tempo.",
       "alternativas": {
         "A": "Tendência secular e variação interestadual.",
