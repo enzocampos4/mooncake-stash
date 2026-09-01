@@ -31736,7 +31736,7 @@
       "numero": 347,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "As ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o SUS\nsão desenvolvidos obedecendo alguns princípios. Dentre eles, é CORRETO citar a:",
       "alternativas": {
         "A": "Centralização político-administrativa, com direção única em cada esfera de governo.",
@@ -31765,7 +31765,7 @@
       "numero": 348,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Sobre o financiamento da saúde, assinale a alternativa INCORRETA:",
       "alternativas": {
         "A": "A seguridade social na Constituição de 1988 é composta pelas políticas de saúde, previdência e\nassistência social, além do seguro desemprego.",
@@ -31794,7 +31794,7 @@
       "numero": 349,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Sobre os Conselhos de Saúde, parte essencial do controle social do SUS, assinale a alternativa CORRETA:",
       "alternativas": {
         "A": "O Conselho de Saúde é uma instância colegiada, consultiva e permanente do Sistema Único de Saúde\n(SUS) em cada esfera de Governo, integrante da estrutura organizacional do Ministério da Saúde, da\nSecretaria de Saúde dos Estados, do Distrito Federal e dos Municípios. São um canal para ouvir a\nSociedade Civil Organizada e aperfeiçoar políticas públicas de saúde.",
@@ -31826,8 +31826,8 @@
       "id": "site-pre-0350",
       "numero": 350,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Em relação ao componente do método clínico centrado na pessoa – Explorar a doença e a experiência da pessoa\nem estar doente –, são perguntas que o médico deve fazer à pessoa que está doente, EXCETO:",
       "alternativas": {
         "A": "O que mais está preocupando você?",
@@ -31856,8 +31856,8 @@
       "id": "site-pre-0351",
       "numero": 351,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "As evidências sobre a utilização do Método Clínico Centrado na Pessoa (MCCP), apontam para as seguintes\nconclusões, EXCETO:",
       "alternativas": {
         "A": "Aumenta a utilização de serviços de saúde.",
@@ -31890,7 +31890,7 @@
       "numero": 352,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "É vedado ao médico revelar fato de que tenha conhecimento em virtude do exercício de sua profissão, salvo por\nmotivo justo, dever legal ou consentimento, por escrito, do paciente. Sobre o sigilo profissional, assinale a\nalternativa CORRETA:",
       "alternativas": {
         "A": "Se o fato for de conhecimento público ou o paciente tenha falecido, extingue-se a necessidade de\nguardar sigilo.",
