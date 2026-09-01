@@ -29140,7 +29140,7 @@
       "numero": 263,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Pelo Decreto 7.508/2011, que regulamenta a Lei 8.080/1990, é considerado(a) um instrumento de gestão e organização da\natenção à saúde no Sistema Único de Saúde",
       "alternativas": {
         "A": "a Relação Nacional de Medicamentos Essenciais.",
@@ -29169,7 +29169,7 @@
       "numero": 264,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Com relação à composição de gastos com saúde, pode-se afirmar que:",
       "alternativas": {
         "A": "a relação do gasto público e privado nos EUA é ainda menor que no Brasil",
@@ -29198,7 +29198,7 @@
       "numero": 265,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Sobre as políticas setoriais e transversais que compõem a política social brasileira, pode-se afirmar que:",
       "alternativas": {
         "A": "assistência social e a cultura fazem parte da promoção social",
@@ -29226,8 +29226,8 @@
       "id": "site-pre-0266",
       "numero": 266,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "A lei 8.080/90 define vigilância epidemiológica como “um conjunto de ações que proporciona o conhecimento, a\ndetecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes da saúde individual ou\ncoletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos.”\nNeste sentido, é correto afirmar o seguinte:",
       "alternativas": {
         "A": "no início da descrição de uma nova doença, opta-se por uma definição de caso mais específica,\ntornando- a mais sensível, conforme se obtém mais conhecimento",
@@ -29256,8 +29256,8 @@
       "id": "site-pre-0267",
       "numero": 267,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Direitos do paciente",
       "enunciado": "A Agência Nacional de Saúde Suplementar (ANS) tem poder legal para regulamentar planos de saúde, em\nespecial quanto aos direitos dos beneficiários. Á estes estão incluídas coberturas assistenciais para todas as:",
       "alternativas": {
         "A": "requisições de exames realizados com equipamentos homologados pela Agência Nacional de Vigilância\nSanitária",
@@ -29286,7 +29286,7 @@
       "numero": 268,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A vigilância epidemiológica foi definida no Brasil pela Lei 8.080, que instituiu o Sistema Único de Saúde em 1990. Quanto aos tipos de dados utilizados em vigilância\nepidemiológica, pode-se afirmar que:",
       "alternativas": {
         "A": "os dados demográficos, ambientais e socioeconômicos constituem um tipo de dados utilizados em vigilância epidemiológica. Mas para a compreensão da dinâmica\npopulacional e os fatores relacionados à mesma, precisa-se dos dados de morbidade e mortalidade",
@@ -29315,7 +29315,7 @@
       "numero": 269,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Em vigilância epidemiológica, o primeiro caso notificado oficialmente é denominado",
       "alternativas": {
         "A": "caso índice.",
@@ -29349,7 +29349,7 @@
       "numero": 270,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Com relação à distribuição de gastos do Ministério da Saúde, com ações e serviços do SUS, pode-se afirmar que:",
       "alternativas": {
         "A": "se mantém acima de 50% do gasto público total (estados e municípios)",
@@ -29378,7 +29378,7 @@
       "numero": 271,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Uma ocorrência epidêmica restrita a uma área geográfica muito delimitada (por exemplo: casa de repouso, escola,\nquartel, restaurante) é denominada",
       "alternativas": {
         "A": "pandemia.",
@@ -29415,7 +29415,7 @@
       "numero": 272,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Quanto às características do Sistema Único de Saúde (SUS), assinale a alternativa correta.",
       "alternativas": {
         "A": "Seu financiamento é de responsabilidade exclusiva da esfera federal.",
@@ -29445,7 +29445,7 @@
       "numero": 273,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "",
       "enunciado": "Médico recém-formado é classificado em processo seletivo para Residência Médica, começa o Programa, mas\nlogo percebe que a bolsa será insuficiente para suas necessidades pessoais básicas. Procura um hospital público,\nà procura de plantão em serviço de Emergência. O departamento de pessoal informa que há vagas, solicita-lhe o\ncurrículo para ser entregue no dia seguinte e informa que ele deverá começar logo, com carteira assinada e\ndireitos trabalhistas aplicáveis. \nPode-se afirmar que o modelo de gestão adotado nesse hospital público corresponde a:",
       "alternativas": {
         "A": "Empresa Pública Unipessoal",
@@ -29474,7 +29474,7 @@
       "numero": 274,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Constituição define, em seu artigo 199, que instituições privadas (hospitais e outros serviços) podem participar\ndo Sistema Único de Saúde, em caráter complementar. Constitui-se em característica dessas unidades\nassistenciais:",
       "alternativas": {
         "A": "subordinação à regulação de remuneração",
