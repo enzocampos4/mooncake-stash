@@ -31359,7 +31359,7 @@
       "numero": 335,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A figura abaixo se refere ao início e término de 12 episódios de uma doença infecciosa aguda, ocorridos ao longo\nde 5 semanas, em um asilo que abriga 160 idosos. Cada linha demarca um paciente. \nA alternativa que descreve corretamente o comportamento da incidência da doença é:",
       "alternativas": {
         "A": "3, 2 e 6 casos na 1ª, 2ª e 3ª semanas.",
@@ -31393,7 +31393,7 @@
       "numero": 336,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em um povoado indígena de 500 habitantes em Angra dos Reis houve uma epidemia de dengue. A investigação\nepidemiológica relatou a ocorrência de 200 casos sintomáticos e 140 pessoas que não estavam ou estiveram\ndoentes, mas apresentaram títulos elevados de anticorpos específicos e ainda 160 indivíduos não infectados.\nResponda à questão: a incidência da doença foi:",
       "alternativas": {
         "A": "28%.",
@@ -31426,8 +31426,8 @@
       "id": "site-pre-0337",
       "numero": 337,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "Até o dia 11 de outubro de 2014, o Ministério da Saúde registrou 337 casos de Febre Chikungunya no Brasil,\nsendo 87 confirmados pro critério laboratorial e 250 por critério clínico-epidemiológico. Do total, são 38 casos\nimportados de pessoas que viajaram para países com transmissão da doença, como República Dominicana, Haiti,\nVenezuela, Ilhas do Caribe e Guiana Francesa. Os outros 299 foram diagnosticados em pessoas sem registro de\nviagem internacional para países onde ocorre a transmissão. Desses casos, 17 foram registrados no município de\nOiapoque (AP), 274 no município de Feira de Santana (BA), sete em Riachão do Jacuípe (Be 1 em Matozinhos\n(MG). Assinale a alternativa correta:",
       "alternativas": {
         "A": "Está caracterizada uma Pandemia de Febre Chikungunya.",
@@ -31455,8 +31455,8 @@
       "id": "site-pre-0338",
       "numero": 338,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "São funções da vigilância epidemiológica, EXCETO:",
       "alternativas": {
         "A": "Coleta, processamento, análise e interpretação de dados, para transforma-los em informação;",
@@ -31485,7 +31485,7 @@
       "numero": 339,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Um pesquisador observou que de 255 pessoas submetidas a um determinado teste, 165 pessoas têm uma doença\ne 90 são saudáveis. Das 165 pessoas que têm a doença, 135 têm um teste positivo e 30 têm um teste negativo.\nDas 90 pessoas saudáveis, 60 têm um teste negativo e 30 têm um teste positivo.\nQual é a prevalência da doença?",
       "alternativas": {
         "A": "53%",
@@ -31517,8 +31517,8 @@
       "id": "site-pre-0340",
       "numero": 340,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "",
       "enunciado": "De acordo com a RDC Nº 205, de 28 de dezembro de 2017 será considerado medicamento para doença rara aquele\nque:\nI - Tenha o objetivo de tratar, diagnosticar ou prevenir a doença rara.\nII - Seja utilizado em condição séria debilitante.\nIII - Se proponha a alterar de forma clinicamente significativa a evolução ou possibilite a remissão da doença.\nEstá(ão) correta(s) a(s) afirmação(ões)?",
       "alternativas": {
         "A": "Apenas a I está correta.",
@@ -31547,7 +31547,7 @@
       "numero": 341,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "As Regiões de Saúde (RS) previstas na legislação do Sistema Único de Saúde são compostas por:",
       "alternativas": {
         "A": "Municípios com serviço de atenção básica.",
@@ -31576,7 +31576,7 @@
       "numero": 342,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "As figuras abaixo indicam a tendência dos coeficientes de incidência (linha contínua) e prevalência (linha\npontilhada) de uma doença. ASSINALE A ALTERNATIVA CORRETA",
       "alternativas": {
         "A": "A figura B indica a diminuição da mortalidade e a figura C o aumento.",
@@ -31620,7 +31620,7 @@
       "numero": 343,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Um bebê de oito meses nasceu com diversas comorbidades e ficou hospitalizado em UTI Neonatal desde o\nnascimento com um quadro clínico degenerativo, incurável e que exigiu diversas intervenções terapêuticas\ninvasivas para mantê-lo vivo. Não houve mudanças no quadro clínico e as medidas invasivas não modificaram ou\nreverteram o curso da doença. Se forem mantidas, tais medidas caracterizam:",
       "alternativas": {
         "A": "Eutanásia.",
@@ -31649,7 +31649,7 @@
       "numero": 344,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "De acordo com o código de ética médica do CFM, é permitido praticar:",
       "alternativas": {
         "A": "Mistanásia.",
@@ -31678,7 +31678,7 @@
       "numero": 345,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Estão incluídas ainda no campo de atuação do Sistema Único de Saúde (SUS), EXCETO:",
       "alternativas": {
         "A": "Participação na formulação da política e na execução de ações de saneamento básico.",
@@ -31707,7 +31707,7 @@
       "numero": 346,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "São consideradas despesas com ações e serviços públicos de saúde (ASPS), para fins de aplicação de recursos\nmínimos na saúde, EXCETO:",
       "alternativas": {
         "A": "Capacitação de pessoal da saúde do SUS.",
