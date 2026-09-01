@@ -232311,7 +232311,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Financiamento em Saúde",
+    "subsub": "Financiamento e pactuação (NOB, NOAS)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -232320,7 +232320,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -232329,7 +232329,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Epidemias e Epidemiologia das Doenças Infecciosas",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -232337,8 +232337,8 @@
   "site-pre-0236": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -232347,7 +232347,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Políticas de Saúde",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -232355,8 +232355,8 @@
   "site-pre-0238": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
