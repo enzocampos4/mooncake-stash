@@ -28769,7 +28769,7 @@
       "numero": 251,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "A análise da representação gráfica de uma epidemia observou-se que houve uma elevação rápida no número de\ncasos, seguida de um curto platô e então da diminuição também rápida destes, caracterizando um pico de base\nrelativamente estreita. Esta representação gráfica sugere, dá pista, de que a causa da epidemia provavelmente\npossui todas as características abaixo, EXCETO:",
       "alternativas": {
         "A": "Exposição simultânea dos indivíduos acometidos.",
@@ -28803,7 +28803,7 @@
       "numero": 252,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "Sobre a Lei Nº 8.142/1990, pode-se AFIRMAR que",
       "alternativas": {
         "A": "divulga o Pacto pela Saúde 2006 - Consolidação do SUS e aprova as Diretrizes Operacionais do\nReferido Pacto.",
@@ -28861,7 +28861,7 @@
       "numero": 254,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em relação às medidas de frequência de doença, assinale a alternativa CORRETA, sobre o conceito de\nprevalência (Medronho, 2009):",
       "alternativas": {
         "A": "É a frequência de casos novos de uma doença, decorrente de uma população sob risco de adoecimento,\nao longo de um período de tempo.",
@@ -28927,7 +28927,7 @@
       "numero": 256,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Política Nacional de Práticas Integrativas e Complementares no SUS (PNPIC) estimula os mecanismos naturais de\nprevenção de agravos e recuperação da saúde, além de contribuir para a promoção da saúde, inserção social, redução\ndo consumo de medicamentos, melhoria da autoestima e da qualidade de vida. \nA proposta da PNPIC exclui, entretanto, o que se indica na seguinte alternativa:",
       "alternativas": {
         "A": "Homeopatia e fitoterapia.",
@@ -28956,7 +28956,7 @@
       "numero": 257,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Você foi chamado para comparecer à creche localizada na área de atuação da sua Unidade Básica de Saúde, pois\na coordenadora suspeita de doze casos de doença do pé, da mão e da boca em crianças atendidas pela creche no\ndia de hoje. Após a visita, você comprova clinicamente essa informação. \nEssa situação é considerada como:",
       "alternativas": {
         "A": "Epidemia.",
@@ -28985,7 +28985,7 @@
       "numero": 258,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em relação à morte materna é correto afirmar que:",
       "alternativas": {
         "A": "É qualquer morte que ocorre durante a gestação, parto ou até 60 dias após o parto,independente da duração ou da\nlocalização da gravidez, devida a qualquer causa relacionada ou agravada pela gravidez ou por medidas em relação a\nela, porém não devida as causas acidentais ou incidentais.",
@@ -29013,8 +29013,8 @@
       "id": "site-pre-0259",
       "numero": 259,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Considerando o conceito de prevenção à saúde, a expressão “primeiro não causar danos” se relaciona ao(à):",
       "alternativas": {
         "A": "indicação de tratar todos os tipos de sintomas das pessoas",
@@ -29043,7 +29043,7 @@
       "numero": 260,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A transmissão autóctone de Chikungunya nas Américas foi detectada pela primeira vez em dezembro de 2013. No Rio de Janeiro, até 08/07/14, já foram confirmados três\ncasos da doença. Os critérios para notificação da doença estão relacionados a:",
       "alternativas": {
         "A": "Magnitude.",
@@ -29077,8 +29077,8 @@
       "id": "site-pre-0261",
       "numero": 261,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Direitos do paciente",
       "enunciado": "Mulher de 62 anos foi informada pelo médico que seu tratamento quimioterápico não teve o resultado esperado e\nque o câncer apresenta metástases, o que a deixou muito abalada. O médico explicou sobre todo o aporte técnico,\na fim de esclarecer a paciente sobre esse resultado ruim. Nesses casos em que se precisa informar uma notícia\ndesagradável, como o diagnóstico de doenças graves ou falha em um tratamento, são consideradas estratégias de\ncomunicação adequadas:",
       "alternativas": {
         "A": "retomar frequentemente sobre o assunto durante a consulta",
@@ -29110,8 +29110,8 @@
       "id": "site-pre-0262",
       "numero": 262,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Idoso de 65 anos marcou consulta com o seu médico de família devido a problemas de insônia. O médico pediu\nque ele relatasse o que está lhe tirando o sono. Intrigado, ele responde que veio à consulta para que o médico lhe\nexplicasse. Nesse diálogo, o método clínico centrado na pessoa refere-se ao componente:",
       "alternativas": {
         "A": "2, que possibilita a compreensão do processo que levou ao problema",
