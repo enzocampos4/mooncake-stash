@@ -37330,7 +37330,7 @@
       "numero": 527,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Uma epizootia de febre amarela em um primata, associada à evidência de circulação viral em vetores, outros\nprimatas não humanos, ou humanos, no local provável de infecção, é classificada como",
       "alternativas": {
         "A": "descartada.",
@@ -37360,7 +37360,7 @@
       "numero": 528,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "No Brasil, em 2017, ocorreram 1.312.663 óbitos, sendo que 36.223 de menores de um ano, 5.918 de 1 a 4 anos, 29.376 de 5 a 19\nanos, 208.708 de 20 a 49 anos e 1.029.471 de 50 anos e mais (Fonte: DATASUS). \nBaseado no gráfico, assinale a alternativa que interpreta corretamente a curva.",
       "alternativas": {
         "A": "No Brasil (2017), o Coeficiente de Mortalidade de 5 a 19 anos era de 2,4/1000 habitantes de 5 a 19 anos e a\nmortalidade de 50 anos e mais era de 78,4 por mil habitantes de 50 anos e mais.",
@@ -37396,7 +37396,7 @@
       "numero": 529,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Termo de Consentimento Livre e Esclarecido (TCLE)",
       "enunciado": "Uma adolescente de 16 anos, saudável, estudante de ensino médio, procura atendimento na Unidade Básica de\nSaúde, sem acompanhante. Refere que já iniciou a vida sexual e gostaria de fazer uso da pílula anticoncepcional,\napesar de utilizar preservativo. O médico que atende diz que só pode prescrever o método pedido após falar com\num de seus pais ou responsável legal. Qual é a alternativa correta em relação a conduta do médico?",
       "alternativas": {
         "A": "A paciente é menor de idade, portanto, legalmente incapaz. É importante que seus pais ou o\nresponsável legal saibam que ela tem vida sexual. Com anuência deles a pílula pode ser prescrita.",
@@ -37424,8 +37424,8 @@
       "id": "site-pre-0530",
       "numero": 530,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "O número de casos internados por Doença Meningocócica (DM) pelo Sorogrupo C e o número de óbitos em crianças e\nadolescentes por esta doença foi considerado preocupante, nos últimos anos, no município X. A maior letalidade foi observada\nnas crianças de 6 a 12 meses. O Calendário Nacional de Vacinação passa a indicar a Vacinação contra a Neisseria meningitides\npelo Sorogrupo C para crianças e adolescentes. Os resultados esperados com esta estratégia de prevenção primária para a DM\ndo Sorogrupo C são:",
       "alternativas": {
         "A": "Diminuir a prevalência de DM pelo Sorogrupo C e reduzir o Coeficiente de Mortalidade Infantil Neonatal Tardia no\nmunicípio X;",
@@ -37462,7 +37462,7 @@
       "numero": 531,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "O modelo assistencial de saúde no Brasil, no período de 1964 a 1988, apresenta como tendência:",
       "alternativas": {
         "A": "A priorização do modelo de atenção médica individual, em detrimento das ações de saúde coletiva,\nmantida sua separação.",
@@ -37496,7 +37496,7 @@
       "numero": 532,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "Ao estudar um sistema de saúde, costuma-se dividi-lo em níveis de atenção. Sobre os níveis de atenção no\nsistema brasileiro de saúde, assinale a afirmativa correta.",
       "alternativas": {
         "A": "A atenção terciária é a \"porta de entrada\" do SUS, tendo como objetivo a \"Prevenção e Promoção\", com\nresolutividade aproximada de 85 a 90% dos casos quando bem realizada.",
@@ -37525,7 +37525,7 @@
       "numero": 533,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "No Brasil, o câncer do colo do útero é o segundo tipo de câncer mais frequente entre mulheres, após o câncer de\nmama, com alta mortalidade e faz, por ano, 4800 vítimas fatais. Em 2012, as estimativas foram de 17540 casos\nnovos, com risco estimado variando de 17 a 21 casos a cada 100 mil mulheres, com grandes iniquidades\nregionais, sendo maiores as incidências registradas em estados com menor nível de desenvolvimento\nsocioeconômico. BRASIL, Ministério da Saúde. Informe Técnico sobre a Vacina Papiloma Vírus Humano (HPV) na\nAtenção Básica. Identifique a que índice, referente ao câncer de colo de útero, está relacionada a afirmação \"\"com\nrisco estimado variando de 17 a 21 casos/100 mil mulheres\"\" constante no Informe Técnico do MS.",
       "alternativas": {
         "A": "Incidência.",
@@ -37553,8 +37553,8 @@
       "id": "site-pre-0534",
       "numero": 534,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "No momento atual da evolução da ciência médica regenerativa há a possibilidade de utilizar de doador vivo,\ntecidos, córneas, medula óssea, um dos órgãos duplos (ex.: rim) e parte do fígado e do pulmão. De pessoa morta\nou com diagnóstico de morte encefálica (ME), pulmões, coração, fígado, pâncreas, intestino, rins, córnea, pele,\nveias, válvulas cardíacas, ossos e tendões. O Conselho Federal de Medicina é o único órgão que possui\natribuições para a rigorosa determinação científica da morte encefálica (Resolução CFM n. 2.173/2017).\nPOLICASTRO, Decio. Sobre doações e transplantes de órgãos. Publicado online em http://www.abto.org.br, em\n18/06/2018. Acesso em: dez 2019. Pela legislação brasileira, ficam impedidos de doar órgãos em vida",
       "alternativas": {
         "A": "indivíduos com mais de 50 anos de idade.",
@@ -37583,7 +37583,7 @@
       "numero": 535,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Os Conselhos de Sáude são órgãos colegiados, deliberativos e permanentes do Sistema Único de Saúde\n(SUS),existentes em cada esfera de governo como componente da estrutura do Ministério da Saúde, das\nSecretarias de Saúde dos estados, do Distrito Federal e dos munícipios com composição, organização e\ncompetência definidas na legislação. Constitui atribuição do Conselho de Saúde:",
       "alternativas": {
         "A": "Atuar na formulação e proposição de estratégias e no controle da execução das políticas de saúde",
@@ -37612,7 +37612,7 @@
       "numero": 536,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Sra. Maria Angélica, 60 anos, auxiliar de cozinha, é diabética. O médico da equipe de saúde da Unidade Básica de\nSaúde (UBS) do bairro onde ela mora a acompanha há anos e busca compreender todas as relações e dimensões\nque possam interferir nas condições de saúde da população daquele território. Há 3 meses, em uma das consultas\nde rotina, na UBS, para monitoramento do diabetes, o médico suspeitou de um câncer de mama. A Sra. Maria\nAngélica foi então encaminhada ao especialista. Uma vez confirmada a hipótese diagnóstica inicial, ela fará o\ntratamento em uma cidade vizinha, referência para esse tipo de tratamento. Na situação acima descrita foram\ncontemplados os seguintes princípios do SUS:",
       "alternativas": {
         "A": "Centralização e Humanização",
@@ -37640,8 +37640,8 @@
       "id": "site-pre-0537",
       "numero": 537,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "Qual das seguintes ações NÃO caracteriza a gestão plena da atenção básica à saúde de um município:",
       "alternativas": {
         "A": "Ações básicas de vigilância sanitária",
@@ -37670,7 +37670,7 @@
       "numero": 538,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "“Doutor João está em dúvidas em relação à prevalência de hipertensão arterial sistêmica no seu município. De um\ntotal de 10 mil pessoas cadastradas no seu município para o ano de 2018, foram identificados e cadastrados 2 mil\ncasos no total. Ao longo do ano de 2018, foram identificados, em média, 50 casos novos por mês”. Em relação a\nessa informação descrita na situação-problema, a incidência de hipertensão arterial sistêmica naquele município\npara o ano de 2018 foi:",
       "alternativas": {
         "A": "6%",
