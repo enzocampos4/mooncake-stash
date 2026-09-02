@@ -37703,8 +37703,8 @@
       "id": "site-pre-0539",
       "numero": 539,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Sobre o Método Clínico Centrado na Pessoa, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "A chave do método centrado na pessoa é permitir que o fluxo maior venha da pessoa, inclusive a\nexpressão de sentimentos.",
@@ -37737,7 +37737,7 @@
       "numero": 540,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "O planejamento em saúde é um auxiliar fundamental da tomada de decisão, permitindo a racionalização dos\nrecursos de saúde com equidade e eficiência e esses aspectos também são importantes para a operacionalização\ndas iniciativas de promoção da saúde. Considerando esses aspectos, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "Como processo, o planejamento das ações preconiza a realização do diagnóstico situacional, a definição\nde prioridades e objetivos, a seleção das melhores estratégias e a preparação operacional dos projetos.",
@@ -37766,7 +37766,7 @@
       "numero": 541,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Sob determinadas condições, em um ensaio clínico randomizado para comparação dos efeitos de dois tratamentos\nem dois grupos de pacientes independentes, qual é o teste poderoso para estudar a associação de uma variável\nbinária com uma variável quantitativa?",
       "alternativas": {
         "A": "t.",
@@ -37795,7 +37795,7 @@
       "numero": 542,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Na história da organização do Sistema de Saúde Brasileiro, qual foi o grande avanço no tocante à participação das\npessoas nas decisões deliberativas do SUS?",
       "alternativas": {
         "A": "A colocação dos agentes comunitários de saúde como integrantes de equipes da Estratégia Saúde da\nFamília.",
@@ -37824,7 +37824,7 @@
       "numero": 543,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "No Rio Grande do Sul, a pandemia da COVID-19 teve seu primeiro caso confirmado em 10 de março de 2020 e o primeiro óbito\nem 24 do mesmo mês. Conforme o site do Ministério da Saúde (https://covid.saude.gov.br), as informações atualizadas sobre a\ndoença no Estado em 21 de abril eram:\n— número de casos confirmados: 904\n— número de óbitos: 27\nConsiderando que a população estimada do Rio Grande do Sul, no mês de abril de 2020, era de cerca de 11.500.000 habitantes,\nquais as taxas de incidência e de letalidade aproximadamente naquele momento?",
       "alternativas": {
         "A": "78,6/1.000 – 29,8%",
@@ -37853,7 +37853,7 @@
       "numero": 544,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Assinale a assertiva incorreta sobre raciocínio diagnóstico.",
       "alternativas": {
         "A": "Um teste diagnóstico deve reduzir a incerteza diagnóstica ou prognóstica sobre uma determinada\ndoença.",
@@ -37886,7 +37886,7 @@
       "numero": 545,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Homem, 43 anos, comparece à consulta agendada com seu médico de família para apresentar exames solicitados\nna última consulta. É acompanhado por hipertensão arterial sistêmica há 5 anos, em uso de losartana 50mg por\ndia, está assintomático. Não apresenta outras comorbidades. Não apresenta dados positivos na história patológica\npregressa. Está sedentário. Nega tabagismo. Exames realizados há 1 mês: colesterol total 240 mg/dL, HDL 30\nmg/dL, triglicerídeos 200 mg/dL, creatinina 1,0 mg/dL, glicemia 89 mg/dL. Estatura 1,75 m, peso 85 Kg,\ncircunferência abdominal 95 cm, PA 125X80 mmHg, restante do exame físico sem alterações. O paciente\nquestionou sobre o uso de medicamento para o colesterol, sua esposa usa rosuvatatina e perguntou se poderia\niniciar. Após uma conversa sobre sua situação de saúde, ficou pactuado um plano terapêutico com início de\natividade física 5 vezes por semana, redução de carboidratos e ácidos graxos saturados e trans na alimentação,\nredução do peso corporal e não iniciar o uso de estatina até a próxima reavaliação em 4 meses. Em relação ao\núltimo item do plano terapêutico, que nível de prevenção está sendo aplicado?",
       "alternativas": {
         "A": "Primária.",
@@ -37914,8 +37914,8 @@
       "id": "site-pre-0546",
       "numero": 546,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "Na reunião semanal de uma equipe da Estratégia de Saúde da Família, uma ACS se queixa que vem sendo\nrealizado atendimento preferencial a população residente em uma das microáreas e solicita uma readequação do\nserviço, de modo que os atendimentos sejam prestados igualmente a todas as microáreas. Como forma de melhor\ncompreender a situação, a médica da equipe sugere que os ACS forneçam alguns dados de cada microárea, os\nquais foram apresentados na reunião de equipe na semana seguinte. As informações fornecidas pelos ACS foram\napresentadas no quadro abaixo: \nConsiderando que o planejamento das ações em saúde requer informações atualizadas sobre os determinantes e\nas condições de saúde de uma comunidade, escolha a alternativa que evidencia o plano de ação que deve ser\nadotado pela equipe com o objetivo de fornecer um atendimento que atenda as necessidades de saúde da\npopulação:",
       "alternativas": {
         "A": "Direcionar o atendimento das crianças de zero a dois anos para o Pediatra.",
@@ -37948,7 +37948,7 @@
       "numero": 547,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma médica, atuando em uma equipe de atenção primária, recebe em seu consultório uma senhora de 74 anos de\nidade, solicitando um \"check-up\". Nega qualquer sintoma no momento. Não relata nenhum antecedente patológico\npessoal ou familiar. Qual deverá ser a conduta da médica em relação ao rastreamento?",
       "alternativas": {
         "A": "Solicitar mamografia.",
@@ -37977,7 +37977,7 @@
       "numero": 548,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Considere um cenário hipotético em que prevalência de lesões neoplásicas em pacientes com a Pesquisa de\nSangue Oculto (PSO) positivo é de 1%, e que o PSO tem sensibilidade (S) de 85%, especificidade (E) de 75%,\nValor Preditivo Positivo (VPP) de 3,3% e o Valor Preditivo Negativo (VPN) de 99,8%. Se o PSO for positivo, qual a\nchance de o paciente ter a doença?",
       "alternativas": {
         "A": "3,3%",
@@ -38005,8 +38005,8 @@
       "id": "site-pre-0549",
       "numero": 549,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Paciente masculino, 82 anos, compareceu à unidade de atenção primária para consulta com sua médica de\nfamília, a última consulta foi há 1 ano, quando compareceu acompanhado de seu filho. Hoje comparece\ndesacompanhado para o atendimento e apresenta pressão arterial de 160 x 100 mmHg e glicemia capilar\npósprandial de 200 mg/dL. No prontuário, havia uma lista de medicamentos com hidroclorotiazida, losartana,\nanlodipino, metformina e insulina NPH. Ao ser questionado, refere que usava as medicações sem ajuda de\nfamiliares, mas não sabia os nomes dos medicamentos e não tinha segurança para explicar a posologia. Referiu\nque não retornou na data programada pois estava assintomático. Estava muito triste com a perda do filho de 33\nanos de idade, que foi assassinado há 3 meses em disputa de facções do bairro. Após discussão sobre a situação,\na equipe de saúde da família realizou uma conferência familiar no domicílio com elaboração do genograma e\necomapa. Qual componente do método clínico centrado na pessoa foi abordado na visita domiciliar?",
       "alternativas": {
         "A": "Entendendo a pessoa como um todo.",
@@ -38035,7 +38035,7 @@
       "numero": 550,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A OMS conceitua morbidade materna grave como uma complicação que ocorra durante a gravidez, o parto ou nos 42 dias iniciais\ndo puerpério, e que coloque em risco a vida da mulher (Pattinson et al., 2009). O estudo da mortalidade materna é um dos\nmelhores indicadores da qualidade de saúde e atenção à mulher. Com relação à mortalidade materna, é correto afirmar:",
       "alternativas": {
         "A": "As principais causas obstétricas diretas das mortes maternas são: hemorragia, hipertensão e infecção.",
