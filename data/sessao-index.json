@@ -235605,7 +235605,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235614,7 +235614,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235622,8 +235622,8 @@
   "site-pre-0601": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Vigilância em Saúde",
+    "sub": "Sistema Único de Saúde (SUS)",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235632,7 +235632,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Vigilância em Saúde",
+    "subsub": "",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235641,7 +235641,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235650,7 +235650,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235659,7 +235659,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Vigilância em Saúde",
+    "subsub": "",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235667,8 +235667,8 @@
   "site-pre-0606": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Medicina de Família e Comunidade",
-    "subsub": "Processo Saúde-Doença e níveis de prevenção em saúde",
+    "sub": "Epidemiologia",
+    "subsub": "",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235676,8 +235676,8 @@
   "site-pre-0607": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Medicina de Família e Comunidade",
-    "subsub": "Processo Saúde-Doença e níveis de prevenção em saúde",
+    "sub": "Epidemiologia",
+    "subsub": "",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235686,7 +235686,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Financiamento em Saúde",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235695,7 +235695,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Políticas de Saúde",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -235704,7 +235704,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
