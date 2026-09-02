@@ -36931,7 +36931,7 @@
       "numero": 515,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O indicador que mensura a proporção de pessoas que morreram com 50 anos ou mais de idade em relação ao total de óbitos em\ndeterminada população e área é conhecido como:",
       "alternativas": {
         "A": "índice de Moraes.",
@@ -36965,7 +36965,7 @@
       "numero": 516,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Que medida, dentre as abaixo, é a mais adequada para a elaboração de um diagrama de controle que vise a\ndetecção de uma epidemia?",
       "alternativas": {
         "A": "Incidência.",
@@ -36998,8 +36998,8 @@
       "id": "site-pre-0517",
       "numero": 517,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "",
       "enunciado": "Qual dispositivo é responsável pelo apoio às equipes da atenção básica no desenvolvimento de ações de saúde do trabalhador?",
       "alternativas": {
         "A": "Centro de Referência em Saúde do Trabalhador.",
@@ -37029,7 +37029,7 @@
       "numero": 518,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A equidade, no âmbito das diretrizes doutrinárias do SUS, deve ser compreendida como: \nI) Acesso igualitário a todos os serviços e tratamentos, bem como atendimento integral, com prioridade para as\natividades preventivas, sem prejuízo dos serviços assistenciais. \nII) Reconhecimento das diferenças nas condições de vida e saúde e nas necessidades das pessoas, considerando\nque o direito à saúde passa pelas diferenciações sociais e deve atender a diversidade. \nIII) Atendimento aos indivíduos de acordo com suas necessidades, oferecendo mais a quem mais precisa e menos\na quem requer menos cuidados. \nEstá CORRETO o que se afirma em:",
       "alternativas": {
         "A": "I",
@@ -37063,7 +37063,7 @@
       "numero": 519,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A incidência é uma medida de frequência epidemiológica utilizada para monitorar:",
       "alternativas": {
         "A": "a ocorrência de casos existentes (novos e antigos) de uma doença ou problema de saúde em local e\nperíodo definidos, em relação ao total de residentes no mesmo local e período;",
@@ -37097,7 +37097,7 @@
       "numero": 520,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O sistema de vigilância atuante que permitiu a detecção do aumento do número de casos de microcefalia no Brasil foi o sistema de vigilância:",
       "alternativas": {
         "A": "sanitária;",
