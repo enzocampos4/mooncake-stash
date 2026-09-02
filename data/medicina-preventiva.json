@@ -35039,7 +35039,7 @@
       "numero": 455,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A respeito da interpretação apropriada das taxas de incidência, analise as afirmativas a seguir: \nI. Além da falta de sensibilidade quanto a distinções importantes, as taxas de incidência têm dificuldades de\ninterpretação, por serem confundidas, frequentemente, com riscos (probabilidades). \nII. A porção numérica de uma taxa de incidência tem um limite inferior igual a zero e nenhum limite superior, que é\no intervalo da razão de uma quantidade não negativa para uma positiva. \nIII. A taxa de incidência é mensurada em unidades do inverso do tempo. \nIV. O valor numérico de uma taxa de incidência é interpretável porque não depende da seleção da unidade de\ntempo. Assinale.",
       "alternativas": {
         "A": "se somente as afirmativas I e III estiverem corretas.",
@@ -35075,7 +35075,7 @@
       "numero": 456,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Segundo o Código de Ética Médica, no tocante à remuneração profissional, analise as afirmativas a seguir: \nI. A complementação de honorários em serviço privado pode ser cobrada quando prevista em contrato. \nII. É vedado ao médico permitir a inclusão de nomes de profissionais que não participaram do ato médico para\nefeito de cobrança de honorários. \nIII. O médico não pode deixar de ajustar previamente com o paciente o custo estimado dos procedimentos. \nIV. Subordinar os honorários ao resultado do tratamento ou à cura do paciente é um direito do profissional médico.\nAssinale",
       "alternativas": {
         "A": "se somente a afirmativa III estiver correta.",
@@ -35105,7 +35105,7 @@
       "numero": 457,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "",
       "enunciado": "A vigilância Epidemiológica é muito importante para a organização e o planejamento das ações de saúde, diante essa afirmação, além da coleta dos dados são funções da\nvigilância epidemiológica:",
       "alternativas": {
         "A": "Processamento de dados e tratamento dos doentes.",
@@ -35140,8 +35140,8 @@
       "id": "site-pre-0458",
       "numero": 458,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "O acolhimento tem sido termo utilizado no âmbito dos serviços de saúde ora como triagem sob a lógica biomédica ora\ncomo concepção estratégica para a concretização da clínica ampliada. Em relação a esta última ideia de acolhimento, é\ncorreto afirmar:",
       "alternativas": {
         "A": "O acolhimento é uma estratégia que busca garantir o acesso de todos os usuários ao serviço de saúde\nlevando-se em conta o aumento quantitativo dos atendimentos médicos.",
@@ -35170,7 +35170,7 @@
       "numero": 459,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Sobre a organização do cuidado médico no Brasil, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os Centros de Saúde foram implantados no Brasil a partir da 8ª Conferência Nacional da Saúde dentro\ndo modelo da atenção primária à saúde divulgado pela Conferência de Alma Ata.",
@@ -35200,7 +35200,7 @@
       "numero": 460,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Assinale a alternativa que completa corretamente a frase abaixo. Na Reforma Sanitária Brasileira e na Assembleia\nNacional Constituinte de 1988",
       "alternativas": {
         "A": "importantes instituições médicas, como a Associação Médica Brasileira (AMB), o Conselho Federal de\nMedicina (CFM) e a Associação Brasileira de Medicina de Grupo (ABRANGE), foram líderes na\nformação do Sistema Único de Saúde.",
