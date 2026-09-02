@@ -35420,7 +35420,7 @@
       "numero": 467,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Uma menina de 18 anos é levada ao pronto-socorro por queixa de náuseas, vômitos e dor epigástrica leve\n(desconforto). Não tem outras queixas e o exame físico é normal. A adolescente conta ao médico,\nreservadamente, que os sintomas apareceram após uso abusivo de álcool e cannabis (primeiro uso, voluntário),\nem uma festa. Depois de medicada, a menina apresenta melhora e é proposta alta. A mãe, que estava na área de\nespera, entra na sala de atendimento e pergunta ao médico qual é o diagnóstico do que aconteceu com a sua\nfilha. O médico deve responder que",
       "alternativas": {
         "A": "a adolescente fez uso abusivo de álcool, o que é comum nessa idade e não tem problema maior.",
@@ -35450,7 +35450,7 @@
       "numero": 468,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Um senhor de 72 anos, ativo e independente, retorna em consulta ambulatorial com resultado de biópsia\npercutânea de lesão hepática, suspeita de metástase de colangiocarcinoma. Recentemente, apresentou icterícia,\ncaracterizada como obstrutiva e queda do estado geral (síndrome ictérica e consumptiva). A tomografia mostrou\nmúltiplas imagens compatíveis com metástases, em ambos os lobos hepáticos. A biópsia confirmou metástase de\ncolangiocarcinoma. A família do paciente está na sala de espera. O médico deve conversar",
       "alternativas": {
         "A": "com a família antes de conversar com o doente, expondo o diagnóstico e a gravidade.",
@@ -35480,7 +35480,7 @@
       "numero": 469,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "O Decreto nº 7.508, de 28.06.2011, que regulamenta a Lei Orgânica da Saúde, estabelece a Porta de Entrada às Redes de\nAtenção à Saúde, que inclui os serviços:",
       "alternativas": {
         "A": "especialidades médicas, atenção primária, atenção psicossocial.",
@@ -35509,7 +35509,7 @@
       "numero": 470,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Analise a tabela a seguir. De acordo com essa tabela, é correto afirmar:",
       "alternativas": {
         "A": "há consistente tendência de redução da mortalidade infantil em todas as regiões brasileiras, o que reflete a melhoria nas\ncondições de vida, o declínio da fecundidade e o efeito de intervenções públicas nas áreas de saúde e saneamento,\nentre outros aspectos.",
@@ -35547,7 +35547,7 @@
       "numero": 471,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em relação ao coeficiente de mortalidade materna, é correto afirmar que",
       "alternativas": {
         "A": "estima o risco dos nascidos vivos durante o seu primeiro ano de vida e reflete o acessoe a qualidade dos recursos\ndispo- níveis para atenção à saúde materna e da população infantil.",
@@ -35580,7 +35580,7 @@
       "numero": 472,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Em 1966, foi criado o Instituto Nacional de Previdência Social (INPS), com profundas mudanças na prestação de\nserviços de saúde no Brasil. Dentre outras características, o INPS dava ênfase à",
       "alternativas": {
         "A": "atenção hospitalar privada, mediante contratos e convênios.",
@@ -35609,7 +35609,7 @@
       "numero": 473,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "“A saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu\npleno exercício”. Essa afirmação integra o texto da",
       "alternativas": {
         "A": "Declaração Universal dos Direitos Humanos (ONU, 1948).",
@@ -35638,7 +35638,7 @@
       "numero": 474,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "A Conferência Nacional de Saúde, instância colegiada do SUS, nos termos da Lei nº 8.142, de 28.12.1990, deve",
       "alternativas": {
         "A": "se reunir a cada dois anos.",
@@ -35667,7 +35667,7 @@
       "numero": 475,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "",
       "enunciado": "Um médico que resiste à forte demanda de exames para diagnóstico e de rastreamento desnecessários, bem\ncomo, à pressão da corporação farmacêutica e tecnológica, presente nos dias atuais, está atuando em prevenção",
       "alternativas": {
         "A": "básica",
@@ -35701,7 +35701,7 @@
       "numero": 476,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "O Decreto nº 7.508/2011, que dispõe sobre a organização do SUS, estabelece como centro coordenador do cuidado e\nordenador das ações e dos serviços disponibilizados na Rede de Atenção à Saúde,",
       "alternativas": {
         "A": "a atenção básica à saúde.",
@@ -35733,8 +35733,8 @@
       "id": "site-pre-0477",
       "numero": 477,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Uma usuária, sem queixas clínicas e aparentando estar em ótimas condições de saúde, dirige-se ao serviço de\nsaúde para solicitar um atestado médico de aptidão física para realização de exercício físico. O médico a atende,\nemite o atestado solicitado e aproveita para conversar sobre detecção precoce de câncer. A atitude do médico é",
       "alternativas": {
         "A": "incorreta, pois a conversa sobre detecção precoce de câncer deve ser feita pela equipe de saúde da\nfamília que tem mais proximidade com o usuário.",
@@ -35764,7 +35764,7 @@
       "numero": 478,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "",
       "enunciado": "O setor de saúde suplementar exibe diferentes modalidades de gestão e operação. A modalidade denominada\n“medicina de grupo” tem como característica:",
       "alternativas": {
         "A": "a gestão do plano é feita por profissionais médicos vinculados às cooperativas,denominados\ncooperados.",
