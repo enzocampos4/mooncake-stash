@@ -39902,7 +39902,7 @@
       "numero": 611,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "A prevalência de uma determinada doença em uma população é de 20%. Sendo assim, um teste de diagnóstico,\ncom sensibilidade de 80% e especificidade de 70%, foi desenvolvido.\nCom base nessa situação hipotética, assinale a alternativa que apresenta, correta e respectivamente, o valor\npreditivo positivo (VPP) e o valor preditivo negativo (VPN).",
       "alternativas": {
         "A": "30% e 60%",
@@ -39945,7 +39945,7 @@
       "numero": 612,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Determinada UBS organizou o seu processo de trabalho de forma a priorizar o atendimento de casos suspeitos de\ncovid-19, reduzindo a oferta de ações e as consultas programadas típicas da atenção primária à saúde (APS), tais\ncomo hiperdia, pré-natal, puericultura, entre outras.\nConsiderando essa situação hipotética, julgue o item que se seguem, a respeito da organização dos serviços de\nAPS, do Sistema Único de Saúde (SUS) e dos seus princípios norteadores\nA Lei n.º 8.142/1990 estabelece que, no exercício do controle social, a participação popular, no que tange à\nformulação e ao acompanhamento da execução de políticas públicas de saúde, está garantida principalmente por\nmeio de audiências públicas e pelas ouvidorias.",
       "alternativas": {
         "A": "Certo.",
@@ -39976,7 +39976,7 @@
       "numero": 613,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Com relação à Política Nacional de Humanização (PNH) e aos projetos terapêuticos singulares (PTS), julgue o item\nseguinte.\nA reunião da equipe de referência e o apoio matricial, na discussão de casos complexos e na elaboração de PTS, são\ndispositivos da diretriz clínica ampliada e compartilhada da PNH.",
       "alternativas": {
         "A": "Certo.",
@@ -40003,7 +40003,7 @@
       "numero": 614,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A respeito da Política Nacional de Saúde Integral da População Negra, julgue o item a seguir.\nEssa política tem como marca o reconhecimento do racismo estrutural, das desigualdades étnico-raciais e do\nracismo institucional como determinantes sociais das condições de saúde da população negra e periférica, visando\nprioritariamente à promoção da regionalização em saúde.",
       "alternativas": {
         "A": "Certo.",
@@ -40030,7 +40030,7 @@
       "numero": 615,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Leia o trecho abaixo:\n“É justo ou equânime uma pessoa que recebe 100 salários mínimos ter o atendimento 100% gratuito no SUS?\nQuem vai ter 100% de atendimento gratuito no SUS? Eu acho que essa discussão é extremamente importante\npara esse Congresso”.\n(Ex-Ministro Luiz Henrique Mandetta, programa Roda Viva, TV Cultura, 27/05/2019.)\nAfirmações eram e são frequentes na sociedade brasileira, mesmo durante a pandemia que vivemos, e revelam\nquestionamento a princípios conquistados por lutas e esforços empreendidos que culminaram na Constituição da\nRepública de 1988. Qual princípio constitucional é questionado no texto acima?",
       "alternativas": {
         "A": "O seguro social meritocrático.",
@@ -40059,8 +40059,8 @@
       "id": "site-pre-0616",
       "numero": 616,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "O ponto de conexão dos enfoques em educação em saúde, segundo Stotz, é:",
       "alternativas": {
         "A": "A problematização sobre os efeitos iatrogênicos do modelo médico hegemônico.",
@@ -40089,8 +40089,8 @@
       "id": "site-pre-0617",
       "numero": 617,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "É correto afirmar que a educação popular:",
       "alternativas": {
         "A": "baseia-se nos conhecimentos que são necessários à população após a análise dos indicadores de saúde.",
@@ -40120,7 +40120,7 @@
       "numero": 618,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Atualmente, a principal causa de morte em crianças de 1 a 4 anos de idade no Brasil são as",
       "alternativas": {
         "A": "causas externas.",
@@ -40150,7 +40150,7 @@
       "numero": 619,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Entre março e julho de 2019, ocorreram 25.000 óbitos no país “A”. Durante a pandemia da COVID-19 em 2020 ocorreram, entre\nmarço e julho, 40.000 óbitos nesse mesmo país. O indicador epidemiológico que representa a diferença entre o número de óbitos\nobservados e o número de óbitos esperados no país “A”, nos períodos mencionados, denomina-se:",
       "alternativas": {
         "A": "excesso de óbitos.",
@@ -40180,7 +40180,7 @@
       "numero": 620,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "O toque retal foi usado para triagem de câncer de próstata em 2.500 homens com câncer histologicamente\nconfirmado e em um grupo controle de 5.000 homens, pareados por idade. Os resultados do exame físico foram\npositivos em 1.800 casos e em 800 controles nos quais não houve evidência de câncer na biópsia.\nA especificidade do exame físico foi:",
       "alternativas": {
         "A": "72%.",
@@ -40210,7 +40210,7 @@
       "numero": 621,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "A prevalência de infecção pelo Helicobacter pylori em pacientes com úlcera duodenal oscila entre 90% e 100%.\nContudo, essa bactéria também pode ser encontrada em alguns pacientes com úlcera gástrica e em indivíduos\nassintomáticos.\nNeste exemplo, a característica que melhor define a associação de causalidade entre H. pylori e úlcera duodenal,\ndenomina-se",
       "alternativas": {
         "A": "especificidade da associação.",
@@ -40244,7 +40244,7 @@
       "numero": 622,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Considere que um determinado teste diagnóstico, de uma infecção, está sendo utilizado em uma cidade onde sua\nprevalência é 10%. O que se espera dos valores preditivos positivo (VPP), negativo (VPN) e da especificidade (E)\ndeste teste, se o mesmo for aplicado em outra cidade onde a prevalência da infecção é 20%?",
       "alternativas": {
         "A": "Diminuirá; aumentará; aumentará.",
