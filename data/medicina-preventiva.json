@@ -34653,7 +34653,7 @@
       "numero": 443,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "",
       "enunciado": "A vigilância ambiental dos fatores de risco biológicos é desmembrada em três áreas de concentração:",
       "alternativas": {
         "A": "Vetores, hospedeiros e reservatórios, animais peçonhentos.",
@@ -34687,7 +34687,7 @@
       "numero": 444,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Assinale a alternativa que melhor define o conceito de endemia:",
       "alternativas": {
         "A": "Ocorrência de uma doença infecciosa, contagiosa, de extensão rápida em uma certapopulação.",
@@ -34725,7 +34725,7 @@
       "numero": 445,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Pode-se afirmar que nessa população, no ano X:",
       "alternativas": {
         "A": "A mortalidade infantil foi 5,5 por mil nascidos vivos.",
@@ -34754,7 +34754,7 @@
       "numero": 446,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em 2018, uma população de 100.000 habitantes apresentou 50 casos novos de tuberculose, 5 óbitos, e 40 casos\ntiveram alta por cura. Em 2017, na mesma população, foram registrados 40 casos de tuberculose, 10 óbitos e 20\ncasos curados. \nPode-se dizer que",
       "alternativas": {
         "A": "a taxa de incidência de tuberculose em 2018 foi igual a 5 por dez mil.",
@@ -34783,7 +34783,7 @@
       "numero": 447,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Sobre a organização do cuidado médico no Brasil, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os Centros de Saúde foram implantados no Brasil a partir da 8ª Conferência Nacional da Saúde dentro\ndo modelo da atenção primária à saúde divulgado pela Conferência de Alma Ata.",
@@ -34817,7 +34817,7 @@
       "numero": 448,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Assinale a alternativa CORRETA: A sazonalidade de uma doença resulta, geralmente:",
       "alternativas": {
         "A": "da virulência do agente etiológico.",
@@ -34847,7 +34847,7 @@
       "numero": 449,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Assinale a alternativa que completa corretamente a frase abaixo. Na reforma sanitária brasileira e na Assembleia\nNacional Constituinte de 1988:",
       "alternativas": {
         "A": "Importantes instituições médicas, como a Associação Médica Brasileira (AMB), o Conselho Federal de\nMedicina (CFM) e a Associação Brasileira de Medicina de Grupo (ABRANGE), foram líderes na\nformação do Sistema Único de Saúde.",
@@ -34881,7 +34881,7 @@
       "numero": 450,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "",
       "enunciado": "Além da coleta, são funções da vigilância epidemiológica:",
       "alternativas": {
         "A": "Processamento de dados e tratamento dos doentes.",
@@ -34911,7 +34911,7 @@
       "numero": 451,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Sobre a endemia, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Intensidade de caráter endêmico de determinada doença, em determinados lugar eintervalo cronológico\ndefinido, caracterizada por uma elevação de rápida progressão.",
@@ -34945,7 +34945,7 @@
       "numero": 452,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Os sistemas de saúde adotados em diversos países do mundo são baseados em pelo menos um dos seguintes\nprincípios: da seguridade social, do seguro social e da assistência ou residual. Sobre esse assunto, assinale a\nalternativa CORRETA.",
       "alternativas": {
         "A": "O Brasil sempre adotou um sistema de saúde baseado no princípio da assistência ou residual.",
@@ -34979,7 +34979,7 @@
       "numero": 453,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Sobre os Conselhos de Saúde, analise as afirmativas a seguir: \nI. Órgão colegiado, deliberativo e permanente do Sistema Único de Saúde (SUS) em cada esfera de governo. \nII. Tem o papel de exercer o controle e a fiscalização da frequência e do horário dos funcionários do SUS. \nIII. O segmento dos usuários deve ser paritário com os demais segmentos. Isso quer dizer que 50% dos\nintegrantes do conselho de saúde têm que ser usuários, 25% devem ser profissionais de saúde e os outros 25%\ndevem ser gestores e prestadores de serviço. \nIV. Deve funcionar mensalmente, ter ata que registre suas reuniões e infraestrutura que dê suporte ao seu\nfuncionamento. Assinale",
       "alternativas": {
         "A": "se somente as afirmativas I, II e IV estiverem corretas.",
@@ -35009,7 +35009,7 @@
       "numero": 454,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Ao Sistema Único de Saúde compete, exceto:",
       "alternativas": {
         "A": "controlar e fiscalizar procedimentos, produtos e substâncias de interesse para a saúde e participar da\nprodução de medicamentos, equipamentos, imunobiológicos, hemoderivados e outros insumos.",
