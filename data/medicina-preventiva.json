@@ -36558,8 +36558,8 @@
       "id": "site-pre-0503",
       "numero": 503,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "A Política Nacional de Humanização (PNH) do Ministério da Saúde apresenta como uma de suas diretrizes a clínica\nampliada, com o intuito de qualificar o modo de se fazer saúde. Ampliar a clínica é aumentar a autonomia do usuário do\nserviço de saúde, da família e da comunidade. Acerca da implantação da clínica ampliada na prática e nos serviços de\nsaúde, assinale a alternativa correta.",
       "alternativas": {
         "A": "O trabalhador da saúde deve, por meio da escuta do usuário, conhecer os motivos que o levaram ao\nadoecimento, responsabilizando-se pela busca de formas de implementar o tratamento.",
@@ -36589,7 +36589,7 @@
       "numero": 504,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Nos últimos anos, casos de sarampo têm sido reportados em várias partes do mundo e, segundo a Organização\nMundial de Saúde (OMS), os países dos continentes europeu e africano registraram o maior número de casos da\ndoença. No Brasil, os últimos casos de sarampo foram registrados no ano de 2015, em surtos ocorridos nos\nestados do Ceará (211 casos), de São Paulo (dois casos) e de Roraima (um caso), associados ao surto do Ceará.\nEm 2016, o Brasil recebeu o certificado de eliminação da circulação do vírus do sarampo pela OMS, declarando a\nregião das Américas livre do sarampo. A Venezuela enfrenta, desde julho de 2017, um surto de sarampo, sendo a\nmaioria dos casos provenientes do estado de Bolívar. O estado de Roraima vem recebendo imigrantes desse país,\nque se encontram alojados em abrigos, residências alugadas e praças públicas. Em 14/2/2018, a Secretaria de\nSaúde do estado de Roraima (SES/RR) notificou ao Centro de Informações Estratégicas em Vigilância em Saúde\n(CIEVS) do Ministério da Saúde um caso suspeito de sarampo, no município de Boa Vista-RR. Tratava-se de uma\ncriança de um ano de idade, venezuelana, não vacinada, que apresentou febre, exantema, acompanhado de\ntosse, coriza e conjuntivite, sendo confirmado por critério laboratorial. Até o dia 1.°/10, foram notificados 516 casos\nsuspeitos de sarampo, dos quais 330 foram confirmados e 101 estão em investigação. A tabela abaixo traz os\ncasos confirmados de sarampo, por faixa etária, em Roraima, em 2018. A partir dos dados da tabela apresentada,\nassinale a alternativa correta.",
       "alternativas": {
         "A": "Quando calculadas as incidências dos casos confirmados por faixa etária, observa-se uma maior\nincidência nos menores de um ano de idade, grupo que não possui recomendação de vacinação na\nrotina. Porém, em situações de surto, trata-se de um grupo prioritário para vacinação na contenção da\ndoença.",
@@ -36623,7 +36623,7 @@
       "numero": 505,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Paciente masculino, 21 anos, testemunha de Jeová, é levado sem acompanhantes ao pronto socorro após seu\ncarro colidir com outro carro em alta velocidade. Ao chegar para atendimento, é identificado, na ultrassonografia,\nlíquido livre na cavidade abdominal e pressão arterial de 80 x 60 mmHg e frequência cardíaca de 120 bpm.\nProntamente indicada a laparotomia exploradora, o paciente apresenta durante a cirurgia pressão inaudível. Qual\na conduta mais correta tendo em vista a religião do paciente e a necessidade de transfusão sanguínea?",
       "alternativas": {
         "A": "Realizar transfusão sanguínea, pois se trata de risco iminente de morte.",
@@ -36653,7 +36653,7 @@
       "numero": 506,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "",
       "enunciado": "Sobre a Vigilância Sanitária, considere as afirmativas e assinale a opção correta. \n1. Entende-se por Vigilância Sanitária um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio\nambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde; \n2. A Vigilância Sanitária abrange o controle de bens de consumo que, direta ou indiretamente, se relacionem com a saúde, compreendidas todas as etapas e processos, da\nprodução ao consumo; \n3. A Vigilância Sanitária também abrange o controle da prestação de serviços que se relacionam apenas de forma direta com a saúde.",
       "alternativas": {
         "A": "Apenas 1 está correta.",
@@ -36683,7 +36683,7 @@
       "numero": 507,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Conceitua-se epidemia, para fins de vigilância epidemiológica, como a ocorrência de:",
       "alternativas": {
         "A": "um número de casos de uma doença acima do esperado, para um determinado período e local.",
@@ -36713,7 +36713,7 @@
       "numero": 508,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Assinale a alternativa que relaciona somente princípios doutrinários do SUS.",
       "alternativas": {
         "A": "Universalidade, integralidade e equidade",
@@ -36747,7 +36747,7 @@
       "numero": 509,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Correlacione as colunas e assinale a opção com a sequência correta.\nI. Endemia;\nII. Epidemia,\nIII. Pandemia;\nIV. Surto;\nV. Sazonalidade.\n( ) Ocorrência que ultrapassa a fronteira de países ou continentes.\n( ) Presença regular e constante de doença em determinado território.\n( ) Aumento do número de casos em espaço e tempo delimitados.\n( ) Aumento excessivo do número esperado de casos de uma doença em determinada região.\n( ) Propriedade que as doenças tem de aumentar ou diminuir o seu número de casos conforme estação do ano.",
       "alternativas": {
         "A": "III – I – IV – II – V",
@@ -36777,7 +36777,7 @@
       "numero": 510,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "",
       "enunciado": "A Média de Permanência Geral é um indicador de desempenho hospitalar que está relacionado à gestão eficiente\ndo leito operacional e às boas práticas clínicas e representa o tempo médio em dias que os pacientes\npermanecem internados no hospital. Identifique importante fator que aumenta o valor do indicador.",
       "alternativas": {
         "A": "Mediana de idade da demanda",
@@ -36807,7 +36807,7 @@
       "numero": 511,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "A Portaria nº 3.390, de 30 de dezembro de 2013, estabelece, dentro da Política Nacional de Atenção Hospitalar (PNHOSP) no\nâmbito do SUS, as diretrizes para organização do componente hospitalar da Rede de Atenção à Saúde (RAS). O\nestabelecimento de “práticas assistenciais e gerenciais desenvolvidas a partir da caracterização do perfil dos usuários por\nmeio da gestão de leitos, corresponsabilização das equipes e avaliação de indicadores assistenciais” é definido como:",
       "alternativas": {
         "A": "Apoio matricial",
@@ -36837,7 +36837,7 @@
       "numero": 512,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Para autorização de funcionamento e financiamento do Serviço de Transplante Renal, o Hospital Universitário\nAntonio Pedro encaminhou seu pleito ao Ministério da Saúde denominado como processo de:",
       "alternativas": {
         "A": "acreditação.",
@@ -36867,7 +36867,7 @@
       "numero": 513,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Assinale a afirmativa correta sobre a prevenção das doenças crônicas não transmissíveis.",
       "alternativas": {
         "A": "Nos EUA, nas últimas quatro décadas, as taxas de doença cardiovascular e de eventos cardiovasculares\ndiminuíram na população adulta de meia idade, em função dos avanços no rastreamento do diabetes\ntipo 2 e dos fatores de risco.",
@@ -36901,7 +36901,7 @@
       "numero": 514,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Sobre o coeficiente de letalidade, é CORRETO afirmar:",
       "alternativas": {
         "A": "estima o risco de morte por determinada doença/agravo na população residente total.",
