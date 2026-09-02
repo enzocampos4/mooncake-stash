@@ -41350,7 +41350,7 @@
       "numero": 659,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Tendo em vista que as comissões intergestores, o Conselho Nacional de Secretários de Saúde (Conass) e o\nConselho Nacional de Secretarias Municipais de Saúde (Conasems) fazem parte da gestão compartilhada do\nSistema Único de Saúde (SUS), assinale a alternativa correta.",
       "alternativas": {
         "A": "As Comissões Intergestores Bipartite e Tripartite são espaços intergovernamentais dos quais um dos\nobjetivos é o de fixar diretrizes acerca das regiões de saúde.",
@@ -41384,7 +41384,7 @@
       "numero": 660,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "A respeito das políticas e dos programas de saúde vigentes no Brasil e das respectivas recomendações, assinale a\nalternativa correta.",
       "alternativas": {
         "A": "No Brasil, o tratamento supervisionado para tuberculose é realizado somente nos centros de especialidades.",
@@ -41413,8 +41413,8 @@
       "id": "site-pre-0661",
       "numero": 661,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Um dos objetivos da farmacovigilância no Brasil é a redução das taxas de morbidade e mortalidade associadas ao uso de medicamentos comercializados no mercado\nbrasileiro, por meio da detecção precoce de problemas de segurança desses produtos para os pacientes e do incentivo à utilização racional de medicamentos. Um dos\nsistemas utilizados para esse fim, desde 2018, é o VigiMed, viabilizado por uma parceria da Agência Nacional de Vigilância Sanitária (Anvisa) com o Uppsala Monitoring\nCentre (UMC), vinculado à Organização Mundial da Saúde, (OMS), que operacionaliza o Programa de Monitoramento Internacional de Medicamentos.\nAcerca dessa essa temática, assinale a alternativa correta.",
       "alternativas": {
         "A": "No Brasil, os medicamentos isentos de prescrição correspondem a uma pequena parcela da automedicação, que praticamente não apresenta eventos adversos.",
@@ -41444,7 +41444,7 @@
       "numero": 662,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A 8a Conferência Nacional de Saúde, estruturada pelo Ministério da Saúde, aconteceu em Brasília, entre os dias\n17 e 21 de março de 1986. Qual opção descreve o principal motivo pelo qual esse evento se tornou um marco\nhistórico para a saúde pública brasileira?",
       "alternativas": {
         "A": "Discutiu-se pela primeira vez a construção do Instituto Nacional de Assistência Médica da Previdência\nSocial (INAMPS).",
@@ -41478,7 +41478,7 @@
       "numero": 663,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Política Nacional de Humanização (PNH), lançada em 2003, coloca em prática os princípios do SUS nas atividades\ndiárias dos serviços de saúde. São princípios dessa política, exceto:",
       "alternativas": {
         "A": "transversalidade e autonomia.",
@@ -41507,8 +41507,8 @@
       "id": "site-pre-0664",
       "numero": 664,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "Pode-se afirmar que NÃO está sujeito ao controle da Vigilância Sanitária:",
       "alternativas": {
         "A": "teleconsultas médicas",
