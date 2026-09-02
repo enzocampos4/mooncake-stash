@@ -40273,7 +40273,7 @@
       "numero": 623,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Uma das preocupações dos órgãos públicos da Saúde no enfrentamento da pandemia causada pelo SARS-CoV-2\né a segunda onda epidêmica. \nAssinale a alternativa que apresenta o fator que influencia diretamente a ocorrência de uma nova onda epidêmica.",
       "alternativas": {
         "A": "A taxa de letalidade da covid-19 na primeira onda.",
@@ -40302,7 +40302,7 @@
       "numero": 624,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Você, médico de uma Unidade Básica de Saúde, recebe uma paciente de 30 anos de idade, sem fatores de risco\npara câncer de mama, mas que acredita que fazer exames preventivos é a melhor forma de se cuidar. Por isso,\nsolicita que você peça uma mamografia de rotina para ela. No entanto, você considera recusar o pedido da\npaciente quanto à solicitação da mamografia pois isto configura uma medida de prevenção:\nAssinale a alternativa correta:",
       "alternativas": {
         "A": "Primária.",
@@ -40330,8 +40330,8 @@
       "id": "site-pre-0625",
       "numero": 625,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Vigilância Sanitária (VS) é uma das atividades exercidas pelo Sistema Único de Saúde (SUS). Ela é definida como as “ações capazes de eliminar, diminuir ou prevenir\nriscos à saúde e de intervir nos problemas de saúde decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde”. \nEntre as áreas de atuação da VS existem áreas de intersecção com a vigilância epidemiológica, dentre elas estão a vigilância de:",
       "alternativas": {
         "A": "Alimentos.",
@@ -40364,7 +40364,7 @@
       "numero": 626,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Sobre o financiamento do sistema de saúde brasileiro, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os gastos públicos com saúde, oriundos de impostos e contribuições sociais, representam\naproximadamente 43% dos gastos totais com saúde no Brasil e o restante é gasto privado, com planos\nde saúde, compra de medicamentos e gastos diretos de indivíduos e famílias.",
@@ -40393,7 +40393,7 @@
       "numero": 627,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Uma paciente HIV-positiva está em tratamento e tem um plano de saúde oferecido pela empresa na qual trabalha.\nEla é acompanhada por infectologista em consultório particular e realiza exames cobertos por seu convênio\nmédico. Todos os meses, a paciente retira gratuitamente medicamentos antirretrovirais dispensados por serviço\npúblico de referência do Sistema Único de Saúde (SUS). \nQual é o princípio do SUS que garante às pessoas o acesso a esses medicamentos?",
       "alternativas": {
         "A": "Equidade.",
@@ -40421,8 +40421,8 @@
       "id": "site-pre-0628",
       "numero": 628,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "Um médico de uma equipe de Saúde da Família, notando o aumento do número de casos de AIDS na área de\ncobertura de sua Unidade Básica de Saúde, decide realizar um inquérito populacional na região para investigar a\nvulnerabilidade da população local à infecção pelo HIV. Considerando-se os modos de exposição à infecção pelo\nHIV e as três dimensões utilizadas nas análises de vulnerabilidade, assinale a alternativa que apresenta o aspecto\nrelevante a ser incluído no estudo e a dimensão de vulnerabilidade a que está relacionado:",
       "alternativas": {
         "A": "Acesso a meios de comunicação (dimensão programática).",
@@ -40451,7 +40451,7 @@
       "numero": 629,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "A Prevenção Quaternária (P4) é um conjunto de ações que tem a finalidade de evitar danos ao paciente com\nriscos de supermedicalização ou intervenções desnecessárias de médicos ou de outros profissionais de saúde. Foi\nutilizada pela primeira vez em uma conferência da Organização Mundial de Médicos de Família (WONCA), em\n1995, por Marc Jamoulle.\nNesse sentido, é considerado exercício da P4:",
       "alternativas": {
         "A": "evitar prescrição de estatinas para pacientes com diabetes e doenças cardiovasculares prévias.",
@@ -40480,7 +40480,7 @@
       "numero": 630,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "A educação popular é um instrumento que possibilita a abordagem integral na assistência à saúde. Ela parte da\nconcepção de que todas as pessoas têm saberes e experiências acumuladas.\nPor isso, as ações educativas fundamentais nesse pressuposto devem",
       "alternativas": {
         "A": "valorizar o conhecimento científico e tradicional, reforçando a importância de ações individuais.",
@@ -40508,8 +40508,8 @@
       "id": "site-pre-0631",
       "numero": 631,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "O ano de 2020 está sendo marcado principalmente pela pandemia COVID-19, com a atuação de gestores de\nsaúde para tentar diminuir os impactos socioeconômicos e também reduzir o número de infectados e,\nconsequentemente, de mortos. Normalmente as orientações iniciais são dadas pela WHO (Organização Mundial\nde Saúde). Os primeiros movimentos foram baseados em tentar prevenir a contaminação da população.\nSobre os níveis de prevenção, assinale a assertiva correta.",
       "alternativas": {
         "A": "Higienizar as mãos com água e sabão ou álcool em gel, usar corretamente máscaras fora de casa e\nevitar aglomerações são exemplos de ações de prevenção secundária para o “novo coronavírus”.",
@@ -40541,8 +40541,8 @@
       "id": "site-pre-0632",
       "numero": 632,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Assinale a alternativa que expressa diretriz e/ou conceito da Política Nacional de Atenção à Saúde da Mulher (PNASM).",
       "alternativas": {
         "A": "A PNASM é composta por planos verticalizados a mulheres de maior vulnerabilidade.",
@@ -40571,8 +40571,8 @@
       "id": "site-pre-0633",
       "numero": 633,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Assinale a alternativa correta referente à Política Nacional para a Prevenção e Controle do Câncer (PNPCC).",
       "alternativas": {
         "A": "Como o câncer não é passível de prevenção, mas apenas de detecção precoce, todos os esforços do SUS\ndevem ser centrados nessa fase.",
@@ -40602,7 +40602,7 @@
       "numero": 634,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Uma doença aguda que provoca óbito em curto espaço de tempo, com alta taxa de letalidade",
       "alternativas": {
         "A": "tem baixo coeficiente de prevalência.",
