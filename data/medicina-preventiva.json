@@ -38064,7 +38064,7 @@
       "numero": 551,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "De acordo com a Portaria n. 2.436 do Ministério da Saúde, de 21 de setembro de 2017,",
       "alternativas": {
         "A": "o financiamento da Atenção Básica deve ser bipartite e com detalhamento apresentado pelo Plano\nMunicipal de Saúde garantido nos instrumentos conforme especificado no Plano Estadual e Municipal de\ngestão do SUS.",
@@ -38092,8 +38092,8 @@
       "id": "site-pre-0552",
       "numero": 552,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "De acordo com o Manual sobre o Cuidado à Saúde junto à População em Situação de Rua (Ministério da Saúde, 2012),\numa pesquisa relevante realizada com a população em situação de rua no Brasil apontou que",
       "alternativas": {
         "A": "o sexo feminino era o que predominava.",
@@ -38122,7 +38122,7 @@
       "numero": 553,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Na Norma Operacional Básica - SUS 01/1993, foram estabelecidas normas e procedimentos reguladores do processo de\ndescentralização da gestão das ações e serviços de saúde. Dentre essas normas e procedimentos,",
       "alternativas": {
         "A": "foram criadas as comissões intergestoras bipartite e tripartite.",
@@ -38150,8 +38150,8 @@
       "id": "site-pre-0554",
       "numero": 554,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Em nosso meio, as principais causas de mortalidade materna e neonatal são, respectivamente:",
       "alternativas": {
         "A": "hemorragias e prematuridade.",
@@ -38180,7 +38180,7 @@
       "numero": 555,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Assinale a alternativa correta sobre a evolução de uma epidemia.",
       "alternativas": {
         "A": "Contrariamente à epidemia, que é temporalmente ilimitada, a endemia é restrita a um intervalo de tempo\ndeterminado.",
@@ -38210,7 +38210,7 @@
       "numero": 556,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Assinale a alternativa correta sobre a duração de uma epidemia.",
       "alternativas": {
         "A": "Denomina-se surto epidêmico quando a duração da epidemia é restrita a um mês.",
