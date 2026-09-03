@@ -44349,7 +44349,7 @@
       "numero": 755,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Entende-se por humanização da atenção no SUS",
       "alternativas": {
         "A": "o processo de treinamento instituído para que os usuários sejam tratados educadamente.",
@@ -44378,8 +44378,8 @@
       "id": "site-pre-0756",
       "numero": 756,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Segundo o Guia Alimentar para a População Brasileira, publicado em 2014 pelo Ministério da Saúde, “o Brasil vem enfrentando aumento expressivo do sobrepeso e da\nobesidade em todas as faixas etárias, e as doenças crônicas são a principal causa de morte entre adultos. O excesso de peso acomete um em cada dois adultos e uma em\ncada três crianças brasileiras”. A elaboração de guias alimentares",
       "alternativas": {
         "A": "tem como objetivo informar à população sobre os valores nutricionais contidos em alimentos para que se faça a melhor composição de maneira homogênea no\npaís.",
@@ -44409,7 +44409,7 @@
       "numero": 757,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "A Política Nacional de Atenção à Saúde dos Povos Indígenas",
       "alternativas": {
         "A": "tem como um dos objetivos favorecer a superação dos fatores que aumentam a vulnerabilidade desses povos\npor meio do conhecimento científico.",
@@ -44439,7 +44439,7 @@
       "numero": 758,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "A seleção de doenças e agravos de notificação compulsória tem obedecido a uma série de critérios, e os mais utilizados, entre outros, têm sido",
       "alternativas": {
         "A": "a relevância internacional, a vulnerabilidade e a alta prevalência.",
@@ -44469,7 +44469,7 @@
       "numero": 759,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Em reunião realizada em novembro de 2019, a Comissão Intergestores Tripartite (CIT) aprovou uma nova política\nde financiamento da Atenção Primária em Saúde (APS), publicada na Portaria no 2.979, de 12 de novembro de\n2019, pelo Ministério da Saúde. Uma das mudanças ocorridas é",
       "alternativas": {
         "A": "o repasse por número de fiscalizações de serviços de saúde realizadas pelos municípios.",
@@ -44498,8 +44498,8 @@
       "id": "site-pre-0760",
       "numero": 760,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "De acordo com dados obtidos por meio da Pesquisa Nacional de Saúde, o Ministério da Saúde informa que 24,6% dos\nidosos têm diabetes; 56,7% têm hipertensão; 18,3% são obesos e 66,8% têm excesso de peso. As doenças do aparelho\ncirculatório são a principal causa de internação entre idosos. Em 2018, foram 641 mil es registradas no SUS de\npacientes acima de 60 anos. Em relação às informações citadas, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os ambulatórios de especialidades em cardiologia e doenças metabólicas devem ser priorizados, assim como\no aumento de leitos hospitalares do SUS.",
@@ -44529,7 +44529,7 @@
       "numero": 761,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "As Redes de Atenção à Saúde",
       "alternativas": {
         "A": "devem estar compreendidas obrigatoriamente no âmbito de uma Região de Saúde.",
@@ -44559,7 +44559,7 @@
       "numero": 762,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Um dos componentes importantes da Política Nacional de Humanização da Atenção e Gestão do SUS é a clínica\nampliada e compartilhada, que",
       "alternativas": {
         "A": "se trata de um método de abordagem de casos clínicos no qual a principal ferramenta é a plataforma digital\nque integra os saberes multidisciplinares dos profissionais de saúde e usuários.",
@@ -44589,7 +44589,7 @@
       "numero": 763,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A endemia de uma doença infecciosa em uma determinada região",
       "alternativas": {
         "A": "pode ser facilmente eliminada com medidas de monitoramento.",
@@ -44618,8 +44618,8 @@
       "id": "site-pre-0764",
       "numero": 764,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "As equipes de consultório de rua",
       "alternativas": {
         "A": "contam sempre com pelo menos um psiquiatra.",
@@ -44649,7 +44649,7 @@
       "numero": 765,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Dentre as ações para promover a atenção obstétrica e neonatal, qualificada e humanizada, pode(m)-se citar",
       "alternativas": {
         "A": "a construção de serviços especializados em patologias do aparelho reprodutor feminino.",
@@ -44678,8 +44678,8 @@
       "id": "site-pre-0766",
       "numero": 766,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Comunicação de Acidente de Trabalho (CAT)",
       "enunciado": "Um trabalhador rural perde os dois braços um em acidente envolvendo uma picadeira de cana-de-açúcar da empresa onde trabalha e é encontrado morto. Assinale a\nalternativa correta em relação a esse episódio.",
       "alternativas": {
         "A": "A declaração de óbito deve registrar o evento como acidente de trabalho.",
