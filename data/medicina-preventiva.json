@@ -45073,7 +45073,7 @@
       "numero": 779,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A declaração de óbito (DO) é um importante instrumento para obtenção de dados que permitirão determinar o padrão de mortalidade de uma determinada população em local\ne período específicos. Assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "As Declarações de Óbito devem ser preenchidas para todos os óbitos, exceto os fetais.",
@@ -45102,8 +45102,8 @@
       "id": "site-pre-0780",
       "numero": 780,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Para descrever a morbidade materna grave (near miss) entre mulheres hospitalizadas no estado do Paraná, Brasil, em 2010, pesquisadores fizeram consulta aos dados de\num sistema de informação que, quando bem preenchido, pode fornecer importantes subsídios sobre o assunto. Assinale a alternativa CORRETA sobre o sistema de\ninformação consultado para a referida análise:",
       "alternativas": {
         "A": "O SIH/SUS é um sistema de informações coordenado pelo Ministério da Saúde com a finalidade exclusiva de registrar as internações ocorridas em hospitais\npúblicos ou conveniados.",
@@ -45133,7 +45133,7 @@
       "numero": 781,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Os pacientes com enfisema pulmonar grave, tratados em um hospital de referência para doenças respiratórias,\nforam entrevistados e 98% afirmaram que eram ou tinham sido fumantes inveterados. Esta porcentagem indica:",
       "alternativas": {
         "A": "Incidência.",
@@ -45163,7 +45163,7 @@
       "numero": 782,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Entre os recrutas que se apresentaram para prestar serviço militar, na capital de um estado da região Nordeste, a\ncada ano, foram encontrados os seguintes resultados da sorologia positiva para doença de Chagas (dados\nfictícios): 2000 (15%); 2001 (13%); 2002 (11%); 2003 (10%); 2004 (8%); 2005 (5%). Verificou- se redução, ao\nlongo do tempo, no indicador chamado:",
       "alternativas": {
         "A": "incidência;",
@@ -45193,7 +45193,7 @@
       "numero": 783,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Os resultados de triagem visual de 411 escolares feita por professores de ensino de primeiro grau foram\ncomparados com os realizados por oftalmologistas, nas mesmas crianças, conforme tabela a seguir. A\nsensibilidade (S) e a especificidade (E) da triagem realizada pelos professores estão apresentadas\nCORRETAMENTE na alternativa:",
       "alternativas": {
         "A": "S=56/104; E=302/307",
@@ -45230,7 +45230,7 @@
       "numero": 784,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Sobre os termos utilizados na epidemiologia das doenças transmissíveis, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "Eliminação é a erradicação de uma doença de uma área geográfica, como a eliminação da poliomielite\ndas Américas.",
@@ -45260,7 +45260,7 @@
       "numero": 785,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "",
       "enunciado": "Recentemente, o Ministério da Saúde passou a conduzir a vigilância de lesões, violência e acidentes, em conjunto conhecidas como causas externas de morbidade e\nmortalidade. Assinale a alternativa INCORRETA sobre os objetivos da vigilância de violências e acidentes no Brasil:",
       "alternativas": {
         "A": "Caracterizar o perfil das vítimas de violência sexual, doméstica e outras violências interpessoais atendidas nos serviços de saúde.",
@@ -45294,7 +45294,7 @@
       "numero": 786,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "O Sistema Único de Saúde (SUS) do Brasil é o conjunto de ações e serviços de saúde prestados por órgãos e\ninstituições públicas federais, estaduais e municipais, mantidas pelo poder público. Sobre o SUS, é INCORRETO\nafirmar:",
       "alternativas": {
         "A": "Permite-se o acesso a todo cidadão, independente de sua contribuição para a previdência ou inserção\nno mercado de trabalho formal.",
@@ -45324,7 +45324,7 @@
       "numero": 787,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Para atingir a meta do quinto Objetivo do Desenvolvimento do Milênio (ODM), o Brasil deveria apresentar razão da mortalidade\nmaterna (RMM) igual ou inferior a 35 óbitos por 100 mil nascidos vivos (NV) até 2015, o que corresponde a uma redução de três\nquartos em relação ao valor estimado para 1990”. Sobre mortalidade materna no contexto brasileiro, podemos afirmar:",
       "alternativas": {
         "A": "As mortes maternas podem ser classificadas como obstétricas diretas ou indiretas. As mortes indiretas resultam de\ncomplicações surgidas durante a gravidez, o parto ou o puerpério (período de até 42 dias após o parto, decorrentes de\nintervenções, omissões, tratamento incorreto ou de uma cadeia de eventos associados a qualquer um desses fatores.",
@@ -45354,7 +45354,7 @@
       "numero": 788,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "No cenário da Atenção Primária à Saúde (APS), na qual em geral temos uma população com baixa prevalência de\ndoenças, a probabilidade de um exame cujo resultado indique qualquer alteração de fato representar alguma\ndoença será menor que a probabilidade em um cenário de alta prevalência de doenças, como hospitais\nsecundários e terciários. Esse conceito refere-se a qual característica dos testes diagnósticos?",
       "alternativas": {
         "A": "Sensibilidade.",
@@ -45384,7 +45384,7 @@
       "numero": 789,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Assinale a alternativa que representa corretamente os quatro princípios que orientam a ética médica.",
       "alternativas": {
         "A": "Beneficência, Não maleficência, Autonomia e Justiça.",
@@ -45413,8 +45413,8 @@
       "id": "site-pre-0790",
       "numero": 790,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "A definição de rastreamento é a realização de aplicação de testes em pessoas assintomáticas com o objetivo de\nselecionar indivíduos para intervenções cujo benefício potencial seja maior que o dano potencial. Tendo em mente\ntal conceito, em qual nível de prevenção podemos inserir o rastreamento?",
       "alternativas": {
         "A": "Prevenção primária.",
