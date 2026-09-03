@@ -47895,7 +47895,7 @@
       "numero": 869,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Com relação a mortalidade infantil, esta pode ser melhor definida como:",
       "alternativas": {
         "A": "óbitos ocorridos após o primeiro ano de vida",
@@ -47924,7 +47924,7 @@
       "numero": 870,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Com relação as medidas de ocorrência de doenças, prevalência e incidência, é correto afirmar que:",
       "alternativas": {
         "A": "prevalência representa o risco de ocorrência (casos novos) de doença na população sendo assim uma\nmedida estática",
@@ -47957,7 +47957,7 @@
       "numero": 871,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Médico que trabalha numa equipe de Estratégia de Saúde da Família e atende todos os membros de família: Jorge\n(pai), Tereza (esposa), Jéssica (filha, com 4 anos) e Enzo (filho, 6 anos). Tereza tem diagnóstico de transtorno\ndepressivo maior e está disputando a guarda dos seus filhos com Jorge, de quem está em processo de divórcio.\nEla solicita cópia do seu próprio prontuário e dos filhos para anexar ao processo judicial e comprovar o transtorno\ndepressivo, os relatos de maus tratos do marido e dificuldades com a educação das crianças que ela informou em\nconsultas anteriores. Baseado no Código de Ética Médica, qual deve ser a conduta?",
       "alternativas": {
         "A": "Fornecer a cópia do prontuário de Tereza, mas a do prontuário dos filhos somente após a autorização\npor escrito também de Jorge.",
@@ -47986,7 +47986,7 @@
       "numero": 872,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Jéssica é uma paciente que mora em uma região de baixa renda. Ela é acompanhada desde a infância na\nEstratégia de Saúde da Família. Hoje ela tem 23 anos e procura o médico chorosa, pois há alguns dias realizou o\nteste de gravidez que veio positivo. Refere atraso menstrual de 10 semanas e pretende interromper a gestação. Já\nentrou na internet e verificou onde conseguir as medicações. Tem apoio de uma amiga muito próxima com quem\ntem conversado bastante há vários dias. Está muito preocupada com medo de que sua família e seu ex-namorado,\ncom quem já terminou o relacionamento, descubram a gravidez. Considerando as Diretrizes do Ministério da\nSaúde e o Código de Ética Médica, deve-se acolher Jéssica em:",
       "alternativas": {
         "A": "Sua decisão e orientar sobre os riscos dos métodos, caso decida interromper a gestação.",
@@ -48015,7 +48015,7 @@
       "numero": 873,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Médico está realizando seu primeiro plantão numa Unidade de Pronto-Atendimento (UPA) 24h numa cidade com\n200 mil habitantes. Essa cidade tem a seguinte rede de saúde:\nApós atender um paciente na UPA, o médico fez uma carta de contrarreferência. Qual a alternativa correta,\nconsiderando os princípios de organização das redes de saúde?",
       "alternativas": {
         "A": "Idoso com dor lombar crônica há 7 anos. Tomografia com osteófitos em coluna lombar. Realizada\nanalgesia. Encaminhado à ortopedia e fisioterapia.",
@@ -48049,8 +48049,8 @@
       "id": "site-pre-0874",
       "numero": 874,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Qual é a alternativa correta quanto ao Método Clínico Centrado na Pessoa (MCCP)?",
       "alternativas": {
         "A": "É uma forma de organizar as consultas, que considera a expectativa dos médicos e das pessoas. É uma\nconsulta que pode ser realizada em condições crônicas ou agudas.",
