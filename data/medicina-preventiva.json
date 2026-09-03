@@ -42093,7 +42093,7 @@
       "numero": 683,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em um determinado local, o Índice de Swaroop Uemura apresentou um valor de 85%. Sobre esse local hipotético, assinale a\nalternativa CORRETA.",
       "alternativas": {
         "A": "Trata-se, possivelmente, de um local com poucas condições socioeconômicas e estruturais.",
@@ -42123,7 +42123,7 @@
       "numero": 684,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "Um grupo de pesquisadores decidiu realizar um estudo observacional sobre a relação entre o uso excessivo de\naparelhos eletrônicos (técnica para diagnóstico hipotético) e a presença de miopia em indivíduos de uma cidade\nhipotética. Dos 135 indivíduos analisados, 70 faziam uso excessivo de aparelhos eletrônicos (teste positivo) e\neram míopes. Sabendo que 60 indivíduos não eram míopes e que os verdadeiro-negativos são 20 indivíduos,\nresponda.\nQual seria o ponto na curva ROC que representaria a relação entre a sensibilidade e a especificidade?",
       "alternativas": {
         "A": "Ponto A.",
@@ -42175,7 +42175,7 @@
       "numero": 685,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Considere um novo teste que está sendo desenvolvido para detecção de sífilis. O referido teste foi aplicado em\n400 indivíduos. De acordo com o padrão-ouro, apenas metade apresentava a doença. O novo teste foi positivo em\n180 pacientes que tinham sífilis e negativo em 120 pacientes que não tinham. Qual é a probabilidade aproximada\nde um teste positivo indicar um paciente com a doença?",
       "alternativas": {
         "A": "90%",
@@ -42209,7 +42209,7 @@
       "numero": 686,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A redução na taxa de mortalidade infantil observada nas últimas décadas pode ser explicada pelos seguintes fatores, EXCETO:",
       "alternativas": {
         "A": "Redução da taxa de fecundidade.",
@@ -42239,7 +42239,7 @@
       "numero": 687,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em relação à mortalidade, analise as afirmações abaixo e, em seguida, assinale o item CORRETO.\nI) O Ministério da Saúde adotou uma Declaração de óbito padronizada para todo o Brasil.\nII) A causa básica do óbito deve ser escrita em primeiro lugar, na parte I da Declaração de Óbito.\nIII) A informação recolhida por Censos e Pesquisas Nacionais pode ser utilizada para estimar indicadores de mortalidade.\nIV) Quanto mais elevado o índice de Swaroop & Uemura tanto piores serão as condições de saúde e de vida de uma população.\nEstão CORRETAS apenas as alternativas;",
       "alternativas": {
         "A": "II.",
@@ -42278,7 +42278,7 @@
       "numero": 688,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "“A presença constante de uma doença em determinada zona geográfica” à esta definição é caracterizado:",
       "alternativas": {
         "A": "Surto",
