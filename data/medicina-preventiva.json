@@ -46583,7 +46583,7 @@
       "numero": 827,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Na reunião do Conselho Nacional de Secretários Estaduais de Saúde (CONASEMS), uma das pautas foi a\nimportância de se analisar a tendência de cobertura da população por planos de saúde (beneficiários dos planos\nde saúde). O gestor estadual, que representou a região sudeste do Brasil, apresentou alguns dados sobre a\ncobertura de assistência médica e odontológica para os quatro estados da região, em três períodos distintos\n(Gráfico 1).\nGráfico 1. Cobertura de Planos de Saúde (assistência médica e odontológica exclusiva) segundo estados da\nregião sudeste, 2021,\nGráfico 1. Cobertura de Planos de Saúde (Assistência Médica e Odontológica Exclusiva) segundo estados da\nregião sudeste, 2021, 2016 e 2011\nA importância desta discussão para os gestores do Sistema Único de Saúde (SUS) está relacionada:",
       "alternativas": {
         "A": "A análise da abrangência e do impacto do SUS no atendimento das necessidades de saúde da\npopulação.",
@@ -46616,7 +46616,7 @@
       "numero": 828,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Termo de Consentimento Livre e Esclarecido (TCLE)",
       "enunciado": "O termo de consentimento informado e esclarecido é peça fundamental para informação do paciente. Desse\ntermo, deve constar:",
       "alternativas": {
         "A": "Informação sobre a taxa de complicações do cirurgião.",
@@ -46644,8 +46644,8 @@
       "id": "site-pre-0829",
       "numero": 829,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Assinale a alternativa correta em relação à Atenção Primária à Saúde.",
       "alternativas": {
         "A": "Deve ser a única porta de entrada tanto para problemas agudos quanto crônicos.",
@@ -46678,7 +46678,7 @@
       "numero": 830,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Após tentativas frustradas de contatar o médico assistente de um paciente com vômitos incoercíveis, a enfermeira\npede ajuda a um médico, que, após avaliar o paciente, prescreveu medicação. A seguir, evolui no prontuário e\ncomunicou o médico assistente. De acordo com o código de ética médica, a atitude do médico foi:",
       "alternativas": {
         "A": "Inadequada em todos os aspectos, pois é vedado ao médico intervir na prescrição de outro médico.",
@@ -46706,8 +46706,8 @@
       "id": "site-pre-0831",
       "numero": 831,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Qual das alternativas abaixo é tarefa ou papel dos Agentes Comunitários de Saúde no cuidado domiciliar?",
       "alternativas": {
         "A": "Avaliar de modo integral, individual, familiar e no contexto social a situação da pessoa enferma.",
@@ -46736,7 +46736,7 @@
       "numero": 832,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Analise as seguintes assertivas em relação ao SUS:\nI. Serviços Especiais de Acesso Aberto são serviços de saúde específicos para o atendimento da pessoa que, em razão de\nagravo ou de situação laboral, necessita de atendimento especial.\nII. A universalidade de acesso é entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos,\nindividuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema.\nIII. Rede de Atenção à Saúde é o conjunto de ações e serviços de saúde articulados em níveis de complexidade crescente,\ncom a finalidade de garantir a integralidade da assistência à saúde.\nQuais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -46765,7 +46765,7 @@
       "numero": 833,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "",
       "enunciado": "Analise as seguintes assertivas em relação aos critérios a serem utilizados na definição de indicadores de saúde:\nI. Mensurabilidade é a capacidade de basear-se em dados disponíveis ou fáceis de serem obtidos.\nII. Confiabilidade é a capacidade de reproduzir os mesmos resultados quando aplicado em condições similares.\nIII. Relevância é a capacidade de medir o que se pretende, incluindo a sensibilidade e a especificidade.\nQuais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -46798,7 +46798,7 @@
       "numero": 834,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "",
       "enunciado": "Analise as seguintes assertivas em relação à descentralização do SUS:\nI. Existe uma redistribuição do poder, repassando competências e instâncias decisórias para esferas mais próximas à\npopulação, e também existe uma redefinição das atribuições, desconcentrando o poder da União e dos Estados para os\nmunicípios.\nII. O processo da municipalização da saúde, entendido como um fenômeno político-administrativo aponta para uma ruptura\ncom o modelo assistencial tradicional e dota os municípios com modelos locais de saúde de acordo com todas as diretrizes\ndo SUS.\nIII. Pressupõe a existência de gestores em vários níveis, mas a célula básica do sistema deve ser o município, ficando para os\nEstados e para União os serviços de alta complexidade tecnológica.\nQuais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -46831,7 +46831,7 @@
       "numero": 835,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "",
       "enunciado": "Você se encontra no plantão vespertino (14 às 20h) em uma Unidade de Pronto-Atendimento (UPA) e está\nescalado para plantão noturno (20 às 8h) na Unidade de Emergência de um Hospital (A) que fica próximo à UPA.\nÀs 18h, você é comunicado que o colega médico que iria lhe substituir na UPA foi vítima de acidente\nautomobilístico e não poderá comparecer ao plantão noturno. O outro colega médico que se encontra no plantão\nvespertino da Unidade de Emergência do hospital também tem plantão noturno em outro hospital (B). \nAssinale a alternativa com a atitude correta conforme as normativas do Conselho Federal de Medicina.",
       "alternativas": {
         "A": "Informar a situação ao responsável técnico da UPA, avisando que o plantão noturno ficará sem médico.",
@@ -46861,7 +46861,7 @@
       "numero": 836,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "",
       "enunciado": "Em 2021 completam-se 31 anos desde a promulgação da Lei Orgânica da Saúde (LOS) no Brasil e 33 anos desde\na aprovação da Constituição Federal, que estabeleceu a saúde como direito de todo cidadão e um dever do\nEstado.\nSobre o Sistema Único de Saúde (SUS), é correto afirmar:",
       "alternativas": {
         "A": "O controle social, previsto na lei, foi uma das principais inovações do SUS, estabelecendo que cada\nesfera de governo deve contar com conferências e conselhos de saúde.",
@@ -46891,7 +46891,7 @@
       "numero": 837,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "",
       "enunciado": "Considerando-se o quadro abaixo:\nÉ correto afirmar que a letalidade de COVID-19 no Brasil é de:",
       "alternativas": {
         "A": "1,84%.",
@@ -46928,7 +46928,7 @@
       "numero": 838,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "",
       "enunciado": "A formação organizada de Redes de Atenção à Saúde no Sistema Único de Saúde (SUS) com a oferta,\ncoordenada pela atenção primária à saúde, de uma atenção contínua e integral a determinada população, é um\ndos principais passos a serem dados atualmente no Brasil. Sobre os pressupostos da atenção à saúde por meio\nde redes, é correto afirmar que elas devem:",
       "alternativas": {
         "A": "Sempre agir de forma reativa.",
