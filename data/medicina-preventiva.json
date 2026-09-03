@@ -50306,7 +50306,7 @@
       "numero": 947,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Você já acompanha há 6 meses uma paciente portadora de neoplasia de mama avançada com metástases\ncerebrais na sua unidade de saúde. Nos últimos meses, ela evoluiu refratária as medidas oferecidas e agora\nencontra-se totalmente dependente para atividades básicas e limitada ao leito. No dia de hoje, ela evolui com\nquadro de pneumonia aspirativa, complicada com quadro de insuficiência respiratória e renal. Sobre os cuidados a\nserem oferecidos a essa paciente, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Por esse paciente ser portador de moléstia crônica e incurável, o médico não deverá seguir na\nassistência, devendo ser transferida para cuidado de fim de vida conduzido por equipe especializada.",
@@ -50336,7 +50336,7 @@
       "numero": 948,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Termo de Consentimento Livre e Esclarecido (TCLE)",
       "enunciado": "Em um atendimento em atenção primária à saúde, você detecta uma condição genética rara que acomete todos\nos membros daquela os membros daquela família. Devido ao quadro atípico, você presta o atendimento, mas\ndecide compartilhar o achado com a comunidade científica por meio de um relato de caso. Sobre a questão ética\nque envolve esse relato de caso, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Caso não ocorra a identificação dos pacientes, é dispensada a realização de termo de consentimento\nlivre e esclarecido para todos os participantes.",
@@ -50366,7 +50366,7 @@
       "numero": 949,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Sobre os Principios Fundamentais do exercício da medicina, conforme estabelece o Código de Ética Médica\nvigente, analise os itens abaixo:\nI. A Medicina é uma profissão a serviço da saúde do ser humano e da coletividade e será exercida sem\ndiscriminação de nenhuma natureza.\nII. Para exercer a Medicina com honra e dignida de, o médico necessita ter boas condições de trabalho e ser\nremunerado de forma justa.\nIII. A Medicina não pode, em nenhuma circunstância ou forma, ser exercida como comércio.\nIV. As relações do médico com os demais profissionais devem basear-se no respeito mútuo, na liberdade e na\nindependência de cada um, buscando sempre o interesse e o bem-estar do paciente.\nV. O trabalho do médico não pode ser explorado por terceiros com objetivos de lucro, finalidade política ou\nreligiosa.\nAssinale a alternativa CORRETA:",
       "alternativas": {
         "A": "Todos estão corretos.",
@@ -50400,7 +50400,7 @@
       "numero": 950,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Qual dos seguintes sistemas de informação em saúde toma por base informações de um Território Sanitário?",
       "alternativas": {
         "A": "SIM.",
@@ -50430,7 +50430,7 @@
       "numero": 951,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Com informações advindas do Sistema de Informação sobre Nascidos Vivos e do Sistema de Informações sobre Mortalidade, é\npossível calcular o seguinte indicador:",
       "alternativas": {
         "A": "Coeficiente de Mortalidade Geral.",
@@ -50464,7 +50464,7 @@
       "numero": 952,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "Assinale a assertiva correta sobre medicina baseada em evidências.",
       "alternativas": {
         "A": "A razão de verossimilhança positiva indica quantas vezes é maior a possibilidade de a pessoa ter a\ndoença quando um teste é positivo.",
