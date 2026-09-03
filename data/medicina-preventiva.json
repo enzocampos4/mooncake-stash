@@ -47336,7 +47336,7 @@
       "numero": 851,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Pode-se afirmar, com relação à Atenção à Saúde no Brasil, que:",
       "alternativas": {
         "A": "o gasto privado é maior que o público, o que contradiz o modelo, universal e integral, preconizado\nconstitucionalmente",
@@ -47365,7 +47365,7 @@
       "numero": 852,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Sobre os regimes administrativos e modelos de gestão existentes no Brasil em relação aos hospitais, situam-se\ncomo organizações da sociedade civil, estabelecidas por entes privados, sem finalidades lucrativas e passíveis de\nestabelecimento de contratos de gestão com entes públicos:",
       "alternativas": {
         "A": "os Serviços Sociais Autônomos, como a Rede Sarah",
@@ -47394,7 +47394,7 @@
       "numero": 853,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Pode-se afirmar em relação aos Sistemas de Saúde que:",
       "alternativas": {
         "A": "em uma perspectiva restrita, Sistema de Saúde é a denominação dada ao conjunto de serviços de\nAtenção à Saúde",
@@ -47423,7 +47423,7 @@
       "numero": 854,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Na pandemia por COVID 19, no Brasil, optou-se por iniciar o processo de imunização por categorias mais\nexpostas à infecção e à transmissão, como os trabalhadores da atenção direta aos casos suspeitos e confirmados,\nbem como grupos populacionais mais \nvulneráveis, tais como idosos, quilombolas e povos indígenas. Esta decisão se dá mediante a aplicação da\nconjugação do princípio da igualdade com o da justiça social, e refere-se à:",
       "alternativas": {
         "A": "integralidade",
@@ -47452,7 +47452,7 @@
       "numero": 855,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Pode-se afirmar, sobre aos Planos e Seguros de Saúde no Brasil, que:",
       "alternativas": {
         "A": "os valores a serem reembolsados pelas seguradoras devem ser universalmente integrais, dada a\ngarantia da integralidade do Sistema de Saúde",
@@ -47481,7 +47481,7 @@
       "numero": 856,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Pode-se afirmar, em relação à governança do SUS, que:",
       "alternativas": {
         "A": "há necessidade de definição de comando único por esfera de governo e solidariedade entre as partes\nconstitutivas",
@@ -47510,7 +47510,7 @@
       "numero": 857,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "",
       "enunciado": "Um determinado país possui elevada cobertura vacinal para as doenças imunopreveníveis, percentagem de cobertura para água\ntratada e tratamento de esgoto acima de 95%, índice de desenvolvimento urbano elevado, atendimento médico público e gratuito\nde qualidade. Nestas condições deve-se esperar que esse país apresente também:",
       "alternativas": {
         "A": "o indicador de DALY (Disability Adjusted Life Year) elevado; indicador de Swaroop-Uemura abaixo de 25%;\npredominância de causas maternas indiretas em relação às diretas e menor proporção de causas perinatais em relação\nas causas pós-neonatais",
@@ -47550,7 +47550,7 @@
       "numero": 858,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Pode-se afirmar, sobre a expressão “controle social”, no ambiente da saúde pública brasileira e da legislação do\nSUS, que:",
       "alternativas": {
         "A": "os Serviços de Saúde públicos e seus profissionais não devem tentar controlar os usuários/populações\nou obrigá-los a procedimentos que não queiram",
@@ -47585,7 +47585,7 @@
       "numero": 859,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Em um mesmo teste diagnóstico, quanto maior a probabilidade pré-teste:",
       "alternativas": {
         "A": "menor o VPP e maior o valor preditivo negativo",
@@ -47618,7 +47618,7 @@
       "numero": 860,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Mulher, 38 anos, com gravidez múltipla de 23 semanas, é admitida com eclampsia. Horas depois, ocorre o parto natural de dois conceptos. Ela evolui com edema agudo de\npulmão, seguido de óbito. Não foi realizada necropsia. Na tabela abaixo, as características dos conceptos. \nPode-se afirmar, no que diz respeito aos registros vitais e aos indicadores de saúde, que:",
       "alternativas": {
         "A": "a causa básica da morte da mulher é edema agudo de pulmão",
@@ -47651,7 +47651,7 @@
       "numero": 861,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Pesquisadores internacionais desejam testar cientificamente uma nova vacina para a Malária, no Brasil. Contam\npara isso com uma instituição nacional patrocinadora. O protocolo de pesquisa implica em usar em voluntários\numa dose da nova vacina, testando sua eficácia e segurança.\nConsiderando os aspectos médicos e legais, identifique o órgão no qual a pesquisa científica precisa ser,\npreliminarmente, registrada:",
       "alternativas": {
         "A": "Agência Nacional de Vigilância Sanitária.",
@@ -47680,7 +47680,7 @@
       "numero": 862,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "",
       "enunciado": "Pesquisadores internacionais desejam testar cientificamente uma nova vacina para a Malária, no Brasil. Contam\npara isso com uma instituição nacional patrocinadora. O protocolo de pesquisa implica em usar em voluntários\numa dose da nova vacina, testando sua eficácia e segurança.\nIdentifique o documento formal inicial necessário para o registro da pesquisa, no qual devem constar o nome do\nprojeto e dos pesquisadores, e que precisa ser assinado pelos pesquisadores e anexado ao protocolo.",
       "alternativas": {
         "A": "Termo de Consentimento Livre e Esclarecido.",
