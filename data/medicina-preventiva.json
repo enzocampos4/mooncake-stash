@@ -46197,8 +46197,8 @@
       "id": "site-pre-0815",
       "numero": 815,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "O ReSOAP, Registro de Saúde Orientado por Problemas, é bastante utilizado na Atenção Primária em Saúde em todo o mundo. O formato de registro no prontuário se dá\natravés do SOAP. Observe o “A” feito em uma consulta em uma unidade de saúde: \n1. Hérnia de disco? \n2. Cefaleia \n3. Hipertensão arterial \n4. Diabetes tipo II \n5. Dor no ombro a esclarecer \nLembrando-se da orientação do que não deve ser registrado como “problema” ou “condição”, é possível dizer que esse “A” está:",
       "alternativas": {
         "A": "Incorreto, porque não se pode colocar sintomas isolados na lista de problemas (\"cefaleia\").",
@@ -46232,7 +46232,7 @@
       "numero": 816,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em um município, no último dia do ano de 2019 existiam 235 casos de diabetes, no ano seguinte, 30 novos casos\nforam diagnosticados. Neste mesmo ano, 4 pessoas que já possuíam diabetes mudaram-se para esse município,\nsendo que do total de casos desse município, 3 foram a óbito. \nPopulação do município \n31/12/2019 – 150.000 habitantes \n01/07/2020 – 153.000 habitantes \n31/12/2020 – 156.000 habitantes \nQual a prevalência dessa doença por mil habitantes em 31/12/2020?",
       "alternativas": {
         "A": "1,50",
@@ -46262,7 +46262,7 @@
       "numero": 817,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Para o cálculo do coeficiente de mortalidade infantil pós-neonatal, em um determinado ano e localidade é necessário saber o\nnúmero de óbitos em...",
       "alternativas": {
         "A": "maiores de 7 dias até os menores de 28 dias; total de crianças menores de um ano.",
@@ -46296,7 +46296,7 @@
       "numero": 818,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em um município a população de menores de um ano é de 1.932 crianças para o ano de 2020. Foram registrados 815 nascidos\nvivos. Nesse período ocorreram 7 óbitos fetais, 2 óbitos em lactentes com idade entre 3 meses e 11 meses de vida, 10 óbitos em\nrecém-nascidos com menos de sete dias de vida, e 1 óbito em recém-nascido com idade variando entre 7 e 27 dias de vida.\nCalcule o Coeficiente de Mortalidade Infantil para esse ano:",
       "alternativas": {
         "A": "15,95/1000 nascidos vivos.",
@@ -46326,7 +46326,7 @@
       "numero": 819,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Correlacione a Tabela A, com Princípios e Diretrizes do SUS, e a Tabela B, que traz situações típicas da atuação\nmédica na Atenção Primária. \nAssinale a opção que traz a correlação correta, de cima para baixo.",
       "alternativas": {
         "A": "I; IV; II; III",
@@ -46362,7 +46362,7 @@
       "numero": 820,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "A Participação da Comunidade é uma das Diretrizes do SUS. A Lei N° 8142, de 28 de dezembro de 1990, dispôs\nsobre a participação da comunidade. Sobre Conselhos e Conferências de Saúde, assinale a alternativa correta.",
       "alternativas": {
         "A": "Os Conselhos e Conferências de Saúde terão sua organização e normas definidas pelo Poder\nLegislativo e autorizadas pelo Poder Executivo.",
@@ -46396,8 +46396,8 @@
       "id": "site-pre-0821",
       "numero": 821,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Considere o texto abaixo para responder à questão. \n“As mulheres são atingidas pela violência interpessoal de modo singular, na maioria das vezes, por parceiros\níntimos ou familiares, envolvendo agressões físicas, sexuais e também danos psíquicos. [...] [...] Estudos nacionais\ne internacionais apontam entre os usuais fatores associados à violência por parceiro íntimo o consumo de\nsubstâncias psicoativas. [...] Adicionalmente relevante se torna o consumo de medicamentos, realizado\nespecialmente por mulheres, e sua relação com os episódios de violência entre parceiros íntimos, o que pode ser\nconsiderado um novo desafio para os profissionais de saúde, [...] devido ao risco de corroborar para uma\nmedicalização excessiva. Na América Latina, [...] o uso de álcool pelo parceiro íntimo se insere entre as demais\ncaracterísticas apresentadas pelas mulheres agredidas, a saber: coabitação com o parceiro sem casamento\nformal; muitos filhos; não compartilhamento da tomada de decisão; disparidade no nível de instrução. Assim, o\nconsumo de álcool, especificamente, está incluído entre os riscos para a violência doméstica, principalmente se o\npadrão de consumo for elevado. [...].” \nSILVA, Valéria Nanci. “Violência e uso de substância psicoativas: um estudo com mulheres usuárias de um serviço\nde Atenção Primária à Saúde de São Paulo / Valéria Nanci Silva. – São Paulo, 2008. \nO texto faz referência a que fenômeno observado na saúde pública?",
       "alternativas": {
         "A": "Carga de doença.",
@@ -46429,8 +46429,8 @@
       "id": "site-pre-0822",
       "numero": 822,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder.\nApós ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é\ndirecionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da\nUnidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da\nequipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de\nSaúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu finado\npai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de\npré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata\nque Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa\nde Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser\nacompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de\nseguimento. Durante esse acompanhamento pré-natal, a equipe ficou ciente de que Vanessa vivia em contexto de\nviolência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por\nvolta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima\nlabial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante\nhospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades\nprecoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria\napresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa ficou\ninternada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi\ncompanhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se\nmudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois\nde seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas\ndomiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica,\nvarrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS.\nEm sua consulta com Edberto, ele refere que o medo de desenvolver câncer de pulmão é uma das razões que o\nmotiva a parar de fumar. Ele, então, pergunta se você pode solicitar algum exame de rastreio para câncer de\npulmão nele. De acordo com recomendações nacionais para o rastreio do câncer de pulmão, assinale a alternativa\ncom a conduta adequada.",
       "alternativas": {
         "A": "Informar que até o momento não existe diretriz nacional governamental para o rastreamento de câncer\nde pulmão, além de ele não ter indicação de realizar o exame.",
@@ -46459,7 +46459,7 @@
       "numero": 823,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder.\nApós ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é\ndirecionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da\nUnidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da\nequipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de\nSaúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu finado\npai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de\npré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata\nque Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa\nde Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser\nacompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de\nseguimento. Durante esse acompanhamento pré-natal, a equipe ficou ciente de que Vanessa vivia em contexto de\nviolência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por\nvolta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima\nlabial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante\nhospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades\nprecoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria\napresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa ficou\ninternada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi\ncompanhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se\nmudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois\nde seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas\ndomiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica,\nvarrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS.\n(TRECHO DA QUESTÃO ANTERIOR)\n\"Em sua consulta com Edberto, ele refere que o medo de desenvolver câncer de pulmão é uma das razões que\no motiva a parar de fumar. Ele, então, pergunta se você pode solicitar algum exame de rastreio para câncer\nde pulmão nele. De acordo com recomendações nacionais para o rastreio do câncer de pulmão, assinale\na alternativa com a conduta adequada.\"\nA abordagem adequada frente à demanda, ilustrada na questão anterior, de Edberto quanto a exames de rastreio\nde câncer de pulmão configura que nível de Prevenção?",
       "alternativas": {
         "A": "Primária.",
@@ -46492,7 +46492,7 @@
       "numero": 824,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um exame físico foi usado para rastreamento de câncer de próstata em 2500 homens com carcinoma comprovado\npor biópsia, e em um grupo controle de 5.000 homens emparelhados por idade e raça. Os resultados estão\ndemonstrados na tabela a seguir:\nAssinale a alternativa que apresenta CORRETAMENTE a sensibilidade do exame físico.",
       "alternativas": {
         "A": "69%.",
@@ -46524,8 +46524,8 @@
       "id": "site-pre-0825",
       "numero": 825,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Mulher com 48 anos, negra, solteira, relata ter perdido o pai falecido recentemente devido à covid-19. Procurou a\nUBS com queixa de cefaleia e formigamento nos pés; refere ter diabetes e que nem sempre usa as medicações\ncorretamente. Sabe que precisa fazer dieta e realizar atividade física, mas não tem vontade para fazer nada desde\na morte do pai. O exame físico evidenciou: IMC = 32, PA = 150 x 90mmHg e varizes de membros inferiores. A\nconduta do médico foi prescrever as medicações e marcar o retorno para 60 dias Considerando a utilização do\nmétodo clínico centrado na pessoa, nesse caso, é correto afirmar que:",
       "alternativas": {
         "A": "pode melhorar a adesão ao tratamento e o cuidado preventivo, em que cada encontro é uma\noportunidade para a promoção da saúde",
@@ -46554,7 +46554,7 @@
       "numero": 826,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Em relação aos testes de sensibilidade e especificidade, havendo uma prevalência adequada da doença\npesquisada, é correto afirmar que nos exames:",
       "alternativas": {
         "A": "sensíveis há menor probabilidade de resultados falsos negativos, sendo assim, se o resultado for\npositivo é possível concluir que a pessoa é doente para a patologia pesquisada",
