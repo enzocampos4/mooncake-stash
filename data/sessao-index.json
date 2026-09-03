@@ -237548,8 +237548,8 @@
   "site-pre-0815": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Sistemas de Informação em Saúde",
+    "sub": "Ética Médica",
+    "subsub": "Prontuário médico e atestados",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237558,7 +237558,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237567,7 +237567,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237576,7 +237576,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+    "subsub": "Medidas de frequência (incidência, prevalência)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237585,7 +237585,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Princípios e Diretrizes do SUS",
+    "subsub": "Princípios e diretrizes do SUS",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237594,7 +237594,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+    "subsub": "Controle social e participação popular",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237602,8 +237602,8 @@
   "site-pre-0821": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Medicina de Família e Comunidade",
-    "subsub": "Processo Saúde-Doença e níveis de prevenção em saúde",
+    "sub": "Epidemiologia",
+    "subsub": "Medidas de associação (RR, OR, RAR)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237611,8 +237611,8 @@
   "site-pre-0822": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Territorialização e adscrição de clientela",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237621,7 +237621,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Medicina de Família e Comunidade",
-    "subsub": "Processo Saúde-Doença e níveis de prevenção em saúde",
+    "subsub": "Territorialização e adscrição de clientela",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237630,7 +237630,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237638,8 +237638,8 @@
   "site-pre-0825": {
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
-    "sub": "Sistema Único de Saúde (SUS)",
-    "subsub": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+    "sub": "Medicina de Família e Comunidade",
+    "subsub": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
@@ -237648,7 +237648,7 @@
     "area": "medicina-preventiva",
     "area_nome": "Medicina Preventiva",
     "sub": "Epidemiologia",
-    "subsub": "Testes Diagnósticos",
+    "subsub": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Medicina Preventiva"
