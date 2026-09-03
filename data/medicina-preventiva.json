@@ -49199,8 +49199,8 @@
       "id": "site-pre-0911",
       "numero": 911,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "",
       "enunciado": "Entre os sistemas nacionais de informação em saúde existentes, assinale a alternativa que apresenta o sistema que permite construir indicadores importantes para conhecer\no perfil de saúde de uma região. A partir das informações nele contidas, pode-se obter mortalidade proporcional por causas, faixa etária, sexo, local de ocorrência e\nresidência, letalidade dos agravos de incidência conhecida, bem como taxas de mortalidade geral, infantil, materna ou por qualquer outra variável contida na declaração de\nóbito. Tem como fonte de informação a declaração de óbito:",
       "alternativas": {
         "A": "Sistema de Informação de Agravos de Notificação (Sinan).",
@@ -49232,8 +49232,8 @@
       "id": "site-pre-0912",
       "numero": 912,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "",
       "enunciado": "Assinale a alternativa que apresenta o sistema de informação em saúde que, embora não possa ser utilizado para fins epidemiológicos, é um importante sistema, pois permite\no conhecimento dos procedimentos utilizados na rede ambulatorial do SUS, além de conter a relação dos serviços da rede própria, contratada e conveniada dos estados e\nmunicípios, e informações sobre profissionais por especialidade. Tem como fontes de dados as informações do Cadastro Nacional de Estabelecimentos de Saúde (CNES) e\nos boletins de produção ambulatorial:",
       "alternativas": {
         "A": "Sistema de Informações Hospitalares (SIH/SUS).",
@@ -49262,7 +49262,7 @@
       "numero": 913,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Considerando o dual Estado e Saúde, temos que o Estado intervém na saúde basicamente por produção direta e\npor intermediação na distribuição. Para isso, pode adotar diferentes tipos de sistemas de saúde. O país cujo\nsistema de saúde é essencialmente público é:",
       "alternativas": {
         "A": "Brasil.",
@@ -49295,7 +49295,7 @@
       "numero": 914,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Um paciente de 75 anos, sem comorbidades, lúcido e orientado, calmo, acompanhado por duas filhas, comparece\nem consulta médica com resultado de biópsia de próstata – adenocarcinoma Gleason 10 (5+5). As filhas solicitam,\nno início do atendimento, que não seja informado o diagnóstico ao paciente. Durante a consulta, o paciente\nquestiona o médico sobre sua real patologia. Qual é a melhor conduta a ser tomada diante dessa situação?",
       "alternativas": {
         "A": "Informar ao paciente apenas que ele tem uma alteração no exame e que precisa ser tratado\nrapidamente, conforme o pedido das filhas.",
@@ -49325,7 +49325,7 @@
       "numero": 915,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Termo de Consentimento Livre e Esclarecido (TCLE)",
       "enunciado": "Um paciente de 13 anos está em tratamento de leucemia. Já passou por diversos tratamentos e procedimentos,\nsem sucesso na remissão de sua doença. Por fazer seu tratamento em um hospital escola, foi chamado,\njuntamente com seus pais, para uma consulta, na qual foi convidado a participar de uma pesquisa clínica com\nmedicamento experimental. Na ocasião, o médico explicou os detalhes do tratamento proposto, bem como seus\npossíveis riscos. Diante do quadro apresentado, assinale, entre as seguintes alternativas, a correta.",
       "alternativas": {
         "A": "A evolução em prontuário do aceite dos responsáveis e do paciente é documento suficiente para sua\ninclusão na pesquisa.",
@@ -49355,7 +49355,7 @@
       "numero": 916,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O diagrama de controle é uma ferramenta essencial para o acompanhamento da frequência de agravos e\ndoenças, de modo a identificar a ocorrência de epidemias. No eixo Y, é apresentada a medida de incidência\nda condição, enquanto, no eixo X, é representado o tempo utilizado, por exemplo, meses.\nNo diagrama de controle, uma condição é considerada epidêmica se a curva de ocorrência mensal ultrapassar",
       "alternativas": {
         "A": "a média histórica do mês.",
@@ -49389,7 +49389,7 @@
       "numero": 917,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "",
       "enunciado": "Um grupo de pesquisa desenvolveu um novo teste sorológico, significativamente mais barato, para o diagnóstico\nde infecção pelo vírus SARS-Cov-2. Para a avaliação da acurácia desse teste, foi feito um estudo transversal com\n5.000 participantes. Comparado ao padrão-ouro definido, os resultados desse novo teste foram os seguintes:\nConsiderando esses resultados, assinale a alternativa correta.",
       "alternativas": {
         "A": "A sensibilidade do novo teste foi 86%.",
@@ -49426,7 +49426,7 @@
       "numero": 918,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "São sistemas nacionais de informação úteis para a prática da Vigilância Epidemiológica por profissionais e equipes de saúde, EXCETO",
       "alternativas": {
         "A": "SINAN.",
@@ -49455,8 +49455,8 @@
       "id": "site-pre-0919",
       "numero": 919,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Alberto é gestor municipal de saúde e está participando da construção do Plano Plurianual (PPA) do seu município.\nAo saber que precisaria definir indicadores para monitorar os efeitos do PPA, para acompanhamento das metas e\nobjetivos almejados, ele resolve estudar mais sobre o assunto e descobre que os indicadores em saúde são\nclassificados, segundo a proposta de Donabedian, em indicadores de estrutura, processo e resultado.\nConsiderando essa classificação para a realidade dos serviços de atenção primária à saúde no Brasil, relacione as\ncolunas e assinale a alternativa com a sequência correta.\nClassificação:\n1. Estrutura.\n2. Processo.\n3. Resultado.\nIndicador:\n( ) Cobertura de Papanicolau.\n( ) Número de médicos por habitante.\n( ) Mortalidade por insuficiência cardíaca.\n( ) Cobertura por equipes de ESF.\n( ) Internações por asma.\n( ) Percentual de parto cesáreo.",
       "alternativas": {
         "A": "1 – 2 – 3 – 3 – 2 – 1.",
@@ -49490,7 +49490,7 @@
       "numero": 920,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "",
       "enunciado": "O Sistema Único de Saúde (SUS), apesar de constar na Constituição Federal de 1988, somente é regulamentado\na partir de 1990, \ninicialmente pela Lei nº 8080/90. As Normas Operacionais Básicas (NOB) trouxeram importantes mudanças ao\nSUS ao longo do tempo. Foi uma definição da NOB 01/96",
       "alternativas": {
         "A": "descentralizar a gestão do sistema, definindo três níveis de gestão: incipiente, parcial e semiplena.",
@@ -49524,7 +49524,7 @@
       "numero": 921,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "",
       "enunciado": "A Lei nº 13.097/2015 deu nova redação à Lei Orgânica do SUS n° 8080/90 em seu Art. 23, permitindo “a\nparticipação direta ou indireta, inclusive controle, de empresas ou de capital estrangeiro na assistência à saúde”.\nSão casos permitidos para essa participação previstos na lei, EXCETO",
       "alternativas": {
         "A": "doações de entidades de cooperação técnica e de financiamento e empréstimo.",
@@ -49553,8 +49553,8 @@
       "id": "site-pre-0922",
       "numero": 922,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "Dr. João é médico da Estratégia Saúde da Família e está atendendo Maria, 36 anos, pela terceira vez em dois\nmeses, devido a quadro \nde dores de cabeça recorrentes. Após nova avaliação clínica, João descarta sinais de alarme e conclui se tratar de\ncefaleia tensional. Preocupado devido à resposta insatisfatória até então com o tratamento prescrito, Dr. João\nresolve entender um pouco mais do contexto familiar e comunitário de Maria, quando descobre que ela possui\ndiversos estressores sociais, incluindo dificuldades econômicas e violência doméstica. Com base nesse caso\ne nas políticas de saúde vigentes, assinale a alternativa correta.",
       "alternativas": {
         "A": "O caso exemplifica que a prática clínica é ineficaz para o cuidado em saúde da população.",
