@@ -48079,7 +48079,7 @@
       "numero": 875,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O Sistema Único de Saúde (SUS) é marcado por relações entre o público e o privado tanto no financiamento das\natividades e ações de saúde quanto na prestação, acesso e uso de serviços. Qual é a alternativa correta sobre a\nrelação público-privada na saúde no Brasil?",
       "alternativas": {
         "A": "As despesas médicas ou de hospitalização dedutíveis de Imposto de Renda de Pessoas Físicas\nrestringem-se aos pagamentos efetuados pelo contribuinte a médicos, dentistas e outros profissionais da\nsaúde, mas não incluem pagamentos de mensalidades de planos e seguros de saúde.",
@@ -48112,7 +48112,7 @@
       "numero": 876,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "O controle social no Sistema Único de Saúde é exercido por meio de conferências e conselhos de saúde. Qual é a\nalternativa correta?",
       "alternativas": {
         "A": "Sindicatos, conselhos profissionais e associações de pacientes não podem compor os conselhos de\nsaúde municipais.",
@@ -48147,7 +48147,7 @@
       "numero": 877,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Direitos do paciente",
       "enunciado": "Adolescente, sexo feminino, 13 anos de idade, está internada há 6 meses para tratamento de um câncer. Ao longo\ndessa internação, a adolescente e seus pais iniciaram uma página na internet sobre a doença e, em pouco tempo,\na família já tinha milhões de seguidores, incluindo membros da equipe médica do hospital. A adolescente era muito\nativa nas redes sociais e todos os dias postava detalhes da sua rotina no hospital. A resposta ao tratamento não foi\nboa e o caso clínico considerado sem proposta terapêutica curativa. Imediatamente, a família foi buscar\ninformações na internet e descobriu a possibilidade de uma nova droga, de alto custo, recém publicada para este\ntipo de câncer. Essa droga, no entanto, não foi descrita como eficaz para o subtipo específico do câncer desta\npaciente, mas a família se recusa a aceitar os argumentos médicos e imediatamente iniciou uma campanha na\ninternet para pressionar o hospital a adquirir a medicação. Diante do conflito estabelecido e considerando o código\nde ética médica, qual deve ser a postura da instituição?",
       "alternativas": {
         "A": "A instituição não pode divulgar dados específicos da paciente sem autorização, ainda que a mesma já os\ntenha tornado públicos, independente do objetivo desta divulgação.",
@@ -48176,7 +48176,7 @@
       "numero": 878,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Pedro, de 36 anos de idade, faz seguimento na unidade básica de saúde há cerca de seis meses e está em\ntratamento para depressão maior com fluoxetina 60 mg, em remissão há cerca de dois meses. Ele não possui\noutras comorbidades e, apesar de não ter uma consulta agendada, veio solicitar o prontuário para levar para a\nnova unidade de referência. Com base nesse caso hipotético, assinale a alternativa que apresenta a conduta mais\nadequada.",
       "alternativas": {
         "A": "orientar que o prontuário é um documento do estabelecimento de saúde e que só pode fazer um\nrelatório sobre os principais dados ali contidos",
@@ -48205,8 +48205,8 @@
       "id": "site-pre-0879",
       "numero": 879,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Jéssica, de 23 anos de idade, foi ao pronto-socorro com medo de estar com um tumor cerebral. Há cerca de seis\nhoras, abriu quadro de cefaleia unilateral e pulsátil. A dor era intensa, limitava os seus afazeres e acompanhava\nnáusea, fotofobia e fonofobia. O que mais a preocupava era que esse quadro tinha começado há três meses e já\ntinha ocorrido pelo menos cinco vezes. Após descartar cefaleias secundárias, o médico a tranquilizou, a medicou\npara enxaqueca e a orientou a procurar uma unidade básica de saúde para avaliar as possíveis causas\ndesencadeantes e a necessidade de profilaxia. Após duas semanas, Jéssica teve uma nova crise, semelhante às\nanteriores, e foi até a unidade básica de saúde da sua região procurar ajuda. Chegando à unidade, descobriu que a\nagenda do médico Marcos estava cheia e que não poderia marcar uma consulta para aquele dia. Como alternativa,\nsugeriram-lhe que passasse no acolhimento com a enfermeira Mariana. Após a conversa inicial, a enfermeira\nconversou com o médico Marcos e conseguiu um atendimento de encaixe para a paciente. Ela foi medicada para\nenxaqueca e orientada sobre a indicação da profilaxia, recebeu uma prescrição para os exames pertinentes e teve\num retorno agendado. \nCom base nesse caso hipotético, assinale a alternativa que mais bem descreve a unidade básica de saúde tendo\nem vista a breve jornada da paciente e os atendimentos médios sem consulta agendada.",
       "alternativas": {
         "A": "Equipara-se ao atendimento do pronto-socorro, com resposta rápida à demanda de forma pontual.",
@@ -48239,8 +48239,8 @@
       "id": "site-pre-0880",
       "numero": 880,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "O trabalho em equipe é fundamental para que a atenção primária seja resolutiva e atenda as demandas dos\npacientes e da população. Considerando a Política Nacional de Atenção Básica (PNAB) de 2017 e a alteração\nprovocada pela Lei nº 14.231/2021, assinale a alternativa correta.",
       "alternativas": {
         "A": "A equipe mínima é composta por médico de família, enfermeiro, auxiliar ou técnico de enfermagem e\nagente comunitário de saúde, sendo que, na ausência de um desses profissionais, a equipe não será\nconsiderada como completa.",
