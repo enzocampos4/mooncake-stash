@@ -43243,7 +43243,7 @@
       "numero": 719,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "O Câncer de próstata é o segundo tipo mais frequente entre os homens. A detecção precoce pode ser feita com\nexames clínicos, radiológicos ou laboratoriais. A dosagem de PSA- Antígeno prostático específico - é o marcador\nmais utilizado. Utilizando-se o ponto de corte 2,5ng/dl há aumento da sensibilidade, porém com baixa\nespecificidade. (Sensibilidade=91,3% Especificidade=14,37%). Leia as assertivas a seguir sobre esse teste e\nassinale a alternativa CORRETA:",
       "alternativas": {
         "A": "A capacidade do teste PSA em detectar falso positivo é de 91,3%",
@@ -43272,7 +43272,7 @@
       "numero": 720,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Dados publicados pelo Ministério da Saúde do Brasil, em setembro de 2020, estima a letalidade pelo coronavírus em torno de 3%,\nconsiderada elevada. É considerada uma doença de alta letalidade aquela em que:",
       "alternativas": {
         "A": "A probabilidade de deixar sequelas é elevada",
@@ -43300,8 +43300,8 @@
       "id": "site-pre-0721",
       "numero": 721,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Os Determinantes Sociais de Saúde (DSS) são os fatores sociais, econômicos, culturais, étnicos/raciais,\npsicológicos e comportamentais que influenciam a ocorrência de problemas de saúde e fatores de risco à\npopulação, tais como moradia, alimentação, escolaridade, renda e emprego. Constitui princípio geral para a\nimplementação de intervenção sobre o DSS:",
       "alternativas": {
         "A": "Centralizar a implementação das ações sobre os DSS no governo federal",
@@ -43334,7 +43334,7 @@
       "numero": 722,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "",
       "enunciado": "Com o objetivo de obter melhores resultados nas ações de promoção da saúde e prevenção das doenças,\nespecialmente das doenças crônicas não transmissíveis mais prevalentes na área de abrangência da unidade\nbásica de saúde, organizou-se um seminário com a equipe de saúde para discutir intervenções adequadas. Leia\nas assertivas a seguir sobre medidas de intervenção e marque a alternativa ERRADA.",
       "alternativas": {
         "A": "A adoção de medidas para reduzir a exposição a fatores de risco para essas doenças na fase pré-clínica\ncaracteriza a prevenção primária",
@@ -43363,7 +43363,7 @@
       "numero": 723,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Observe o fluxograma a seguir. O fluxograma 1 apresenta uma estratégia para rastreamento de sífilis em\nindivíduos assintomáticos. É CORRETO afirmar que:",
       "alternativas": {
         "A": "Após realizar os dois testes conforme proposto, a probabilidade de pessoas com o teste treponêmico\npositivo ter sífilis irá aumentar",
@@ -43391,8 +43391,8 @@
       "id": "site-pre-0724",
       "numero": 724,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Puericultura e acompanhamento do crescimento",
       "enunciado": "Nascido de 35 semanas e quatro dias de idade gestacional, com peso de 2.000 gramas, recém-nascido apresentou desconforto\nrespiratório e pneumotórax, tendo evoluído para óbito no sexto dia de vida. Mãe, 30 anos, fez 10 consultas de pré-natal na\nunidade básica de saúde. Em relação às características do RN, assinale a opção correta.",
       "alternativas": {
         "A": "Pré-termo moderado, baixo peso ao nascer e óbito infantil pós-neonatal.",
@@ -43426,7 +43426,7 @@
       "numero": 725,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "O componente da Rede Cegonha, que é um estabelecimento de hospedagem provisória de cuidado à gestação de alto risco\npara usuárias em situação de vulnerabilidade, identificadas pela Atenção Primária à Saúde ou Especializada, é denominada",
       "alternativas": {
         "A": "Casa da Mulher (CM).",
@@ -43456,7 +43456,7 @@
       "numero": 726,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Segundo estudo publicado em abril de 2020 (Castro et al. COVID-19: uma metaanálise da acurácia diagnóstica\ndos testes registrados no Brasil. Braz J Infect Dis. 2020;24(2):180-7), a sensibilidade (SE) dos testes de IgM foi\n82% e a especificidade (SP) foi 97%. Em relação aos testes de detecção do antígeno SARS-Cov2, a SE foi 97% e\na SP 99%. Curvas ROC foram estimadas para ambos os testes. Tendo em vista o exposto, assinale a opção mais\nadequada.",
       "alternativas": {
         "A": "Na análise das curvas ROC, espera-se que a área sob a curva seja menor para os testes de antígeno\nque para os testes sorológicos.",
@@ -43486,7 +43486,7 @@
       "numero": 727,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "No contexto da COVID-19, foi ampliada a investigação de agentes virais para os casos de Síndrome Respiratória Aguda Grave\n(SRAG). A estimativa do Brasil é de 200 milhões de habitantes (hab), e até a semana epidemiológica 41, ocorreram cerca de 800\nmil casos de Síndrome Respiratória Aguda Grave, dos quais 200 mil evoluíram para óbito. Entre estes óbitos, quase 150 mil foram\ncausados pelo SARS-Cov2. Em relação aos indicadores de saúde usados habitualmente, assinale a afirmativa verdadeira,\nconsiderando valores arredondados",
       "alternativas": {
         "A": "A incidência de SRAG no país foi de 400 por 100.000 hab; a mortalidade por SRAG foi 100 por 100.000 hab; a\nletalidade 25% e a mortalidade proporcional da SRAG por COVID-19 foi 75%.",
@@ -43527,7 +43527,7 @@
       "numero": 728,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Sobre o valor preditivo de um teste, analise as assertivas abaixo:\nI. Varia com a prevalência (probabilidade pré-teste) da doença.\nII. Para um mesmo teste, quanto maior a prevalência maior o VPP (Valor Preditivo Positivo) e menor o VPN (Valor\nPreditivo Positivo).\nIII. Quanto mais sensível, melhor o VPN.\nIV. Quanto mais específico, melhor o VPP.\nQuais estão corretas?",
       "alternativas": {
         "A": "Apenas II.",
@@ -43557,7 +43557,7 @@
       "numero": 729,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Sobre o Código de Ética Médica brasileiro, analise as assertivas abaixo:\nI. Contém as normas que devem ser seguidas pelos médicos no exercício e inscrição ativa no Conselho Federal\nde Medicina.\nII. As atividades do médico incluem aquelas relativas ao ensino e à pesquisa.\nIII. As atividades do médico não incluem aquelas relativas à administração de serviços de saúde.\nQuais estão corretas?",
       "alternativas": {
         "A": "Apenas I.",
