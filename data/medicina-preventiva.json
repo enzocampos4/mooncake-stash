@@ -54016,7 +54016,7 @@
       "numero": 1067,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Na avaliação de um teste diagnóstico, foram encontrados os seguintes resultados:\nOs valores dos cálculos da sensibilidade e do valor preditivo negativo foram, respectivamente,",
       "alternativas": {
         "A": "0,9 e 0,888.",
@@ -54045,7 +54045,7 @@
       "numero": 1068,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Paciente do sexo masculino, de 14 anos, veio a consulta na Unidade básica de saúde, acompanhado da mãe, que\nrelata que filho anda choroso e isolado. Ao conversar isoladamente com o paciente, ele apresenta pensamentos\nsuicidas, mas não queria que sua mãe soubesse, pois ela é muito ansiosa. A conduta mais segura, neste caso,\ndeve ser:",
       "alternativas": {
         "A": "internar o paciente para evitar evento catastrófico, com autorização dos pais, já que este é menor de\nidade.",
@@ -54075,7 +54075,7 @@
       "numero": 1069,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Como responsável sanitário de uma instituição, você foi acionado para dar um parecer de como deve ser o teste\npara detectar um surto de uma doença transmissível pelo contato físico apenas. Neste caso, a conduta é que\nqualquer suspeita este paciente deverá ser afastado para investigação, portanto o perfil deste teste diagnostico\ndeve ter:",
       "alternativas": {
         "A": "alta sensibilidade, já que, dão poucos resultados falso positivos.",
@@ -54105,7 +54105,7 @@
       "numero": 1070,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Para MEDRONHO et al (2008) grande parte do trabalho clínico consiste na busca diagnóstica de doenças.\nNesse contexto, os testes diagnósticos possuem propriedades que determinam a precisão desses exames. Ao\nsolicitar um teste diagnóstico o médico deverá levar em conta a sensibilidade do exame que pode ser definida\ncomo a proporção de:",
       "alternativas": {
         "A": "verdadeiros negativos entre todos os indivíduos com teste positivo;",
@@ -54138,8 +54138,8 @@
       "id": "site-pre-1071",
       "numero": 1071,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Segundo MEDRONHO et al (2008), qual o instrumento de coleta de dados do Sistema de Informações Hospitalares (SIH)?:",
       "alternativas": {
         "A": "Declaração de Nascidos Vivos (DNV).",
@@ -54169,7 +54169,7 @@
       "numero": 1072,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Quais as permissivas legais vigentes no Brasil no que diz respeito à interrupção gestacional prevista em Lei?",
       "alternativas": {
         "A": "Risco de vida materno",
@@ -54197,8 +54197,8 @@
       "id": "site-pre-1073",
       "numero": 1073,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "A Estratégia Saúde da Família (ESF) é um modelo assistencial regulamentado e consolidado na APS brasileira.\nEntre as múltiplas demandas que podem se apresentar na rotina das equipes de saúde, a realização de avaliações\npara participação de atividade física é uma das mais recorrentes. Tendo isso em vista, no caso de um\npaciente masculino, 30 anos, sem doenças crônicas prévias, assintomático, que procura o médico da ESF, a\nconduta a ser tomada é:",
       "alternativas": {
         "A": "pedir apenas ECG, considerando o paciente ser jovem e sem comorbidades.",
@@ -54226,8 +54226,8 @@
       "id": "site-pre-1074",
       "numero": 1074,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "O Sistema de Informações sobre Nascidos Vivos (SINASC) é utilizado para verificação, acompanhamento e monitoramento dos nascimentos ocorridos no território nacional,\nproporcionando a criação de políticas e ações de vigilância e atenção à saúde na área da saúde maternoinfantil. Assinale a alternativa correta em relação ao SINASC.",
       "alternativas": {
         "A": "A certidão de nascimento é o único documento utilizado para coleta de informações e alimentação do SINASC.",
@@ -54256,8 +54256,8 @@
       "id": "site-pre-1075",
       "numero": 1075,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "No caso de óbito, seja em domicílio, seja intra-hospitalar, em qual situação se faz necessária a certidão de formalização?",
       "alternativas": {
         "A": "Ferimentos por arma branca.",
@@ -54286,8 +54286,8 @@
       "id": "site-pre-1076",
       "numero": 1076,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Um paciente 42 anos de idade, deu entrada na emergência de um hospital com quadro de abdome agudo. Submetido a uma laparotomia exploradora, foi identificada e\ncorrigida, cirurgicamente, uma perfuração duodenal em razão de uma úlcera duodenal. Evoluiu, desfavoravelmente, com manifestação de peritonite e parada\ncardiorrespiratória no terceiro dia de pós-operatório. O paciente era portador também de valvulopatia mitral reumática, já tendo apresentado insuficiência cardíaca congestiva,\nmantendo-se ultimamente compensado e sob medicação. Com base nessas informações, a causa básica da morte a ser anotada no atestado de óbito é",
       "alternativas": {
         "A": "peritonite.",
@@ -54317,7 +54317,7 @@
       "numero": 1077,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "A epidemiologia descritiva constitui uma ciência fundamental para compreender o comportamento de determinada\ndoença, eventos ou agravos à saúde.\nAssinale a alternativa que apresenta, corretamente, as três características primordiais para descrever os agravos à\nsaúde.",
       "alternativas": {
         "A": "Classe social, estilo de vida e escolaridade.",
@@ -54347,7 +54347,7 @@
       "numero": 1078,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Os conceitos de prevalência e incidência são fundamentais para compreender como certos agravos afetam uma\ndeterminada população. Considere que, em determinado município, no ano de 2020, foram diagnosticados 15\ncasos de tuberculose. Desses, cinco obtiveram cura no mesmo ano. Em 2021, mais três casos foram\ndiagnosticados.\nDiante dessas informações, assinale a alternativa correta.",
       "alternativas": {
         "A": "No ano de 2020, a incidência de casos de tuberculose foi de 10.",
