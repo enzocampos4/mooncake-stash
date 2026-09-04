@@ -56366,7 +56366,7 @@
       "numero": 1145,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A figura abaixo representa a ocorrência de casos de uma determinada doença em uma comunidade.\nCom base nessas informações, os coeficientes de incidência e prevalência dessa doença, durante o mês de maio\nde 2020, na referida comunidade, foram, respectivamente, de",
       "alternativas": {
         "A": "10 e 14.",
@@ -56401,7 +56401,7 @@
       "numero": 1146,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Você foi convidado pelo secretário de saúde para ser consultor na implementação de um teste de rastreamento de\numa determinada doença cuja prevalência é de 1% na população de seu município, que é de 5000 habitantes. Ao\nfazer uma revisão da literatura, você constata que o teste proposto possui uma sensibilidade de 50% e\numa especificidade de 90%. Considerando os dados, você conclui que para cada exame realizado que seja\nverdadeiro positivo haverá um número de testes falso positivos de aproximadamente: (não considerando casa\ndecimal)",
       "alternativas": {
         "A": "19",
@@ -56430,7 +56430,7 @@
       "numero": 1147,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Gestante, 30 anos, 13 semanas, foi a consulta de pré-natal com laudo ultrassonográfico de anencefalia. Qual dos\ndocumentos a seguir é necessário para que seja feita a interrupção da gestação:",
       "alternativas": {
         "A": "Registro de boletim de ocorrência",
@@ -56459,7 +56459,7 @@
       "numero": 1148,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Conforme a bula de teste para Covid-19 adquirido na farmácia, este tem 99,1% de sensibilidade e\n95,5% especificidade para IgM e 88% de sensibilidade e 90% de especificidade para IgG. Qual das alternativas\nindica a interpretação correta destes dados?",
       "alternativas": {
         "A": "0,9% de resultado falso-negativo para IgM e 88% de resultado verdadeiro-positivo para IgG.",
@@ -56487,8 +56487,8 @@
       "id": "site-pre-1149",
       "numero": 1149,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Riscos ocupacionais (físicos, químicos, biológicos, ergonômicos)",
       "enunciado": "Um bairro da zona sul do município de São Paulo teve em sua formação a instalação de diversas indústrias químicas e petroquímicas, responsáveis por um importante\npassivo ambiental, com contaminação de solo e água subterrânea por metais pesados, solventes clorados e halogenados e outras substâncias químicas perigosas à saúde\nhumana. Posteriormente, houve aumento do interesse imobiliário na região, com a mudança do uso do solo, de industrial para residencial, comercial e de serviços. Das\nfunções abaixo, qual é a de responsabilidade da Vigilância em Saúde Ambiental nesta situação?",
       "alternativas": {
         "A": "Identificar a população exposta aos contaminantes e, em conjunto com a atenção básica, estruturar um protocolo de atenção à saúde dessa população\ncom identificação e tratamento precoces de possíveis efeitos resultantes desta exposição.",
@@ -56521,7 +56521,7 @@
       "numero": 1150,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A saúde da população negra tem sido comprometida em relação ao acesso aos serviços de saúde, o que caracteriza\numa situação de não reconhecimento de necessidades específicas dessa população aliada a atos sistemáticos de\nintolerância e atitudes racistas no cotidiano dos serviços. A Política Nacional de Saúde Integral da População\nNegra (PNSIPN), no Brasil, a partir de 2013, configurou novos caminhos que viabilizassem mudanças dessa situação.\nQuais são as bases e diretrizes do SUS que orientaram a construção da PNSIPN?",
       "alternativas": {
         "A": "Estimulou a produção nacional de pesquisas, formulou hipóteses a partir da literatura nacional e internacional\ne definiu a política com base exclusivamente no princípio da universalidade.",
