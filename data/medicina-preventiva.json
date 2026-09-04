@@ -58754,8 +58754,8 @@
       "id": "site-pre-1223",
       "numero": 1223,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Mulher, 30 anos, primigesta, apresentou dor em baixo ventre e hemorragia transvaginal. Três horas depois evoluiu para abortamento espontâneo, sendo submetida\nà curetagem na 15ª semana de gestação em regime ambulatorial. Três dias depois apresentou um quadro séptico, permanecendo internada por treze dias, período em que\nfoi infectada por COVID-19. Evoluiu para insuficiência renal, coma e óbito. No prontuário constava que seu filho apresentou hipóxia intrauterina e prematuridade extrema.\nPode-se afirmar que a causa básica que deve constar da declaração de óbito (D.O.) para a mãe e seu filho deve ser respectivamente:",
       "alternativas": {
         "A": "aborto espontâneo / não possui D.O.",
@@ -58788,7 +58788,7 @@
       "numero": 1224,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Pode-se afirmar que os principais fatores capazes de influenciar o valor preditivo positivo de um exame são:",
       "alternativas": {
         "A": "especificidade e razão de verossimilhança positiva.",
@@ -58817,7 +58817,7 @@
       "numero": 1225,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Pode-se afirmar, em relação aos Planos de Saúde Individuais e aos Seguros de Saúde no Brasil, que:",
       "alternativas": {
         "A": "dado o princípio que garante a possibilidade de os serviços de saúde serem facultados à livre iniciativa,\npode-se afirmar que a universalidade e integralidade só será atingida a partir da saúde suplementar.",
@@ -58846,7 +58846,7 @@
       "numero": 1226,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "A Lei nº 8.080, de 1990, conhecida como a Lei Orgânica da Saúde, estabelece princípios e diretrizes norteadores\ndo funcionamento do Sistema Único de Saúde (SUS). Pode-se afirmar, neste contexto, que:",
       "alternativas": {
         "A": "a descentralização político-administrativa no SUS prevê o comando único, isto é, o Ministério da Saúde\nelabora as políticas de saúde e planeja as ações a serem executadas pelos estados e municípios.",
@@ -58875,7 +58875,7 @@
       "numero": 1227,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Pode-se afirmar, sobre os modelos de sistema de saúde no mundo, que:",
       "alternativas": {
         "A": "a concepção do SUS brasileiro baseada na ideia de saúde enquanto direito de cidadania, garantida\npelo Estado, e o seu financiamento com base na arrecadação de impostos, teve como modelo de\nreferência o serviço nacional de saúde inglês.",
@@ -58904,7 +58904,7 @@
       "numero": 1228,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Pode-se afirmar que o padrão de financiamento do sistema de saúde público brasileiro se caracteriza pela:",
       "alternativas": {
         "A": "definição de percentuais mínimos de gastos dos tributos estaduais e municipais com saúde.",
@@ -58933,7 +58933,7 @@
       "numero": 1229,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A razão de mortalidade materna é considerada um importante marcador de saúde e expressa situações de iniquidades entre\ndiferentes regiões. No contexto de emergência da COVID-19, um estudo com dados do Sistema de Informações de\nVigilância Epidemiológica da Gripe (SIVEPGripe) apontou que de 978 gestantes e puérperas diagnosticadas com Síndrome\nRespiratória Aguda Grave por COVID-19, 124 foram a óbito, sendo as falhas na assistência um dos principais fatores\nrelacionados ao desfecho morte (Fonte: Souza A.S.R., Amorim M.M.R. Mortalidade materna pela COVID-19 no Brasil. Rev. Bras.\nSaúde Matern. Infan., Supl. 1: S257-S261, 2021). \nPode-se afirmar, em relação à razão de mortalidade materna, que:",
       "alternativas": {
         "A": "pode sofrer influência da baixa sensibilidade da declaração de óbito quanto à capacidade de apresentar um registro de\nmorte materna entre as verdadeiras mortes.",
@@ -58962,7 +58962,7 @@
       "numero": 1230,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Os eventos epidêmicos podem se apresentar de duas formas distintas quanto à magnitude e temporalidade dos\ncasos. Neste sentido, as epidemias podem variar quanto aos fatores envolvidos no processo de transmissão,\nvelocidade de ocorrência dos casos e duração. Pode-se afirmar, neste contexto de epidemias, que:",
       "alternativas": {
         "A": "nas de fonte comum, o número de casos aumenta de forma rápida, estando este aumento relacionado\nao período de incubação do agente etiológico.",
@@ -58995,7 +58995,7 @@
       "numero": 1231,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Menina, 7 anos, é atendida no Setor de Emergência com história de contato prévio com paciente com\ndiagnóstico de meningite meningocócica. Exame físico: vômitos em jato; rigidez de nuca e sonolência. Punção\nlombar: líquido cefalorraquidiano normal. O médico iniciou ceftriaxona, enquanto aguardava novos exames. Pode-\nse afirmar que a conduta da equipe médica utilizou uma visão dos exames em:",
       "alternativas": {
         "A": "paralelo, para maximizar a especificidade.",
@@ -59031,7 +59031,7 @@
       "numero": 1232,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Termo de Consentimento Livre e Esclarecido (TCLE)",
       "enunciado": "O médico realizou atendimento de uma paciente por telemedicina, obtendo antes termo de consentimento livre e\nesclarecido (TCLE) para a realização da consulta e autorização expressa para gravação. A paciente mostrou, na\nchamada de vídeo, uma lesão vulvar a esclarecer, e o médico pretende usar o print dessa imagem em uma aula.\nDe acordo com as normas vigentes, é correto afirmar:",
       "alternativas": {
         "A": "Não há proibição quanto à utilização da imagem, pois há TCLE da consulta.",
@@ -59060,7 +59060,7 @@
       "numero": 1233,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Médico especialista em Ginecologia e Obstetrícia deseja divulgar que, em seu consultório, utiliza o laser para\ntratamento da atrofia vaginal.\nDe acordo com as normas sobre publicidade médica vigentes, qual estratégia de marketing pode ser utilizada?",
       "alternativas": {
         "A": "Folders publicitários anunciando o laser como o mais moderno e eficiente método para o tratamento da\natrofia vaginal.",
@@ -59089,7 +59089,7 @@
       "numero": 1234,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Termo de Consentimento Livre e Esclarecido (TCLE)",
       "enunciado": "Médica ginecologista e obstetra possui um perfil em rede social no qual divulga seu trabalho. Pretende divulgar\nfotos com depoimentos de suas pacientes. Acerca dos cuidados que essa profissional deve tomar, visando evitar\ndelitos éticos, assinale a alternativa correta.",
       "alternativas": {
         "A": "Solicitar autorização por escrito, em que deve estar claro a ciência do tipo de divulgação.",
