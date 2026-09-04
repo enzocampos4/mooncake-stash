@@ -55095,8 +55095,8 @@
       "id": "site-pre-1103",
       "numero": 1103,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Doenças ocupacionais (LER/DORT, perda auditiva, pneumoconioses)",
       "enunciado": "Paulo, 41 anos, é trabalhador rural e procura atendimento com queixa de sudorese, sialorreia e vômitos. Relata ter trabalhado aplicando Folidol na sua lavoura. Ao exame,\napresenta miose e confusão mental. Qual é o provável diagnóstico e o órgão a ser notificado?",
       "alternativas": {
         "A": "Saturnismo / SINAN.",
@@ -55126,7 +55126,7 @@
       "numero": 1104,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Gestante, 27 anos, com parto prematuro de 34 semanas gestacionais. Após alta para casa, evolui com infecção uterina, sepse e\ntem óbito confirmado 60 dias após o parto. Diante do exposto, qual é o tipo de morte?",
       "alternativas": {
         "A": "Morte materna direta.",
@@ -55155,8 +55155,8 @@
       "id": "site-pre-1105",
       "numero": 1105,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Adolescente de 15 anos, boa aluna, comparece à Unidade Básica de Saúde (UBS), com sua amiga de mesma\nidade, porque acha que está grávida. É recebida pelo profissional de saúde, que a considera com bom\ndesenvolvimento psíquico, orientada e muito preocupada com o que pode acontecer, questionando o médico sobre\ncomo será sua vida caso esteja grávida. Entre as condutas seguintes, a mais adequada para este caso é:",
       "alternativas": {
         "A": "atendimento pela enfermeira, realizar o teste de gravidez e se positivo, convocar os pais.",
@@ -55185,7 +55185,7 @@
       "numero": 1106,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "De acordo com a publicação do Ministério da Saúde intitulada Declaração de Óbito – Manual de Instruções para Preenchimento (2022), o médico",
       "alternativas": {
         "A": "pode cobrar pela emissão da declaração de óbito, desde que tenha verificado pessoalmente a morte.",
@@ -55214,7 +55214,7 @@
       "numero": 1107,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Leia o caso clínico. \nUm médico da atenção primária recebe um paciente com um ano de idade que apresenta quadro clínico que se encaixa, de acordo com o Ministério da Saúde, na seguinte\ndefinição de caso suspeito: “todo indivíduo que, independentemente do estado vacinal, apresente tosse de qualquer tipo, há 14 dias ou mais, associada a um ou mais dos\nseguintes sintomas: tosse paroxística; guincho inspiratório; vômitos pós tosse”. \nNesse caso, qual deve ser a conduta médica?",
       "alternativas": {
         "A": "Há necessidade de notificar o caso somente se o paciente for a óbito.",
@@ -55242,8 +55242,8 @@
       "id": "site-pre-1108",
       "numero": 1108,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "",
       "enunciado": "Os indicadores de acidentes de trabalho geram indícios para a determinação de níveis de periculosidade por área\nprofissional e são relevantes para a avaliação das doenças profissionais. Qual, dentre eles, é o mais acurado para\nmedir a ocorrência de acidentes de trabalho, pois leva em conta o número de horas/homem trabalhadas?",
       "alternativas": {
         "A": "Densidade de incidência.",
@@ -55272,7 +55272,7 @@
       "numero": 1109,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "As Curvas de Mortalidade Proporcional são construídas a partir da distribuição proporcional dos óbitos por grupos etários com\nrelação ao total de óbitos e exibem um determinado formato gráfico que indicará o nível de saúde da área avaliada. Segundo a\nclassificação de Nelson Moraes, a do tipo III. está associada ao nível de saúde",
       "alternativas": {
         "A": "baixo.",
@@ -55312,7 +55312,7 @@
       "numero": 1110,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O processo de implantação do Sistema Único de Saúde (SUS) no Brasil foi orientado pelas Normas Operacionais. A Norma\nOperacional Básica 01/91,",
       "alternativas": {
         "A": "definiu uma parte fixa e uma parte variável do novo Piso de Atenção Básica.",
@@ -55341,7 +55341,7 @@
       "numero": 1111,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "De acordo com a portaria Nº 205, de 17 de fevereiro de 2016, do Ministério da Saúde, um dos agravos que deve ser notificado em Estratégia de Vigilância em Unidades\nsentinelas é a",
       "alternativas": {
         "A": "síndrome hemolítica urêmica.",
@@ -55370,7 +55370,7 @@
       "numero": 1112,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Leia o caso clínico. \nAdolescente de 17 anos provoca um aborto e chega à urgência com restos ovulares infectados. Mesmo com os procedimentos\ncorretos, ela vai a óbito por septicemia, 35 dias depois. \nA morte, nesse caso, é considerada",
       "alternativas": {
         "A": "não materna.",
@@ -55399,7 +55399,7 @@
       "numero": 1113,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O near miss materno (NMM) é um indicador de",
       "alternativas": {
         "A": "mortalidade.",
@@ -55427,8 +55427,8 @@
       "id": "site-pre-1114",
       "numero": 1114,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "O método SOAP é uma ferramenta de trabalho muito utilizada na atenção primária, que auxilia na análise, comparação e detecção de alterações clínicas, emocionais e\ncomportamentais. Num caso hipotético de uma paciente hipertensa que adicionamos uma terceira droga ao seu esquema antihipertensivo, em qual categoria do SOAP esta\ninformação deve ser registrada?",
       "alternativas": {
         "A": "S.",
