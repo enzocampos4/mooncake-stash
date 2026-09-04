@@ -18962,8 +18962,7 @@
       "dificuldade": "Media",
       "imagens": [],
       "imagens_explicacao": [
-        "data/questoes-img/rv2026-1-007_23_76.jpeg",
-        "data/questoes-img/rv2026-1-007_24_79.jpeg"
+        "data/questoes-img/rv2026-1-007_23_76.jpeg"
       ],
       "_id_original": "4000281694",
       "_pdf": "5. Provas Anteriores Revalida INEP.pdf"
@@ -19068,11 +19067,12 @@
       "ano": 2026,
       "dificuldade": "Media",
       "imagens": [],
-      "imagens_explicacao": [
-        "data/questoes-img/rv2026-1-035_87_244.jpg"
-      ],
+      "imagens_explicacao": [],
       "_id_original": "4000281666",
-      "_pdf": "5. Provas Anteriores Revalida INEP.pdf"
+      "_pdf": "5. Provas Anteriores Revalida INEP.pdf",
+      "imagens_enunciado": [
+        "data/questoes-img/rv2026-1-035_87_244.jpg"
+      ]
     },
     {
       "id": "pv-rev-2026-1-0049",

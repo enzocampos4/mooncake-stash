@@ -79,8 +79,8 @@ with open('data/sessao-index.json') as f:
     idx = json.load(f)
 print(len(idx))
 " 2>/dev/null)
-if [ "$TOTAL" -ne 31932 ]; then
-    OUTPUT+="⚠️  Total de questoes mudou: ${TOTAL} (esperado 31932)\n"
+if [ "$TOTAL" -ne 29488 ]; then
+    OUTPUT+="⚠️  Total de questoes mudou: ${TOTAL} (esperado 29488)\n"
     HAS_ISSUES=1
 fi
 

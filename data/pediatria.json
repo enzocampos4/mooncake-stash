@@ -22204,11 +22204,12 @@
       "ano": 2026,
       "dificuldade": "Media",
       "imagens": [],
-      "imagens_explicacao": [
-        "data/questoes-img/rv2026-1-074_181_475.jpg"
-      ],
+      "imagens_explicacao": [],
       "_id_original": "4000281627",
-      "_pdf": "5. Provas Anteriores Revalida INEP.pdf"
+      "_pdf": "5. Provas Anteriores Revalida INEP.pdf",
+      "imagens_enunciado": [
+        "data/questoes-img/rv2026-1-074_181_475.jpg"
+      ]
     },
     {
       "id": "pv-rev-2026-1-0088",
