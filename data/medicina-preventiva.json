@@ -57833,8 +57833,8 @@
       "id": "site-pre-1193",
       "numero": 1193,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Homem, 35 anos, previamente hígido. Iniciou com queixa de episódios de palpitações, associadas à sensação\nde falta de ar, perda de apetite e desconforto no peito. Nega tristeza, desânimo, fadiga, irritabilidade ou\nnervosismo. Não associa o quadro a nenhum evento recente em sua vida. Diz estar tranquilo, menos estressado,\nagora que saiu do emprego. Tem preocupação de ser algum problema no coração, pois seu tio morreu de infarto\naos 75 anos. Recentemente passou em consulta médica, tendo recebido a orientação de que não era nada\ngrave. Fez eletrocardiograma, holter e dosagem de TSH. Todos os resultados foram normais, mas Carlos continua\ncom a queixa. A esposa diz que ele costuma apresentar esses sintomas quando se senta para fazer as contas da\nfamília ou quando recebe alguma conta para pagar. Ele não tem história pessoal nem familiar de transtorno\nmental.\nAssinale a alternativa que apresenta o registro adequado para o item de avaliação do SOAP desta consulta –\nde acordo com o Registro Orientado por Problemas –, assim como uma intervenção no atendimento.",
       "alternativas": {
         "A": "Distúrbio ansioso/estado de ansiedade; intervenção: – Posso prescrever propranolol, um remédio\npara diminuir a batedeira, você concorda?",
@@ -57867,7 +57867,7 @@
       "numero": 1194,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O Zolgensma é uma terapia gênica indicada para o tratamento de atrofia muscular espinhal (AME), uma doença\nneurodegenerativa rara e sem cura que, sem tratamento, pode levar a criança à morte ou à dependência de\nrespirador artificial antes dos 2 anos de idade. Para que o Zolgensma seja disponibilizado de forma gratuita e\nuniversal no Sistema Único de Saúde (SUS) é necessário que:",
       "alternativas": {
         "A": "a Agência Nacional de Vigilância Sanitária (ANVISA) avalie a eficácia, a segurança e o custo-efetividade\ndesta tecnologia e autorize sua comercialização no Brasil.",
@@ -57896,7 +57896,7 @@
       "numero": 1195,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O sistema de saúde brasileiro conta com o subsistema suplementar, no qual atuam mais de 700 operadoras\nde planos e seguros de saúde privados, cujas atividades são regulamentadas pela Lei n. 9.656 de 1998 e pela\nAgência Nacional de Saúde Suplementar (ANS).\nCom relação às regras de funcionamento ou às características do mercado de planos de saúde no Brasil, assinale\na alternativa correta.",
       "alternativas": {
         "A": "Se um usuário de plano de saúde privado for atendido em um hospital público, o SUS deve ser\nressarcido financeiramente por esse atendimento, nos limites das coberturas previstas no contrato do\nplano.",
@@ -57928,8 +57928,8 @@
       "id": "site-pre-1196",
       "numero": 1196,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "O Brasil é um dos países que mais consome agrotóxicos no mundo, o que caracteriza um sério problema de Saúde Pública e Ambiental. A Organização Internacional\ndo Trabalho (OIT) afirma que, em países em desenvolvimento, os agrotóxicos causam 70 mil intoxicações agudas e crônicas por ano, que evoluem para óbito. Outros mais de\nsete milhões de casos anuais de doenças agudas e crônicas estão ligadas aos agrotóxicos (CARNEIRO et al., 2015). No âmbito da Regulação em Saúde no Sistema Único\nde Saúde (SUS), a Agência Nacional de Vigilância Sanitária (ANVISA) tem uma atribuição específica relacionada ao registro e à autorização de uso e de comercialização de\nagrotóxicos no Brasil.\nAssinale a alternativa que corresponde à atribuição da ANVISA.",
       "alternativas": {
         "A": "Realizar análises de custo-benefício e de custo-efetividade do produto, considerando tanto eventuais danos à saúde quanto benefícios econômicos às atividades\nagrícolas.",
@@ -57958,7 +57958,7 @@
       "numero": 1197,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Nos últimos anos, quando se compara o padrão de despesas com a saúde no Brasil com o de outros países, é\ncorreto afirmar:",
       "alternativas": {
         "A": "no Brasil, a participação do gasto privado no total de gastos com saúde é maior do que em outros países\ncom sistemas universais de saúde.",
@@ -57991,7 +57991,7 @@
       "numero": 1198,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Considere atentamente os dois episódios abaixo envolvendo o sistema de saúde brasileiro:\nEPISÓDIO 1 – Na cidade de São Paulo, um entregador de aplicativo, vítima de acidente de trânsito grave, é\nsocorrido pelo SAMU e levado ao atendimento de um grande hospital público. Devido ao seu estado de saúde, é\nassistido antes de várias pessoas que aguardavam atendimento no pronto-socorro.\nEPISÓDIO 2 – Na divisa entre os estados do Amazonas e de Roraima, uma criança indígena com quadro clínico\ngrave é atendida primeiramente por uma equipe de saúde local e posteriormente removida até a rede hospitalar do\nSistema Único de Saúde (SUS) da cidade mais próxima. O atendimento foi viabilizado por um Distrito Sanitário\nEspecial Indígena, de responsabilidade federal, que mantém serviços voltados especificamente para as\nnecessidades de saúde e para a ocupação geográfica das comunidades indígenas no Brasil.\nOs dois episódios descritos correspondem a um mesmo princípio fundamental do SUS. Assinale a alternativa\nque corresponde ao princípio em questão.",
       "alternativas": {
         "A": "Descentralização.",
