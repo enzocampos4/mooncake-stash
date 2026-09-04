@@ -51622,7 +51622,7 @@
       "numero": 989,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Acerca dos sistemas de informações de saúde do Brasil, assinale a alternativa correta.",
       "alternativas": {
         "A": "O Sistema de Informação de Agravos de Notificação (Sinan) tem como objetivo coletar, transmitir e disseminar dados gerados sobre as doenças de notificação\ncompulsória.",
@@ -51652,7 +51652,7 @@
       "numero": 990,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Assinale a alternativa que apresenta uma situação que autoriza o médico à quebra do sigilo profissional.",
       "alternativas": {
         "A": "CCF, de catorze anos de idade, sexo feminino, que relata, em consulta médica, que, durante o fim\nde semana, na casa de amigos, experimentou maconha pela primeira vez",
@@ -51681,8 +51681,8 @@
       "id": "site-pre-0991",
       "numero": 991,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Qual das situações abaixo melhor representa a aplicação do conceito de prevenção quaternária?",
       "alternativas": {
         "A": "Contraindicar teste rápido para HIV e sífilis, para uma travesti de 38 anos, profissional do sexo, com\núltimos exames realizados há cerca de três anos.",
@@ -51710,8 +51710,8 @@
       "id": "site-pre-0992",
       "numero": 992,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "Durante uma consulta de rotina, uma liderança comunitária relata o problema de lixo no território. Segundo ela, as\nvizinhas estão se organizando para convocarem o Departamento Municipal de Lixo Urbano na tentativa de garantir\na coleta seletiva e a colocação de contaíners. Sobre a atitude do profissional de saúde diante dessa demanda,\nanalisar os itens abaixo: \nI. Propõe uma pauta para a reunião do Conselho Local de Saúde. \nII. Considera uma ação sanitária restrita à abordagem biológica, identificando os riscos do acúmulo de lixo no\nterritório. \nIII. Envolve os demais membros da equipe, compartilhando iniciativas conjuntas. \nIV. Faz caminhadas na comunidade e visitas domiciliares para entender a extensão do problema. \nEstão CORRETOS:",
       "alternativas": {
         "A": "Somente os itens I e II.",
@@ -51739,8 +51739,8 @@
       "id": "site-pre-0993",
       "numero": 993,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "De acordo com Mano e Barrêto in GUSSO, LOPES e DIAS, sobre tragédias, analisar a sentença abaixo: \nA Atenção Primária à Saúde (APS) é essencial para o cuidado da saúde mental das pessoas vítimas de tragédias\n(1ª parte). A tragédia mobiliza uma série de emoções que devem ser compreendidas para que não haja\numa medicalização de uma reação normal (2ª parte). \nA sentença está:",
       "alternativas": {
         "A": "Totalmente correta.",
@@ -51769,7 +51769,7 @@
       "numero": 994,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Considerando-se a Política Nacional para a População em Situação de Rua (PSR), há uma definição para o que é PSR,\na qual pode ser denominada:",
       "alternativas": {
         "A": "População que vive em habitação precária.",
