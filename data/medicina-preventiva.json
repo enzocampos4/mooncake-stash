@@ -53640,8 +53640,8 @@
       "id": "site-pre-1055",
       "numero": 1055,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "O método clínico centrado na pessoa (MCCP) é um modelo de abordagem, que facilita a compreensão e a\nexecução das competências essenciais. Sobre os componentes do MCCP, analise os itens abaixo:\nI. Explorando a saúde, a doença e a experiência da doença.\nII. Entendendo a pessoa como um todo: o indivíduo, a família e o contexto.\nIII. Elaborando um plano conjunto de manejo dos problemas.\nIV. Intensificando a relação entre a pessoa e o médico.\nV. Exercendo a compaixão: sendo humanista.\nAssinale a alternativa CORRETA.",
       "alternativas": {
         "A": "I, II, III, IV e V estão corretos.",
@@ -53680,7 +53680,7 @@
       "numero": 1056,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "A Política Nacional de Atenção à Saúde dos Povos Indígenas conceitua uma proposta que define um modelo\nde organização de serviços - orientado para um espaço etno-cultural dinâmico, geográfico, populacional e administrativo\nbem delimitado, que contempla um conjunto de atividades técnicas, visando a medidas racionalizadas e qualificadas de\natenção à saúde, promovendo a reordenação da rede de saúde e das práticas sanitárias e desenvolvendo atividades\nadministrativo-gerenciais necessárias à prestação da assistência, com controle social.\nAssinale a alternativa que corresponde a esse conceito.",
       "alternativas": {
         "A": "Casas de Apoio à Saúde Indígena",
@@ -53710,7 +53710,7 @@
       "numero": 1057,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Política Nacional de Saúde Integral da População Negra (PNSIPN) é um compromisso do Ministério da Saúde\nno combate às desigualdades no Sistema Único de Saúde (SUS) e na promoção da saúde da população negra de\nforma integral.\nSobre isso, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "De acordo com o Censo 2010 do Instituto Brasileiro de Geografia e Estatística (IBGE), negras e negros\nconstituem mais da metade da população brasileira (50,7%).",
@@ -53740,7 +53740,7 @@
       "numero": 1058,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Sobre as principais características de performance dos testes diagnósticos, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Valor preditivo negativo pode ser calculado como: (Sensibilidade / (1 – especificidade)).",
@@ -53774,7 +53774,7 @@
       "numero": 1059,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "O código de ética médica, em seu artigo 31, versa que é vedado ao médico: “Desrespeitar o direito do paciente ou\nde seu representante legal de decidir livremente sobre a execução de práticas diagnósticas ou terapêuticas, salvo\nem caso de iminente risco de morte.” \nO referido artigo abrange o seguinte princípio bioético:",
       "alternativas": {
         "A": "Beneficência",
@@ -53804,7 +53804,7 @@
       "numero": 1060,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O programa Previne Brasil, instituído pela Portaria nº 2.979, de 12 de novembro de 2019, constitui o novo\nmodelo de financiamento dos serviços da Atenção Primária. Sobre as características do referido programa, analise\nas sentenças abaixo:\nI. O custeio é composto por três critérios: capitação ponderada, pagamento por desempenho e incentivo para\nações estratégicas\nII. Ampliação do horário de atendimento (Programa Saúde na Hora)\nIII. Investimento na tecnologia da informação (Informatiza APS)\nIV. Investimento no Núcleo Ampliado de Saúde da Família e Atenção Básica (NASF-AB)\nV. Incentivo às equipes de saúde bucal (eSB)\nEstão CORRETAS",
       "alternativas": {
         "A": "I, II, III, IV e V.",
@@ -53838,7 +53838,7 @@
       "numero": 1061,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Adolescente de 15 anos solicita atendimento médico na ausência da mãe. A obrigatoriedade da presença dos pais\nou responsável se faz necessária:",
       "alternativas": {
         "A": "Em todas as consultas.",
@@ -53868,7 +53868,7 @@
       "numero": 1062,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Segundo o Código de Ética Médica (CEM):",
       "alternativas": {
         "A": "No processo de tomada de decisões profissionais, o médico deverá aceitar as escolhas de seus\npacientes, relativas aos procedimentos diagnósticos e terapêuticos, o que limita a autonomia e\nconhecimento do médico assistente.",
@@ -53897,7 +53897,7 @@
       "numero": 1063,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "De acordo com o Código de Ética Profissional, é vedado ao Médico: \nI. Assumir emprego, cargo ou função para suceder Médico demitido ou afastado em represália à atitude de defesa\nde movimentos legítimos da categoria ou aplicação do Código. \nII. Acobertar erro ou conduta antiética de Médico. \nIII. Praticar concorrência desleal com outro Médico. \nIV. Utilzar-se de posição hierárquica para impedir que seus subordinados atuem dentro dos princípios éticos. \nEstão CORRETOS:",
       "alternativas": {
         "A": "Somente os itens I e II.",
@@ -53927,7 +53927,7 @@
       "numero": 1064,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "De acordo com o Código de Ética Profissional, sobre os direitos dos Médicos, analisar os itens abaixo: \nI. Exercer a medicina sem ser discriminado por questões de religião, etnia, sexo, nacionalidade, cor, orientação\nsexual, idade, condição social, opinião política ou de qualquer outra natureza. \nII. Suspender suas atividades, individual ou coletivamente, quando a instituição pública ou privada para a qual\ntrabalhe não oferecer condições adequadas para o exercício profissional ou não o remunerar digna e justamente,\ninclusive em situações de urgência e emergência. \nIII. Decidir, em qualquer circunstância, levando em consideração sua experiência e capacidade profissional, o\ntempo a ser dedicado ao paciente, evitando que o acúmulo de encargos ou de consultas venha a prejudicá-lo. \nEstá(ão) CORRETO(S):",
       "alternativas": {
         "A": "Somente o item I.",
@@ -53956,8 +53956,8 @@
       "id": "site-pre-1065",
       "numero": 1065,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "A Declaração de Óbito (D.O.) é um documento completo fornecido pelo médico contendo o atestado de óbito. Acerca do tema, assinale a afirmativa correta.",
       "alternativas": {
         "A": "A declaração de óbito é constituída por três folhas carbonadas e sequenciais, que podem ser preenchidas por qualquer profissional de saúde, assim como é feita\na notificação compulsória.",
@@ -53986,7 +53986,7 @@
       "numero": 1066,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Direitos do paciente",
       "enunciado": "O que preconiza o Estatuto da Criança e Adolescente (ECA):",
       "alternativas": {
         "A": "A criança como sujeito de direitos e com prioridade absoluta.",
