@@ -52541,8 +52541,8 @@
       "id": "site-pre-1019",
       "numero": 1019,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "A política nacional da atenção básica de 2017 permitiu estabelecer equipes de saúde da família com apenas um\nagente comunitário de saúde (ACS) e equipes de atenção primária sem ACS. A possibilidade de ausência do ACS\nafeta um dos pilares do modelo assistencial da estratégia de saúde da família em seu componente comunitário e\nde promoção da saúde, pautado pela",
       "alternativas": {
         "A": "concepção da determinação social do processo saúde-doença e da clínica ampliada.",
@@ -52570,8 +52570,8 @@
       "id": "site-pre-1020",
       "numero": 1020,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "",
       "enunciado": "O Sistema de Informação de Saúde do SUS agrega diversos tipos de bases de dados com funções e objetos de registro de diferentes naturezas, como o",
       "alternativas": {
         "A": "Sinan: Sistema de Informação de Agravos de Notificação.",
@@ -52600,7 +52600,7 @@
       "numero": 1021,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "A saúde tem “como determinantes e condicionantes, entre outros, a alimentação, a moradia, o saneamento básico,\no meio ambiente, o trabalho, a renda, a educação, a atividade física, o transporte, o lazer e o acesso aos bens e\nserviços essenciais”, como refere o texto da",
       "alternativas": {
         "A": "Lei Orgânica da Saúde (Lei nº 8.080), Brasil, 1990.",
@@ -52629,7 +52629,7 @@
       "numero": 1022,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Os serviços de saúde do SUS, nos termos da Lei nº 11.108, de 2005, ficam obrigados a permitir a presença, junto às\nparturientes, de um acompanhante, determinando no texto legal que",
       "alternativas": {
         "A": "o acompanhamento se dará durante todo o período de trabalho de parto, parto e pós-parto imediato.",
@@ -52657,8 +52657,8 @@
       "id": "site-pre-1023",
       "numero": 1023,
       "area": "Medicina Preventiva",
-      "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "A abordagem da contracepção na Atenção Primária à Saúde é estratégica pela possibilidade de auxiliar as famílias\na planejarem as suas vidas. Nesse interim, é importante orientar sobre o leque de possibilidades, inclusive\nexplorando as escolhas prévias apresentadas. No âmbito da contracepção, é possível afirmar que:",
       "alternativas": {
         "A": "O Estatuto da Criança e do Adolescente prevê que todo adolescente a partir dos doze anos tem direito à\ncontracepção mesmo sem a autorização do responsável.",
@@ -52687,7 +52687,7 @@
       "numero": 1024,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Um senhor de 80 anos de idade, ao sair de casa, caiu da própria altura e bateu a cabeça na guia da calçada. Foi socorrido, mas veio a falecer na chegada ao hospital.\nNa necropsia, foi constatado traumatismo craniano, hemorragia cerebral e fratura da cabeça do fêmur direito. A família referiu que ele era cardíaco, diabético e hipertenso\ncom controle médico. A causa básica de morte foi:",
       "alternativas": {
         "A": "hemorragia cerebral.",
@@ -52717,7 +52717,7 @@
       "numero": 1025,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Uma senhora de 60 anos não sabia que era hipertensa e, de um ano para cá, começou a sentir falta de ar quando fazia pequenos esforços. Como foi piorando, resolveu ir\nao médico e, após exames, constatou-se que ela tinha hipertensão arterial, cardiopatia hipertensiva e diabetes tipo 2. Após um mês de tratamento, foi socorrida no pronto-\nsocorro, mas faleceu duas horas após ser diagnósticada com edema agudo de pulmão. A causa imediata de morte foi",
       "alternativas": {
         "A": "hipertensão arterial.",
@@ -52751,7 +52751,7 @@
       "numero": 1026,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Podemos definir os testes diagnósticos, de acordo com a finalidade, em três tipos clínicos distintos:\na) rastreamento de doença em pessoas assintomáticas; b) diagnóstico de doença em pessoa com\nsuspeita (sintomas ou sinais de doença); c) avaliar a progressão da doença ou resposta ao tratamento. Sobre este\ntema, é CORRETO afirmar:",
       "alternativas": {
         "A": "São exemplos de testes quantitativos quando apresentam resultados descritivos e que dependem\nda percepção humana, por exemplo, os exames de imagem.",
@@ -52780,7 +52780,7 @@
       "numero": 1027,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "Sobre a validade dos testes diagnósticos, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Razão de verossimilhança fornece seu resultado sob a forma de um valor relativo, ou seja, um\nnúmero sem unidade, permitindo, então, sua utilização em fórmulas de cálculo de probabilidade de\ndoença após combinação de testes.",
@@ -52809,7 +52809,7 @@
       "numero": 1028,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Buscando estimar a quantidade de pessoas com uma determinada doença na população, a secretaria de saúde de\num município aplicou um teste com 80% de sensibilidade e 70% de especificidade. O teste foi aplicado em um\ngrupo de 1.000 pessoas, obtendo-se 415 resultados positivos. Considerando que a prevalência encontrada nesse\nexperimento seja de fato a prevalência da doença no município, quantas pessoas estavam acometidas pela\ndoença?\n(População total do município: 400.000 pessoas).",
       "alternativas": {
         "A": "100.000",
@@ -52844,7 +52844,7 @@
       "numero": 1029,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Em qual das alternativas abaixo apresenta-se um dos princípios do movimento de reforma sanitária no Brasil?",
       "alternativas": {
         "A": "Estimular a prevenção dos agravos à saúde de modo que o paciente tenha pronto acesso aos hospitais\nlogo no início do processo de adoecimento",
@@ -52873,7 +52873,7 @@
       "numero": 1030,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "No que diz respeito aos serviços de atenção primária e aos serviços de atenção secundária, assinale a alternativa\ncorreta.",
       "alternativas": {
         "A": "Ambos realizam cuidados continuados, porém somente a atenção primária é longitudinal.",
