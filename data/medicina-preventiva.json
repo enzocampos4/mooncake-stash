@@ -52169,7 +52169,7 @@
       "numero": 1007,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Ao se propor determinado tipo de teste para uma doença cuja letalidade é alta, mas que diminui de maneira\nsignificativa quando tratada precocemente, é importante que ele tenha alto(a)",
       "alternativas": {
         "A": "valor preditivo negativo (VPN).",
@@ -52199,7 +52199,7 @@
       "numero": 1008,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O Índice de Swaroop & Uemura e as Curvas de Moraes calculam o número de mortes por",
       "alternativas": {
         "A": "grupo etário.",
@@ -52228,8 +52228,8 @@
       "id": "site-pre-1009",
       "numero": 1009,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "De acordo com as orientações do Ministério da Saúde para a implantação das Unidades de Saúde da Família,\né correto afirmar que",
       "alternativas": {
         "A": "ela foi prejudicada com a publicação da Norma Operacional Básica do Sistema Único de Saúde, a NOB-\nSUS 96.",
@@ -52258,8 +52258,8 @@
       "id": "site-pre-1010",
       "numero": 1010,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "De acordo com a Política Nacional de Atenção Básica, do Ministério da Saúde, é atribuição específica do médico",
       "alternativas": {
         "A": "planejar, gerenciar e avaliar as ações desenvolvidas pelos agentes comunitários de saúde, em\nconjunto com os outros membros da equipe.",
@@ -52289,7 +52289,7 @@
       "numero": 1011,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Num município hipotético, com população de 100000 pessoas, foram diagnosticados, ao longo de um ano, 10 casos de câncer de\ncolo de útero, sendo que 2 desses evoluíram para óbito. Para esse período, calcule os coeficientes para câncer de colo de útero\nsolicitados nas questões seguintes.\nO coeficiente de mortalidade é",
       "alternativas": {
         "A": "igual a 10.",
@@ -52323,7 +52323,7 @@
       "numero": 1012,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Num município hipotético, com população de 100000 pessoas, foram diagnosticados, ao longo de um ano, 10 casos de câncer de\ncolo de útero, sendo que 2 desses evoluíram para óbito. Para esse período, calcule os coeficientes para câncer de colo de útero\nsolicitados nas questões seguintes.\nO coeficiente de letalidade é",
       "alternativas": {
         "A": "igual a 0,2%.",
@@ -52353,7 +52353,7 @@
       "numero": 1013,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "",
       "enunciado": "De acordo com o Centro de Vigilância Epidemiológica do Estado de São Paulo, a situação da covid-19, no município de Botucatu\ne no estado de São Paulo, era a seguinte, nas datas a seguir indicadas. \nObs: para fins de cálculos, se necessário, deve-se usar a população IBGE, estimada para 2021: Botucatu = 149.718 habitantes;\nestado de São Paulo = 46.649.432 habitantes.\nO coeficiente de letalidade por covid-19, no município de Botucatu, no ano de 2021 (até 31.08), foi de",
       "alternativas": {
         "A": "2,64%.",
@@ -52393,7 +52393,7 @@
       "numero": 1014,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "",
       "enunciado": "O gráfico representado na imagem expressa a evolução de casos novos de covid-19 no município de Botucatu e\nno estado de São Paulo, de abril a dezembro de 2020.\nA medida de saúde que está expressa no gráfico é",
       "alternativas": {
         "A": "razão de morbidade média.",
@@ -52426,7 +52426,7 @@
       "numero": 1015,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "",
       "enunciado": "O Código de Ética Médica, em seu Capítulo X (Documentos Médicos) estabelece que é vedado ao médico",
       "alternativas": {
         "A": "atestar óbito quando não tenha prestado assistência ao paciente, salvo, exclusivamente, em caso de\nverificação médico-legal.",
@@ -52454,8 +52454,8 @@
       "id": "site-pre-1016",
       "numero": 1016,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "",
       "enunciado": "Homem de 63 anos, assintomático, estava cumprindo medida de isolamento domiciliar, após diagnóstico confirmado para covid-19. Foi atingido por projétil de arma de fogo\n(“bala perdida”) que provocou perfuração craniana com perda de massa encefálica e faleceu. Era diabético há 8 anos, controlado.\nAssinale a alternativa que apresenta o preenchimento correto da declaração de óbito.",
       "alternativas": {
         "A": "PARTE I \na) Ferimento perfurocontuso cranioencefálico\nb) Projétil de arma de fogo\nc)______________________ \nd)______________________ \n \nPARTE II\nCovid-19\nDiabetes Mellitus compensado",
@@ -52484,7 +52484,7 @@
       "numero": 1017,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "",
       "enunciado": "Sobre a acurácia dos testes diagnósticos para a covid-19 registrados na Anvisa, a sensibilidade e a\nespecificidade variaram entre os fabricantes, contudo, em geral, a sensibilidade foi superior a 85%, e a\nespecificidade foi superior a 94%. Caso dois indivíduos que residam em diferentes cidades, uma com prevalência\nde covid-19 de 20% e a outra de 33%, realizem testes sorológicos do mesmo fabricante e ambos obtenham\nresultados positivos, a probabilidade desses indivíduos realmente apresentarem a doença é:",
       "alternativas": {
         "A": "igual, pois quanto maior a especificidade de um teste, maior será o seu valor preditivo positivo.",
@@ -52512,8 +52512,8 @@
       "id": "site-pre-1018",
       "numero": 1018,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "",
       "enunciado": "No Brasil, a Atenção Primária à Saúde (APS) é considerada como o centro ordenador das redes de atenção à\nsaúde do Sistema Único de Saúde. Para o fortalecimento da APS, deve(m)-se",
       "alternativas": {
         "A": "conhecer as especificidades de problemas de saúde de cada território adscrito, organizar ações\nassistenciais e educativas voltadas à integralidade do cuidado, priorizar a atenção aos problemas de\nsaúde prevalentes e àqueles que acarretam maior risco à saúde, desenvolver ações de educação\npermanente e estimular o trabalho em equipe e a participação social da comunidade.",
