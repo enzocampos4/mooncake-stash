@@ -58019,8 +58019,8 @@
       "id": "site-pre-1199",
       "numero": 1199,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Termo de Consentimento Livre e Esclarecido (TCLE)",
       "enunciado": "Mulher, 63 anos, está em acompanhamento ambulatorial por adenocarcinoma de pâncreas com\nmetástases hepáticas e ósseas. Há 6 meses, iniciou segunda linha de quimioterapia não curativa. A despeito do\ntratamento, sua doença teve rápida progressão durante esse período. Adicionalmente, sua funcionalidade teve\numa mudança importante: era totalmente ativa (ECOG 0) e agora, embora consiga manter o autocuidado e a\ndeambulação, está incapaz de realizar suas atividades laborais (ECOG 2). No atual retorno, a paciente questiona\nsobre as possibilidades de tratamento e a sua inclusão em um estudo clínico para novos medicamentos.\nQuais ações devem ser adotadas no caso?",
       "alternativas": {
         "A": "postergar as informações sobre a progressão da doença, pois a perda de funcionalidade da paciente é\nrecente e influencia sua compreensão da gravidade.",
@@ -58048,8 +58048,8 @@
       "id": "site-pre-1200",
       "numero": 1200,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Roberto, um homem de 58 anos, é portador de hipertensão arterial, diabetes mellitus e hipotireoidismo. Há cerca\nde dois meses, ele sofreu um AVE isquêmico, apresentando diminuição de força em dimídio\nesquerdo, necessitando de auxílio para marcha. Desde que ocorreu o AVEi, Roberto não\nrecuperou completamente a função cognitiva, apresentando dificuldade em compreender fala, acalculia\ne diminuição da memória de curto prazo. Considerando o caso descrito e seus conhecimentos, julgue o item a\nseguir. \nPelas informações fornecidas, é possível inferir que Roberto se tornou completamente dependente para atividades\nde vida instrumentais.",
       "alternativas": {
         "A": "Certo.",
@@ -58079,8 +58079,8 @@
       "id": "site-pre-1201",
       "numero": 1201,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "Roberto, um homem de 58 anos, é portador de hipertensão arterial, diabetes mellitus e hipotireoidismo. Há cerca\nde dois meses, ele sofreu um AVE isquêmico, apresentando diminuição de força em dimídio\nesquerdo, necessitando de auxílio para marcha. Desde que ocorreu o AVEi, Roberto não\nrecuperou completamente a função cognitiva, apresentando dificuldade em compreender fala, acalculia\ne diminuição da memória de curto prazo. Considerando o caso descrito e seus conhecimentos, julgue o item a\nseguir. \nEm casos como o de Roberto, a realização de fisioterapia motora consiste em uma intervenção de prevenção\nterciária.",
       "alternativas": {
         "A": "Certo.",
@@ -58107,7 +58107,7 @@
       "numero": 1202,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "Para algumas condições de saúde, a atenção primária oportuna e de boa qualidade pode evitar a hospitalização ou\nreduzir sua frequência. O INDICADOR “INTERNAÇÕES POR CONDIÇÕES SENSÍVEIS À ATENÇÃO\nPRIMÁRIA”:",
       "alternativas": {
         "A": "Não se aplica a condições ou doenças agudas.",
@@ -58136,7 +58136,7 @@
       "numero": 1203,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Os sistemas nacionais de saúde obedecem a diferentes lógicas, dependendo de contextos sociais, econômicos e\npolíticos de cada país. SOBRE O SISTEMA DE SAÚDE BRASILEIRO, É CORRETO AFIRMAR QUE:",
       "alternativas": {
         "A": "É do tipo seguro social.",
@@ -58165,7 +58165,7 @@
       "numero": 1204,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Homem, 55a, procura o Pronto Socorro por dor torácica em aperto, de forte intensidade. Antecedentes:\nhipertensão arterial e obesidade. Com a hipótese diagnóstica de infarto agudo do miocárdio (IAM), são solicitados\nexames complementares para confirmar ou afastar o diagnóstico. CONSIDERANDO O RISCO DE MORTE\nDESTE DIAGNÓSTICO, A PRINCIPAL CARACTERÍSTICA DE VALIDAÇÃO DESTES EXAMES É QUE\nAPRESENTEM:",
       "alternativas": {
         "A": "Sensibilidade próxima a 100%, para evitar deixar de diagnosticar pacientes com IAM.",
@@ -58193,8 +58193,8 @@
       "id": "site-pre-1205",
       "numero": 1205,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Afastamento e perícia",
       "enunciado": "Maria, de 45 anos de idade, trabalha sob contrato regular, sob a Consolidação das Leis do Trabalho (CLT), há 12\nanos. Certo dia, enquanto ia ao trabalho, caminhando, sofreu um acidente automobilístico e sofreu fratura de fíbula\nesquerda. Maria procurou atendimento na unidade de pronto atendimento mais próxima e foi afastada do trabalho\npor seis semanas, apresentando recuperação parcial. Teve também indicação de fisioterapia por vinte sessões\ninicialmente.\nNesse caso, o custeio da reabilitação física cabe ao(à)",
       "alternativas": {
         "A": "empresa empregadora.",
@@ -58224,7 +58224,7 @@
       "numero": 1206,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Considerando-se as alternativas a seguir, é correto afirmar que os fatores socioeconômicos têm maior influência no indicador\nde mortalidade",
       "alternativas": {
         "A": "neonatal.",
@@ -58254,7 +58254,7 @@
       "numero": 1207,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "As curvas apresentadas no gráfico acima são denominadas",
       "alternativas": {
         "A": "curvas de Nelson de Moraes (mortalidade proporcional por idade).",
@@ -58297,7 +58297,7 @@
       "numero": 1208,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Uma paciente de 84 anos de idade, hipertensa e diabética, sofreu acidente cerebrovascular isquêmico,\napresentando hemiparesia há 2 anos e deambulando com apoio de muleta.\nNesse caso hipotético, a tentativa de retirada de uso frequente de Vertix corresponde ao(s) seguinte(s) nível(is) de\nprevenção:",
       "alternativas": {
         "A": "primária e secundária.",
@@ -58327,7 +58327,7 @@
       "numero": 1209,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Um profissional médico atende, pela primeira vez, via telemedicina, um rapaz de 23 anos de idade, assintomático,\nsem patologias de base, que solicita “troca” de pedido de exames de sangue e urina com 48 itens, feito por\nprofissional nutricionista. Refere que o laboratório e o convênio não aceitam pedido de nutricionista. O médico\nafirma que não se sente confortável em realizar essa “troca” de guia, pois acredita que a maioria dos exames\npedidos não tem indicação clínica.\nNesse caso hipotético, de acordo com o Código de Ética Médica, o médico",
       "alternativas": {
         "A": "deve acatar a solicitação, pois, no processo de tomada de decisões profissionais, de acordo com seus\nditames de consciência e as previsões legais, o médico aceitará as escolhas de seus pacientes relativas\naos procedimentos diagnósticos e terapêuticos por eles expressos, desde que adequadas ao caso e\ncientificamente reconhecidas.",
@@ -58357,7 +58357,7 @@
       "numero": 1210,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O programa Previne Brasil, instituído pela Portaria nº 2.979/2019, é um novo modelo de financiamento para a\natenção primária à saúde (APS), o qual altera algumas formas de repasse do financiamento para os municípios,\nque passam a ser distribuídos com base em três critérios: captação ponderada, pagamento por desempenho e\nincentivo para ações estratégicas. Os indicadores de desempenho incluem o(a)",
       "alternativas": {
         "A": "proporção de crianças que realizaram teste do pezinho.",
