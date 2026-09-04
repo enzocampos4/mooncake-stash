@@ -55461,8 +55461,8 @@
       "id": "site-pre-1115",
       "numero": 1115,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "Considerando o número máximo de pessoas que podem ser vinculadas a uma Equipe de Saúde da Família,\nsegundo a Política Nacional de Atenção Básica, uma região com 21 mil habitantes deverá ter, no mínimo, quantas\nequipes?",
       "alternativas": {
         "A": "Duas.",
@@ -55496,7 +55496,7 @@
       "numero": 1116,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Na reunião da Comissão Intergestores Regional (CIR) durante a discussão sobre o Programa Previne Brasil, os\nSecretários da Saúde foram estimulados a implantar em seus municípios Programas de Residência Médica em\nMedicina de Família e Comunidade e de Residência Multiprofissional em Saúde, na Atenção Primária à Saúde\n(APS) confirmando o compromisso da gestão pública com a formação de profissionais para atuação no Sistema\nÚnico de Saúde (SUS). Os gestores foram informados que aqueles que implantassem os programas de residência\nreceberiam financiamento federal para o custeio desta atividade. A implantação de Programas de Residência, de\nacordo o Programa Previne Brasil, refere-se a que componente do financiamento da APS?",
       "alternativas": {
         "A": "Capitação ponderada.",
@@ -55525,7 +55525,7 @@
       "numero": 1117,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Os gestores da Região de Saúde (RS) X se reuniram para discutir a operacionalização da rede de atenção à\nsaúde (RAS) regional, considerando as orientações de Ministério da Saúde sobre este assunto. Durante a\ndiscussão houve um impasse, pois alguns gestores defendiam a construção de mais dois hospitais na RS,\nenquanto outros argumentavam que era preciso construir mais unidades de atenção primária à saúde (APS). Os\ngestores que defendiam o maior investimento na APS, se apoiavam no conceito de que uma RAS os serviços de\nsaúde devem ser organizados de forma que o que é frequentemente necessário esteja disseminado e o que é\nraramente necessário esteja concentrado. Esse conceito empregado pelos gestores se refere a que princípio do\nSistema Único de Saúde?",
       "alternativas": {
         "A": "Universalização.",
@@ -55554,7 +55554,7 @@
       "numero": 1118,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Adolescente do sexo feminino, de 15 anos de idade, procura unidade básica de saúde, pois deseja iniciar o uso de\num método anticoncepcional. Relata ser cisgênero e heterossexual. Iniciou sua vida sexual há 3 meses, com\nparceiro fixo. Quando questionada sobre o uso de preservativo, referiu que utiliza desde a sua primeira relação,\npois teve uma prima que morreu em decorrência de uma IST. Sobre os aspectos éticos envolvidos na realização\nda consulta e na prescrição de contracepção para esta paciente, assinale a alternativa correta:",
       "alternativas": {
         "A": "Como a paciente é menor de idade, o médico deverá contatar seus responsáveis para os notificar sobre\no conteúdo da consulta.",
@@ -55583,8 +55583,8 @@
       "id": "site-pre-1119",
       "numero": 1119,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "A proposição da Política Nacional de Atenção Integral à Saúde do Homem visa qualificar a saúde da população\nmasculina na perspectiva de linhas de cuidado que resguardem a integralidade da atenção.\nUm dos problemas para estabelecer uma politica de saúde adequada ao homem é a via de acesso aos serviços de\nsaúde. No caso dos homens, o acesso aos serviços de saúde ocorre por meio da",
       "alternativas": {
         "A": "atenção especializada.",
@@ -55612,8 +55612,8 @@
       "id": "site-pre-1120",
       "numero": 1120,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A proposição da Política Nacional de Atenção Integral à Saúde do Homem visa qualificar a saúde da população\nmasculina na perspectiva de linhas de cuidado que resguardem a integralidade da atenção.\nCom relação à vulnerabilidade para doenças, quanto ao gênero, no Brasil, podemos dizer que:",
       "alternativas": {
         "A": "As mulheres são mais vulneráveis, em geral, do que os homens.",
@@ -55642,7 +55642,7 @@
       "numero": 1121,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Na Relação Nacional de Medicamentos Essenciais de 2022, a classificação de medicamentos como acesso, alerta\ne reservado, é apresentada para",
       "alternativas": {
         "A": "vacinas e soros.",
@@ -55672,7 +55672,7 @@
       "numero": 1122,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Segundo as informações contidas no Sistema de Informação sobre Nascidos Vivos, 25% dos óbitos no primeiro ano de vida\nocorrem na primeira semana de vida. O fator de risco isolado mais importante para a ocorrência da mortalidade infantil é:",
       "alternativas": {
         "A": "malformações congênitas.",
@@ -55702,7 +55702,7 @@
       "numero": 1123,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "Considerando a Lei no 8.080/90, conhecida como Lei Orgânica da Saúde, assinale a alternativa correta que\naponta ação incluída no campo de atuação do Sistema Único de Saúde (SUS).",
       "alternativas": {
         "A": "Colaboração na proteção do meio ambiente, nele compreendido o do trabalho.",
@@ -55732,7 +55732,7 @@
       "numero": 1124,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "A participação social é também denominada “participação comunitária” no contexto da saúde, sendo estabelecida\ne regulada pela Lei nº 8.142/90. No âmbito desta lei, sobre a participação social, é correto afirmar que compõe o\nConselho de Saúde",
       "alternativas": {
         "A": "os participantes das conferências estaduais de saúde, do conselho de segurança municipal, todo o\nconselho nacional de ministros do governo federal e a representantes da comissão nacional de direitos\ndo usuário.",
@@ -55766,7 +55766,7 @@
       "numero": 1125,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "De acordo com a Portaria nº 2.528 de 19 de outubro de 2006, estão previstas na Política Nacional de Saúde da Pessoa\nIdosa as diretrizes:",
       "alternativas": {
         "A": "promoção do envelhecimento ativo e saudável e cuidado parcelado em diversos serviços de saúde da rede de\natenção à saúde da pessoa idosa.",
@@ -55796,7 +55796,7 @@
       "numero": 1126,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "De acordo com o “Manual de Planejamento no SUS”, de 2016, é correto afirmar que",
       "alternativas": {
         "A": "cabe às três esferas (Serviço de saúde, indivíduo e família), de maneira conjunta, definir mecanismos de\ncontrole e avaliação dos serviços de saúde, monitorar o nível de saúde da população, elaborar normas\npara regular a contratação de serviços privados.",
