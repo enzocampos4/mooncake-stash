@@ -54377,7 +54377,7 @@
       "numero": 1079,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "O Coeficiente de Mortalidade Infantil (CMI) representa um dos principais indicadores para medir a vulnerabilidade social de uma\ndeterminada região.\nSobre esse indicador, é correto afirmar que ele é calculado considerando o número de",
       "alternativas": {
         "A": "nascidos vivos no numerador.",
@@ -54407,7 +54407,7 @@
       "numero": 1080,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "O Sistema Único de Saúde tornou-se constitucional a partir de 1988. A implementação de um sistema universal em\num país de abrangência continental exige que este seja regulamentado por meio de atos normativos que\napresentem suas diretrizes e formas de organização.\nAssinale a alternativa que apresenta, corretamente, as duas leis que foram consideradas as Leis Orgânicas do\nSUS.",
       "alternativas": {
         "A": "Leis nº 196 e nº 198, de 1988.",
@@ -54437,7 +54437,7 @@
       "numero": 1081,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Sobre o Sistema Único de Saúde (SUS), é correto afirmar que",
       "alternativas": {
         "A": "o SUS tem como um dos principais objetivos prestar assistência à saúde da população mais vulnerável.",
@@ -54471,7 +54471,7 @@
       "numero": 1082,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "Em relação à participação da comunidade no SUS, é correto afirmar que",
       "alternativas": {
         "A": "sua expressão é a existência de um fórum permanente composto por representantes dos diversos\nsegmentos sociais, incluído o Congresso Nacional.",
@@ -54501,7 +54501,7 @@
       "numero": 1083,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Uma epidemia atinge uma região do estado de São Paulo. Trata-se de uma doença altamente transmissível, de rápida evolução e\na maioria dos casos evolui para a cura, embora alguns evoluam para óbito. Considerando um período de 30 dias, assinale a\nalternativa que apresenta a afirmação correta sobre essa doença.",
       "alternativas": {
         "A": "Trata-se de uma doença com alto coeficiente de prevalência e de letalidade.",
@@ -54530,8 +54530,8 @@
       "id": "site-pre-1084",
       "numero": 1084,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Um paciente do sexo masculino, de 25 anos de idade, procura a Unidade Básica de Saúde (UBS) por ter tido\ncovid-19 em 2021 e ouviu dizer que era preciso prevenir a covid longa. Como o paciente está assintomático, o\nprocedimento correto é",
       "alternativas": {
         "A": "ele deve preencher um questionário de sintomas diariamente durante 2 anos para que a equipe de\nsaúde monitore seus eventuais sintomas de covid longa.",
@@ -54560,8 +54560,8 @@
       "id": "site-pre-1085",
       "numero": 1085,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Assinale a alternativa que apresenta corretamente dois eventos de notificação compulsória imediata.",
       "alternativas": {
         "A": "Acidente com animal peçonhento e óbito por dengue.",
@@ -54591,7 +54591,7 @@
       "numero": 1086,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em relação às doenças consideradas negligenciadas pela Organização Mundial da Saúde, é correto afirmar que",
       "alternativas": {
         "A": "são doenças raras cuja evolução costuma ser benigna.",
@@ -54620,8 +54620,8 @@
       "id": "site-pre-1087",
       "numero": 1087,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Assinale a alternativa que apresenta corretamente uma das características sobre o Sistema de Informação sobre Mortalidade (SIM).",
       "alternativas": {
         "A": "Inclui as mortes maternas, desde que sejam decorrentes de negligência médica.",
@@ -54650,8 +54650,8 @@
       "id": "site-pre-1088",
       "numero": 1088,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Durante a reunião estratégica da sua equipe na UBS, foi relatado que não constavam pessoas em tratamento para\ntuberculose em nenhuma das microáreas sob sua responsabilidade. A base de dados do seu município indicava\numa prevalência de Tuberculose pulmonar bacilífera de 80 casos a cada 100.000 habitantes e a população\nadscrita nas suas microáreas era de 10.000 habitantes. Diante disso, os agentes comunitários foram capacitados\npara realizar busca ativa, através da aplicação de questionário para identificação de Sintomáticos Respiratórios\n(SR), detectando a presença de 100 SR.\nA busca ativa do Sintomático Respiratório configura que nível de Prevenção em Saúde?",
       "alternativas": {
         "A": "Primário.",
@@ -54680,7 +54680,7 @@
       "numero": 1089,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "A aplicação de testes para rastreamento de condições de saúde em grupos populacionais é uma ferramenta para a\ndetecção precoce de agravos. Quando realizamos um rastreamento, qual a característica do teste que nos permite\nafastar a hipótese de doença em indivíduos com resultado negativo?",
       "alternativas": {
         "A": "Acurácia.",
@@ -54708,8 +54708,8 @@
       "id": "site-pre-1090",
       "numero": 1090,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Sobre a abordagem da Violência Doméstica Contra a Mulher (VDCM) no contexto da Atenção Primária, assinale a alternativa correta.",
       "alternativas": {
         "A": "A notificação tem caráter compulsório às autoridades sanitárias e a equipe de saúde deverá obrigatoriamente comunicar à autoridade policial no prazo de 24 (vinte\ne quatro) horas.",
