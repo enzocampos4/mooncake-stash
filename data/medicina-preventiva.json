@@ -61703,7 +61703,7 @@
       "numero": 1319,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Homem, 63 anos de idade, portador de diabetes mellitus tipo 2 (DM2) há cerca de 20 anos, com tratamento irregular na Unidade Básica de Saúde (UBS) do bairro onde mora.\nHá 3 anos passou a apresentar sintomas de insuficiência cardíaca congestiva (ICC) classe III, tendo sido internado duas vezes por esse motivo. Há 2 anos foi diagnosticado\ncom câncer de próstata, realizando tratamento e acompanhamento regulares. Hoje compareceu à Unidade de Pronto Atendimento (UPA 24h) com quadro de fibrilação\nventricular, tendo falecido 40 minutos após a entrada neste serviço.\nNa declaração de óbito (DO) do paciente deve constar, como causa básica:",
       "alternativas": {
         "A": "diabetes mellitus.",
@@ -61737,7 +61737,7 @@
       "numero": 1320,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Dados hipotéticos de um estudo observacional, que avaliou fatores de risco para a ocorrência de diabetes mellitus,\nencontraram um risco relativo (RR) igual a 0,55 ao se compararem expostos com não expostos. A exposição\nconsiderada foi realizar atividade física regular. O intervalo de confiança de 95% (IC95%) variou de 0,38 a 1,20.\nCom base nos dados descritos, é correto afirmar que:",
       "alternativas": {
         "A": "o risco de doença foi 55% maior entre os expostos (p < 0,05).",
@@ -61767,7 +61767,7 @@
       "numero": 1321,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Na figura a seguir, é possível verificar a queda do número de mortes por Aids, sobretudo a partir do ano de 1995,\nbem como o aumento da prevalência da doença entre os anos de 1985 e 2004, nos Estados Unidos.\nÉ correto afirmar que a prevalência do HIV/Aids pode ter aumentado em decorrência de:",
       "alternativas": {
         "A": "redução da letalidade e aumento do número de curas.",
@@ -61805,7 +61805,7 @@
       "numero": 1322,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Agência Nacional de Saúde Suplementar (ANS) é o órgão regulador do setor de saúde suplementar. É uma\nautarquia constituída sob regime especial, vinculada ao Ministério da Saúde, com autonomia administrativa,\nfinanceira e funcional. Atualmente, atuam no país cerca de 700 operadoras médico-hospitalares e 245 operadoras\nexclusivamente odontológicas, que ofertam serviços a cerca de 25,2% da população brasileira. \nA Resolução de Diretoria Colegiada (RDC) da ANS no 531, de 02 de maio de 2022, classifica as operadoras\nsegmentadas nas seguintes modalidades:",
       "alternativas": {
         "A": "médico-hospitalar; odontológica; segmento misto; conveniada plena; ou medicina filantrópica.",
@@ -61834,8 +61834,8 @@
       "id": "site-pre-1323",
       "numero": 1323,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Segundo relatório da Organização Mundial da Saúde (OMS, 2023), os esforços contra o uso do tabaco têm surtido\nefeito, e o número de tabagistas vem caindo em todo o mundo, passando de 22,8% da população global, em 2007, para\n17,0% em 2021. Mesmo assim, o tabagismo ainda é umas das principais causas evitáveis de morte, provocando cerca\nde 8,7 milhões de óbitos anualmente. Baseadas em evidências e pensadas para países com todos os níveis de renda,\nas medidas MPOWER são ações com bons índices de custo-efetividade adotadas pelos países para combater o\nconsumo de tabaco e seus efeitos nocivos entre a população. São elas:",
       "alternativas": {
         "A": "estimular a troca do cigarro comum por cigarros eletrônicos; instituir núcleos de controle do tabagismo em\ntodos os estados e municípios do Brasil; aumentar em 20% os impostos sobre o tabaco; oferecer apoio para a\ncessação do tabagismo; e implementar a abordagem breve, mínima, básica na cessação do tabagismo.",
@@ -61868,8 +61868,8 @@
       "id": "site-pre-1324",
       "numero": 1324,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "O Método Clínico Centrado na Pessoa (MCCP) tem como objetivo estabelecer uma relação médico-pessoa de\nqualidade, facilitando a abordagem integral da saúde, apoiando a criação conjunta de um plano de cuidados para o\npaciente. Isso permite a inclusão de estratégias de promoção da saúde e prevenção de doenças, além de propor\nintervenções práticas adaptadas às necessidades individuais da pessoa, considerando seu contexto e\ncircunstâncias de vida únicas. Em relação ao MCCP no contexto dos serviços de Atenção Primária à Saúde (APS),\nidentifique a afirmação correta.",
       "alternativas": {
         "A": "Médico e paciente devem conversar abertamente sobre os problemas de saúde e refletir sobre suas\nrepercussões. O processo de cuidado deve, por fim, ser determinado pelo médico, pois ele detém todo o\nsaber técnico.",
