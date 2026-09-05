@@ -63217,7 +63217,7 @@
       "numero": 1367,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Política Nacional de Promoção da Saúde (PNPS) foi instituída em março de 2006 como parte das Políticas Públicas de\nSaúde do Ministério da Saúde, e adota todos os princípios abaixo com EXCEÇÃO de:",
       "alternativas": {
         "A": "Empoderamento",
@@ -63247,7 +63247,7 @@
       "numero": 1368,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Segundo as curvas de mortalidade proporcional, propostas por Nelson de Moraes, numa população em que predominam óbitos\ninfantis e pré-escolares, teremos uma curva do tipo:",
       "alternativas": {
         "A": "I.",
@@ -63288,7 +63288,7 @@
       "numero": 1369,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "O mecanismo de transmissão de algumas doenças pode ser dida\u0000camente dividido em algumas categorias. No\ncaso de um surto de dengue, a forma de contágio mais provável é:",
       "alternativas": {
         "A": "Indireta.",
@@ -63317,8 +63317,8 @@
       "id": "site-pre-1370",
       "numero": 1370,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "A Carteira de Serviços da Atenção Primária à Saúde (2020) do Ministério da Saúde classifica alguns atributos como\nessenciais e outros como derivados. Marque a alternativa que elenca um atributo essencial e um derivado,\nrespectivamente:",
       "alternativas": {
         "A": "Atenção no primeiro contato / Longitudinalidade.",
@@ -63352,7 +63352,7 @@
       "numero": 1371,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Um homem de 35 anos sofre um acidente motociclístico na estrada e apresenta fratura exposta de fêmur direito. Paciente foi admitido, operado e encaminhado para o CTI.\nCerca de seis dias após a internação, o paciente evolui com dispneia, hipoxemia, rebaixamento do nível de consciência e petéquias na face, pescoço, tórax, axila e\nconjuntivas. Considerando o caso exposto, a causa básica da morte a ser preenchida na declaração de óbito é:",
       "alternativas": {
         "A": "Embolia gasosa.",
@@ -63386,7 +63386,7 @@
       "numero": 1372,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Um estudo agregado, observacional e de caráter transversal é chamado de",
       "alternativas": {
         "A": "Ensaio temporal.",
@@ -63416,7 +63416,7 @@
       "numero": 1373,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Um dos elementos fundamentais da organização de um sistema de saúde é a definição da(s) porta(s) de entrada do paciente\nna Rede de Atenção à Saúde tendo como base seu problema de saúde. Neste sentido, a Atenção Primária à Saúde, salvo\nexceções, exerce o papel de porta de entrada __________ da rede de atenção (complete a frase).",
       "alternativas": {
         "A": "obrigatória.",
@@ -63445,7 +63445,7 @@
       "numero": 1374,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Segundo a mais recente versão da Política Nacional de Atenção Básica (Portaria nº 2.436, de 21 de setembro de\n2017), não é diretriz do SUS e da Rede de Atenção à Saúde a ser operacionalizada na Atenção Básica:",
       "alternativas": {
         "A": "Lista flexível de pacientes por capitação.",
@@ -63473,8 +63473,8 @@
       "id": "site-pre-1375",
       "numero": 1375,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "A Portaria nº 635, de 22 de maio de 2023, do Ministério da Saúde, descreve as regras de implantação, custeio e\ndesempenho para as modalidades de equipes Multiprofissionais na Atenção Primária à Saúde (eMulti). Sobre tais\nequipes, é correto afirmar:",
       "alternativas": {
         "A": "Seu financiamento é determinado pelo número de atendimentos clínicos individuais realizados, não sendo\npermitidas práticas intersetoriais ou coletivas realizadas no território da equipe de Saúde da Família.",
@@ -63503,7 +63503,7 @@
       "numero": 1376,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Não é um passo essencial na prática da medicina baseada em evidências no cotidiano do médico:",
       "alternativas": {
         "A": "Formular questões clínicas.",
@@ -63532,7 +63532,7 @@
       "numero": 1377,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Os estudos transversais são adequados para medir ou identificar:",
       "alternativas": {
         "A": "Relação causa-efeito.",
@@ -63561,7 +63561,7 @@
       "numero": 1378,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Em relação à farmacoterapia para o tabagismo, temos os seguintes valores aproximados de número necessário\npara tratar (NNT): reposição de nicotina (NNT=15); vareniclina (NNT=9); bupropiona (NNT=11); nortriptilina\n(NNT=11). Considerando apenas a informação de NNT das medicações, qual seria a última a ser indicada dentre\nas citadas no tratamento do tabagismo?",
       "alternativas": {
         "A": "Reposição de nicotina.",
