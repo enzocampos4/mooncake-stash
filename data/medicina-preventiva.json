@@ -63590,7 +63590,7 @@
       "numero": 1379,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Em um estudo caso-controle, a exposição a risco alimentar foi determinada pela aplicação de um questionário aos\nparticipantes contendo questões do tipo \"no último ano, com que frequência você ingeriu (alimento x): (a)\ndiariamente; (b) semanalmente; (c) ocasionalmente; (d) nenhuma vez\". Esse tipo de aferição da exposição tem o\npotencial de inserir qual tipo de viés nesse estudo?",
       "alternativas": {
         "A": "Viés de seleção.",
@@ -63619,7 +63619,7 @@
       "numero": 1380,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Regionalização e Rede de Atenção à Saúde (RAS)",
       "enunciado": "Paciente feminina, de 14 anos, pertencente à comunidade indígena Kaingang, foi trazida pela mãe à UBS, localizada no\nnorte do Rio Grande do Sul e vinculada ao Distrito Sanitário Especial Indígena (DSEI) Interior Sul. Queixava-se de dor\nna fossa ilíaca direita, iniciada há, aproximadamente, 24 horas. Ao exame físico, constatou-se dor intensa à palpação da\nfossa ilíaca direita, com rigidez abdominal e sinal de Blumberg positivo. Considerando que a principal hipótese\ndiagnóstica seja apendicite aguda, a paciente deverá ser encaminhada para avaliação cirúrgica, seguindo a organização\nda atenção à saúde dos povos indígenas vigente na Política Nacional de Atenção à Saúde dos Povos Indígenas\n(PNASPI). Com base nessa situação, assinale a assertiva correta.",
       "alternativas": {
         "A": "O médico da UBS, contratado pela Secretaria da Saúde do Estado do Rio Grande do Sul, pode telefonar e\nencaminhar a paciente para a emergência cirúrgica mais próxima.",
@@ -63647,8 +63647,8 @@
       "id": "site-pre-1381",
       "numero": 1381,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Os atributos de Atenção Primária à Saúde são classificados em essenciais e derivados. Assinale a alternativa que\ncontempla um atributo essencial e um derivado respectivamente.",
       "alternativas": {
         "A": "Acesso de primeiro contato – longitudinalidade",
@@ -63681,7 +63681,7 @@
       "numero": 1382,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Em uma população hipotética, o risco de câncer de bexiga entre tabagistas é 30/1.000 habitantes e entre pessoas\nque não fumam é 10/1.000 habitantes. Estima-se que 20% da população seja tabagista. Qual o risco de câncer de\nbexiga atribuível ao tabagismo nessa população?",
       "alternativas": {
         "A": "16/1.000 habitantes",
@@ -63710,7 +63710,7 @@
       "numero": 1383,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Nível de evidência e grau de recomendação são ferramentas importantes da Epidemiologia Clínica, pois\ncontribuem para a tomada de decisão em relação a uma intervenção médica baseada na melhor evidência\ncientífica disponível. Levando-se em conta as opções propostas abaixo, consideram-se com o melhor nível de\nevidência, de acordo com o sistema GRADE, as diretrizes baseadas em",
       "alternativas": {
         "A": "recomendações de especialistas.",
@@ -63742,8 +63742,8 @@
       "id": "site-pre-1384",
       "numero": 1384,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Idoso, 70 anos, estava realizando poda no quintal de sua casa, quando despencou da árvore e acabou vindo a óbito no local. A família acionou o médico da UBS/ESF para\norientações, visto que o idoso era acompanhado no grupo de HIPERDIA desta mesma UBS e a família suspeita que ele tenha sofrido um Infarto Agudo do Miocárdio no\nmomento do acidente. Neste caso, qual seria a conduta do médico da ESF, assim que diagnosticou o óbito?",
       "alternativas": {
         "A": "Preencher a Declaração de óbito, pois o idoso já era acompanhado pela equipe da UBS/ESF e o médico vinha prestando assistência ao paciente.",
@@ -63771,8 +63771,8 @@
       "id": "site-pre-1385",
       "numero": 1385,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Clara, uma adolescente de 16 anos, comparece à unidade básica de saúde (UBS) em busca de atendimento\nmédico. Na recepção, o atendente responsável pelo acolhimento verifica o endereço de Clara, confirma que ela\nreside na área de abrangência da UBS e a encaminha para a sala da equipe de saúde da família de sua área. Lá,\nela é atendida por uma enfermeira da equipe, que, após coletar informações sobre a queixa e sua duração, bem\ncomo aferir os sinais vitais, reconhece sinais de gravidade. Diante disso, a enfermeira aloca a paciente em uma\nmaca na sala de medicação e chama imediatamente o médico da equipe, que a atende prontamente. Clara relata\nque está sentindo dor na região hipogástrica e disúria há cerca de três dias, com uma piora gradual. Ela teve\ncalafrios durante a última noite, mas não percebeu que poderia estar com febre. A paciente está mais preocupada\ncom as dores e com um atraso menstrual. Ela não consegue fornecer a data da última menstruação, mas acredita\nque tenha ocorrido antes do nascimento de seu irmão, que hoje tem três meses. Ao realizar o exame físico, a\nequipe de saúde observa que Clara está sonolenta, febril, eupneica, sudoreica, com livedo e mal perfundida. Os\npulsos estão simétricos, as bulhas cardíacas são normofonéticas, mas a paciente apresenta taquicardia e um sopro\nsistólico. O exame abdominal revela dor à palpação na região hipogástrica. Além disso, foram identificadas\nequimoses em diferentes estágios de evolução em seu tórax e abdome. Quando questionada sobre as lesões\nequimóticas, Clara começa a chorar e pede para não abordar mais o assunto.\nTendo como base o caso acima, a política nacional de humanização, os atributos e funções da atenção primária e\nconhecimentos correlatos, julgue o item.\nMesmo com a transferência e internação em outra unidade, a UBS mantém a responsabilidade pelo cuidado de\nClara, devendo realizar ações para continuidade do tratamento, como, por exemplo, uma visita domiciliar.",
       "alternativas": {
         "A": "Certo.",
@@ -63799,7 +63799,7 @@
       "numero": 1386,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A taxa de mortalidade infantil mede o risco de morrer:",
       "alternativas": {
         "A": "no primeiro ano de vida.",
@@ -63829,7 +63829,7 @@
       "numero": 1387,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A relação entre o número de casos conhecidos de uma dada doença e a população de origem dos casos, com\nreferência a um lugar definido, multiplicado por uma potência de 10 chama-se:",
       "alternativas": {
         "A": "incidência.",
@@ -63863,7 +63863,7 @@
       "numero": 1388,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Sobre o cálculo da Razão de Mortalidade Materna (RMM), é correto afirmar que:",
       "alternativas": {
         "A": "é efetuado pela divisão do número de óbitos maternos pelo número de nascidos (vivos ou não), no mesmo período e na\nmesma localidade.",
@@ -63897,7 +63897,7 @@
       "numero": 1389,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A rapidez com que uma doença ocorre na população pode ser expressa pela taxa de:",
       "alternativas": {
         "A": "incidência",
@@ -63931,7 +63931,7 @@
       "numero": 1390,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Assinale a opção que apresenta uma doença de notificação compulsória.",
       "alternativas": {
         "A": "Ascaridíase.",
