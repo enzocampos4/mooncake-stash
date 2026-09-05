@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-08-31T00:56:21.841Z",
+  "exportado": "2026-09-05T17:02:41.739Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -128,6 +128,14 @@
         "nota": "",
         "respondida": true,
         "data": "2026-08-30T16:05:23.440Z"
+      },
+      "site-card-0062": {
+        "acertou": false,
+        "selecao": "C",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-08-31T11:11:32.669Z"
       }
     },
     "pediatria": {
@@ -659,6 +667,86 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-08-30T20:29:24.000Z",
       "modo": "questoes"
+    },
+    {
+      "id": "site-card-0062",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "BQMED (Site) — Cardiologia",
+      "timestamp": "2026-08-31T11:11:32.670Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "pv-rev-2026-1-0034",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Obstetrícia",
+      "subarea": "Doenças associadas à gestação",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-04T12:17:35.343Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0037",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Infectologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-04T12:21:29.885Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0038",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Pediatria",
+      "subarea": "Infectologia Pediátrica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-04T12:22:39.338Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0039",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Cirurgia",
+      "subarea": "Trauma",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-04T12:52:06.777Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0035",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Medicina Preventiva",
+      "subarea": "Epidemiologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-04T16:35:01.518Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0036",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Geral",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-04T16:37:01.194Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0040",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Obstetrícia",
+      "subarea": "Parto",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-04T16:41:29.311Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -670,13 +758,14 @@
     }
   },
   "streak": {
-    "count": 1,
-    "ultimo": "2026-08-30",
+    "count": 2,
+    "ultimo": "2026-08-31",
     "dias": {
       "2026-08-03": 7,
       "2026-08-05": 3,
       "2026-08-13": 1,
-      "2026-08-30": 6
+      "2026-08-30": 6,
+      "2026-08-31": 1
     }
   },
   "simulados": {
@@ -714,7 +803,14 @@
         "pv-rev-2026-1-0033": "certo",
         "pv-rev-2026-1-0028": "errado",
         "pv-rev-2026-1-0030": "certo",
-        "pv-rev-2026-1-0032": "certo"
+        "pv-rev-2026-1-0032": "certo",
+        "pv-rev-2026-1-0034": "certo",
+        "pv-rev-2026-1-0037": "certo",
+        "pv-rev-2026-1-0038": "certo",
+        "pv-rev-2026-1-0039": "certo",
+        "pv-rev-2026-1-0035": "certo",
+        "pv-rev-2026-1-0036": "certo",
+        "pv-rev-2026-1-0040": "certo"
       },
       "selecao": {
         "pv-rev-2026-1-0001": "D",
@@ -749,7 +845,14 @@
         "pv-rev-2026-1-0033": "D",
         "pv-rev-2026-1-0028": "D",
         "pv-rev-2026-1-0030": "B",
-        "pv-rev-2026-1-0032": "B"
+        "pv-rev-2026-1-0032": "B",
+        "pv-rev-2026-1-0034": "B",
+        "pv-rev-2026-1-0037": "C",
+        "pv-rev-2026-1-0038": "D",
+        "pv-rev-2026-1-0039": "D",
+        "pv-rev-2026-1-0035": "B",
+        "pv-rev-2026-1-0036": "A",
+        "pv-rev-2026-1-0040": "D"
       },
       "timerRestante": 0
     }
