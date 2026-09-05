@@ -66333,7 +66333,7 @@
       "numero": 1469,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em relação à notificação compulsória de doenças, agravos e eventos assinale a alternativa correta",
       "alternativas": {
         "A": "A imputação dos dados provenientes das notificações é realizada no Sistema de Informação de Agravos de Notificação.",
@@ -66366,7 +66366,7 @@
       "numero": 1470,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um teste de rastreamento para câncer tem 90% de sensibilidade e 80% de especificidade. Aplicado em uma\npopulação cuja prevalência da doença é de 10%, qual é a probabilidade de um teste positivo representar um\nindivíduo realmente doente?",
       "alternativas": {
         "A": "99%",
@@ -66395,7 +66395,7 @@
       "numero": 1471,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em um determinado município, no ano de 2021, a população estimada era de 100.000 homens e 100.000 mulheres. Nesse ano\nocorreram 1000 óbitos entre os homens (310 por doenças do aparelho circulatório, DAC) e 700 óbitos entre mulheres (260 por\nDAC). A partir desses dados, qual é a alternativa correta?",
       "alternativas": {
         "A": "As mulheres têm maior risco de morrer por DAC, pois o coeficiente de mortalidade proporcional é maior entre elas.",
@@ -66424,7 +66424,7 @@
       "numero": 1472,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Uma revisão sistemática investigou a associação entre consumo diário de mais de duas porções de bebida\nadoçada e mortalidade, evidenciando o risco relativo e o seu respectivo intervalo de confiança de 95% de 1,31 e\n1,15-1,50. Com base neste resultado, qual é a alternativa correta?",
       "alternativas": {
         "A": "O risco de morte entre aqueles que consumiram mais de duas porções de bebidas adoçadas foi 31%\nmaior em relação ao grupo de referência.",
@@ -66452,8 +66452,8 @@
       "id": "site-pre-1473",
       "numero": 1473,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "No dia 5 de setembro de 2021, o jogo entre Brasil e Argentina foi interrompido para fiscalizar jogadores argentinos que haviam violado regras relacionadas à Covid-19, no\nBrasil. Qual é a área da Vigilância em Saúde brasileira com poder de polícia que atuou naquele momento?",
       "alternativas": {
         "A": "Epidemiológica.",
@@ -66482,7 +66482,7 @@
       "numero": 1474,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Um rastreamento populacional pode parecer muito eficaz para um determinado tipo de câncer, mas tal achado\npode ser apenas produto de tendenciosidade que afeta a validade das conclusões. Sabendo disso, qual é a\nalternativa correta?",
       "alternativas": {
         "A": "A medida da taxa de mortalidade estrato-etária específica pelo câncer costuma ser uma maneira\nenviesada de avaliar a efetividade do rastreamento.",
