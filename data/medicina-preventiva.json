@@ -18962,7 +18962,8 @@
       "dificuldade": "Media",
       "imagens": [],
       "imagens_explicacao": [
-        "data/questoes-img/rv2026-1-007_23_76.jpeg"
+        "data/questoes-img/rv2026-1-007_23_76.jpeg",
+        "data/questoes-img/rv2026-1-007_24_79.jpeg"
       ],
       "_id_original": "4000281694",
       "_pdf": "5. Provas Anteriores Revalida INEP.pdf"
@@ -19067,12 +19068,11 @@
       "ano": 2026,
       "dificuldade": "Media",
       "imagens": [],
-      "imagens_explicacao": [],
-      "_id_original": "4000281666",
-      "_pdf": "5. Provas Anteriores Revalida INEP.pdf",
-      "imagens_enunciado": [
+      "imagens_explicacao": [
         "data/questoes-img/rv2026-1-035_87_244.jpg"
-      ]
+      ],
+      "_id_original": "4000281666",
+      "_pdf": "5. Provas Anteriores Revalida INEP.pdf"
     },
     {
       "id": "pv-rev-2026-1-0049",
@@ -59482,7 +59482,7 @@
       "numero": 1247,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "É vedado ao médico",
       "alternativas": {
         "A": "assumir emprego, cargo ou função para suceder médico demitido ou afastado em represália à atitude de\ndefesa de movimentos legítimos da categoria, salvo exceções.",
@@ -59512,7 +59512,7 @@
       "numero": 1248,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Termo de Consentimento Livre e Esclarecido (TCLE)",
       "enunciado": "6. É vedado ao médico",
       "alternativas": {
         "A": "deixar de obter consentimento do paciente ou de seu representante legal após esclarecê-lo sobre o\nprocedimento a ser realizado, salvo em caso de risco iminente de morte.",
@@ -59542,7 +59542,7 @@
       "numero": 1249,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "Com relação às atribuições da direção estadual do SUS, assinale a alternativa CORRETA.",
       "alternativas": {
         "A": "Controlar e fiscalizar os procedimentos dos serviços privados de saúde",
@@ -59570,8 +59570,8 @@
       "id": "site-pre-1250",
       "numero": 1250,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "Existem várias definições do que sejam os determinantes sociais de saúde (DSS) e todas trazem a ideia de que\n\"as condições de vida e trabalho dos indivíduos e de grupos da população estão relacionadas com sua situação de\nsaúde\". O modelo de Dahlgren e Whitehead dispõe os DSS em camadas superpostas. Constitui camada do\nmodelo:",
       "alternativas": {
         "A": "Características fenotípicas dos indivíduos",
@@ -59606,8 +59606,8 @@
       "id": "site-pre-1251",
       "numero": 1251,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "",
       "enunciado": "Com relação à organização da atenção à saúde dos trabalhadores no Brasil é CORRETO afirmar:",
       "alternativas": {
         "A": "A integralidade na atenção à saúde do trabalhador deve ser garantida por meio de ações de saúde do trabalhador\nem todos os pontos da Rede de Atenção à Saúde do SUS",
@@ -59635,8 +59635,8 @@
       "id": "site-pre-1252",
       "numero": 1252,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "Os agentes comunitários de saúde (ACS) são profissionais que desempenham papel fundamental na estratégia de\nsaúde da família. Assinale a alternativa que apresenta uma atribuição específica de um ACS, de acordo com o\nPrograma Nacional de Atenção Básica.",
       "alternativas": {
         "A": "Coordenar o acolhimento de pacientes na Unidade Básica de Saúde.",
@@ -59665,7 +59665,7 @@
       "numero": 1253,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O financiamento do Sistema Único de Saúde (SUS) é regido pela legislação por meio de dispositivos legais. A\ngestão financeira é definida na Lei n.º 8.080, de 19 de setembro de 1990. Assinale a alternativa que apresenta um\ncritério adotado pelo SUS para o estabelecimento de valores a serem transferidos aos Estados, Distrito Federal e\nMunicípios.",
       "alternativas": {
         "A": "Previsão do plano semestral de investimentos da rede.",
@@ -59694,7 +59694,7 @@
       "numero": 1254,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "O modelo de três níveis de prevenção foi proposto por Leavell & Clark na década de 1970, relacionando atividade\nmédica e saúde pública nas várias fases da história natural da doença. Paciente do sexo feminino, 22 anos de\nidade, está em sua segunda gestação e é atendida em uma consulta de pré-natal em uma Unidade Básica em\nSaúde. Nesse atendimento ela é encaminhada para a imunização antitetânica, recebe orientações quanto à\nalimentação e a evitar fumo e álcool e obtém solicitações de exames para detecção de Sífilis, HIV, toxoplasmose e\nHepatite B. Com relação ao quadro clínico descrito acima, assinale a alternativa que apresenta a relação correta\nentre o nível de prevenção e a ação realizada durante essa consulta de pré-natal.",
       "alternativas": {
         "A": "Nível: prevenção primária. Ação realizada: imunização antitetânica.",
@@ -59723,7 +59723,7 @@
       "numero": 1255,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "O Sistema Único de Saúde (SUS) é organizado e regido pela Lei n.º 8.080, de 19 de setembro de 1990, que\ncompletou 30 anos de existência em 2020 e tem sido essencial para o enfrentamento à pandemia da Covid-19.\nAssinale a alternativa que apresenta dois princípios organizativos do SUS, de acordo com o Ministério da Saúde.",
       "alternativas": {
         "A": "Hierarquização e equidade.",
@@ -59758,7 +59758,7 @@
       "numero": 1256,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "O Ministério da Saúde publicou a Lista Nacional de Notificação Compulsória de Doenças, Agravos e Eventos de Saúde Pública, que deve ser seguida nos serviços de saúde\npúblicos e privados em todo o território nacional. A Lista é atualizada periodicamente, conforme a situação epidemiológica do país. Assinale a alternativa que apresenta uma\ndoença ou evento que deve ser notificado compulsoriamente à Secretaria Municipal de Saúde e a sua periodicidade de notificação correta, de acordo com a Lista Nacional de\nNotificação Compulsória de Doenças, Agravos e Eventos de Saúde Pública.",
       "alternativas": {
         "A": "Os casos de Covid-19 devem ser notificados em até 24 horas.",
@@ -59787,7 +59787,7 @@
       "numero": 1257,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um teste com sensibilidade de 90% e especificidade de 80% é utilizado para rastreamento de uma população cuja\nprevalência da doença é 2%. A proporção de verdadeiros negativos entre as pessoas sadias é de,\naproximadamente:",
       "alternativas": {
         "A": "2%",
@@ -59817,7 +59817,7 @@
       "numero": 1258,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Lei 8.080/90 e 8.142/90",
       "enunciado": "De acordo com a Lei 8080/90, que regula as ações e serviços de saúde no Brasil, à direção estadual do Sistema\nÚnico de Saúde (SUS) não compete:",
       "alternativas": {
         "A": "Prestar apoio técnico e financeiro aos municípios.",
