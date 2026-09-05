@@ -62098,8 +62098,8 @@
       "id": "site-pre-1331",
       "numero": 1331,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Adriele, de 19 anos, vem para atendimento em seu horário de demanda espontânea. Muito abalada e chorosa, ela refere ter sofrido violência sexual por parte do ex-\ncompanheiro, de quem se separou durante gestação. Refere que o episódio aconteceu há um dia. É puérpera, com lactente de dois meses. Sua caderneta de\nacompanhamento mostra estado vacinal completo e atualizado, além de sorologias para ISTs negativas. Está em uso de suplementação de ferro e com anticoncepcional com\nprogestágeno isolado. Assinale a alternativa correta em relação à notificação de violência nesse caso.",
       "alternativas": {
         "A": "A notificação é compulsória e deve ser feita após a apresentação do Boletim de Ocorrência (B.O) pela paciente.",
@@ -62128,7 +62128,7 @@
       "numero": 1332,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Você e sua equipe de saúde decidiram investigar os casos de crianças sintomáticas respiratórias de sua área,\ndepois do relato de uma usuária sobre a alta taxa de absenteísmo infantil escolar. Vocês decidem aplicar um\ninstrumento validado para todas as faixas etárias de identificação de casos sugestivos de asma brônquica em\nsintomáticos respiratórios. O teste tinha especificidade de 60% e sensibilidade de 80%. A amostra de crianças na\nárea é de 400 e a prevalência sabida de crianças asmáticas entre crianças sintomáticas respiratórias é de 20%.\nAssinale a alternativa que traz respectivamente o valor preditivo positivo e a acurácia do teste.",
       "alternativas": {
         "A": "16% e 48%.",
@@ -62157,7 +62157,7 @@
       "numero": 1333,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Você e sua equipe de saúde decidiram investigar os casos de crianças sintomáticas respiratórias de sua área,\ndepois do relato de uma usuária sobre a alta taxa de absenteísmo infantil escolar. Vocês decidem aplicar um\ninstrumento validado para todas as faixas etárias de identificação de casos sugestivos de asma brônquica em\nsintomáticos respiratórios, mas, inicialmente, aplicam o teste em uma amostra da população adulta da área, em\nque a prevalência da asma é sabida de 10%. O teste tinha especificidade de 60% e sensibilidade de 80%. Após a\nequipe se familiarizar com o instrumento, é feita uma nova reunião para os últimos alinhamentos antes da nova\netapa da intervenção, em que o questionário seria aplicado na população infantil. Os dados do município apontam\numa prevalência de 20% de crianças asmáticas entre as crianças com sintomas respiratórios crônicos. A sua\nequipe, no entanto, questiona a validade do instrumento na aplicação em uma população diferente e também\nindaga sobre o que esperar dos resultados do novo teste. Assinale a alternativa que traz a assertiva correta sobre\nas características de validação do teste diagnóstico e os fatores que influenciam seus valores preditivos",
       "alternativas": {
         "A": "O questionário não pode ser aplicado na amostra de crianças, pois não se sabe a especificidade e a\nsensibilidade do teste nessa nova amostra.",
@@ -62186,7 +62186,7 @@
       "numero": 1334,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Sua equipe de saúde decide aplicar um questionário para identificação de casos sugestivos de asma brônquica em\ngrupos de sintomáticos respiratórios, após o relato de uma usuária de que havia alta taxa de absenteísmo escolar\nde crianças com quadros respiratórios. Para se familiarizar com o instrumento, a equipe decide por inicialmente\naplicar o questionário em uma amostra representativa da população adulta da área. A amostra continha 200\nadultos sintomáticos respiratórios e era sabida uma prevalência de 10% de asma nessa população. O teste\ndiagnóstico tinha especificidade de 60% e sensibilidade de 80%. Assinale a alternativa que indica corretamente a\nacurácia do instrumento aplicado.",
       "alternativas": {
         "A": "18,2%",
@@ -62214,8 +62214,8 @@
       "id": "site-pre-1335",
       "numero": 1335,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "“Você e sua equipe de saúde iniciam a busca de contactantes de Tales, após o diagnóstico de tuberculose\npulmonar nele e de ILTB em Lana, sua sobrinha. A partir do conceito de níveis de prevenção em saúde, a busca de\ncontactantes assintomáticos está abrangido no nível de prevenção _________, enquanto que a investigação\nclínica com exames complementares nos contactantes que apresentam sintomas respiratórios está abrangida no\nnível de prevenção ______________.” \nAssinale a alternativa que completa corretamente e respectivamente as lacunas do texto acima.",
       "alternativas": {
         "A": "primária / secundária.",
@@ -62250,7 +62250,7 @@
       "numero": 1336,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Durante o acompanhamento clínico de Tales pelo quadro de tosse crônica, o médico de família assistente\nidentificou outras questões, tais como o fumo recorrente e o sofrimento mental associado ao contexto em que\nTales estava inserido. O acompanhamento de saúde se deu considerando todos os aspectos biopsicossociais de\nTales, sem esquecer de que ele coabitava com Lana, sua sobrinha de 3 anos, que estava em acompanhamento\npor ILTB e apresentava piora dos sintomas respiratórios devido ao tabagismo de Tales. Assinale a alternativa que\ntraz o princípio doutrinário do SUS representado nesse caso clínico.",
       "alternativas": {
         "A": "Equidade.",
@@ -62282,8 +62282,8 @@
       "id": "site-pre-1337",
       "numero": 1337,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Em uma das consultas de acompanhamento por seu quadro de sofrimento mental, Tales questiona a origem dos\nseus sintomas ansiosos. Inicialmente, você começa a explicar o quadro clínico utilizando jargões médicos e termos\ntécnicos, mas percebe que Tales encontra-se inquieto e com dificuldade de acompanhar seu discurso. Você, então,\nmuda o vocabulário do seu discurso, utilizando expressões mais próximas da realidade psicossocial de Tales. O\natendimento é concluído com Tales satisfeito com uma melhor compreensão de seu próprio processo de\nadoecimento. Assinale a alternativa sobre o Atributo da Atenção Primária contemplado na postura do médico.",
       "alternativas": {
         "A": "Acesso.",
@@ -62315,8 +62315,8 @@
       "id": "site-pre-1338",
       "numero": 1338,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Lana, de 3 anos, é trazida para atendimento na UBS por sua avó, dona Benzarina. A avó relata que a criança falta\nrecorrentemente à escola por “estar sempre gripada”. Queixa-se de que “a menina está sempre com nariz\nescorrendo e tossindo”, que “toda noite ela dorme mal, com crises de tosse”, que “a menina está tossindo todos o\ndias há pelo menos um mês uma tosse seca horrível”, que “o tempo não pode mudar que a criança começa a\nespirrar e tossir” e que “só esse ano ela já precisou ficar internada três vezes por gripe mal curada”. Dona\nBenzarina refere que muitas crianças da escola de Lana também têm faltado à escola desde a instalação de uma\nfábrica de tijolos na comunidade. Por fim, relata que o quadro piorou desde que Tales, tio de Lana, voltou a morar\ncom elas depois de cumprir pena de privação provisória de liberdade. Tales apresenta sintomas semelhantes e\nfuma todos os dias. \nAssinale a alternativa que traz a denominação do fenômeno de saúde pública impactando no processo\nsaúdedoença de Lana, relatado por sua avó.",
       "alternativas": {
         "A": "Redes de Atenção à Saúde.",
@@ -62352,7 +62352,7 @@
       "numero": 1339,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Lana, de 3 anos, é trazida para atendimento na UBS por sua avó, dona Benzarina. A avó relata que a criança falta recorrentemente à escola por “estar sempre gripada”.\nQueixa-se de que “a menina está sempre com nariz escorrendo e tossindo”, que “toda noite ela dorme mal, com crises de tosse”, que “a menina está tossindo todos o dias há\npelo menos um mês uma tosse seca horrível”, que “o tempo não pode mudar que a criança começa a espirrar e tossir” e que “só esse ano ela já precisou ficar internada três\nvezes por gripe mal curada”. Dona Benzarina refere que muitas crianças da escola de Lana também têm faltado à escola desde a instalação de uma fábrica de tijolos na\ncomunidade. \nAssinale a alternativa que traz o eixo da Vigilância em Saúde correspondente ao caso relatado.",
       "alternativas": {
         "A": "Vigilância Sanitária.",
@@ -62380,8 +62380,8 @@
       "id": "site-pre-1340",
       "numero": 1340,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "Segundo o modelo da História Natural das Doenças e Níveis de Prevenção de Leavell e Clark caracteriza-se como\nprevenção secundária a seguinte ação de saúde.",
       "alternativas": {
         "A": "Reabilitação.",
@@ -62411,7 +62411,7 @@
       "numero": 1341,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "O modelo assistencial em saúde no Brasil, a partir da década de 1990 passou a ser considerado como modelo, um\nsistema",
       "alternativas": {
         "A": "liberal.",
@@ -62440,8 +62440,8 @@
       "id": "site-pre-1342",
       "numero": 1342,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "História do SUS",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "A criação do Sistema Único de Saúde foi precedida por ampla discussão sobre o modelo assistencial em saúde no\nBrasil pelo Movimento da Reforma Sanitária. Conceitualmente os ideólogos da Reforma Sanitária defendiam",
       "alternativas": {
         "A": "a história natural das doenças.",
