@@ -60558,7 +60558,7 @@
       "numero": 1283,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Em relação às epidemias, é correto afirmar que",
       "alternativas": {
         "A": "a dinâmica é determinada pelas características da localidade, variabilidade das cepas e padrão de\nresistência aos antimicrobianos.",
@@ -60588,7 +60588,7 @@
       "numero": 1284,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Em relação ao Pacto pela Saúde, é correto afirmar que",
       "alternativas": {
         "A": "a principal crítica a este pacto é a ausência de uma proposição que vise à criação de espaços\npermanentes de pactuação e cogestão solidária e cooperativa por meio de um Colegiado de Gestão\nRegional.",
@@ -60622,7 +60622,7 @@
       "numero": 1285,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Em relação aos princípios e diretrizes da Política Nacional de Promoção da Saúde, constitui um dos seus principais\nobjetivos específicos:",
       "alternativas": {
         "A": "aplicar ações de aconselhamento dentro do sistema público nacional, buscando incorporar e sedimentar as\nvantagens e os benefícios de estilos de vida saudáveis.",
@@ -60651,8 +60651,8 @@
       "id": "site-pre-1286",
       "numero": 1286,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Territorialização e adscrição de clientela",
       "enunciado": "O Sistema de Informação da Atenção Básica foi desenvolvido como instrumento gerencial dos sistemas locais de saúde e está completamente inserido no contexto de\nreorganização do SUS no país, o que fez com que assumisse características distintas dos demais sistemas existentes. Tais características significaram avanços concretos no\ncampo da informação em saúde. \nDentre elas, destaca(m)-se:",
       "alternativas": {
         "A": "avaliação de intervenções com a utilização mais ágil e oportuna da informação na atenção básica e microespacialização de problemas de saúde e de intervenções.",
@@ -60682,7 +60682,7 @@
       "numero": 1287,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Controle social e participação popular",
       "enunciado": "A respeito da atenção básica e participação social na atenção primária à saúde, é correto afirmar que",
       "alternativas": {
         "A": "o maior desafio que se coloca é a criação de uma eficiente rede de informação e comunicação dos\nindicadores de saúde regionais, uma vez que as políticas nacionais de saúde são essenciais no combate\nà desigualdade econômica.",
@@ -60716,7 +60716,7 @@
       "numero": 1288,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Marcos Legais do SUS (Leis 8.080-90 e 8.142-90)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Em relação ao Pacto pela Saúde dentro do Sistema Único de Saúde (SUS), assinale a alternativa correta.",
       "alternativas": {
         "A": "Caracteriza-se pelo conjunto articulado e contínuo das ações e serviços curativos e assistenciais,\nindividuais e coletivos, exigidos para cada caso, em nível de atendimento hospitalar.",
@@ -60746,7 +60746,7 @@
       "numero": 1289,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "A Constituição Federal estabelece que as ações e serviços públicos de saúde integram uma rede regionalizada e\nhierarquizada e constituem um sistema único, tendo como uma de suas diretrizes o atendimento integral com",
       "alternativas": {
         "A": "exclusividade para as ações de assistência.",
@@ -60776,7 +60776,7 @@
       "numero": 1290,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Considerando o Sistema de Informação em Saúde, assinale a alternativa correta.",
       "alternativas": {
         "A": "A declaração de nascido vivo é um documento oficial e padronizado em todo território nacional para lavratura da certidão de nascimento pelos cartórios de registro\ncivil e, portanto, para a garantia dos direitos de cidadania.",
@@ -60810,7 +60810,7 @@
       "numero": 1291,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "A equipe multiprofissional de um hospital deseja criar um grupo de mensagens eletrônicas para a discussão de\ncasos clínicos que envolvam diagnósticos e tratamentos dos pacientes atendidos nessa unidade de saúde, sem\nrevelar dados pessoais deles.\nCom base no Código de Ética Médica, assinale a opção correta.",
       "alternativas": {
         "A": "A criação de grupos de mensagens eletrônicas, mesmo que inclua apenas médicos, não é ética, pelo\nrisco de quebra do sigilo.",
@@ -60839,7 +60839,7 @@
       "numero": 1292,
       "area": "Medicina Preventiva",
       "subarea": "Ética Médica",
-      "sub_subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Você trabalha como médico em uma Unidade Básica de Saúde do interior desde que terminou sua Residência em\nMedicina de Família e Comunidade, há cerca de 4 anos. Ao longo desse tempo, criou vínculos com a comunidade\ne acompanhou diversas famílias. Ao final do dia de atendimento, quando estava de saída, você é abordado por\nDona Terezinha, paciente pertencente a sua equipe, esposa do Sr.Galvão, também seu paciente, falecido há 1\nano em decorrência de um acidente automobilístico. Ela solicita acesso ao prontuário do marido, alegando ter\ndireito às informações médicas do esposo.\nDiante dessa situação, tendo por base o Código de Ética Médica (CEM) do Conselho Federal de Medicina (CFM)\ndo Brasil, qual deverá ser sua conduta?",
       "alternativas": {
         "A": "Oferecer acesso ao prontuário, já que se trata de solicitação do cônjuge.",
@@ -60867,8 +60867,8 @@
       "id": "site-pre-1293",
       "numero": 1293,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Comunicação de Acidente de Trabalho (CAT)",
       "enunciado": "Homem, 49 anos, motorista de caminhão, se envolveu em um acidente enquanto trabalhava, sofreu fraturas múltiplas, foi internado e submetido à cirurgia. Evoluía\nadequadamente, mas adquiriu infecção hospitalar, vindo a falecer, 12 dias depois, por septicemia no CTI. Considerando os dados disponíveis, assinale a alternativa que\napresenta CORRETAMENTE a causa básica da morte e quem deve fornecer a Declaração de Óbito.",
       "alternativas": {
         "A": "Septicemia e o IML.",
@@ -60897,7 +60897,7 @@
       "numero": 1294,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Alunos do quinto período do curso de Medicina realizaram um inquérito para conhecer o perfil de morbidade do\ncorpo docente da universidade, utilizando um questionário auto referido de condições de saúde. Identificaram a\nexistência de 10 casos de hipertensão, e 3 casos de diabetes dentre os 50 professores que lecionavam naquele\nperíodo. \nPara descrever os resultados deste estudo, deve ser utilizada a seguinte medida:",
       "alternativas": {
         "A": "incidência",
