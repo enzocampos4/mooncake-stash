@@ -65228,8 +65228,8 @@
       "id": "site-pre-1433",
       "numero": 1433,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Homem de 72 anos de idade acompanhado por você há vários anos na Unidade Básica de Saúde por HAS e insuficiência cardíaca. O paciente estava em tratamento\nquimioterápico em um centro oncológico por adenocarcinoma avançado de cólon com metástase. Nesse contexto, o paciente teve dispneia súbita e intensa, sendo levado ao\nhospital de sua cidade e falecendo por insuficiência respiratória por tromboembolismo pulmonar, a despeito da assistência que recebeu no hospital.\nQuem é o responsável por preencher a declaração de óbito (DO) do paciente? Em quantas vias a DO deve ser preenchida?",
       "alternativas": {
         "A": "Médico(a) do Serviço de Verificação de Óbitos, pois o paciente deve ser encaminhado para este serviço, a fim de atestar o óbito. Deve ser preenchida em duas\nvias.",
@@ -65262,7 +65262,7 @@
       "numero": 1434,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "O modelo biomédico tradicional sofreu uma das grandes quebras de seu paradigma com o raciocínio diagnóstico\nbayesiano que difere do diagnóstico",
       "alternativas": {
         "A": "determinístico por considerar, para estabelecer um diagnóstico, a interação entre o resultado de um teste\ne a probabilidade pré-teste, esta última, que geralmente será igual a prevalência da doença no meio.",
@@ -65291,7 +65291,7 @@
       "numero": 1435,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "",
       "enunciado": "De acordo com o livro Medicina Ambulatorial: Condutas de Atenção Primária Baseadas em Evidências, Duncan, B.\nB., et al., (2022), o número necessário para tratar (NNT) das terapêuticas direcionadas para redução do risco de\nfraturas são mostrados na tabela a seguir.\nUtilizando os dados da tabela e se valendo do conhecimento acerca da aplicabilidade da Medicina Baseada em\nEvidências (MBE) no tópico do Tratamento, dos aspectos do Método Clínico Centrado na Pessoa (MCCP), bem\ncomo, do tratamento da Osteoporose um médico pode,",
       "alternativas": {
         "A": "sugerir ao paciente que opte pela vitamina D + cálcio pelo seu alto NNT na prevenção da fratura de\nquadril (importante causa de morbimortalidade nos idosos), na impossibilidade financeira do paciente\nadquirir bisfosfonato e vitamina D + cálcio.",
@@ -65323,8 +65323,8 @@
       "id": "site-pre-1436",
       "numero": 1436,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "O Registro de saúde orientado por problemas tem sido empregado em diversos sistemas de atenção primária à saúde no mundo. A sistematização da lista de problemas e do\nmétodo SOAP proporciona um melhor acompanhamento longitudinal destes pacientes. Neste contexto, deve-se descrever no campo",
       "alternativas": {
         "A": "“A” as hipóteses diagnósticas não confirmadas acrescentando o termo “suspeita de” e o sinal de interrogação entre parênteses.",
@@ -65356,8 +65356,8 @@
       "id": "site-pre-1437",
       "numero": 1437,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Letramento funcional em saúde (health literacy) é um termo introduzido na década de 1970 e de importância\ncrescente na saúde pública e nos cuidados em saúde. Descrito como a capacidade dos indivíduos para obter,\nprocessar, entender e colocar em prática informações em saúde, esse conceito alerta sobre a necessidade dos\nprofissionais de saúde utilizarem técnicas de comunicação que propiciem melhor entendimento e maior autonomia\naos pacientes. Uma das estratégias utilizadas para aumentar o letramento da população é utilizar a técnica Ask Me\nThree, que encoraja o paciente a perguntar e o profissional a responder três questionamentos básicos, em toda\nconsulta. Esses três questionamentos recomendados por essa técnica são:",
       "alternativas": {
         "A": "Qual é o tratamento que farei em casa?; Quais são os sinais de alerta da minha condição? e Quem eu\ndevo procurar em caso de piora?",
@@ -65386,7 +65386,7 @@
       "numero": 1438,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O programa Previne Brasil foi instituído pela Portaria n. 2.979, de 12 de novembro de 2019. O novo modelo de\nfinanciamento altera algumas formas de repasse das transferências para os municípios, que passam a ser\ndistribuídas com base em critérios como o pagamento por desempenho. Nesse componente, a definição do valor a\nser transferido depende dos resultados alcançados no conjunto de indicadores monitorados e avaliados no trabalho\ndas equipes que atuam na Atenção Primária à Saúde (APS). É exemplo de um indicador monitorado pelo programa\nmencionado no texto:",
       "alternativas": {
         "A": "o número de consultas de puericultura no primeiro ano de vida da criança.",
