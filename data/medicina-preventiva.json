@@ -65784,7 +65784,7 @@
       "numero": 1451,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A Declaração de Óbito deve ser emitida na seguinte situação:",
       "alternativas": {
         "A": "quando a criança nascer viva e morrer logo após o nascimento, independentemente da duração da gestação, do peso do recém-nascido e do tempo que tenha\npermanecido vivo.",
@@ -65813,7 +65813,7 @@
       "numero": 1452,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A Curva de Nelson de Moraes representa graficamente a mortalidade proporcional por idade e expressa o nível de saúde de uma\npopulação. Assinale a alternativa que apresenta a correlação correta de cada curva ao nível de saúde: muito baixo, baixo, regular\ne elevado, conforme as figuras.",
       "alternativas": {
         "A": "D, C, A e B.",
@@ -65856,7 +65856,7 @@
       "numero": 1453,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva Parte II - Indicadores de Mortalidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A taxa ou coeficiente de mortalidade materna de uma localidade e período definidos é expressa por uma razão matemática em\nque o denominador é",
       "alternativas": {
         "A": "o número de nascidos vivos.",
@@ -65889,7 +65889,7 @@
       "numero": 1454,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Vigilância em Saúde",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Assinale a alternativa correta quanto à ação de vigilância em saúde pública que pode ser considerada como uma estratégia de vigilância passiva.",
       "alternativas": {
         "A": "Busca de casos do evento sujeito à vigilância em amostra preconcebida de um grupo populacional.",
@@ -65918,7 +65918,7 @@
       "numero": 1455,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "A.M.S, que vinha fazendo pré-natal de rotina na UBS, com 34 semanas de gestação, chega na Unidade com queixa de \"não estar sentindo a criança mexer\" há um dia. Ao\nser examinada, não foi auscultado batimentos cardíacos fetais. A gestante foi encaminhada imediatamente para o hospital de referência, sendo submetida à cesárea. O feto\nnão apresentava nenhum sinal vital e várias circulares apertadas de cordão. Pesou 3000g. Como você classificaria este Óbito Fetal? Qual a causa imediata e a causa básica\nque devem constar da Declaração de Óbito.",
       "alternativas": {
         "A": "Óbito Fetal Tardio. Causa Terminal ou Imediata: Anóxia intrauterina. Causa Básica: Circular de cordão umbilical.",
@@ -65946,8 +65946,8 @@
       "id": "site-pre-1456",
       "numero": 1456,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "M A, 55 anos, chega à Unidade Básica de Saúde do seu bairro, referindo dor crônica no corpo todo, com mais\nintensidade na região cervical, braços e pernas. Refere fraqueza, desânimo e que não consegue dormir. Tem o sono\nleve. Quando dorme, acorda com pesadelos. Refere cefaleia e tem medo de ter um derrame (sic). É mãe de dois\nfilhos e uma filha. - \"O mais novo, de oito anos, voltou a fazer xixi na cama e não está indo bem na escola. Minha\nfilha anda muito esquisita, só quer ficar trancada no quarto, chora muito e não come. Minha sogra, de 85 anos,\nmora em casa, é acamada e eu cuido dela sozinha. Meu marido está desempregado há dois anos, vive de empreita\ne está bebendo muito. Gostaria de fazer uma tomografia da cabeça para saber se não estou com alguma doença\nno cérebro\". Perguntada sobre os hematomas que ela tem no braço, respondeu que caiu e bateu com o corpo na\nmesa. \"Não é nada, já passou\". Depois de ouvir a história e examinar Maria Antônia, o Dr°. Gabriel Faria de Mattos,\nsolicitou uma tomografia, a encaminhou para a psiquiatria, com a justificativa de \"poliqueixosa\" e sintomas\ndepressivos. Receitou ciclobenzaprina, para o tratamento de fibromialgia. Pesquisa realizadas por Schraiber, L.B. et\nal, sobre violência contra mulheres entre usuárias de saúde da Grande São Paulo (2007), encontrou 52,9% de\nmulheres entre 15 a 49 anos referindo alguma forma de violência doméstica. No entanto, das que relataram ter\nsofrido alguma violência doméstica na vida, somente 3,8% tiveram registros em seus prontuários. Baseado nesta\nhistória real, nos dados da pesquisa, nos princípios e diretrizes da Atenção Básica, na Portaria Ministerial que trata\ndas doenças, agravos e eventos de notificação compulsória, escolha a alternativa que aponta o que não foi\nconsiderado e negligenciado na consulta feita pelo profissional da Atenção Primária.",
       "alternativas": {
         "A": "Longitudinalidade do cuidado, universalidade, humanização, equidade, cuidado centrado na pessoa,\nidentificação do risco e não notificação da violência doméstica, caso houvesse confirmação.",
@@ -65975,8 +65975,8 @@
       "id": "site-pre-1457",
       "numero": 1457,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Mulher com 32 anos reside no território de uma das Unidades Básica de Saúde (UBS), onde é atendida pelo Médico de Família fazendo o pré-natal da 3a gestação. A idade\ngestacional atual é de 32 semanas, evoluiu com Diabetes Mellitus Gestacional (DMG) a partir do final do 2º trimestre. Refere que na 1a gestação não teve problemas durante\no pré-natal e também boa evolução para parto vaginal de sua filha que hoje está com 3 anos, nasceu com 4200 kg saudável e com bom desenvolvimento, porém na 2ª\ngestação refere que teve 1 aborto. Tem história familiar de diabetes mellitus; tem exames de sangue com glicose alterada antes da gravidez; excesso de peso durante a\ngravidez; tem hipertensão arterial. Entrou em trabalho de parto em casa, onde a criança nasceu, com o auxílio da vizinha, porém a criança apresentou choro fraco com\ndificuldade para respirar e logo foi a óbito. Após o parto a vizinha chamou o médico de família que atende a gestante. Qual alternativa abaixo é a correta, em relação a\nDeclaração de Óbito (DO) do recém-nascido e as demais orientações,",
       "alternativas": {
         "A": "Após ser providenciada Certidão de Nascimento do recém nascido classificado como nascido vivo, o médico pode emitir a DO sem verificar pessoalmente o recém -\nnascido, considerando-se que prestava assistência médica a paciente gestante, conhecendo o quadro clínico nos últimos meses, bem como o seu prognóstico;",
@@ -66009,7 +66009,7 @@
       "numero": 1458,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "No mês de maio de 2023, foi publicado o estudo CRICS-TriGGERSep, que objetivava avaliar o papel do uso de\nglicocorticoides em pacientes com pneumonia grave. Nesse estudo 800 pacientes diagnosticados com pneumonia\ncomunitária grave e admitidos em unidade de terapia intensiva foram alocados de forma aleatória para receber\nHidrocortisona 200mg por dia por 4 a 7 dias ou então uma solução de placebo. Todos os pacientes receberam a\nterapia padrão, incluindo o tratamento de suporte clínico e antibióticos. Os resultados evidenciaram que que no dia\n28 de acompanhamento 6,2% (25 de 400 pacientes) dos pacientes no grupo hidrocortisona haviam evoluído para\nóbito enquanto no grupo placebo 11,9% (47 de 395 pacientes) tiveram o mesmo desfecho. A diferença entre a\nintervenção e o controle foi de -5,6 pontos percentuais (IC 95% -9,6 a -1,7; p=0,006).\nLegenda: IC 95% = Intervalo de Confiança de 95%\nRef: N Engl J Med 2023; 388:1931-1941\nSobre esse estudo, responda às perguntas a seguir.\nConsiderando os dados apresentados, aproximadamente quantos pacientes precisariam ser tratados com\nhidrocortisona para prevenir 1 óbito?",
       "alternativas": {
         "A": "25.",
@@ -66038,8 +66038,8 @@
       "id": "site-pre-1459",
       "numero": 1459,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Políticas de Saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Vacinas são fundamentais para garantir a saúde individual e coletiva, além de prevenir doenças infecciosas. No entanto,\npara uma cobertura vacinal relevante é necessário planejamento. Sobre os fatores desafiadores em ambientes urbanos,\nassinale a alternativa que apresenta o principal desafio a ser enfrentado pelos gestores.",
       "alternativas": {
         "A": "Disponibilidade de recursos.",
@@ -66068,7 +66068,7 @@
       "numero": 1460,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "As contínuas transformações do Estado brasileiro, atendendo aos preceitos constitucionais, demandam constante\nreformulação das estratégias dos processos de diálogo e de pactuação entre os entes federados, que refletem\nsignificativamente na gestão das políticas e dos serviços públicos de saúde no Brasil. Mecanismos de coordenação e\ncooperação intergovernamental tornam-se indispensáveis para a efetiva implementação das políticas públicas. Sobre os\ninstrumentos de Planejamento do SUS é correto afirmar:",
       "alternativas": {
         "A": "O Plano Nacional de Saúde é o instrumento balizador para o planejamento, monitoramento e avaliação das\npolíticas e programas do Ministério da Saúde. Ele deve orientar a atuação da esfera federal em sua coordenação\ndo Sistema Único de Saúde, estabelecendo as diretrizes, prioridades, metas e indicadores para o ano vigente.",
@@ -66097,7 +66097,7 @@
       "numero": 1461,
       "area": "Medicina Preventiva",
       "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "sub_subarea": "Programas de saúde (hipertenso, diabético, criança, mulher)",
       "enunciado": "Um médico trabalha em um município e é responsável por organizar a atenção básica em saúde. Ele deseja\nimplantar um programa de prevenção de doenças crônicas não transmissíveis, como diabetes e hipertensão,\nvisando melhorar a saúde da população local. Para isso, ele identifica a necessidade de implementar intervenções\nde promoção da saúde. Qual das opções abaixo representa uma intervenção de promoção da saúde apropriada\npara esse programa?",
       "alternativas": {
         "A": "Realizar palestras educativas sobre os riscos do tabagismo e incentivar a cessação do hábito.",
@@ -66126,7 +66126,7 @@
       "numero": 1462,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Descentralização e regionalização do SUS",
+      "sub_subarea": "Princípios e diretrizes do SUS",
       "enunciado": "Instituído pela Constituição Federal de 1988 é fruto do movimento da Reforma Sanitária, o Sistema Único de Saúde (SUS) foi\nregulamentado em 1990 e define a saúde como direito de todo cidadão e dever do Estado. A fim de operacionalizar a política\npública, foram definidas atribuições dos trabalhadores, gestores, prestadores de serviços e membros dos conselhos\ndeliberativos, visando sua efetivação. Para tanto, no SUS há três níveis de gestão: federal, estadual e municipal, sendo eles\nregidos por legislações e portarias específicas que determinam as tomadas de decisão de cada ente federativo e a\nimplementação de ações em cada território. O quadro sanitário e a diversidade dos contextos dos municípios, regiões e\nestados brasileiros conferem à gestão do SUS uma notável complexidade, bastante desafiadora para aqueles que dela se\nocupam, imbuídos da tarefa de construir uma sociedade mais justa e igualitária; Considerando o texto acima e baseado em\nseus conhecimentos acerca da gestão do SUS, avalie as asserções a seguir:\nI. O gestor municipal de saúde, é o indivíduo com atribuições conferidas por lei, para implementar as ações do SUS no\nterritório sob sua gestão, aplicar os recursos financeiros de acordo com as características sociais, de desenvolvimento e de\nperfil de morbimortalidade da região.\nII. Compete à direção municipal do SUS definir e coordenar os sistemas de redes integradas de assistência de alta\ncomplexidade, de rede de laboratórios de saúde pública, de Vigilância Epidemiológica e Vigilância Sanitária.\nIII. Os gestores do SUS são os representantes de cada esfera de governo designados para o desenvolvimento das funções\ndo Executivo na saúde, a saber: no âmbito nacional, o Ministro da Saúde; no âmbito estadual, o Secretário de Estado da\nSaúde; e no municipal, o Secretário Municipal de Saúde.\nIV. À direção estadual do Sistema Único de Saúde compete promover a descentralização para os municípios dos serviços e\ndas ações de saúde. \nÉ correto apenas o que se afirma em",
       "alternativas": {
         "A": "I e II, apenas.",
