@@ -64671,8 +64671,8 @@
       "id": "site-pre-1415",
       "numero": 1415,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Paciente de 56 anos, com obesidade grau 1, procura emergência às 13h por “pressão alta” após discussão em\ncasa. Encontra-se agitada, chorosa, com tremores de extremidades. Nega sintomas precordiais no momento do\nexame ou em episódios anteriores. Relata estar triste na última semana pelas brigas com o marido. Observa-se\npressão = 172 x 94mmHg e glicemia = 200mg/dL. Com a paciente em observação, foi administrado captopril\nsublingual e insulina regular subcutânea. Após normalização da pressão e da glicemia, ela foi liberada com os\ndiagnósticos de hipertensão arterial, diabetes e depressão. Mediante os sinais e sintomas clínicos descritos,\navalia-se que:",
       "alternativas": {
         "A": "há critérios clínicos para diagnosticar hipertensão e depressão / há indicação para permanência\ne tratamento na emergência.",
@@ -64706,8 +64706,8 @@
       "id": "site-pre-1416",
       "numero": 1416,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Estratégia Saúde da Família (ESF) e NASF",
       "enunciado": "No diagnóstico comunitário realizado pela equipe de um médico de família, identificaram-se muitas pessoas idosas\ncom condições crônicas. Na reunião de equipe, ele propôs a criação de um grupo na UBS. A partir do\nmétodo clínico centrado na pessoa e do modelo de atenção às condições crônicas, é correto afirmar que os\ngrupos educativos:",
       "alternativas": {
         "A": "aumentam o vínculo com a população, favorecem a troca de experiências e oportunizam o acolhimento\ndas necessidades dos participantes.",
@@ -64741,8 +64741,8 @@
       "id": "site-pre-1417",
       "numero": 1417,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "10.7 Lei n° 8.080, de 19 de setembro de 1990",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Bioética (princípios: beneficência, não maleficência, autonomia, justiça)",
       "enunciado": "Mulher de 35 anos, religiosa, mora com seu marido e seus três filhos menores de idade. Ela teve um acidente\nvascular cerebral (AVC) há seis meses que a deixou com sequelas motoras. Na visita domiciliar, devido a uma\nlesão por pressão em estágio inicial, ela questionou se sua doença seria um castigo, pois há um ano teve uma\ngravidez que “não foi à frente”. Considerando a abordagem integral da pessoa, no caso dessa paciente, o\nprofissional deve:",
       "alternativas": {
         "A": "desconsiderar as suas crenças, cobrar maior participação do marido no cuidado e acionar a equipe\nde enfermagem.",
@@ -64771,7 +64771,7 @@
       "numero": 1418,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "A alternativa que contém doenças e agravos que devem receber notificação imediata é:",
       "alternativas": {
         "A": "Síndrome respiratória aguda grave, febre amarela e varíola.",
@@ -64804,7 +64804,7 @@
       "numero": 1419,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Paciente, 45 anos, sexo masculino, caiu de um andaime enquanto realizava suas atividades laborais. Foi socorrido com traumatismo craniano e, após dois dias de\nacompanhamento com equipe de neurocirurgia, foi a óbito em decorrência de uma hemorragia intracraniana. A provável causa básica de sua morte foi:",
       "alternativas": {
         "A": "Politraumatismo.",
@@ -64836,8 +64836,8 @@
       "id": "site-pre-1420",
       "numero": 1420,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Paciente, 74 anos, sexo masculino, portador de HAS, DM e dislipidemia procura a Unidade Básica de Saúde com\nqueixa de tosse, febre, dor de garganta e dispneia há 5 dias. Ao exame físico, encontra-se em regular estado geral,\nsua ausculta cardiopulmonar é fisiológica, mas a saturação à oximetria de pulso é de 88%. O médico de ESF decide\nencaminhá-lo via SAMU para o hospital de maior complexidade. Os profissionais da ESF mantiveram contato com a\nequipe médica do hospital e, após a alta, agendaram uma visita domiciliar para avaliar o estado do paciente. A\nalternativa que apresenta o princípio de atenção primária à saúde que está representado nesse contexto é:",
       "alternativas": {
         "A": "Integralidade.",
@@ -64866,7 +64866,7 @@
       "numero": 1421,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "A medida que expressa quantas vezes mais (ou menos) é provável encontrar um resultado em pessoas doentes,\nem comparação com as não doentes e seu resultado influencia a probabilidade pós-teste é chamada de:",
       "alternativas": {
         "A": "Especificidade.",
@@ -64895,7 +64895,7 @@
       "numero": 1422,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Um estudo avaliou a associação entre o sedentarismo e algumas condições de saúde entre homens e mulheres. A\nTabela 1 abaixo apresenta os principais resultados observados.\nTabela 1 – Sedentarismo e ocorrência de obesidade, diabetes, hipertensão, osteoporose e depressão entre\nhomens e mulheres\nConsiderando as informações apresentadas, podemos afirmar que nesse estudo o sedentarismo está\nsignificativamente associado ao risco de:",
       "alternativas": {
         "A": "Obesidade e diabetes em homens e mulheres.",
@@ -64928,7 +64928,7 @@
       "numero": 1423,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "No livro “Preparados para o risco: como tomar boas decisões”, o autor Gerd Gigerenzer afirma que “As faculdades\nde medicina devem tomar providências imediatas, antes que os pacientes se deem conta de que os médicos não\ncompreendem os exames e tratamentos que recomendam” e cita um estudo britânico que fez a seguinte pergunta\npara especialistas médicos: Considere que o risco de uma mãe de 40 anos ter um bebê com síndrome de Down\nseja de 1%, que a sensibilidade de um teste feito no trimestre inicial da gestação seja de 90%, ou seja, o teste\ndetecta 90% dos bebês com síndrome de Down e deixa escapar o resto, e a taxa de falsos positivos seja de 5%,\nsignificando que o exame identifica corretamente 95% de bebês sem síndrome de Down e falha nos 5% restantes,\ne supondo um resultado positivo nesse teste, qual é a probabilidade de que o bebê realmente tenha síndrome de\nDown?",
       "alternativas": {
         "A": "Entre 10% e 20%.",
@@ -64957,7 +64957,7 @@
       "numero": 1424,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Para identificar indivíduos com taquicardia (FC>100 bpm), um pesquisador está utilizando um monitor cardíaco de\npulso que está com defeito, e sempre mostra valores menores que 100 bpm, medindo corretamente apenas os\nindivíduos com frequência cardíaca normal. Considerando essas informações, a sensibilidade desse monitor\ncardíaco é:",
       "alternativas": {
         "A": "De 100%, e a especificidade é zero.",
@@ -64985,8 +64985,8 @@
       "id": "site-pre-1425",
       "numero": 1425,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Analise as seguintes assertivas em relação à APS:\nI. Tem a função de servir e coordenar todas as necessidades de saúde da pessoa, assumindo a responsabilidade\npela continuidade e pelo acompanhamento individual da pessoa e por problemas de saúde da comunidade.\nII. A coordenação do cuidado pode ser verificada, por exemplo, quando a equipe da APS faz contato com a equipe\nde um hospital terciário para saber sobre as internações de pacientes da comunidade por Covid-19 e as previsões\nde alta para iniciar atenção domiciliar.\nIII. Taxas elevadas de internações hospitalares por condições sensíveis podem indicar baixo acesso aos serviços de\nAPS por parte da população ou oferta de uma APS de baixa qualidade. \nQuais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -65014,8 +65014,8 @@
       "id": "site-pre-1426",
       "numero": 1426,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Homem de 56 anos, previamente hígido, deseja fazer consulta de revisão periódica na UBS do seu bairro.\nEntretanto, como trabalha formalmente de segunda à sexta-feira das 8h às 17h, não consegue ir, pois a UBS não\ntem horário estendido. Qual dos atributos da Atenção Primária à Saúde (APS) não está sendo ofertado nessa\nsituação?",
       "alternativas": {
         "A": "Longitudinalidade.",
