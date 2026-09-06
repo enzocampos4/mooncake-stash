@@ -70441,7 +70441,7 @@
       "numero": 1601,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Em uma situação em que o correto diagnóstico de uma doença e o seu tratamento precoce são importantes para\nse evitar evoluções desfavoráveis, é importante que o procedimento diagnóstico tenha alta",
       "alternativas": {
         "A": "reprodutibilidade.",
@@ -70471,7 +70471,7 @@
       "numero": 1602,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Assinale a alternativa que indica, corretamente, características importante para que um ensaio clínico randomizado\nseja considerado como bem conduzido.",
       "alternativas": {
         "A": "Os grupos de comparação foram semelhantes em termos de características basais no início do estudo.",
@@ -70500,7 +70500,7 @@
       "numero": 1603,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "Qual é a importância da curva ROC em estudos diagnósticos?",
       "alternativas": {
         "A": "Avaliar a correlação entre dois testes diagnósticos.",
@@ -70529,7 +70529,7 @@
       "numero": 1604,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Qual dos seguintes cenários exemplifica uma falácia ecológica?",
       "alternativas": {
         "A": "Estudos mostram que países com maior consumo de peixe têm menores taxas de doenças cardíacas.\nConclui-se que indivíduos que consomem mais peixe são menos propensos a desenvolver doenças\ncardíacas.",
@@ -70558,7 +70558,7 @@
       "numero": 1605,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Um estudo de coorte publicado no New England Journal investigou a relação entre o uso de anticoncepcionais\norais e o risco de câncer de mama. O risco relativo associado ao uso de anticoncepcionais orais foi de 1,20 com\nintervalo de confiança de 95% de 1,14 a 1,26. O que esses resultados sugerem?",
       "alternativas": {
         "A": "Não há associação entre o uso de anticoncepcionais orais e o risco de câncer de mama.",
@@ -70587,7 +70587,7 @@
       "numero": 1606,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "O Estudo de Framingham foi fundamental para identificação de fatores associados à ocorrência de doenças\ncardiovasculares. O estudo teve início com uma amostra da população saudável e os indivíduos foram\nacompanhados ao longo do tempo. Durante o seguimento, verificou-se a associação entre algumas condições de\nsaúde, tais como pressão arterial, níveis de colesterol, tabagismo, entre outros, e a ocorrência de\neventos cardiovasculares. O trabalho estatístico realizado com os dados de um estudo, que relacionam a\nassociação entre exposição e desfecho, são chamados de \"medidas de associação\". A medida de associação\nobtida por meio do estudo descrito é",
       "alternativas": {
         "A": "Razão de prevalência.",
