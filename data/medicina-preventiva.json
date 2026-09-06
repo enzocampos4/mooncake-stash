@@ -72783,8 +72783,8 @@
       "id": "site-pre-1679",
       "numero": 1679,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Saúde do Trabalhador",
+      "sub_subarea": "Comunicação de Acidente de Trabalho (CAT)",
       "enunciado": "Um trabalhador procura atendimento em uma Unidade de Saúde com ferimento corto-contuso na mão direita, após queda sobre cacos de vidro no trajeto para o trabalho.\nRelata exercer atividade sem registro em carteira. O ferimento foi suturado, e prescrito o tratamento necessário. Considerando as normas de vigilância em saúde do\ntrabalhador, a conduta em relação à notificação é",
       "alternativas": {
         "A": "não realizar a notificação no Sistema de Informação de Agravos de Notificação (SINAN), pois o acidente ocorreu fora do ambiente de trabalho.",
@@ -72814,7 +72814,7 @@
       "numero": 1680,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Os estudos epidemiológicos do tipo caso-controle são especialmente indicados quando se deseja investigar\ndoenças raras ou situações em que há limitação de tempo e recursos. Eles permitem testar hipóteses ao comparar\nindivíduos doentes (casos) com não doentes (controles), sendo sua principal medida de associação o odds ratio,\nque estima",
       "alternativas": {
         "A": "a força da associação entre uma exposição e um desfecho em estudos transversais.",
@@ -72844,7 +72844,7 @@
       "numero": 1681,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Em um município do interior, a equipe de vigilância epidemiológica observa que houve aumento de casos de\nhipertensão arterial em adultos acima de 40 anos nos últimos cinco anos. Para compreender melhor esse\nfenômeno, a equipe decide realizar um estudo que descreva a magnitude do problema, identifique características\nda população afetada e formule hipóteses para futuros estudos analíticos. O tipo de estudo mais adequado para\nesse objetivo é",
       "alternativas": {
         "A": "ensaio clínico.",
@@ -72873,8 +72873,8 @@
       "id": "site-pre-1682",
       "numero": 1682,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Óbito hospitalar com múltiplas comorbidades e pneumonia recente; houve queda domiciliar na semana anterior sem lesões graves relatadas. Assinale a alternativa que\napresenta a conduta MAIS adequada na Declaração de Óbito (DO).",
       "alternativas": {
         "A": "Indicar todos os diagnósticos como causas básicas para ampliar a captação de dados.",
@@ -72902,8 +72902,8 @@
       "id": "site-pre-1683",
       "numero": 1683,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Homem, recém-chegado ao pequeno município de Siriri, estava em seu domicílio quando, repentinamente, “passou mal”. Foi levado por familiares à única unidade de saúde\ndo município. O médico, prontamente, verificou que o homem já havia morrido, não havendo nenhum registro deste na unidade. A família relatou que, há algum tempo, o\npaciente disse que “estava com diabetes”. Na ausência de sinais externos de violência e não dispondo a localidade de Serviço de Verificação de Óbito, o médico decidiu\nemitir a declaração de óbito.\nCom essas informações, é correto o seguinte preenchimento da declaração de óbito:",
       "alternativas": {
         "A": "B.",
@@ -72929,8 +72929,8 @@
       "id": "site-pre-1684",
       "numero": 1684,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Assinale a alternativa que corretamente indica unidade ou estabelecimento para os quais é vedada a distribuição da declaração de óbito.",
       "alternativas": {
         "A": "Cartório de registro civil, em localidades onde não existam médicos.",
@@ -72958,8 +72958,8 @@
       "id": "site-pre-1685",
       "numero": 1685,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Um operário estava trabalhando em um edifício em construção, quando sofreu uma queda do 3º pavimento. Vítima de múltiplos traumatismos nos membros inferiores, ele\npermaneceu internado durante 25 dias, tendo sido submetido a duas cirurgias ortopédicas. No 23º dia, foi diagnosticado hematoma subdural, tendo o paciente sido transferido\npara unidade de terapia intensiva. O quadro evoluiu com gravidade, vindo o paciente a falecer dentro de 36 horas.\nDiante dessas informações, a declaração de óbito deve ser fornecida pelo",
       "alternativas": {
         "A": "médico do serviço de Ortopedia.",
@@ -72988,7 +72988,7 @@
       "numero": 1686,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Em um estudo do tipo caso-controle, qual é a vantagem de se utilizarem casos prevalentes ao invés de casos\nincidentes?",
       "alternativas": {
         "A": "Selecionar muitos casos em pouco tempo.",
@@ -73017,7 +73017,7 @@
       "numero": 1687,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Qual dos objetivos abaixo é o mais provável de ser atingido com um estudo epidemiológico do tipo caso controle?",
       "alternativas": {
         "A": "Estimar a frequência de doenças raras na população.",
@@ -73046,7 +73046,7 @@
       "numero": 1688,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Em um estudo de coorte metade das pessoas são expostas a um fator de risco (FR). Nesses expostos, o risco de\nmorrer em 10 anos foi 10%, enquanto nos não expostos foi 5%. Havendo causalidade na associação entre\nexposição ao FR e morte, que proporção do total de mortes poderia ser evitada se o FR fosse eliminado nessas\npessoas?",
       "alternativas": {
         "A": "1/2",
@@ -73075,7 +73075,7 @@
       "numero": 1689,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "O quadro abaixo resume os resultados de um estudo epidemiológico sobre fratura de fêmur, considerando sexo e\nidade.\nEm relação à associação entre sexo e fratura de fêmur, a idade, com base nesses dados, é considerada uma\nvariável:",
       "alternativas": {
         "A": "modificadora de efeito.",
@@ -73103,8 +73103,8 @@
       "id": "site-pre-1690",
       "numero": 1690,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Código de Ética Médica (sigilo, consentimento, autonomia)",
       "enunciado": "Em 16 de abril de 2025, a Agência Nacional de Vigilância Sanitária (Anvisa) estabeleceu medidas mais rigorosas para a prescrição e dispensação dos medicamentos\nagonistas do receptor de Glucagon-Like Peptide-1 (GLP-1) (como semaglutida e liraglutida, entre outros), a partir da retenção da receita. Essa decisão foi motivada,\nprincipalmente, pelo aumento significativo de eventos adversos associados ao uso desses fármacos fora das indicações aprovadas pela Agência. Conforme decisão, esta\nclasse de medicamentos deverá ser prescrita em:",
       "alternativas": {
         "A": "receituário branco, especial, em duas vias.",
