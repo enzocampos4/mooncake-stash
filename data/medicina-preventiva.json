@@ -72076,7 +72076,7 @@
       "numero": 1655,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Quatro pacientes são atendidos na Unidade Básica de Saúde: Jorge, de 47 anos de idade, enfermeiro, vítima de acidente de trabalho com exposição a material biológico\ninfectado por HIV. Marina, de 18 anos de idade, com adinamia, febre e exantema, sendo diagnosticada com rubéola. Davi, de 32 anos de idade, com febre, dor retro-orbitária\ne diarreia, com teste rápido positivo para dengue. Carla, de 26 anos de idade, vítima de violência doméstica. Qual dos casos atendidos apresenta uma condição de\nnotificação compulsória imediata?",
       "alternativas": {
         "A": "Davi",
@@ -72106,7 +72106,7 @@
       "numero": 1656,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Na vigilância epidemiológica, qual é o principal objetivo do sistema de notificação compulsória de doenças?",
       "alternativas": {
         "A": "Coletar dados exclusivamente para estudos acadêmicos.",
@@ -72135,7 +72135,7 @@
       "numero": 1657,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Historicamente, a notificação compulsória tem sido a principal fonte da vigilância epidemiológica, a partir da qual, na maioria das vezes, se desencadeia o processo\ninformação-decisão-ação. — Notificação — compulsória — é definida como a comunicação da ocorrência de determinada doença ou agravo à saúde:",
       "alternativas": {
         "A": "feita à autoridade sanitária por profissionais de saúde ou qualquer cidadão, para fins de adoção de medidas de intervenção pertinentes.",
@@ -72164,8 +72164,8 @@
       "id": "site-pre-1658",
       "numero": 1658,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Sobre o preenchimento da Declaração de Óbito, no caso de morte natural com assistência médica, assinale a alternativa INCORRETA.",
       "alternativas": {
         "A": "A Declaração de Óbito deverá ser fornecida, sempre que possível, pelo médico que vinha prestando assistência ao paciente.",
@@ -72195,7 +72195,7 @@
       "numero": 1659,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Um programa de rastreamento para câncer de pulmão foi implementado em uma população de alto risco. Após\ncinco anos, os pacientes rastreados apresentaram maior tempo médio entre o diagnóstico e o óbito por câncer de\npulmão em comparação aos não rastreados. No entanto, a mortalidade por todas as causas permaneceu\nsemelhante entre os grupos. Qual viés pode estar interferindo na interpretação desses resultados?",
       "alternativas": {
         "A": "Viés de seleção.",
@@ -72225,7 +72225,7 @@
       "numero": 1660,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Um pesquisador estima o Número Necessário para Tratar (NNT) a partir de um RR = 0,80 para um desfecho com\nrisco de 10% no grupo controle. Qual é o valor mais próximo do NNT?",
       "alternativas": {
         "A": "2.",
