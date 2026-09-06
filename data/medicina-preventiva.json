@@ -68560,7 +68560,7 @@
       "numero": 1541,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "Sílvio, 65 anos de idade, morava sozinho em uma casa em uma vila ribeirinha. Um dia, enquanto fazia compras,\npercebeu dormência súbita do dimídio esquerdo e desvio da comissura labial para a direita, além de muita “dor de\ncabeça” (sic). As pessoas ao seu redor o acudiram, chamaram um táxi e o levaram para uma unidade básica\npróxima da vila. Na Unidade Básica de Saúde (UBS) ele foi avaliado por uma médica, que prestando os primeiros\nsocorros solicitou o Serviço de Atendimento Móvel de Urgência (SAMU-192) para realizar a regulação assistencial.\nConsiderando o caso hipotético, assinale a alternativa que apresenta o nível de atenção em saúde que prestou o\ncuidado inicial a Sílvio.",
       "alternativas": {
         "A": "Atenção secundária.",
@@ -68593,8 +68593,8 @@
       "id": "site-pre-1542",
       "numero": 1542,
       "area": "Medicina Preventiva",
-      "subarea": "Medicina de Família e Comunidade",
-      "sub_subarea": "Processo Saúde-Doença e níveis de prevenção em saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "",
       "enunciado": "(https://bvsms.saude.gov.br/bvs/artigos/mundo_saude/prevencao_quaternaria_humanizacao_atencao_primaria.pdf)\nA figura acima apresenta um esquema que representa os níveis de prevenção em saúde, conforme define Marc\nJamoule (2012). Assim, acerca dos conceitos sobre os níveis de prevenção em saúde, é correto afirmar que a",
       "alternativas": {
         "A": "prevenção quaternária diz respeito a uma ação feita para identificar uma pessoa ou população em risco\nde supermedicalização.",
@@ -68632,7 +68632,7 @@
       "numero": 1543,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "Assinale a alternativa que correlaciona adequadamente o tipo de serviço assistencial à política de atenção à saúde\ndo SUS.",
       "alternativas": {
         "A": "Unidade de Saúde da Família (USF) – porta de entrada preferencial do sistema público de saúde, definida\npela Política Nacional de Atenção Básica.",
@@ -68662,7 +68662,7 @@
       "numero": 1544,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Medidas de Saúde Coletiva - Parte I- Indicadores de Morbidade",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Os indicadores de saúde são muito úteis para se conhecer a situação de saúde de um dado local, além de guiar e\navaliar as ações de saúde, sustentar o processo de tomada de decisão e presumir o que é provável de acontecer\nno futuro. Sobre a aplicação dos indicadores de saúde, assinale a alternativa correta.",
       "alternativas": {
         "A": "Tratar os casos visíveis e sintomáticos indicam a incipiência da gestão em saúde em dar enfrentamento\nàs doenças, uma vez que a grande maioria dos casos resultam em adoecimento e morte.",
@@ -68692,7 +68692,7 @@
       "numero": 1545,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Princípios e Diretrizes do SUS",
+      "sub_subarea": "Níveis de atenção (primária, secundária, terciária)",
       "enunciado": "Jorge, 65 anos, desempregado, veio morar com sua filha Olívia há três meses. É etilista crônico e hipertenso\ndiagnosticado há 30 anos, tendo sido atendido recentemente em uma Unidade de Pronto Atendimento (UPA) e de\nlá transferido a um hospital terciário de referência, onde precisou ficar internado por 2 semanas, por causa de um\nAcidente Vascular Cerebral Isquêmico Transitório (AVC-IT). Foi tratado e liberado com indicação de\nacompanhamento em serviço de reabilitação e aprazamento de consultas especializadas periódicas em serviços\ncredenciados pelo Sistema Único de Saúde (SUS) e com encaminhamento para fazer seguimento clínico na\nUnidade de Saúde da Família (USF) do seu bairro. Nesta manhã, equipe de saúde foi visitá-lo pela primeira vez\napós a internação hospitalar, iniciando o vínculo com o serviço. Foi-lhe disponibilizado apoio fisioterápico e de\neducação física do Núcleo de Apoio à Saúde da Família (NASF), bem como suporte de uma equipe de serviço\nsocial para busca de Benefício de Prestação Continuada (BPC) junto aos Sistema Único de Assistência Social\n(SUAS). Conversaram muito com ele, que se mostrou triste e abatido diante de sua condição física atual, tendo\nsido também oferecido a ele acesso aos serviços do Centro de Atenção Psicossocial (CAPS), caso necessário.\nConsiderando o caso hipotético, assinale a alternativa que apresenta as diretrizes do SUS que foram\nconcretizadas no atendimento ao Sr. Jorge, desde a UPA até a visita domiciliar da equipe da USF.",
       "alternativas": {
         "A": "Descentralização da gestão, participação da comunidade e universalidade do acesso.",
@@ -68722,7 +68722,7 @@
       "numero": 1546,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Sobre as ações da vigilância epidemiológica desenvolvidas no SUS, analise as proposições abaixo.\nI. Monitora e acompanha ações e medidas de prevenção e de controle de doenças e agravos à saúde em todo território brasileiro.\nII. Realiza análise da situação de saúde, priorizando investigações e inquéritos sobre fatores de risco de doenças não transmissíveis.\nIII. Realiza gestão de sistemas de informação de mortalidade (SIM), de agravos de notificação compulsória (SINAN) e de nascidos vivos (SINASC).\nIV. Monitora as estatísticas vitais da população por meio do Sistema de Informação de Agravos de Notificação (SINAN).\nV. Utiliza o Sistema de Informação Hospitalar (SIH) e o Sistema de Informação Ambulatorial (SIA) para monitorar a situação de saúde. \nÉ correto o que se afirma, apenas, em",
       "alternativas": {
         "A": "I, II e III.",
