@@ -70617,7 +70617,7 @@
       "numero": 1607,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Testes diagnósticos (sensibilidade, especificidade, VPP, VPN)",
       "enunciado": "Um teste diagnóstico que apresenta alta sensibilidade pode ser útil para o clínico quando:",
       "alternativas": {
         "A": "Os resultados falso-positivos possam ser física, emocional ou financeiramente nocivos.",
@@ -70646,7 +70646,7 @@
       "numero": 1608,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Delineamento de estudos (coorte, caso-controle, transversal, ensaio clínico)",
       "enunciado": "Assinale a assertiva correta sobre estudos de revisão sistemática.",
       "alternativas": {
         "A": "Uma metanálise pode ser realizada de forma independente de uma revisão sistemática, sem risco de\nvieses nos resultados.",
@@ -70675,7 +70675,7 @@
       "numero": 1609,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Em um estudo sobre a eficácia de um novo teste de triagem para câncer de bexiga, apesar de a mortalidade por\ncâncer de bexiga permanecer constante, os pacientes que foram diagnosticados precocemente por exames\nregulares apresentaram uma sobrevida média de 5 anos, enquanto os diagnosticados após o surgimento de\nsintomas tiveram uma sobrevida de 2 anos. Qual é a explicação mais provável?",
       "alternativas": {
         "A": "O novo método de rastreamento precoce parece ser a única explicação para o aumento da sobrevida\nobservada.",
@@ -70704,7 +70704,7 @@
       "numero": 1610,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Testes Diagnósticos",
+      "sub_subarea": "Curvas ROC e razão de verossimilhança",
       "enunciado": "Uma Razão de Verossimilhança Positiva (RVP) de 1 significa que:\nI. O teste não altera a probabilidade pré-teste da doença.\nII. O teste é inútil para confirmar a presença da doença.\nIII. A sensibilidade e a especificidade do teste são iguais.\nQuais estão corretas?",
       "alternativas": {
         "A": "Apenas I e II.",
@@ -70733,7 +70733,7 @@
       "numero": 1611,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Em um estudo de caso-controle, qual é o maior desafio para evitar o viés de seleção?",
       "alternativas": {
         "A": "Garantir que o grupo controle seja representativo da população que deu origem aos casos.",
@@ -70762,7 +70762,7 @@
       "numero": 1612,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Em um estudo, o Número Necessário para Tratar (NNT) foi calculado como 12 para prevenção de AVC. Qual é a\ninterpretação mais correta nesse caso?",
       "alternativas": {
         "A": "12 pacientes precisam ser tratados para garantir que nenhum deles tenha um AVC.",
@@ -70791,7 +70791,7 @@
       "numero": 1613,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Podem ser definidas respectivamente como “ A chance de desenvolver doença no grupo de expostos é maior ou\nmenor do que no grupo de não expostos “ e “Quantas vezes é mais provável as pessoas expostas se tornarem\ndoentes, em relação às não expostas.”\nNeste contexto, analise as seguintes medidas estatísticas:\nI. Odds ratio\nII. Risco relativo\nIII. Risco atribuível\nIV. Fração atribuível na população\nAs medidas CORRETAS para o que foi descrito são:",
       "alternativas": {
         "A": "I e II",
@@ -70829,7 +70829,7 @@
       "numero": 1614,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Analise o gráfico de floresta (forest plot) a seguir de uma metanálise comparando a efetividade de um fármaco\nantiemético contra placebo na profilaxia de náusea pós-operatória.\nLegenda: RR = razão de risco\nPode-se afirmar que:",
       "alternativas": {
         "A": "no estudo A, não se observou diferença de efetividade conclusiva entre o fármaco testado e o placebo",
@@ -70858,7 +70858,7 @@
       "numero": 1615,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Medidas de associação (RR, OR, RAR)",
       "enunciado": "Em um estudo de coorte, após dez anos de seguimento, a incidência de doença coronariana entre fumantes e\nnão fumantes foi igual a, respectivamente, 5 casos por 1.000 pessoas ano e 1 caso por 1.000 pessoas ano. Por\nmeio de um inquérito dirigido à população total que serviu como fonte para a seleção dos participantes do estudo\nde coorte, estimou-se em 50% a prevalência do tabagismo. Pode-se afirmar, com base nestas informações, que:",
       "alternativas": {
         "A": "50% dos casos de doença coronariana na população total são atribuíveis ao tabagismo",
@@ -70886,8 +70886,8 @@
       "id": "site-pre-1616",
       "numero": 1616,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Atributos da APS (1º contato, longitudinalidade, integralidade, coordenação)",
       "enunciado": "Assinale a alternativa que descreve corretamente como marcadores de consumo alimentar do SISVAN (Sistema de Vigilância Alimentar e Nutricional) podem ser utilizados na\nprática clínica na APS.",
       "alternativas": {
         "A": "São utilizados exclusivamente para a prescrição de medicamentos nutricionais aos pacientes com deficiências específicas.",
@@ -70915,8 +70915,8 @@
       "id": "site-pre-1617",
       "numero": 1617,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Mulher de 32 anos, faxineira, estava limpando a parte externa de uma janela, em um prédio, quando caiu de altura de 12 metros, chocando o abdome sobre um muro. No PS\nteve diagnóstico de laceração de fígado com hemorragia intra-abdominal, choque hemorrágico e óbito. A família informou que ela tinha anemia falciforme.\nEm face do exposto, assinale a alternativa correta.",
       "alternativas": {
         "A": "B.",
@@ -70947,7 +70947,7 @@
       "numero": 1618,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Estudos Epidemiológicos e Medidas de Associação",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Um estudo foi conduzido para avaliar a relação entre o consumo de frutas e vegetais em diferentes países e a\nprevalência de doenças cardiovasculares (DCV). Os resultados mostraram que países com maior consumo médio\nde frutas e vegetais apresentaram menor incidência de DCV. Com base nesses resultados, concluiu-se que\nindivíduos que consomem mais frutas têm menor risco de desenvolver DCV.\nEssa conclusão pode estar incorreta devido ao seguinte tipo de erro:",
       "alternativas": {
         "A": "viés de seleção.",
