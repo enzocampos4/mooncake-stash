@@ -73660,7 +73660,7 @@
       "numero": 1709,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Um homem de 42 anos de idade apresentou febre alta, cefaleia intensa, icterícia e mialgia após o retorno de uma área rural. O médico suspeitou de leptospirose e iniciou o\ntratamento. No entanto, afirmou que só notificaria o caso se o exame laboratorial confirmasse a doença. Nesse contexto, qual é a conduta correta quanto à notificação?",
       "alternativas": {
         "A": "Não notificar, pois a leptospirose só entra na lista de notificações laboratoriais confirmadas.",
@@ -73688,8 +73688,8 @@
       "id": "site-pre-1710",
       "numero": 1710,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "Prontuário médico e atestados",
       "enunciado": "Dona Maria, 82 anos, portadora de insuficiência cardíaca avançada, estava em acompanhamento regular pela equipe de Saúde da Família em cuidados paliativos\ndomiciliares. Em determinada manhã, a família comunica à Unidade de Saúde que a paciente foi a óbito em casa. Sobre a emissão da Declaração de Óbito (DO), assinale a\nalternativa correta.",
       "alternativas": {
         "A": "O médico da equipe da Atenção Primária à Saúde que acompanhava a paciente pode emitir a DO. Visto que conhecia seu histórico e a evolução clínica.",
@@ -73718,7 +73718,7 @@
       "numero": 1711,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Qual alternativa apresenta apenas Agravos de Notificação Compulsória Imediata?",
       "alternativas": {
         "A": "Dengue e leptospirose.",
@@ -73746,8 +73746,8 @@
       "id": "site-pre-1712",
       "numero": 1712,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Ética Médica",
+      "sub_subarea": "",
       "enunciado": "Sobre as medicações de controle especial, assinale a alternativa correta.",
       "alternativas": {
         "A": "Metlifenidato deve ser prescrito em receituário tipo C",
@@ -73775,8 +73775,8 @@
       "id": "site-pre-1713",
       "numero": 1713,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "O Sistema de Informações Hospitalares do SUS (SIH/SUS) é um sistema, cujo principal instrumento é a Autorização de Internação Hospitalar (AIH).\nSobre esse sistema, é CORRETO afirmar que",
       "alternativas": {
         "A": "é o sistema responsável por registrar os atendimentos de urgência e emergência realizados nas unidades de saúde do país.",
@@ -73806,7 +73806,7 @@
       "numero": 1714,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "sub_subarea": "",
       "enunciado": "Certos eventos são considerados de importância para vigilância por potencial de transmissão, gravidade ou magnitude populacional. Quando uma doença ou agravo deve ser\nincluido na lista de notificação compulsória, segundo critérios do Ministério da Saúde?",
       "alternativas": {
         "A": "Se tiver tratamento curativo.",
