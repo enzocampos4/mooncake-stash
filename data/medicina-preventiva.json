@@ -67633,8 +67633,8 @@
       "id": "site-pre-1511",
       "numero": 1511,
       "area": "Medicina Preventiva",
-      "subarea": "Epidemiologia",
-      "sub_subarea": "Sistemas de Informação em Saúde",
+      "subarea": "Medicina de Família e Comunidade",
+      "sub_subarea": "Acolhimento e classificação de risco",
       "enunciado": "Luiz tem 27 anos de idade e é muito conhecido na sua UBS, pois comparece ao acolhimento semanalmente com diversas queixas como epigastralgia, palpitações, cefaleia,\ninsônia e fadiga. Todos os exames de sangue e eletrocardiogramas vieram normais. Em reunião de equipe, a médica decide marcar uma consulta para Luiz e entender o que\nestá acontecendo. “Doutora, sinto muita fadiga o tempo inteiro, falta de energia mesmo, muito sono o dia inteiro, além disso vira e mexe meu peito dói, parece que estou\nsufocado, e é só comer qualquer coisa que já dói o estômago”. Ao perguntar sobre a rotina, Luiz conta que está trabalhando como motorista de aplicativo 14 horas por dia.\nEstá com dívidas contraídas durante a pandemia de coronavírus e tem recebido diariamente ligações de cobradores. Os problemas financeiros têm atrapalhado seu\nrelacionamento com a esposa e com seu filho, que tem um problema grave de audição. Para economizar dinheiro, Luiz pula o almoço e se alimenta com “qualquer besteira”.\nToma muito café para \"enganar a fome e o cansaço\". Durante a consulta, Luiz parecia ansioso. Exame físico sem alterações. Não fuma e não tem nenhum antecedente\nclínico. Ao compreender a história de Luiz, a médica orienta que os sintomas podem estar relacionados à sobrecarga de trabalho e conversa sobre maneiras de reduzir a\njornada. Marca uma consulta com a assistente social para verificar a elegibilidade do filho de Luiz para benefícios sociais. Assinale quais dos seguintes registros SOAP dessa\nconsulta estão mais adequados.",
       "alternativas": {
         "A": "Sobrecarga de trabalho e epigastralgia, ansioso, transtorno de ansiedade generalizado, redução da jornada de trabalho.",
@@ -67667,7 +67667,7 @@
       "numero": 1512,
       "area": "Medicina Preventiva",
       "subarea": "Epidemiologia",
-      "sub_subarea": "Epidemias e Epidemiologia das Doenças Infecciosas",
+      "sub_subarea": "",
       "enunciado": "Considerando os fenômenos epidêmicos em perspectiva histórica, assinale a alternativa correta com relação à\nrecente pandemia da covid-19.",
       "alternativas": {
         "A": "A pandemia de covid-19 não pode ser vista como um evento isolado, mas sim articulado ao contexto em\nque está inserido, à movimentação de homens e mulheres pelo território e às desigualdades\nsocioeconômicas existentes, aprofundadas pelo fenômeno epidêmico.",
@@ -67696,7 +67696,7 @@
       "numero": 1513,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Em 2022, as operadoras de planos e seguros de saúde passaram a ser obrigadas por lei (Lei nº 14.454/2022)\na oferecer cobertura de tratamentos, mesmo que não estejam incluídos no rol de Procedimentos e Eventos em\nSaúde, editado pela Agência Nacional de Saúde Suplementar (ANS). Contudo, para que um tratamento fora do rol\nseja coberto pelo plano de saúde, o mesmo deve cumprir condicionantes. Com base nessas informações, assinale\na alternativa correta.",
       "alternativas": {
         "A": "A prescrição pelo médico assistente, habilitado com registro em CRM, é suficiente para determinar\na cobertura.",
@@ -67725,7 +67725,7 @@
       "numero": 1514,
       "area": "Medicina Preventiva",
       "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Financiamento em Saúde",
+      "sub_subarea": "Financiamento e pactuação (NOB, NOAS)",
       "enunciado": "Quanto ao financiamento do sistema de saúde brasileiro, assinale a alternativa correta.",
       "alternativas": {
         "A": "Gastos privados com saúde em 2019 representam aproximadamente metade do gasto público.",
@@ -67757,8 +67757,8 @@
       "id": "site-pre-1515",
       "numero": 1515,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Viés e confundimento",
       "enunciado": "Dois serviços de atenção primária de um município realizam o acompanhamento clínico-laboratorial do tratamento\nda tuberculose ativa (TB). O número de pacientes é semelhante nos dois serviços. As taxas de perda de\nseguimento (30 dias sem medicação), no ano de 2022 foram:\n⦁ Serviço A: 12% \n⦁ Serviço B: 18% \nCom base nessas informações, assinale a alternativa correta.",
       "alternativas": {
         "A": "assistência prestada pelo serviço A é de melhor qualidade.",
@@ -67786,8 +67786,8 @@
       "id": "site-pre-1516",
       "numero": 1516,
       "area": "Medicina Preventiva",
-      "subarea": "Sistema Único de Saúde (SUS)",
-      "sub_subarea": "Atenção Primária à Saúde",
+      "subarea": "Epidemiologia",
+      "sub_subarea": "Medidas de frequência (incidência, prevalência)",
       "enunciado": "Assinale qual das alternativas a seguir contém medidas de avaliação do desempenho dos serviços\nambulatoriais responsáveis pelo tratamento de pessoas com uma doença infecciosa crônica, em uma dada\npopulação de pacientes em dado período.",
       "alternativas": {
         "A": "Taxa de detecção de hepatite C no município.",
