@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-09-05T17:02:41.739Z",
+  "exportado": "2026-09-07T03:17:16.556Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -747,6 +747,196 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-09-04T16:41:29.311Z",
       "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0041",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Clínica Médica",
+      "subarea": "Neurologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:45:43.931Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0042",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Geral",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:46:52.427Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0043",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Clínica Médica",
+      "subarea": "Endocrinologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:47:53.147Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0044",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Clínica Médica",
+      "subarea": "Neurologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:49:03.399Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0045",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Pediatria",
+      "subarea": "Outros",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:50:06.483Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0046",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Neurologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:51:12.795Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0047",
+      "acertou": false,
+      "selecao": "B",
+      "area": "Obstetrícia",
+      "subarea": "Doenças associadas à gestação",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:52:39.866Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0048",
+      "acertou": false,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Infectologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:55:01.190Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0049",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Saúde do Trabalhador",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:56:49.200Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0050",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Endocrinologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T02:59:24.015Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0051",
+      "acertou": false,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Reumatologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:01:18.005Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0052",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Pediatria",
+      "subarea": "Pneumologia Pediátrica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:03:13.300Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0053",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Cirurgia",
+      "subarea": "Complicações Pós-Operatórias",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:04:19.570Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0054",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Obstetrícia",
+      "subarea": "Parto",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:06:31.932Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0055",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Pediatria",
+      "subarea": "Infectologia Pediátrica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:09:08.255Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0056",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:10:40.939Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0057",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Pediatria",
+      "subarea": "Gastrologia Pediátrica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:12:25.989Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0058",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Cirurgia",
+      "subarea": "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:13:40.117Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0059",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Infectologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T03:15:33.890Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -810,7 +1000,26 @@
         "pv-rev-2026-1-0039": "certo",
         "pv-rev-2026-1-0035": "certo",
         "pv-rev-2026-1-0036": "certo",
-        "pv-rev-2026-1-0040": "certo"
+        "pv-rev-2026-1-0040": "certo",
+        "pv-rev-2026-1-0041": "certo",
+        "pv-rev-2026-1-0042": "certo",
+        "pv-rev-2026-1-0043": "certo",
+        "pv-rev-2026-1-0044": "certo",
+        "pv-rev-2026-1-0045": "certo",
+        "pv-rev-2026-1-0046": "certo",
+        "pv-rev-2026-1-0047": "errado",
+        "pv-rev-2026-1-0048": "errado",
+        "pv-rev-2026-1-0049": "certo",
+        "pv-rev-2026-1-0050": "errado",
+        "pv-rev-2026-1-0051": "errado",
+        "pv-rev-2026-1-0052": "certo",
+        "pv-rev-2026-1-0053": "errado",
+        "pv-rev-2026-1-0054": "certo",
+        "pv-rev-2026-1-0055": "certo",
+        "pv-rev-2026-1-0056": "certo",
+        "pv-rev-2026-1-0057": "certo",
+        "pv-rev-2026-1-0058": "certo",
+        "pv-rev-2026-1-0059": "certo"
       },
       "selecao": {
         "pv-rev-2026-1-0001": "D",
@@ -852,7 +1061,26 @@
         "pv-rev-2026-1-0039": "D",
         "pv-rev-2026-1-0035": "B",
         "pv-rev-2026-1-0036": "A",
-        "pv-rev-2026-1-0040": "D"
+        "pv-rev-2026-1-0040": "D",
+        "pv-rev-2026-1-0041": "D",
+        "pv-rev-2026-1-0042": "C",
+        "pv-rev-2026-1-0043": "B",
+        "pv-rev-2026-1-0044": "D",
+        "pv-rev-2026-1-0045": "C",
+        "pv-rev-2026-1-0046": "C",
+        "pv-rev-2026-1-0047": "B",
+        "pv-rev-2026-1-0048": "A",
+        "pv-rev-2026-1-0049": "D",
+        "pv-rev-2026-1-0050": "C",
+        "pv-rev-2026-1-0051": "A",
+        "pv-rev-2026-1-0052": "B",
+        "pv-rev-2026-1-0053": "C",
+        "pv-rev-2026-1-0054": "B",
+        "pv-rev-2026-1-0055": "D",
+        "pv-rev-2026-1-0056": "C",
+        "pv-rev-2026-1-0057": "D",
+        "pv-rev-2026-1-0058": "C",
+        "pv-rev-2026-1-0059": "A"
       },
       "timerRestante": 0
     }
