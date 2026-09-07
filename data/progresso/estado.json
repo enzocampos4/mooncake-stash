@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-09-07T03:17:16.556Z",
+  "exportado": "2026-09-07T23:02:31.738Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -937,6 +937,176 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-09-07T03:15:33.890Z",
       "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0060",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T16:37:53.238Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0061",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T16:45:34.526Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0062",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Pediatria",
+      "subarea": "Pneumologia Pediátrica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T16:49:06.462Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0063",
+      "acertou": false,
+      "selecao": "A",
+      "area": "Cirurgia",
+      "subarea": "Hérnias da Parede Abdominal",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T16:53:21.265Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0063",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Cirurgia",
+      "subarea": "Hérnias da Parede Abdominal",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T16:53:28.380Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0064",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Obstetrícia",
+      "subarea": "Intercorrências obstétricas /obstetrícia patológica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T16:55:35.179Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0065",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T16:57:17.262Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0066",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Clínica Médica",
+      "subarea": "Neurologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T16:59:38.113Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0067",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Dermatologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T17:03:29.551Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0068",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Cirurgia",
+      "subarea": "Nutrição em Cirurgia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T17:06:15.954Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0069",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Ginecologia",
+      "subarea": "Oncologia ginecológica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T17:18:43.506Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0070",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Infectologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T17:52:49.055Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0071",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Medicina Preventiva",
+      "subarea": "Sistema Único de Saúde (SUS)",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T18:00:54.290Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0072",
+      "acertou": false,
+      "selecao": "A",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T18:06:53.632Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0073",
+      "acertou": false,
+      "selecao": "A",
+      "area": "Clínica Médica",
+      "subarea": "Nefrologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T18:15:14.591Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0074",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Pediatria",
+      "subarea": "Reumatologia Pediátrica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T18:20:54.734Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0075",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Gastroenterologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-07T18:27:25.474Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -1019,7 +1189,23 @@
         "pv-rev-2026-1-0056": "certo",
         "pv-rev-2026-1-0057": "certo",
         "pv-rev-2026-1-0058": "certo",
-        "pv-rev-2026-1-0059": "certo"
+        "pv-rev-2026-1-0059": "certo",
+        "pv-rev-2026-1-0060": "certo",
+        "pv-rev-2026-1-0061": "certo",
+        "pv-rev-2026-1-0062": "certo",
+        "pv-rev-2026-1-0063": "certo",
+        "pv-rev-2026-1-0064": "certo",
+        "pv-rev-2026-1-0065": "certo",
+        "pv-rev-2026-1-0066": "certo",
+        "pv-rev-2026-1-0067": "certo",
+        "pv-rev-2026-1-0068": "certo",
+        "pv-rev-2026-1-0069": "certo",
+        "pv-rev-2026-1-0070": "certo",
+        "pv-rev-2026-1-0071": "certo",
+        "pv-rev-2026-1-0072": "errado",
+        "pv-rev-2026-1-0073": "errado",
+        "pv-rev-2026-1-0074": "certo",
+        "pv-rev-2026-1-0075": "certo"
       },
       "selecao": {
         "pv-rev-2026-1-0001": "D",
@@ -1080,7 +1266,23 @@
         "pv-rev-2026-1-0056": "C",
         "pv-rev-2026-1-0057": "D",
         "pv-rev-2026-1-0058": "C",
-        "pv-rev-2026-1-0059": "A"
+        "pv-rev-2026-1-0059": "A",
+        "pv-rev-2026-1-0060": "A",
+        "pv-rev-2026-1-0061": "A",
+        "pv-rev-2026-1-0062": "C",
+        "pv-rev-2026-1-0063": "B",
+        "pv-rev-2026-1-0064": "D",
+        "pv-rev-2026-1-0065": "B",
+        "pv-rev-2026-1-0066": "D",
+        "pv-rev-2026-1-0067": "C",
+        "pv-rev-2026-1-0068": "B",
+        "pv-rev-2026-1-0069": "B",
+        "pv-rev-2026-1-0070": "A",
+        "pv-rev-2026-1-0071": "A",
+        "pv-rev-2026-1-0072": "A",
+        "pv-rev-2026-1-0073": "A",
+        "pv-rev-2026-1-0074": "A",
+        "pv-rev-2026-1-0075": "C"
       },
       "timerRestante": 0
     }
