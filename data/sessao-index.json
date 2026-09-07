@@ -11549,8 +11549,8 @@
   "site-card-0218": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
+    "sub": "Infectologia",
+    "subsub": "Sepse",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
@@ -11576,8 +11576,8 @@
   "site-card-0221": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
+    "sub": "Infectologia",
+    "subsub": "Sepse",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
@@ -11585,8 +11585,8 @@
   "site-card-0222": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Choque",
+    "sub": "Gastroenterologia",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
@@ -11613,7 +11613,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Choque",
+    "subsub": "Insuficiência Cardíaca",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
