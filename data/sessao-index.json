@@ -10353,7 +10353,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Cardiomiopatias",
+    "subsub": "Doenças do pericárdio",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
@@ -10371,7 +10371,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Cardiomiopatias",
+    "subsub": "Valvopatias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
@@ -10389,7 +10389,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Cardiomiopatias",
+    "subsub": "Aterosclerose e Doença Arterial Coronariana",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
@@ -10406,8 +10406,8 @@
   "site-card-0091": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Cardiologia",
-    "subsub": "Cardiomiopatias",
+    "sub": "Neurologia",
+    "subsub": "",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
@@ -10434,7 +10434,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Cardiologia",
-    "subsub": "Cardiomiopatias",
+    "subsub": "Arritmias Cardíacas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Cardiologia"
