@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-09-07T23:02:31.738Z",
+  "exportado": "2026-09-08T10:20:28.331Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -1107,6 +1107,36 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-09-07T18:27:25.474Z",
       "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0076",
+      "acertou": false,
+      "selecao": "D",
+      "area": "Ginecologia",
+      "subarea": "Infecções em ginecologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-08T10:17:49.834Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0077",
+      "acertou": true,
+      "selecao": "A",
+      "area": "Ginecologia",
+      "subarea": "Infecções em ginecologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-08T10:19:18.413Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0078",
+      "acertou": false,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Medicina de Família e Comunidade",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-08T10:20:10.915Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -1205,7 +1235,10 @@
         "pv-rev-2026-1-0072": "errado",
         "pv-rev-2026-1-0073": "errado",
         "pv-rev-2026-1-0074": "certo",
-        "pv-rev-2026-1-0075": "certo"
+        "pv-rev-2026-1-0075": "certo",
+        "pv-rev-2026-1-0076": "errado",
+        "pv-rev-2026-1-0077": "certo",
+        "pv-rev-2026-1-0078": "errado"
       },
       "selecao": {
         "pv-rev-2026-1-0001": "D",
@@ -1282,7 +1315,10 @@
         "pv-rev-2026-1-0072": "A",
         "pv-rev-2026-1-0073": "A",
         "pv-rev-2026-1-0074": "A",
-        "pv-rev-2026-1-0075": "C"
+        "pv-rev-2026-1-0075": "C",
+        "pv-rev-2026-1-0076": "D",
+        "pv-rev-2026-1-0077": "A",
+        "pv-rev-2026-1-0078": "D"
       },
       "timerRestante": 0
     }
