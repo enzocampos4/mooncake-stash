@@ -28173,7 +28173,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Malária",
+    "subsub": "Parasitoses",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -28182,7 +28182,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Animais Peçonhentos",
+    "subsub": "Animais peçonhentos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -28191,7 +28191,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Animais Peçonhentos",
+    "subsub": "Animais peçonhentos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -28200,7 +28200,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Lesão Renal Aguda (LRA)",
+    "subsub": "Doença Renal Crônica",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
@@ -28209,7 +28209,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Lesão Renal Aguda (LRA)",
+    "subsub": "Doença Renal Crônica",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
@@ -28218,7 +28218,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Adrenal - Hipocortisolismo (Insuficiência Adrenal)",
+    "subsub": "Adrenal",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -28226,8 +28226,8 @@
   "site-der-0009": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Hanseníase",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
@@ -28236,7 +28236,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Introdução à Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -28245,7 +28245,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Cirrose Hepática",
+    "subsub": "Complicações da Insuficiência Hepática",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -28254,7 +28254,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus - Complicações Crônicas",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -28272,7 +28272,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus - Complicações Crônicas",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
