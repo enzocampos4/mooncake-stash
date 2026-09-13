@@ -27957,7 +27957,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Transplante Hepático e Hepatite Fulminante",
+    "subsub": "Transplante Hepático e Hepatectomia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -27966,7 +27966,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Tumores Intracranianos",
+    "subsub": "Tumores do Sistema Nervoso Central",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Neurologia"
@@ -27975,7 +27975,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Anatomia e Fisiologia do Cólon e Síndrome do Intestino Irritável",
+    "subsub": "Estômago",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -27984,7 +27984,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Anatomia e Fisiologia do Cólon e Síndrome do Intestino Irritável",
+    "subsub": "Estômago",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -27993,7 +27993,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Anatomia, Fisiologia e Semiologia Neurológica",
+    "subsub": "Distúrbios do Movimento",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Neurologia"
@@ -28002,7 +28002,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Manifestações Reumatológicas e Doenças Sistêmicas",
+    "subsub": "Doenças da cartilagem e do osso",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -28011,7 +28011,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Lesão Renal Aguda (LRA)",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
@@ -28020,7 +28020,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Anatomia e Fisiologia do Pâncreas e Neoplasias Pancreáticas",
+    "subsub": "Pâncreas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -28029,7 +28029,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Lesão Renal Aguda (LRA)",
+    "subsub": "Doença Renal Crônica",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
@@ -28038,7 +28038,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Tumores Intracranianos",
+    "subsub": "Tumores do Sistema Nervoso Central",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Neurologia"
@@ -28047,7 +28047,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Tumores Hepáticos",
+    "subsub": "Outras Hepatopatias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -28056,7 +28056,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "Oncologia Cutânea (Câncer de Pele)",
+    "subsub": "Câncer de pele",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
