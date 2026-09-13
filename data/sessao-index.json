@@ -27741,7 +27741,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Transplante Hepático e Hepatite Fulminante",
+    "subsub": "Transplante Hepático e Hepatectomia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -27750,7 +27750,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Micoses Invasivas",
+    "subsub": "HIV/Aids",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -27759,7 +27759,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Cirrose Hepática",
+    "subsub": "Cirrose",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -27768,7 +27768,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Introdução à Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -27794,8 +27794,8 @@
   "site-neu-0004": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Neurologia",
-    "subsub": "Distúrbios do Movimento",
+    "sub": "Hepatologia",
+    "subsub": "Outras Hepatopatias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Neurologia"
@@ -27804,7 +27804,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Doença Inflamatória Intestinal",
+    "subsub": "Intestinos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -27813,7 +27813,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Doença Inflamatória Intestinal",
+    "subsub": "Intestinos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -27822,7 +27822,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Doenças Desmielinizantes e Encefalites Autoimunes",
+    "subsub": "Doenças Imunológicas do Sistema Nervoso Central",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Neurologia"
@@ -27831,7 +27831,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Doenças Autoimunes do Tecido Conjuntivo",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -27840,7 +27840,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Síndrome Hepatorrenal e Síndrome Hepatopulmonar",
+    "subsub": "Complicações da Insuficiência Hepática",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
