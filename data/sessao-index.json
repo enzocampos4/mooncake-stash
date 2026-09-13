@@ -27578,8 +27578,8 @@
   "site-neu-0001": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Neurologia",
-    "subsub": "Distúrbios do Sono",
+    "sub": "Pneumologia",
+    "subsub": "Pneumologia Intensiva",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Neurologia"
@@ -27597,7 +27597,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Hipófise - Hiperprolactinemia",
+    "subsub": "Hipófise",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -27606,7 +27606,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Doença Inflamatória Intestinal",
+    "subsub": "Intestinos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -27623,8 +27623,8 @@
   "site-der-0002": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Hanseníase",
+    "sub": "Infectologia",
+    "subsub": "Infecções bacterianas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
