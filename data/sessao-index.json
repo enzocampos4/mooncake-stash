@@ -30711,7 +30711,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Neurologia",
-    "subsub": "Doenças Desmielinizantes e Encefalites Autoimunes",
+    "subsub": "Doenças Imunológicas do Sistema Nervoso Central",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Neurologia"
@@ -30719,8 +30719,8 @@
   "site-end-0054": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Obesidade - Obesidade e Síndrome Metabólica",
+    "sub": "Cardiologia",
+    "subsub": "Hipertensão Arterial Sistêmica (HAS)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -30729,7 +30729,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Hipoglicemia no Paciente não Diabético",
+    "subsub": "Hipoglicemia em indivíduos não diabéticos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -30738,7 +30738,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Adrenal - Hipocortisolismo (Insuficiência Adrenal)",
+    "subsub": "Adrenal",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -30746,8 +30746,8 @@
   "site-hepa-0033": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Hepatologia",
-    "subsub": "Cirrose Hepática",
+    "sub": "Endocrinologia",
+    "subsub": "Tireoide",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -30756,7 +30756,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Leucemias Crônicas, Linfomas, Mielodisplasias e Mieloproliferações",
+    "subsub": "Leucemias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hematologia"
