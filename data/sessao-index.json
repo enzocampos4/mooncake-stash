@@ -30440,8 +30440,8 @@
   "site-reu-0022": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Introdução à Reumatologia",
+    "sub": "Infectologia",
+    "subsub": "",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -30450,7 +30450,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Medicina Transfusional",
+    "subsub": "Medicina transfusional",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hematologia"
@@ -30459,7 +30459,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Introdução ao Diabetes Mellitus",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -30468,7 +30468,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Hemostasia I- Conceitos Básicos e Anticoagulantes",
+    "subsub": "Hemostasia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hematologia"
@@ -30486,7 +30486,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Arboviroses (Dengue, Chikungunya e Zika)",
+    "subsub": "Arboviroses",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -30494,8 +30494,8 @@
   "site-reu-0023": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Reumatologia",
-    "subsub": "Miscelânea",
+    "sub": "Pneumologia",
+    "subsub": "Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -30504,7 +30504,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Tireoide - Hipotireoidismo",
+    "subsub": "Tireoide",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -30513,7 +30513,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Reumatologia Pediátrica",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -30531,7 +30531,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Neutropenia Febril e Febre de Origem Indeterminada",
+    "subsub": "Infecções bacterianas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -30540,7 +30540,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Neutropenia Febril e Febre de Origem Indeterminada",
+    "subsub": "Sepse",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
