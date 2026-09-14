@@ -29793,7 +29793,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "Dermatoses Infecciosas",
+    "subsub": "Dermatoses infecciosas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
@@ -29811,7 +29811,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Lesão Renal Aguda (LRA)",
+    "subsub": "",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
@@ -29820,7 +29820,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Túbulo-Interstício Renal",
+    "subsub": "Túbulo-Interstício",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
@@ -29828,8 +29828,8 @@
   "site-der-0033": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Hanseníase",
+    "sub": "Reumatologia",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
@@ -29837,8 +29837,8 @@
   "site-der-0034": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Histologia e Fisiologia da Pele e Lesões Elementares",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
@@ -29847,7 +29847,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Transplante Hepático e Hepatite Fulminante",
+    "subsub": "Transplante Hepático e Hepatectomia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -29856,7 +29856,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Artrites Microcristalinas",
+    "subsub": "Artropatias inflamatórias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -29883,7 +29883,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Disfagia, Alterações Estruturais e Distúrbios da Motilidade do Esôfago",
+    "subsub": "Intestinos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
