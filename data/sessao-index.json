@@ -28929,7 +28929,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Síndrome Febril Íctero-Hemorrágica",
+    "subsub": "Arboviroses",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -28938,7 +28938,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Adrenal- Hipercortisolismo (Síndrome de Cushing)",
+    "subsub": "Adrenal",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -28947,7 +28947,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Outras Causas de Hepatopatia Crônica",
+    "subsub": "Outras Hepatopatias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -28956,7 +28956,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Hipoglicemia no Paciente não Diabético",
+    "subsub": "Hipoglicemia em indivíduos não diabéticos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -28965,7 +28965,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "Dermatoses Infecciosas",
+    "subsub": "Dermatoses infecciosas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
@@ -28974,7 +28974,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Raiva, Tétano, Mordedura e Arranhadura Animal",
+    "subsub": "Vacinas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -28983,7 +28983,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Micoses Invasivas",
+    "subsub": "HIV/Aids",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -29001,7 +29001,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Tuberculose",
+    "subsub": "Tuberculose (TB)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -29010,7 +29010,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Reumatologia",
-    "subsub": "Reumatologia Pediátrica",
+    "subsub": "Doenças autoimunes do tecido conjuntivo",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Reumatologia"
@@ -29028,7 +29028,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Leucemias Crônicas, Linfomas, Mielodisplasias e Mieloproliferações",
+    "subsub": "Linfomas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hematologia"
