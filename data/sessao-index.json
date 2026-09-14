@@ -29037,7 +29037,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Disfagia, Alterações Estruturais e Distúrbios da Motilidade do Esôfago",
+    "subsub": "Hemorragia Digestiva (HD)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -29045,8 +29045,8 @@
   "site-inf-0033": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Antibióticos",
+    "sub": "Nefrologia",
+    "subsub": "Infecção do trato urinário (ITU)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -29055,7 +29055,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus- Insulinoterapia",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -29073,7 +29073,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Transplante Hepático e Hepatite Fulminante",
+    "subsub": "Transplante Hepático e Hepatectomia",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -29082,7 +29082,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Neoplasias Endócrinas Múltiplas",
+    "subsub": "Neoplasias endócrinas múltiplas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -29091,7 +29091,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Malária",
+    "subsub": "Parasitoses",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -29100,7 +29100,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus - Complicações Crônicas",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -29109,7 +29109,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Pneumologia",
-    "subsub": "Introdução à Pneumologia",
+    "subsub": "Pneumologia Intensiva",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Pneumologia"
@@ -29118,7 +29118,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Tuberculose",
+    "subsub": "Tuberculose (TB)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -29127,7 +29127,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Anatomia e Fisiologia do Pâncreas e Neoplasias Pancreáticas",
+    "subsub": "Pâncreas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
