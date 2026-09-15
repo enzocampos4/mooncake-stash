@@ -33465,7 +33465,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Malária",
+    "subsub": "Parasitoses",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -33473,8 +33473,8 @@
   "site-inf-0147": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Infectologia",
-    "subsub": "Hepatoesplenomegalias Infecciosas",
+    "sub": "Hepatologia",
+    "subsub": "Outras Hepatopatias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -33492,7 +33492,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Raiva, Tétano, Mordedura e Arranhadura Animal",
+    "subsub": "Vacinas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -33501,7 +33501,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Leucemias Crônicas, Linfomas, Mielodisplasias e Mieloproliferações",
+    "subsub": "Linfomas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hematologia"
@@ -33510,7 +33510,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Adrenal- Hipercortisolismo (Síndrome de Cushing)",
+    "subsub": "Adrenal",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -33519,7 +33519,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "Piodermites",
+    "subsub": "Dermatoses infecciosas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
@@ -33528,7 +33528,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Antibióticos",
+    "subsub": "Microbiologia e Antimicrobianos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -33537,7 +33537,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Divertículos Colônicos e Divertículo de Meckel",
+    "subsub": "Intestinos",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -33546,7 +33546,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Anatomia e Fisiologia do Pâncreas e Neoplasias Pancreáticas",
+    "subsub": "Pâncreas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -33555,7 +33555,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Cirrose Hepática",
+    "subsub": "Cirrose",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -33564,7 +33564,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Túbulo-Interstício Renal",
+    "subsub": "Túbulo-Interstício",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
