@@ -31673,8 +31673,8 @@
   "site-end-0078": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Obesidade - Obesidade e Síndrome Metabólica",
+    "sub": "Nefrologia",
+    "subsub": "Lesão renal aguda (LRA)",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -31683,7 +31683,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Lesão Renal Aguda (LRA)",
+    "subsub": "Doença Renal Crônica",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
@@ -31692,7 +31692,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Polipose Intestinal e Câncer Colorretal",
+    "subsub": "Neoplasias do Sistema Digestivo",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -31701,7 +31701,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Adrenal- Hipercortisolismo (Síndrome de Cushing)",
+    "subsub": "Adrenal",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -31710,7 +31710,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Tumores Hepáticos",
+    "subsub": "Outras Hepatopatias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -31719,7 +31719,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Arboviroses (Dengue, Chikungunya e Zika)",
+    "subsub": "Arboviroses",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -31728,7 +31728,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Adrenal- Hipercortisolismo (Síndrome de Cushing)",
+    "subsub": "Adrenal",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
