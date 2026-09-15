@@ -32816,8 +32816,8 @@
   "site-der-0066": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Dermatologia",
-    "subsub": "Histologia e Fisiologia da Pele e Lesões Elementares",
+    "sub": "Infectologia",
+    "subsub": "Parasitoses",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
@@ -32826,7 +32826,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hepatologia",
-    "subsub": "Cirrose Hepática",
+    "subsub": "Outras Hepatopatias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hepatologia"
@@ -32835,7 +32835,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus - Complicações Crônicas",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -32844,7 +32844,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Anatomia e Fisiologia do Cólon e Síndrome do Intestino Irritável",
+    "subsub": "Pâncreas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -32853,7 +32853,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus - Complicações Crônicas",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -32862,7 +32862,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus - Complicações Crônicas",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
