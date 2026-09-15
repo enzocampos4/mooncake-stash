@@ -33141,7 +33141,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Anatomia e Fisiologia do Pâncreas e Neoplasias Pancreáticas",
+    "subsub": "Pâncreas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -33150,7 +33150,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Gastroenterologia",
-    "subsub": "Anatomia e Fisiologia do Pâncreas e Neoplasias Pancreáticas",
+    "subsub": "Pâncreas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Gastroenterologia"
@@ -33168,7 +33168,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Hematologia",
-    "subsub": "Leucemias Crônicas, Linfomas, Mielodisplasias e Mieloproliferações",
+    "subsub": "Leucemias",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Hematologia"
@@ -33186,7 +33186,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Dermatologia",
-    "subsub": "Miscelânea",
+    "subsub": "Dermatoses vesicobolhosas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Dermatologia"
@@ -33195,7 +33195,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Nefrologia",
-    "subsub": "Túbulo-Interstício Renal",
+    "subsub": "Túbulo-Interstício",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Nefrologia"
@@ -33203,8 +33203,8 @@
   "site-end-0109": {
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
-    "sub": "Endocrinologia",
-    "subsub": "Adrenal - Feocromocitoma, Hiperaldosteronismo e Incidentaloma Adrenal",
+    "sub": "Nefrologia",
+    "subsub": "Distúrbios do potássio",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -33213,7 +33213,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus- Insulinoterapia",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -33222,7 +33222,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Infectologia",
-    "subsub": "Micoses Invasivas",
+    "subsub": "Infecções fúngicas",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Infectologia"
@@ -33231,7 +33231,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus- Insulinoterapia",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
@@ -33240,7 +33240,7 @@
     "area": "clinica-medica",
     "area_nome": "Clinica Medica",
     "sub": "Endocrinologia",
-    "subsub": "Diabetes Mellitus- Insulinoterapia",
+    "subsub": "Diabetes",
     "banca": "BQMED",
     "ano": 0,
     "fonte": "BQMED (Site) — Endocrinologia"
