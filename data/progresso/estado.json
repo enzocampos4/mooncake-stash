@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-09-08T10:20:28.331Z",
+  "exportado": "2026-09-17T23:59:43.228Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -1137,6 +1137,76 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-09-08T10:20:10.915Z",
       "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0079",
+      "acertou": false,
+      "selecao": "B",
+      "area": "Clínica Médica",
+      "subarea": "Psiquiatria",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-08T15:41:50.561Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0080",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-08T15:44:05.624Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0081",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Clínica Médica",
+      "subarea": "Nefrologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-08T15:48:13.919Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0082",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Cirurgia",
+      "subarea": "Urgências Abdominais",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-08T15:57:53.089Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0083",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Ginecologia",
+      "subarea": "Mastologia",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-09T14:21:26.399Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0084",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Medicina Preventiva",
+      "subarea": "Ética Médica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-09T14:24:57.437Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-rev-2026-1-0085",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Medicina Preventiva",
+      "subarea": "Ética Médica",
+      "fonte": "REVALIDA INEP 2026.1",
+      "timestamp": "2026-09-09T14:29:28.627Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -1238,7 +1308,14 @@
         "pv-rev-2026-1-0075": "certo",
         "pv-rev-2026-1-0076": "errado",
         "pv-rev-2026-1-0077": "certo",
-        "pv-rev-2026-1-0078": "errado"
+        "pv-rev-2026-1-0078": "errado",
+        "pv-rev-2026-1-0079": "errado",
+        "pv-rev-2026-1-0080": "errado",
+        "pv-rev-2026-1-0081": "certo",
+        "pv-rev-2026-1-0082": "certo",
+        "pv-rev-2026-1-0083": "certo",
+        "pv-rev-2026-1-0084": "certo",
+        "pv-rev-2026-1-0085": "certo"
       },
       "selecao": {
         "pv-rev-2026-1-0001": "D",
@@ -1318,7 +1395,14 @@
         "pv-rev-2026-1-0075": "C",
         "pv-rev-2026-1-0076": "D",
         "pv-rev-2026-1-0077": "A",
-        "pv-rev-2026-1-0078": "D"
+        "pv-rev-2026-1-0078": "D",
+        "pv-rev-2026-1-0079": "B",
+        "pv-rev-2026-1-0080": "C",
+        "pv-rev-2026-1-0081": "B",
+        "pv-rev-2026-1-0082": "D",
+        "pv-rev-2026-1-0083": "D",
+        "pv-rev-2026-1-0084": "C",
+        "pv-rev-2026-1-0085": "D"
       },
       "timerRestante": 0
     }
