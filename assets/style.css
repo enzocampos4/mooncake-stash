@@ -1,0 +1,171 @@
+/* ─────────────────────────────────────────────
+   HermesMed — Estilos compartilhados (todas as páginas)
+   Tema: unifica as variáveis já definidas por página e
+   adiciona a barra de navegação inferior + folha "Mais".
+   Funciona em claro E escuro (usa as vars de cada página).
+   ───────────────────────────────────────────── */
+
+/* Folga inferior para o conteúdo não ficar atrás da barra fixa */
+body {
+  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 104px) !important;
+}
+
+/* ─── NAVEGAÇÃO INFERIOR ─── */
+.bottom-navbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  background: var(--bg, #0f0f1a);
+  background: color-mix(in srgb, var(--bg, #0f0f1a) 88%, transparent);
+  -webkit-backdrop-filter: saturate(160%) blur(20px);
+  backdrop-filter: saturate(160%) blur(20px);
+  border-top: 1px solid rgba(124, 92, 252, 0.22);
+  border-top: 1px solid color-mix(in srgb, var(--accent, #7c5cfc) 22%, transparent);
+  box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.18);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+.bottom-navbar .nav-inner {
+  max-width: 600px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  padding: 8px 6px 6px;
+}
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  padding: 6px 2px;
+  border: none;
+  background: transparent;
+  color: var(--muted, #8888a0);
+  font-family: inherit;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 14px;
+  transition: color 0.2s ease, transform 0.15s ease, background 0.2s ease;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+.nav-item .nav-icon {
+  font-size: 1.35rem;
+  line-height: 1;
+  transition: transform 0.2s ease;
+}
+.nav-item:active { transform: scale(0.92); }
+.nav-item:hover { background: color-mix(in srgb, var(--accent, #7c5cfc) 10%, transparent); }
+.nav-item.active {
+  color: var(--accent, #7c5cfc);
+}
+.nav-item.active .nav-icon { transform: translateY(-1px); }
+.nav-item.active .nav-dot {
+  width: 4px; height: 4px; border-radius: 2px;
+  background: var(--accent, #7c5cfc);
+  margin-top: 1px;
+}
+.nav-item .nav-dot {
+  width: 4px; height: 4px; border-radius: 2px;
+  background: transparent;
+  margin-top: 1px;
+}
+
+/* ─── FOLHA "MAIS" (bottom sheet) ─── */
+.more-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1100;
+  background: rgba(0, 0, 0, 0.6);
+  background: color-mix(in srgb, rgba(0,0,0,0.6) 55%, transparent);
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+}
+.more-overlay.open {
+  opacity: 1;
+  visibility: visible;
+}
+.more-sheet {
+  width: 100%;
+  max-width: 600px;
+  background: var(--bg, #0f0f1a);
+  border: 1px solid rgba(124, 92, 252, 0.18);
+  border: 1px solid color-mix(in srgb, var(--accent, #7c5cfc) 18%, transparent);
+  border-bottom: none;
+  border-radius: 22px 22px 0 0;
+  padding: 12px 18px calc(env(safe-area-inset-bottom, 0px) + 18px);
+  transform: translateY(100%);
+  transition: transform 0.28s cubic-bezier(0.32, 0.72, 0.35, 1);
+  max-height: 82vh;
+  overflow-y: auto;
+}
+.more-overlay.open .more-sheet { transform: translateY(0); }
+.more-handle {
+  width: 42px; height: 5px; border-radius: 3px;
+  background: var(--muted, #8888a0);
+  opacity: 0.5;
+  margin: 0 auto 14px;
+}
+.more-sheet h3 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted, #8888a0);
+  margin: 4px 4px 10px;
+}
+.more-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 13px 14px;
+  border-radius: 14px;
+  background: var(--card, #1a1a2e);
+  background: color-mix(in srgb, var(--card, #1a1a2e) 70%, transparent);
+  border: 1px solid transparent;
+  color: var(--text, #e8e8f0);
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.12s ease;
+  margin-bottom: 8px;
+  -webkit-tap-highlight-color: transparent;
+}
+.more-item:hover {
+  border-color: rgba(124, 92, 252, 0.45);
+  border-color: color-mix(in srgb, var(--accent, #7c5cfc) 45%, transparent);
+}
+.more-item:active { transform: scale(0.98); }
+.more-item .mi-icon {
+  width: 40px; height: 40px; border-radius: 12px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  background: rgba(124, 92, 252, 0.16);
+  background: color-mix(in srgb, var(--accent, #7c5cfc) 16%, transparent);
+}
+.more-item .mi-icon.red { background: rgba(255, 59, 48, 0.16); background: color-mix(in srgb, var(--wrong, #ff3b30) 16%, transparent); }
+.more-item .mi-icon.green { background: rgba(52, 199, 89, 0.16); background: color-mix(in srgb, var(--correct, #34c759) 16%, transparent); }
+.more-item .mi-icon.blue { background: rgba(90, 200, 250, 0.16); background: color-mix(in srgb, var(--accent2, #5ac8fa) 16%, transparent); }
+.more-item .mi-tt {
+  flex: 1;
+  min-width: 0;
+}
+.more-item .mi-tt .mi-name { font-weight: 600; font-size: 0.95rem; }
+.more-item .mi-tt .mi-sub { font-size: 0.75rem; color: var(--muted, #8888a0); margin-top: 2px; }
+.more-item .mi-arrow { color: var(--muted, #8888a0); font-size: 1rem; }
+
+@media (min-width: 540px) {
+  .nav-item { font-size: 0.68rem; }
+  .nav-item .nav-icon { font-size: 1.45rem; }
+}
