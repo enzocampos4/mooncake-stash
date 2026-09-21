@@ -683,6 +683,18 @@
     .question-card .enunciado { font-size: 0.92rem; }
     .alt-btn { padding: 12px; font-size: 0.88rem; }
     .topbar .info .title { font-size: 0.85rem; }
+  #buscaGlobalWrap{ padding:10px 0 20px; }
+.busca-bar{ display:flex; gap:8px; align-items:center; margin-bottom:8px; }
+.busca-bar input{ flex:1; background:var(--card); border:1px solid var(--border); border-radius:10px; padding:12px 14px; font-size:.92rem; color:var(--text); outline:none; }
+.busca-bar button{ background:var(--card); border:1px solid var(--border); border-radius:10px; color:var(--muted); font-size:.95rem; cursor:pointer; padding:6px 12px; }
+#buscaGlobalStatus{ font-size:.75rem; color:var(--muted); margin:2px 2px 8px; }
+#buscaGlobalResults{ display:flex; flex-direction:column; gap:8px; }
+.busca-res{ background:var(--card); border:1px solid var(--border); border-radius:12px; padding:10px 12px; text-decoration:none; display:block; }
+.busca-res:active{ opacity:.8; }
+.br-head{ font-size:.72rem; color:#0a84ff; font-weight:600; margin-bottom:3px; }
+.br-banca{ color:var(--muted); font-weight:400; }
+.br-en{ font-size:.82rem; color:var(--text); line-height:1.45; }
+.busca-none{ color:var(--muted); text-align:center; padding:24px 10px; font-size:.85rem; }
   }
 </style>
 </head>
@@ -696,7 +708,18 @@
       <div class="sub" id="pageSub">Carregando...</div>
     </div>
     <span class="mode-badge" id="modeBadge">Livre</span>
+    <button class="back" onclick="toggleBuscaGlobal()" title="Buscar questão pelo enunciado" style="cursor:pointer;border:none;">🔍</button>
     <button class="back" onclick="hermesmedTema.toggle()" title="Alternar tema claro/escuro" style="cursor:pointer;border:none;">🌓</button>
+  </div>
+
+  <!-- Busca global pelo enunciado (lupa) -->
+  <div id="buscaGlobalWrap" style="display:none;">
+    <div class="busca-bar">
+      <input id="buscaGlobalInput" type="text" placeholder="Digite parte do enunciado..." oninput="onBuscaGlobalInput()">
+      <button onclick="fecharBuscaGlobal()" title="Fechar busca">✕</button>
+    </div>
+    <div id="buscaGlobalStatus"></div>
+    <div id="buscaGlobalResults"></div>
   </div>
 
   <!-- Area grid (default view) -->
@@ -2433,6 +2456,80 @@ function aplicarFiltrosErro() {
   document.getElementById('qTotal').textContent = lista.length;
   renderDots();
   showQuestion(0);
+}
+
+// ===== Busca global pelo enunciado (lupa, modo livre) =====
+let buscaDataCache = null; // { area: [q...] } após carregar
+const BUSCA_ACENTOS = {'á':'a','à':'a','â':'a','ã':'a','ä':'a','é':'e','è':'e','ê':'e','ë':'e','í':'i','ì':'i','î':'i','ï':'i','ó':'o','ò':'o','ô':'o','õ':'o','ö':'o','ú':'u','ù':'u','û':'u','ü':'u','ç':'c','ñ':'n'};
+function normBusca(t){ return (t||'').toLowerCase().split('').map(c=>BUSCA_ACENTOS[c]||c).join('').replace(/\s+/g,' ').trim(); }
+function escapeHtml(t){ return (t==null?'':String(t)).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+async function carregarDataBusca(areas){
+  buscaDataCache = {};
+  const st = document.getElementById('buscaGlobalStatus');
+  let n = 0;
+  await Promise.all(areas.map(async a=>{
+    try {
+      const r = await fetch(`data/${a}.json`);
+      const d = await r.json();
+      buscaDataCache[a] = d.questoes || [];
+    } catch { buscaDataCache[a] = []; }
+    n++;
+    if (st) st.textContent = `Carregando questões… ${n}/${areas.length}`;
+  }));
+}
+
+function abrirBuscaGlobal(){
+  document.getElementById('buscaGlobalWrap').style.display = 'block';
+  document.getElementById('areaGrid').style.display = 'none';
+  document.getElementById('questionView').style.display = 'none';
+  document.getElementById('buscaGlobalInput').focus();
+}
+function fecharBuscaGlobal(){
+  document.getElementById('buscaGlobalWrap').style.display = 'none';
+  document.getElementById('buscaGlobalInput').value = '';
+  document.getElementById('buscaGlobalResults').innerHTML = '';
+  document.getElementById('buscaGlobalStatus').textContent = '';
+  document.getElementById('areaGrid').style.display = 'grid';
+}
+function toggleBuscaGlobal(){
+  const w = document.getElementById('buscaGlobalWrap');
+  if (w.style.display === 'block') fecharBuscaGlobal(); else abrirBuscaGlobal();
+}
+
+let buscaDebounce = null;
+function onBuscaGlobalInput(){
+  clearTimeout(buscaDebounce);
+  buscaDebounce = setTimeout(buscarGlobal, 300);
+}
+async function buscarGlobal(){
+  const inp = document.getElementById('buscaGlobalInput');
+  const q = normBusca(inp.value);
+  const resBox = document.getElementById('buscaGlobalResults');
+  const st = document.getElementById('buscaGlobalStatus');
+  if (q.length < 2){ resBox.innerHTML = ''; st.textContent = 'digite ao menos 2 letras'; return; }
+  const areas = Object.keys(assuntoData || {});
+  if (!buscaDataCache || Object.keys(buscaDataCache).length !== areas.length){
+    st.textContent = 'Carregando questões…';
+    await carregarDataBusca(areas);
+  }
+  const hits = [];
+  for (const a of areas){
+    const qs = buscaDataCache[a] || [];
+    for (const qq of qs){
+      if (qq && normBusca(qq.enunciado).includes(q)) hits.push({ area:a, q:qq });
+    }
+  }
+  st.textContent = `${hits.length} resultado${hits.length===1?'':'s'}`;
+  resBox.innerHTML = hits.slice(0,150).map(h=>{
+    const sn = escapeHtml((h.q.enunciado||'').replace(/\s+/g,' ')).slice(0,160);
+    const nome = escapeHtml((assuntoData[h.area] && assuntoData[h.area].nome) || h.area);
+    const banca = escapeHtml((h.q.banca||h.q.fonte||'')) + (h.q.ano ? ' ' + escapeHtml(h.q.ano) : '');
+    return `<a class="busca-res" href="questoes.html?area=${h.area}&qid=${encodeURIComponent(h.q.id)}">
+      <div class="br-head"><span>${AREA_ICONS[h.area]||'📚'}</span> ${nome} <span class="br-banca">· ${banca}</span></div>
+      <div class="br-en">${sn}</div>
+    </a>`;
+  }).join('') || '<div class="busca-none">Nenhuma questão encontrada com esse trecho.</div>';
 }
 
 function filtrarErrosBusca() {
