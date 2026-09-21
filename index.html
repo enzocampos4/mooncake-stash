@@ -419,7 +419,12 @@ async function renderDashboard() {
     const count = qs.length; totalQuestoes += count;
     const prog = progresso[area.id] || {};
     const respondidas = Object.keys(prog).filter(id => prog[id] !== undefined).length;
-    const acertos = Object.keys(prog).filter(id => prog[id] === true).length;
+    const acertos = Object.keys(prog).filter(id => {
+      const v = prog[id];
+      if (v === true) return true;
+      if (v && typeof v === 'object') return v.acertou === true;
+      return false;
+    }).length;
     totalRespondidas += respondidas; totalAcertos += acertos;
     const pct = count > 0 ? Math.round((respondidas / count) * 100) : 0;
     const card = document.createElement('a');
