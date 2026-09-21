@@ -1531,7 +1531,9 @@ function showQuestion(index, skipScroll) {
   // Verificar estado salvo
   const areaKey = getAreaKey(q);
   const prog = getProgQuestao(q.id, areaKey);
-  answered = prog.respondida;
+  // Sempre re-respondível: o estado anterior fica visível na barra de
+  // status (Já acertada/Já errada + Histórico), nunca no corpo da questão.
+  answered = false;
   renderQuestionStatus(q, prog);
 
   document.getElementById('qIndex').textContent = index + 1;
@@ -1620,79 +1622,9 @@ function showQuestion(index, skipScroll) {
     btnNext.textContent = answered ? '✅ Finalizar' : '⏭️ Pular';
   }
 
-  // Se já respondida, restaurar estado visual
-  if (answered) {
-    const correta = q.correta;
-    const selLetra = prog.selecao;
-    document.querySelectorAll('.alt-btn').forEach(btn => {
-      btn.classList.add('disabled');
-      btn.onclick = null;
-      const letra = btn.dataset.letra;
-      if (letra === correta) btn.classList.add('correct');
-      if (letra === selLetra && letra !== correta) btn.classList.add('wrong');
-      if (letra === correta && letra !== selLetra && selLetra) btn.classList.add('show-correct');
-    });
-
-    // Mostrar explicação
-    if (q.explicacao) {
-      document.getElementById('qExplicacao').classList.add('visible');
-      document.getElementById('qExplicacaoTexto').innerHTML = q.explicacao;
-      const expImgBox = document.getElementById('qExpImagens');
-      expImgBox.innerHTML = '';
-      var imgsExp = q.imagens_explicacao || q.imagens || [];
-      if (imgsExp.length > 0) {
-        imgsExp.forEach(src => {
-          const img = document.createElement('img');
-          img.src = src;
-          img.loading = 'lazy';
-          img.onclick = () => window.open(src, '_blank');
-          expImgBox.appendChild(img);
-        });
-      }
-      renderVideoExplicacao(q);
-    }
-
-    // Substituir Confirm por badge + Refazer
-    document.getElementById('btnConfirm').style.display = 'none';
-    document.getElementById('btnSkip').style.display = 'none';
-    const actions = document.getElementById('qActions');
-    // Remover badges antigos
-    actions.querySelectorAll('.btn-correct, .btn-wrong, .btn-outline').forEach(e => e.remove());
-    if (prog.acertou === true) {
-      const badge = document.createElement('button');
-      badge.className = 'btn btn-correct';
-      badge.disabled = true;
-      badge.textContent = '✅ Correto!';
-      actions.insertBefore(badge, btnNext);
-    } else if (prog.acertou === false) {
-      const badge = document.createElement('button');
-      badge.className = 'btn btn-wrong';
-      badge.disabled = true;
-      badge.textContent = `❌ Errado! (Resposta: ${correta})`;
-      actions.insertBefore(badge, btnNext);
-    }
-    // Botão Refazer
-    const refBtn = document.createElement('button');
-    refBtn.className = 'btn btn-outline';
-    refBtn.textContent = '🔄 Refazer';
-    refBtn.onclick = () => {
-      delProgQuestao(q.id, areaKey);
-      showQuestion(currentIndex);
-    };
-    actions.insertBefore(refBtn, btnNext);
-
-    // Botão Favoritar
-    const favBtn = document.createElement('button');
-    const isFav = isFavorito(q.id);
-    favBtn.className = 'btn ' + (isFav ? 'btn-fav' : 'btn-outline');
-    favBtn.textContent = isFav ? '⭐ Favorita' : '☆ Favoritar';
-    favBtn.onclick = () => {
-      const nova = toggleFavorito(q.id);
-      favBtn.className = 'btn ' + (nova ? 'btn-fav' : 'btn-outline');
-      favBtn.textContent = nova ? '⭐ Favorita' : '☆ Favoritar';
-    };
-    actions.insertBefore(favBtn, btnNext);
-  }
+  // (bloco de restauração de resposta removido: questões já respondidas
+  //  abrem SEM realçar correto/errado e SEM mostrar a resolução automática;
+  //  o estado fica na barra de status + botão Histórico)
 
   renderDots();
   if (skipScroll) {
