@@ -997,6 +997,26 @@ function fmtQuando(ts) {
   return d.toLocaleDateString('pt-BR') + ' ' + d.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
 }
 
+function mostrarResolucao(q) {
+  if (!q || !q.explicacao) return;
+  const box = document.getElementById('qExplicacao');
+  if (box.classList.contains('visible')) { box.classList.remove('visible'); return; }
+  box.classList.add('visible');
+  document.getElementById('qExplicacaoTexto').innerHTML = q.explicacao;
+  const expImgBox = document.getElementById('qExpImagens');
+  expImgBox.innerHTML = '';
+  const imgsExp = q.imagens_explicacao || q.imagens || [];
+  if (imgsExp.length > 0) {
+    imgsExp.forEach(src => {
+      const img = document.createElement('img');
+      img.src = src; img.loading = 'lazy';
+      img.onclick = () => window.open(src, '_blank');
+      expImgBox.appendChild(img);
+    });
+  }
+  renderVideoExplicacao(q);
+}
+
 function renderQuestionStatus(q, prog) {
   const bar = document.getElementById('qStatusBar');
   if (!bar) return;
@@ -1009,6 +1029,7 @@ function renderQuestionStatus(q, prog) {
   else { chip = '❌ Já errada'; chipCls = 'bad'; }
   bar.innerHTML =
     `<span class="status-chip ${chipCls}">${chip}</span>` +
+    (respondida && q.explicacao ? `<button class="hist-btn" onclick="mostrarResolucao(questoesFiltradas[currentIndex])">📖 Resolução</button>` : '') +
     (n > 0 ? `<button class="hist-btn" onclick="abrirHistorico()">🕘 Histórico (${n})</button>` : '');
   bar.style.display = 'flex';
 }
