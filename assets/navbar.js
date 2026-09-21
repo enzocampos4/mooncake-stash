@@ -16,6 +16,7 @@
   ];
 
   const MORE_ITEMS = [
+    { icon: '📘', ico: 'red', name: 'Caderno de Erros', sub: 'Revisar questões que errei, por área', href: 'questoes.html?modo=erros' },
     { icon: '🎯', ico: '', name: 'Sessão de Estudo', sub: 'Personalizada por área e tópico', href: 'sessao.html' },
     { icon: '🃏', ico: 'blue', name: 'Flashcards', sub: 'Revisão rápida por decks', href: 'flashcard.html' },
     { icon: '🗓️', ico: 'green', name: 'Meu Plano', sub: 'Plano de estudos', href: 'plano.html' },
