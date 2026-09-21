@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-09-18T02:16:34.062Z",
+  "exportado": "2026-09-21T08:57:39.244Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -70,6 +70,14 @@
         "nota": "",
         "respondida": true,
         "data": "2026-08-03T14:41:57.885Z"
+      },
+      "pv-uni-2024-0058": {
+        "acertou": true,
+        "selecao": "D",
+        "favorita": false,
+        "nota": "",
+        "respondida": true,
+        "data": "2026-09-21T08:27:06.236Z"
       }
     },
     "clinica-medica": {
@@ -130,12 +138,12 @@
         "data": "2026-08-30T16:05:23.440Z"
       },
       "site-card-0062": {
-        "acertou": false,
-        "selecao": "C",
+        "acertou": true,
+        "selecao": "B",
         "favorita": false,
         "nota": "",
         "respondida": true,
-        "data": "2026-08-31T11:11:32.669Z"
+        "data": "2026-09-21T08:56:17.324Z"
       }
     },
     "pediatria": {
@@ -1207,6 +1215,26 @@
       "fonte": "REVALIDA INEP 2026.1",
       "timestamp": "2026-09-09T14:29:28.627Z",
       "modo": "questoes"
+    },
+    {
+      "id": "pv-uni-2024-0058",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Ginecologia",
+      "subarea": "Infecções em ginecologia",
+      "fonte": "UNIFESP 2024",
+      "timestamp": "2026-09-21T08:27:06.239Z",
+      "modo": "📖 Livre"
+    },
+    {
+      "id": "site-card-0062",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "BQMED (Site) — Cardiologia",
+      "timestamp": "2026-09-21T08:56:17.334Z",
+      "modo": "📖 Livre"
     }
   ],
   "favoritos": {},
@@ -1218,14 +1246,15 @@
     }
   },
   "streak": {
-    "count": 2,
-    "ultimo": "2026-08-31",
+    "count": 1,
+    "ultimo": "2026-09-21",
     "dias": {
       "2026-08-03": 7,
       "2026-08-05": 3,
       "2026-08-13": 1,
       "2026-08-30": 6,
-      "2026-08-31": 1
+      "2026-08-31": 1,
+      "2026-09-21": 2
     }
   },
   "simulados": {
