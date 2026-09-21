@@ -554,6 +554,37 @@
     display: flex; align-items: center; justify-content: center;
   }
   .modal-close:hover { color: var(--text); }
+
+  /* Status da questão (já acertada/errada/nunca) */
+  .status-bar {
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    margin: 4px 0 12px; padding: 8px 12px;
+    background: var(--card2); border-radius: 10px;
+  }
+  .status-chip { font-size: .72rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px; }
+  .status-chip.ok { color: var(--correct); }
+  .status-chip.bad { color: var(--wrong); }
+  .status-chip.new { color: var(--muted); font-weight: 500; }
+  .hist-btn {
+    margin-left: auto; background: transparent; border: 1px solid var(--card2);
+    color: var(--muted); font-size: .72rem; padding: 4px 10px; border-radius: 14px;
+    cursor: pointer; transition: .2s;
+  }
+  .hist-btn:hover { color: var(--accent2); border-color: var(--accent); }
+  .hist-grid { display: flex; flex-direction: column; gap: 8px; }
+  .hist-item {
+    display: flex; align-items: center; gap: 10px; padding: 10px 12px;
+    background: var(--card2); border-radius: 10px; font-size: .8rem;
+  }
+  .hist-item .hi-ico { font-size: 1rem; }
+  .hist-item .hi-info { flex: 1; min-width: 0; }
+  .hist-item .hi-info .hi-when { color: var(--muted); font-size: .72rem; }
+  .hist-item .hi-info .hi-what { }
+  .hist-item .hi-mode {
+    font-size: .62rem; font-weight: 700; padding: 2px 8px; border-radius: 12px;
+    background: rgba(124,92,252,0.16); color: var(--accent2); white-space: nowrap;
+  }
+  .hist-empty { text-align: center; color: var(--muted); font-size: .85rem; padding: 18px; }
   .modal-search {
     width: 100%; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--card2);
     background: var(--card2); color: var(--text); font-size: 0.85rem; margin-bottom: 12px;
@@ -744,6 +775,7 @@
         <span class="tag" id="qDificuldade"></span>
         <span class="tag tag-fav" id="qFavStar" onclick="toggleFavFromMeta()" style="cursor:pointer;user-select:none;">☆</span>
       </div>
+      <div class="status-bar" id="qStatusBar" style="display:none;"></div>
       <div class="enunciado" id="qEnunciado"></div>
       <div class="destaque-toolbar">
         <button class="dest-btn" id="qDestaqueBtn" onclick="toggleDestaqueTexto()">🔖 Destacar</button>
@@ -858,6 +890,15 @@
       <button class="btn btn-primary" onclick="aplicarQuantidade()" style="width:100%;padding:14px;margin-top:12px;">🚀 Iniciar sessão</button>
     </div>
   </div>
+  <div class="modal-overlay" id="histModal" onclick="if(event.target===this)fecharHistorico()">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 id="histTitle">🕘 Histórico de respostas</h3>
+        <button class="modal-close" onclick="fecharHistorico()">✕</button>
+      </div>
+      <div class="hist-grid" id="histList"></div>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -938,6 +979,67 @@ function getProgQuestao(qId, areaKey) {
   }
   return val || { acertou: null, selecao: null, favorita: false, nota: '', respondida: false };
 }
+
+// ─── Status + histórico da questão ───
+let qAtualHistorico = null;
+
+function tentativasDaQuestao(qid) {
+  try {
+    const log = JSON.parse(localStorage.getItem(LOG_KEY) || '[]');
+    return log.filter(e => String(e.id) === String(qid))
+      .sort((a, b) => String(b.timestamp || '').localeCompare(String(a.timestamp || '')));
+  } catch { return []; }
+}
+
+function fmtQuando(ts) {
+  const d = new Date(ts);
+  if (isNaN(d)) return '';
+  return d.toLocaleDateString('pt-BR') + ' ' + d.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+}
+
+function renderQuestionStatus(q, prog) {
+  const bar = document.getElementById('qStatusBar');
+  if (!bar) return;
+  qAtualHistorico = q.id;
+  const n = tentativasDaQuestao(q.id).length;
+  const respondida = !!(prog && prog.respondida);
+  let chip, chipCls;
+  if (!respondida) { chip = '⬜ Nunca feita'; chipCls = 'new'; }
+  else if (prog.acertou) { chip = '✅ Já acertada'; chipCls = 'ok'; }
+  else { chip = '❌ Já errada'; chipCls = 'bad'; }
+  bar.innerHTML =
+    `<span class="status-chip ${chipCls}">${chip}</span>` +
+    (n > 0 ? `<button class="hist-btn" onclick="abrirHistorico()">🕘 Histórico (${n})</button>` : '');
+  bar.style.display = 'flex';
+}
+
+function abrirHistorico() {
+  const q = questoesFiltradas[currentIndex];
+  if (!q) return;
+  const list = tentativasDaQuestao(q.id);
+  const alts = q.alternativas || {};
+  const correta = q.correta || '';
+  document.getElementById('histTitle').textContent =
+    `🕘 Histórico — ${(q.area || '')} · Q${currentIndex + 1}`;
+  const el = document.getElementById('histList');
+  if (!list.length) {
+    el.innerHTML = '<div class="hist-empty">Nenhuma tentativa registrada desta questão.</div>';
+  } else {
+    el.innerHTML = list.map(e => {
+      const ic = e.acertou ? '✅' : '❌';
+      const selTexto = e.selecao ? `${e.selecao} — ${(alts[e.selecao] || '')}`.trim() : '—';
+      let what;
+      if (e.acertou) what = `Você marcou ${selTexto} e <b>acertou</b>`;
+      else if (e.selecao) what = `Você marcou <b>${e.selecao}</b>${correta ? ` — correta: ${correta}` : ''}`;
+      else what = 'Não respondeu';
+      return `<div class="hist-item"><span class="hi-ico">${ic}</span>
+        <span class="hi-info"><span class="hi-what">${what}</span><br><span class="hi-when">${fmtQuando(e.timestamp)}</span></span>
+        <span class="hi-mode">${(e.modo || '').trim() || ''}</span></div>`;
+    }).join('');
+  }
+  document.getElementById('histModal').classList.add('visible');
+}
+function fecharHistorico() { document.getElementById('histModal').classList.remove('visible'); }
 
 function setProgQuestao(qId, areaKey, data) {
   const p = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
@@ -1430,6 +1532,7 @@ function showQuestion(index, skipScroll) {
   const areaKey = getAreaKey(q);
   const prog = getProgQuestao(q.id, areaKey);
   answered = prog.respondida;
+  renderQuestionStatus(q, prog);
 
   document.getElementById('qIndex').textContent = index + 1;
   document.getElementById('qAcertos').textContent = acertos;
@@ -1677,6 +1780,8 @@ function confirmAnswer() {
 
   // Registrar no log de atividades
   addLogEntry(q, isCorrect, selectedLetra);
+  // Atualizar a barra de status imediatamente após responder
+  renderQuestionStatus(q, getProgQuestao(q.id, areaKey));
 
   // Streak — só incrementa quando realmente responde
   atualizarStreak();
