@@ -45,345 +45,175 @@
                 var(--bg);
     color: var(--text);
     min-height: 100vh;
-    padding: 20px;
+    padding: 18px;
   }
   .container { max-width: 800px; margin: 0 auto; }
 
-  /* Header */
-  .header {
-    text-align: center;
-    padding: 30px 0 22px;
+  .greet { font-size: 1.5rem; font-weight: 800; margin-bottom: 4px; }
+  .date-line { color: var(--muted); font-size: 0.9rem; margin-bottom: 16px; }
+  .header { margin-bottom: 16px; position: relative; }
+  .header .top-right { position: absolute; top: 4px; right: 0; display: flex; gap: 8px; align-items: center; }
+  .icon-btn {
+    border: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.03); color: var(--muted);
+    border-radius: 20px; padding: 6px 12px; cursor: pointer; font-size: 0.85rem; text-decoration: none; transition: 0.2s;
   }
-  .header .brand {
-    display: inline-flex; align-items: center; gap: 10px; margin-bottom: 6px;
-  }
-  .header .brand .logo-badge {
-    width: 44px; height: 44px; border-radius: 14px;
-    background: linear-gradient(135deg, var(--accent), var(--accent2));
-    display: flex; align-items: center; justify-content: center;
-    font-size: 1.4rem; box-shadow: 0 4px 18px rgba(124,92,252,0.35);
-  }
-  .header .brand h1 {
-    font-size: 1.6rem; font-weight: 800;
-    background: linear-gradient(135deg, var(--accent), var(--accent2));
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-  }
-  .header .logout {
-    position: absolute; top: 20px; right: 24px;
-    color: var(--muted); text-decoration: none; font-size: 0.75rem;
-    padding: 6px 12px; border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 20px; background: rgba(255,255,255,0.03);
-    transition: 0.2s;
-  }
-  .header .logout:hover { color: var(--text); border-color: var(--wrong); }
-  .header p {
-    color: var(--muted);
-    font-size: 0.95rem;
-  }
-  .header .stats {
-    display: flex;
-    justify-content: center;
-    gap: 24px;
-    margin-top: 16px;
-    font-size: 0.85rem;
-    color: var(--muted);
-  }
-  .header .stats span { display: flex; align-items: center; gap: 4px; }
-  .header .stats strong { color: var(--text); }
+  .icon-btn:hover { color: var(--text); border-color: var(--accent); }
 
-  /* Áreas */
-  .section-title {
-    font-size: 1.1rem;
-    font-weight: 700;
-    margin: 24px 0 12px;
-    color: var(--text);
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .section-title .badge {
-    font-size: 0.7rem;
-    background: var(--accent);
-    color: white;
-    padding: 2px 8px;
-    border-radius: 10px;
-    font-weight: 600;
-  }
+  .stat-chips { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 20px; }
+  .chip { background: var(--card); border: 1px solid rgba(255,255,255,0.05); border-radius: 14px; padding: 12px 10px; text-align: center; }
+  .chip .c-val { font-size: 1.3rem; font-weight: 800; }
+  .chip .c-lab { font-size: 0.66rem; color: var(--muted); margin-top: 2px; }
+  .chip.c-accent .c-val { background: linear-gradient(135deg, var(--accent), var(--accent2)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  .chip.c-good .c-val { color: var(--correct); }
+  .chip.c-fire .c-val { color: var(--yellow); }
 
-  .sessoes-salvas .section-title {
-    padding: 12px 14px;
-    margin: 0;
-    border-bottom: 1px solid rgba(255,255,255,0.05);
-  }
-  .ms-item {
-    display: flex; align-items: center; gap: 10px;
-    padding: 10px 14px;
-    border-bottom: 1px solid rgba(255,255,255,0.04);
-  }
-  .ms-item:last-child { border-bottom: none; }
-  .ms-item .ms-info { flex: 1; min-width: 120px; }
-  .ms-item .ms-nome { font-weight: 600; font-size: 0.85rem; }
-  .ms-item .ms-meta { font-size: 0.7rem; color: var(--muted); }
-  .ms-item .ms-status {
-    font-size: 0.65rem; padding: 2px 8px; border-radius: 20px;
-    font-weight: 600; white-space: nowrap;
-    background: rgba(90,200,250,0.15); color: var(--accent2);
-  }
-  .ms-item .ms-btn {
-    background: var(--card2);
-    border: 1px solid rgba(255,255,255,0.08);
-    color: var(--text);
-    border-radius: 8px;
-    padding: 5px 10px;
-    font-size: 0.72rem;
-    cursor: pointer;
-  }
-  .ms-item .ms-btn:hover { border-color: var(--accent); color: var(--accent2); }
-  .ms-empty { padding: 14px; font-size: 0.8rem; color: var(--muted); text-align: center; }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 12px;
-    margin-bottom: 20px;
-  }
-  .area-card {
-    background: var(--card);
-    border-radius: var(--radius);
-    padding: 20px 16px;
-    text-decoration: none;
-    color: var(--text);
-    transition: all 0.25s ease;
-    border: 1px solid transparent;
-    cursor: pointer;
-    position: relative;
-    overflow: hidden;
-  }
-  .area-card:hover {
-    transform: translateY(-2px);
-    border-color: var(--accent);
-    box-shadow: var(--shadow);
-  }
-  .area-card .icon { font-size: 1.8rem; margin-bottom: 8px; }
-  .area-card .name { font-weight: 600; font-size: 0.95rem; }
-  .area-card .count { color: var(--muted); font-size: 0.8rem; margin-top: 4px; }
-  .area-card .progress-bar {
-    height: 3px;
-    background: var(--card2);
-    border-radius: 2px;
-    margin-top: 12px;
-    overflow: hidden;
-  }
-  .area-card .progress-fill {
-    height: 100%;
-    background: linear-gradient(90deg, var(--accent), var(--accent2));
-    border-radius: 2px;
-    transition: width 0.5s ease;
-  }
+  .section-title { font-size: 1.05rem; font-weight: 700; margin: 22px 0 12px; color: var(--text); display: flex; align-items: center; gap: 8px; }
+  .section-title .badge { font-size: 0.7rem; background: var(--accent); color: white; padding: 2px 9px; border-radius: 10px; font-weight: 600; margin-left: auto; white-space: nowrap; }
 
-  /* Botões ação rápida */
-  .quick-actions {
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
+  .qod-card {
+    background: linear-gradient(135deg, rgba(124,92,252,0.14), rgba(90,200,250,0.10), rgba(124,92,252,0.05));
+    border: 1px solid rgba(124,92,252,0.35); border-radius: var(--radius); padding: 16px;
+    box-shadow: var(--shadow); position: relative;
   }
-  .quick-btn {
-    flex: 1;
-    min-width: 120px;
-    background: var(--card);
-    border: 1px solid rgba(124,92,252,0.2);
-    border-radius: var(--radius);
-    padding: 14px 16px;
-    text-align: center;
-    text-decoration: none;
-    color: var(--text);
-    transition: all 0.25s ease;
-    cursor: pointer;
-  }
-  .quick-btn:hover {
-    background: var(--card2);
-    border-color: var(--accent);
-    transform: translateY(-1px);
-  }
-  .quick-btn .icon { font-size: 1.5rem; }
-  .quick-btn .label { font-size: 0.85rem; margin-top: 4px; font-weight: 500; }
-  .quick-btn .sub { font-size: 0.7rem; color: var(--muted); }
+  .qod-top { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; }
+  .qod-tag { font-size: 0.66rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; padding: 3px 10px; border-radius: 20px; background: rgba(124,92,252,0.22); color: var(--accent2); }
+  .qod-fonte { font-size: 0.72rem; color: var(--muted); }
+  .qod-pergunta { font-size: 0.95rem; line-height: 1.5; color: var(--text); display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 12px; }
+  .qod-meta { display: flex; gap: 8px; align-items: center; font-size: 0.72rem; color: var(--muted); margin-bottom: 12px; flex-wrap: wrap; }
+  .qod-actions { display: flex; gap: 8px; }
+  .qod-actions .action-btn { background: var(--accent); color: white; border: none; padding: 11px 22px; border-radius: 12px; font-weight: 700; font-size: 0.92rem; cursor: pointer; text-decoration: none; transition: all .2s; flex: 1; text-align: center; }
+  .qod-actions .action-btn:hover { background: #6a4ae0; }
+  .qod-actions .reroll { background: var(--card2); color: var(--text); border: 1px solid rgba(255,255,255,0.08); padding: 11px 16px; border-radius: 12px; font-size: .85rem; cursor: pointer; transition: .2s; }
+  .qod-actions .reroll:hover { border-color: var(--accent); color: var(--accent2); }
 
-  /* Revisões pendentes */
-  .pending-review {
-    background: linear-gradient(135deg, rgba(124,92,252,0.1), rgba(90,200,250,0.1));
-    border: 1px solid rgba(124,92,252,0.3);
-    border-radius: var(--radius);
-    padding: 16px;
-    margin-bottom: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 12px;
-    flex-wrap: wrap;
-  }
-  .pending-review .info { flex: 1; }
-  .pending-review .info strong { display: block; font-size: 1rem; }
-  .pending-review .info span { color: var(--muted); font-size: 0.85rem; }
-  .pending-review .action-btn {
-    background: var(--accent);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 10px;
-    font-weight: 600;
-    font-size: 0.9rem;
-    cursor: pointer;
-    text-decoration: none;
-    white-space: nowrap;
-    transition: all 0.2s;
-  }
-  .pending-review .action-btn:hover { background: #6a4ae0; }
+  .today-card { background: var(--card); border: 1px solid rgba(255,255,255,0.05); border-radius: var(--radius); overflow: hidden; }
+  .today-item { display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-bottom: 1px solid rgba(255,255,255,0.045); text-decoration: none; color: var(--text); transition: background .2s; }
+  .today-item:last-of-type { border-bottom: none; }
+  .today-item:hover { background: rgba(124,92,252,0.06); }
+  .today-item .ti-num { width: 26px; height: 26px; border-radius: 8px; flex-shrink: 0; background: rgba(124,92,252,0.16); color: var(--accent2); display: flex; align-items: center; justify-content: center; font-size: .75rem; font-weight: 700; }
+  .today-item .ti-info { flex: 1; min-width: 0; }
+  .today-item .ti-name { font-weight: 600; font-size: .9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .today-item .ti-sub { font-size: .72rem; color: var(--muted); margin-top: 2px; }
+  .today-item .ti-status { font-size: .62rem; font-weight: 700; padding: 3px 9px; border-radius: 20px; white-space: nowrap; }
+  .ti-status.k-first { background: rgba(255,159,10,0.16); color: var(--yellow); }
+  .ti-status.k-review { background: rgba(52,199,89,0.16); color: var(--correct); }
+  .ti-status.k-late { background: rgba(255,59,48,0.16); color: var(--wrong); }
+  .today-more { text-align: center; padding: 12px; color: var(--muted); font-size: .8rem; border-top: 1px solid rgba(255,255,255,0.045); }
+  .empty-note { background: var(--card); border: 1px dashed rgba(124,92,252,0.3); border-radius: var(--radius); padding: 22px; text-align: center; color: var(--muted); font-size: .88rem; }
+  .empty-note strong { color: var(--text); }
 
-  /* Conquistas / badges */
-  .badges-row {
-    display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;
-  }
-  .badge {
-    display: flex; align-items: center; gap: 8px;
-    background: var(--card); border: 1px solid rgba(255,255,255,0.06);
-    border-radius: 12px; padding: 10px 14px; font-size: 0.82rem;
-  }
-  .badge .b-icon { font-size: 1.2rem; }
-  .badge .b-name { font-weight: 600; }
-  .badge .b-desc { color: var(--muted); font-size: 0.72rem; }
-  .badge.locked { opacity: 0.45; filter: grayscale(0.8); }
-  .badge.unlocked { border-color: rgba(124,92,252,0.4); }
+  .week-strip { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; margin-bottom: 4px; }
+  .ws-day { text-align: center; padding: 10px 4px; border-radius: 12px; background: var(--card); border: 1px solid rgba(255,255,255,0.05); }
+  .ws-day .ws-wd { font-size: .62rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+  .ws-day .ws-dn { font-size: 1.35rem; font-weight: 800; margin: 2px 0; }
+  .ws-day .ws-cnt { font-size: .62rem; color: var(--muted); }
+  .ws-day.today { outline: 2px solid var(--accent); background: rgba(124,92,252,0.12); }
+  .ws-day.has .ws-dn { color: var(--accent2); }
+  .week-detail { margin-top: 10px; display: flex; flex-direction: column; gap: 6px; }
+  .week-day-row { background: var(--card); border: 1px solid rgba(255,255,255,0.05); border-radius: 12px; padding: 10px 12px; }
+  .week-day-row .wdr-head { display: flex; justify-content: space-between; font-size: .72rem; color: var(--muted); margin-bottom: 6px; font-weight: 600; }
+  .week-day-row .wdr-list { display: flex; flex-wrap: wrap; gap: 6px; }
 
-  /* Heatmap semanal */
-  .week-heatmap {
-    display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px;
-    margin-bottom: 20px; padding: 14px; background: var(--card);
-    border-radius: var(--radius);
-  }
-  .wh-day {
-    text-align: center; padding: 10px 4px; border-radius: 10px;
-    background: var(--card2); position: relative;
-  }
-  .wh-day .wh-label { font-size: 0.68rem; color: var(--muted); margin-bottom: 4px; }
-  .wh-day .wh-num { font-size: 1.1rem; font-weight: 800; }
-  .wh-day .wh-count { font-size: 0.62rem; color: var(--muted); margin-top: 2px; }
+  .quick-actions { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 4px; }
+  .quick-btn { background: var(--card); border: 1px solid rgba(124,92,252,0.16); border-radius: 14px; padding: 14px 10px; text-align: center; text-decoration: none; color: var(--text); transition: all .25s; cursor: pointer; }
+  .quick-btn:hover { background: var(--card2); border-color: var(--accent); transform: translateY(-1px); }
+  .quick-btn .icon { font-size: 1.4rem; }
+  .quick-btn .label { font-size: .8rem; margin-top: 4px; font-weight: 600; }
+  .quick-btn .sub { font-size: .66rem; color: var(--muted); }
+
+  .week-heatmap { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; background: var(--card); border-radius: var(--radius); padding: 12px; }
+  .wh-day { text-align: center; padding: 10px 4px; border-radius: 10px; background: var(--card2); position: relative; }
+  .wh-day .wh-label { font-size: .66rem; color: var(--muted); margin-bottom: 4px; }
+  .wh-day .wh-num { font-size: 1.05rem; font-weight: 800; }
+  .wh-day .wh-count { font-size: .6rem; color: var(--muted); }
   .wh-day.high { background: rgba(52,199,89,0.25); color: var(--correct); }
   .wh-day.mid { background: rgba(124,92,252,0.2); color: var(--accent2); }
   .wh-day.low { background: rgba(255,159,10,0.18); color: var(--yellow); }
-  .wh-day.empty { opacity: 0.4; }
+  .wh-day.empty { opacity: .4; }
   .wh-day.today { outline: 2px solid var(--accent); }
 
-  /* Footer */
-  .footer {
-    text-align: center;
-    color: var(--muted);
-    font-size: 0.8rem;
-    padding: 30px 0 10px;
-    border-top: 1px solid rgba(255,255,255,0.05);
-    margin-top: 30px;
-  }
+  .badges-row { display: flex; gap: 10px; flex-wrap: wrap; }
+  .badge { display: flex; align-items: center; gap: 8px; background: var(--card); border: 1px solid rgba(255,255,255,0.06); border-radius: 12px; padding: 10px 14px; font-size: .82rem; }
+  .badge .b-icon { font-size: 1.2rem; }
+  .badge .b-name { font-weight: 600; }
+  .badge .b-desc { color: var(--muted); font-size: .72rem; }
+  .badge.locked { opacity: .45; filter: grayscale(.8); }
+  .badge.unlocked { border-color: rgba(124,92,252,0.4); }
 
-  /* Responsivo */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+  .area-card { background: var(--card); border-radius: var(--radius); padding: 18px 16px; text-decoration: none; color: var(--text); transition: all .25s ease; border: 1px solid transparent; cursor: pointer; position: relative; overflow: hidden; }
+  .area-card:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: var(--shadow); }
+  .area-card .icon { font-size: 1.8rem; margin-bottom: 6px; }
+  .area-card .name { font-weight: 600; font-size: .95rem; }
+  .area-card .count { color: var(--muted); font-size: .8rem; margin-top: 4px; }
+  .area-card .progress-bar { height: 3px; background: var(--card2); border-radius: 2px; margin-top: 10px; overflow: hidden; }
+  .area-card .progress-fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent2)); border-radius: 2px; transition: width .5s ease; }
+
+  .footer { text-align: center; color: var(--muted); font-size: .78rem; padding: 28px 0 8px; border-top: 1px solid rgba(255,255,255,0.05); margin-top: 28px; }
+
   @media (max-width: 500px) {
-    body { padding: 12px; }
+    body { padding: 14px; }
+    .stat-chips { grid-template-columns: repeat(2, 1fr); }
+    .quick-actions { grid-template-columns: repeat(2, 1fr); }
     .grid { grid-template-columns: 1fr 1fr; gap: 8px; }
-    .area-card { padding: 14px 12px; }
-    .area-card .icon { font-size: 1.4rem; }
-    .header h1 { font-size: 1.5rem; }
-    .quick-actions { flex-direction: column; }
+    .greet { font-size: 1.3rem; }
   }
 </style>
 </head>
 <body>
-<div class="container" style="position:relative;">
+<div class="container">
   <div class="header">
-    <div style="position:absolute;top:20px;right:24px;display:flex;gap:8px;">
-      <button class="logout" onclick="hermesmedTema.toggle()" title="Alternar tema claro/escuro" style="cursor:pointer;">🌓</button>
-      <a href="login.html?redirect=index.html" onclick="localStorage.removeItem('hermesmed_auth')" class="logout">🔒 Sair</a>
-    </div>
-    <div class="brand">
-      <span class="logo-badge">📚</span>
-      <h1>HermesMed</h1>
-    </div>
-    <p>Banco de Questões — ENARE • Revalida</p>
-    <div class="stats">
-      <span>📝 <strong id="totalQuestoes">0</strong> questões</span>
-      <span>✅ <strong id="totalAcertos">0</strong> acertos</span>
-      <span>📊 <strong id="totalProgresso">0%</strong> completo</span>
+    <div class="top-right">
+      <button class="icon-btn" onclick="hermesmedTema.toggle()" title="Alternar tema claro/escuro">🌓</button>
+      <a href="login.html?redirect=index.html" onclick="localStorage.removeItem('hermesmed_auth')" class="icon-btn">Sair</a>
     </div>
   </div>
 
-  <!-- Ações rápidas -->
+  <div class="greet" id="greetText">Olá 👋</div>
+  <div class="date-line" id="dateLine"></div>
+
+  <div class="stat-chips">
+    <div class="chip c-accent"><div class="c-val" id="totalQuestoes">0</div><div class="c-lab">questões</div></div>
+    <div class="chip c-good"><div class="c-val" id="totalAcertos">0</div><div class="c-lab">acertos</div></div>
+    <div class="chip"><div class="c-val" id="totalProgresso">0%</div><div class="c-lab">completo</div></div>
+    <div class="chip c-fire"><div class="c-val" id="totalStreak">0</div><div class="c-lab">dias seguidos 🔥</div></div>
+  </div>
+
+  <div class="section-title">⭐ Questão do Dia <span class="badge" id="qdDate"></span></div>
+  <div class="qod-card" id="qodCard">
+    <div class="qod-top"><span class="qod-tag" id="qdTag">Carregando</span><span class="qod-fonte" id="qdFonte"></span></div>
+    <div class="qod-pergunta" id="qdPergunta">Escolhendo uma questão pra você…</div>
+    <div class="qod-meta" id="qdMeta"></div>
+    <div class="qod-actions">
+      <a class="action-btn" id="qdCta" href="questoes.html">Resolver →</a>
+      <button class="reroll" onclick="rollQuestaoDoDia(true)" title="Trocar questão">🎲 Outra</button>
+    </div>
+  </div>
+
+  <div class="section-title">📌 Hoje no Cronograma <span class="badge" id="hojeCount">0</span></div>
+  <div id="hojeWrap"></div>
+
+  <div class="section-title">🗓️ Próximos 7 Dias</div>
+  <div class="week-strip" id="weekStrip"></div>
+  <div class="week-detail" id="weekDetail"></div>
+
+  <div class="section-title">🚀 Ações Rápidas</div>
   <div class="quick-actions">
-    <a href="questoes.html?modo=revisao" class="quick-btn">
-      <div class="icon">🔄</div>
-      <div class="label">Revisão Espaçada</div>
-      <div class="sub" id="revCount">0 pendentes</div>
-    </a>
-    <a href="questoes.html?modo=erros" class="quick-btn">
-      <div class="icon">❌</div>
-      <div class="label">Caderno de Erros</div>
-      <div class="sub" id="errCount">0 erradas</div>
-    </a>
-    <a href="sessao.html" class="quick-btn">
-      <div class="icon">🎯</div>
-      <div class="label">Sessão de Estudo</div>
-      <div class="sub">Personalizada</div>
-    </a>
-    <a href="plano.html" class="quick-btn">
-      <div class="icon">🤖</div>
-      <div class="label">Meu Plano</div>
-      <div class="sub">IA no navegador</div>
-    </a>
-    <a href="questoes.html?modo=livre" class="quick-btn">
-      <div class="icon">🎯</div>
-      <div class="label">Modo Livre</div>
-      <div class="sub">Todas as áreas</div>
-    </a>
-    <a href="questoes.html?modo=prova" class="quick-btn">
-      <div class="icon">⏱️</div>
-      <div class="label">Modo Prova</div>
-      <div class="sub">60 questões • 1h</div>
-    </a>
-    <a href="flashcard.html" class="quick-btn">
-      <div class="icon">🃏</div>
-      <div class="label">Flashcards</div>
-      <div class="sub">Estudo rápido</div>
-    </a>
-    <a href="simulados.html" class="quick-btn">
-      <div class="icon">📝</div>
-      <div class="label">Simulados</div>
-      <div class="sub" id="simuladoSub">Carregando...</div>
-    </a>
-    <a href="desempenho.html" class="quick-btn">
-      <div class="icon">📊</div>
-      <div class="label">Desempenho</div>
-      <div class="sub">Suas estatísticas</div>
-    </a>
+    <a href="questoes.html?modo=livre" class="quick-btn"><div class="icon">🎯</div><div class="label">Modo Livre</div><div class="sub">Todas as áreas</div></a>
+    <a href="questoes.html?modo=prova" class="quick-btn"><div class="icon">⏱️</div><div class="label">Modo Prova</div><div class="sub">60 q • 1h</div></a>
+    <a href="questoes.html?modo=revisao" class="quick-btn"><div class="icon">🔄</div><div class="label">Revisão</div><div class="sub" id="revCount">0 pendentes</div></a>
+    <a href="sessao.html" class="quick-btn"><div class="icon">🎯</div><div class="label">Sessão</div><div class="sub">Personalizada</div></a>
+    <a href="flashcard.html" class="quick-btn"><div class="icon">🃏</div><div class="label">Flashcards</div><div class="sub">Decks rápidos</div></a>
+    <a href="simulados.html" class="quick-btn"><div class="icon">📝</div><div class="label">Simulados</div><div class="sub" id="simuladoSub">—</div></a>
   </div>
 
-  <!-- Revisões pendentes -->
-  <div class="pending-review" id="pendingReview" style="display:none;">
-    <div class="info">
-      <strong>📌 Revisões pendentes</strong>
-      <span id="pendingText">Você tem questões para revisar hoje</span>
-    </div>
-    <a href="questoes.html?modo=revisao" class="action-btn">Revisar →</a>
-  </div>
-
-  <!-- Conquistas / badges -->
-  <div class="badges-row" id="badgesRow"></div>
-
-  <!-- Atividade semanal (heatmap) -->
   <div class="section-title">📅 Atividade dos últimos 7 dias</div>
   <div class="week-heatmap" id="weekHeatmap"></div>
 
-  <!-- Áreas -->
-  <div class="section-title">
-    📂 Grandes Áreas
-    <span class="badge" id="areasLoaded">0</span>
-  </div>
+  <div class="section-title">🏅 Conquistas</div>
+  <div class="badges-row" id="badgesRow"></div>
+
+  <div class="section-title">📂 Grandes Áreas <span class="badge" id="areasLoaded">0</span></div>
   <div class="grid" id="areasGrid"></div>
 </div>
 
@@ -393,6 +223,7 @@
 
 <script>
 const STORAGE_KEY = 'hermesmed_progresso';
+const QD_KEY = 'hermesmed_qd';
 const AREAS = [
   { id: 'clinica-medica',    icon: '🫁', name: 'Clínica Médica', cor: '#7c5cfc' },
   { id: 'cirurgia',          icon: '🔪', name: 'Cirurgia', cor: '#ff6b6b' },
@@ -401,197 +232,229 @@ const AREAS = [
   { id: 'obstetricia',       icon: '🤰', name: 'Obstetrícia', cor: '#ff6f91' },
   { id: 'medicina-preventiva', icon: '🛡️', name: 'Medicina Preventiva', cor: '#34c759' },
 ];
+const AREA_SLUG_MAP = {
+  'Clínica Médica':'clinica-medica','Cirurgia':'cirurgia','Pediatria':'pediatria',
+  'Pediatria / Infecto':'pediatria','GO':'ginecologia','Ginecologia':'ginecologia',
+  'Obstetrícia':'obstetricia','Medicina Preventiva':'medicina-preventiva','Preventiva':'medicina-preventiva'
+};
 
-// Carregar progresso
-function loadProgress() {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    return raw ? JSON.parse(raw) : {};
-  } catch { return {}; }
+function keyOf(d) { return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; }
+function todayKey() { return keyOf(new Date()); }
+function loadProgress() { try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; } catch { return {}; } }
+async function loadQuestoes(areaId) { try { const r = await fetch(`data/${areaId}.json`); if (!r.ok) return null; const d = await r.json(); return d.questoes || []; } catch { return null; } }
+
+function setGreeting() {
+  const now = new Date();
+  const h = now.getHours();
+  const saud = h < 12 ? 'Bom dia' : h < 18 ? 'Boa tarde' : 'Boa noite';
+  document.getElementById('greetText').textContent = `${saud}, Enzo 👋`;
+  const dias = ['domingo','segunda','terça','quarta','quinta','sexta','sábado'];
+  const meses = ['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
+  document.getElementById('dateLine').textContent = `${dias[now.getDay()]}, ${now.getDate()} de ${meses[now.getMonth()]} de ${now.getFullYear()}`;
+  document.getElementById('dataAtual').textContent = now.toLocaleDateString('pt-BR');
+  document.getElementById('qdDate').textContent = now.toLocaleDateString('pt-BR');
 }
 
-function saveProgress(p) {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(p));
-}
-
-// Carregar dados de questões
-async function loadQuestoes(areaId) {
-  try {
-    const resp = await fetch(`data/${areaId}.json`);
-    if (!resp.ok) return null;
-    const data = await resp.json();
-    return data.questoes || [];
-  } catch { return null; }
-}
-
-// Contar questões de todas as áreas
-async function contarTodas() {
-  let total = 0;
-  for (const area of AREAS) {
+async function rollQuestaoDoDia(force) {
+  const hoje = todayKey();
+  let qd; try { qd = JSON.parse(localStorage.getItem(QD_KEY)) || null; } catch { qd = null; }
+  if (!force && qd && qd.data === hoje && qd.qid) { renderQd(qd); return; }
+  const progresso = loadProgress();
+  const areasComErro = AREAS.filter(a => { const p = progresso[a.id] || {}; return Object.values(p).some(v => (typeof v === 'boolean' ? v : v?.acertou) === false); });
+  let pool = (areasComErro.length ? areasComErro : AREAS).slice().sort(() => Math.random() - 0.5);
+  let escolhido = null;
+  for (const area of pool) {
     const qs = await loadQuestoes(area.id);
-    if (qs) total += qs.length;
+    if (!qs || qs.length === 0) continue;
+    const prefereErrada = areasComErro.includes(area);
+    let cand = null;
+    if (prefereErrada) {
+      const p = progresso[area.id] || {};
+      const erradas = qs.filter(q => { const v = p[q.id]; return v !== undefined && (typeof v === 'boolean' ? !v : v.acertou === false); });
+      if (erradas.length) cand = erradas[Math.floor(Math.random() * erradas.length)];
+    }
+    if (!cand) {
+      const naoRespondidas = qs.filter(q => !progresso[area.id]?.[q.id]);
+      const base = naoRespondidas.length ? naoRespondidas : qs;
+      cand = base[Math.floor(Math.random() * base.length)];
+    }
+    escolhido = { area: area.id, qid: cand.id }; break;
   }
-  return total;
+  if (!escolhido) { renderQd(null); return; }
+  const qd2 = { data: hoje, area: escolhido.area, qid: escolhido.qid };
+  localStorage.setItem(QD_KEY, JSON.stringify(qd2));
+  renderQd(qd2);
 }
 
-// Contagem de erros (para o caderno de erros)
+async function renderQd(qd) {
+  const tag = document.getElementById('qdTag');
+  const fonte = document.getElementById('qdFonte');
+  const pergunta = document.getElementById('qdPergunta');
+  const meta = document.getElementById('qdMeta');
+  const cta = document.getElementById('qdCta');
+  if (!qd) {
+    tag.textContent = 'Sem questões';
+    pergunta.textContent = 'Nenhuma questão disponível no banco ainda.';
+    meta.textContent = ''; cta.href = 'questoes.html'; return;
+  }
+  const qs = await loadQuestoes(qd.area);
+  const q = (qs || []).find(x => String(x.id) === String(qd.qid)) || null;
+  const areaNome = (AREAS.find(a => a.id === qd.area)||{}).name || qd.area;
+  cta.href = `questoes.html?area=${qd.area}&qid=${encodeURIComponent(qd.qid)}`;
+  if (!q) { tag.textContent = areaNome; pergunta.textContent = 'Questão não encontrada. Toque para abrir o banco.'; meta.textContent = ''; return; }
+  tag.textContent = areaNome;
+  fonte.textContent = [q.banca, q.instituicao, q.ano].filter(Boolean).join(' • ');
+  pergunta.textContent = (q.enunciado || '').replace(/<[^>]*>/g, '');
+  const nAlt = q.alternativas ? Object.keys(q.alternativas).length : 0;
+  meta.textContent = q.assunto || q.especialidade || q.subarea || '';
+  if (nAlt) meta.textContent = (meta.textContent ? meta.textContent + ' · ' : '') + `${nAlt} alternativas`;
+  cta.textContent = 'Resolver →';
+}
+
+let cronograma = null;
+async function loadCronograma() { try { const r = await fetch('data/cronograma.json'); cronograma = await r.json(); } catch { cronograma = { assuntos: [] }; } }
+function normData(ds) { const m = String(ds||'').match(/^(\d{4})-(\d{2})-(\d{2})/); return m ? m[1]+'-'+m[2]+'-'+m[3] : null; }
+
+function renderHoje() {
+  const hoje = todayKey();
+  const wrap = document.getElementById('hojeWrap');
+  const lista = (cronograma?.assuntos || []).filter(a => { const d = normData(a.proxima_revisao); return d && d <= hoje; });
+  const countEl = document.getElementById('hojeCount');
+  if (!lista.length) { countEl.textContent = '0'; wrap.innerHTML = `<div class="empty-note"><strong>Nada pendente hoje ✨</strong><br>Nenhum assunto para revisar no momento.</div>`; return; }
+  const atrasados = lista.filter(a => normData(a.proxima_revisao) < hoje).length;
+  countEl.textContent = `${lista.length}${atrasados ? ' ('+atrasados+' atras.)' : ''}`;
+  const visiveis = lista.slice(0, 8);
+  wrap.innerHTML = `<div class="today-card">` + visiveis.map((a, i) => {
+    const ds = normData(a.proxima_revisao);
+    const atrasado = ds < hoje;
+    const statusClass = a.status === 'review' ? 'k-review' : (atrasado ? 'k-late' : 'k-first');
+    const statusLabel = a.status === 'review' ? `Revisão · N${a.nivel}` : (atrasado ? 'Atrasado' : '1º contato');
+    const slug = AREA_SLUG_MAP[a.area];
+    const href = a.status === 'review' ? 'questoes.html?modo=revisao' : (slug ? `questoes.html?area=${slug}` : 'questoes.html');
+    return `<a class="today-item" href="${href}">
+      <span class="ti-num">${i+1}</span>
+      <span class="ti-info"><div class="ti-name">${a.nome}</div><div class="ti-sub">${a.area}${a.modulo ? ' · ' + a.modulo : ''}</div></span>
+      <span class="ti-status ${statusClass}">${statusLabel}</span>
+    </a>`;
+  }).join('') + (lista.length > 8 ? `<div class="today-more">+${lista.length - 8} mais assuntos pendentes — cronograma completo em breve</div>` : '') + `</div>`;
+}
+
+function renderSemana() {
+  const strip = document.getElementById('weekStrip');
+  const detail = document.getElementById('weekDetail');
+  const da = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+  const ms = ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
+  const hoje = new Date();
+  const assuntos = cronograma?.assuntos || [];
+  const cells = [], porDia = {};
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(hoje); d.setDate(hoje.getDate() + i);
+    const k = keyOf(d);
+    const n = assuntos.filter(a => normData(a.proxima_revisao) === k).length;
+    porDia[k] = assuntos.filter(a => normData(a.proxima_revisao) === k);
+    cells.push({ k, dia: da[d.getDay()], dn: d.getDate(), me: ms[d.getMonth()], n, hoje: i === 0 });
+  }
+  strip.innerHTML = cells.map(c => `<div class="ws-day ${c.hoje?'today':''} ${c.n?'has':''}">
+    <div class="ws-wd">${c.dia}${c.hoje?' · hoje':''}</div><div class="ws-dn">${c.dn}</div>
+    <div class="ws-cnt">${c.n ? c.n + (c.n===1?' assunto':' assuntos') : '—'}</div></div>`).join('');
+  const comConteudo = cells.filter(c => c.n > 0);
+  detail.innerHTML = comConteudo.length ? comConteudo.map(c => {
+    const items = porDia[c.k].map(a => {
+      const slug = AREA_SLUG_MAP[a.area];
+      const href = a.status === 'review' ? 'questoes.html?modo=revisao' : (slug ? `questoes.html?area=${slug}` : 'questoes.html');
+      return `<a href="${href}" class="badge" style="text-decoration:none;color:var(--text)">${a.nome}</a>`;
+    }).join('');
+    return `<div class="week-day-row"><div class="wdr-head"><span>${c.dia}, ${c.dn} de ${c.me}</span><span>${c.n} assunto(s)</span></div><div class="wdr-list">${items}</div></div>`;
+  }).join('') : `<div class="empty-note">Nenhum agendado para os próximos 7 dias.<br><span style="font-size:.75rem">O cronograma de estudos completo será importado em breve.</span></div>`;
+}
+
 async function countErros() {
   const progresso = loadProgress();
   let erros = 0;
-  for (const area of AREAS) {
-    const prog = progresso[area.id] || {};
-    Object.values(prog).forEach(v => {
-      const acertou = typeof v === 'boolean' ? v : v?.acertou;
-      if (acertou === false) erros++;
-    });
-  }
+  for (const area of AREAS) { const prog = progresso[area.id] || {}; Object.values(prog).forEach(v => { const acertou = typeof v === 'boolean' ? v : v?.acertou; if (acertou === false) erros++; }); }
   return erros;
 }
 
-// ─── Conquistas / badges ───
 function renderBadges(acertos, respondidas, streak) {
   const metas = [
-    { icon: '🔥', name: 'Sequência', desc: `${streak} dias consecutivos`, unlocked: streak >= 1, meta: v => v >= 1 },
-    { icon: '💯', name: 'Primeira questão', desc: 'Respondeu sua 1ª questão', unlocked: respondidas >= 1, meta: v => v >= 1 },
-    { icon: '🎯', name: '10 questões', desc: 'Respondeu 10 questões', unlocked: respondidas >= 10, meta: v => v >= 10 },
-    { icon: '⚡', name: '100 questões', desc: 'Respondeu 100 questões', unlocked: respondidas >= 100, meta: v => v >= 100 },
-    { icon: '🎖️', name: '20 acertos', desc: 'Acertou 20 questões', unlocked: acertos >= 20, meta: v => v >= 20 },
-    { icon: '🏅', name: '150 questões', desc: 'Respondeu 150 questões', unlocked: respondidas >= 150, meta: v => v >= 150 },
-    { icon: '🏆', name: '300 questões', desc: 'Respondeu 300 questões', unlocked: respondidas >= 300, meta: v => v >= 300 },
+    { icon: '🔥', name: 'Sequência', desc: `${streak} dias consecutivos`, unlocked: streak >= 1 },
+    { icon: '💯', name: 'Primeira questão', desc: 'Respondeu sua 1ª', unlocked: respondidas >= 1 },
+    { icon: '🎯', name: '10 questões', desc: 'Respondeu 10', unlocked: respondidas >= 10 },
+    { icon: '⚡', name: '100 questões', desc: 'Respondeu 100', unlocked: respondidas >= 100 },
+    { icon: '🎖️', name: '20 acertos', desc: 'Acertou 20', unlocked: acertos >= 20 },
+    { icon: '🏅', name: '150 questões', desc: 'Respondeu 150', unlocked: respondidas >= 150 },
+    { icon: '🏆', name: '300 questões', desc: 'Respondeu 300', unlocked: respondidas >= 300 },
   ];
-  const row = document.getElementById('badgesRow');
-  row.innerHTML = metas.map(m => `
-    <div class="badge ${m.unlocked ? 'unlocked' : 'locked'}" title="${m.desc}">
-      <span class="b-icon">${m.icon}</span>
-      <span class="b-info"><span class="b-name">${m.name}</span><br><span class="b-desc">${m.desc}</span></span>
-    </div>
-  `).join('');
+  document.getElementById('badgesRow').innerHTML = metas.map(m => `<div class="badge ${m.unlocked?'unlocked':'locked'}" title="${m.desc}"><span class="b-icon">${m.icon}</span><span><span class="b-name">${m.name}</span><br><span class="b-desc">${m.desc}</span></span></div>`).join('');
 }
 
-// ─── Heatmap semanal ───
 function renderWeekHeatmap(log) {
-  const diasSemana = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
+  const da = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
   const hoje = new Date();
   const cells = [];
   for (let i = 6; i >= 0; i--) {
-    const d = new Date(hoje);
-    d.setDate(hoje.getDate() - i);
-    const key = d.toISOString().split('T')[0];
+    const d = new Date(hoje); d.setDate(hoje.getDate() - i);
+    const key = keyOf(d);
     const count = log.filter(e => e.timestamp && e.timestamp.startsWith(key)).length;
-    cells.push({ label: diasSemana[d.getDay()], key, count, hoje: i === 0 });
+    cells.push({ label: da[d.getDay()] + ' ' + key.split('-').slice(1).join('/'), key, count, hoje: i === 0 });
   }
   const el = document.getElementById('weekHeatmap');
-  const totalAtividade = cells.reduce((s, c) => s + c.count, 0);
-  if (totalAtividade === 0) {
-    el.innerHTML = `<div style="grid-column:1/-1;text-align:center;color:var(--muted);font-size:0.8rem;padding:14px;">
-      📭 Sem atividade ainda — responda questões para ver seu ritmo semanal!
-    </div>`;
-    return;
-  }
+  const total = cells.reduce((s, c) => s + c.count, 0);
+  if (total === 0) { el.innerHTML = `<div style="grid-column:1/-1;text-align:center;color:var(--muted);font-size:.8rem;padding:14px;">📭 Sem atividade ainda — responda questões para ver seu ritmo semanal!</div>`; return; }
   el.innerHTML = cells.map(c => {
-    let cls = 'empty';
-    if (c.count >= 10) cls = 'high';
-    else if (c.count >= 4) cls = 'mid';
-    else if (c.count > 0) cls = 'low';
-    const todayCls = c.hoje ? ' today' : '';
+    let cls = 'empty'; if (c.count >= 10) cls = 'high'; else if (c.count >= 4) cls = 'mid'; else if (c.count > 0) cls = 'low';
     const num = c.count > 0 ? c.count : '·';
-    return `<div class="wh-day ${cls}${todayCls}">
-      <div class="wh-label">${c.label} ${c.key.split('-').slice(1).join('/')}</div>
-      <div class="wh-num">${num}</div>
-      <div class="wh-count">${c.count > 0 ? (c.count === 1 ? 'questão' : 'questões') : ''}</div>
-    </div>`;
+    return `<div class="wh-day ${cls}${c.hoje?' today':''}"><div class="wh-label">${c.label}</div><div class="wh-num">${num}</div><div class="wh-count">${c.count > 0 ? (c.count===1?'questão':'questões') : ''}</div></div>`;
   }).join('');
 }
 
-// Renderizar dashboard
 async function renderDashboard() {
   const progresso = loadProgress();
   const grid = document.getElementById('areasGrid');
   grid.innerHTML = '';
-
-  let totalQuestoes = 0;
-  let totalAcertos = 0;
-  let totalRespondidas = 0;
-
+  let totalQuestoes = 0, totalAcertos = 0, totalRespondidas = 0;
   for (const area of AREAS) {
     const qs = await loadQuestoes(area.id);
     if (!qs) continue;
-    const count = qs.length;
-    totalQuestoes += count;
-
+    const count = qs.length; totalQuestoes += count;
     const prog = progresso[area.id] || {};
     const respondidas = Object.keys(prog).filter(id => prog[id] !== undefined).length;
     const acertos = Object.keys(prog).filter(id => prog[id] === true).length;
-    totalRespondidas += respondidas;
-    totalAcertos += acertos;
+    totalRespondidas += respondidas; totalAcertos += acertos;
     const pct = count > 0 ? Math.round((respondidas / count) * 100) : 0;
-
     const card = document.createElement('a');
     card.href = `questoes.html?area=${area.id}`;
     card.className = 'area-card';
-    card.innerHTML = `
-      <div class="icon">${area.icon}</div>
-      <div class="name">${area.name}</div>
-      <div class="count">${count} questões • ${respondidas > 0 ? `${acertos}/${respondidas} acertos` : 'não iniciada'}</div>
-      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
-    `;
+    card.innerHTML = `<div class="icon">${area.icon}</div><div class="name">${area.name}</div><div class="count">${count} questões • ${respondidas > 0 ? `${acertos}/${respondidas} acertos` : 'não iniciada'}</div><div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>`;
     card.style.borderColor = respondidas > 0 ? `${area.cor}44` : 'transparent';
     grid.appendChild(card);
   }
-
   document.getElementById('totalQuestoes').textContent = totalQuestoes;
   document.getElementById('totalAcertos').textContent = totalAcertos;
   document.getElementById('areasLoaded').textContent = AREAS.length;
-
   const pctGeral = totalQuestoes > 0 ? Math.round((totalRespondidas / totalQuestoes) * 100) : 0;
   document.getElementById('totalProgresso').textContent = `${pctGeral}%`;
-
-  // Conquistas + heatmap
   const streak = JSON.parse(localStorage.getItem('hermesmed_streak') || '{"count":0}');
+  document.getElementById('totalStreak').textContent = streak.count || 0;
   renderBadges(totalAcertos, totalRespondidas, streak.count || 0);
-  try {
-    const log = JSON.parse(localStorage.getItem('hermesmed_log') || '[]');
-    renderWeekHeatmap(log);
-  } catch { renderWeekHeatmap([]); }
-  const nErros = await countErros();
-  document.getElementById('errCount').textContent = `${nErros} erradas`;
-
-  // Revisões pendentes
-  renderPendingReviews(progresso);
-
-}
-
-// Revisões pendentes (baseado no sistema de revisão espaçada)
-function renderPendingReviews(progresso) {
-  const hoje = new Date().toISOString().split('T')[0];
+  try { renderWeekHeatmap(JSON.parse(localStorage.getItem('hermesmed_log') || '[]')); } catch { renderWeekHeatmap([]); }
   const sessoes = JSON.parse(localStorage.getItem('hermesmed_revisao') || '{}');
-  const pendentes = Object.keys(sessoes).filter(id => sessoes[id].proxima <= hoje).length;
-
-  if (pendentes > 0) {
-    const el = document.getElementById('pendingReview');
-    el.style.display = 'flex';
-    document.getElementById('pendingText').textContent = `${pendentes} questão(ões) aguardando revisão hoje`;
-  }
-  document.getElementById('revCount').textContent = `${pendentes} pendentes`;
+  const pendentes = Object.keys(sessoes).filter(id => sessoes[id].proxima <= todayKey()).length;
+  document.getElementById('revCount').textContent = pendentes ? `${pendentes} pendentes` : 'Em dia ✅';
 }
 
-document.getElementById('dataAtual').textContent = new Date().toLocaleDateString('pt-BR');
+fetch('data/simulados/index.json').then(r => r.json()).then(lista => {
+  if (lista.length) { const u = lista.reduce((a, b) => a.edicao > b.edicao ? a : b); document.getElementById('simuladoSub').textContent = u.nome; }
+}).catch(() => {});
 
-// Carregar nome do último simulado dinamicamente
-fetch('data/simulados/index.json')
-  .then(r => r.json())
-  .then(lista => {
-    if (lista.length > 0) {
-      const ultimo = lista.reduce((a, b) => a.edicao > b.edicao ? a : b);
-      document.getElementById('simuladoSub').textContent = `${ultimo.nome}`;
-    } else {
-      document.getElementById('simuladoSub').textContent = 'Simulados';
-    }
-  })
-  .catch(() => { document.getElementById('simuladoSub').textContent = 'Simulados'; });
-
-
-renderDashboard();
+(async function init() {
+  setGreeting();
+  await loadCronograma();
+  renderHoje();
+  renderSemana();
+  rollQuestaoDoDia(false);
+  renderDashboard();
+})();
 </script>
 </body>
 </html>

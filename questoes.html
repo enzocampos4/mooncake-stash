@@ -1005,6 +1005,7 @@ modo = params.get('modo') || 'livre';
 const areaParam = params.get('area') || null;
 const subParam = params.get('sub') || null;
 const sub2Param = params.get('sub2') || null;
+const qidParam = params.get('qid') || null;
 
 document.getElementById('modeBadge').textContent =
   modo === 'prova' ? 'Prova' : modo === 'revisao' ? 'Revisão' : 'Livre';
@@ -1036,6 +1037,11 @@ async function init() {
           setTimeout(() => filtrarSubSubarea(sub2Param), 50);
         }
       }, 50);
+    } else if (qidParam) {
+      setTimeout(() => {
+        const idx = questoesFiltradas.findIndex(x => String(x.id) === String(qidParam));
+        if (idx >= 0) showQuestion(idx);
+      }, 80);
     }
   } else {
     await mostrarGrade();
