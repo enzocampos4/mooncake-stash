@@ -421,9 +421,11 @@ async function renderDashboard() {
     const respondidas = Object.keys(prog).filter(id => prog[id] !== undefined).length;
     const acertos = Object.keys(prog).filter(id => {
       const v = prog[id];
-      if (v === true) return true;
-      if (v && typeof v === 'object') return v.acertou === true;
-      return false;
+      let acertou = null;
+      if (v === true || v === 'true') acertou = true;
+      else if (v === false || v === 'false') acertou = false;
+      else if (v && typeof v === 'object') acertou = v.acertou === true || v.acertou === 'true';
+      return acertou === true;
     }).length;
     totalRespondidas += respondidas; totalAcertos += acertos;
     const pct = count > 0 ? Math.round((respondidas / count) * 100) : 0;
