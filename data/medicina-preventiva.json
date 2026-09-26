@@ -41911,7 +41911,7 @@
         "E": "atraso no diagnóstico."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. Os riscos inerentes à realização de exames complementares incluem efeitos adversos diretos (iatrogenia física), custos financeiros (iatrogenia social), ansiedade gerada pela investigação (iatrogenia psicológica) e invasibilidade do procedimento. O atraso no diagnóstico, por outro lado, é uma consequência da *não realização* ou demora na solicitação do exame, e não um risco do próprio exame em si. 📌 PONTO-DE-ATENÇÃO: Iatrogenias do exame: física (invasividade/efeitos adversos), psicológica (ansiedade), social (custo). Atraso diagnóstico é falha de oportunidade, não risco do exame.",
       "video_url": "",
       "_id_bqmed": "4000143388",
       "_area_slug": "medicina-preventiva",
@@ -42479,7 +42479,7 @@
         "D": "Encaminhar a paciente em ao CAPS (Centro de Atenção Psicossocial), pois tendo em vista a natureza\ndos sintomas, esse centro de atendimento especializada em saúde mental/psiquiatria será o local mais\nindicado para o atendimento da cliente."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. A paciente apresenta quadro de luto complicado/reações de estresse agudo desencadeadas pela saída do filho, com sintomas somáticos e choro, mas sem ideação suicida, psicose ou risco iminente que justifiquem internação (B) ou encaminhamento imediato ao CAPS (D) sem antes avaliar adequadamente. A conduta na APS prioriza o acolhimento, a escuta qualificada e a intervenção breve, investigando a profundidade do quadro antes de medicar (A) ou referenciar. 📌 PONTO-DE-ATENÇÃO: Na APS, acolhimento e escuta são a primeira intervenção em saúde mental; medicalização ou referência especializada imediata são condutas secundárias, exceto em risco de vida.",
       "video_url": "",
       "_id_bqmed": "4000144410",
       "_area_slug": "medicina-preventiva",
@@ -43018,7 +43018,7 @@
         "E": "valor preditivo negativo."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. O valor preditivo negativo (VPN) é a probabilidade de o indivíduo não ter a doença dado que o teste resultou negativo. A sensibilidade é a probabilidade de teste positivo nos doentes; a especificidade, de teste negativo nos não doentes; a acurácia, a proporção de resultados corretos no total; e a razão de verossimilhança negativa, a razão entre a chance de um teste negativo no doente versus no não doente. 📌 PONTO-DE-ATENÇÃO: VPN = VN / (VN + FN) = Probabilidade de não ter doença | Teste negativo.",
       "video_url": "",
       "_id_bqmed": "4000145036",
       "_area_slug": "medicina-preventiva",
@@ -43048,7 +43048,7 @@
         "E": "nessas 100 pessoas (prevalência é de 30%."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. Com especificidade de 100%, não há falsos positivos (VP=0), logo o valor preditivo positivo é 100% (probabilidade de doença no teste positivo = 100%, invalidando B e D). A sensibilidade de 90% implica 10% de falsos negativos. Dos 100 indivíduos, 27 testaram positivo (verdadeiros positivos, pois VP=0). Como sensibilidade = VP / (VP+FN) = 0,9, temos 27 / (27+FN) = 0,9, resultando FN=3. Total de doentes (prevalência) = VP + FN = 27 + 3 = 30 (30%). O VPN = VN / (VN+FN) = 70 / 73 ≈ 96% (invalidando A e C). 📌 PONTO-DE-ATENÇÃO: Especificidade 100% = VPP 100%. Cálculo da prevalência via VP e Sensibilidade.",
       "video_url": "",
       "_id_bqmed": "4000145039",
       "_area_slug": "medicina-preventiva",
@@ -43107,7 +43107,7 @@
         "D": "Convocar reunião familiar com as filhas para expor os fatos. Perguntar-lhes se desejam que a mãe saiba\no resultado e, em caso positivo, apresentá-lo à paciente."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. O diagnóstico de HIV é informação sigilosa e de direito exclusivo do paciente, independentemente de idade ou convivência familiar. A autonomia da paciente (idosa, lúcida e independente) deve ser respeitada: cabe ao médico informar que o exame foi feito e perguntar se ela deseja conhecer o resultado. Revelar às filhas sem consentimento (B, D) fere o sigilo profissional. Considerar falso positivo por história sexual negada (C) é conduta antiética e tecnicamente incorreta, pois a transmissão pode ter sido pregressa ou não sexual. 📌 PONTO-DE-ATENÇÃO: Sigilo do diagnóstico de HIV é absoluto; comunicação só ao paciente (se capaz), salvo risco iminente a terceiros identificáveis.",
       "video_url": "",
       "_id_bqmed": "4000145427",
       "_area_slug": "medicina-preventiva",
@@ -43625,7 +43625,7 @@
         "D": "número ou quantidade de seres que morrem em certa época, idade ou de determinada doença"
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. Morbidade refere-se ao conjunto de casos ou agravos à saúde que afetam uma população, sendo a definição clássica em epidemiologia. A alternativa A descreve uma medida de gravidade, B fala em diferença de agravos e D define mortalidade. 📌 PONTO-DE-ATENÇÃO: Morbidade = adoecimento; Mortalidade = óbitos.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000145849-720.mp4",
       "_id_bqmed": "4000145849",
       "_area_slug": "medicina-preventiva",
@@ -44060,7 +44060,7 @@
         "D": "Nacional de Assistência em Saúde – SNAS"
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. O Sistema de Informação sobre Mortalidade (SIM) é o responsável pela coleta e consolidação das notificações de óbitos, inclusive os maternos, no Brasil. O SINASC registra nascidos vivos, o SINAN agravos de notificação compulsória e o SNAS não é um sistema de vigilância. 📌 PONTO-DE-ATENÇÃO: Óbitos maternos → SIM.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000146033-360-moliveira_370053_1716237905_51063.mp4",
       "_id_bqmed": "4000146033",
       "_area_slug": "medicina-preventiva",
@@ -44240,7 +44240,7 @@
         "D": "Quanto maior a prevalência, maior o valor preditivo negativo."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. O valor preditivo positivo (VPP) varia diretamente com a prevalência da doença: quanto menor a prevalência, menor o VPP. A especificidade reduz falsos positivos, não falsos negativos; a sensibilidade reduz falsos negativos, não falsos positivos; e o valor preditivo negativo aumenta quando a prevalência diminui. 📌 PONTO-DE-ATENÇÃO: VPP ↑ com prevalência ↑; VPN ↑ com prevalência ↓.",
       "video_url": "",
       "_id_bqmed": "4000146148",
       "_area_slug": "medicina-preventiva",
@@ -44419,7 +44419,7 @@
         "E": "define territorialmente os Distritos Sanitários Especiais Indígenas considerando, entre outros aspectos,\npopulação, limites de estados e municípios onde estão localizadas as terras indígenas e o perfil\nepidemiológico."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. A Política Nacional de Atenção à Saúde dos Povos Indígenas estabelece a composição das equipes de saúde dos Distritos Sanitários Especiais Indígenas (DSEI), que devem incluir profissionais de saúde, agentes indígenas de saúde e a participação sistemática de antropólogos, educadores, engenheiros sanitaristas, entre outros. As demais alternativas descrevem objetivos, definições ou delimitações que não correspondem ao texto da política. 📌 PONTO-DE-ATENÇÃO: Equipes dos DSEI = multiprofissionais + agentes indígenas + antropólogos/educadores/engenheiros.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000146386-720.mp4",
       "_id_bqmed": "4000146386",
       "_area_slug": "medicina-preventiva",
@@ -44810,7 +44810,7 @@
         "D": "Os riscos químicos resultam da presença natural ou da não introdução pelo homem no ambiente de uma variedade imensa de produtos que podem representar\nperigo à saúde a partir de determinados limites de exposição. Exemplos incluem os pesticidas e as dioxinas. Os compostos de ocorrência natural que também\nrepresentam um risco para a saúde possuem como exemplo o chumbo e o mercúrio."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. Os riscos químicos compreendem substâncias presentes naturalmente ou introduzidas pelo homem no ambiente que podem ser perigosas acima de certos limites de exposição; exemplos citados são pesticidas e flúor, enquanto compostos de ocorrência natural como chumbo e mercúrio também representam risco. As outras opções restringem a origem (apenas natural ou não introdução) ou usam exemplos inadequados. 📌 PONTO-DE-ATENÇÃO: Risco químico = natural + antrópico; exemplos: pesticidas, flúor, chumbo, mercúrio.",
       "video_url": "",
       "_id_bqmed": "4000146707",
       "_area_slug": "medicina-preventiva",
@@ -44839,7 +44839,7 @@
         "D": "Doenças associadas ao meio ambiente são passíveis de prevenção pelas melhorias no meio."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. A alternativa A está incorreta (logo, é a resposta do enunciado) porque o manejo adequado de substâncias tóxicas no domicílio ou no trabalho reduz, sim, o impacto das condições ambientais na saúde. As alternativas B, C e D apresentam afirmações corretas: medidas de higiene e segurança de água/alimentos diminuem riscos, a substituição de biomassa por combustíveis limpos reduz danos respiratórios e doenças ambientais são preveníveis com melhorias no meio. 📌 PONTO-DE-ATENÇÃO: A prevenção primária em saúde ambiental baseia-se no controle da exposição a agentes nocivos (água, ar, solo, trabalho).",
       "video_url": "",
       "_id_bqmed": "4000146709",
       "_area_slug": "medicina-preventiva",
@@ -44959,7 +44959,7 @@
         "E": "ausência de outro médico, em caso de pandemias, ou quando sua chefia imediata assim determinar."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. O Código de Ética Médica (Art. 36/37) garante autonomia ao médico para recusar atendimento que contrarie sua consciência, exceto na ausência de outro médico em situação de urgência/emergência ou quando a recusa trouxer danos à saúde do paciente. As demais alternativas incluem condições não previstas como exceção ética, como determinação de chefia, pandemias sem risco iminente ou falta de transporte do paciente. 📌 PONTO-DE-ATENÇÃO: A objeção de consciência tem limite intransponível na urgência/emergência sem substituto ou risco de dano ao paciente.",
       "video_url": "",
       "_id_bqmed": "4000146726",
       "_area_slug": "medicina-preventiva",
@@ -45053,7 +45053,7 @@
         "E": "I e II são considerados indicadores em saúde do tipo índice, pois são obtidos como o resultado de escores\nmultidimensionais."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. Tanto a taxa de incidência (3.552,7/100 mil hab.) quanto a taxa de mortalidade (90,8/100 mil hab.) são indicadores de número relativizado (razão entre eventos e população exposta, multiplicada por constante), utilizados para estimar o risco de ocorrência de doenças e óbitos na população. A alternativa A está incorreta pois a mortalidade mede óbitos, não eventos mórbidos; a B erra ao classificar incidência como número absoluto; a D nega a noção de risco da incidência; a E confunde taxas com índices compostos por escores. 📌 PONTO-DE-ATENÇÃO: Taxa de incidência e taxa de mortalidade são medidas de frequência relativizadas (por 100 mil) que expressam risco.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000146913-360-moliveira_370061_1716238161_51063.mp4",
       "_id_bqmed": "4000146913",
       "_area_slug": "medicina-preventiva",
@@ -45745,7 +45745,7 @@
         "E": "É direito do médico deixar de comparecer a plantão em horário preestabelecido ou abandoná-lo sem a\npresença de substituto, salvo por justo impedimento."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. O Art. 44 do Código de Ética Médica (Res. CFM 2.217/2018) estabelece como direito do médico recusar-se a exercer a profissão em instituição onde as condições de trabalho não sejam dignas ou possam prejudicar a saúde própria, do paciente ou da equipe. As alternativas A, B, C e E descrevem condutas vedadas: participação em pena de morte, publicidade enganosa, cobrança indevida em serviço público e abandono de plantão sem substituto. 📌 PONTO-DE-ATENÇÃO: O médico tem direito a condições de trabalho dignas e seguras; a recusa é ética quando há risco à saúde.",
       "video_url": "",
       "_id_bqmed": "4000151726",
       "_area_slug": "medicina-preventiva",
@@ -45837,7 +45837,7 @@
         "D": "Eutanásia."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. Ortotanásia é a conduta ética e legal de não prolongar o processo de morte de paciente terminal, permitindo a evolução natural com cuidados paliativos e conforto. Mistanásia (morte por negligência/erro), distanásia (obstinação terapêutica/futilidade) e eutanásia (antecipação ativa da morte) são consideradas antiéticas e/ou ilegais no Brasil segundo o CFM. 📌 PONTO-DE-ATENÇÃO: Ortotanásia = morte no tempo certo (ética); Distanásia = prolongamento fútil (antiética); Eutanásia = antecipação ativa (crime/antiética); Mistanásia = morte por imperícia/negligência (antiética/crime).",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000152622-360-moliveira_331368_1710850991_46127.mp4",
       "_id_bqmed": "4000152622",
       "_area_slug": "medicina-preventiva",
@@ -45994,7 +45994,7 @@
         "E": "O modelo atualmente adotado pelo SUS para pagamento das internações hospitalares é o pagamento\nprospectivo."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. O SUS utiliza o sistema de pagamento prospectivo (AIH - Autorização de Internação Hospitalar) com valores fixos por procedimento/DRG, não reembolsando custos reais (retrospectivo). A alternativa A está incorreta pois houve redução drástica de leitos públicos nas décadas de 1990/2000. A B descreve tendências mundiais, mas o porte médio dos hospitais brasileiros não aumentou significativamente. A C é falsa pois o número de internações SUS caiu na década de 2000 frente a 1990. A D está incorreta pois a maioria dos leitos privados é contratada pelo SUS (complementar). 📌 PONTO-DE-ATENÇÃO: Pagamento hospitalar no SUS é prospectivo via AIH/valores de tabela fixos.",
       "video_url": "",
       "_id_bqmed": "4000163489",
       "_area_slug": "medicina-preventiva",
@@ -47194,7 +47194,7 @@
         "D": "Portal CAPES."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. A Plataforma Brasil é o sistema nacional unificado para submissão e tramitação de projetos de pesquisa envolvendo seres humanos perante os Comitês de Ética em Pesquisa (CEP) e a CONEP. O Lattes (A) é currículo, a Sucupira (C) avalia pós-graduação e o Portal CAPES (D) gerencia bolsas e periódicos. 📌 PONTO-DE-ATENÇÃO: Projeto de pesquisa com seres humanos -> Plataforma Brasil.",
       "video_url": "",
       "_id_bqmed": "4000164865",
       "_area_slug": "medicina-preventiva",
@@ -48464,7 +48464,7 @@
         "D": "O município deve incluir, em sua lista de notificação, doenças, agravos ou evento de saúde pública de notificação compulsória constantes da lista de sua respectiva\nregião de saúde"
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. A Portaria de Consolidação nº 4/2017 (Art. 6º) estabelece que qualquer cidadão pode comunicar à autoridade de saúde doenças de notificação compulsória. A alternativa A está incorreta: a notificação imediata deve ser em até 24h, não 48h. A C está incorreta: tentativa de suicídio e óbitos específicos não estão na lista nacional de notificação compulsória imediata/semanal padrão (são de vigilância específica). A D está incorreta: o município deve seguir a lista nacional e estadual, não apenas a da região de saúde. 📌 PONTO-DE-ATENÇÃO: Notificação compulsória pode ser feita por qualquer cidadão; prazo imediato = 24h.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000166265-720.mp4",
       "_id_bqmed": "4000166265",
       "_area_slug": "medicina-preventiva",
@@ -49089,7 +49089,7 @@
         "D": "a doença de Chagas aguda é um exemplo de notificação semanal para a secretaria municipal de saúde."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. Conforme o Guia de Vigilância em Saúde, para tuberculose, apenas o caso confirmado (baciloscopia+, cultura+, histopatologia+ ou critério clínico-radiológico) é notificado; suspeitos são investigados. A alternativa A descreve definição de caso suspeito de Sarampo, não Rubéola. A C está incorreta: hanseníase é notificação compulsória, mas o prazo é semanal (rotina), não 24h (imediata). A D está incorreta: Doença de Chagas aguda é notificação imediata (24h), não semanal. 📌 PONTO-DE-ATENÇÃO: Tuberculose: notifica-se apenas caso confirmado. Hanseníase: notificação semanal. Chagas aguda: imediata (24h).",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000166848-720.mp4",
       "_id_bqmed": "4000166848",
       "_area_slug": "medicina-preventiva",
@@ -49180,7 +49180,7 @@
         "D": "Autonomia e beneficência."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. Os quatro princípios fundamentais da Bioética principialista (Beauchamp & Childress) são: Autonomia, Beneficência, Não-maleficência e Justiça. 'Ética' é o campo de estudo geral, não um princípio específico da bioética clínica. As alternativas A, B e D listam apenas princípios válidos. 📌 PONTO-DE-ATENÇÃO: 4 Princípios da Bioética: Autonomia, Beneficência, Não-maleficência, Justiça.",
       "video_url": "",
       "_id_bqmed": "4000166989",
       "_area_slug": "medicina-preventiva",
@@ -49242,7 +49242,7 @@
         "D": "Sistema de Vigilância Alimentar e Nutricional (Sisvan)."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. O SIA/SUS (Sistema de Informações Ambulatoriais do SUS) processa os dados da produção ambulatorial (boletins de produção - BPA) e utiliza o CNES como base cadastral, permitindo conhecer procedimentos, serviços e profissionais da rede ambulatorial, mas não é desenhado para fins epidemiológicos de vigilância de agravos. O SIH/SUS (A) refere-se à internação hospitalar; o SIAB (B) foi substituído pelo e-SUS AB e focava na atenção básica; o Sisvan (D) é específico para vigilância alimentar e nutricional. 📌 PONTO-DE-ATENÇÃO: SIA/SUS = produção ambulatorial (BPA) + CNES; não serve para epidemiologia de agravos.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000166999-720.mp4",
       "_id_bqmed": "4000166999",
       "_area_slug": "medicina-preventiva",
@@ -49726,7 +49726,7 @@
         "E": "Os efeitos da seca na saúde da comunidade devem gerar uma reação empática de Luís, na busca de soluções compartilhadas para a preservação do meio\nambiente."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. As Diretrizes Curriculares Nacionais e a Vigilância Ambiental preconizam que o médico deve atuar na interface saúde-meio ambiente, compreendendo os determinantes sociais e ambientais do processo saúde-doença. A postura correta é a empatia e a busca de soluções compartilhadas (intersetoriais/comunitárias), não o distanciamento (A, B), a negação da relação seca-saúde (C) nem a responsabilização individual exclusiva (D). 📌 PONTO-DE-ATENÇÃO: Médico generalista deve ter visão ecológica e atuar na promoção da saúde ambiental de forma compartilhada.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000167183-720.mp4",
       "_id_bqmed": "4000167183",
       "_area_slug": "medicina-preventiva",
@@ -49825,7 +49825,7 @@
         "E": "Antes de comunicar o paciente uma má notícia, é obrigação do médico assistente confirmar a concordância do responsável com essa comunicação."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. A comunicação de más notícias (como a morte) exige empatia, clareza e assertividade, dosando a informação conforme a capacidade de compreensão da família, o que é uma competência essencial do médico generalista. O médico que assistiu o paciente em domicílio (Cuidados Paliativos) tem o dever legal e ético de atestar o óbito (A incorreta). A causa básica na DO deve ser a doença que iniciou a cadeia causal (câncer GI), não a causa terminal (choque hipovolêmico), devendo o câncer constar na linha inferior da Parte I (B incorreta). Cuidados paliativos não são eutanásia (C incorreta). Não há obrigação de pedir permissão ao familiar para comunicar o paciente (E incorreta, pois o paciente já faleceu). 📌 PONTO-DE-ATENÇÃO: Comunicação de óbito: empática, clara, assertiva; médico assistente deve emitir DO.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000167189-720.mp4",
       "_id_bqmed": "4000167189",
       "_area_slug": "medicina-preventiva",
@@ -49883,7 +49883,7 @@
         "D": "A mortalidade infantil proporcional é maior na cidade A em relação à cidade B."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. A mortalidade infantil proporcional (MIP) é a proporção de óbitos infantis (<1 ano) sobre o total de óbitos, calculada como (Óbitos <1 ano / Total de óbitos) x 1000 ou %. Cidade A: 50/500 = 10%; Cidade B: 20/400 = 5%. Logo, a MIP é maior na Cidade A. O coeficiente de mortalidade infantil (A) exige nascidos vivos (não fornecidos). A taxa de mortalidade neonatal (B) exige óbitos <28 dias e nascidos vivos. A razão de mortalidade materna (C) exige óbitos maternos e nascidos vivos. 📌 PONTO-ATENÇÃO: Mortalidade Infantil Proporcional = (Óbitos <1 ano / Total de óbitos) x 1000; não precisa de nascidos vivos.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000167400-720.mp4",
       "_id_bqmed": "4000167400",
       "_area_slug": "medicina-preventiva",
@@ -50316,7 +50316,7 @@
         "E": "O médico não deve empreender ações diagnósticas ou terapêuticas inúteis ou obstinadas levando\nsempre em consideração a vontade expressa do paciente ou a de seu representante legal."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. O Código de Ética Médica (Art. 41 e 42) veda a obstinação terapêutica (distanásia) e determina que, em fase terminal, o médico deve oferecer cuidados paliativos, respeitando a vontade do paciente/representante, não empreendendo ações inúteis. A transferência obrigatória (A) não é regra; o médico deve continuar assistindo. A intubação/HD/PCR forçados (B) configuram distanásia, vedada pelo CFM. A infusão de KCl (C) é eutanásia ativa, crime no Brasil. Distanásia (D) é conduta antiética, não objetivo. 📌 PONTO-ATENÇÃO: Fase terminal: proibida obstinação terapêutica; indicados cuidados paliativos e respeito à autonomia (vontade expressa).",
       "video_url": "",
       "_id_bqmed": "4000168055",
       "_area_slug": "medicina-preventiva",
@@ -50917,7 +50917,7 @@
         "D": "Não é matéria do Código de Ética, nem de nenhuma normativa específica, ficando a critério dos valores\nde cada um."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. O Código de Ética Médica (Res. CFM 1974/2011) define que a publicidade médica deve ter caráter estritamente informativo e educativo, vedando o sensacionalismo e a mercantilização. Embora o enunciado descreva condutas claramente antiéticas (patrocínio de produto, depoimentos de pacientes), a questão questiona a regra geral sobre 'técnicas não convencionais'. A alternativa C está correta pois estabelece que a permissibilidade depende do contexto e da finalidade: se o objetivo for divulgar informação em saúde sem cunho comercial ou sensacionalista, pode ser admitida, diferentemente das demais que fazem afirmações absolutas ou negam a regulamentação. 📌 PONTO-DE-ATENÇÃO: Publicidade médica deve ser informativa, não comercial; depoimentos de pacientes e endosso de produtos são vedados.",
       "video_url": "",
       "_id_bqmed": "4000168884",
       "_area_slug": "medicina-preventiva",
@@ -52239,7 +52239,7 @@
         "E": "é recomendável que a Equipe de Saúde da Família (ESF) seja composta, no máximo, por um médico, um\nenfermeiro, dois auxiliares de enfermagem e seis agentes comunitários de saúde."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. A implantação da Estratégia Saúde da Família (ESF) baseia-se na crítica ao modelo tradicional centrado no hospital, na doença e no indivíduo isolado, propondo a compreensão do sujeito em seu contexto familiar e sociocultural. A NOB-SUS 96 fortaleceu, não prejudicou, a estratégia (A incorreta); a ESF tornou-se modelo prioritário, não marginal (B incorreta); a implantação é gradual, não abrupta (D incorreta); e a composição mínima da equipe varia conforme a população, não sendo fixa no máximo descrito (E incorreta). 📌 PONTO-DE-ATENÇÃO: Modelo tradicional = foco no indivíduo/doença/hospital; Modelo ESF = foco na família/território/promoção.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000169995-720-moliveira_293924_1705956396_41013.mp4",
       "_id_bqmed": "4000169995",
       "_area_slug": "medicina-preventiva",
@@ -52667,7 +52667,7 @@
         "D": "O uso de anticoncepcional hormonal injetável mensal em mulheres hipertensas é considerado pela OMS\ncomo provavelmente seguro"
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. O Estatuto da Criança e do Adolescente (ECA) garante o direito à saúde e à informação, e normativas do CFM (Res. 1995/2012) e do MS asseguram o acesso à contracepção para adolescentes a partir de 12 anos sem necessidade de autorização dos responsáveis, respeitando a autonomia progressiva. A alternativa B é falsa pois hormônios sintéticos têm maior potência e meia-vida; a C é conduta incorreta, pois o DIU não deve ser retirado imediatamente diante de IST, devendo-se tratar a infecção; a D é falsa pois anticoncepcionais combinados (injetáveis mensais) são categoria 3 ou 4 da OMS para hipertensas (risco inaceitável/teoricamente inseguro). 📌 PONTO-DE-ATENÇÃO: Adolescente >= 12 anos tem direito a contracepção sigilosa e sem consentimento dos pais.",
       "video_url": "",
       "_id_bqmed": "4000170142",
       "_area_slug": "medicina-preventiva",
@@ -52760,7 +52760,7 @@
         "D": "O valor preditivo positivo descreve a proporção do resultado positivo ou negativo em\nquem, sabidamente, está, ou não, doente."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. Testes diagnósticos com resultados numéricos (quantitativos) têm sua performance descrita por cinco medidas fundamentais: sensibilidade, especificidade, valor preditivo positivo e negativo, acurácia e razão de verossimilhança positiva e negativa. A alternativa A confunde testes quantitativos com qualitativos/subjetivos (ex: imagem); a B inverte as definições (resultados numéricos são quantitativos); a D define sensibilidade/especificidade, não valor preditivo positivo. 📌 PONTO-DE-ATENÇÃO: 5 pilares da performance de testes quantitativos: Sensibilidade, Especificidade, VPP/VPN, Acurácia, Razão de Verossimilhança.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000170402-720.mp4",
       "_id_bqmed": "4000170402",
       "_area_slug": "medicina-preventiva",
@@ -52789,7 +52789,7 @@
         "D": "Sensibilidade é a probabilidade de resultado negativo nos não-doentes (verdadeiro negativo) e\né calculado como: d/b+d."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. A razão de verossimilhança (RV) é um número adimensional (razão de probabilidades) que quantifica quanto um resultado de teste altera a probabilidade de doença, permitindo sua aplicação direta no teorema de Bayes (probabilidade pré-teste x RV = odds pós-teste) e na combinação de múltiplos testes. A alternativa B define razão de verossimilhança, não acurácia; a C define sensibilidade (VP/doentes), não especificidade; a D define especificidade (VN/não-doentes), não sensibilidade. 📌 PONTO-DE-ATENÇÃO: RV+ = Sensibilidade / (1 - Especificidade); RV- = (1 - Sensibilidade) / Especificidade. Sem unidade, usa-se em Bayes.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000170403-720.mp4",
       "_id_bqmed": "4000170403",
       "_area_slug": "medicina-preventiva",
@@ -53163,7 +53163,7 @@
         "E": "A paciente pode ser orientada quanto aos exames e receber sua receita de medicamentos\ndesacompanhada, porém, após a consulta, é necessário entrar em contato com um maior de\nidade responsável para confirmar as orientações dadas."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. O Estatuto da Criança e do Adolescente (ECA) e o Código de Ética Médica garantem ao adolescente o direito ao atendimento confidencial e à autonomia progressiva. Aos 15 anos, Renata possui discernimento para compreender seu tratamento crônico (hipotireoidismo), receber orientações e a receita de medicação de uso contínuo, independentemente de acompanhante. As alternativas A, B e C ferem a autonomia do adolescente e o acesso ao tratamento. A alternativa E é desnecessária se a capacidade de discernimento foi verificada na consulta. 📌 PONTO-DE-ATENÇÃO: Adolescente com discernimento tem direito a sigilo e autonomia para manejo de doenças crônicas conhecidas.",
       "video_url": "",
       "_id_bqmed": "4000171130",
       "_area_slug": "medicina-preventiva",
@@ -53253,7 +53253,7 @@
         "E": "O Médico terá, para com os colegas, respeito, consideração e solidariedade, eximindo se de denunciar\natos que contrariem os postulados éticos."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. O Código de Ética Médica (Princípios Fundamentais) estabelece que a atuação médica é personalíssima e não se caracteriza como relação de consumo (Princípio I). A alternativa A contradiz o Princípio II (medicina não é comércio). A B contradiz o Princípio III (vedada exploração por terceiros). A C contradiz o Princípio IV (indeclinável liberdade profissional). A E contradiz o Princípio IX (dever de denunciar atos antiéticos). 📌 PONTO-DE-ATENÇÃO: Relação médico-paciente é personalíssima, não consumerista.",
       "video_url": "",
       "_id_bqmed": "4000171210",
       "_area_slug": "medicina-preventiva",
@@ -53282,7 +53282,7 @@
         "D": "Autonomia."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. Os quatro princípios fundamentais da Bioética (Beauchamp & Childress) são: Autonomia, Beneficência, Não-maleficência e Justiça. 'Maleficência' (causar o mal) é o oposto do princípio da Não-maleficência ('primum non nocere'), portanto não é um princípio bioético. As alternativas A, C e D correspondem aos princípios corretos. 📌 PONTO-DE-ATENÇÃO: Princípios bioéticos: Autonomia, Beneficência, Não-maleficência, Justiça.",
       "video_url": "",
       "_id_bqmed": "4000171629",
       "_area_slug": "medicina-preventiva",
@@ -53312,7 +53312,7 @@
         "E": "Declaração de nascido vivo."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. O Belmont Report (1979) foi o primeiro documento a sistematizar explicitamente os três princípios éticos fundamentais para pesquisa com seres humanos: Respeito às Pessoas (autonomia), Beneficência e Justiça. O Código de Nuremberg (1947) focou no consentimento voluntário. A Declaração de Helsinki (1964) expandiu as normas, mas o Belmont estruturou os princípios. 📌 PONTO-DE-ATENÇÃO: Belmont Report = Respeito às Pessoas, Beneficência, Justiça (base ética da pesquisa atual).",
       "video_url": "",
       "_id_bqmed": "4000171661",
       "_area_slug": "medicina-preventiva",
@@ -53400,7 +53400,7 @@
         "D": "Todas as afirmativas estão corretas."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. As afirmativas I e II correspondem a dispositivos expressos do Código de Ética Médica (Res. CFM 2.217/2018): I é direito do médico (Art. 2º, IV - tempo dedicado ao paciente); II é vedação expressa (Art. 112 - responsabilidade por atos profissionais). A afirmativa III, embora conste no Art. 114 do Código vigente, é considerada incorreta neste gabarito, possivelmente por referir-se a versão anterior do Código ou por interpretação de que o credenciamento (corpo clínico) é requisito para internação eletiva, mas a questão espera a seleção apenas de I e II. 📌 PONTO-DE-ATENÇÃO: Direitos: autonomia de tempo; Vedações: responsabilidade profissional intransferível.",
       "video_url": "",
       "_id_bqmed": "4000172287",
       "_area_slug": "medicina-preventiva",
@@ -53429,7 +53429,7 @@
         "D": "Erros alimentares."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. O sigilo médico pode ser quebrado quando há risco iminente de suicídio ou automutilação, pois há dever de proteger a vida do paciente. Atividade sexual, solicitação de anticoncepcional e erros alimentares não configuram exceções ao sigilo. Portanto, apenas a alternativa B indica situação que justifica a quebra de confidencialidade.\n📌 PONTO-DE-ATENÇÃO: O sigilo pode ser violado em situações de risco iminente de suicídio ou violência.",
       "video_url": "",
       "_id_bqmed": "4000172348",
       "_area_slug": "medicina-preventiva",
@@ -53459,7 +53459,7 @@
         "E": "O sigilo do paciente deve ser garantido em todas as situações;"
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. O médico deve preservar o sigilo da adolescente, exceto quando houver risco para a menor, como suspeita de abuso ou situação que ameace sua saúde ou segurança. Informar a mãe sem esse risco violaria o direito à privacidade da paciente. Assim, a conduta correta é garantir o sigilo salvo risco.\n📌 PONTO-DE-ATENÇÃO: O sigilo só pode ser quebrado se houver risco de dano ao paciente ou a terceiros.",
       "video_url": "",
       "_id_bqmed": "4000172477",
       "_area_slug": "medicina-preventiva",
@@ -53523,7 +53523,7 @@
         "E": "Todas incorretas"
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. Estudos interventivos com placebo e cirurgia experimental em seres humanos envolvem intervenção e risco, exigindo avaliação e aprovação do Comitê de Ética em Pesquisa. Já o uso de dados já disponíveis publicamente no DATASUS não configura pesquisa com intervenção nem coleta de novos dados, dispensando a necessidade de avaliação pelo CEP. Portanto, apenas a alternativa III está correta.\n📌 PONTO-DE-ATENÇÃO: Pesquisas com dados públicos já existentes não necessitam de aprovação do CEP.",
       "video_url": "",
       "_id_bqmed": "4000172683",
       "_area_slug": "medicina-preventiva",
@@ -53553,7 +53553,7 @@
         "E": "O cálculo não é possível."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. Em uma curva ROC, a especificidade aumenta à medida que o ponto se move para a esquerda (menor taxa de falsos positivos). O ponto A está mais à esquerda que os demais, indicando a maior especificidade entre as opções. Portanto, o ponto A apresenta maior especificidade.\n📌 PONTO-DE-ATENÇÃO: Quanto mais próximo ao eixo y (0 de 1‑especificidade), maior a especificidade.",
       "video_url": "",
       "_id_bqmed": "4000172687",
       "_area_slug": "medicina-preventiva",
@@ -53848,7 +53848,7 @@
         "E": "Caso seja prescrito método contraceptivo."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. A presença dos pais ou responsável é obrigatória para atendimento médico de menores somente quando há uso ou abuso de substâncias ilícitas, pois nesses casos o consentimento dos responsáveis é exigido para o tratamento. Nas demais situações, como consulta rotina, prescrição de anticoncepcional ou atividade sexual, o adolescente pode consentir sozinho. Assim, apenas a alternativa D está correta.\n📌 PONTO-DE-ATENÇÃO: Em casos de abuso de drogas, o consentimento dos responsáveis é necessário para atendimento de menor.",
       "video_url": "",
       "_id_bqmed": "4000173657",
       "_area_slug": "medicina-preventiva",
@@ -53877,7 +53877,7 @@
         "D": "O médico não deve intervir, quando, em função de auditor, assistente técnico ou perito, nos atos\nprofissionais de outro médico, ou fazer qualquer apreciação em presença do examinado, reservando\nsuas observações apenas para o relatório."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. O Código de Ética Médica (CEM) estabelece no Capítulo III (Sigilo Profissional) e no Capítulo V (Relações com Médicos e Outros Profissionais) que, ao atuar como perito, auditor ou assistente técnico, o médico deve abster-se de intervir nos atos profissionais do médico assistente ou tecer comentários na presença do examinado, reservando suas observações exclusivamente para o laudo ou relatório técnico. A alternativa A está incorreta pois a autonomia do paciente não limita o conhecimento técnico do médico, mas sim a imposição de condutas; a B está incorreta pois o CEM considera a ortotanásia ética (morte natural sem obstinação terapêutica); a C está incorreta pois a alimentação forçada em greve de fome fere a autonomia do paciente competente. 📌 PONTO-DE-ATENÇÃO: No papel de perito/auditor, o médico não opina na frente do paciente; emite apenas relatório escrito.",
       "video_url": "",
       "_id_bqmed": "4000173900",
       "_area_slug": "medicina-preventiva",
@@ -53907,7 +53907,7 @@
         "E": "Todos os itens."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. Todos os itens correspondem a vedações expressas no Código de Ética Médica (Capítulo I - Princípios Fundamentais e Capítulo V - Relações com Médicos): I (vedado substituir médico demitido por represália a movimentos legítimos), II (vedado acobertar erro ou conduta antiética), III (vedada concorrência desleal) e IV (vedado usar hierarquia para impedir atuação ética de subordinados). Nenhuma das alternativas parciais contempla a totalidade das proibições listadas. 📌 PONTO-DE-ATENÇÃO: O CEM proíbe solidariedade corporativa indevida (acobertar erros) e protege a autonomia ética do subordinado.",
       "video_url": "",
       "_id_bqmed": "4000174830",
       "_area_slug": "medicina-preventiva",
@@ -53937,7 +53937,7 @@
         "E": "Nenhum dos itens."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. O Código de Ética Médica garante ao médico o direito de exercer a profissão sem discriminação (item I) e de decidir o tempo dedicado ao paciente conforme sua experiência, evitando prejuízo pela sobrecarga (item III). O item II está incorreto pois o médico não pode suspender atividades coletiva ou individualmente em situações de urgência e emergência, mesmo sem condições ideais ou remuneração justa, devendo garantir o atendimento até a transferência segura. 📌 PONTO-DE-ATENÇÃO: Direito de greve/paralisação não se aplica a urgências/emergências; abandono de paciente é infração ética grave.",
       "video_url": "",
       "_id_bqmed": "4000174831",
       "_area_slug": "medicina-preventiva",
@@ -53966,7 +53966,7 @@
         "D": "Caso um paciente faleça por pneumonia, mas a causa básica da morte tenha sido uma queda da própria altura, o médico assistente poderá assinar a D.O., pois a\ncausa terminal não foi externa."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. A legislação (Lei 6.015/73 e Portarias do MS) determina que óbitos sem assistência médica devem ser atestados preferencialmente pelo SVO, ou por médico do serviço público, ou por qualquer médico, consignando no atestado a ausência de assistência. A alternativa A está errada pois apenas médico preenche a DO (exceto notificação compulsória); a B inverte os destinos das vias (1ª via vai para a família/registro civil, 2ª para o SVO/Secretaria, 3ª fica no prontuário/hospital); a D está errada pois morte por queda (causa externa) exige exame necroscópico e comunicação à autoridade policial, não podendo o assistente assinar a DO como morte natural. 📌 PONTO-DE-ATENÇÃO: Causa externa (queda, violência) -> Obrigatório exame necroscópico e DO pelo SVO/IML; médico assistente NÃO assina.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000175365-720.mp4",
       "_id_bqmed": "4000175365",
       "_area_slug": "medicina-preventiva",
@@ -53996,7 +53996,7 @@
         "E": "Deve-se garantir recursos para a atenção a criança, quando houver sobra de recursos."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. O Estatuto da Criança e do Adolescente (Lei 8.069/90), em seu Art. 4º, estabelece a doutrina da proteção integral, definindo a criança e o adolescente como sujeitos de direitos com prioridade absoluta na formulação de políticas públicas e alocação de recursos. As alternativas B, C, D e E contradizem frontalmente esse princípio basilar: a criança não é 'adulto em miniatura', tem prioridade sobre o idoso em situações de conflito de recursos (salvo exceções legais), e os recursos devem ser prioritários, não igualitários ou condicionados a sobras. 📌 PONTO-DE-ATENÇÃO: Prioridade absoluta (Art. 4º ECA) = preferência na formulação/execução de políticas, destinação de recursos e atendimento.",
       "video_url": "",
       "_id_bqmed": "4000175413",
       "_area_slug": "medicina-preventiva",
