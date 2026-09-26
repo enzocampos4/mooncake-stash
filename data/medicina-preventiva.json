@@ -54025,7 +54025,7 @@
         "D": "0,2 e 0,181."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. A sensibilidade foi calculada como 0,8 (80%) e o valor preditivo negativo como 0,818 (81,8%), valores obtidos a partir da tabela de contingente fornecida no enunciado. As demais alternativas apresentam valores que não correspondem aos resultados dos cálculos realizados. Portanto, apenas a alternativa C está correta.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000175573-720.mp4",
       "_id_bqmed": "4000175573",
       "_area_slug": "medicina-preventiva",
@@ -54055,7 +54055,7 @@
         "E": "preservar o sigilo profissional, com base no Código de Ética Médica, então não poderá conversar com os\nresponsáveis do paciente."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. Em menor de idade com ideação suicida, o dever de proteção sobrepõe‑se ao sigilo, exigindo que os responsáveis sejam informados diante do risco à vida. A alternativa B menciona apenas a menoridade, sem considerar o risco iminente, tornando‑a insuficiente. As opções A, D e E sugerem internação automática ou manutenção do sigilo, o que não é a conduta mais segura nesse cenário. Assim, apenas a C está correta.",
       "video_url": "",
       "_id_bqmed": "4000175657",
       "_area_slug": "medicina-preventiva",
@@ -54085,7 +54085,7 @@
         "E": "alta sensibilidade, já que, dão poucos resultados falso negativo."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. Para rastrear um surto de doença transmissível por contato, prioriza‑se identificar o maior número possível de casos, evitando falsos negativos; portanto o teste deve ter alta sensibilidade. As alternativas A e C justificam alta sensibilidade com poucos falsos positivos, o que está incorreto. As opções B e D defendem alta especificidade, que não é o objetivo principal nesse contexto. Logo, somente a E está correta.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000175661-720.mp4",
       "_id_bqmed": "4000175661",
       "_area_slug": "medicina-preventiva",
@@ -54115,7 +54115,7 @@
         "E": "casos deff encontrados no universo amostral testado na população em geral."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. Sensibilidade é definida como a proporção de verdadeiros positivos entre todos os indivíduos realmente doentes (TP/(TP+FN)). As demais alternativas confundem sensibilidade com especificidade, valor preditivo ou conceitos sem sentido. Portanto, a única definição correta está na alternativa D.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000175892-720.mp4",
       "_id_bqmed": "4000175892",
       "_area_slug": "medicina-preventiva",
@@ -54149,7 +54149,7 @@
         "E": "Ficha A."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. No Sistema de Informações Hospitalares (SIH), o instrumento de coleta de dados utilizado é a Autorização de Internação Hospitalar (AIH). As demais opções referem‑se a outros sistemas (DNV para nascidos vivos, FII para investigações, FIN para notificações e Ficha A para outro fim). Assim, a alternativa B é a correta.",
       "video_url": "",
       "_id_bqmed": "4000175893",
       "_area_slug": "medicina-preventiva",
@@ -54178,7 +54178,7 @@
         "D": "Todas acima"
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. No Brasil, a interrupção da gestação é legalmente permitida nas hipóteses de risco à vida da mulher, gravidez decorrente de estupro e diagnóstico de anencefalia fetal. Como as três situações estão previstas em lei, a alternativa que agrupa todas elas está correta. As alternativas A, B e C isoladamente são incompletas, pois cada uma descreve apenas uma das permissivas legais.",
       "video_url": "",
       "_id_bqmed": "4000175988",
       "_area_slug": "medicina-preventiva",
@@ -55564,7 +55564,7 @@
         "E": "A paciente tem direito a sigilo e confidencialidade de sua consulta, podendo ser atendida sem a\npresença de um responsável legal."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. Segundo o Estatuto da Criança e do Adolescente (ECA) e as resoluções do CFM, adolescentes a partir de 12 anos têm direito ao sigilo e à confidencialidade em consultas de saúde sexual e reprodutiva, podendo ser atendidas sem a presença ou autorização dos responsáveis legais. Portanto, a médica pode atender a adolescente e prescrever anticoncepcional sem notificar os pais. As alternativas A, B, C e D estão incorretas porque violam esse direito ao sigio ou exigem procedimentos desnecessários.",
       "video_url": "",
       "_id_bqmed": "4000182392",
       "_area_slug": "medicina-preventiva",
@@ -56410,7 +56410,7 @@
         "D": "4950"
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. Com prevalência de 1% em 5.000 habitantes, há 50 doentes. Sensibilidade de 50% resulta em 25 verdadeiros positivos (TP). Especificidade de 90% implica taxa de falso positivo de 10% entre os 4.950 não doentes, gerando 495 falsos positivos (FP). A razão FP/TP é 495/25 ≈ 19,8, arredondada para 19 (sem casa decimal).",
       "video_url": "",
       "_id_bqmed": "4000183000",
       "_area_slug": "medicina-preventiva",
@@ -56439,7 +56439,7 @@
         "D": "Autorização do marido"
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. Para a interrupção da gestação por anencefalia, a legislação brasileira exige a apresentação de dois laudos de ultrassom realizados por profissionais diferentes, a fim de confirmar o diagnóstico. Não são necessários boletim de ocorrência, autorização judicial ou consentimento do marido para essa hipótese legal.",
       "video_url": "",
       "_id_bqmed": "4000183057",
       "_area_slug": "medicina-preventiva",
@@ -57044,7 +57044,7 @@
         "D": "não incorreu em infração ética, porque tomou o cuidado de colocar sua inscrição no CRM, bem como\nseu número de RQE."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. A resolução do CFM permite a utilização de imagem de paciente para fins educativos quando há consentimento expresso e explícito, o que ocorreu no caso. A inclusão do número de CRM e RQE é requerida, mas não caracteriza, por si só, a licitude da propaganda. As alternativas que apontam infração ética estão incorretas porque desconsideram a permissão explícita da paciente e o caráter educativo da divulgação.",
       "video_url": "",
       "_id_bqmed": "4000183504",
       "_area_slug": "medicina-preventiva",
@@ -59492,7 +59492,7 @@
         "E": "deixar de revelar aos pais ou representantes legais a condição de saúde relacionada a paciente menor\nde idade."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. O Código de Ética Médica (Art. 74) veda expressamente revelar informações confidenciais de exames de trabalhadores a empregadores, exceto se o silêncio trouxer risco à saúde coletiva. A alternativa A é incorreta pois é permitido assumir vaga de médico afastado em represália (Art. 31). A B está errada pois o médico pode discordar de conduta de outro colega (Art. 36). A C é vedada: não se deve passar informações a outro médico sem consentimento do paciente (Art. 73). A E é incorreta pois o sigilo do menor deve ser respeitado se ele tiver discernimento (Art. 75). 📌 PONTO-DE-ATENÇÃO: Exames ocupacionais têm sigilo reforçado; só se quebra para proteger a coletividade.",
       "video_url": "",
       "_id_bqmed": "4000185356",
       "_area_slug": "medicina-preventiva",
@@ -59522,7 +59522,7 @@
         "E": "abreviar a vida do paciente, salvo nos casos em que houver um pedido deste ou de seu representante\nlegal."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. O consentimento livre e esclarecido é regra (Art. 46), exceto em risco iminente de morte ou incapacidade do paciente. A B inverte a regra: a comunicação direta ao paciente é obrigatória, não depende de aval familiar. A C descreve condutas antiéticas (exagerar gravidade, complicar tratamento) que nunca são permitidas. A D está incorreta pois o abandono é vedado, mas a frase 'em hipótese alguma' ignora a possibilidade de transferência responsável. A E é vedada: abreviar a vida (eutanásia) é proibido mesmo a pedido (Art. 41). 📌 PONTO-DE-ATENÇÃO: Consentimento informado só é dispensável em emergência com risco de morte iminente.",
       "video_url": "",
       "_id_bqmed": "4000185358",
       "_area_slug": "medicina-preventiva",
@@ -60241,7 +60241,7 @@
         "D": "No princípio da não maleficência, o médico ou outro profissional da saúde deve respeitar a vontade, os\nvalores morais, as crenças do paciente ou de seu representante."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. Beneficência é o dever de agir em benefício do paciente, promovendo seu bem-estar pela ciência médica. A B descreve não maleficência (não prejudicar), não justiça. A C define justiça (equidade na distribuição), não autonomia. A D descreve autonomia (respeito à vontade), não maleficência. 📌 PONTO-DE-ATENÇÃO: Beneficência = fazer o bem; Não maleficência = não fazer mal; Autonomia = respeitar a decisão; Justiça = equidade no acesso.",
       "video_url": "",
       "_id_bqmed": "4000189433",
       "_area_slug": "medicina-preventiva",
@@ -60271,7 +60271,7 @@
         "E": "solicitar a um membro da equipe que informe o parceiro sobre a infecção e sobre a impossibilidade de\nmanter relações sexuais seguras com o paciente neste momento."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. O Ministério da Saúde preconiza que o médico incentive o paciente a trazer o parceiro para aconselhamento/testagem; se houver recusa, a equipe deve fazer busca ativa do parceiro preservando a identidade do paciente (sigilo). A A é passiva e não protege o terceiro. A B quebra o sigilo ao chamar o parceiro diretamente. A D condiciona a notificação a critérios clínicos incorretos. A E delega a quebra de sigilo a terceiro, o que não é permitido. 📌 PONTO-DE-ATENÇÃO: Busca ativa do parceiro pelo serviço de saúde, sem revelar a identidade do paciente índice, é a conduta ética e recomendada.",
       "video_url": "",
       "_id_bqmed": "4000189795",
       "_area_slug": "medicina-preventiva",
@@ -60300,7 +60300,7 @@
         "D": "entre o médico e o paciente é importante porque deixa o último mais seguro e disposto a informar com\nmais desenvoltura os seus problemas, sintomas e dúvidas."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. A empatia facilita a comunicação, fazendo o paciente sentir-se acolhido e seguro para relatar sintomas e dúvidas, o que melhora a anamnese e a adesão. A A nega a importância da empatia, o que contradiz a medicina centrada no paciente. A B define empatia como unilateral; ela envolve compreensão mútua. A C está errada: mesmo sedados, pacientes merecem respeito e a relação médico-paciente persiste via familiares/representantes. 📌 PONTO-DE-ATENÇÃO: Empatia melhora a qualidade da informação clínica obtida na consulta.",
       "video_url": "",
       "_id_bqmed": "4000190109",
       "_area_slug": "medicina-preventiva",
@@ -60329,7 +60329,7 @@
         "D": "o médico deverá chamar a paciente pelo nome social, pois, no SUS, o uso do nome social e o pronome\na ele atribuído é um direito do cidadão."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D.\nO uso do nome social e do pronome correspondente é garantido como direito do cidadão no SUS, conforme a Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Transexuais e Travestis. Portanto, o médico deve chamar a paciente pelo nome social, não pelo nome civil. As alternativas A e B estão incorretas porque obrigam ou deixam a escolha ao profissional, contrariando esse direito. A alternativa C inventa uma penalidade de suspensão de 30 dias que não consta nas informações fornecidas.\n📌 PONTO-DE-ATENÇÃO: respeitar o nome social é fundamental para garantir a dignidade e a não discriminação no atendimento de saúde.",
       "video_url": "",
       "_id_bqmed": "4000190128",
       "_area_slug": "medicina-preventiva",
@@ -60358,7 +60358,7 @@
         "D": "caso os pacientes do médico 3 autorizem a publicação das fotos, o dermatologista poderá simplesmente\nelaborar a sua defesa e não receberá censuras éticas."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A.\nApós receber denúncias, o CFM deve instaurar uma sindicância para apurar os fatos; se houver indícios de infração, é aberto um processo médico-disciplinar, e o médico tem 30 dias para apresentar sua defesa. Essa sequência está prevista no Código de Ética Médica e corresponde ao descrito na alternativa A. As alternativas B, C e D acrescentam consequências automáticas ou atribuições de competência que não são suportadas pelas informações do enunciado.",
       "video_url": "",
       "_id_bqmed": "4000190144",
       "_area_slug": "medicina-preventiva",
@@ -60387,7 +60387,7 @@
         "D": "redução de danos."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A.\nO CFM justificou seu posicionamento sobre a cloroquina afirmando que se opor à sua prescrição seria contrário a um princípio básico da medicina contido no Código de Ética Médica, que é o princípio da autonomia do paciente. As demais opções (jurisprudência, valorização do SUS, redução de danos) não são princípios básicos elencados no Código de Ética Médica conforme o contexto apresentado.",
       "video_url": "",
       "_id_bqmed": "4000190148",
       "_area_slug": "medicina-preventiva",
@@ -60416,7 +60416,7 @@
         "D": "beneficência e integralidade."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C.\nNo livro \"Princípios de Ética Biomédica\" de Beauchamp e Childress, os quatro princípios fundamentais são autonomia, beneficência, não-maleficência e justiça. Entre as alternativas, apenas a C menciona dois desses princípios: beneficência e não-maleficência. As outras combinações (justiça e equidade, equidade e integralidade, beneficência e integralidade) não correspondem aos pares de princípios propostos pelos autores.",
       "video_url": "",
       "_id_bqmed": "4000190167",
       "_area_slug": "medicina-preventiva",
@@ -60474,7 +60474,7 @@
         "D": "Razão de verossimilhança negativa."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C.\nPara rastrear sífilis congênita no pré-natal, o teste deve ter alta sensibilidade, a fim de minimizar falsos negativos e garantir que gestantes infectadas não sejam deixadas de fora do tratamento. Alta especificidade ou valor preditivo negativo elevado são características menos críticas nesse contexto de triagem, e a razão de verossimilhança negativa não é a principal propriedade requerida. Portanto, a alternativa C está correta.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000190562-720-bdalegria_193864_1685460760.mp4",
       "_id_bqmed": "4000190562",
       "_area_slug": "medicina-preventiva",
@@ -70626,7 +70626,7 @@
         "D": "Deseja confirmar de um diagnóstico que tenha sido sugerido por outros dados."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. Testes com alta sensibilidade (poucos falsos negativos) são ideais para rastreamento (screening) em fases iniciais da investigação diagnóstica, pois um resultado negativo praticamente exclui a doença (regra SnNout), permitindo reduzir o número de hipóteses diagnósticas. A alternativa A descreve situação onde se deseja alta especificidade (evitar falsos positivos). A alternativa B está incorreta pois alta sensibilidade não garante baixa taxa de falsos positivos (isso depende da especificidade e prevalência). A alternativa D descreve o papel de testes com alta especificidade (regra SpPin), usados para confirmar diagnósticos. 📌 PONTO-DE-ATENÇÃO: Alta sensibilidade = SnNout (exclui doença se negativo) = útil para rastreamento/início da investigação.",
       "video_url": "",
       "_id_bqmed": "4000230011",
       "_area_slug": "medicina-preventiva",
@@ -72355,7 +72355,7 @@
         "E": "I-3; II-2; III-4; IV-1; V-5"
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. A associação correta entre os sistemas de informação do SUS e suas fontes primárias de dados é: SINAN alimentado por fichas de notificação/investigação (I-3); SIM alimentado pela Declaração de Óbito (II-1); SINASC alimentado pela Declaração de Nascido Vivo (III-2); SI-PNI alimentado por registros de imunobiológicos (IV-4); e SISAB/e-SUS APS alimentado por fichas de atendimento e cadastro territorial (V-5). As demais alternativas embaralham as fontes, associando, por exemplo, a declaração de óbito ao SINASC ou as fichas de notificação ao SI-PNI. 📌 PONTO-DE-ATENÇÃO: Decorar o par 'Sistema x Documento Fonte': SIM=DO, SINASC=DNV, SINAN=Ficha Notificação, SI-PNI=Registro Imunobiológico, SISAB=Ficha Atendimento/Cadastro.",
       "video_url": "",
       "_id_bqmed": "4000259752",
       "_area_slug": "medicina-preventiva",
@@ -72473,7 +72473,7 @@
         "E": "prontuário médico."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. O SINAN (Sistema de Informação de Agravos de Notificação) é alimentado obrigatoriamente pela ficha de notificação e investigação dos agravos de notificação compulsória, preenchida pelos serviços de saúde ao identificarem um caso suspeito ou confirmado. A declaração de óbito (A) alimenta o SIM, a certidão de nascimento (B) não é fonte primária do SINASC (que usa a DNV), e relatório/prontuário médico (D, E) são documentos internos de apoio, não o instrumento oficial de notificação do sistema. 📌 PONTO-DE-ATENÇÃO: Documento oficial do SINAN = Ficha de Notificação/Investigação de Agravo de Notificação Obrigatória.",
       "video_url": "",
       "_id_bqmed": "4000260876",
       "_area_slug": "medicina-preventiva",
