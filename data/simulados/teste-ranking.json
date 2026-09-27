@@ -26,28 +26,8 @@
       "imagens_explicacao": []
     },
     {
-      "id": "s3-023",
-      "numero": 2,
-      "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hemorragia Digestiva (HD)",
-      "enunciado": "Homem de 58 anos, portador de cirrose \nhepática por hepatite C, Child-Pugh B, MELD-Na 18, é admitido na emergência com hematêmese volumosa há cerca de 2 horas. Ao exame \ninicial, encontra-se pálido, confuso, com PA de 90 × 60 mmHg, FC de 112 bpm, SatO₂ de 95% em ar ambiente. Abdome globoso, com ascite \nmoderada. Exames laboratoriais iniciais mostram: Hb = 7,8 g/dL, plaquetas = 68.000/mm³, INR = 1,9, creatinina = 1,6 mg/dL, sódio = 130 \nmEq/L.\nApós estabilização inicial, que conduta a seguir está mais adequada, de acordo com as diretrizes atuais para o manejo da hemorragia \ndigestiva alta varicosa?",
-      "alternativas": {
-        "A": "Iniciar transfusão de concentrado de hemácias visando manter hemoglobina ≥ 9 g/dL, iniciar omeprazol endovenoso em bomba de infusão contínua e encaminhar para endoscopia digestiva alta em até 24 horas.",
-        "B": "Iniciar imediatamente octreotida endovenosa, antibioticoterapia profilática com ceftriaxona e programar endoscopia digestiva alta idealmente nas primeiras 12 horas.",
-        "C": "Administrar plasma fresco congelado para correção do INR antes da endoscopia e realizar paracentese diagnóstica de rotina antes do procedimento endoscópico.",
-        "D": "Priorizar intubação orotraqueal profilática em todos os pacientes com hemorragia varicosa, seguida de ligadura elástica eletiva após estabilização completa."
-      },
-      "correta": "B",
-      "explicacao": "Esse é um caso clássico, porém com algumas armadilhas que você deve estar atento, de hemorragia digestiva alta varicosa em paciente \ncirrótico descompensado, exatamente no perfil cobrado pelo ENAMED/INEP: instabilidade hemodinâmica, anemia importante, sinais de \nencefalopatia e disfunção renal inicial.\nAntes de analisar as alternativas, vale reforçar os pilares do manejo inicial da HDA varicosa, segundo consensos atuais (Baveno VII, \nAASLD e EASL):\n1. estabilização hemodinâmica;\n2. início precoce de droga vasoativa;\n3. antibioticoterapia profilática;\n4. endoscopia terapêutica precoce.\nCom isso em mente, vamos às alternativas.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 3º Simulado Residência Médica - ENAMED | Fevereiro de 2026\nRESIDÊNCIA MÉDICA\n38\nIncorreta a alternativa A. A estratégia transfusional proposta está equivocada. As diretrizes recomendam transfusão restritiva, com alvo de \nhemoglobina entre 7 e 9 g/dL, pois valores mais elevados aumentam a pressão portal e o risco de ressangramento. Além disso, embora o \nuso de IBP esteja indicado em todos os casos de HDA antes da endoscopia, seu uso não deve substituir o início precoce de droga vasoativa, \nessa sim prioritária nos pacientes com provável HDA varicosa. Por fim, na HDA varicosa, a endoscopia deve ser realizada precocemente, \nidealmente em até 12 horas, não apenas em até 24 horas.\nCorreta a alternativa B. Essa alternativa reúne de forma adequada os três pilares iniciais fundamentais do manejo da hemorragia varicosa, \napós a estabilização volêmica:\n1. Droga vasoativa (octreotida ou terlipressina), que deve ser iniciada assim que houver suspeita clínica, antes mesmo da endoscopia.\n2. Antibioticoterapia profilática, preferencialmente com ceftriaxona, reduzindo infecções bacterianas, ressangramento e \nmortalidade.\n3. Endoscopia digestiva alta precoce, idealmente nas primeiras 12 horas, para tratamento endoscópico (ligadura elástica).\nIncorreta a alternativa C. A correção rotineira do INR com plasma fresco não é recomendada antes da endoscopia, pois não reduz sangramento, \npode causar sobrecarga volêmica e piorar a hipertensão portal. A paracentese diagnóstica é importante na avaliação global do cirrótico \nhospitalizado, mas não deve atrasar o manejo do sangramento agudo nem a endoscopia terapêutica.\nIncorreta a alternativa D. A intubação orotraqueal não é mandatória de forma rotineira em todos os pacientes com hemorragia varicosa. \nEla deve ser reservada a situações específicas, como rebaixamento importante do nível de consciência, vômitos incoercíveis ou alto risco de \naspiração. Além disso, a ligadura elástica não deve ser “eletiva”, mas sim realizada precocemente, no contexto da endoscopia de urgência.",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
-      "imagens_enunciado": [],
-      "imagens": [],
-      "imagens_explicacao": []
-    },
-    {
       "id": "pv-ena-2025-0134",
-      "numero": 3,
+      "numero": 2,
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
       "sub_subarea": "Pâncreas",
@@ -75,7 +55,7 @@
     },
     {
       "id": "s14-030",
-      "numero": 4,
+      "numero": 3,
       "area": "Clínica Médica",
       "subarea": "Neurologia",
       "sub_subarea": "Acidentes Vasculares Cerebrais (AVC)",
@@ -95,7 +75,7 @@
     },
     {
       "id": "s9-001",
-      "numero": 5,
+      "numero": 4,
       "area": "Cirurgia",
       "subarea": "Urgências Abdominais",
       "sub_subarea": "Vesícula/Vias Biliares",
@@ -115,7 +95,7 @@
     },
     {
       "id": "pv-sp-2024-0080",
-      "numero": 6,
+      "numero": 5,
       "area": "Clínica Médica",
       "subarea": "Dermatologia",
       "sub_subarea": "Queimaduras",
@@ -136,7 +116,7 @@
     },
     {
       "id": "pv-sp-2025-0124",
-      "numero": 7,
+      "numero": 6,
       "area": "Cirurgia",
       "subarea": "Urgências Abdominais",
       "sub_subarea": "Obstrução intestinal",
@@ -157,7 +137,7 @@
     },
     {
       "id": "pv-ufr-2024-0117",
-      "numero": 8,
+      "numero": 7,
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
       "sub_subarea": "Pâncreas",
@@ -177,7 +157,7 @@
     },
     {
       "id": "s11-015",
-      "numero": 9,
+      "numero": 8,
       "area": "Clínica Médica",
       "subarea": "Neurologia",
       "sub_subarea": "Acidentes Vasculares Cerebrais (AVC)",
@@ -200,7 +180,7 @@
     },
     {
       "id": "s1-013",
-      "numero": 10,
+      "numero": 9,
       "area": "Cirurgia",
       "subarea": "Urgências Abdominais",
       "sub_subarea": "Apendicite aguda",
@@ -220,7 +200,7 @@
     },
     {
       "id": "pv-ena-2025-0116",
-      "numero": 11,
+      "numero": 10,
       "area": "Clínica Médica",
       "subarea": "Nefrologia",
       "sub_subarea": "Lesão renal aguda (LRA)",
@@ -241,7 +221,7 @@
     },
     {
       "id": "s1-031",
-      "numero": 12,
+      "numero": 11,
       "area": "Cirurgia",
       "subarea": "Urgências Abdominais",
       "sub_subarea": "Abdome agudo perfurativo",
@@ -261,7 +241,7 @@
     },
     {
       "id": "pv-ufr-2025-0190",
-      "numero": 13,
+      "numero": 12,
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
       "sub_subarea": "Intestinos",
@@ -280,28 +260,8 @@
       "imagens_explicacao": []
     },
     {
-      "id": "pv-amr-2024-0072",
-      "numero": 14,
-      "area": "Clínica Médica",
-      "subarea": "Gastroenterologia",
-      "sub_subarea": "Hemorragia Digestiva (HD)",
-      "enunciado": "Em relação à doença ulcerosa péptica, assinale a alternativa correta com base na classificação de Forrest.",
-      "alternativas": {
-        "A": "IIb: aqueles que têm coágulo aderente à ulceração e possuem risco intermediário de novo sangramento.",
-        "B": "Ia: aqueles que têm lesão ulcerosa limpa, com baixa possibilidade de sangramento.",
-        "C": "IIc: aqueles que apresentam vaso visível, porém não sangrante e têm alto risco de sangramento.",
-        "D": "III: aqueles que têm hemorragia ativa e apresentam alto risco de novo episódio de sangramento no futuro."
-      },
-      "correta": "A",
-      "explicacao": "IIb: aqueles que têm coágulo aderente à ulceração e possuem risco intermediário de novo sangramento. Caro estrategista, ao abordarmos a doença ulcerosa péptica e seu manejo, é fundamental compreender a classificação de Forrest, uma ferramenta essencial na avaliação do risco de ressangramento. Esta classificação é baseada na aparência endoscópica das úlceras e é crucial para orientar as decisões terapêuticas. Vamos mergulhar nesse tema para que você possa aplicar esse conhecimento não apenas nesta questão, mas em outras situações clínicas semelhantes. A classificação de Forrest é dividida em três categorias principais, cada uma com subcategorias: Forrest I: Hemorragia ativa. - Ia: Hemorragia arterial ativa (jato), com alto risco de ressangramento. - Ib: Hemorragia venosa ativa (gotejamento), também com alto risco de ressangramento. Forrest II: Sinais de hemorragia recente, mas sem hemorragia ativa. - IIa: Vaso visível sem sangramento, alto risco de ressangramento. - IIb: Coágulo aderente, risco intermediário de ressangramento. - IIc: Base hematinizada ou marrom escura da úlcera, indicando sangramento recente, baixo risco de ressangramento. Forrest III: Úlcera sem sinais de hemorragia recente, risco muito baixo de ressangramento. Agora, vamos à análise das alternativas:",
-      "fonte": "AMRIGS 2024",
-      "imagens_enunciado": [],
-      "imagens": [],
-      "imagens_explicacao": []
-    },
-    {
       "id": "pv-hcp-2024-0003",
-      "numero": 15,
+      "numero": 13,
       "area": "Clínica Médica",
       "subarea": "Infectologia",
       "sub_subarea": "Tuberculose (TB)",
@@ -321,7 +281,7 @@
     },
     {
       "id": "s1-054",
-      "numero": 16,
+      "numero": 14,
       "area": "Clínica Médica",
       "subarea": "Hematologia",
       "sub_subarea": "Anemias macrocíticas",
@@ -341,7 +301,7 @@
     },
     {
       "id": "pv-uer-2025-0108",
-      "numero": 17,
+      "numero": 15,
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
       "sub_subarea": "Trauma-Choque",
@@ -365,7 +325,7 @@
     },
     {
       "id": "s5-019",
-      "numero": 18,
+      "numero": 16,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
       "sub_subarea": "Tromboembolismo Pulmonar (TEP)",
@@ -387,7 +347,7 @@
     },
     {
       "id": "pv-ena-2025-0198",
-      "numero": 19,
+      "numero": 17,
       "area": "Clínica Médica",
       "subarea": "Infectologia",
       "sub_subarea": "Tuberculose (TB)",
@@ -408,7 +368,7 @@
     },
     {
       "id": "pv-sp-2025-0129",
-      "numero": 20,
+      "numero": 18,
       "area": "Cirurgia",
       "subarea": "Urgências Abdominais",
       "sub_subarea": "Diverticulite aguda",
@@ -429,7 +389,7 @@
     },
     {
       "id": "s11-098",
-      "numero": 21,
+      "numero": 19,
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
       "sub_subarea": "Doenças do pericárdio",
@@ -451,7 +411,7 @@
     },
     {
       "id": "pv-ufr-2024-0136",
-      "numero": 22,
+      "numero": 20,
       "area": "Clínica Médica",
       "subarea": "Pneumologia",
       "sub_subarea": "Tromboembolismo Pulmonar (TEP)",
@@ -475,7 +435,7 @@
     },
     {
       "id": "pv-df-2024-0079",
-      "numero": 23,
+      "numero": 21,
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
       "sub_subarea": "Choque",
@@ -502,7 +462,7 @@
     },
     {
       "id": "s5-017",
-      "numero": 24,
+      "numero": 22,
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
       "sub_subarea": "Choque",
@@ -525,7 +485,7 @@
     },
     {
       "id": "s5-044",
-      "numero": 25,
+      "numero": 23,
       "area": "Cirurgia",
       "subarea": "Urgências Abdominais",
       "sub_subarea": "Apendicite aguda",
@@ -545,7 +505,7 @@
     },
     {
       "id": "pv-mg-2025-0142",
-      "numero": 26,
+      "numero": 24,
       "area": "Clínica Médica",
       "subarea": "Cardiologia",
       "sub_subarea": "Arritmias Cardíacas",
@@ -565,7 +525,7 @@
     },
     {
       "id": "pv-amr-2024-0079",
-      "numero": 27,
+      "numero": 25,
       "area": "Clínica Médica",
       "subarea": "Gastroenterologia",
       "sub_subarea": "Pâncreas",
@@ -589,7 +549,7 @@
     },
     {
       "id": "s3-084",
-      "numero": 28,
+      "numero": 26,
       "area": "Cirurgia",
       "subarea": "Urgências Abdominais",
       "sub_subarea": "Apendicite aguda",
@@ -609,7 +569,7 @@
     },
     {
       "id": "s14-072",
-      "numero": 29,
+      "numero": 27,
       "area": "Cirurgia",
       "subarea": "Urgências Abdominais",
       "sub_subarea": "Apendicite aguda",
@@ -631,7 +591,7 @@
     },
     {
       "id": "pv-pe-2025-0124",
-      "numero": 30,
+      "numero": 28,
       "area": "Clínica Médica",
       "subarea": "Neurologia",
       "sub_subarea": "Anatomia, Fisiologia e Semiologia Neurológica",
@@ -652,6 +612,55 @@
       ],
       "imagens_explicacao": [
         "data/questoes-img/pv-pe-2025-0124_248_0.png"
+      ]
+    },
+    {
+      "id": "pv-ena-2025-0174",
+      "numero": 29,
+      "area": "Obstetrícia",
+      "subarea": "Doenças associadas à gestação",
+      "sub_subarea": "Síndromes hipertensivas (DHEG, pré-eclâmpsia)",
+      "enunciado": "A pré-eclâmpsia complicada com síndrome HELLP é caracterizada por:",
+      "alternativas": {
+        "A": "trombocitopenia e convulsões maternas;",
+        "B": "disfunção hepática e elevação da glicemia;",
+        "C": "hemólise, disfunção hepática e trombocitopenia;",
+        "D": "convulsões maternas, hemólise e hiperglicemia;",
+        "E": "diminuição dos reflexos profundos e hemólise."
+      },
+      "correta": "C",
+      "explicacao": "hemólise, disfunção hepática e trombocitopenia; O que o examinador quer saber: sobre síndrome HELLP. A síndrome HELLP caracteriza-se pelo quadro de hemólise, aumento das enzimas hepáticas e plaquetopenia, sendo uma das formas mais severas da pré-eclâmpsia, com altas taxas de morbimortalidade materna e fetal. Essa síndrome ocorre com mais frequência no terceiro trimestre e no puerpério. O nome “HELLP” é um mnemônico em inglês das alterações que ocorrem nessa síndrome: HE = hemólise, EL = aumento das enzimas hepáticas (enzime of liver), LP= plaquetopenia (low platelets). A hemólise dá-se pela lesão endotelial que leva à destruição eritrocitária quando o sangue passa pelos capilares alterados. Os sinais laboratoriais de hemólise são desidrogenase láctica (DHL) aumentada e aumento dos esquizócitos. A elevação das enzimas hepáticas (TGO e TGP) ocorre pelo vasoespasmo nos vasos hepáticos com consequente necrose das células hepáticas ou hemorragia periportal. A TGP é a enzima mais sensível e específica para lesões hepáticas. Vale lembrar que a TGO está presente em outros órgãos, como o coração e os rins. A plaquetopenia, por sua vez, deve-se pelo aumento da agregação plaquetária no tecido endotelial lesado. O diagnóstico da síndrome HELLP é laboratorial e feito por meio dos seguintes critérios: H — hemólise: DHL > 600 UI/L, esquizócitos, bilirrubinas > 1,2 mg/dL, haptoglobina < 25 mg/dL; EL — elevação das enzimas hepáticas (enzime of liver): 2 vezes o nível superior ou > 70 UI; LP — plaquetopenia (low platelets): plaquetas < 100.000/mm3. A síndrome HELLP é chamada de completa quando os três critérios diagnósticos laboratoriais estão presentes e parcial quando estão presentes apenas dois deles. A trombocitopenia é a principal e mais precoce alteração encontrada. Quanto menor é a quantidade de plaquetas, maior a gravidade dessa patologia. As principais complicações relacionadas a essa síndrome são: coagulação intravascular disseminada, hematoma/rotura hepática, descolamento prematuro de placenta, insuficiência renal, edema agudo de pulmão, hemorragia intracraniana e descolamento de retina. O hematoma/rotura hepática é uma das complicações mais temidas na síndrome HELLP e manifesta-se por dor súbita em hipocôndrio direito, ascite, hipotensão e choque. O diagnóstico é feito por exame de imagem (ultrassom, tomografia ou ressonância de abdome). Diante de uma paciente com síndrome HELLP, a conduta inicial é semelhante ao tratamento da pré-eclâmpsia grave, ou seja, deve-se internar e estabilizar hemodinamicamente a gestante, fazer a avaliação da vitalidade fetal, administrar sulfato de magnésio para prevenção de convulsões e anti-hipertensivo para controle da hipertensão arterial grave (PA ≥160/110 mmHg). Além disso, os exames laboratoriais precisam ser realizados a cada 6 horas, até estabilização do quadro. Caso haja plaquetopenia abaixo de 50 mil, alguns serviços indicam transfusão de plaquetas e o uso de dexametasona, na dose de 10mg a cada 12h, até 36h após o parto, em mulheres que serão submetidas à cesárea. Não está indicado o uso de corticoide de rotina para o tratamento da síndrome HELLP A resolução da gestação é o tratamento definitivo da síndrome HELLP, por isso o parto deve ocorrer em todos os casos, após administração do sulfato de magnésio e estabilização clínica da gestante. Não é indicado manter a gestação, independentemente da idade gestacional, pois os riscos maternos são muito elevados. ​A via de parto preferida é a vaginal para diminuir o sangramento. A cesárea está indicada nos casos de hematoma hepático. Em caso de necessidade de cesariana recomenda-se: - avaliar coagulograma; - anestesia geral; - repor plaquetas no ato cirúrgico; - deixar dreno sentinela para casos de sangramento aumentado.",
+      "fonte": "ENARE 2025",
+      "imagens_enunciado": [],
+      "imagens": [
+        "pv-ena-2025-0174_301_0.png"
+      ],
+      "imagens_explicacao": [
+        "data/questoes-img/pv-ena-2025-0174_301_0.png"
+      ]
+    },
+    {
+      "id": "pv-uni-2025-0172",
+      "numero": 30,
+      "area": "Obstetrícia",
+      "subarea": "Pré-natal",
+      "sub_subarea": "Consultas e exames de pré-natal",
+      "enunciado": "Mulher, 32 anos de idade, primigesta, na 12ª semana de gestação, está realizando pré-natal em Unidade Básica de Saúde. Exame físico: PA 120 x 80 mmHg, ausência de edemas. Exame obstétrico: útero aumentado para 12 semanas, batimentos cardíacos fetais = 144 bpm ao sonar. A glicemia de jejum apresenta resultado de 90 mg/dL. Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Perfil glicêmico, hemoglobina glicada e avaliação da vitalidade fetal.",
+        "B": "Repetir a glicemia de jejum com 28 semanas e 34 semanas.",
+        "C": "Orientar exercícios físicos e dieta, com glicemia de jejum em 2 semanas.",
+        "D": "Realizar curva glicêmica com 75 g de glicose no segundo trimestre."
+      },
+      "correta": "D",
+      "explicacao": "Realizar curva glicêmica com 75 g de glicose no segundo trimestre. O que o examinador quer saber: sobre diabetes na gestação. O diagnóstico de diabetes na gestação é feito conforme o organograma a seguir. Diante de uma gestante com diagnostico de diabetes gestacional, a primeira conduta é instituir dieta e exercício físico. Além disso, a gestante deve fazer o controle diário dos índices glicêmicos ( perfil glicêmico) pela aferição da glicemia capilar diária quatro vezes ao dia. Essas medidas são essenciais para avaliar se a terapêutica com dieta e atividade física está sendo eficaz para o controle glicêmico. Os valores das glicemias considerado normais são: - Jejum < 95mg/dl - 1 hora após as refeições < 140mg/dl - 2 horas após as refeições < 120mg/dl. A insulinoterapia nas gestantes com DMG é indicada quando não se alcança adequado controle glicêmico , isto é, na presença de duas ou mais medidas de glicemia acima da meta, avaliadas após 7 a 14 dias de terapia não farmacológica ou se 30 a 50 % dos valores alterados em 7 dias ou ainda se circunferência abdominal fetal ≥ percentil 75º na ultrassonografia de 3º trimestre ( 29 e 33 semanas de gestação), independente dos valores glicêmicos. Nas gestantes com Diabetes prévio à gestação ( DM1, DM2 ou over diabetes) o tratamento inicia-se com insulinoterapia, dieta, exercício físico e controle glicêmico, que deve ser feito seis vezes ao dia. A dose, o tipo de insulina e o momento da aplicação devem ser escolhidos de acordo com o perfil glicêmico de cada paciente. Sendo que as insulinas basais se prestam a controlar a glicemia do jejum e pré-prandiais, enquanto as insulinas prandiais se destinam a controlar a incursão glicêmica pós-prandial. A dose inicial de insulina deve ser de 0,5 UI/kg/dia, e a necessidade de ajustes deve ser feita a cada 15 dias até a 30ª semana gestacional, e semanalmente após esse marco temporal.",
+      "fonte": "UNIFESP 2025",
+      "imagens_enunciado": [],
+      "imagens": [
+        "pv-uni-2025-0172_323_0.png"
+      ],
+      "imagens_explicacao": [
+        "data/questoes-img/pv-uni-2025-0172_323_0.png"
       ]
     }
   ]
