@@ -86,5 +86,13 @@
     "data": "2024-09-08",
     "total_questoes": 100,
     "file": "revalida-2024-2.json"
+  },
+  {
+    "id": "teste-ranking",
+    "edicao": 0,
+    "nome": "Simulado Teste — Ranking Atual (30q)",
+    "data": "2026-09-27",
+    "total_questoes": 30,
+    "file": "teste-ranking.json"
   }
 ]
