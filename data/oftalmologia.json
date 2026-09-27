@@ -14,7 +14,7 @@
         "D": "A presença de retinopatia proíbe qualquer tipo de exercício a ser praticado, ja que esforços que causem\ngrandes elevações de pressão arterial, especialmente contrações isométricas e manobra de Valsalva,\npodem ser contraindicados independendo da presença de retinopatia."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. A presença de retinopatia diabética proliferativa ou grave impõe restrição a exercícios que elevem abruptamente a pressão arterial (como isometria e Valsalva), devido ao risco de hemorragia vítrea ou descolamento de retina traccional. As alternativas B e C contradizem-se ao afirmar que a retinopatia não restringe o exercício, mas citam contraindicações. A alternativa D é incorreta pois proíbe qualquer exercício, o que não é conduta padrão (exercícios aeróbicos leves/moderados são benéficos). 📌 PONTO-DE-ATENÇÃO: Retinopatia proliferativa = contraindicação a exercícios de alto impacto, isometria e Valsalva.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000001177-720.mp4",
       "_id_bqmed": "4000001177",
       "_area_slug": "oftalmologia",
@@ -463,7 +463,7 @@
         "E": "Em olhos com o diâmetro corneano menor que o normal."
       },
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "GABARITO: E. O glaucoma primário de ângulo fechado ocorre preferencialmente em olhos anatomicamente predispostos: câmaras anteriores rasas, diâmetro corneano menor (microcórnea), hipermetropia (olhos curtos) e cristalino espesso/antero-posterior. A alternativa A cita prevalência incorreta (é mais comum). A B inverte o sexo (predomina em mulheres). A C cita profundidade de 2,5mm, que é limite superior da normalidade/rasa (raso é < 2,5mm). A D cita míopes, quando o fator de risco é a hipermetropia. 📌 PONTO-DE-ATENÇÃO: Olho curto (hipermétrope), câmara anterior rasa, ângulo estreito = risco de fechamento angular.",
       "video_url": "",
       "_id_bqmed": "4000002535",
       "_area_slug": "oftalmologia",
@@ -493,7 +493,7 @@
         "E": "30% dos pacientes com GPAA são não-responsivos à medicação com adrenalina."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. A pilocarpina é um agonista colinérgico não seletivo que atua estimulando receptores **muscarínicos** (M3) no músculo ciliar, contraindo-o e abrindo a malha trabecular para aumentar a saída do humor aquoso; a alternativa erra ao citar receptores nicotínicos. A eserina (fisostigmina) inibe a acetilcolinesterase, aumentando a acetilcolina e potencializando efeitos muscarínicos (correta). Timolol (betabloqueador) pode atravessar a barreira hematoencefálica causando CNS effects (correta). Adrenalina (agonista alfa/beta) aumenta facilidade de saída uveoescleral/trabecular (correta). A não-resposta à adrenalina em ~30% é dado clássico de farmacologia do glaucoma (correta). 📌 PONTO-DE-ATENÇÃO: Pilocarpina = agonista MUSCARÍNICO (contrai ciliar -> abre trabecular).",
       "video_url": "",
       "_id_bqmed": "4000002545",
       "_area_slug": "oftalmologia",
@@ -1122,7 +1122,7 @@
         "D": "A catarata surge geralmente aos 10 anos."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. O calázio é uma granuloma lipogranulomatoso crônico (nodulação) resultante da obstrução e inflamação da glândula de Meibomiana (glândula tarsal), localizada na pálpebra (intrapalpebral). A ambliopia surge na infância (período crítico de desenvolvimento visual), não na velhice. Blefarite é inflamação da margem palpebral, não da conjuntiva. Catarata é predominantemente senil (idosos), rara aos 10 anos (congênita/traumática/metabólica). 📌 PONTO-DE-ATENÇÃO: Calázio = glândula de Meibomiana (lipídica); Hordeólulo = glândula de Zeis/Moll (infeccioso agudo).",
       "video_url": "",
       "_id_bqmed": "4000019820",
       "_area_slug": "oftalmologia",
@@ -1269,7 +1269,7 @@
         "D": "Coreorretinite."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. O quadro clínico descrito (dor ocular intensa, queda de AV, náuseas/vômitos, hiperemia ciliar, midríase paralítica fixa/ovalada, edema corneal) é clássico de **crise de glaucoma agudo de ângulo fechado** por elevação súbita da PIO (> 40-50 mmHg). Iridociclite cursa com miose, não midríase. Ceratite causa dor e edema corneal, mas não midríase paralítica nem quadro sistêmico tão intenso (náuseas/vômitos por reflexo vago). Coriorretinite afeta segmento posterior, sem edema corneal agudo nem midríase. 📌 PONTO-DE-ATENÇÃO: Olho vermelho + dor + midríase fixa + náuseas/vômitos = Glaucoma Agudo de Ângulo Fechado (Emergência oftalmológica).",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000021813-720.mp4",
       "_id_bqmed": "4000021813",
       "_area_slug": "oftalmologia",
@@ -1511,7 +1511,7 @@
         "E": "episclerite."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. O quadro clínico descrito (hiperemia conjuntival, dor ocular intensa, náuseas, cefaleia, injeção ciliar, edema de córnea e pupila em midríase paralítica/fixa) é clássico de crise de glaucoma agudo de ângulo fechado, decorrente de elevação súbita da pressão intraocular. A uveíte (A) cursa com midrose e fotofobia, não midríase paralítica fixa. Conjuntivite (C) e episclerite (E) não cursam com edema de córnea, midríase fixa nem sintomas sistêmicos intensos. A esclerite posterior (D) é rara e não apresenta esse quadro agudo de hipertensão ocular.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000026919-720.mp4",
       "_id_bqmed": "4000026919",
       "_area_slug": "oftalmologia",
@@ -1693,7 +1693,7 @@
         "D": "Hipotensores oculares."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. No glaucoma agudo de ângulo fechado, o mecanismo fisiopatológico é o bloqueio pupilar; o uso de drogas midriáticas (midriáticos) aumenta o contato íris-lente, agravando o fechamento do ângulo e a elevação da pressão intraocular, sendo portanto contraindicado na fase aguda. Corticoides tópicos (A), inibidores da anidrase carbônica sistêmicos (C) e hipotensores oculares (D) fazem parte do arsenal terapêutico para baixar a pressão intraocular na crise.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000033586-720.mp4",
       "_id_bqmed": "4000033586",
       "_area_slug": "oftalmologia",
@@ -1751,7 +1751,7 @@
         "D": "Hipotireoidismo e cardiopatia."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. As alternativas A, B e C listam condições oftalmológicas e sistêmicas (DM, enxaqueca, DMRI, catarata, olho seco, erros refrativos, descolamento de retina, neurite óptica, presbiopia, hipoglicemia) que são causas bem estabelecidas de visão turva. Hipotireoidismo e cardiopatia (D) não são causas diretas ou típicas de visão turva; o hipotireoidismo cursa com mixedema e a cardiopatia com sintomas cardiovasculares, não sendo etiologias primárias de embaçamento visual.",
       "video_url": "",
       "_id_bqmed": "4000034147",
       "_area_slug": "oftalmologia",
@@ -2781,7 +2781,7 @@
         "E": "O tratamento é sempre cirúrgico."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. O diagnóstico do glaucoma crônico de ângulo aberto (GCAA) baseia-se na tríade: elevação da pressão intraocular (tonometria), alterações no nervo óptico (escavação aumentada, hemorragias de Drance) e defeitos no campo visual (campimetria). A facoemulsificação (A) é cirurgia de catarata. O GCAA é assintomático nas fases iniciais, não cursando com dor forte (C). Corticoides tópicos podem elevar a PIO e agravar o glaucoma (D). O tratamento inicial é clínico com colírios hipotensores, não cirúrgico (E).",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000071381-720.mp4",
       "_id_bqmed": "4000071381",
       "_area_slug": "oftalmologia",
@@ -3307,7 +3307,7 @@
         "E": "Dorzolamida."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. O topiramato é um fármaco conhecido por induzir edema ciliar e deslocamento anterior do cristalino/íris, resultando em fechamento angular secundário e glaucoma agudo de ângulo fechado (efeito colateral raro, mas grave). Acetazolamida (A), manitol (C), timolol (D) e dorzolamida (E) são medicamentos utilizados para *tratar* a elevação da pressão intraocular, não para precipitá-la.",
       "video_url": "",
       "_id_bqmed": "4000088517",
       "_area_slug": "oftalmologia",
@@ -3531,7 +3531,7 @@
         "D": "Escotoma central."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. A hemianopsia bitemporal é o defeito campimétrico clássico causado pela compressão do quiasma óptico por massas suprasselares, como adenomas hipofisários ou craniofaringiomas, pois afeta as fibras nasais (que cruzam) responsáveis pelo campo temporal. A hemianopsia binasal ocorre em lesões laterais ao quiasma, a anosmia relaciona-se ao nervo olfatório (sulco olfatório) e o escotoma central acomete a mácula ou fibras papilomaculares.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000095423-720.mp4",
       "_id_bqmed": "4000095423",
       "_area_slug": "oftalmologia",
@@ -3744,7 +3744,7 @@
         "E": "Não tem resposta para esta questão."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. O quadro descrito com prurido intenso (coceira), pele palpebral macerada, conjuntiva com coloração 'vermelho salmão' e secreção mucosa é clássico da conjuntivite alérgica crônica (ceratoconjuntivite vernal ou atópica). A conjuntivite bacteriana cursa com secreção purulenta, a viral com secreção aquosa e linfonodo pré-auricular, e a blefaroconjuntivite aguda apresenta inflamação palpebral anterior marcante. 📌 PONTO-DE-ATENÇÃO: Prurido ocular + conjuntiva 'vermelho salmão' + secreção mucosa = Conjuntivite Alérgica.",
       "video_url": "",
       "_id_bqmed": "4000098023",
       "_area_slug": "oftalmologia",
@@ -3773,7 +3773,7 @@
         "D": "Hipoplasia de nervo óptico e retinite pigmentosa."
       },
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "GABARITO: C. A retinopatia da prematuridade (ROP) e a catarata congênita/infantil estão entre as principais causas evitáveis de cegueira infantil em todo o mundo, sendo alvos de programas de rastreamento e cirurgia precoce. A hipoplasia do nervo óptico e a retinite pigmentosa são causas congênitas/genéticas não evitáveis, enquanto a opacidade de córnea e cegueira cortical têm etiologias variadas (trauma, infecção, hipóxia). 📌 PONTO-DE-ATENÇÃO: Principais causas evitáveis de cegueira infantil: Retinopatia da Prematuridade e Catarata.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000099392-720.mp4",
       "_id_bqmed": "4000099392",
       "_area_slug": "oftalmologia",
@@ -3831,7 +3831,7 @@
         "D": "Retinopatia em queijo com ketchup (exsudatos + hemorragias): toxoplasmose."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. A descrição 'retinopatia em queijo com ketchup' (exsudatos amarelos brilhantes + hemorragias) é o achado fundoscópico clássico da retinopatia diabética proliferativa ou grave, não da toxoplasmose. As manchas de Roth (hemorragias com centro pálido) são típicas de endocardite bacteriana, o edema de papila ocorre na DHEG (eclampsia/pré-eclampsia grave) por hipertensão intracraniana, e a vasculite retiniana é manifestação comum do LES. 📌 PONTO-DE-ATENÇÃO: 'Queijo com ketchup' = Retinopatia Diabética (exsudatos duros + hemorragias).",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000099666-720.mp4",
       "_id_bqmed": "4000099666",
       "_area_slug": "oftalmologia",
@@ -4348,7 +4348,7 @@
         "D": "Retinoblastoma."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. A toxoplasmose ocular congênita classicamente apresenta cicatriz coriorretiniana pigmentada (frequentemente macular) com possível reativação adjacente, compatível com a história de prematuridade (35 sem) e ausência de pré-natal (fator de risco para infecção congênita). A citomegalovirose causa 'sal e pimenta' difuso, a retinopatia da prematuridade afeta a periferia vascular em prematuros extremos (geralmente <32 sem/1500g) e o retinoblastoma apresenta massa intraocular branca (leucocoria). 📌 PONTO-DE-ATENÇÃO: Cicatriz coriorretiniana macular + história de infecção congênita = Toxoplasmose ocular.",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000110633-720.mp4",
       "_id_bqmed": "4000110633",
       "_area_slug": "oftalmologia",
@@ -4736,7 +4736,7 @@
         "E": "Nenhuma das anteriores."
       },
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "GABARITO: D. O uso tópico prolongado de corticóides é uma causa bem estabelecida de catarata subcapsular posterior e de elevação da pressão intraocular (glaucoma corticóide), podendo levar a danos irreversíveis ao nervo óptico. Antibióticos quinolonas, anestésicos tópicos e o conservante cloreto de benzalcônio podem causar toxicidade epitelial, alergia ou ceratopatia, mas não são agentes etiológicos clássicos de catarata e glaucoma simultâneos. 📌 PONTO-DE-ATENÇÃO: Corticoides tópicos -> Catarata subcapsular posterior + Glaucoma (elevação PIO).",
       "video_url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000121256-720.mp4",
       "_id_bqmed": "4000121256",
       "_area_slug": "oftalmologia",
@@ -4975,7 +4975,7 @@
         "E": "crianças com sinais e/ou sintomas de desconforto, como esfregar os olhos, piscar muito e/ou apresentar\nconjuntivas vermelhas, não devem ser submetidas ao teste de acuidade visual."
       },
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "GABARITO: B. No fluxo de atenção à saúde ocular na Atenção Primária, o Agente Comunitário de Saúde (ACS) realiza o rastreamento (ex: Tabela de Snellen); se houver alteração (teste positivo), a criança deve ser encaminhada à equipe de Saúde da Família (médico/enfermeiro) para avaliação clínica inicial e decisão sobre encaminhamento ao oftalmologista. A alternativa A descreve sinais inespecíficos; a C associa fatores de risco incorretos (tabagismo/ferro não são principais para erro refrativo); a D está incorreta pois a Snellen é usada a partir de 5-6 anos (alfabetizadas), não 7; a E está errada pois sinais de desconforto indicam necessidade de avaliação, não contraindicação do teste. 📌 PONTO-DE-ATENÇÃO: Fluxo: ACS rastreia -> Equipe SF avalia -> Especialista (se necessário).",
       "video_url": "",
       "_id_bqmed": "4000127111",
       "_area_slug": "oftalmologia",
@@ -5033,7 +5033,7 @@
         "D": "à síndrome de Behçet."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. O quadro descrito (visão embaçada, dor ocular intensa, náuseas, vômitos, bradicardia e sudorese) em paciente hipermétrope é clássico de crise de glaucoma agudo de ângulo fechado, decorrente de bloqueio pupilar e elevação súbita da pressão intraocular. Os sintomas sistêmicos (náusea, vômito, bradicardia, sudorese) são reflexos vagais provocados pela dor ocular intensa. Descolamento de retina cursa com fotopsias, moscas volantes e 'cortina' visual, sem dor intensa nem sintomas vagais proeminentes. Macroadenoma de hipófise causa defeito campimétrico (hemianopsia bitemporal) e cefaleia. Síndrome de Behçet é uma vasculite sistêmica com uveíte recorrente, úlceras orais/genitais. 📌 PONTO-DE-ATENÇÃO: Glaucoma agudo: olho vermelho, dor intensa, PIO alta, córnea edemaciada, midríase fixa + sintomas vagais (N/V/bradicardia).",
       "video_url": "",
       "_id_bqmed": "4000127675",
       "_area_slug": "oftalmologia",
@@ -5178,7 +5178,7 @@
         "D": "Os cones se concentram na periferia retiniana."
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. A mácula é a região central da retina, rica em cones, responsável pela visão central de alta acuidade e visão de cores. Os bastonetes são responsáveis pela visão escotópica (noturna) e periférica, estando ausentes na fóvea e em baixa densidade na mácula. Os cones concentram-se na mácula/fóvea, não na periferia retiniana. 📌 PONTO-DE-ATENÇÃO: Mácula = Cones = Visão central/cores/acuidade. Periferia = Bastonetes = Visão noturna/movimento.",
       "video_url": "",
       "_id_bqmed": "4000128075",
       "_area_slug": "oftalmologia",
@@ -5323,7 +5323,7 @@
         "D": "reto inferior"
       },
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "GABARITO: A. Na posição primária do olhar, o músculo oblíquo superior tem como ação principal a intorsão (rotação do polo superior do olho para medial/nasal), além de depressão e abdução. O reto superior causa elevação, intorsão e adução; o oblíquo inferior causa extorsão, elevação e abdução; o reto inferior causa depressão, extorsão e adução. 📌 PONTO-DE-ATENÇÃO: Ações na posição primária: OS (Intorsão/Depressão/Abdução), OI (Extorsão/Elevação/Abdução), RS (Elevação/Intorsão/Adução), RI (Depressão/Extorsão/Adução).",
       "video_url": "",
       "_id_bqmed": "4000128080",
       "_area_slug": "oftalmologia",
