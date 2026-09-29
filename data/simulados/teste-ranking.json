@@ -388,24 +388,26 @@
       "imagens_explicacao": []
     },
     {
-      "id": "s11-098",
+      "id": "site-card-1262",
       "numero": 19,
-      "area": "Clínica Médica",
+      "area": "Cardiologia",
       "subarea": "Cardiologia",
-      "sub_subarea": "Doenças do pericárdio",
-      "enunciado": "Mulher, 41 anos de idade, previamente saudável, comparece com \nqueixa de dor torácica aguda retroesternal ventilatório dependente há um dia. Nega dispneia, tosse ou febre. Troponina ultrassensível: 28 \nng/L (VR < 20 ng/L). PCR: 23 mg/dL (VR < 5 mg/dL). O ECG é apresentado a seguir:\nBaseado nas informações fornecidas, trata-se de um quadro de:",
+      "sub_subarea": "Pericardiopatias",
+      "enunciado": "Pode-se afirmar que este ECG é compatível com um paciente que, ao exame físico, apresenta:",
       "alternativas": {
-        "A": "miopericardite confirmada. Não é necessário nenhum adicional.",
-        "B": "miopericardite possível. É necessário um exame de imagem para confirmação do diagnóstico.",
-        "C": "perimiocardite confirmada. Não é necessário nenhum exame adicional.",
-        "D": "perimiocardite possível. É necessário um exame de imagem para confirmação do diagnóstico."
+        "A": "pulso em martelo d'água",
+        "B": "ritmo cardíaco irregular",
+        "C": "desdobramento fixo B2",
+        "D": "hipofonese de bulhas"
       },
-      "correta": "A",
-      "explicacao": "Em 2025, a Sociedade Europeia de Cardiologia trouxe diversas mudanças nas nomenclaturas relacionadas à pericardite e miocardite. \nEssas doenças passaram a ser classificadas como síndrome inflamatória miopericárdica. A definição do diagnóstico depende do quadro \nclínico do paciente.\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n158\n -\nMiopericardite: predomínio de pericardite.\n -\nPerimiocardite: predomínio de miocardite.\nA questão trouxe uma paciente com clínica predominante de pericardite. Portanto, o diagnóstico principal é de miopericardite. \nOs critérios diagnósticos também foram modificados. Com relação à miopericardite, ficou da seguinte forma:\n -\nDefinida: clínica compatível (obrigatório) e pelo menos 2 critérios adicionais.\n -\nPossível: clínica compatível (obrigatório) e 1 critério adicional.\n -\nRejeitada: apenas a clínica compatível.\nA clínica compatível nada mais é do que os conhecidos sinais e sintomas de pericardite, contidos nas red flags.\nRed Flags\n• Síndrome gripal ou gastroenterite recente\n• Dor torácica pleurítica ou infarto-like\n• IC direita e sinais de constrição\n• Febre\n• Atrito pericárdico\n• Elevação PCR\n• Derrame pericárdico\n• Derrame pleural\n• Poliserosite\n• RM com edema pericárdico ou realce tardio pelo gadolínio\nOs critérios diagnósticos estão na tabela a seguir (criei o mnemônico PERI para você se lembrar de todos eles).\nCritério obrigatório\nRed Flags\nCritérios adicionais\nPCR elevado\nECG: supra de ST que não respeita território coronariano (mais comum em DI, DII, aVF e V3-V6) e infradesnivelamento do \nsegmento PR.\nRuído (atrito) pericárdico\nImagem:\n- Ressonância magnética (pericárdico com edema ou realce tardio com gadolínio)\n- Derrame pericárdico novo ou piora de derrame pré-existente\n\nEstratégia\nMED\nEstratégia MED | Caderno de Respostas | 11º Simulado Residência Médica - ENAMED | Maio de 2026\nRESIDÊNCIA MÉDICA\n159\n/estrategiamed\n@estrategiamed\nt.me/estrategiamed\nEstratégia MED \n@estrategiamed\nVoltando ao caso clínico, a paciente possui um quadro clínico compatível e 2 critérios adicionais (ECG + PCR elevado). Portanto, trata-se \nde uma miopericardite confirmada (alternativa A).\nCorreta a alternativa A: o diagnóstico de miopericardite está confirmado e nenhum exame adicional é necessário.\nIncorreta a alternativa B: pois o diagnóstico de miopericardite está confirmado.\nIncorreta a alternativa C: pois o diagnóstico é de miopericardite.\nIncorreta a alternativa D: pois o diagnóstico é de miopericardite.\n\n1",
-      "fonte": "ESTRATÉGIA MED 2026 ENAMED 11ª",
-      "imagens_enunciado": [],
+      "correta": "D",
+      "explicacao": "Gabarito: alternativa D.\nCOMENTÁRIO – BRUNO FERRAZ – CARDIOLOGIA / TEMA: ELETROCARDIOGRAMA\nPrezado aluno, você que, certamente, já viu diversos ECGs na sua vida, responda: qual é a característica que mais chama\natenção nesse ECG? Reparou que a amplitude do QRS alterna-se? Olhe para DII longo: QRS grande, pequeno, grande,\npequeno, grande...\nEsse comportamento é chamado de alternância elétrica. Acontece porque o coração muda de posição a cada batida. Mas,\ncomo isso acontece? Acontece pois o coração está “nadando” em grande quantidade de líquido. Logo, é achado típico do\ntamponamento cardíaco.\nTamponamento cardíaco é um tema recorrente. A tríade de Beck é famosa nas provas de residência, mas rara na vida real.\nEssa tríade consiste em: hipofonese de bulhas, turgência jugular e hipotensão arterial e é sugestiva de tamponamento\ncardíaco. Os achados clínicos dependem do tipo e severidade do tamponamento. A taquicardia sinusal é observada em\nquase todos pacientes e é responsável pela manutenção do débito cardíaco. A turgência jugular também é muito frequente.\nO pulso paradoxal pode estar presente no tamponamento moderado a grave (queda de 10 a 20mmHg da pressão arterial\ndurante a inspiração). Ao eletrocardiograma, evidenciaremos baixa voltagem ou alternância elétrica.",
+      "fonte": "BQMED (Site) — Cardiologia",
+      "imagens_enunciado": [
+        "data/questoes-img/site-card-1262_70_1.png"
+      ],
       "imagens": [
-        "data/simulados/imgs/11-simulado/q98_img1.jpeg"
+        "data/questoes-img/site-card-1262_70_1.png"
       ],
       "imagens_explicacao": []
     },
