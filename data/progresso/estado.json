@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-09-29T02:30:44.431Z",
+  "exportado": "2026-10-12T02:59:20.623Z",
   "versao": 2,
   "progresso": {
     "cirurgia": {
@@ -1551,6 +1551,66 @@
       "fonte": "SP - Sistema Único de Saúde - SUS SP 2025",
       "timestamp": "2026-09-28T00:13:59.753Z",
       "modo": "questoes"
+    },
+    {
+      "id": "pv-df-2024-0079",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "DF - Secretaria de Saúde do Distrito Federal - SES 2024",
+      "timestamp": "2026-09-29T17:44:43.743Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "s5-017",
+      "acertou": true,
+      "selecao": "D",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "timestamp": "2026-09-29T17:46:19.187Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "s5-044",
+      "acertou": true,
+      "selecao": "B",
+      "area": "Cirurgia",
+      "subarea": "Urgências Abdominais",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 5ª",
+      "timestamp": "2026-09-29T17:48:35.122Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-mg-2025-0142",
+      "acertou": false,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Cardiologia",
+      "fonte": "MG - Processo Seletivo Unificado - PSU MG 2025",
+      "timestamp": "2026-09-29T17:50:57.673Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "pv-amr-2024-0079",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Clínica Médica",
+      "subarea": "Gastroenterologia",
+      "fonte": "AMRIGS 2024",
+      "timestamp": "2026-09-29T17:51:33.527Z",
+      "modo": "questoes"
+    },
+    {
+      "id": "s3-084",
+      "acertou": true,
+      "selecao": "C",
+      "area": "Cirurgia",
+      "subarea": "Urgências Abdominais",
+      "fonte": "ESTRATÉGIA MED 2026 ENAMED 3ª",
+      "timestamp": "2026-09-29T18:04:30.008Z",
+      "modo": "questoes"
     }
   ],
   "favoritos": {},
@@ -1770,7 +1830,13 @@
         "pv-uer-2025-0108": "certo",
         "s5-019": "certo",
         "pv-ena-2025-0198": "certo",
-        "pv-sp-2025-0129": "errado"
+        "pv-sp-2025-0129": "errado",
+        "pv-df-2024-0079": "certo",
+        "s5-017": "certo",
+        "s5-044": "certo",
+        "pv-mg-2025-0142": "errado",
+        "pv-amr-2024-0079": "certo",
+        "s3-084": "certo"
       },
       "selecao": {
         "s3-023": "B",
@@ -1790,7 +1856,13 @@
         "pv-uer-2025-0108": "D",
         "s5-019": "A",
         "pv-ena-2025-0198": "E",
-        "pv-sp-2025-0129": "A"
+        "pv-sp-2025-0129": "A",
+        "pv-df-2024-0079": "D",
+        "s5-017": "D",
+        "s5-044": "B",
+        "pv-mg-2025-0142": "C",
+        "pv-amr-2024-0079": "C",
+        "s3-084": "C"
       },
       "timerRestante": 0
     }
