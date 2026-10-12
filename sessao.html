@@ -85,6 +85,34 @@
   .ms-item .ms-btn.danger:hover { border-color: var(--wrong); color: var(--wrong); }
   .ms-empty { padding: 14px; font-size: 0.8rem; color: var(--muted); text-align: center; }
 
+  /* Sessões prontas (montadas pelo Hermes) */
+  .prontas {
+    background: var(--card); border-radius: 14px; margin-bottom: 12px;
+    border: 1px solid rgba(124,92,252,0.25); overflow: hidden;
+  }
+  .prontas-head {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 8px;
+    padding: 12px 14px 2px; font-weight: 700; font-size: 0.9rem;
+  }
+  .prontas-head .hint { font-size: 0.68rem; color: var(--muted); font-weight: 500; }
+  .prontas-body { padding: 8px 12px 12px; display: flex; flex-direction: column; gap: 8px; }
+  .pronta-item {
+    display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    background: var(--card2); border-radius: 12px; padding: 10px 12px;
+  }
+  .pronta-item .pi-info { flex: 1; min-width: 160px; }
+  .pronta-item .pi-nome { font-weight: 700; font-size: 0.88rem; }
+  .pronta-item .pi-desc { font-size: 0.72rem; color: var(--muted); }
+  .pronta-item .pi-total {
+    font-size: 0.68rem; padding: 3px 10px; border-radius: 20px; font-weight: 600;
+    background: rgba(124,92,252,0.18); color: var(--accent2); white-space: nowrap;
+  }
+  .pronta-item .pi-btn {
+    background: linear-gradient(135deg, var(--accent), #5a3fd9); color: #fff; border: none;
+    border-radius: 9px; padding: 8px 14px; font-size: 0.78rem; font-weight: 700; cursor: pointer;
+  }
+  .pronta-item .pi-btn:active { transform: scale(0.97); }
+
   /* Resumo da sessão */
   .resumo {
     position: fixed; bottom: 0; left: 0; right: 0; z-index: 50;
@@ -196,6 +224,15 @@
     </div>
   </div>
 
+  <!-- Sessões prontas -->
+  <div class="prontas" id="prontasBox" style="display:none;">
+    <div class="prontas-head">
+      <span>⚡ Sessões prontas</span>
+      <span class="hint">montadas pelo Hermes</span>
+    </div>
+    <div class="prontas-body" id="prontasBody"></div>
+  </div>
+
   <!-- Minhas Sessões -->
   <div class="minhas-sessoes" id="minhasSessoes" style="display:none;">
     <div class="ms-header">
@@ -271,6 +308,7 @@ async function carregar() {
   }
   renderArvore();
   montarFiltros();
+  carregarProntas();
   // Abre "Minhas Sessões" se houver sessões salvas
   const sessoes = getSessoes();
   if (sessoes.length > 0) {
@@ -659,6 +697,59 @@ function retomarSessao(id) {
 function excluirSessao(id) {
   const sessoes = getSessoes().filter(s => s.id !== id);
   setSessoes(sessoes);
+}
+
+// ─── Sessões prontas (montadas pelo Hermes) ───
+let prontas = [];
+async function carregarProntas() {
+  try {
+    const r = await fetch('data/sessoes-prontas.json');
+    if (!r.ok) return;
+    prontas = await r.json();
+  } catch { prontas = []; }
+  renderProntas();
+}
+function renderProntas() {
+  const box = document.getElementById('prontasBox');
+  const body = document.getElementById('prontasBody');
+  if (!box || !body) return;
+  const lista = (prontas || []).filter(p => p && Array.isArray(p.ids) && p.ids.length > 0);
+  if (lista.length === 0) { box.style.display = 'none'; return; }
+  box.style.display = 'block';
+  body.innerHTML = lista.map(p => `
+    <div class="pronta-item">
+      <div class="pi-info">
+        <div class="pi-nome">${esc(p.emoji || '⚡')} ${esc(p.nome)}</div>
+        <div class="pi-desc">${esc(p.desc || '')}</div>
+      </div>
+      <span class="pi-total">${p.ids.length} questões</span>
+      <button class="pi-btn" onclick="iniciarSessaoPronta('${esc(p.id)}')">🚀 Iniciar</button>
+    </div>
+  `).join('');
+}
+function iniciarSessaoPronta(id) {
+  const p = (prontas || []).find(x => x.id === id);
+  if (!p || !Array.isArray(p.ids) || p.ids.length === 0) return;
+  const ids = p.ids.slice();
+  for (let i = ids.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [ids[i], ids[j]] = [ids[j], ids[i]];
+  }
+  const sessao = {
+    id: Date.now(),
+    nome: p.nome,
+    ids: ids,
+    total: ids.length,
+    criada: new Date().toISOString(),
+    status: 'em_andamento',
+    pronta: true
+  };
+  const sessoes = getSessoes();
+  sessoes.push(sessao);
+  setSessoes(sessoes);
+  localStorage.setItem('hermesmed_sessao_ids', JSON.stringify(ids));
+  localStorage.setItem('hermesmed_sessao_ativa', String(sessao.id));
+  window.location.href = 'questoes.html?modo=sessao';
 }
 
 // ─── Iniciar sessão ───
